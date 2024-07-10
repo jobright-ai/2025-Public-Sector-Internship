@@ -55,8 +55,9 @@ For a complete list, see the full spreadsheet below:
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title | Location & Work Model | Salary | Date Posted |
+| Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gothaer Group](http://www.gothaer.de)** | **[Ausbildung zum*zur Kaufmann*frau für Versicherungen und Finanzanlagen - Vertrieb - Gothaer Allgemeine Versicherung AG in Trier](https://jobright.ai/jobs/info/668e16909313d9b1a23aa65a?utm_source=1056&utm_campaign=git)** | Trier, ND | On Site | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Fall)](https://jobright.ai/jobs/info/665e4edf5f76255fe4f2c267?utm_source=1056&utm_campaign=git)** | Franklin, TN | Hybrid | Jul 09 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[HHS Health Policy and Outcomes Research Fellowship](https://jobright.ai/jobs/info/668da51a8e1596b65b33b6bc?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
 | **[The Advance Group](https://www.theadvancegrp.com/)** | **[Political Consulting Internship](https://jobright.ai/jobs/info/668d93417574eb7eb60c6a5a?utm_source=1056&utm_campaign=git)** | Bronx, NY | Hybrid | Jul 09 |
@@ -91,8 +92,8 @@ For a complete list, see the full spreadsheet below:
 | **[Colorado Judicial Learning Center](https://cjlc.colorado.gov/)** | **[Joint Budget Committee Staff Internship Program: Legislative Budget and Policy.](https://jobright.ai/jobs/info/668d2958e9464a99e8cac6db?utm_source=1056&utm_campaign=git)** | Denver, CO | On Site | Jul 05 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Community Program Coordinator](https://jobright.ai/jobs/info/6683db5c625fa30e1ace526b?utm_source=1056&utm_campaign=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | **[Exotec](https://www.exotec.com/)** | **[Votre stage 2025 chez Exotec](https://jobright.ai/jobs/info/6686eae2eb5c1e2a2d337798?utm_source=1056&utm_campaign=git)** | Atlanta, GA | On Site | Jul 04 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/668bddb862e0ee789c7845fd?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Polling and Data Analytics Intern: DC - Fall 2024](https://jobright.ai/jobs/info/668bd0551ee13446bb245d17?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 04 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/668bcc1ec0120707fc154375?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 04 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Community Aide (Explorer Apprenticeship) NCS - Baltimore City Fire Department](https://jobright.ai/jobs/info/664d31374ea023f9605d7a9d?utm_source=1056&utm_campaign=git)** | Baltimore, MD | On Site | Jul 04 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Polling and Data Analytics Intern: DC - Fall 2024](https://jobright.ai/jobs/info/6686889e9db87c158112a60a?utm_source=1056&utm_campaign=git)** | Washington, United States | Hybrid | Jul 04 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/668652923ea15b5463765ff5?utm_source=1056&utm_campaign=git)** | US-Washington DC | On Site | Jul 04 |
@@ -102,5 +103,4 @@ For a complete list, see the full spreadsheet below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6685c731cc6e528f04a0d980?utm_source=1056&utm_campaign=git)** | United States | Remote | Jul 03 |
 | **[City of Cambridge](https://www.cambridgema.gov)** | **[Participatory Budgeting Intern](https://jobright.ai/jobs/info/668591fae861c76931c96b05?utm_source=1056&utm_campaign=git)** | Cambridge, MA | On Site | Jul 03 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern - Summer Quarter](https://jobright.ai/jobs/info/668597798bf03a11b5c794f8?utm_source=1056&utm_campaign=git)** | Seattle, WA | On Site | Jul 03 |
-| **[Otterbein University](http://www.otterbein.edu/)** | **[Graduate Intern Library - Reference and Government Documents](https://jobright.ai/jobs/info/668566655afc77163088a64f?utm_source=1056&utm_campaign=git)** | Westerville, OH | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
