@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Policy and Planning.
+**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Policy and Planning.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1056&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -40,7 +40,7 @@ This job repository is your go-to resource for discovering and sharing the lates
 
 ---
 <h4>
-Only jobs posted in the last 7 days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
@@ -57,7 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gothaer Group](http://www.gothaer.de)** | **[Ausbildung zum*zur Kaufmann*frau für Versicherungen und Finanzanlagen - Vertrieb - Gothaer Allgemeine Versicherung AG in Trier](https://jobright.ai/jobs/info/668e16909313d9b1a23aa65a?utm_source=1056&utm_campaign=git)** | Trier, ND | On Site | Jul 09 |
+| **[Gothaer Group](http://www.gothaer.de)** | **[Ausbildung zum*zur Kaufmann*frau für Versicherungen und Finanzanlagen - Vertrieb - Gothaer Allgemeine Versicherung AG in Trier](https://jobright.ai/jobs/info/6677c84e64f2e472ffd6401d?utm_source=1056&utm_campaign=git)** | Trier, ND | On Site | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Fall)](https://jobright.ai/jobs/info/665e4edf5f76255fe4f2c267?utm_source=1056&utm_campaign=git)** | Franklin, TN | Hybrid | Jul 09 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[HHS Health Policy and Outcomes Research Fellowship](https://jobright.ai/jobs/info/668da51a8e1596b65b33b6bc?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
 | **[The Advance Group](https://www.theadvancegrp.com/)** | **[Political Consulting Internship](https://jobright.ai/jobs/info/668d93417574eb7eb60c6a5a?utm_source=1056&utm_campaign=git)** | Bronx, NY | Hybrid | Jul 09 |
@@ -65,8 +65,8 @@ For a complete list, see the full spreadsheet below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/6661fcb3eca34b2833349278?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 09 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Research Analyst intern with public policy education](https://jobright.ai/jobs/info/668d507738a06a8816f84717?utm_source=1056&utm_campaign=git)** | Vienna, VA | On Site | Jul 09 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Research)](https://jobright.ai/jobs/info/668cb6f5c5aa0957f9001bcd?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
-| **[National Audubon Society (USA)](http://www.audubon.org)** | **[Water Policy Fellow](https://jobright.ai/jobs/info/668df3832b910e4ba4c1099c?utm_source=1056&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 09 |
-| ↳ | **[Audubon Conservation Ranching Intern](https://jobright.ai/jobs/info/668df38e2b910e4ba4c109a5?utm_source=1056&utm_campaign=git)** | Sacramento, CA | Hybrid | Jul 09 |
+| **[National Audubon Society (USA)](http://www.audubon.org)** | **[Audubon Conservation Ranching Intern](https://jobright.ai/jobs/info/668df38e2b910e4ba4c109a5?utm_source=1056&utm_campaign=git)** | Sacramento, CA | Hybrid | Jul 09 |
+| ↳ | **[Water Policy Fellow](https://jobright.ai/jobs/info/668df3832b910e4ba4c1099c?utm_source=1056&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 09 |
 | **[Jefferson Health System](https://www.jeffersonhealth.org/index.html)** | **[Fellow Research - Center for Connected Care](https://jobright.ai/jobs/info/6683441e8264d4aa18e991af?utm_source=1056&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 08 |
 | **[Clinton County Board of Education](https://www.clinton.kyschools.us/)** | **[ACCOUNTABILITY, RESEARCH, AND SYSTEMS IMPROVEMENT - INTERN](https://jobright.ai/jobs/info/668d2929e9464a99e8cac3ec?utm_source=1056&utm_campaign=git)** | Louisville, KY | On Site | Jul 08 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_source=1056&utm_campaign=git)** | Cleveland, OH | On Site | Jul 08 |
@@ -79,8 +79,8 @@ For a complete list, see the full spreadsheet below:
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Research Compliance Clerical Support](https://jobright.ai/jobs/info/668d0eb75c1b1ddc8b19369d?utm_source=1056&utm_campaign=git)** | Syracuse, NY | On Site | Jul 08 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Aide](https://jobright.ai/jobs/info/668c18879ed01f6719df3127?utm_source=1056&utm_campaign=git)** | Columbus, OH | On Site | Jul 08 |
 | **[Strategic Energy Innovations](https://www.seiinc.org)** | **[Capitol Corridor Project Fellow](https://jobright.ai/jobs/info/6688a83e060a173f1dd64ec5?utm_source=1056&utm_campaign=git)** | Oakland, CA | On Site | Jul 08 |
+| ↳ | **[Zero Waste Outreach & Compliance Fellow](https://jobright.ai/jobs/info/6688a83e060a173f1dd64f44?utm_source=1056&utm_campaign=git)** | San Rafael, CA | On Site | Jul 08 |
 | ↳ | **[Sustainability and Community Engagement Fellow](https://jobright.ai/jobs/info/6688a83e060a173f1dd64f6d?utm_source=1056&utm_campaign=git)** | Milpitas, CA | On Site | Jul 08 |
-| ↳ | **[Zero Waste Outreach & Compliance Fellow](https://jobright.ai/jobs/info/668cd4d6620920a453da7270?utm_source=1056&utm_campaign=git)** | San Rafael, CA | On Site | Jul 08 |
 | ↳ | **[Capitol Corridor Project Fellow](https://jobright.ai/jobs/info/668be219b7b7df8c7f204972?utm_source=1056&utm_campaign=git)** | Oakland, CA | Hybrid | Jul 08 |
 | **[Alexion Pharmaceuticals](https://alexion.com)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/668c5149c30699736ae50061?utm_source=1056&utm_campaign=git)** | US - Washington - DC | On Site | Jul 08 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Mercy Serves AmeriCorps Service Member (Full Time)](https://jobright.ai/jobs/info/668ad72cdf4bb51c71704287?utm_source=1056&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 07 |
@@ -92,8 +92,8 @@ For a complete list, see the full spreadsheet below:
 | **[Colorado Judicial Learning Center](https://cjlc.colorado.gov/)** | **[Joint Budget Committee Staff Internship Program: Legislative Budget and Policy.](https://jobright.ai/jobs/info/668d2958e9464a99e8cac6db?utm_source=1056&utm_campaign=git)** | Denver, CO | On Site | Jul 05 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Community Program Coordinator](https://jobright.ai/jobs/info/6683db5c625fa30e1ace526b?utm_source=1056&utm_campaign=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | **[Exotec](https://www.exotec.com/)** | **[Votre stage 2025 chez Exotec](https://jobright.ai/jobs/info/6686eae2eb5c1e2a2d337798?utm_source=1056&utm_campaign=git)** | Atlanta, GA | On Site | Jul 04 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/668bddb862e0ee789c7845fd?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Polling and Data Analytics Intern: DC - Fall 2024](https://jobright.ai/jobs/info/668bd0551ee13446bb245d17?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 04 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/668bcc1ec0120707fc154375?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 04 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Community Aide (Explorer Apprenticeship) NCS - Baltimore City Fire Department](https://jobright.ai/jobs/info/664d31374ea023f9605d7a9d?utm_source=1056&utm_campaign=git)** | Baltimore, MD | On Site | Jul 04 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Polling and Data Analytics Intern: DC - Fall 2024](https://jobright.ai/jobs/info/6686889e9db87c158112a60a?utm_source=1056&utm_campaign=git)** | Washington, United States | Hybrid | Jul 04 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/668652923ea15b5463765ff5?utm_source=1056&utm_campaign=git)** | US-Washington DC | On Site | Jul 04 |
