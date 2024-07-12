@@ -96,8 +96,8 @@ For a complete list, see the full spreadsheet below:
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Research Compliance Clerical Support](https://jobright.ai/jobs/info/668d0eb75c1b1ddc8b19369d?utm_source=1056&utm_campaign=git)** | Syracuse, NY | On Site | Jul 08 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Aide](https://jobright.ai/jobs/info/668c18879ed01f6719df3127?utm_source=1056&utm_campaign=git)** | Columbus, OH | On Site | Jul 08 |
 | **[Strategic Energy Innovations](https://www.seiinc.org)** | **[Capitol Corridor Project Fellow](https://jobright.ai/jobs/info/6688a83e060a173f1dd64ec5?utm_source=1056&utm_campaign=git)** | Oakland, CA | On Site | Jul 08 |
+| ↳ | **[Sustainability and Community Engagement Fellow](https://jobright.ai/jobs/info/6688a83e060a173f1dd64f6d?utm_source=1056&utm_campaign=git)** | Milpitas, CA | On Site | Jul 08 |
 | ↳ | **[Zero Waste Outreach & Compliance Fellow](https://jobright.ai/jobs/info/668cd4d6620920a453da7270?utm_source=1056&utm_campaign=git)** | San Rafael, CA | On Site | Jul 08 |
-| ↳ | **[Sustainability and Community Engagement Fellow](https://jobright.ai/jobs/info/668be219b7b7df8c7f204970?utm_source=1056&utm_campaign=git)** | Milpitas, CA | On Site | Jul 08 |
 | ↳ | **[Capitol Corridor Project Fellow](https://jobright.ai/jobs/info/668be219b7b7df8c7f204972?utm_source=1056&utm_campaign=git)** | Oakland, CA | Hybrid | Jul 08 |
 | **[Alexion Pharmaceuticals](https://alexion.com)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/668c5149c30699736ae50061?utm_source=1056&utm_campaign=git)** | US - Washington - DC | On Site | Jul 08 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Mercy Serves AmeriCorps Service Member (Full Time)](https://jobright.ai/jobs/info/668ad72cdf4bb51c71704287?utm_source=1056&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 07 |
