@@ -57,10 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Arkansas](http://uark.edu)** | **[Student Government](https://jobright.ai/jobs/info/669190254c69d669ab536341?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
-| ↳ | **[Student Government II-1](https://jobright.ai/jobs/info/669190254c69d669ab536334?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
+| **[University of Arkansas](http://uark.edu)** | **[Student Government II-1](https://jobright.ai/jobs/info/669190254c69d669ab536334?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
+| ↳ | **[Student Government](https://jobright.ai/jobs/info/6691988db4b5a4f81c4998c8?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
 | ↳ | **[Student Government III-1](https://jobright.ai/jobs/info/669194d896333ec524102d9b?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669179c34c0f79ebbd88d10c?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669172602b5e177ed6cb030e?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/6691b8f0cc90539b647638c7?utm_source=1056&utm_campaign=git)** | Auburn, AL | On Site | Jul 12 |
 | **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad3e?utm_source=1056&utm_campaign=git)** | Boston, MA | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/6661fcb3eca34b2833349278?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 11 |
@@ -96,8 +96,8 @@ For a complete list, see the full spreadsheet below:
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Civil Rights Tech Internship](https://jobright.ai/jobs/info/668fdb8922cfeb6ebf476ebe?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
 | ↳ | **[Spring 2025 Undergraduate Internship](https://jobright.ai/jobs/info/668fc560faac50243ea71c2d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Research)](https://jobright.ai/jobs/info/668cb6f5c5aa0957f9001bcd?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
-| **[National Audubon Society (USA)](http://www.audubon.org)** | **[Audubon Conservation Ranching Intern](https://jobright.ai/jobs/info/668df38e2b910e4ba4c109a5?utm_source=1056&utm_campaign=git)** | Sacramento, CA | Hybrid | Jul 09 |
-| ↳ | **[Water Policy Fellow](https://jobright.ai/jobs/info/668df3832b910e4ba4c1099c?utm_source=1056&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 09 |
+| **[National Audubon Society (USA)](http://www.audubon.org)** | **[Water Policy Fellow](https://jobright.ai/jobs/info/668df3832b910e4ba4c1099c?utm_source=1056&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 09 |
+| ↳ | **[Audubon Conservation Ranching Intern](https://jobright.ai/jobs/info/668df38e2b910e4ba4c109a5?utm_source=1056&utm_campaign=git)** | Sacramento, CA | Hybrid | Jul 09 |
 | **[Clinton County Board of Education](https://www.clinton.kyschools.us/)** | **[ACCOUNTABILITY, RESEARCH, AND SYSTEMS IMPROVEMENT - INTERN](https://jobright.ai/jobs/info/668d2929e9464a99e8cac3ec?utm_source=1056&utm_campaign=git)** | Louisville, KY | On Site | Jul 08 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_source=1056&utm_campaign=git)** | Cleveland, OH | On Site | Jul 08 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[Legislative Intern](https://jobright.ai/jobs/info/668c77dbe5af25d419015a74?utm_source=1056&utm_campaign=git)** | District of Columbia, United States | On Site | Jul 08 |
@@ -109,4 +109,5 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Federal Work Study- Pediatrics Research Aid](https://jobright.ai/jobs/info/668d0ebf5c1b1ddc8b193705?utm_source=1056&utm_campaign=git)** | Syracuse, NY | On Site | Jul 08 |
 | **[Alexion Pharmaceuticals](https://alexion.com)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/668c5149c30699736ae50061?utm_source=1056&utm_campaign=git)** | US - Washington - DC | On Site | Jul 08 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Mercy Serves AmeriCorps Service Member (Full Time)](https://jobright.ai/jobs/info/668ad72cdf4bb51c71704287?utm_source=1056&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 07 |
+| **[Volunteers of America-Greater New York](https://www.voa-gny.org)** | **[Communications Intern - Education Policy Program](https://jobright.ai/jobs/info/6688ed882642e88351c6378a?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
