@@ -57,10 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Arkansas](http://uark.edu)** | **[Student Government II-1](https://jobright.ai/jobs/info/669190254c69d669ab536334?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
-| ↳ | **[Student Government](https://jobright.ai/jobs/info/6691988db4b5a4f81c4998c8?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
+| **[University of Arkansas](http://uark.edu)** | **[Student Government](https://jobright.ai/jobs/info/669190254c69d669ab536341?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
+| ↳ | **[Student Government II-1](https://jobright.ai/jobs/info/669190254c69d669ab536334?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
 | ↳ | **[Student Government III-1](https://jobright.ai/jobs/info/669194d896333ec524102d9b?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669172602b5e177ed6cb030e?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669179c34c0f79ebbd88d10c?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/6691b8f0cc90539b647638c7?utm_source=1056&utm_campaign=git)** | Auburn, AL | On Site | Jul 12 |
 | **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad3e?utm_source=1056&utm_campaign=git)** | Boston, MA | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/6661fcb3eca34b2833349278?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 11 |
 | **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/6690c8f950a8322cf99b823c?utm_source=1056&utm_campaign=git)** | United States | Remote | Jul 11 |
@@ -74,8 +75,7 @@ For a complete list, see the full spreadsheet below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Field Advocacy-Des Moines, Iowa](https://jobright.ai/jobs/info/6690d011b9480c9896c8f647?utm_source=1056&utm_campaign=git)** | West Des Moines, IA | On Site | Jul 11 |
 | **[University of North Georgia](http://ung.edu/)** | **[Administrative Student Assistant for City Clerk's Office (City of Dahlonega Municipal Government) - Federal Work Study](https://jobright.ai/jobs/info/668f41d5e74ffdb5b6261862?utm_source=1056&utm_campaign=git)** | Dahlonega, GA | Hybrid | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Fall)](https://jobright.ai/jobs/info/665e4edf5f76255fe4f2c267?utm_source=1056&utm_campaign=git)** | Franklin, TN | Hybrid | Jul 10 |
-| **[Abt Associates](http://www.abtassociates.com)** | **[Knowledge Management/Research Intern - Local Health Systems Sustainability Project](https://jobright.ai/jobs/info/668fe95a2fc5ba37662c5896?utm_source=1056&utm_campaign=git)** | Durham, NC | On Site | Jul 10 |
-| ↳ | **[Knowledge Management/Research Intern - Local Health Systems Sustainability Project](https://jobright.ai/jobs/info/668fe95a2fc5ba37662c58fd?utm_source=1056&utm_campaign=git)** | Atlanta, GA | On Site | Jul 10 |
+| **[Abt Associates](http://www.abtassociates.com)** | **[Knowledge Management/Research Intern - Local Health Systems Sustainability Project](https://jobright.ai/jobs/info/668fe95a2fc5ba37662c58fd?utm_source=1056&utm_campaign=git)** | Atlanta, GA | On Site | Jul 10 |
 | **[University of North Georgia](http://ung.edu/)** | **[Student Administrative Support (Lumpkin County Public Library) - Federal Work Study](https://jobright.ai/jobs/info/668eea4b97cc7c3025b923da?utm_source=1056&utm_campaign=git)** | Dahlonega, GA | On Site | Jul 10 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Research and Analysis on Security Council practice](https://jobright.ai/jobs/info/66900ffc4a77721ba220f1d2?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 10 |
 | **[Mercy Corps](http://www.mercycorps.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/668ff9c50f79b533b8729aa3?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 10 |
