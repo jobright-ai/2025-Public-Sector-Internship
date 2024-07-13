@@ -57,8 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Arkansas](http://uark.edu)** | **[Student Government II-1](https://jobright.ai/jobs/info/669190254c69d669ab536334?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
-| ↳ | **[Student Government](https://jobright.ai/jobs/info/6691988db4b5a4f81c4998c8?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
+| **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Postdoctoral Scholar - Public Health Sciences](https://jobright.ai/jobs/info/6691e1517ab0371a6692f7fe?utm_source=1056&utm_campaign=git)** | Hershey, PA | On Site | Jul 13 |
+| **[University of Arkansas](http://uark.edu)** | **[Student Government](https://jobright.ai/jobs/info/669190254c69d669ab536341?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
+| ↳ | **[Student Government II-1](https://jobright.ai/jobs/info/669190254c69d669ab536334?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
 | ↳ | **[Student Government III-1](https://jobright.ai/jobs/info/669194d896333ec524102d9b?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669172602b5e177ed6cb030e?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/6691b8f0cc90539b647638c7?utm_source=1056&utm_campaign=git)** | Auburn, AL | On Site | Jul 12 |
