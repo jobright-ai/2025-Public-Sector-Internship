@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHEIN Technology LLC](http://www.shein.com)** | **[Intern](https://jobright.ai/jobs/info/66972b6b06dfa812f834c500?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern, Communities and Local Government](https://jobright.ai/jobs/info/669714a442783c0a8d8596b6?utm_source=1056&utm_campaign=git)** | Albany, NY | Hybrid | Jul 17 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Strategic Research Intern, Research Department, Education Policy and Implementation Center (Fall 2024)](https://jobright.ai/jobs/info/6696a9f0d7f80cba36b698e2?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 16 |
 | **[Ohio Department of Rehabilitation and Correction](https://drc.ohio.gov/orw)** | **[Parole Officer College Intern (20101170)](https://jobright.ai/jobs/info/6696a0ea1e4c13c6a6969f76?utm_source=1056&utm_campaign=git)** | Hamilton County, OH | On Site | Jul 16 |
@@ -73,12 +74,12 @@ For a complete list, see the full spreadsheet below:
 | **[SKDKnickerbocker](http://skdknick.com)** | **[Fall Research Internship - DC](https://jobright.ai/jobs/info/669582a632c6fea23dcc5627?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 15 |
 | **[Eradicate Hate Global Summit](https://eradicatehatesummit.org/)** | **[Programs Intern and Nonprofit Management Intern](https://jobright.ai/jobs/info/669563bb7c330bc105f3cdab?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 15 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66966fe6c042ef592bddc2c0?utm_source=1056&utm_campaign=git)** | Washington, VA | Hybrid | Jul 15 |
+| **[Los Rios Community College District](http://www.losrios.edu)** | **[Campus Patrol Temporary Pool](https://jobright.ai/jobs/info/6697359855f25cd12fe91a26?utm_source=1056&utm_campaign=git)** | Sacramento, CA | On Site | Jul 15 |
 | **[Dugree](https://dugree.com)** | **[AI For Israel/Palestine (Politics Internship)](https://jobright.ai/jobs/info/669456eb10291f8ff80cc1b9?utm_source=1056&utm_campaign=git)** | New York, NY | On Site | Jul 14 |
 | ↳ | **[AI For Israel/Palestine (Politics Internship)](https://jobright.ai/jobs/info/669412e4811e16ce3fcc3cf8?utm_source=1056&utm_campaign=git)** | DC-Baltimore Area | On Site | Jul 14 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/664eb1ebcd9154b3e60135f6?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2024](https://jobright.ai/jobs/info/6622c8a801a0d9a7b3c52837?utm_source=1056&utm_campaign=git)** | Houston, TX | On Site | Jul 14 |
 | **[Hitachi Vantara](https://www.hitachivantara.com/)** | **[Intern, Federal Research Analyst](https://jobright.ai/jobs/info/669127082c5c2d72c35ace87?utm_source=1056&utm_campaign=git)** | Reston, VA | On Site | Jul 14 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[2024 School to Work - Health, Safety, and Environment - Administrative - 1st Shift](https://jobright.ai/jobs/info/6676d8324ffdc62f7b67945c?utm_source=1056&utm_campaign=git)** | Columbus, IN | Hybrid | Jul 14 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Post Undergraduate/Graduate (Year-Round) Intern - Stakeholder Engagement and Communications](https://jobright.ai/jobs/info/665ab56a7ebc9fed3966e705?utm_source=1056&utm_campaign=git)** | Golden, CO | Hybrid | Jul 13 |
 | **[WMUR 9](http://www.wmur.com/)** | **[John DiStaso Political Fellowship](https://jobright.ai/jobs/info/66548517dc70ef329d820087?utm_source=1056&utm_campaign=git)** | Manchester, NH | On Site | Jul 13 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 13 |
@@ -91,8 +92,9 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Student Government](https://jobright.ai/jobs/info/669271d553c6d92fdaad5f43?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
 | **[Agora](https://agora.unicef.org/)** | **[Internships (Support to the Executive Office), Education Cannot Wait (ECW), 6 months, NY](https://jobright.ai/jobs/info/669130a725b61d926e4b5480?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Student Government III-1](https://jobright.ai/jobs/info/669194d896333ec524102d9b?utm_source=1056&utm_campaign=git)** | Jonesboro-Paragould Area | On Site | Jul 12 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669179c34c0f79ebbd88d10c?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern: Information analysis and data visualization](https://jobright.ai/jobs/info/669172602b5e177ed6cb030e?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 12 |
 | **[National Audubon Society (USA)](http://www.audubon.org)** | **[Conservation Leadership Crew Intern](https://jobright.ai/jobs/info/6672e6dbd742a3597e9aae7f?utm_source=1056&utm_campaign=git)** | West Alton, MO | On Site | Jul 12 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/6697359d55f25cd12fe91b34?utm_source=1056&utm_campaign=git)** | Auburn, AL | On Site | Jul 12 |
 | **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad3e?utm_source=1056&utm_campaign=git)** | Boston, MA | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/6661fcb3eca34b2833349278?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 11 |
 | **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/6690c8f950a8322cf99b823c?utm_source=1056&utm_campaign=git)** | United States | Remote | Jul 11 |
@@ -111,5 +113,4 @@ For a complete list, see the full spreadsheet below:
 | **[Mercy Corps](http://www.mercycorps.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/668ff9c50f79b533b8729aa3?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 10 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Field Advocacy-Salt Lake City, UT](https://jobright.ai/jobs/info/669110351275f0d7353dcfc1?utm_source=1056&utm_campaign=git)** | Dallas, TX | On Site | Jul 10 |
 | ↳ | **[Intern, Policy Research-Remote](https://jobright.ai/jobs/info/669110351275f0d7353dcfdc?utm_source=1056&utm_campaign=git)** | Dallas, TX | On Site | Jul 10 |
-| **[American Academy of Family Physicians](https://www.fafp.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/668e81c7b860a449c6f156ec?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
