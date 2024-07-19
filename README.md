@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/6699ca05d447e7f36d24f13a?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Fall 2024)](https://jobright.ai/jobs/info/6699a64b9a33b14b40b73b38?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Health Policy Advocacy](https://jobright.ai/jobs/info/6699979c2ffed9764616e3a0?utm_source=1056&utm_campaign=git)** | DC-Baltimore Area | On Site | Jul 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Political Advocacy Intern, Center for Communications, Political Advocacy Department (Fall 2024)](https://jobright.ai/jobs/info/6699979c2ffed9764616e3a7?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
@@ -65,8 +66,9 @@ For a complete list, see the full spreadsheet below:
 | **[United States Institute of Peace](http://www.usip.org/)** | **[Research Assistant, Inclusive Peace Processes](https://jobright.ai/jobs/info/6698e9a586a1aa57ad488429?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66989436a815047e6f29cc7d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[DT Global](https://dt-global.com/)** | **[Intern, Economic Growth and Governance](https://jobright.ai/jobs/info/66988dc6c6a5e47355769d16?utm_source=1056&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 18 |
-| **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Congressional Data Internship](https://jobright.ai/jobs/info/66992456d279e8279eaaf0ae?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
-| ↳ | **[Sunwater Institute Rights and Liberties Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d3c?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | On Site | Jul 18 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Departmental Analyst 9-P11 - Behavioral Health Recruitment Internship and Loan Repayment Analyst](https://jobright.ai/jobs/info/6698aa203e064c1baa86ce5e?utm_source=1056&utm_campaign=git)** | Lansing, MI | Hybrid | Jul 18 |
+| **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Rights and Liberties Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d3c?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | On Site | Jul 18 |
+| ↳ | **[Sunwater Institute Congressional Data Internship](https://jobright.ai/jobs/info/66992456d279e8279eaaf0ae?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
 | **[National Emergency Management and Response](https://www.linkedin.com/company/82823464)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/669974efbafe4ca966734cba?utm_source=1056&utm_campaign=git)** | 7451 FM 3009, Schertz, TX 78154-3249 | On Site | Jul 18 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant: Foreign and Defense Policy Studies, Asian Studies](https://jobright.ai/jobs/info/669860d2cc1bbc4f07715473?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[United States Institute of Peace](http://www.usip.org/)** | **[Research Assistant, Inclusive Peace Processes](https://jobright.ai/jobs/info/66986aa6bdca330e79ce191d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
@@ -120,5 +122,4 @@ For a complete list, see the full spreadsheet below:
 | **[National Audubon Society (USA)](http://www.audubon.org)** | **[Conservation Leadership Crew Intern](https://jobright.ai/jobs/info/6672e6dbd742a3597e9aae7f?utm_source=1056&utm_campaign=git)** | West Alton, MO | On Site | Jul 12 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[Research Assistant I - Public Health/Health Sciences, IHP/GE](https://jobright.ai/jobs/info/6693b635a955ace455aa3c18?utm_source=1056&utm_campaign=git)** | Flint, MI | On Site | Jul 12 |
 | ↳ | **[Research Assistant I - Public Health/Health Sciences, IHP/CGS](https://jobright.ai/jobs/info/66965206b7f3928f49a21a21?utm_source=1056&utm_campaign=git)** | Flint, MI | On Site | Jul 12 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/6697359d55f25cd12fe91b34?utm_source=1056&utm_campaign=git)** | Auburn, AL | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
