@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/669ca8ea22bcb2c92f1864b3?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 20 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/669cb838deccb2a2cd8646a9?utm_source=1056&utm_campaign=git)** | New York, United States | On Site | Jul 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024: Monitoring, Evaluation, Accountability, and Learning (MEAL) Intern](https://jobright.ai/jobs/info/669b31805b2e847d8c87bc31?utm_source=1056&utm_campaign=git)** | San Diego, CA | On Site | Jul 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas AmeriCorps Data Specialist-URGENTLY HIRING](https://jobright.ai/jobs/info/669addce1ba6433041419a73?utm_source=1056&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 19 |
 | **[Research!America](http://www.researchamerica.org)** | **[Science Policy Internship (Paid Internship)](https://jobright.ai/jobs/info/669ac707c29882e9238d0404?utm_source=1056&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 19 |
@@ -84,8 +86,8 @@ For a complete list, see the full spreadsheet below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66989436a815047e6f29cc7d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[DT Global](https://dt-global.com/)** | **[Intern, Economic Growth and Governance](https://jobright.ai/jobs/info/66988dc6c6a5e47355769d16?utm_source=1056&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 18 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Departmental Analyst 9-P11 - Behavioral Health Recruitment Internship and Loan Repayment Analyst](https://jobright.ai/jobs/info/6698aa203e064c1baa86ce5e?utm_source=1056&utm_campaign=git)** | Lansing, MI | Hybrid | Jul 18 |
-| **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Congressional Data Internship](https://jobright.ai/jobs/info/66992456d279e8279eaaf0ae?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
-| ↳ | **[Sunwater Institute Rights and Liberties Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d3c?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | On Site | Jul 18 |
+| **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Rights and Liberties Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d3c?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | On Site | Jul 18 |
+| ↳ | **[Sunwater Institute Congressional Data Internship](https://jobright.ai/jobs/info/66992456d279e8279eaaf0ae?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
 | **[National Emergency Management and Response](https://www.linkedin.com/company/82823464)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/669974efbafe4ca966734cba?utm_source=1056&utm_campaign=git)** | 7451 FM 3009, Schertz, TX 78154-3249 | On Site | Jul 18 |
 | **[United States Institute of Peace](http://www.usip.org/)** | **[Research Assistant, Inclusive Peace Processes](https://jobright.ai/jobs/info/66986aa6bdca330e79ce191d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/667f80e542e63ae5af33ed89?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
@@ -119,6 +121,4 @@ For a complete list, see the full spreadsheet below:
 | **[Los Rios Community College District](http://www.losrios.edu)** | **[Campus Patrol Temporary Pool](https://jobright.ai/jobs/info/6697359855f25cd12fe91a26?utm_source=1056&utm_campaign=git)** | Sacramento, CA | On Site | Jul 15 |
 | **[VOX Global](https://voxglobal.com/)** | **[ESG & Corporate Responsibility Fall 2024 Fellow (hybrid)](https://jobright.ai/jobs/info/66956c31fd8e5a557d951e44?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 15 |
 | **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Programmes, 2024 (Washington DC)](https://jobright.ai/jobs/info/669a92b1249545754b86aea0?utm_source=1056&utm_campaign=git)** | Washington DC, United States | Hybrid | Jul 15 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/664eb1ebcd9154b3e60135f6?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 14 |
-| **[Hitachi Vantara](https://www.hitachivantara.com/)** | **[Intern, Federal Research Analyst](https://jobright.ai/jobs/info/669127082c5c2d72c35ace87?utm_source=1056&utm_campaign=git)** | Reston, VA | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
