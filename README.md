@@ -123,5 +123,4 @@ For a complete list, see the full spreadsheet below:
 | **[SKDKnickerbocker](http://skdknick.com)** | **[Fall Research Internship - DC](https://jobright.ai/jobs/info/669582a632c6fea23dcc5627?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 15 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Alternance BAC+5 - Chargé d'Affaires Publiques et Gouvernementales - F/H/D](https://jobright.ai/jobs/info/6695208dec51a3ce66f0594a?utm_source=1056&utm_campaign=git)** | Marcy, IA | On Site | Jul 15 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66966fe6c042ef592bddc2c0?utm_source=1056&utm_campaign=git)** | Washington, VA | Hybrid | Jul 15 |
-| **[Los Rios Community College District](http://www.losrios.edu)** | **[Campus Patrol Temporary Pool](https://jobright.ai/jobs/info/6697359855f25cd12fe91a26?utm_source=1056&utm_campaign=git)** | Sacramento, CA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
