@@ -57,10 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy Corps](http://www.mercycorps.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/668ff9c50f79b533b8729aa3?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 22 |
 | **[America Votes](http://www.americavotes.org)** | **[Political and Communications Internship](https://jobright.ai/jobs/info/669d81267c1373943c057d9c?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 21 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Africa](https://jobright.ai/jobs/info/669d440d94b7be8cf3829926?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 21 |
+| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Fall/Winter 2024)](https://jobright.ai/jobs/info/669e436c7102b7b2bcf2141a?utm_source=1056&utm_campaign=git)** | Washington Highlands, MD | On Site | Jul 21 |
 | **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 21 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/669ca8ea22bcb2c92f1864b3?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 20 |
 | **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad3e?utm_source=1056&utm_campaign=git)** | Boston, MA | On Site | Jul 20 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/6679bc9e4db5735ca854cf2f?utm_source=1056&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 20 |
 | **[Association of American Medical Colleges](https://www.aamc.org/)** | **[Health Care Affairs Research Fellow](https://jobright.ai/jobs/info/669d11ea571e11e63edcc854?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 20 |
@@ -91,12 +92,13 @@ For a complete list, see the full spreadsheet below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66989436a815047e6f29cc7d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[DT Global](https://dt-global.com/)** | **[Intern, Economic Growth and Governance](https://jobright.ai/jobs/info/66988dc6c6a5e47355769d16?utm_source=1056&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 18 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Departmental Analyst 9-P11 - Behavioral Health Recruitment Internship and Loan Repayment Analyst](https://jobright.ai/jobs/info/6698aa203e064c1baa86ce5e?utm_source=1056&utm_campaign=git)** | Lansing, MI | Hybrid | Jul 18 |
-| **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Congressional Data Internship](https://jobright.ai/jobs/info/66992456d279e8279eaaf0ae?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
-| ↳ | **[Sunwater Institute Rights and Liberties Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d3c?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | On Site | Jul 18 |
+| **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Rights and Liberties Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d3c?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | On Site | Jul 18 |
+| ↳ | **[Sunwater Institute Congressional Data Internship](https://jobright.ai/jobs/info/66992456d279e8279eaaf0ae?utm_source=1056&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
 | **[National Emergency Management and Response](https://www.linkedin.com/company/82823464)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/669974efbafe4ca966734cba?utm_source=1056&utm_campaign=git)** | 7451 FM 3009, Schertz, TX 78154-3249 | On Site | Jul 18 |
 | **[United States Institute of Peace](http://www.usip.org/)** | **[Research Assistant, Inclusive Peace Processes](https://jobright.ai/jobs/info/66986aa6bdca330e79ce191d?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/667f80e542e63ae5af33ed89?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[USY](http://www.usy.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6697edc46405fb4de287ffaa?utm_source=1056&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 17 |
+| **[SHEIN Technology LLC](http://www.shein.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/669e49921bef9e02d106cc0a?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
 | **[Children's Health](https://www.childrens.com/)** | **[July 2025 Administrative Fellowship](https://jobright.ai/jobs/info/6675a73e6fb7d4bb72dd6ed8?utm_source=1056&utm_campaign=git)** | Dallas, TX | On Site | Jul 17 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2024 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_source=1056&utm_campaign=git)** | Connecticut, United States | On Site | Jul 17 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66796def3f452d31d55f9bf0?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 17 |
@@ -110,8 +112,8 @@ For a complete list, see the full spreadsheet below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/6696a63041da9c48bd6c665c?utm_source=1056&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 16 |
 | ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140ada?utm_source=1056&utm_campaign=git)** | Dallas, TX | On Site | Jul 16 |
 | ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140abf?utm_source=1056&utm_campaign=git)** | Charlotte, NC | On Site | Jul 16 |
-| ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140af8?utm_source=1056&utm_campaign=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140ad9?utm_source=1056&utm_campaign=git)** | Boston, MA | On Site | Jul 16 |
+| ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140af8?utm_source=1056&utm_campaign=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140b41?utm_source=1056&utm_campaign=git)** | Atlanta, GA | On Site | Jul 16 |
 | ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140b17?utm_source=1056&utm_campaign=git)** | Chicago, IL | On Site | Jul 16 |
 | ↳ | **[2025 Commercial Banking Summer Internship - Early Careers](https://jobright.ai/jobs/info/669647826eb71b21fb140b63?utm_source=1056&utm_campaign=git)** | Chandler, AZ | On Site | Jul 16 |
@@ -121,6 +123,4 @@ For a complete list, see the full spreadsheet below:
 | **[Barnes & Thornburg](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/6695b0bba8378444645391b6?utm_source=1056&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 15 |
 | **[RTI International](http://www.rti.org)** | **[Public Health/Public Safety Research Internship](https://jobright.ai/jobs/info/66959b8fa70b2fb207aed7ec?utm_source=1056&utm_campaign=git)** | Dallas, TX | On Site | Jul 15 |
 | **[SKDKnickerbocker](http://skdknick.com)** | **[Fall Research Internship - DC](https://jobright.ai/jobs/info/669582a632c6fea23dcc5627?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 15 |
-| **[bioMérieux](https://www.biomerieux.com)** | **[Alternance BAC+5 - Chargé d'Affaires Publiques et Gouvernementales - F/H/D](https://jobright.ai/jobs/info/6695208dec51a3ce66f0594a?utm_source=1056&utm_campaign=git)** | Marcy, IA | On Site | Jul 15 |
-| **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66966fe6c042ef592bddc2c0?utm_source=1056&utm_campaign=git)** | Washington, VA | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
