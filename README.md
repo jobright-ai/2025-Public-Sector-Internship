@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Community Energy Fellowship Program](https://jobright.ai/jobs/info/669e5e1d76c6144940234968?utm_source=1056&utm_campaign=git)** | DC-Baltimore Area | On Site | Jul 22 |
 | **[Mercy Corps](http://www.mercycorps.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/668ff9c50f79b533b8729aa3?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 22 |
 | **[America Votes](http://www.americavotes.org)** | **[Political and Communications Internship](https://jobright.ai/jobs/info/669d81267c1373943c057d9c?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 21 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Africa](https://jobright.ai/jobs/info/669d440d94b7be8cf3829926?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 21 |
