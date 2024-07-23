@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/669fa731ea48813283fdf1e3?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 23 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/669ece5070bef644cfa14f57?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 22 |
 | **[YMCA of San Francisco](https://www.ymcasf.org/)** | **[YEF Community Funder](https://jobright.ai/jobs/info/6690931f8d6939edee8a7884?utm_source=1056&utm_campaign=git)** | San Francisco, CA | On Site | Jul 22 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Community Energy Fellowship Program](https://jobright.ai/jobs/info/669e5e1d76c6144940234968?utm_source=1056&utm_campaign=git)** | DC-Baltimore Area | On Site | Jul 22 |
