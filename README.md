@@ -57,15 +57,16 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Undergraduate Research Intern - Cancer Research Center for Health Equity - Quit Alliance Team (Paid, Per Diem, On-Site)](https://jobright.ai/jobs/info/66a0516082dde0352ff412fc?utm_source=1056&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Regional Transportation District](https://www.rtd-denver.com)** | **[Intern - Civil Rights](https://jobright.ai/jobs/info/66a042d6419140b73defa4b9?utm_source=1056&utm_campaign=git)** | Denver, CO | On Site | Jul 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern - Summer Quarter](https://jobright.ai/jobs/info/668597798bf03a11b5c794f8?utm_source=1056&utm_campaign=git)** | Seattle, WA | On Site | Jul 23 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/669ff393084bc2fa31e1a601?utm_source=1056&utm_campaign=git)** | New York, United States | On Site | Jul 23 |
-| ↳ | **[Intern – Public Information: Communications & Journalism](https://jobright.ai/jobs/info/66a00ae0c9e198ff4fdf807e?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 23 |
-| ↳ | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4dc5d74e6023f80c065?utm_source=1056&utm_campaign=git)** | New York, United States | On Site | Jul 23 |
+| ↳ | **[Intern – Public Information: Communications & Journalism](https://jobright.ai/jobs/info/66a00ad0c9e198ff4fdf7f08?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 23 |
+| ↳ | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4d05d74e6023f80bf36?utm_source=1056&utm_campaign=git)** | New York, United States | On Site | Jul 23 |
 | ↳ | **[Data and M&E Intern: Supporting initiatives for Monitoring & Evaluation, generation of global data on PBF results and programmatic overview for the Peacebuilding Fund](https://jobright.ai/jobs/info/669ff39c084bc2fa31e1a68e?utm_source=1056&utm_campaign=git)** | New York, United States | On Site | Jul 23 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Fellow](https://jobright.ai/jobs/info/669fde0c1c33ed13e04719af?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 23 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[Fall Intern](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f969?utm_source=1056&utm_campaign=git)** | Eagan, MN | On Site | Jul 23 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/669fa731ea48813283fdf1e3?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 23 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/669fc955fa502da7578650c7?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 23 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/669ece5070bef644cfa14f57?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 22 |
 | **[YMCA of San Francisco](https://www.ymcasf.org/)** | **[YEF Community Funder](https://jobright.ai/jobs/info/6690931f8d6939edee8a7884?utm_source=1056&utm_campaign=git)** | San Francisco, CA | On Site | Jul 22 |
 | **[Center for Strategic and International Studies](https://www.csis.org)** | **[Intern - Project on Prosperity and Development (Fall 2024)](https://jobright.ai/jobs/info/669fe59c765536cb608968d2?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 22 |
