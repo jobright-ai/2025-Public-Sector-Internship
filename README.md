@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Maryland](https://jobapscloud.com/MD/)** | **[Graduate Student/Law Student Internship STUDENT TECHNICAL ASSISTANT-Policy Team](https://jobright.ai/jobs/info/66a20a59d9b540dba31233d1?utm_source=1056&utm_campaign=git)** | Maryland, United States | On Site | Jul 25 |
+| ↳ | **[Public Health Workforce Development Internship Program - Fall '24 Multiple Openings](https://jobright.ai/jobs/info/66a20a59d9b540dba31233c9?utm_source=1056&utm_campaign=git)** | Maryland, United States | On Site | Jul 25 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024: Monitoring, Evaluation, Accountability, and Learning (MEAL) Intern](https://jobright.ai/jobs/info/669b31805b2e847d8c87bc31?utm_source=1056&utm_campaign=git)** | San Diego, CA | On Site | Jul 25 |
 | **[American University](http://american.edu)** | **[SPA/Government Staff Assistant (Student)](https://jobright.ai/jobs/info/66a1afcf099e1efc505304cf?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66a1940e7c2a83b26eb62185?utm_source=1056&utm_campaign=git)** | Houston, TX | On Site | Jul 24 |
 | **[Patient-Centered Outcomes Research Institute](http://pcori.org)** | **[Fall Intern - Public Policy & Government Relations](https://jobright.ai/jobs/info/66a18ae4886017c169bb00d8?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
@@ -65,7 +68,6 @@ For a complete list, see the full spreadsheet below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/66a16b495533323038bf97a9?utm_source=1056&utm_campaign=git)** | United States | Remote | Jul 24 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[2024 Fall Internships](https://jobright.ai/jobs/info/66a16654f0a8c0435deb188b?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66a1625cac2138bd92a94cf1?utm_source=1056&utm_campaign=git)** | New York, NY | Hybrid | Jul 24 |
-| **[314 Action](http://314action.org)** | **[Fall Political & Development Intern](https://jobright.ai/jobs/info/66a15b6b85a92c36a39a2b4d?utm_source=1056&utm_campaign=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[UN Political and Peacebuilding Affairs (DPPA)](https://dppa.un.org/en)** | **[Peacebuilding Fund Data and M&E intern](https://jobright.ai/jobs/info/66a148e753ccbd09bfe38035?utm_source=1056&utm_campaign=git)** | New York, NY | On Site | Jul 24 |
 | **[Plan International USA](https://www.planusa.org/)** | **[MFAN Policy & Communications Intern](https://jobright.ai/jobs/info/66a1436f59051cfbf53a7da1?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Public Information Intern: assist the program with research, content writing and event production](https://jobright.ai/jobs/info/66a158172df1304dfae5db90?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 24 |
@@ -95,7 +97,6 @@ For a complete list, see the full spreadsheet below:
 | **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 21 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/6679bc9e4db5735ca854cf2f?utm_source=1056&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 20 |
 | **[Association of American Medical Colleges](https://www.aamc.org/)** | **[Health Care Affairs Research Fellow](https://jobright.ai/jobs/info/669d11ea571e11e63edcc854?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024: Monitoring, Evaluation, Accountability, and Learning (MEAL) Intern](https://jobright.ai/jobs/info/669b31805b2e847d8c87bc31?utm_source=1056&utm_campaign=git)** | San Diego, CA | On Site | Jul 20 |
 | **[Research!America](http://www.researchamerica.org)** | **[Science Policy Internship (Paid Internship)](https://jobright.ai/jobs/info/669ac707c29882e9238d0404?utm_source=1056&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 19 |
 | **[EducoHire](www.educohire.com)** | **[Looking for Research Assistant, Inclusive Peace Processes in Washington](https://jobright.ai/jobs/info/669a7c16e97f34632044e001?utm_source=1056&utm_campaign=git)** | Washington, IA | On Site | Jul 19 |
 | **[Bbyo](https://www.bbyo.org)** | **[Movement Experiences International Convention Intern](https://jobright.ai/jobs/info/669d06078b644bfcaf127ce0?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 19 |
@@ -116,5 +117,4 @@ For a complete list, see the full spreadsheet below:
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Research intern with public policy education](https://jobright.ai/jobs/info/66999303eaece15dc98ab9fe?utm_source=1056&utm_campaign=git)** | Vienna, VA | On Site | Jul 18 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Research Associate I (Open to Internal Candidates Only)](https://jobright.ai/jobs/info/66997ee061ed54c480cf985f?utm_source=1056&utm_campaign=git)** | Durham, NH | On Site | Jul 18 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant: Foreign and Defense Policy Studies, Asian Studies](https://jobright.ai/jobs/info/669a71469819bc20e390dd86?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
-| **[United States Institute of Peace](http://www.usip.org/)** | **[Research Assistant, Inclusive Peace Processes](https://jobright.ai/jobs/info/6698e9a586a1aa57ad488429?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
