@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6685c731cc6e528f04a0d980?utm_source=1056&utm_campaign=git)** | United States | Remote | Jul 25 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Graduate Student/Law Student Internship STUDENT TECHNICAL ASSISTANT-Policy Team](https://jobright.ai/jobs/info/66a20a59d9b540dba31233d1?utm_source=1056&utm_campaign=git)** | Maryland, United States | On Site | Jul 25 |
 | ↳ | **[Public Health Workforce Development Internship Program - Fall '24 Multiple Openings](https://jobright.ai/jobs/info/66a20a59d9b540dba31233c9?utm_source=1056&utm_campaign=git)** | Maryland, United States | On Site | Jul 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024: Monitoring, Evaluation, Accountability, and Learning (MEAL) Intern](https://jobright.ai/jobs/info/669b31805b2e847d8c87bc31?utm_source=1056&utm_campaign=git)** | San Diego, CA | On Site | Jul 25 |
@@ -70,7 +71,7 @@ For a complete list, see the full spreadsheet below:
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66a1625cac2138bd92a94cf1?utm_source=1056&utm_campaign=git)** | New York, NY | Hybrid | Jul 24 |
 | **[UN Political and Peacebuilding Affairs (DPPA)](https://dppa.un.org/en)** | **[Peacebuilding Fund Data and M&E intern](https://jobright.ai/jobs/info/66a148e753ccbd09bfe38035?utm_source=1056&utm_campaign=git)** | New York, NY | On Site | Jul 24 |
 | **[Plan International USA](https://www.planusa.org/)** | **[MFAN Policy & Communications Intern](https://jobright.ai/jobs/info/66a1436f59051cfbf53a7da1?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Public Information Intern: assist the program with research, content writing and event production](https://jobright.ai/jobs/info/66a158172df1304dfae5db90?utm_source=1056&utm_campaign=git)** | New York, United States | Hybrid | Jul 24 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern - Summer Quarter](https://jobright.ai/jobs/info/66a24257e1424323d8452ebd?utm_source=1056&utm_campaign=git)** | Seattle, WA | On Site | Jul 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/66a0ee4fb3fb11bcb3dad4aa?utm_source=1056&utm_campaign=git)** | Tahlequah, OK | On Site | Jul 24 |
 | **[Planned Parenthood of Greater Ohio](http://www.plannedparenthood.org/greater-ohio/)** | **[Raiz Organizing Fellow](https://jobright.ai/jobs/info/66674fbc8cfce19f3c57e3b0?utm_source=1056&utm_campaign=git)** | Cleveland, OH | On Site | Jul 24 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/66842fc9fb29648f2cae3623?utm_source=1056&utm_campaign=git)** | Washington, United States | On Site | Jul 24 |
@@ -116,5 +117,4 @@ For a complete list, see the full spreadsheet below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Political Advocacy Intern, Center for Communications, Political Advocacy Department (Fall 2024)](https://jobright.ai/jobs/info/6699979c2ffed9764616e3a7?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Research intern with public policy education](https://jobright.ai/jobs/info/66999303eaece15dc98ab9fe?utm_source=1056&utm_campaign=git)** | Vienna, VA | On Site | Jul 18 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Research Associate I (Open to Internal Candidates Only)](https://jobright.ai/jobs/info/66997ee061ed54c480cf985f?utm_source=1056&utm_campaign=git)** | Durham, NH | On Site | Jul 18 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant: Foreign and Defense Policy Studies, Asian Studies](https://jobright.ai/jobs/info/669a71469819bc20e390dd86?utm_source=1056&utm_campaign=git)** | Washington, DC | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
