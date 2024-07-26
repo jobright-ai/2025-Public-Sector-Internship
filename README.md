@@ -106,5 +106,4 @@ For a complete list, see the full spreadsheet below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/6679bc9e4db5735ca854cf2f?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Jul 20 |
 | **[Association of American Medical Colleges](https://www.aamc.org/)** | **[Health Care Affairs Research Fellow](https://jobright.ai/jobs/info/669d11ea571e11e63edcc854?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 20 |
 | **[Research!America](http://www.researchamerica.org)** | **[Science Policy Internship (Paid Internship)](https://jobright.ai/jobs/info/669ac707c29882e9238d0404?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jul 19 |
-| **[EducoHire](www.educohire.com)** | **[Looking for Research Assistant, Inclusive Peace Processes in Washington](https://jobright.ai/jobs/info/669a7c16e97f34632044e001?utm_campaign=1056&utm_source=git)** | Washington, IA | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
