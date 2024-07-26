@@ -57,7 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern - Summer Quarter](https://jobright.ai/jobs/info/66a3231bd9234b4ce32f5d29?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
+| **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66a3442332bfe5404cebe32a?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Jul 26 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Research Assistant (Job ID: 2024-3495)](https://jobright.ai/jobs/info/66a31117a876354708d31d57?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66a2d3ee3e23e8ca995ff3cf?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 25 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a2cfdb11da4cbed19748cb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
@@ -91,7 +91,7 @@ For a complete list, see the full spreadsheet below:
 | **[Regional Transportation District](https://www.rtd-denver.com)** | **[Intern - Civil Rights](https://jobright.ai/jobs/info/66a1490953ccbd09bfe383b3?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jul 23 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/669fde0c1c33ed13e04719af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern – Public Information: Communications & Journalism](https://jobright.ai/jobs/info/66a00ae0c9e198ff4fdf807e?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 23 |
-| ↳ | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4d05d74e6023f80bf36?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
+| ↳ | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4dc5d74e6023f80c066?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[Fall Intern](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f969?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Jul 23 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Communications Officer, Tahlequah Campus](https://jobright.ai/jobs/info/669fc955fa502da7578650c7?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Jul 23 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/669ece5070bef644cfa14f57?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 22 |
