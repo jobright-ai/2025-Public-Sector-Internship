@@ -58,13 +58,12 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Matching Grant Intern](https://jobright.ai/jobs/info/66a0791df493ff248a603279?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jul 27 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a476c353d74698848a9af2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a4c93adf39303814b01168?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a4172be30efe1dc24e6999?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[Israel Program Research Internship FALL 2024](https://jobright.ai/jobs/info/66a40db8dfc0dce26146204e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[Military & Political Power Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaa1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[Economic & Financial Power Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[International Organizations Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Administrator / project coordinator](https://jobright.ai/jobs/info/66a3f4b65fcbfa8457ce102d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Regional Transportation District](https://www.rtd-denver.com)** | **[Intern - Civil Rights](https://jobright.ai/jobs/info/66a1490953ccbd09bfe383b3?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jul 26 |
 | **[Aspen-HP Digital Equity Accelerator](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Endowed Fellow](https://jobright.ai/jobs/info/66a3e831b020465e7d35c909?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
 | **[New England Board of Higher Education](https://nebhe.org)** | **[Student Intern](https://jobright.ai/jobs/info/66a3d2d0d7fee676c840448f?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 26 |
@@ -109,5 +108,4 @@ For a complete list, see the full spreadsheet below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Community Energy Fellowship Program](https://jobright.ai/jobs/info/669e5e1d76c6144940234968?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Jul 22 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Africa](https://jobright.ai/jobs/info/669d440d94b7be8cf3829926?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[America Votes](http://www.americavotes.org)** | **[Political and Communications Internship](https://jobright.ai/jobs/info/669d81267c1373943c057d9c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
-| **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
