@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[bioMérieux](https://www.biomerieux.com)** | **[Alternance BAC+5 - Chargé d'Affaires Publiques et Gouvernementales - F/H/D](https://jobright.ai/jobs/info/6695208dec51a3ce66f0594a?utm_campaign=1056&utm_source=git)** | Marcy, IA | Hybrid | Jul 28 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a676dadbe10ae90c58c79d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Matching Grant Intern](https://jobright.ai/jobs/info/66a0791df493ff248a603279?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jul 27 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a4c93adf39303814b01168?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a4172be30efe1dc24e6999?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
@@ -75,6 +77,7 @@ For a complete list, see the full spreadsheet below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66a2d3ee3e23e8ca995ff3cf?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 25 |
 | **[Akin Gump](https://www.akingump.com/)** | **[Practice Management Intern (Public Law & Policy)](https://jobright.ai/jobs/info/66a2aa2a022211b3c86215f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/66a292e9dce5676bbecdffa9?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jul 25 |
+| **[Plan International USA](https://www.planusa.org/)** | **[MFAN Policy & Communications Intern](https://jobright.ai/jobs/info/66a670dd71fb45d0beb03c8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Economic Innovation Group](http://eig.org/)** | **[Economic Research and Policy Internship](https://jobright.ai/jobs/info/66a26f0e4a58115fdebd6540?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66a2560381ad172a37854812?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6685c731cc6e528f04a0d980?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 25 |
@@ -100,13 +103,12 @@ For a complete list, see the full spreadsheet below:
 | **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad3e?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 23 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/669fde0c1c33ed13e04719af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[S.C. Department of Commerce](https://www.sccommerce.com)** | **[Economic Research and Data Analytics Intern](https://jobright.ai/jobs/info/66a3efaa87fb29a0df3197f5?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Jul 23 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4dc5d74e6023f80c065?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern – Public Information: Communications & Journalism](https://jobright.ai/jobs/info/66a67382409aab35968f818a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
+| ↳ | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4d05d74e6023f80bf36?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[Fall Intern](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f969?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Jul 23 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/669ece5070bef644cfa14f57?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 22 |
 | **[YMCA of San Francisco](https://www.ymcasf.org/)** | **[YEF Community Funder](https://jobright.ai/jobs/info/6690931f8d6939edee8a7884?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 22 |
 | **[Center for Strategic and International Studies](https://www.csis.org)** | **[Intern - Project on Prosperity and Development (Fall 2024)](https://jobright.ai/jobs/info/669fe59c765536cb608968d2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[Conservation Legacy](http://www.conservationlegacy.org)** | **[Public Affairs and Partnerships Resource Assistant](https://jobright.ai/jobs/info/669fe59c765536cb608968cd?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jul 22 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Community Energy Fellowship Program](https://jobright.ai/jobs/info/669e5e1d76c6144940234968?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Jul 22 |
-| **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Africa](https://jobright.ai/jobs/info/669d440d94b7be8cf3829926?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
-| **[America Votes](http://www.americavotes.org)** | **[Political and Communications Internship](https://jobright.ai/jobs/info/669d81267c1373943c057d9c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
