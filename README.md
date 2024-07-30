@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a8580f5bf16650a6a3b46b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/66a82d43ad54f2c437df407b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66a7ffc54ee388451baec0ae?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jul 29 |
 | **[National Small Business Association](https://nsba.biz)** | **[Government Affairs Intern Position – Summer/Fall 2024](https://jobright.ai/jobs/info/66a7ffc54ee388451baec107?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 29 |
@@ -64,7 +65,6 @@ For a complete list, see the full spreadsheet below:
 | **[Sandag](http://sandag.org)** | **[Grants Intern](https://jobright.ai/jobs/info/66a7cee7835447b1a96ff2ab?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jul 29 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Alternance BAC+5 - Chargé d'Affaires Publiques et Gouvernementales - F/H/D](https://jobright.ai/jobs/info/6695208dec51a3ce66f0594a?utm_campaign=1056&utm_source=git)** | Marcy, IA | Hybrid | Jul 28 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Matching Grant Intern](https://jobright.ai/jobs/info/66a0791df493ff248a603279?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jul 27 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a476c353d74698848a9af2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[Israel Program Research Internship FALL 2024](https://jobright.ai/jobs/info/66a40db8dfc0dce26146204e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[Military & Political Power Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaa1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | ↳ | **[Economic & Financial Power Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
@@ -101,9 +101,8 @@ For a complete list, see the full spreadsheet below:
 | **[UFC](http://UFC.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66678934e09aacdea951c8c5?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jul 24 |
 | **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Research Intern - Cancer Research Center Health Equity - Haile Lab (Paid, On-Site)](https://jobright.ai/jobs/info/66a065c40e159f780df6511c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Undergraduate Research Intern - Cancer Research Center for Health Equity - Quit Alliance Team (Paid, Per Diem, On-Site)](https://jobright.ai/jobs/info/66a0516082dde0352ff412fc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Fall 2024](https://jobright.ai/jobs/info/668b2bc2f0119e53a8f6ad3e?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 23 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/669fde0c1c33ed13e04719af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[S.C. Department of Commerce](https://www.sccommerce.com)** | **[Economic Research and Data Analytics Intern](https://jobright.ai/jobs/info/66a3efaa87fb29a0df3197f5?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Jul 23 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4d05d74e6023f80bf36?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4dc5d74e6023f80c065?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[Fall Intern](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f969?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
