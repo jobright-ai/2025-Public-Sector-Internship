@@ -57,10 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66a2d3ee3e23e8ca995ff3cf?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 30 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a861eca49b50bc483f1d9c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66a8580f5bf16650a6a3b46b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66a87af6e25bf4e73e59170a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 30 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/66a82d43ad54f2c437df407b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
+| **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/668c6182980e9b9331fff25d?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Jul 29 |
 | **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66a7ffc54ee388451baec0ae?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jul 29 |
 | **[National Small Business Association](https://nsba.biz)** | **[Government Affairs Intern Position – Summer/Fall 2024](https://jobright.ai/jobs/info/66a7ffc54ee388451baec107?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 29 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Student Government Office Assistant](https://jobright.ai/jobs/info/66a7ffc54ee388451baec14a?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 29 |
@@ -104,6 +105,6 @@ For a complete list, see the full spreadsheet below:
 | **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Undergraduate Research Intern - Cancer Research Center for Health Equity - Quit Alliance Team (Paid, Per Diem, On-Site)](https://jobright.ai/jobs/info/66a0516082dde0352ff412fc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/669fde0c1c33ed13e04719af?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[S.C. Department of Commerce](https://www.sccommerce.com)** | **[Economic Research and Data Analytics Intern](https://jobright.ai/jobs/info/66a3efaa87fb29a0df3197f5?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Jul 23 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4d05d74e6023f80bf36?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Information](https://jobright.ai/jobs/info/669fe4dc5d74e6023f80c066?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[Fall Intern](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f969?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
