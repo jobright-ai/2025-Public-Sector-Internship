@@ -57,6 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MNRAAA](https://mnraaa.org)** | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab5b0d932f26168d043fee?utm_campaign=1056&utm_source=git)** | Madison, MN | Hybrid | Aug 01 |
+| ↳ | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab5b17932f26168d0440eb?utm_campaign=1056&utm_source=git)** | Montevideo, MN | Hybrid | Aug 01 |
+| ↳ | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab5b17932f26168d0440ec?utm_campaign=1056&utm_source=git)** | Benson, MN | Hybrid | Aug 01 |
+| ↳ | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab5b17932f26168d0440ed?utm_campaign=1056&utm_source=git)** | Ortonville, MN | Hybrid | Aug 01 |
+| ↳ | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab66b1146f665898c65678?utm_campaign=1056&utm_source=git)** | Canby, MN | Hybrid | Aug 01 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66ab39ce0b23d98e35ff5a4d?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 01 |
 | **[Pierce Transit](http://www.piercetransit.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/66aaf1149caad67c14dcb4e2?utm_campaign=1056&utm_source=git)** | Lakewood, WA | On Site | Aug 01 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66aae5c536c29c9e624145a3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
@@ -79,12 +84,11 @@ For a complete list, see the full spreadsheet below:
 | **[Houston-Galveston Area Council](https://h-gac.com)** | **[Intern - Livable Centers](https://jobright.ai/jobs/info/66a90694392071ad5a8f055a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Civil Rights Tech Internship](https://jobright.ai/jobs/info/668fdb8922cfeb6ebf476ebe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jul 30 |
+| **[Sandag](http://sandag.org)** | **[Grants Intern](https://jobright.ai/jobs/info/66ab6ddfeda3572d163ff82a?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Undergraduate Internship](https://jobright.ai/jobs/info/668fc560faac50243ea71c2d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66a2d3ee3e23e8ca995ff3cf?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 30 |
-| **[Loyola University Chicago](http://LUC.edu)** | **[Post-Doctoral Research](https://jobright.ai/jobs/info/66a973d145a3934f8fb80f7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/66a82d43ad54f2c437df407b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/668c6182980e9b9331fff25d?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Jul 29 |
-| **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66a7ffc54ee388451baec0ae?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jul 29 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Student Government Office Assistant](https://jobright.ai/jobs/info/66a7ffc54ee388451baec14a?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 29 |
 | **[Center for Strategic and International Studies](https://www.csis.org)** | **[Intern - Japan Chair (Fall 2024)](https://jobright.ai/jobs/info/66aa7b9633abc8c72ba2ffd3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Matching Grant Intern](https://jobright.ai/jobs/info/66a0791df493ff248a603279?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jul 27 |
@@ -100,7 +104,6 @@ For a complete list, see the full spreadsheet below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Research Assistant (Job ID: 2024-3495)](https://jobright.ai/jobs/info/66a31117a876354708d31d57?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
 | **[Center for Strategic and International Studies](https://www.csis.org)** | **[Intern - Freeman Chair in China Studies (Fall 2024)](https://jobright.ai/jobs/info/66a3c9df55a005da42ef5353?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[Akin Gump](https://www.akingump.com/)** | **[Practice Management Intern (Public Law & Policy)](https://jobright.ai/jobs/info/66a2aa2a022211b3c86215f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
-| **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/66a292e9dce5676bbecdffa9?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jul 25 |
 | **[Plan International USA](https://www.planusa.org/)** | **[MFAN Policy & Communications Intern](https://jobright.ai/jobs/info/66a670dd71fb45d0beb03c8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Economic Innovation Group](http://eig.org/)** | **[Economic Research and Policy Internship](https://jobright.ai/jobs/info/66a26f0e4a58115fdebd6540?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
