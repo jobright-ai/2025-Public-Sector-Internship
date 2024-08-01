@@ -57,7 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66aacd7b7f2a406d0cd154ea?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
+| **[Pierce Transit](http://www.piercetransit.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/66aaf1149caad67c14dcb4e2?utm_campaign=1056&utm_source=git)** | Lakewood, WA | On Site | Aug 01 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66aae5c536c29c9e624145a3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
+| ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66aacd7b7f2a406d0cd154ea?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[Eradicate Hate Global Summit](https://eradicatehatesummit.org/)** | **[Programs Intern and Nonprofit Management Intern](https://jobright.ai/jobs/info/66aab5886bc88b69b4ae1531?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[GHRC-Guatemala Human Rights Commission/USA](https://www.ghrc-usa.org/about/)** | **[Fall Intern](https://jobright.ai/jobs/info/66aa9bd22bcc3a8074e43f35?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66aa4209f342ba64c8e949b9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -68,15 +70,14 @@ For a complete list, see the full spreadsheet below:
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66a98f78f0447cef8d735a21?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 31 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Human Services Intern](https://jobright.ai/jobs/info/66aab5ac6bc88b69b4ae18a2?utm_campaign=1056&utm_source=git)** | Greensburg, PA | On Site | Jul 31 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Civic Engagement Intern](https://jobright.ai/jobs/info/66aa8556405d23a59bc7ab80?utm_campaign=1056&utm_source=git)** | Columbus, Ohio, United States | On Site | Jul 31 |
+| **[EVITARUS](www.evitarus.com)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/66aaf1269caad67c14dcb6c3?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Alternance BAC+5 - Chargé d'Affaires Publiques et Gouvernementales - F/H/D](https://jobright.ai/jobs/info/6695208dec51a3ce66f0594a?utm_campaign=1056&utm_source=git)** | Marcy, IA | Hybrid | Jul 30 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[BBQ Austin Internship](https://jobright.ai/jobs/info/66a945dd2b0527d2e164b57f?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jul 30 |
-| **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66a2560381ad172a37854812?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Chuck Cooper Fellowship](https://jobright.ai/jobs/info/66a90fdb69673bc03b941b86?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 30 |
 | **[Houston-Galveston Area Council](https://h-gac.com)** | **[Intern - Livable Centers](https://jobright.ai/jobs/info/66a90694392071ad5a8f055a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 30 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Civil Rights Tech Internship](https://jobright.ai/jobs/info/668fdb8922cfeb6ebf476ebe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jul 30 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Undergraduate Internship](https://jobright.ai/jobs/info/668fc560faac50243ea71c2d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Human Services Intern](https://jobright.ai/jobs/info/66a9e09739b6e4b927eae2ca?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jul 30 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66a87af6e25bf4e73e59170a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 30 |
 | **[Loyola University Chicago](http://LUC.edu)** | **[Post-Doctoral Research](https://jobright.ai/jobs/info/66a973d145a3934f8fb80f7d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/66a82d43ad54f2c437df407b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
@@ -103,5 +104,4 @@ For a complete list, see the full spreadsheet below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6685c731cc6e528f04a0d980?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 25 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Graduate Student/Law Student Internship STUDENT TECHNICAL ASSISTANT-Policy Team](https://jobright.ai/jobs/info/66a20a59d9b540dba31233d1?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 25 |
 | ↳ | **[Public Health Workforce Development Internship Program - Fall '24 Multiple Openings](https://jobright.ai/jobs/info/66a20a59d9b540dba31233c9?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Jul 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024: Monitoring, Evaluation, Accountability, and Learning (MEAL) Intern](https://jobright.ai/jobs/info/669b31805b2e847d8c87bc31?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
