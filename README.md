@@ -57,7 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Quincy Institute](https://quincyinst.org/)** | **[Eurasia Program Research Intern](https://jobright.ai/jobs/info/66ac33c3414832d2a7ec69af?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Research Intern](https://jobright.ai/jobs/info/66ac3b513aec4dbfb0cb2bfe?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
+| ↳ | **[Eurasia Program Research Intern](https://jobright.ai/jobs/info/66ac33c3414832d2a7ec69af?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Brownfield Assessment & Redevelopment](https://jobright.ai/jobs/info/66ac40b55203b4ac1959eff9?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Aug 01 |
 | **[Merchant McIntyre & Associates, LLC](http://www.merchantmcintyre.com)** | **[Fall 2024 Government Relations Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fd2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Northern Latin America](https://jobright.ai/jobs/info/66ac1715d38694918881f6aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66abf2ccff1a1dde68679261?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
