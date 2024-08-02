@@ -57,12 +57,14 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad648?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Research Intern](https://jobright.ai/jobs/info/66ac3b513aec4dbfb0cb2bfe?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 | ↳ | **[Eurasia Program Research Intern](https://jobright.ai/jobs/info/66ac33c3414832d2a7ec69af?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Brownfield Assessment & Redevelopment](https://jobright.ai/jobs/info/66ac40b55203b4ac1959eff9?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Aug 01 |
 | **[Merchant McIntyre & Associates, LLC](http://www.merchantmcintyre.com)** | **[Fall 2024 Government Relations Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fd2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Northern Latin America](https://jobright.ai/jobs/info/66ac1715d38694918881f6aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
+| **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern - Ohio State Highway Patrol Planning, Research and Development](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad5d5?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66abf2ccff1a1dde68679261?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Local Government Audit Intern, West - Summer 2025](https://jobright.ai/jobs/info/66abff4599497e733a8fd86c?utm_campaign=1056&utm_source=git)** | Tennessee, United States | On Site | Aug 01 |
 | ↳ | **[Local Government Audit Intern, Mideast - Summer 2025](https://jobright.ai/jobs/info/66abf2d4ff1a1dde6867935c?utm_campaign=1056&utm_source=git)** | Pittsburgh Region | On Site | Aug 01 |
@@ -74,9 +76,6 @@ For a complete list, see the full spreadsheet below:
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Access Campaign Vaccine Product Cards Intern](https://jobright.ai/jobs/info/66abcb6e1c56da80efd60f4d?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
 | **[Core Response](https://www.coreresponse.org/)** | **[California Emergency Response Corps Fellowship](https://jobright.ai/jobs/info/66abb27fcdf3f5cef040775c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[Minnesota Department of Natural Resources](http://mndnr.gov)** | **[Conservation Officer - NR Spec 2 CO](https://jobright.ai/jobs/info/66ab9aacc878980ed22d7e82?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Aug 01 |
-| **[MNRAAA](https://mnraaa.org)** | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab5b17932f26168d0440eb?utm_campaign=1056&utm_source=git)** | Montevideo, MN | Hybrid | Aug 01 |
-| ↳ | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab5b17932f26168d0440ed?utm_campaign=1056&utm_source=git)** | Ortonville, MN | Hybrid | Aug 01 |
-| ↳ | **[Resource Coordinator](https://jobright.ai/jobs/info/66ab66b1146f665898c65678?utm_campaign=1056&utm_source=git)** | Canby, MN | Hybrid | Aug 01 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66ab39ce0b23d98e35ff5a4d?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 01 |
 | **[Pierce Transit](http://www.piercetransit.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/66aaf1149caad67c14dcb4e2?utm_campaign=1056&utm_source=git)** | Lakewood, WA | On Site | Aug 01 |
 | **[Core Response](https://www.coreresponse.org/)** | **[California Emergency Response Corps Fellow - Los Angeles, CA](https://jobright.ai/jobs/info/66abc616df6cc57ead19bdaf?utm_campaign=1056&utm_source=git)** | Los Angeles, California | Hybrid | Aug 01 |
