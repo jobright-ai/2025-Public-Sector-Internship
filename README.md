@@ -57,7 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66ace9212e50e1acdf4b50c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Industrial Decarbonization Fellow](https://jobright.ai/jobs/info/66ace2f7800124810c1898cf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
+| **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/66ab93303d9f7c3ec1b1de19?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 02 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad648?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66acd776ada8ad3004a70ab5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
@@ -111,5 +113,4 @@ For a complete list, see the full spreadsheet below:
 | **[Regional Transportation District](https://www.rtd-denver.com)** | **[Intern - Civil Rights](https://jobright.ai/jobs/info/66a1490953ccbd09bfe383b3?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jul 26 |
 | **[Aspen-HP Digital Equity Accelerator](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Endowed Fellow](https://jobright.ai/jobs/info/66a3e831b020465e7d35c909?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
 | **[New England Board of Higher Education](https://nebhe.org)** | **[Student Intern](https://jobright.ai/jobs/info/66a3d2d0d7fee676c840448f?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 26 |
-| **[City of Columbia, Missouri](https://www.como.gov/)** | **[Public Policy Intern, and Economic/Finance Analyst](https://jobright.ai/jobs/info/66a3c9ac55a005da42ef4e40?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
