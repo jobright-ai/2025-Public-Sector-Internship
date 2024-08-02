@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad3f7be234479a32356f93?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
+| **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Global Network & Regional Engagement Intern](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa905c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations - Fall 2024](https://jobright.ai/jobs/info/66ad140119f03911ab71f1fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
 | ↳ | **[City Council Internship - District 3](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2f8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
@@ -68,6 +70,7 @@ For a complete list, see the full spreadsheet below:
 | **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Research Intern](https://jobright.ai/jobs/info/66ac3b513aec4dbfb0cb2bfe?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 | ↳ | **[Eurasia Program Research Intern](https://jobright.ai/jobs/info/66ac33c3414832d2a7ec69af?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Brownfield Assessment & Redevelopment](https://jobright.ai/jobs/info/66ad170cf3a6da90034676ae?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Aug 01 |
+| **[LMI](http://www.lmi.org)** | **[International Cooperation Analyst - Clearance Required](https://jobright.ai/jobs/info/66ad3994ab97d7845bbc54cf?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Aug 01 |
 | **[Merchant McIntyre & Associates, LLC](http://www.merchantmcintyre.com)** | **[Fall 2024 Government Relations Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fd2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Northern Latin America](https://jobright.ai/jobs/info/66ac1715d38694918881f6aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern - Ohio State Highway Patrol Planning, Research and Development](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad5d5?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
