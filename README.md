@@ -57,14 +57,17 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations - Fall 2024](https://jobright.ai/jobs/info/66ad140119f03911ab71f1fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| ↳ | **[City Council Internship - District 3](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2f8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| **[State of South Carolina](https://sc.gov/)** | **[Program Coordinator I (Residential Builders) INTERNAL ONLY](https://jobright.ai/jobs/info/66ad141419f03911ab71f363?utm_campaign=1056&utm_source=git)** | Lexington County, SC | On Site | Aug 02 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66ace9212e50e1acdf4b50c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Industrial Decarbonization Fellow](https://jobright.ai/jobs/info/66ace2f7800124810c1898cf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 | **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/66ab93303d9f7c3ec1b1de19?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 02 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad648?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
-| ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66acd776ada8ad3004a70ab5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[East Asia Research Intern](https://jobright.ai/jobs/info/66ac3b513aec4dbfb0cb2bfe?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 | ↳ | **[Eurasia Program Research Intern](https://jobright.ai/jobs/info/66ac33c3414832d2a7ec69af?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Brownfield Assessment & Redevelopment](https://jobright.ai/jobs/info/66ad170cf3a6da90034676ae?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Aug 01 |
 | **[Merchant McIntyre & Associates, LLC](http://www.merchantmcintyre.com)** | **[Fall 2024 Government Relations Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fd2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Northern Latin America](https://jobright.ai/jobs/info/66ac1715d38694918881f6aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern - Ohio State Highway Patrol Planning, Research and Development](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad5d5?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
@@ -85,8 +88,7 @@ For a complete list, see the full spreadsheet below:
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/66ab39c50b23d98e35ff59b3?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jul 31 |
 | **[GHRC-Guatemala Human Rights Commission/USA](https://www.ghrc-usa.org/about/)** | **[Fall Intern](https://jobright.ai/jobs/info/66aa9bd22bcc3a8074e43f35?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66aa4209f342ba64c8e949b9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/66aa9bde2bcc3a8074e44020?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 31 |
-| ↳ | **[Public information Intern](https://jobright.ai/jobs/info/66aa9bde2bcc3a8074e44031?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Public information Intern](https://jobright.ai/jobs/info/66aa9bde2bcc3a8074e44031?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
 | ↳ | **[Intern – Public Information: Communications & Social Media](https://jobright.ai/jobs/info/66aa564a9411c617ef798ebe?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Seneca Foods](http://senecafoods.com)** | **[2024 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/66aa3d3e9524650536c89698?utm_campaign=1056&utm_source=git)** | Hancock, NY | On Site | Jul 31 |
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66a98f78f0447cef8d735a21?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 31 |
@@ -105,10 +107,4 @@ For a complete list, see the full spreadsheet below:
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Student Government Office Assistant](https://jobright.ai/jobs/info/66a7ffc54ee388451baec14a?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 29 |
 | **[Center for Strategic and International Studies](https://www.csis.org)** | **[Intern - Japan Chair (Fall 2024)](https://jobright.ai/jobs/info/66aa7b9633abc8c72ba2ffd3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Matching Grant Intern](https://jobright.ai/jobs/info/66a0791df493ff248a603279?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jul 27 |
-| **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[Israel Program Research Internship FALL 2024](https://jobright.ai/jobs/info/66a40db8dfc0dce26146204e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| ↳ | **[Military & Political Power Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaa1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| ↳ | **[Economic & Financial Power Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| ↳ | **[International Organizations Research Internship FALL 2024](https://jobright.ai/jobs/info/66a428e0fa09ee0c5722aaa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| **[Regional Transportation District](https://www.rtd-denver.com)** | **[Intern - Civil Rights](https://jobright.ai/jobs/info/66a1490953ccbd09bfe383b3?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jul 26 |
-| **[Aspen-HP Digital Equity Accelerator](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Endowed Fellow](https://jobright.ai/jobs/info/66a3e831b020465e7d35c909?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
