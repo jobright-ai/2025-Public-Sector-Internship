@@ -58,7 +58,7 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Grant Writer](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b0?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ae066e3c6b9c8afebaee2f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ae2855f297e4f4a1a929d2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad3f7be234479a32356f93?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/66ad5969840cef59d4cedc57?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Global Network & Regional Engagement Intern](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa905c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
