@@ -57,7 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66ad66ccdfc735b374bed995?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 02 |
+| **[Hired In Michigan](https://hiredinmichigan.com)** | **[Grant Writer](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b0?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad454c6b65339a14251810?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad3f7be234479a32356f93?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/66ad5969840cef59d4cedc57?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
@@ -77,7 +77,6 @@ For a complete list, see the full spreadsheet below:
 | **[Merchant McIntyre & Associates, LLC](http://www.merchantmcintyre.com)** | **[Fall 2024 Government Relations Intern](https://jobright.ai/jobs/info/66ac20afed5fab398c720fd2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Northern Latin America](https://jobright.ai/jobs/info/66ac1715d38694918881f6aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
 | **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern - Ohio State Highway Patrol Planning, Research and Development](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad5d5?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66abf2ccff1a1dde68679261?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
 | **[Tennessee Comptroller of the Treasury](https://comptroller.tn.gov/careers.html)** | **[Local Government Audit Intern, West - Summer 2025](https://jobright.ai/jobs/info/66abff4599497e733a8fd86c?utm_campaign=1056&utm_source=git)** | Tennessee, United States | On Site | Aug 01 |
 | ↳ | **[Local Government Audit Intern, Mideast - Summer 2025](https://jobright.ai/jobs/info/66abf2d4ff1a1dde6867935c?utm_campaign=1056&utm_source=git)** | Pittsburgh Region | On Site | Aug 01 |
 | **[Krieg DeVault LLP](http://kriegdevault.com)** | **[Legislative Intern - 2025 Session](https://jobright.ai/jobs/info/66abe4bfbb151e613b146468?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 01 |
