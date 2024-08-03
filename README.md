@@ -58,13 +58,13 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Grant Writer](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b0?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ae2855f297e4f4a1a929d2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad454c6b65339a14251810?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad3f7be234479a32356f93?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/66ad5969840cef59d4cedc57?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Global Network & Regional Engagement Intern](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa905c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations - Fall 2024](https://jobright.ai/jobs/info/66ad140119f03911ab71f1fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 3](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2f8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
-| ↳ | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| ↳ | **[City Council Internship - District 3](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2f8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
 | **[State of South Carolina](https://sc.gov/)** | **[Program Coordinator I (Residential Builders) INTERNAL ONLY](https://jobright.ai/jobs/info/66ad141419f03911ab71f363?utm_campaign=1056&utm_source=git)** | Lexington County, SC | On Site | Aug 02 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66ace9212e50e1acdf4b50c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Industrial Decarbonization Fellow](https://jobright.ai/jobs/info/66ace2f7800124810c1898cf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
@@ -94,7 +94,6 @@ For a complete list, see the full spreadsheet below:
 | **[myGwork](https://www.mygwork.com/en/)** | **[Public information Intern](https://jobright.ai/jobs/info/66aa9bde2bcc3a8074e44031?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
 | ↳ | **[Intern – Public Information: Communications & Social Media](https://jobright.ai/jobs/info/66aa564a9411c617ef798ebe?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Seneca Foods](http://senecafoods.com)** | **[2024 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/66aa3d3e9524650536c89698?utm_campaign=1056&utm_source=git)** | Hancock, NY | On Site | Jul 31 |
-| **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66a98f78f0447cef8d735a21?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 31 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Human Services Intern](https://jobright.ai/jobs/info/66aab5ac6bc88b69b4ae18a2?utm_campaign=1056&utm_source=git)** | Greensburg, PA | On Site | Jul 31 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Civic Engagement Intern](https://jobright.ai/jobs/info/66aa8556405d23a59bc7ab80?utm_campaign=1056&utm_source=git)** | Columbus, Ohio, United States | On Site | Jul 31 |
 | **[EVITARUS](www.evitarus.com)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/66aaf1269caad67c14dcb6c3?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
@@ -102,6 +101,7 @@ For a complete list, see the full spreadsheet below:
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[BBQ Austin Internship](https://jobright.ai/jobs/info/66a945dd2b0527d2e164b57f?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jul 30 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Chuck Cooper Fellowship](https://jobright.ai/jobs/info/66a90fdb69673bc03b941b86?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 30 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Civil Rights Tech Internship](https://jobright.ai/jobs/info/668fdb8922cfeb6ebf476ebe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
+| ↳ | **[Spring 2025 Undergraduate Internship](https://jobright.ai/jobs/info/66ae37d2d7502fa433d4b7de?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jul 30 |
 | **[Sandag](http://sandag.org)** | **[Grants Intern](https://jobright.ai/jobs/info/66acbeb7b0cf6b13e854a9e8?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
 | **[Loyola University Chicago](http://LUC.edu)** | **[Post-Doctoral Research](https://jobright.ai/jobs/info/66add9e1130c91e23dad7ef8?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
