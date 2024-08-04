@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/6675b9b4044b6b83ef0d330f?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 04 |
 | ↳ | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/6675c32d2c5358baace98ce2?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Aug 04 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66af4f905793d7eb5768bc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
@@ -64,8 +65,7 @@ For a complete list, see the full spreadsheet below:
 | **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/66aea8f3cab09d58cfc8488f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Grant Writer](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b0?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66ae8c3a23d75d1963d77a44?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Aug 03 |
-| **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66ae7e3b15fc272c95134ab1?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 02 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ae2855f297e4f4a1a929d0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ae1c51afab4cd83de5b9a9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66ad3f7be234479a32356f93?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/66ad5969840cef59d4cedc57?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Global Network & Regional Engagement Intern](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa905c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
