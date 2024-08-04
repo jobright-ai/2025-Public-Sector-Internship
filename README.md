@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66af4f905793d7eb5768bc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66af25a9c8895472d0a989e5?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 04 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/66aea8f3cab09d58cfc8488f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Hired In Michigan](https://hiredinmichigan.com)** | **[Grant Writer](https://jobright.ai/jobs/info/66adc32af4d3950a012e25b0?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Aug 03 |
@@ -68,8 +69,8 @@ For a complete list, see the full spreadsheet below:
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Global Network & Regional Engagement Intern](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa905c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[LMI](http://www.lmi.org)** | **[International Cooperation Analyst - Clearance Required](https://jobright.ai/jobs/info/66ae6e651c4b6a6a07d330ff?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Aug 02 |
 | **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations - Fall 2024](https://jobright.ai/jobs/info/66ad140119f03911ab71f1fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
-| ↳ | **[City Council Internship - District 3](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2f8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 3](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2f8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| ↳ | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
 | **[State of South Carolina](https://sc.gov/)** | **[Program Coordinator I (Residential Builders) INTERNAL ONLY](https://jobright.ai/jobs/info/66ad141419f03911ab71f363?utm_campaign=1056&utm_source=git)** | Lexington County, SC | On Site | Aug 02 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66ace9212e50e1acdf4b50c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Industrial Decarbonization Fellow](https://jobright.ai/jobs/info/66ace2f7800124810c1898cf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
