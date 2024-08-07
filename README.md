@@ -84,10 +84,10 @@ For a complete list, see the full spreadsheet below:
 | **[NC Child](https://ncchild.org)** | **[Policy Internship](https://jobright.ai/jobs/info/66b1125d14d4fe22643412b5?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
 | **[Velocity Government Relations](https://www.velocitygr.com/)** | **[Government Relations Fellow](https://jobright.ai/jobs/info/66b0faa0ee67ef319768ec19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Hitachi Vantara](https://www.hitachivantara.com/)** | **[Intern, Federal Research Analyst](https://jobright.ai/jobs/info/669127082c5c2d72c35ace87?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Aug 05 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/66b36877a05644d06e23e917?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | ↳ | **[Policy Intern, Appropriations](https://jobright.ai/jobs/info/66761a74127b183117fe7dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - International Clean Energy Transitions](https://jobright.ai/jobs/info/669bb0219cc20b26d98c03c8?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 04 |
-| ↳ | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/667ead91ea91957b2f4b38c1?utm_campaign=1056&utm_source=git)** | Multi Location
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/6675b9b4044b6b83ef0d330f?utm_campaign=1056&utm_source=git)** | Multi Location
 United States
 Golden, CO | Hybrid | Aug 04 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66af4f905793d7eb5768bc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
@@ -119,5 +119,4 @@ Golden, CO | Hybrid | Aug 04 |
 | **[Core Response](https://www.coreresponse.org/)** | **[California Emergency Response Corps Fellow - Los Angeles, CA](https://jobright.ai/jobs/info/66abc616df6cc57ead19bdaf?utm_campaign=1056&utm_source=git)** | Los Angeles, California | Hybrid | Aug 01 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/66ab39c50b23d98e35ff59b3?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jul 31 |
 | **[GHRC-Guatemala Human Rights Commission/USA](https://www.ghrc-usa.org/about/)** | **[Fall Intern](https://jobright.ai/jobs/info/66aa9bd22bcc3a8074e43f35?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Public information Intern](https://jobright.ai/jobs/info/66aa9bde2bcc3a8074e44031?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
