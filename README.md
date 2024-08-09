@@ -57,30 +57,33 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Public Information Intern: Support Relating to Preventing and Countering Violent Extremism](https://jobright.ai/jobs/info/66b5fcfa73dba8aeab9ba06d?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 09 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Analyst, Land 2025 (CONV) - UNIVERSITY](https://jobright.ai/jobs/info/66b5562a13a5d380d4d3da01?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 08 |
 | **[Houston-Galveston Area Council](https://h-gac.com)** | **[Intern - Livable Centers](https://jobright.ai/jobs/info/66b53d73ef8953e87e19c855?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 08 |
 | **[Lead for America](https://www.leadforamerica.org/)** | **[American Connection Corps](https://jobright.ai/jobs/info/66b52229c6890c0cc2700a6d?utm_campaign=1056&utm_source=git)** | Sugar Land, TX | On Site | Aug 08 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66b50b2c9b84d877c5d25b81?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Multi Location
-Englewood, CO
-Oklahoma City, OK
+| **[A Community of Friends](https://www.acof.org/)** | **[Housing Development Intern](https://jobright.ai/jobs/info/66b60be20825921dcd2261bd?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b605594acbbeca28bd9d8c?utm_campaign=1056&utm_source=git)** | Multi Location
+Tulsa, OK
 Kansas City, MO
-Rogers, AR | On Site | Aug 08 |
+Rogers, AR
+Englewood, CO
+Oklahoma City, OK | On Site | Aug 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66796def3f452d31d55f9bf0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[Strategic Energy Innovations](https://www.seiinc.org)** | **[Climate Sustainability Fellow](https://jobright.ai/jobs/info/66b167e7c21c076ba3c1ef89?utm_campaign=1056&utm_source=git)** | Mountain View, CA | Hybrid | Aug 07 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate, Advocacy (Internship)](https://jobright.ai/jobs/info/66b3f6a1967394478b7f0bfd?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 07 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN  (NON-CAREER) PORT PLANNING](https://jobright.ai/jobs/info/66b3d653d5ddfc3e77c72d5f?utm_campaign=1056&utm_source=git)** | Long Beach, CA | On Site | Aug 07 |
 | **[Aspen-HP Digital Equity Accelerator](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Endowed Fellow](https://jobright.ai/jobs/info/66a3e831b020465e7d35c909?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 07 |
+| **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Research Associate](https://jobright.ai/jobs/info/66b617d83618677e1f7d22ab?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Aug 07 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Strategic Research Intern, Research Department, Education Policy and Implementation Center (Fall 2024)](https://jobright.ai/jobs/info/6696a9f0d7f80cba36b698e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern, Communities and Local Government](https://jobright.ai/jobs/info/669714a442783c0a8d8596b6?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Aug 07 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2024 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1056&utm_source=git)** | Connecticut, United States | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 07 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66b306dbd4c6d4ca1fc7e19c?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 07 |
-| **[Boise Police Department](https://www.cityofboise.org/departments/police/)** | **[Temporary Records Tech - Police](https://jobright.ai/jobs/info/66b31f3961ed8b27de10ff24?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Aug 07 |
 | **[State of Florida](http://www.myflorida.com)** | **[PUBLIC DEFENDER'S OFFICE, 2ND CIRCUIT- COMMUNICATIONS ASSISTANT I - 21009866](https://jobright.ai/jobs/info/66b3fb2ac137934672c2bb50?utm_campaign=1056&utm_source=git)** | Quincy, FL | On Site | Aug 07 |
 | **[American Red Cross](http://redcross.org)** | **[Intern, Government Relations - Fall 2024](https://jobright.ai/jobs/info/66ad140119f03911ab71f1fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9f7f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 06 |
@@ -103,15 +106,13 @@ Rogers, AR | On Site | Aug 08 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66b399c40ed683b6d7ea1a48?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 04 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | ↳ | **[Policy Intern, Appropriations](https://jobright.ai/jobs/info/66761a74127b183117fe7dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/667ead91ea91957b2f4b38c1?utm_campaign=1056&utm_source=git)** | Multi Location
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/6675b9b4044b6b83ef0d330f?utm_campaign=1056&utm_source=git)** | Multi Location
 United States
 Golden, CO | Hybrid | Aug 04 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66af4f905793d7eb5768bc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/66b60eedae1fca1cb1df5222?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66ae8c3a23d75d1963d77a44?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Aug 03 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Public Administration](https://jobright.ai/jobs/info/66ad5969840cef59d4cedc57?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Global Network & Regional Engagement Intern](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa905c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[State of South Carolina](https://sc.gov/)** | **[Program Coordinator I (Residential Builders) INTERNAL ONLY](https://jobright.ai/jobs/info/66ad141419f03911ab71f363?utm_campaign=1056&utm_source=git)** | Lexington County, SC | On Site | Aug 02 |
-| **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66ace9212e50e1acdf4b50c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| **[LMI](http://www.lmi.org)** | **[International Cooperation Analyst - Clearance Required](https://jobright.ai/jobs/info/66b0d9b86cb9e4fbf704c917?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Aug 02 |
-| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Industrial Decarbonization Fellow](https://jobright.ai/jobs/info/66ace2f7800124810c1898cf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
