@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66b6d672cb0a76f58c0e1c64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 10 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Issue Advocacy Intern](https://jobright.ai/jobs/info/66b6c76968eb0fb02b8cacd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 10 |
 | **[Trivium Life Services](https://www.triviumlifeservices.org)** | **[Behavioral Health Generalist Intern](https://jobright.ai/jobs/info/66b6bf27d4e55d7d5a15f6e2?utm_campaign=1056&utm_source=git)** | Caldwell, ID | On Site | Aug 09 |
 | **[RTI International](http://www.rti.org)** | **[Government Relations Internship](https://jobright.ai/jobs/info/66b68df3a7f8db1718ecce62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 09 |
@@ -67,11 +68,11 @@ For a complete list, see the full spreadsheet below:
 | **[Houston-Galveston Area Council](https://h-gac.com)** | **[Intern - Livable Centers](https://jobright.ai/jobs/info/66b53d73ef8953e87e19c855?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 08 |
 | **[Lead for America](https://www.leadforamerica.org/)** | **[American Connection Corps](https://jobright.ai/jobs/info/66b52229c6890c0cc2700a6d?utm_campaign=1056&utm_source=git)** | Sugar Land, TX | On Site | Aug 08 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Multi Location
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Multi Location
+Oklahoma City, OK
 Rogers, AR
 Kansas City, MO
-Englewood, CO
-Oklahoma City, OK | On Site | Aug 08 |
+Englewood, CO | On Site | Aug 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
