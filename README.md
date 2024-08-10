@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - Intergovernmental Affairs & Data Science](https://jobright.ai/jobs/info/66b6e7444a23d96a8bd21623?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 10 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66b6d672cb0a76f58c0e1c64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 10 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Issue Advocacy Intern](https://jobright.ai/jobs/info/66b6c76968eb0fb02b8cacd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 10 |
 | **[Trivium Life Services](https://www.triviumlifeservices.org)** | **[Behavioral Health Generalist Intern](https://jobright.ai/jobs/info/66b6bf27d4e55d7d5a15f6e2?utm_campaign=1056&utm_source=git)** | Caldwell, ID | On Site | Aug 09 |
@@ -70,9 +71,9 @@ For a complete list, see the full spreadsheet below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Multi Location
 Oklahoma City, OK
+Englewood, CO
 Rogers, AR
-Kansas City, MO
-Englewood, CO | On Site | Aug 08 |
+Kansas City, MO | On Site | Aug 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
@@ -82,7 +83,6 @@ Englewood, CO | On Site | Aug 08 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN  (NON-CAREER) PORT PLANNING](https://jobright.ai/jobs/info/66b3d653d5ddfc3e77c72d5f?utm_campaign=1056&utm_source=git)** | Long Beach, CA | On Site | Aug 07 |
 | **[Aspen-HP Digital Equity Accelerator](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Endowed Fellow](https://jobright.ai/jobs/info/66a3e831b020465e7d35c909?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 07 |
 | **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Research Associate](https://jobright.ai/jobs/info/66b617d83618677e1f7d22ab?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Aug 07 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Strategic Research Intern, Research Department, Education Policy and Implementation Center (Fall 2024)](https://jobright.ai/jobs/info/6696a9f0d7f80cba36b698e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern, Communities and Local Government](https://jobright.ai/jobs/info/669714a442783c0a8d8596b6?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Aug 07 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2024 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1056&utm_source=git)** | Connecticut, United States | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship - District 9](https://jobright.ai/jobs/info/66ad140b19f03911ab71f2fa?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 07 |
@@ -110,9 +110,9 @@ Englewood, CO | On Site | Aug 08 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66b399c40ed683b6d7ea1a48?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Aug 04 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | ↳ | **[Policy Intern, Appropriations](https://jobright.ai/jobs/info/66761a74127b183117fe7dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/6675c32d2c5358baace98ce2?utm_campaign=1056&utm_source=git)** | Multi Location
-Golden, CO
-United States | Hybrid | Aug 04 |
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Energy Equity Projects and Initiatives](https://jobright.ai/jobs/info/6675b9b4044b6b83ef0d330f?utm_campaign=1056&utm_source=git)** | Multi Location
+United States
+Golden, CO | Hybrid | Aug 04 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66af4f905793d7eb5768bc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[INTERN - PUBLIC INFORMATION](https://jobright.ai/jobs/info/66b60eedae1fca1cb1df5222?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
