@@ -68,8 +68,8 @@ For a complete list, see the full spreadsheet below:
 | **[Leadership Fairfax](https://leadershipfairfax.org)** | **[YLN Coordinator Intern](https://jobright.ai/jobs/info/66b64482ca638b3a6a88b4b7?utm_campaign=1056&utm_source=git)** | Vienna, VA | Hybrid | Aug 09 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b763420161b11b0c283997?utm_campaign=1056&utm_source=git)** | Multi Location
 Tulsa, OK
-Rogers, AR
 Kansas City, MO
+Rogers, AR
 Englewood, CO
 Oklahoma City, OK | On Site | Aug 09 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Fall 2024)](https://jobright.ai/jobs/info/6699a64b9a33b14b40b73b38?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 09 |
@@ -80,7 +80,7 @@ Oklahoma City, OK | On Site | Aug 09 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66796def3f452d31d55f9bf0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[Strategic Energy Innovations](https://www.seiinc.org)** | **[Climate Sustainability Fellow](https://jobright.ai/jobs/info/66b167e7c21c076ba3c1ef89?utm_campaign=1056&utm_source=git)** | Mountain View, CA | Hybrid | Aug 07 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate, Advocacy (Internship)](https://jobright.ai/jobs/info/66b3f6a1967394478b7f0bfd?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 07 |
