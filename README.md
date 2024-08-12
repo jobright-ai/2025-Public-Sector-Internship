@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 10 |
 | **[RTI International](http://www.rti.org)** | **[Public Health and Safety Research Internship](https://jobright.ai/jobs/info/66b7a0ef2e9129af97a64d6c?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Aug 10 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/6679bc9e4db5735ca854cf2f?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Aug 10 |
@@ -72,13 +73,13 @@ For a complete list, see the full spreadsheet below:
 | **[Houston-Galveston Area Council](https://h-gac.com)** | **[Intern - Livable Centers](https://jobright.ai/jobs/info/66b53d73ef8953e87e19c855?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 08 |
 | **[Lead for America](https://www.leadforamerica.org/)** | **[American Connection Corps](https://jobright.ai/jobs/info/66b52229c6890c0cc2700a6d?utm_campaign=1056&utm_source=git)** | Sugar Land, TX | On Site | Aug 08 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Multi Location
-Oklahoma City, OK
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Multi Location
 Englewood, CO
 Kansas City, MO
-Rogers, AR | On Site | Aug 08 |
+Rogers, AR
+Oklahoma City, OK | On Site | Aug 08 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66796def3f452d31d55f9bf0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[Strategic Energy Innovations](https://www.seiinc.org)** | **[Climate Sustainability Fellow](https://jobright.ai/jobs/info/66b167e7c21c076ba3c1ef89?utm_campaign=1056&utm_source=git)** | Mountain View, CA | Hybrid | Aug 07 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate, Advocacy (Internship)](https://jobright.ai/jobs/info/66b3f6a1967394478b7f0bfd?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 07 |
@@ -100,11 +101,8 @@ Rogers, AR | On Site | Aug 08 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[Economic Development Intern](https://jobright.ai/jobs/info/66b2619b638636ac46495941?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Aug 06 |
 | **[J Street](https://jstreet.org/)** | **[Advocacy and Development Intern](https://jobright.ai/jobs/info/66b25afa9f9468f7bc236756?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Editorial Intern - Policy Office](https://jobright.ai/jobs/info/66b62b7267266bb8778f1f21?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Aug 06 |
-| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) PORT PLANNING](https://jobright.ai/jobs/info/66b4c27c395536ca008379d7?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Aug 06 |
 | **[SKDKnickerbocker](http://skdknick.com)** | **[Fall Research Internship - DC](https://jobright.ai/jobs/info/669582a632c6fea23dcc5627?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 06 |
 | **[Barnes & Thornburg](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/6695b0bba8378444645391b6?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 06 |
 | **[Charles River Watershed Association](https://www.crwa.org/)** | **[Climate Resilience Engagement Intern](https://jobright.ai/jobs/info/66b144bab992081a259c68d1?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 05 |
 | **[NC Child](https://ncchild.org)** | **[Policy Internship](https://jobright.ai/jobs/info/66b1125d14d4fe22643412b5?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
-| **[Velocity Government Relations](https://www.velocitygr.com/)** | **[Government Relations Fellow](https://jobright.ai/jobs/info/66b0faa0ee67ef319768ec19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
-| **[Hitachi Vantara](https://www.hitachivantara.com/)** | **[Intern, Federal Research Analyst](https://jobright.ai/jobs/info/669127082c5c2d72c35ace87?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
