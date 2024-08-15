@@ -68,6 +68,9 @@ For a complete list, see the full spreadsheet below:
 | **[BCFS Health and Human Services](https://bcfs.net/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/66bd54400ed6919045ee0f2f?utm_campaign=1056&utm_source=git)** | Corpus Christi, TX | On Site | Aug 14 |
 | **[GenWorth](https://www.genworth.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bc01860ef255a26b1b8882?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Justice, Equity, Diversity, and Inclusion (JEDI) Social Work Intern](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4baa?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
+| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bbd24fa8ec5df24561aa5e?utm_campaign=1056&utm_source=git)** | Multi Location
+Washington, DC
+Washington, DC Metro | Hybrid | Aug 13 |
 | **[Ervin Graves Strategy Group](https://ervingraves.com/)** | **[Research Associate](https://jobright.ai/jobs/info/66bbba4e40dda951a43b919a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 13 |
 | **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern- Hybrid](https://jobright.ai/jobs/info/66bbbd3d2eb2d4af8aa557b0?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Aug 13 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media Fall 2024 Internship Program - Chicago](https://jobright.ai/jobs/info/66bba8b21b3b8a137c42fea9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
@@ -78,9 +81,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/66baed5f14805a17d847a95d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 13 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74a9b?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Aug 13 |
 | **[World Vision](http://www.worldvision.org/)** | **[Advocacy Support Intern](https://jobright.ai/jobs/info/66bc02f9e05a5910860732cb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 13 |
-| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a1f?utm_campaign=1056&utm_source=git)** | Multi Location
-Washington, DC Metro
-Washington, DC | On Site | Aug 13 |
 | **[Ankura](https://ankura.com)** | **[Intern, Africa](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a32?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 13 |
 | ↳ | **[Intern, Middle East and North Africa](https://jobright.ai/jobs/info/66bba79e415fb14781bb69d9?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | Hybrid | Aug 13 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
@@ -98,10 +98,12 @@ Washington, DC | On Site | Aug 13 |
 | **[Houston-Galveston Area Council](https://h-gac.com)** | **[Intern - Livable Centers](https://jobright.ai/jobs/info/66b53d73ef8953e87e19c855?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 08 |
 | **[Lead for America](https://www.leadforamerica.org/)** | **[American Connection Corps](https://jobright.ai/jobs/info/66b52229c6890c0cc2700a6d?utm_campaign=1056&utm_source=git)** | Sugar Land, TX | On Site | Aug 08 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Multi Location
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Multi Location
+Oklahoma City, OK
 Englewood, CO
-Rogers, AR
 Kansas City, MO
-Oklahoma City, OK | On Site | Aug 08 |
+Rogers, AR | On Site | Aug 08 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
+| **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66bb46fcd18edbc18d09cf61?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
