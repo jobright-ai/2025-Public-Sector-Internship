@@ -57,20 +57,21 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Patient-Centered Outcomes Research Institute](http://pcori.org)** | **[Fall Intern - Public Policy & Government Relations](https://jobright.ai/jobs/info/66a18ae4886017c169bb00d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
+| **[Lexington, Chapter of The Arc New York](https://thearclexington.org/)** | **[Human Services Intern (16-17 years old) - Paid](https://jobright.ai/jobs/info/66bdec6ee3716b709265cf01?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 15 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Government Relations & Advocacy Intern](https://jobright.ai/jobs/info/66bd4b925b9a2f3b7f8265f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 14 |
 | **[Ministerie van Buitenlandse Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken)** | **[Stage op het Consulaat-Generaal te New York](https://jobright.ai/jobs/info/66bd389e2d89931d24c4f887?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[Mecklenburg County](https://www.mecknc.gov)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/66bd0ca32e9776e6016fc1f4?utm_campaign=1056&utm_source=git)** | Mecklenburg County, NC | On Site | Aug 14 |
 | **[CRDF Global](http://crdfglobal.org)** | **[Intern, Security Assistance (Growth Division)](https://jobright.ai/jobs/info/66bcec1ad855f6c70211dcf5?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Aug 14 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Environmental & Social Risk Assessment Internship](https://jobright.ai/jobs/info/66bceea53f38683a58e79fcd?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Integer](http://www.integerpolicy.com)** | **[Policy Research Fellowship](https://jobright.ai/jobs/info/66be042fdedaea1a09e1bd26?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 14 |
+| **[Agora](https://agora.unicef.org/)** | **[Re-advertisement: Internships (Support to the Executive Office), Education Cannot Wait (ECW), 6 months, NY, REQ#574585](https://jobright.ai/jobs/info/66bdec6ee3716b709265d166?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 14 |
 | **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Undergraduate Research Intern - Cancer Research Center for Health Equity - Quit Alliance Team (Paid, Per Diem, On-Site)](https://jobright.ai/jobs/info/66a0516082dde0352ff412fc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/66bd654f0b56b315ae746f78?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Aug 14 |
 | **[Advancing Health Equity](http://www.advancinghealthequity.com)** | **[Public Health Research Intern - Health Equity](https://jobright.ai/jobs/info/66bcb18e4652b549b6fe4322?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 14 |
 | **[BCFS Health and Human Services](https://bcfs.net/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/66bd54400ed6919045ee0f2f?utm_campaign=1056&utm_source=git)** | Corpus Christi, TX | On Site | Aug 14 |
 | **[GenWorth](https://www.genworth.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bc01860ef255a26b1b8882?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Justice, Equity, Diversity, and Inclusion (JEDI) Social Work Intern](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4baa?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
-| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bbd24fa8ec5df24561aa5e?utm_campaign=1056&utm_source=git)** | Multi Location
-Washington, DC
-Washington, DC Metro | Hybrid | Aug 13 |
 | **[Ervin Graves Strategy Group](https://ervingraves.com/)** | **[Research Associate](https://jobright.ai/jobs/info/66bbba4e40dda951a43b919a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 13 |
 | **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern- Hybrid](https://jobright.ai/jobs/info/66bbbd3d2eb2d4af8aa557b0?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Aug 13 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media Fall 2024 Internship Program - Chicago](https://jobright.ai/jobs/info/66bba8b21b3b8a137c42fea9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
@@ -81,6 +82,9 @@ Washington, DC Metro | Hybrid | Aug 13 |
 | ↳ | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/66baed5f14805a17d847a95d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 13 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74a9b?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Aug 13 |
 | **[World Vision](http://www.worldvision.org/)** | **[Advocacy Support Intern](https://jobright.ai/jobs/info/66bc02f9e05a5910860732cb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 13 |
+| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a1f?utm_campaign=1056&utm_source=git)** | Multi Location
+Washington, DC Metro
+Washington, DC | On Site | Aug 13 |
 | **[Ankura](https://ankura.com)** | **[Intern, Africa](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a32?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 13 |
 | ↳ | **[Intern, Middle East and North Africa](https://jobright.ai/jobs/info/66bba79e415fb14781bb69d9?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | Hybrid | Aug 13 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
@@ -100,10 +104,8 @@ Washington, DC Metro | Hybrid | Aug 13 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Health Policy Research Intern](https://jobright.ai/jobs/info/66b4ea0e1464abd210417fb0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Multi Location
 Oklahoma City, OK
+Tulsa, OK
 Englewood, CO
 Kansas City, MO
 Rogers, AR | On Site | Aug 08 |
-| **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/66b4d0c072a6a95e7d106992?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 08 |
-| **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66bb46fcd18edbc18d09cf61?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
