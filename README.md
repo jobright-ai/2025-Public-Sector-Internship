@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66bf600d05109d78804c3434?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 16 |
+| **[UnidosUS](https://www.unidosus.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d4a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[HURO AI, Inc.](https://www.linkedin.com/company/94276871)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/66beac00f20fa247841580ed?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Justice, Equity, Diversity, and Inclusion (JEDI) Social Work Intern](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4baa?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
@@ -65,6 +67,7 @@ For a complete list, see the full spreadsheet below:
 | **[Salt Lake City Government](https://www.slc.gov)** | **[Housing Program and Policy Data Intern](https://jobright.ai/jobs/info/66be99752fcffab11b9ac94c?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 15 |
 | ↳ | **[Housing Program and Policy Research Intern](https://jobright.ai/jobs/info/66be8865b234d0c586d346e7?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Aug 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern - State Team Intern](https://jobright.ai/jobs/info/66be627c24c72cabdb93fa49?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
+| **[Student Action with Farmworkers](https://saf-unite.org)** | **[Solidaridad Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d77e?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 15 |
 | **[Center for American Progress - CAP](http://www.americanprogress.org/)** | **[Fall 2024 Advocacy Internship: Research](https://jobright.ai/jobs/info/66be2dd418ea9b9a2111e6dd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 15 |
 | **[York Catholic District School Board](http://www.ycdsb.ca)** | **[Articling Student for the Office of the Human Rights and Equity Advisor](https://jobright.ai/jobs/info/66be2dd418ea9b9a2111e7c6?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Aug 15 |
 | **[Plan International USA](https://www.planusa.org/)** | **[MFAN Policy & Communications Intern](https://jobright.ai/jobs/info/66a670dd71fb45d0beb03c8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
@@ -94,11 +97,9 @@ For a complete list, see the full spreadsheet below:
 | **[Enact Mortgage Insurance](https://enactmi.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a1f?utm_campaign=1056&utm_source=git)** | Multi Location
 Washington, DC Metro
 Washington, DC | On Site | Aug 12 |
-| **[Ankura](https://ankura.com)** | **[Intern, Africa](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a32?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 12 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9f7f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 | **[RTI International](http://www.rti.org)** | **[Public Health and Safety Research Internship](https://jobright.ai/jobs/info/66b7a0ef2e9129af97a64d6c?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 | **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 12 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Issue Advocacy Intern](https://jobright.ai/jobs/info/66b6c76968eb0fb02b8cacd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 09 |
-| **[RTI International](http://www.rti.org)** | **[Government Relations Internship](https://jobright.ai/jobs/info/66b68df3a7f8db1718ecce62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
