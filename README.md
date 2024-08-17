@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Melanoma Research Foundation](https://www.melanoma.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2626?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
+| **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/66bfdc56fe3e9ff1ec9c122c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 16 |
+| **[Agora](https://agora.unicef.org/)** | **[Youth Engagement and Entrepreneurship Lead, Senior Adviser of Global Programmes, Senior Adviser on Country Support, with oversight of Deputy Director of Programmes](https://jobright.ai/jobs/info/66bf9225a6721671924983ce?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66bf600d05109d78804c3434?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 16 |
 | **[UnidosUS](https://www.unidosus.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d4a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 15 |
@@ -67,7 +70,6 @@ For a complete list, see the full spreadsheet below:
 | **[Salt Lake City Government](https://www.slc.gov)** | **[Housing Program and Policy Data Intern](https://jobright.ai/jobs/info/66be99752fcffab11b9ac94c?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 15 |
 | ↳ | **[Housing Program and Policy Research Intern](https://jobright.ai/jobs/info/66be8865b234d0c586d346e7?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Aug 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern - State Team Intern](https://jobright.ai/jobs/info/66be627c24c72cabdb93fa49?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
-| **[Student Action with Farmworkers](https://saf-unite.org)** | **[Solidaridad Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d77e?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 15 |
 | **[Center for American Progress - CAP](http://www.americanprogress.org/)** | **[Fall 2024 Advocacy Internship: Research](https://jobright.ai/jobs/info/66be2dd418ea9b9a2111e6dd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 15 |
 | **[York Catholic District School Board](http://www.ycdsb.ca)** | **[Articling Student for the Office of the Human Rights and Equity Advisor](https://jobright.ai/jobs/info/66be2dd418ea9b9a2111e7c6?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Aug 15 |
 | **[Plan International USA](https://www.planusa.org/)** | **[MFAN Policy & Communications Intern](https://jobright.ai/jobs/info/66a670dd71fb45d0beb03c8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
@@ -83,7 +85,6 @@ For a complete list, see the full spreadsheet below:
 | **[Cedars Sinai](https://www.cedars-sinai.org)** | **[Undergraduate Research Intern - Cancer Research Center for Health Equity - Quit Alliance Team (Paid, Per Diem, On-Site)](https://jobright.ai/jobs/info/66a0516082dde0352ff412fc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
 | **[Agora](https://agora.unicef.org/)** | **[Re-advertisement: Internships (Support to the Executive Office), Education Cannot Wait (ECW), 6 months, NY, REQ#574585](https://jobright.ai/jobs/info/66bf177eb44481947ae59be6?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 14 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/66bd654f0b56b315ae746f78?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Aug 13 |
-| **[Advancing Health Equity](http://www.advancinghealthequity.com)** | **[Public Health Research Intern - Health Equity](https://jobright.ai/jobs/info/66bcb18e4652b549b6fe4322?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 13 |
 | **[BCFS Health and Human Services](https://bcfs.net/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/66bd54400ed6919045ee0f2f?utm_campaign=1056&utm_source=git)** | Corpus Christi, TX | On Site | Aug 13 |
 | **[GenWorth](https://www.genworth.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bc01860ef255a26b1b8882?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | **[Ervin Graves Strategy Group](https://ervingraves.com/)** | **[Research Associate](https://jobright.ai/jobs/info/66bbba4e40dda951a43b919a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 13 |
@@ -101,5 +102,5 @@ Washington, DC | On Site | Aug 12 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9f7f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 | **[RTI International](http://www.rti.org)** | **[Public Health and Safety Research Internship](https://jobright.ai/jobs/info/66b7a0ef2e9129af97a64d6c?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 | **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 12 |
-| **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Issue Advocacy Intern](https://jobright.ai/jobs/info/66b6c76968eb0fb02b8cacd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 09 |
+| **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/66bf75369b745bbecc6a9a35?utm_campaign=1056&utm_source=git)** | Bayville, NJ | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
