@@ -57,9 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Research and Communications Assistant (Job ID: 2024-3505)](https://jobright.ai/jobs/info/66bffc00074e7c076e0bf438?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[Melanoma Research Foundation](https://www.melanoma.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66bfe10cf0f31fdce00b2626?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/66bfdc56fe3e9ff1ec9c122c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 16 |
-| **[Agora](https://agora.unicef.org/)** | **[Youth Engagement and Entrepreneurship Lead, Senior Adviser of Global Programmes, Senior Adviser on Country Support, with oversight of Deputy Director of Programmes](https://jobright.ai/jobs/info/66bf9225a6721671924983ce?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 16 |
+| **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66bf600d05109d78804c3434?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 16 |
 | **[UnidosUS](https://www.unidosus.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d4a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 15 |
@@ -95,9 +96,6 @@ For a complete list, see the full spreadsheet below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66b306dbd4c6d4ca1fc7e19c?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 12 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74a9b?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Aug 12 |
 | **[World Vision](http://www.worldvision.org/)** | **[Advocacy Support Intern](https://jobright.ai/jobs/info/66bc02f9e05a5910860732cb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 12 |
-| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66bba79e415fb14781bb6a1f?utm_campaign=1056&utm_source=git)** | Multi Location
-Washington, DC Metro
-Washington, DC | On Site | Aug 12 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9f7f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 | **[RTI International](http://www.rti.org)** | **[Public Health and Safety Research Internship](https://jobright.ai/jobs/info/66b7a0ef2e9129af97a64d6c?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
