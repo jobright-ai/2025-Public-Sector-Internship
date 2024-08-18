@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agora](https://agora.unicef.org/)** | **[Re-advertisement: Internships (Support to the Executive Office), Education Cannot Wait (ECW), 6 months, NY, REQ#574585](https://jobright.ai/jobs/info/66c1d69a86b12885690e3785?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 18 |
 | **[California State Board of Education](http://www.cde.ca.gov)** | **[Special Education Secretary (internal posting only)](https://jobright.ai/jobs/info/66c0e7dd76fb9c3e9de1e3eb?utm_campaign=1056&utm_source=git)** | Madera, CA | On Site | Aug 17 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
 | **[Agora](https://agora.unicef.org/)** | **[Youth Engagement and Entrepreneurship Lead, Senior Adviser of Global Programmes, Senior Adviser on Country Support, with oversight of Deputy Director of Programmes](https://jobright.ai/jobs/info/66c19372fcdae8ab7d813a6b?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 16 |
@@ -68,6 +69,7 @@ For a complete list, see the full spreadsheet below:
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Designee Student Intern](https://jobright.ai/jobs/info/668c8696be2c6384db57e255?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Science Technology Policy Fellow - Circular Economy Fellow: U.S. Department of Energy](https://jobright.ai/jobs/info/66bf600d05109d78804c3434?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 16 |
 | **[UnidosUS](https://www.unidosus.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d4a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
+| **[Student Action with Farmworkers](https://saf-unite.org)** | **[Solidaridad Intern](https://jobright.ai/jobs/info/66c1f7ab57f8c57b4b0afdc5?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 16 |
 | **[Securing America's Future Energy](http://secureenergy.org)** | **[EC Campaigns Intern](https://jobright.ai/jobs/info/66c179ca0ba6b5ee59d3a087?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Justice, Equity, Diversity, and Inclusion (JEDI) Social Work Intern](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4baa?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
