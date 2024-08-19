@@ -96,5 +96,4 @@ For a complete list, see the full spreadsheet below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66b306dbd4c6d4ca1fc7e19c?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 12 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74a9b?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Aug 12 |
 | **[World Vision](http://www.worldvision.org/)** | **[Advocacy Support Intern](https://jobright.ai/jobs/info/66bc02f9e05a5910860732cb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 12 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9f7f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
