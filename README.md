@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of South Salt Lake](https://sslc.com/)** | **[Community Development Intern](https://jobright.ai/jobs/info/66c2c138eb27c9658a43ddaf?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 18 |
 | **[California State Board of Education](http://www.cde.ca.gov)** | **[Special Education Secretary (internal posting only)](https://jobright.ai/jobs/info/66c0e7dd76fb9c3e9de1e3eb?utm_campaign=1056&utm_source=git)** | Madera, CA | On Site | Aug 17 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Research and Communications Assistant (Job ID: 2024-3505)](https://jobright.ai/jobs/info/66bffc00074e7c076e0bf438?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
@@ -96,6 +97,4 @@ For a complete list, see the full spreadsheet below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66b306dbd4c6d4ca1fc7e19c?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 12 |
 | **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74a9b?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Aug 12 |
 | **[World Vision](http://www.worldvision.org/)** | **[Advocacy Support Intern](https://jobright.ai/jobs/info/66bc02f9e05a5910860732cb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 12 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/66b2b53178dd826a46ad9f7f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
-| **[RTI International](http://www.rti.org)** | **[Public Health and Safety Research Internship](https://jobright.ai/jobs/info/66b7a0ef2e9129af97a64d6c?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
