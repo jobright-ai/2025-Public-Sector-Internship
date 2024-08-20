@@ -44,8 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Public Sector and Government">
-<a href="https://intern-list.com/?selectedKey=🏛%EF%B8%8F%20Public%20Sector%20and%20Government&utm_source=&utm_campaign={utm_campaign_str}">
+<a href="https://intern-list.com/?selectedKey=🏛%EF%B8%8F%20Public%20Sector%20and%20Government&utm_source=&utm_campaign=Public Sector and Government">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
