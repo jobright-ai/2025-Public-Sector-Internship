@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Policy and Planning.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1056&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=1056&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git">
+    <a href="https://jobright.ai/?utm_campaign=1056&utm_source=git">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
