@@ -6,17 +6,17 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Policy and Planning.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1056&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=1056&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign=1056&utm_source=git">
-        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
+    <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git">
+        <img src="./static/img/airtable.jpg" alt="jobright.ai">
     </a>
     <br>
     <br>
@@ -44,7 +44,9 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
-<a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=1446985689#gid=1446985689">
+<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Public Sector and Government">
+<a href="https://intern-list.com/?selectedKey=🏛%EF%B8%8F%20Public%20Sector%20and%20Government&utm_source=&utm_campaign={utm_campaign_str}">
+<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign={utm_campaign_str}">
     <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
@@ -102,7 +104,4 @@ For a complete list, see the full spreadsheet below:
 | **[Ervin Graves Strategy Group](https://ervingraves.com/)** | **[Research Associate](https://jobright.ai/jobs/info/66bbba4e40dda951a43b919a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 13 |
 | **[Ascentria Care Alliance](https://www.ascentria.org/)** | **[Advancement/Development Intern- Hybrid](https://jobright.ai/jobs/info/66bbbd3d2eb2d4af8aa557b0?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Aug 13 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media Fall 2024 Internship Program - Chicago](https://jobright.ai/jobs/info/66bba8b21b3b8a137c42fea9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
-| **[Velos](https://velosteam.com)** | **[Government Relations Intern - Space &amp; Defense](https://jobright.ai/jobs/info/66c34be6890b324733d32812?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 13 |
-| **[The RXN Group](www.therxngroup.com)** | **[Graduate Research Fellow (Innovation, Business, and Policy)](https://jobright.ai/jobs/info/66bb50f0d2ac02ddc4bdab88?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Aug 13 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/669ece5070bef644cfa14f57?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
