@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Clinton County Board of Education](https://www.clinton.kyschools.us/)** | **[ACCOUNTABILITY, RESEARCH, AND SYSTEMS IMPROVEMENT - INTERN](https://jobright.ai/jobs/info/66c6221722506716314672d1?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 21 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c682114f6c4b8845b42dd7?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 21 |
+| **[Pact](http://www.pactworld.org/)** | **[CSM-STAND Intern](https://jobright.ai/jobs/info/66c67b79067b3566e08647a3?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 21 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c6760d5b8354e1af8003a8?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 21 |
+| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Administrative Assistant](https://jobright.ai/jobs/info/66c678828d4b11894de66f27?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 21 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66c654234daeedb2e7bbc4be?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
+| ↳ | **[Legislative Affairs Student Intern](https://jobright.ai/jobs/info/66c654234daeedb2e7bbc4bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
+| **[GSP International Airport](https://gspairport.com)** | **[Police Intern](https://jobright.ai/jobs/info/66c646291c24e45b3f5dfdc5?utm_campaign=1056&utm_source=git)** | Greer, SC | On Site | Aug 21 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a48c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c62625a00a2199acab3fc1?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Aug 21 |
 | **[The Vogel Group](https://vogelgroupdc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/66c61263126eff0eef49f64d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
@@ -116,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Policy Intern (Global E-Commerce-Governance and Experience-AMS-Creator and Content Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5bc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[Selfhelp](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2024)](https://jobright.ai/jobs/info/66c5246e93950544f36d946c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Internship (Remote & Hybrid)](https://jobright.ai/jobs/info/66c5246e93950544f36d947f?utm_campaign=1056&utm_source=git)** | Virginia, United States | Hybrid | Aug 18 |
-| **[Agora](https://agora.unicef.org/)** | **[Re-advertisement: Internships (Support to the Executive Office), Education Cannot Wait (ECW), 6 months, NY, REQ#574585](https://jobright.ai/jobs/info/66c47b06e58ec4ec1169a82d?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 18 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d94b2?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 17 |
 | **[California State Board of Education](http://www.cde.ca.gov)** | **[Special Education Secretary (internal posting only)](https://jobright.ai/jobs/info/66c0e7dd76fb9c3e9de1e3eb?utm_campaign=1056&utm_source=git)** | Madera, CA | On Site | Aug 17 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/66c4833518677c60919cddc5?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 17 |
@@ -126,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Animal Welfare League of Arlington](https://www.awla.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9533?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 16 |
 | **[lds.org](https://www.lds.org)** | **[Paid Intern - Meetinghouse Facilities](https://jobright.ai/jobs/info/66c5246e93950544f36d9545?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 16 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Research and Communications Assistant (Job ID: 2024-3505)](https://jobright.ai/jobs/info/66bffc00074e7c076e0bf438?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
-| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9553?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Aug 16 |
 | **[State of Nevada Office of The Chief Information Officer](it.nv.gov)** | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66c5246e93950544f36d954b?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Aug 16 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/66bfdc56fe3e9ff1ec9c122c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 16 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Crisis Response Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d958d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
@@ -148,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Justice, Equity, Diversity, and Inclusion (JEDI) Social Work Intern](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4baa?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9669?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Aug 15 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Policy, US Climate Alliance](https://jobright.ai/jobs/info/66c5246e93950544f36d9676?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
-| ↳ | **[Intern, Programs and Analysis, U.S. Climate Alliance](https://jobright.ai/jobs/info/66be99752fcffab11b9ac916?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
 | ↳ | **[Intern, Federal and External Affairs , US Climate Alliance](https://jobright.ai/jobs/info/66c5246e93950544f36d967a?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
+| ↳ | **[Intern, Programs and Analysis, U.S. Climate Alliance](https://jobright.ai/jobs/info/66be99752fcffab11b9ac916?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Salt Lake City Government](https://www.slc.gov)** | **[Housing Program and Policy Data Intern](https://jobright.ai/jobs/info/66be99752fcffab11b9ac94c?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 15 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8358?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Salt Lake City Government](https://www.slc.gov)** | **[Housing Program and Policy Research Intern](https://jobright.ai/jobs/info/66be8865b234d0c586d346e7?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Aug 15 |
@@ -177,13 +181,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccc?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Aug 15 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcce?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd4?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Aug 15 |
-| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce0?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 15 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 15 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce1?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 15 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce0?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 15 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcea?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 15 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dced?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 15 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 15 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd10?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
-| **[indy.gov](https://www.indy.gov/)** | **[Internship - MCEB](https://jobright.ai/jobs/info/66c524a693950544f36d973d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
