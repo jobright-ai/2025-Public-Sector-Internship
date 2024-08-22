@@ -57,20 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt Lake City Government](https://www.slc.gov)** | **[Public Lands Intern - Seasonal](https://jobright.ai/jobs/info/66c767a7deb38fe738d2b4e6?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 22 |
+| **[Virginia Tourism](https://virginia.org)** | **[DRIVE TOURISM PROGRAM INTERN](https://jobright.ai/jobs/info/66c77f055e214d7efde066f8?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
+| **[SanStone Health and Rehabilitation](https://sanstonehealth.com)** | **[Social Worker Intern/Temp.](https://jobright.ai/jobs/info/66c764a0f94898f4a2cfb07f?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
+| **[Callidus Agency](http://callidusagency.com)** | **[Social Work Intern](https://jobright.ai/jobs/info/66c7609b540f4be1399a219b?utm_campaign=1056&utm_source=git)** | Allentown, PA | Hybrid | Aug 22 |
+| **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66c74225aa2ea2cea2800f39?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Aug 22 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Foreign Policy Internship](https://jobright.ai/jobs/info/66c72deeb0a9a7d15f99df3a?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Howard University](http://www.howard.edu/)** | **[Maternal Health Research Fellowship](https://jobright.ai/jobs/info/66c72850e8c051655ae5079c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | **[Kearney](http://www.kearneyco.com)** | **[Summer 2025 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/66c7251aa678d74cec62e742?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Aug 22 |
 | **[City of South Salt Lake](https://sslc.com/)** | **[Community Development Intern](https://jobright.ai/jobs/info/66c6c9378fee7a9215d1f6a6?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health and Family Services](https://jobright.ai/jobs/info/66c5246e93950544f36d93f7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Aug 21 |
 | **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/66c69cd58fe32f6e22352421?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 21 |
+| **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/66c78bae20b82431def04a15?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Aug 21 |
 | **[Memorial Hermann Foundation](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/66c68c967bddeb9ed48e392c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c682114f6c4b8845b42dd7?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 21 |
 | **[Pact](http://www.pactworld.org/)** | **[CSM-STAND Intern](https://jobright.ai/jobs/info/66c67b79067b3566e08647a3?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c6760d5b8354e1af8003a8?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 21 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Administrative Assistant](https://jobright.ai/jobs/info/66c678828d4b11894de66f27?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 21 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66c654234daeedb2e7bbc4be?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
-| ↳ | **[Legislative Affairs Student Intern](https://jobright.ai/jobs/info/66c654234daeedb2e7bbc4bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Legislative Affairs Student Intern](https://jobright.ai/jobs/info/66c654234daeedb2e7bbc4bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
+| ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66c654234daeedb2e7bbc4be?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
 | **[GSP International Airport](https://gspairport.com)** | **[Police Intern](https://jobright.ai/jobs/info/66c646291c24e45b3f5dfdc5?utm_campaign=1056&utm_source=git)** | Greer, SC | On Site | Aug 21 |
+| **[Clinton County Board of Education](https://www.clinton.kyschools.us/)** | **[ACCOUNTABILITY, RESEARCH, AND SYSTEMS IMPROVEMENT - INTERN](https://jobright.ai/jobs/info/66c7609b540f4be1399a21e5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 21 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a48c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c62625a00a2199acab3fc1?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Aug 21 |
 | **[The Vogel Group](https://vogelgroupdc.com/)** | **[Fall Internship](https://jobright.ai/jobs/info/66c61263126eff0eef49f64d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
@@ -96,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Jefferson Health System](https://www.jeffersonhealth.org/index.html)** | **[Social Work Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d91d9?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 20 |
 | **[Washington Environmental Council](https://wecprotects.org/)** | **[Yakima County Field Organizer Intern](https://jobright.ai/jobs/info/66c501b827456080615582ef?utm_campaign=1056&utm_source=git)** | Yakima, WA | Hybrid | Aug 20 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Division of Race Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/66c501b827456080615583b0?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Aug 20 |
-| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/66c524a693950544f36d99a6?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Aug 20 |
-| ↳ | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/66c5246e93950544f36d91dc?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Aug 20 |
+| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/66c5246e93950544f36d91dc?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Aug 20 |
+| ↳ | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/66c524a693950544f36d99a6?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Aug 20 |
 | ↳ | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/66c524a693950544f36d99a4?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Aug 20 |
 | ↳ | **[PUBLIC SERVICE INTERN 1](https://jobright.ai/jobs/info/66c524a693950544f36d99a5?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Aug 20 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d923a?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Aug 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Africa / Fall 2024](https://jobright.ai/jobs/info/66c5246e93950544f36d95ee?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[Connect for Health Colorado](https://connectforhealthco.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d95f5?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 16 |
 | **[Securing America's Future Energy](http://secureenergy.org)** | **[EC Campaigns Intern](https://jobright.ai/jobs/info/66c179ca0ba6b5ee59d3a087?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
-| **[Seattle Indian Health Board](https://www.sihb.org)** | **[POLICY INTERN](https://jobright.ai/jobs/info/66c5246e93950544f36d9651?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 15 |
-| **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/66c3cca72b7c7cc91f86ad14?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 15 |
-| **[Good Shepherd Services](https://goodshepherds.org/)** | **[Justice, Equity, Diversity, and Inclusion (JEDI) Social Work Intern](https://jobright.ai/jobs/info/66bbe0f89bc4d8d5fa5a4baa?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
-| **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9669?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Aug 15 |
-| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Policy, US Climate Alliance](https://jobright.ai/jobs/info/66c5246e93950544f36d9676?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
-| ↳ | **[Intern, Programs and Analysis, U.S. Climate Alliance](https://jobright.ai/jobs/info/66be99752fcffab11b9ac916?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
-| ↳ | **[Intern, Federal and External Affairs , US Climate Alliance](https://jobright.ai/jobs/info/66c5246e93950544f36d967a?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
