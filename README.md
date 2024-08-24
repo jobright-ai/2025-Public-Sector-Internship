@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memorial Hermann Foundation](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/66c68c967bddeb9ed48e392c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 23 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Policy & Legislation Internship – Washington, D.C.](https://jobright.ai/jobs/info/66c916508792f94bc2e62a79?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 23 |
 | **[Austin Independent School District](https://www.austinisd.org)** | **[GF Specialist Social Work for Interns](https://jobright.ai/jobs/info/66c9196fdddcdb1f4671f7b8?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 23 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Planning Intern (9910)](https://jobright.ai/jobs/info/66c9196fdddcdb1f4671f809?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 23 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/66ab93303d9f7c3ec1b1de19?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Summit County Public Health](https://www.scph.org/)** | **[Public Health Intern- Senior &amp; Adult Services](https://jobright.ai/jobs/info/66c8572236a2df88d7b79494?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | Aug 23 |
 | **[Kess Buffet](https://www.kess.com.br)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1a6f?utm_campaign=1056&utm_source=git)** | Muscatine, IA | On Site | Aug 22 |
-| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1b1c?utm_campaign=1056&utm_source=git)** | Bettendorf, IA | On Site | Aug 22 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1b1b?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 22 |
+| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1b1c?utm_campaign=1056&utm_source=git)** | Bettendorf, IA | On Site | Aug 22 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c827ccc444fa56f550fd4e?utm_campaign=1056&utm_source=git)** | West Burlington, IA | On Site | Aug 22 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c827ccc444fa56f550fe05?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 22 |
 | **[Biasly](http://www.biasly.com)** | **[Political Science Analyst Intern](https://jobright.ai/jobs/info/66c81ea61d41fdcafe7eb045?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Melanoma Research Foundation](https://www.melanoma.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66c79cceb0ec0df61d037ddb?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 22 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/66c7b2e6749f595db9b2f2fc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 22 |
 | **[ONE Neighborhood Builders](https://oneneighborhoodbuilders.org/)** | **[Qualitative Research Intern](https://jobright.ai/jobs/info/66c7910c742578246340c7c4?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Aug 22 |
+| **[World Relief](https://worldrelief.org/)** | **[Resettlement Intern](https://jobright.ai/jobs/info/66c7b73eae43499602fa0b64?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Aug 22 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Legislative) (48498)](https://jobright.ai/jobs/info/66c79cceb0ec0df61d037f60?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 22 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Aug 22 |
 | **[State of South Carolina](https://sc.gov/)** | **[Law Enforcement Officer I (Corporal) (Internal)](https://jobright.ai/jobs/info/66c7b2e6749f595db9b2f35a?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Aug 22 |
@@ -105,9 +107,7 @@ For a complete list, click the following sortable link below:
 | **[City of South Salt Lake](https://sslc.com/)** | **[Community Development Intern](https://jobright.ai/jobs/info/66c6c9378fee7a9215d1f6a6?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health and Family Services](https://jobright.ai/jobs/info/66c5246e93950544f36d93f7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Aug 21 |
 | **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/66c69cd58fe32f6e22352421?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[World Relief](https://worldrelief.org/)** | **[Resettlement Intern](https://jobright.ai/jobs/info/66c7a8b82e8ce1fb3cd8f614?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Aug 21 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/66c78bae20b82431def04a15?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Aug 21 |
-| **[Memorial Hermann Foundation](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/66c68c967bddeb9ed48e392c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c682114f6c4b8845b42dd7?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 21 |
 | **[Pact](http://www.pactworld.org/)** | **[CSM-STAND Intern](https://jobright.ai/jobs/info/66c67b79067b3566e08647a3?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c6760d5b8354e1af8003a8?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 21 |
@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, EV Charging & Energy Public Policy (Winter/Spring 2025)](https://jobright.ai/jobs/info/66c576ede62830241f3f44a9?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Aug 20 |
 | **[Robert W. Baird & Co.](http://www.rwbaird.com)** | **[Women in Equity Research Event (November 18, 2024) - Virtual](https://jobright.ai/jobs/info/66c54be8020f2a42bd19e2f5?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/66c63a7dc094c9b4b6b8ac64?utm_campaign=1056&utm_source=git)** | New York, New York | On Site | Aug 20 |
-| **[Veterinary Referral Center of Central Oregon](https://vrcvet.com)** | **[Community Outreach and Event Coordination Intern](https://jobright.ai/jobs/info/66c552f0308e79c9bcc14595?utm_campaign=1056&utm_source=git)** | Bend, OR | On Site | Aug 20 |
 | **[Agora](https://agora.unicef.org/)** | **[INTERNSHIP: 2 x Internships with Advocacy Team (26 weeks, full-time) - GCA, NYHQ - Requisition# 574804](https://jobright.ai/jobs/info/66c5288e9f4da919a6e2d3a4?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 20 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | **[St. Mary's Food Bank Alliance](http://www.firstfoodbank.org)** | **[Development and Food Drive Intern](https://jobright.ai/jobs/info/66c53b3a33e3d96dc776205d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 20 |
