@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/66ab93303d9f7c3ec1b1de19?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Summit County Public Health](https://www.scph.org/)** | **[Public Health Intern- Senior &amp; Adult Services](https://jobright.ai/jobs/info/66c8572236a2df88d7b79494?utm_campaign=1056&utm_source=git)** | Akron, OH | On Site | Aug 23 |
 | **[Kess Buffet](https://www.kess.com.br)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1a6f?utm_campaign=1056&utm_source=git)** | Muscatine, IA | On Site | Aug 22 |
-| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1b1b?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 22 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1b1c?utm_campaign=1056&utm_source=git)** | Bettendorf, IA | On Site | Aug 22 |
+| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c838ae834f8141e22a1b1b?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 22 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c827ccc444fa56f550fd4e?utm_campaign=1056&utm_source=git)** | West Burlington, IA | On Site | Aug 22 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/66c827ccc444fa56f550fe05?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 22 |
 | **[Biasly](http://www.biasly.com)** | **[Political Science Analyst Intern](https://jobright.ai/jobs/info/66c81ea61d41fdcafe7eb045?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
