@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Windmoor Healthcare](https://windmoor.com)** | **[INTERN - SOCIAL WORK (MSW/MA) - UNPAID](https://jobright.ai/jobs/info/66cdca8000a250ff528cfe24?utm_campaign=1056&utm_source=git)** | Clearwater, FL | On Site | Aug 27 |
+| **[Anderson County Government](https://andersoncountytn.gov/)** | **[Anderson County Internship](https://jobright.ai/jobs/info/66cdc5273048b53896b89576?utm_campaign=1056&utm_source=git)** | Clinton, TN | On Site | Aug 27 |
+| **[Workiva](http://www.workiva.com)** | **[2025 Summer MBA ESG & Public Affairs Intern](https://jobright.ai/jobs/info/66cdb969204e693be154e9d2?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Aug 27 |
+| **[Complete Care Management](https://completecaremgmt.com)** | **[Social Services Intern/Assistant](https://jobright.ai/jobs/info/66cda7e0686b225a592cffd6?utm_campaign=1056&utm_source=git)** | Plainfield, NJ | On Site | Aug 27 |
+| **[Republic Airways Holdings](http://www.rjet.com)** | **[Corporate and Community Responsibility Intern- Fall 2024](https://jobright.ai/jobs/info/66cdb0e3c9ee2d7c301e41b7?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
+| **[Workiva](http://www.workiva.com)** | **[2025 Summer MBA ESG & Public Affairs Intern](https://jobright.ai/jobs/info/66cda3db0bb06267b7de38d1?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Children’s Hospital Los Angeles](http://www.chla.org/)** | **[Administrative Intern / Government & Public Policy](https://jobright.ai/jobs/info/66cd5faf7d1a7c06c6d293b5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Workiva](http://www.workiva.com)** | **[2025 Summer MBA ESG & Public Affairs Intern](https://jobright.ai/jobs/info/66cd79557b83aedf69ca668c?utm_campaign=1056&utm_source=git)** | Ames | On Site | Aug 26 |
+| **[ICF Next](https://www.icf.com/next)** | **[Seasonal Associate, Public Policy](https://jobright.ai/jobs/info/66cdd212494b4aa16d32d4d2?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Aug 26 |
+| **[Comcast](http://corporate.comcast.com)** | **[Comcast DE&I Governance and Public Policy Co-Op](https://jobright.ai/jobs/info/66cdcec4120597389688fb77?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Aug 26 |
 | **[Children’s Hospital Los Angeles](http://www.chla.org/)** | **[Administrative Intern / Government & Public Policy](https://jobright.ai/jobs/info/66cd2f3db9ee7c8cecd5922a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[The International Association of Chiefs of Police](https://www.theiacp.org)** | **[Intern - Fall 2024](https://jobright.ai/jobs/info/66cd2f3db9ee7c8cecd59266?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 26 |
 | **[FWD.us](http://www.fwd.us)** | **[Immigration Policy & Campaigns Intern (Fall 2024)](https://jobright.ai/jobs/info/66cd22722d87c52acc0be629?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 26 |
@@ -91,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66caf951a8e4399553ad647e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66caf951a8e4399553ad6483?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 25 |
 | **[Core Response](https://www.coreresponse.org/)** | **[Public Health AmeriCorps Service Fellowship](https://jobright.ai/jobs/info/66cb3ea5f0a29fa7c32a35ba?utm_campaign=1056&utm_source=git)** | Los Angeles, California | Hybrid | Aug 24 |
-| **[Salt Lake City Government](https://www.slc.gov)** | **[Public Lands Intern - Seasonal](https://jobright.ai/jobs/info/66c767a7deb38fe738d2b4e6?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/66ca0213cc9e504ef09e6daa?utm_campaign=1056&utm_source=git)** | Bronx, NY | Hybrid | Aug 24 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Board of Supervisors Legislative Intern (District 2)](https://jobright.ai/jobs/info/66cc9661ecceaaf0f9abb6ef?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Aug 24 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Planning Intern (9910)](https://jobright.ai/jobs/info/66cc3f45d426068477b0a1ce?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
@@ -168,8 +175,4 @@ For a complete list, click the following sortable link below:
 | **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/66c63a7dc094c9b4b6b8ac64?utm_campaign=1056&utm_source=git)** | New York, New York | On Site | Aug 20 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/66b997bf8542bbc94933c99c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | **[St. Mary's Food Bank Alliance](http://www.firstfoodbank.org)** | **[Development and Food Drive Intern](https://jobright.ai/jobs/info/66c53b3a33e3d96dc776205d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 20 |
-| **[Goodwill Foundation of Central & Southern Indiana](https://www.goodwillindy.org/foundation)** | **[Community Health Worker (CHW) Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d91a1?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 20 |
-| **[Jefferson Health System](https://www.jeffersonhealth.org/index.html)** | **[Social Work Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d91d9?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 20 |
-| **[Washington Environmental Council](https://wecprotects.org/)** | **[Yakima County Field Organizer Intern](https://jobright.ai/jobs/info/66c501b827456080615582ef?utm_campaign=1056&utm_source=git)** | Yakima, WA | Hybrid | Aug 20 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Division of Race Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/66c501b827456080615583b0?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
