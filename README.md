@@ -173,7 +173,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agrivoltaics Associate (Intern)](https://jobright.ai/jobs/info/66c5246e93950544f36d9263?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Civil Rights](https://civilrights.org/)** | **[Spring 2025 Civil Rights Tech Internship](https://jobright.ai/jobs/info/668fdb8922cfeb6ebf476ebe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | ↳ | **[Spring 2025 Undergraduate Internship](https://jobright.ai/jobs/info/66ae37d2d7502fa433d4b7de?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[InterActions](http://www.interactions.org/)** | **[Intern, Global Development Policy and Learning](https://jobright.ai/jobs/info/66c6c9378fee7a9215d1f572?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Summer 2025 Gender, Sexuality & Reproductive Justice Internship](https://jobright.ai/jobs/info/66c5246e93950544f36d92b8?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
-| **[Public Health Institute](http://www.phi.org)** | **[Public Health Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d92c5?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
