@@ -61,10 +61,9 @@ For a complete list, click the following sortable link below:
 | **[Behavioral Health Network](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/66cea1d68b04c12194308372?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Aug 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Boston – Campus 2025](https://jobright.ai/jobs/info/66ce9a9b25017f477ffa0895?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Aug 27 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce90f25bf93d8c90d45b1b?utm_campaign=1056&utm_source=git)** | Jacksonville, NC | On Site | Aug 27 |
-| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce9a60b28620babed7ab49?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Aug 27 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce9a60b28620babed7ab4c?utm_campaign=1056&utm_source=git)** | Harrisburg, NC | On Site | Aug 27 |
-| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce9a60b28620babed7ab4a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Aug 27 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce9a60b28620babed7ab4b?utm_campaign=1056&utm_source=git)** | Hillsborough, NC | On Site | Aug 27 |
+| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce9a60b28620babed7ab4a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Aug 27 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce8ecd371dfb5f3b004407?utm_campaign=1056&utm_source=git)** | Middlesex, NC | On Site | Aug 27 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66ce8ecd371dfb5f3b004409?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Aug 27 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Regulatory Policy Internship - Fall 2024 - American Action Forum](https://jobright.ai/jobs/info/66ce781b25a6723491422a90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
@@ -152,8 +151,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c98e6?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Aug 22 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c9934?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Aug 22 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c99fd?utm_campaign=1056&utm_source=git)** | Missouri, United States | On Site | Aug 22 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c9b43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c9b3c?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 22 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c9b43?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950b28ec26796b7c9d16?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 22 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950e28ec26796b7c9d48?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66ca950e28ec26796b7c9d55?utm_campaign=1056&utm_source=git)** | East Lyme, CT | On Site | Aug 22 |
@@ -182,5 +181,4 @@ For a complete list, click the following sortable link below:
 | **[Pact](http://www.pactworld.org/)** | **[CSM-STAND Intern](https://jobright.ai/jobs/info/66c67b79067b3566e08647a3?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66c6760d5b8354e1af8003a8?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 21 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Administrative Assistant](https://jobright.ai/jobs/info/66c678828d4b11894de66f27?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 21 |
-| **[GSP International Airport](https://gspairport.com)** | **[Police Intern](https://jobright.ai/jobs/info/66c646291c24e45b3f5dfdc5?utm_campaign=1056&utm_source=git)** | Greer, SC | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
