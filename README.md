@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AltaMed Health](http://www.altamed.org/)** | **[Community Affairs Project Intern](https://jobright.ai/jobs/info/66d277ab44971d14b3a57f9f?utm_campaign=1056&utm_source=git)** | Commerce, CA | On Site | Aug 30 |
+| **[Henry Ford Health System](http://www.henryford.com/)** | **[Social Worker-Intern Troy](https://jobright.ai/jobs/info/66d280f9734789d72c9819e5?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Aug 30 |
+| **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/66bd654f0b56b315ae746f78?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Aug 30 |
+| **[OCTA](https://www.octa.net/)** | **[College Intern - Government Relations](https://jobright.ai/jobs/info/66d273b76be7de6b06aff110?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Aug 30 |
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66ae8c3a23d75d1963d77a44?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Aug 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d25a91f396c6f40612e669?utm_campaign=1056&utm_source=git)** | Sitka, AK | On Site | Aug 30 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d25a91f396c6f40612e66a?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Aug 30 |
@@ -133,12 +137,10 @@ For a complete list, click the following sortable link below:
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2025 Policy & Legislation Internship – Washington, D.C.](https://jobright.ai/jobs/info/66c916508792f94bc2e62a79?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 28 |
 | **[Republic Airways Holdings](http://www.rjet.com)** | **[Corporate and Community Responsibility Intern - Summer 2025](https://jobright.ai/jobs/info/66cfaa57894aefed9bc113b4?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 28 |
 | **[Catholic Charities Atlanta](https://catholiccharitiesatlanta.org/)** | **[Volunteer: Refugee Resettlement Internship - Fall 2024](https://jobright.ai/jobs/info/66cfd04b194a9e4eb28b80ab?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
-| **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/66bd654f0b56b315ae746f78?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Aug 28 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/66cfb0f64114f0066f1e159a?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Couri Orange Hatchery](http://whitman.syr.edu/eee/incubator)** | **[Postdoctoral Researcher - Campbell Institute](https://jobright.ai/jobs/info/66cfa77e701a142b0edd65ec?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Aug 28 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/66cf8a6a5748bc96ec44fb06?utm_campaign=1056&utm_source=git)** | Clearwater, FL | Hybrid | Aug 28 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Chuck Cooper Fellowship](https://jobright.ai/jobs/info/66a90fdb69673bc03b941b86?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Aug 28 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2025 Payments System Intern](https://jobright.ai/jobs/info/66cf72fe54c7641068ac2ba9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Arizona Department of Environmental Quality](https://www.azdeq.gov)** | **[INTERN](https://jobright.ai/jobs/info/66cf5318fcf16b535e1ac769?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[The Humane Society of the United States](http://www.humanesociety.org)** | **[State Affairs Intern, Indiana](https://jobright.ai/jobs/info/66cf88c1d713aa5b4d3e542b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 28 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work Study, Testing Services](https://jobright.ai/jobs/info/66cf663218295a0b71abcf3d?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 28 |
@@ -150,6 +152,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Sustainability Intern - Fall 2024](https://jobright.ai/jobs/info/66cf1938ac3a69b3c140e16c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Aug 28 |
 | **[Behavioral Health Network](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/66cea1d68b04c12194308372?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Aug 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Boston – Campus 2025](https://jobright.ai/jobs/info/66ce9a9b25017f477ffa0895?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Aug 27 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2025 Payments System Intern](https://jobright.ai/jobs/info/66cf719f7f9217e2951495ec?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Regulatory Policy Internship - Fall 2024 - American Action Forum](https://jobright.ai/jobs/info/66ce781b25a6723491422a90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66ce781b25a6723491422f24?utm_campaign=1056&utm_source=git)** | Fernandina Beach, FL | On Site | Aug 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2025](https://jobright.ai/jobs/info/66ce5f31c4351013f32025ad?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
