@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d38a66aaefc5c2f7042d5b?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Aug 31 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern-12](https://jobright.ai/jobs/info/66d39a9d36df52c4f676c06d?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Aug 31 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Research Assistant - Political Science](https://jobright.ai/jobs/info/66d39487f8c4bcd29989c001?utm_campaign=1056&utm_source=git)** | Huntsville, TX | On Site | Aug 31 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2024 Executive Branch Agency Internship Links](https://jobright.ai/jobs/info/66d38abc6472606362ef3fdf?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Aug 31 |
+| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[PUBLIC SERVICE INTERN 1 - Part Time](https://jobright.ai/jobs/info/66d380c71bc766497aa4ae62?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Aug 31 |
+| ↳ | **[PUBLIC SERVICE INTERN 1 - Part Time](https://jobright.ai/jobs/info/66d380c71bc766497aa4addf?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Aug 31 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Public Administration Intern - Spring Semester](https://jobright.ai/jobs/info/66d329a93397e0d901deac19?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Aug 31 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66d2fd9d5124fb6aa79ecfac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[The Morton Arboretum](https://www.mortonarb.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/66d2fedb6a45d04642117ffd?utm_campaign=1056&utm_source=git)** | Lisle, IL | On Site | Aug 31 |
@@ -88,9 +94,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PUBLIC SERVICE INTERN 2 - Part Time](https://jobright.ai/jobs/info/66d227ee3d99b5c9d8862e15?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Aug 30 |
 | **[Swing Strategies](https://www.swingstrat.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/66d1f2a50457f00341d8c265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 30 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Remote Eligible)](https://jobright.ai/jobs/info/66d1e4e81d1ee335ccf4a825?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Remote | Aug 30 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c98a1?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Aug 30 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c98a4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Aug 30 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Aug 30 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 30 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Aug 30 |
@@ -108,9 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Family & Children's Association](https://fcali.org)** | **[CMHW Intern (Unpaid)](https://jobright.ai/jobs/info/66d1087dda518c9466b3c3d2?utm_campaign=1056&utm_source=git)** | Garden City, NY | On Site | Aug 29 |
 | **[Locust Street Group](https://locuststreet.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/66d0ef615f2297e13a79806c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66d0db88505db71c77eade70?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
-| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9cc87bba50c765578b6?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Aug 29 |
-| ↳ | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9fa87bba50c76557d81?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Aug 29 |
-| ↳ | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9fa87bba50c76557d82?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Aug 29 |
+| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9fa87bba50c76557d81?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Aug 29 |
 | ↳ | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9fa87bba50c76557d83?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Aug 29 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Southeast Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b692?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | ↳ | **[Intern, Research and Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b684?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
