@@ -94,9 +94,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PUBLIC SERVICE INTERN 2 - Part Time](https://jobright.ai/jobs/info/66d227ee3d99b5c9d8862e15?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Aug 30 |
 | **[Swing Strategies](https://www.swingstrat.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/66d1f2a50457f00341d8c265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 30 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Remote Eligible)](https://jobright.ai/jobs/info/66d1e4e81d1ee335ccf4a825?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Remote | Aug 30 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c98a1?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Aug 30 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c98a4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Aug 30 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Aug 30 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 30 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Aug 30 |
@@ -114,8 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Family & Children's Association](https://fcali.org)** | **[CMHW Intern (Unpaid)](https://jobright.ai/jobs/info/66d1087dda518c9466b3c3d2?utm_campaign=1056&utm_source=git)** | Garden City, NY | On Site | Aug 29 |
 | **[Locust Street Group](https://locuststreet.com)** | **[Public Affairs & Communications Intern](https://jobright.ai/jobs/info/66d0ef615f2297e13a79806c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66d0db88505db71c77eade70?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
-| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9fa87bba50c76557d81?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Aug 29 |
-| ↳ | **[PUBLIC SERVICE INTERN 2](https://jobright.ai/jobs/info/66d0e9fa87bba50c76557d83?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Aug 29 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Southeast Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b692?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | ↳ | **[Intern, Research and Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b684?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
 | **[UN Women](http://www.unwomen.org/en)** | **[AWLN Intergenerational Retreat Project Support Intern - New York](https://jobright.ai/jobs/info/66d0b394a852b522219c6e37?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 29 |
@@ -195,14 +193,4 @@ For a complete list, click the following sortable link below:
 | **[TEACH](https://www.teach4kids.org/)** | **[Volunteer: Expansion Intern](https://jobright.ai/jobs/info/66cc0e35b6f2875f7e15dc25?utm_campaign=1056&utm_source=git)** | Staten Island, NY | On Site | Aug 25 |
 | **[SLCA North America](https://studentledca.org)** | **[High School SLCA Internship](https://jobright.ai/jobs/info/66cbc2b2f977c5feb26dafc7?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 25 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[Government Relations Summer Intern 2025](https://jobright.ai/jobs/info/66cbb2ae341b69ff7aa2042b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 25 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research and Analytics (PRA) - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66af4f905793d7eb5768bc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 25 |
-| **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Appropriations](https://jobright.ai/jobs/info/66761a74127b183117fe7dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 25 |
-| ↳ | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 25 |
-| **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66cb0491796ebc6d6929ccaf?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 25 |
-| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66caf951a8e4399553ad6479?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 25 |
-| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66caf951a8e4399553ad647a?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Aug 25 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66cb0491796ebc6d6929ccb3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66caf951a8e4399553ad647d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66caf951a8e4399553ad647e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 25 |
-| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66caf951a8e4399553ad6483?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
