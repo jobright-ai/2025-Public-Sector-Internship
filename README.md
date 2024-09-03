@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66d642cc361b15b2decf8af4?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Sep 02 |
+| **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/66d63af5127556e09bb70dde?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT | On Site | Sep 02 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/66c576ede62830241f3f4708?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Sep 02 |
 | **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 02 |
 | **[Energy Transfer Partners](http://www.energytransfer.com)** | **[Intern - Gov't Public Affairs](https://jobright.ai/jobs/info/66d517d078983fb9c5673326?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | On Site | Sep 01 |
@@ -71,9 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Animal Welfare Intern](https://jobright.ai/jobs/info/66d3f20e6b87bd9b43dabd5c?utm_campaign=1056&utm_source=git)** | Candor, NC | On Site | Aug 31 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d484ebdcfed67623459d42?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Aug 31 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern-12](https://jobright.ai/jobs/info/66d39a9d36df52c4f676c06d?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Aug 31 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Research Assistant - Political Science](https://jobright.ai/jobs/info/66d39487f8c4bcd29989c001?utm_campaign=1056&utm_source=git)** | Huntsville, TX | On Site | Aug 31 |
-| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2024 Executive Branch Agency Internship Links](https://jobright.ai/jobs/info/66d38abc6472606362ef3fdf?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Aug 31 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/66d5da7b12b2d938219ad41f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 31 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Public Administration Intern - Spring Semester](https://jobright.ai/jobs/info/66d329a93397e0d901deac19?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Aug 31 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66d2fd9d5124fb6aa79ecfac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[The Morton Arboretum](https://www.mortonarb.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/66d2fedb6a45d04642117ffd?utm_campaign=1056&utm_source=git)** | Lisle, IL | On Site | Aug 31 |
@@ -173,5 +172,4 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[2025 Summer MBA ESG & Public Affairs Intern](https://jobright.ai/jobs/info/66cdb969204e693be154e9d2?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Aug 27 |
 | **[Complete Care Management](https://completecaremgmt.com)** | **[Social Services Intern/Assistant](https://jobright.ai/jobs/info/66cda7e0686b225a592cffd6?utm_campaign=1056&utm_source=git)** | Plainfield, NJ | On Site | Aug 27 |
 | **[Workiva](http://www.workiva.com)** | **[2025 Summer MBA ESG & Public Affairs Intern](https://jobright.ai/jobs/info/66cda3db0bb06267b7de38d1?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Securing America's Future Energy](http://secureenergy.org)** | **[Public Affairs and Communications Fall Intern](https://jobright.ai/jobs/info/66d0129ac9d6623811e3c6d4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
