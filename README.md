@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Habitat For Humanity International](https://www.habitat.org/ap)** | **[Global Urban Programming Intern](https://jobright.ai/jobs/info/66d70f8d385b63bc0d417663?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 03 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/669ece5070bef644cfa14f57?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
+| **[IINE](https://iine.org/)** | **[[Fall 2024] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66c572229ddc9c782b7c2d02?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Sep 03 |
+| ↳ | **[[Fall 2024] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/66c572229ddc9c782b7c2d0e?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 03 |
+| ↳ | **[[Fall 2024] Community Service & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/66c572229ddc9c782b7c2d0b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 03 |
+| **[BCFS Health and Human Services](https://bcfs.net/)** | **[Law Enforcement Liaison Support-Intern](https://jobright.ai/jobs/info/66c5724b9ddc9c782b7c315e?utm_campaign=1056&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Sep 03 |
+| **[Hilton Worldwide](https://www.hilton.com/en/brands/home2-suites/)** | **[2025 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/66d6cb41c6c632e18b90bda7?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Sep 03 |
+| **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Spring Semester](https://jobright.ai/jobs/info/66d6f20092e9859e7f74c7fd?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Sep 03 |
 | **[Society of Interventional Radiology](http://sirweb.org)** | **[Government Relations Intern (Hybrid) 15 Hours/week](https://jobright.ai/jobs/info/66d642cc361b15b2decf8af4?utm_campaign=1056&utm_source=git)** | Washington, VA | Hybrid | Sep 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/66d63af5127556e09bb70dde?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT | On Site | Sep 02 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/66c576ede62830241f3f4708?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Sep 02 |
@@ -156,9 +164,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66ce781b25a6723491422f24?utm_campaign=1056&utm_source=git)** | Fernandina Beach, FL | On Site | Aug 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2025](https://jobright.ai/jobs/info/66ce5f31c4351013f32025ad?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Public Health Institute](http://www.phi.org)** | **[Policy & Research Intern](https://jobright.ai/jobs/info/66ce53a4002b00bbea3f1bf8?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Aug 27 |
-| **[Dallas Pets Alive](https://dallaspetsalive.org/)** | **[Volunteer: Positive Alternative to Shelter Surrender (PASS) Rehoming Specialist](https://jobright.ai/jobs/info/66ce3f545daca148ef8f3c67?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Aug 27 |
-| **[BCFS Health and Human Services](https://bcfs.net/)** | **[Law Enforcement Liaison Support-Intern](https://jobright.ai/jobs/info/66ce3b3755b59a33c4061178?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 27 |
-| **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66be275229dba50e7d6618b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
-| **[Management Sciences for Health](https://www.msh.org)** | **[Local Capacity Strengthening (LCS) Intern](https://jobright.ai/jobs/info/66ce1eb771ed0c56c62e3826?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 27 |
-| **[Georgia Beverage Association](https://georgiabev.org)** | **[2025 Legislative Internship](https://jobright.ai/jobs/info/66ce9a0475f390ba6b815f82?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
