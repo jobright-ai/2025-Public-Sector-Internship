@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[OCTA](https://www.octa.net/)** | **[College Intern - Government Relations](https://jobright.ai/jobs/info/66d273b76be7de6b06aff110?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Aug 30 |
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66ae8c3a23d75d1963d77a44?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Aug 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d25a91f396c6f40612e66a?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Aug 30 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d3316150f748dba4dcd41a?utm_campaign=1056&utm_source=git)** | Kodiak, AK | On Site | Aug 30 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Engagement Specialist- Crisis](https://jobright.ai/jobs/info/66d241b443b3bddb65179a41?utm_campaign=1056&utm_source=git)** | Palos Hills, IL | On Site | Aug 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d24304dc16cb477d3b5a87?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Aug 30 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Legislative Affairs Student Intern](https://jobright.ai/jobs/info/66d233a76453bb7f95b348af?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 30 |
@@ -96,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[City of Manhattan Beach](http://www.manhattanbeach.gov)** | **[Police Intern - PT](https://jobright.ai/jobs/info/66d21fc87d69e60ea597b3ce?utm_campaign=1056&utm_source=git)** | Manhattan Beach, CA | On Site | Aug 30 |
 | **[Swing Strategies](https://www.swingstrat.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/66d1f2a50457f00341d8c265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 30 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Remote Eligible)](https://jobright.ai/jobs/info/66d1e4e81d1ee335ccf4a825?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Remote | Aug 30 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c98a4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Aug 30 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Aug 30 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 30 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Aug 30 |
@@ -162,9 +161,4 @@ For a complete list, click the following sortable link below:
 | **[Crowell & Moring](http://www.crowell.com)** | **[Healthcare Policy Intern](https://jobright.ai/jobs/info/66be275229dba50e7d6618b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Management Sciences for Health](https://www.msh.org)** | **[Local Capacity Strengthening (LCS) Intern](https://jobright.ai/jobs/info/66ce1eb771ed0c56c62e3826?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 27 |
 | **[Georgia Beverage Association](https://georgiabev.org)** | **[2025 Legislative Internship](https://jobright.ai/jobs/info/66ce9a0475f390ba6b815f82?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
-| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/66ce186511a089cf92ca4384?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Aug 27 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[2024 Fall Internships](https://jobright.ai/jobs/info/66cddf7dffc047b5bcbcd0a1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
-| **[Clinton County Board of Education](https://www.clinton.kyschools.us/)** | **[ACCOUNTABILITY, RESEARCH, AND SYSTEMS IMPROVEMENT - INTERN');](https://jobright.ai/jobs/info/66c7609b540f4be1399a21e5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 27 |
-| **[Windmoor Healthcare](https://windmoor.com)** | **[INTERN - SOCIAL WORK (MSW/MA) - UNPAID](https://jobright.ai/jobs/info/66cdca8000a250ff528cfe24?utm_campaign=1056&utm_source=git)** | Clearwater, FL | On Site | Aug 27 |
-| **[Anderson County Government](https://andersoncountytn.gov/)** | **[Anderson County Internship](https://jobright.ai/jobs/info/66cdc5273048b53896b89576?utm_campaign=1056&utm_source=git)** | Clinton, TN | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
