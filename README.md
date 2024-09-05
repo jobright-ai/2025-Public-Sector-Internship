@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PADF](https://www.padf.org/)** | **[Programs Intern, Peace, Justice and Security (PJS), Washington D.C.](https://jobright.ai/jobs/info/66d920efbf2d057bfdb506b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern- Congressional Liaison Office - Division of Board Members](https://jobright.ai/jobs/info/66d9010e8ac0ee54c408621c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Brooklyn College's Immigrant Health Lab](https://ghanaianmentalwellbeing.wordpress.com/)** | **[Graduate Research Intern Position with the NYC Ghanaian Mental Well-being Project](https://jobright.ai/jobs/info/66d8f3e9f6872ce9c784e663?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 04 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9650?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
 | ↳ | **[Intern, World Movement for Democracy (WMD) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9659?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
 | ↳ | **[Intern, Government Relations (GR) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a968c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
-| **[State of Utah](http://www.utah.gov/)** | **[Intern, JPEC](https://jobright.ai/jobs/info/66d8f0e140b7aa41b784c8be?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Sep 04 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66d8e075d3042dced44804a3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
 | **[Arch Capital Group](https://www.archgroup.com)** | **[ESG & Community Impact Summer Intern - Arch Capital](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea815?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Sep 04 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Legislative Affairs Student Intern](https://jobright.ai/jobs/info/66d8e075d3042dced44804b7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66d7c0947426d43835f06f4a?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Sep 03 |
 | **[Santander US](https://www.santanderus.com)** | **[Sustainability Strategy Intern](https://jobright.ai/jobs/info/66d86243fd1cdc8d002d2114?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66d7ecd003e3c058d0c5948e?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Sep 03 |
+| **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/66d90664e9d93eb10ced0676?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Sep 03 |
 | **[Insight Therapy Solutions](https://www.insighttherapysolutions.com)** | **[Clinical Social Worker Intern](https://jobright.ai/jobs/info/66d7aba5410faa907fe3faf7?utm_campaign=1056&utm_source=git)** | Nevada, United States | Hybrid | Sep 03 |
 | **[American Institutes for Research](http://www.air.org/)** | **[Research Intern, Juvenile Justice System](https://jobright.ai/jobs/info/66ab93303d9f7c3ec1b1de19?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Hybrid - Southern California)](https://jobright.ai/jobs/info/66d79d05bc12cc2da01ff866?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Sep 03 |
@@ -180,8 +182,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Intern - CM Woo](https://jobright.ai/jobs/info/66d1b58f51338d8f97b632fd?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
 | **[Blackstone Group](http://blackstone.com)** | **[2025 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1205?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[City of Bismarck](http://www.bismarcknd.gov)** | **[Substance Abuse Prevention Intern](https://jobright.ai/jobs/info/66d0934a5d7fe815fbc1e562?utm_campaign=1056&utm_source=git)** | Bismarck, ND | On Site | Aug 29 |
-| **[NAACP Legal Defense & Educational Fund](http://www.naacpldf.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f3ec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
-| **[National Endowment for Democracy](http://ned.org/)** | **[Intern, World Movement for Democracy / Fall 2024](https://jobright.ai/jobs/info/66c58b854031dddaece8f4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
-| ↳ | **[Intern, Research & Conferences, (IFDS) / Fall 2024](https://jobright.ai/jobs/info/66bb46fcd18edbc18d09cf61?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
-| **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/66c58b854031dddaece8f705?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
