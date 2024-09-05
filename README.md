@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2025 Summer Program - Junior - Research](https://jobright.ai/jobs/info/66d95a27cb9fee62e5fe027d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Fall Intern](https://jobright.ai/jobs/info/66d968609488ed13c0402a39?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
+| **[Constellation Energy](https://www.constellationenergy.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/66d9526316371bacaba4b745?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 04 |
+| **[American Red Cross](http://redcross.org)** | **[SAF Paid Intern](https://jobright.ai/jobs/info/66d95a27cb9fee62e5fe02d4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 04 |
+| **[Butterball, LLC](http://www.butterball.com/)** | **[2025 Summer Animal Care and Wellbeing Intern](https://jobright.ai/jobs/info/66d930177c1e9619cf08c8e5?utm_campaign=1056&utm_source=git)** | Garner, NC | On Site | Sep 04 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Public Affairs - Corporate Giving](https://jobright.ai/jobs/info/66d92cb621a5f0c594412d07?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Sep 04 |
+| **[Ulteig](http://ulteig.com)** | **[Summer 2025 Right of Way Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9bf?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Sep 04 |
+| **[HNTB](http://www.hntb.com/)** | **[Public Engagement and Communications Intern - Summer 2025](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed961e?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Sep 04 |
 | **[PADF](https://www.padf.org/)** | **[Programs Intern, Peace, Justice and Security (PJS), Washington D.C.](https://jobright.ai/jobs/info/66d920efbf2d057bfdb506b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern- Congressional Liaison Office - Division of Board Members](https://jobright.ai/jobs/info/66d9010e8ac0ee54c408621c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2025 Summer Program - Junior - Research](https://jobright.ai/jobs/info/66d9526316371bacaba4b795?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[Brooklyn College's Immigrant Health Lab](https://ghanaianmentalwellbeing.wordpress.com/)** | **[Graduate Research Intern Position with the NYC Ghanaian Mental Well-being Project](https://jobright.ai/jobs/info/66d8f3e9f6872ce9c784e663?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 04 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9650?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
 | ↳ | **[Intern, World Movement for Democracy (WMD) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9659?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 04 |
@@ -149,7 +158,6 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council](http://www.nrdc.org/)** | **[Fall E2 Diversity in Clean Energy Intern](https://jobright.ai/jobs/info/66c57c1693207bfd55a32492?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 31 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Planning Intern (9910)](https://jobright.ai/jobs/info/66d2c015f0bc5f178c00d6e5?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Lead Intern - CSR & Sustainability Community Affairs](https://jobright.ai/jobs/info/66d2a83708a16fb8fdf4989d?utm_campaign=1056&utm_source=git)** | Carlsbad, CA | On Site | Aug 30 |
-| **[AltaMed Health](http://www.altamed.org/)** | **[Community Affairs Project Intern](https://jobright.ai/jobs/info/66d277ab44971d14b3a57f9f?utm_campaign=1056&utm_source=git)** | Commerce, CA | On Site | Aug 30 |
 | **[California Department of Industrial Relations](https://www.dir.ca.gov/)** | **[Evaluation Analyst](https://jobright.ai/jobs/info/66bd654f0b56b315ae746f78?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Aug 30 |
 | **[OCTA](https://www.octa.net/)** | **[College Intern - Government Relations](https://jobright.ai/jobs/info/66d273b76be7de6b06aff110?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Aug 30 |
 | **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/66ae8c3a23d75d1963d77a44?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Aug 30 |
@@ -178,8 +186,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66d0db88505db71c77eade70?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Southeast Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b692?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | ↳ | **[Intern, Research and Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b684?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
-| **[UN Women](http://www.unwomen.org/en)** | **[AWLN Intergenerational Retreat Project Support Intern - New York](https://jobright.ai/jobs/info/66d0b394a852b522219c6e37?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 29 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Intern - CM Woo](https://jobright.ai/jobs/info/66d1b58f51338d8f97b632fd?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
-| **[Blackstone Group](http://blackstone.com)** | **[2025 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/66d0a903cabcd14b301b1205?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
-| **[City of Bismarck](http://www.bismarcknd.gov)** | **[Substance Abuse Prevention Intern](https://jobright.ai/jobs/info/66d0934a5d7fe815fbc1e562?utm_campaign=1056&utm_source=git)** | Bismarck, ND | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
