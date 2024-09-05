@@ -57,6 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/66d9a92c322bbec90ca9163d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 05 |
+| **[U.S. Postal Service Office of Inspector General](https://www.uspsoig.gov/)** | **[Student Coop - Communications Team in Office of Investigations](https://jobright.ai/jobs/info/66d9a55f3fbedafff9a8296a?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 05 |
+| **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9708?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 05 |
+| **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcce?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Emergency Preparedness & S3 Operations Intern – Fall 2024](https://jobright.ai/jobs/info/66c524a693950544f36d9702?utm_campaign=1056&utm_source=git)** | Culver City, CA | Hybrid | Sep 05 |
+| **[National Audubon Society (USA)](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9718?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 05 |
+| **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccc?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd4?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 05 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dced?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce1?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 05 |
+| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd10?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce0?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
+| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 05 |
+| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc6?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcea?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 05 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2025 Summer Program - Junior - Research](https://jobright.ai/jobs/info/66d95a27cb9fee62e5fe027d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Fall Intern](https://jobright.ai/jobs/info/66d968609488ed13c0402a39?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Constellation Energy](https://www.constellationenergy.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/66d9526316371bacaba4b745?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 04 |
@@ -183,7 +202,4 @@ For a complete list, click the following sortable link below:
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Law and Policy Research Assistant](https://jobright.ai/jobs/info/66d115f85707edd23f89c2fc?utm_campaign=1056&utm_source=git)** | University Park, PA | On Site | Aug 29 |
 | **[EPCOR](http://www.epcor.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66d0f7c9bbfbd04abcd24cf2?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
 | **[Family & Children's Association](https://fcali.org)** | **[CMHW Intern (Unpaid)](https://jobright.ai/jobs/info/66d1087dda518c9466b3c3d2?utm_campaign=1056&utm_source=git)** | Garden City, NY | On Site | Aug 29 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66d0db88505db71c77eade70?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
-| **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Southeast Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b692?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
-| ↳ | **[Intern, Research and Policy](https://jobright.ai/jobs/info/66d0c435bc94c66ad983b684?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
