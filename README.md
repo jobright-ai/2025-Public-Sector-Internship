@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthony’s Villa](www.Anthonys-villa.com)** | **[Intern, Social Work](https://jobright.ai/jobs/info/66ddd970dceba730052abfe0?utm_campaign=1056&utm_source=git)** | Castalia, OH | On Site | Sep 08 |
+| **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/66dde15f174faff215b8ca2c?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 08 |
 | **[University of New Mexico](http://unm.edu)** | **[Wish Assistant](https://jobright.ai/jobs/info/66dd198618e227c5c4ab31ce?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Sep 07 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/66dca4df1d985dd0e7c08ac3?utm_campaign=1056&utm_source=git)** | Bayville, NJ | On Site | Sep 07 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern - Public Affairs - Corporate Giving](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e6ee?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Sep 07 |
-| ↳ | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e6e4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/66dc5887dc032fe0171d2f9c?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 07 |
 | **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/66dc357cb6186f0ceabe5bd7?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Sep 07 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern, Systems and Operational Resiliency Policy - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66db5fbfd1ceaa0730d95413?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/66bfdc56fe3e9ff1ec9c122c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87bb?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Sep 07 |
-| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87c1?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Sep 07 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87c1?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Sep 07 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd813e?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 07 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8126?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 07 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8136?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 07 |
@@ -111,9 +111,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af69?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af81?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, Federal Transformation Delivery / McLean Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af6b?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Sep 06 |
+| ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af75?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af77?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af7f?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 06 |
-| ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af75?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af7b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180afa2?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af96?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 06 |
@@ -150,6 +150,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern DV Advocacy and Support](https://jobright.ai/jobs/info/66d9d92729ad71625341b56d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2025 Summer Animal Care and Wellbeing Intern](https://jobright.ai/jobs/info/66d9cef9c2343b56a62a3feb?utm_campaign=1056&utm_source=git)** | Garner, NC | On Site | Sep 05 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2025 Summer Program - Junior - Research](https://jobright.ai/jobs/info/66dc69557dfb473684afd1a8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/66ddba4b9cb08a421fa633c4?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 05 |
 | **[Dewey Square Group](http://deweysquare.com)** | **[Latinovations/Public Affairs Intern](https://jobright.ai/jobs/info/66d9c63746a6fe0b8e3025dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 05 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/66d9a92c322bbec90ca9163d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 05 |
 | **[U.S. Postal Service Office of Inspector General](https://www.uspsoig.gov/)** | **[Student Coop - Communications Team in Office of Investigations](https://jobright.ai/jobs/info/66d9a55f3fbedafff9a8296a?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 05 |
@@ -160,8 +161,8 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccc?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd4?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 05 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dced?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 05 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dced?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce1?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd10?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce0?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
@@ -241,5 +242,4 @@ For a complete list, click the following sortable link below:
 | **[Audax Private Equity](https://www.audaxprivateequity.com)** | **[2024 Audax Women in Private Debt Forum](https://jobright.ai/jobs/info/66d75969df31993fc964e823?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/66d63af5127556e09bb70dde?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT | On Site | Sep 02 |
 | **[Gravity Research](http://gravityresearch.com/)** | **[Public Policy Research Intern](https://jobright.ai/jobs/info/66636fb2a77ba1bbb0297b42?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 02 |
-| **[Energy Transfer Partners](http://www.energytransfer.com)** | **[Intern - Gov't Public Affairs](https://jobright.ai/jobs/info/66d517d078983fb9c5673326?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
