@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of New Mexico](http://unm.edu)** | **[Wish Assistant](https://jobright.ai/jobs/info/66dd198618e227c5c4ab31ce?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Sep 07 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/66dca4df1d985dd0e7c08ac3?utm_campaign=1056&utm_source=git)** | Bayville, NJ | On Site | Sep 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern - Public Affairs - Corporate Giving](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e6ee?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Sep 07 |
 | ↳ | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/66dc7b70febf6fc818a2e6e4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2024 (9920)](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/66bfdc56fe3e9ff1ec9c122c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87bb?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Sep 07 |
-| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87c1?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Sep 07 |
+| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd813e?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 07 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8126?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 07 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8136?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 07 |
@@ -108,9 +109,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af6e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af69?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af81?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Sep 06 |
-| ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af77?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af7f?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af7b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 06 |
+| ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af77?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af75?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, Federal Transformation Delivery / McLean Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180af6b?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Sep 06 |
 | ↳ | **[Advisory Intern, State and Local Solutions / Multiple Locations Summer 2025](https://jobright.ai/jobs/info/66daf8ca15430331c180afa2?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Sep 06 |
@@ -157,15 +158,15 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd4?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccc?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 05 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dced?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 05 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dced?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce1?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd10?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce0?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 05 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc6?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 05 |
-| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcea?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcea?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 05 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Fall Intern](https://jobright.ai/jobs/info/66d968609488ed13c0402a39?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Constellation Energy](https://www.constellationenergy.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/66d9526316371bacaba4b745?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 04 |
@@ -174,9 +175,9 @@ For a complete list, click the following sortable link below:
 | **[Ulteig](http://ulteig.com)** | **[Summer 2025 Right of Way Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9bf?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Sep 04 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement and Communications Intern - Summer 2025](https://jobright.ai/jobs/info/66d92d7eb719e0c07bed961e?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Sep 04 |
 | **[PADF](https://www.padf.org/)** | **[Programs Intern, Peace, Justice and Security (PJS), Washington D.C.](https://jobright.ai/jobs/info/66d920efbf2d057bfdb506b3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/66da39f4272d39a37621f43d?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Sep 04 |
-| ↳ | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/66da39f4272d39a37621f34b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 04 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/66da39f4272d39a37621f34b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | ↳ | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/66da39f4272d39a37621f43e?utm_campaign=1056&utm_source=git)** | Morris Plains, NJ | On Site | Sep 04 |
+| ↳ | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/66da39f4272d39a37621f43d?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Sep 04 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern- Congressional Liaison Office - Division of Board Members](https://jobright.ai/jobs/info/66d9010e8ac0ee54c408621c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[TPS Government Affairs Intern](https://jobright.ai/jobs/info/66d9ffdc4ffcae6ab524eec1?utm_campaign=1056&utm_source=git)** | Atlanta | On Site | Sep 04 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Blue Health Initiatives Intern](https://jobright.ai/jobs/info/66da55833d6802b10eb7d569?utm_campaign=1056&utm_source=git)** | Topeka | On Site | Sep 04 |
