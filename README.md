@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of South Fulton GA](http://www.cityofsouthfultonga.gov)** | **[Legislative Research Intern](https://jobright.ai/jobs/info/66e4d21ea4219d8116b49ac1?utm_campaign=1056&utm_source=git)** | South Fulton, GA | On Site | Sep 13 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/66e4da82958c4e51a7642c6f?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Sep 13 |
 | **[Bakersfield Behavioral Healthcare Hospital](https://www.bakersfieldbehavioral.com/)** | **[Social Work Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd0997a?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | On Site | Sep 13 |
 | **[General Motors](https://www.gm.com)** | **[ESG Analyst Intern](https://jobright.ai/jobs/info/66e49bd99932274bdfb16e86?utm_campaign=1056&utm_source=git)** | Warren, MI | Hybrid | Sep 13 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Veteran Affairs](https://jobright.ai/jobs/info/66e491ec5012cd11a9fe853a?utm_campaign=1056&utm_source=git)** | Highland Hills, OH | On Site | Sep 13 |
 | **[Liberty Bancorp](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e8000?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Sep 13 |
-| **[Prince George's County, Maryland](http://www.princegeorgescountymd.gov)** | **[Youth@Work Internship](https://jobright.ai/jobs/info/66e489fac1038770cb6f181b?utm_campaign=1056&utm_source=git)** | Prince George's County, MD | On Site | Sep 13 |
 | **[Bright Harbor Healthcare](https://brightharbor.org)** | **[Diversity, Equity, Inclusion and Justice Intern](https://jobright.ai/jobs/info/66e491ec5012cd11a9fe858f?utm_campaign=1056&utm_source=git)** | Bayville, NJ | On Site | Sep 13 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Planning Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e847d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 13 |
 | **[Comcast](http://corporate.comcast.com)** | **[Digital Equity Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6c0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 13 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Resettlement Casework Intern](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4b53?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Sep 13 |
 | **[Fund for Public Health in New York](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/66e424bce598c86d63dddfd6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 13 |
-| **[SEEDS2SUCCEED Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/66e3dcf891e2b8ed0232e216?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Sep 12 |
 | **[State of Florida](http://www.myflorida.com)** | **[Facilities Clerk](https://jobright.ai/jobs/info/66e4838959e59f33b271040e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 12 |
+| **[American AgCredit](http://www.agloan.com/)** | **[Intern-Evaluation Services](https://jobright.ai/jobs/info/66e4dcc7a9f6e585d653c1ad?utm_campaign=1056&utm_source=git)** | Oakdale, CA | Hybrid | Sep 12 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[NCSA SAC Chair (Student)](https://jobright.ai/jobs/info/66e38760e303c5aab111ac1f?utm_campaign=1056&utm_source=git)** | Bay Shore Acres, FL | On Site | Sep 12 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Registration Specialist/Archivist Internship](https://jobright.ai/jobs/info/66e37b59cbbd7515ae5455d5?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Sep 12 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/66e3824af5b0e0bd9bd87a27?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 12 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Land O' Lakes](http://www.landolakesinc.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66e16161ec909f37cc494f8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking Program Intern](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4b87?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 10 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4b5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Matching Grant Program Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da1c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 10 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da1c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 10 |
+| ↳ | **[Matching Grant Program Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | ↳ | **[Child and Youth Advocacy Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da14?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
 | ↳ | **[Fall 2024 Housing Intern](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4c05?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Sep 10 |
 | **[Constellation Energy](https://www.constellationenergy.com/)** | **[Summer Government Affairs Intern](https://jobright.ai/jobs/info/66e0e9d96d924a07dc04e655?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 10 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Policy Intern, Tax](https://jobright.ai/jobs/info/66760dd8ad2dd17614c4876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
 | ↳ | **[Policy Intern, Appropriations](https://jobright.ai/jobs/info/66761a74127b183117fe7dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
 | **[Comcast](http://corporate.comcast.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/66e08d6327ed9ce26d062916?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 10 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving and Impact Business Internship](https://jobright.ai/jobs/info/66e08720d04cf99262151e2a?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Sep 10 |
-| ↳ | **[Corporate Giving and Impact Business Internship](https://jobright.ai/jobs/info/66e08720d04cf99262151fa2?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 10 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Corporate Giving and Impact Business Internship](https://jobright.ai/jobs/info/66e08720d04cf99262151fa2?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 10 |
+| ↳ | **[Corporate Giving and Impact Business Internship](https://jobright.ai/jobs/info/66e08720d04cf99262151e2a?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Sep 10 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study – Administrative Assistant](https://jobright.ai/jobs/info/66e08e01cc99db090d866d12?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 10 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Legislative Affairs Student Intern](https://jobright.ai/jobs/info/66e0649a4d69ecedf8408512?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
 | ↳ | **[Development Impact and Policy Analysis Internship](https://jobright.ai/jobs/info/66e05ec35c6f8593e7b4e0c4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 10 |
