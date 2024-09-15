@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[Public Service Intern 2](https://jobright.ai/jobs/info/66e73619ecfc23f5576ba3a6?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Sep 15 |
+| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66e73619ecfc23f5576ba3a7?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Sep 15 |
+| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66e73358c2eb8dc56fca5849?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Sep 15 |
+| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66e728bad2b67d30aba46914?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Sep 15 |
+| **[SEEDS2SUCCEED Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/66e7246c0438f7bd4b266f4c?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Sep 15 |
+| **[City of Spokane](https://my.spokanecity.org/)** | **[Transportation Intern](https://jobright.ai/jobs/info/66e70c39276fa9471e47fdee?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Sep 15 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/66e68bcc529fd491e4751a69?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Sep 14 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/66bfdc56fe3e9ff1ec9c122c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 14 |
 | **[North Range Behavioral Health](https://northrange.org/)** | **[Intern - Masters Level - Crisis Response Team](https://jobright.ai/jobs/info/66e6c4c49f6d7caff90a1840?utm_campaign=1056&utm_source=git)** | Greeley, CO | On Site | Sep 14 |
 | **[Anderson County Government](https://andersoncountytn.gov/)** | **[Anderson County Internship](https://jobright.ai/jobs/info/66e62260866a10077588655a?utm_campaign=1056&utm_source=git)** | Clinton, TN | On Site | Sep 14 |
-| **[SEEDS2SUCCEED Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/66e60743e34805ecb18fa8a6?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Sep 14 |
-| **[US Army](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/66e602704449bae4a5673474?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Sep 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6a5d?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 14 |
 | **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66e5900dadaa512d88222ae6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | **[Veterinary Referral Center of Central Oregon](https://vrcvet.com)** | **[Community Outreach and Event Coordination Intern](https://jobright.ai/jobs/info/66e59df8fd70833600dce890?utm_campaign=1056&utm_source=git)** | Bend, OR | On Site | Sep 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BSW Social Work Internship](https://jobright.ai/jobs/info/66e16e9696c4586584a3c780?utm_campaign=1056&utm_source=git)** | Wilton Manors, FL | On Site | Sep 11 |
 | **[Land O' Lakes](http://www.landolakesinc.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66e16161ec909f37cc494f8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4b5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da1c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 10 |
-| ↳ | **[Matching Grant Program Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| ↳ | **[Child and Youth Advocacy Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da14?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Sep 10 |
-| ↳ | **[Fall 2024 Housing Intern](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4c05?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
