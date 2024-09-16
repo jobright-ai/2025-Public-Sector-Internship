@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Robinhood](https://www.robinhood.com)** | **[Government & External Affairs Intern](https://jobright.ai/jobs/info/66e217377713d89b4777c49c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | ↳ | **[Government & External Affairs Intern](https://jobright.ai/jobs/info/66e217377713d89b4777c49a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[Center for Regenerative Medicine](http://www.bu.edu/dbin/stemcells/)** | **[Postdoctoral Research Associate in Community Health Sciences](https://jobright.ai/jobs/info/66e2ac73962c93371fa61201?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 11 |
-| **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Legislative Intern - Spring 2025](https://jobright.ai/jobs/info/66e1fec11efc31b267e5c2d6?utm_campaign=1056&utm_source=git)** | Springfield, Illinois Metropolitan Area | Hybrid | Sep 11 |
 | **[CAIR-Chicago](https://www.cairchicago.org)** | **[Operation Intern](https://jobright.ai/jobs/info/66e1f82c10f084ef7be4cfd3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Mixed Income Housing Intern](https://jobright.ai/jobs/info/66e1e6c8cd4f1c920912ec79?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 11 |
 | **[National Audubon Society (USA)](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/66e1e0a25bd1f0d27ab97711?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Sep 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BSW Social Work Internship](https://jobright.ai/jobs/info/66e16e9696c4586584a3c780?utm_campaign=1056&utm_source=git)** | Wilton Manors, FL | On Site | Sep 11 |
 | **[Land O' Lakes](http://www.landolakesinc.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66e16161ec909f37cc494f8f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/66e1370b29f75f884f2d4b5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Matching Grant Program Intern](https://jobright.ai/jobs/info/66e140ed63525e34ad53da2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
