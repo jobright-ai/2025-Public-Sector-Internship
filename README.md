@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66eb6ba2d963c866437561db?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
 | **[St. Mary's Food Bank Alliance](http://www.firstfoodbank.org)** | **[Development and Food Driver Intern](https://jobright.ai/jobs/info/66eb5ac2cde046b57b050946?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern 2025 - Division of Consumer and Community Affairs](https://jobright.ai/jobs/info/66eb5ac2cde046b57b050a16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66eb585a0259ae9eea89a21e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Sep 18 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OCDIR)](https://jobright.ai/jobs/info/66eb62d8946abb4232e6364f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OPB)](https://jobright.ai/jobs/info/66eb4fe78ac798e6e8f9e332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OPH)](https://jobright.ai/jobs/info/66eb48bfd0b0b3f0b4434d11?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| ↳ | **[Paid Internship: Office of National Drug Control Policy (OHISD)](https://jobright.ai/jobs/info/66eb48bfd0b0b3f0b4434d2f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OTR)](https://jobright.ai/jobs/info/66eb48bfd0b0b3f0b4434d16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
+| ↳ | **[Paid Internship: Office of National Drug Control Policy (OHISD)](https://jobright.ai/jobs/info/66eb48bfd0b0b3f0b4434d2f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OGC)](https://jobright.ai/jobs/info/66eb4fe78ac798e6e8f9e36b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | ↳ | **[Intern - Office of National Drug Control Policy (OELA)](https://jobright.ai/jobs/info/66eb4fe78ac798e6e8f9e38d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Cooley Public Strategies](https://cooleypublicstrategies.com)** | **[Spring Public Affairs Intern](https://jobright.ai/jobs/info/66eb4698586a19bfa33e4ec3?utm_campaign=1056&utm_source=git)** | Brentwood, TN | On Site | Sep 18 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Intern, Program Assistant](https://jobright.ai/jobs/info/66e984f160716b6b35990d8d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 17 |
 | **[Veterinary Referral Center of Central Oregon](https://vrcvet.com)** | **[Community Outreach and Event Coordination Intern](https://jobright.ai/jobs/info/66e9774bbf0e639498aa5637?utm_campaign=1056&utm_source=git)** | Bend, OR | On Site | Sep 17 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66d8b42e78f1ab2b69551a7b?utm_campaign=1056&utm_source=git)** | Katy, TX | On Site | Sep 17 |
-| **[Barnes & Thornburg](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/66ea4965b6effbfebc4fd059?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Government Engagement Intern](https://jobright.ai/jobs/info/66cd1854e990e635dfd5861c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 17 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add1d5?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 17 |
 | ↳ | **[NGO Management Volunteer Internship](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add1e8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 17 |
@@ -120,23 +120,22 @@ For a complete list, click the following sortable link below:
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Elections Intern](https://jobright.ai/jobs/info/66e944fe2c0f6fc7308b8f35?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Remote | Sep 17 |
 | ↳ | **[Energy Efficiency Outreach Paid Intern](https://jobright.ai/jobs/info/66e944fe2c0f6fc7308b8f4a?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Hybrid | Sep 17 |
 | ↳ | **[Field Canvass Internship](https://jobright.ai/jobs/info/66e938c23a1deeceb48eefd9?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Hybrid | Sep 17 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66e905ba2e48568c0c1bec7c?utm_campaign=1056&utm_source=git)** | Abbeville, SC | On Site | Sep 16 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66e905ba2e48568c0c1bec7b?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 16 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/66e905ba2e48568c0c1bec7c?utm_campaign=1056&utm_source=git)** | Abbeville, SC | On Site | Sep 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66e8fdcd6c6703c14f82a348?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66e8fdcd6c6703c14f82a34e?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Sep 16 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/66e8fdcd6c6703c14f82a350?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 16 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66e8fdcd6c6703c14f82a35e?utm_campaign=1056&utm_source=git)** | Oakland County, MI | On Site | Sep 16 |
 | **[Alaska Native Tribal Health Consortium](http://anthc.org/)** | **[Intern Level IV- DEHE Climate Initiatives](https://jobright.ai/jobs/info/66e8ec05e7958cc5c29f5278?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Sep 16 |
-| **[Capital Area Immigrants' Rights Coalition](https://www.caircoalition.org)** | **[Undergraduate Internship - Detained Adult Program](https://jobright.ai/jobs/info/66e8f046e82faf93c81ac34c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 16 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Intern II - Human Services Agency](https://jobright.ai/jobs/info/66e8f046e82faf93c81ac3ee?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Sep 16 |
 | **[Granite School District](http://www.graniteschools.org)** | **[Volunteer - Social Worker Intern](https://jobright.ai/jobs/info/66ea213c9f5f9c9a4fb97e8e?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Sep 16 |
 | **[Swing Strategies](https://www.swingstrat.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/66d1f2a50457f00341d8c265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Sep 16 |
 | **[Excellus BlueCross BlueShield](https://www.excellusbcbs.com/)** | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8d1cae4db4ddb288f1ca6?utm_campaign=1056&utm_source=git)** | Plattsburgh, NY | On Site | Sep 16 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Non-Profit, Whole Foods Market Foundation Internship - Summer 2025](https://jobright.ai/jobs/info/66e8c3552527991c16c16975?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Sep 16 |
 | **[Excellus BlueCross BlueShield](https://www.excellusbcbs.com/)** | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c863b532cca33b3569c8?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 16 |
-| ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c863b532cca33b3569cc?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 16 |
 | ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c863b532cca33b3569ca?utm_campaign=1056&utm_source=git)** | Watertown, NY | On Site | Sep 16 |
-| ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c3552527991c16c16c44?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 16 |
+| ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c863b532cca33b3569cc?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 16 |
 | ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c3552527991c16c16f06?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 16 |
+| ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c3552527991c16c16c44?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 16 |
 | ↳ | **[Intern, Health Equity/Community Investments, Summer 2025](https://jobright.ai/jobs/info/66e8c3552527991c16c16f0b?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 16 |
 | **[APCO Worldwide](http://www.apcoworldwide.com)** | **[International Affairs Advisory Internship - Spring '25](https://jobright.ai/jobs/info/66e8b3d4a6c0988dfeb208c5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 16 |
 | ↳ | **[Geo-Commerce (International Policy) Internship](https://jobright.ai/jobs/info/66e8b3d4a6c0988dfeb208fd?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Homeland Security Professional Opportunities for Student Workforce to Experience Research 2025](https://jobright.ai/jobs/info/66e839b26792c3a158ca106c?utm_campaign=1056&utm_source=git)** | United States | On Site | Sep 16 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Affordable Housing Intern](https://jobright.ai/jobs/info/66e82dc29a16a883741c5bff?utm_campaign=1056&utm_source=git)** | Calabasas, CA | On Site | Sep 16 |
 | **[DIGIMARCON](http://digimarcon.com)** | **[Volunteer - Phoenix](https://jobright.ai/jobs/info/66e8179d1f7eabf8dee5cc0d?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Sep 16 |
+| **[PAWS Chicago](https://www.pawschicago.org)** | **[Animal Welfare Internship](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add097?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
