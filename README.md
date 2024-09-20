@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[VR&P Resource Mapping Intern](https://jobright.ai/jobs/info/66ecda991436fc8716de6587?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 19 |
+| **[The Johns Hopkins University](https://www.jhu.edu)** | **[Grants and Contracts Intern](https://jobright.ai/jobs/info/66eccbae2d57de56990e1451?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 19 |
+| **[Jefferson Health System](https://www.jeffersonhealth.org/index.html)** | **[Social Work Addictions Intern](https://jobright.ai/jobs/info/66ecd2495a97006eccafac67?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 19 |
+| **[Astoria Values Inc.](http://www.astoriavalues.com)** | **[Intern](https://jobright.ai/jobs/info/66eccbae2d57de56990e14ff?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 19 |
+| **[Palo Alto College](https://www.alamo.edu/pac/)** | **[Student Intern - PAC](https://jobright.ai/jobs/info/66ecb7d3aeb5b78ed67a854a?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Sep 19 |
 | **[The Aubrey Group](www.theaubreygroup.org)** | **[Research Analyst Internship](https://jobright.ai/jobs/info/66eca3cdd5e94d2403d5e980?utm_campaign=1056&utm_source=git)** | Camden, NJ | Hybrid | Sep 19 |
 | **[Where Food Comes From](http://wherefoodcomesfrom.com/)** | **[Intern Fall 2024-Spring 2025](https://jobright.ai/jobs/info/66ec9642b6c00ee3027742a2?utm_campaign=1056&utm_source=git)** | United States | On Site | Sep 19 |
 | **[SEEDS2SUCCEED Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/66ec93db929674bb421abcc9?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Sep 19 |
@@ -70,22 +75,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c4?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Sep 19 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c7?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Sep 19 |
 | **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526db4?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Sep 19 |
+| ↳ | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526e37?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Astoria Values Inc.](http://www.astoriavalues.com)** | **[Volunteer: Grant Writer Internship](https://jobright.ai/jobs/info/66ec9642b6c00ee302774394?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[FOCUS On Communities United for Success](http://www.focusorg.org)** | **[Volunteer Grant Researcher](https://jobright.ai/jobs/info/66ec5542116b734f01bc7def?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Sep 19 |
-| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec57d5b80e15eafa3a97b9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
-| **[Office of National Drug Control Policy](https://www.whitehouse.gov/ondcp/)** | **[Paid Internship: Office of National Drug Control Policy (Director's Office)](https://jobright.ai/jobs/info/66ec530bb42cb2aad56df6dd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| ↳ | **[Paid Internship: Office of National Drug Control Policy (OGC)](https://jobright.ai/jobs/info/66ec530bb42cb2aad56df6c9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| ↳ | **[Paid Internship: Office of National Drug Control Policy (OCDIR)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| ↳ | **[Paid Internship: Office of National Drug Control Policy (OPH)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642b2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| ↳ | **[Paid Internship: Office of National Drug Control Policy (OHISD)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| **[Office of National Drug Control Policy](https://www.whitehouse.gov/ondcp/)** | **[Paid Internship: Office of National Drug Control Policy (OGC)](https://jobright.ai/jobs/info/66ec530bb42cb2aad56df6c9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| ↳ | **[Paid Internship: Office of National Drug Control Policy (Director's Office)](https://jobright.ai/jobs/info/66ec530bb42cb2aad56df6dd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OELA)](https://jobright.ai/jobs/info/66ec48a02e2444a493f64310?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| ↳ | **[Paid Internship: Office of National Drug Control Policy (OCDIR)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OPB)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642eb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | ↳ | **[Paid Internship: Office of National Drug Control Policy (OTR)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642cc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| ↳ | **[Paid Internship: Office of National Drug Control Policy (OHISD)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
+| ↳ | **[Paid Internship: Office of National Drug Control Policy (OPH)](https://jobright.ai/jobs/info/66ec48a02e2444a493f642b2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/66ec43ff0363dbd53ea6d42f?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Sep 19 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/66ec3ee9c09b03d60a9ea077?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Sep 19 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/66ec141dfdc99156daa52677?utm_campaign=1056&utm_source=git)** | Lehi, UT | On Site | Sep 19 |
 | **[Lexington, Chapter of The Arc New York](https://thearclexington.org/)** | **[Human Services Intern](https://jobright.ai/jobs/info/66ec141dfdc99156daa528b0?utm_campaign=1056&utm_source=git)** | Gloversville, NY | On Site | Sep 19 |
 | ↳ | **[Human Services Intern](https://jobright.ai/jobs/info/66ec0e51218366615ab702bc?utm_campaign=1056&utm_source=git)** | Schoharie, NY | On Site | Sep 19 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Executive Branch Agency Internship](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1056&utm_source=git)** | Connecticut, United States | On Site | Sep 19 |
 | **[TrueNorth Companies](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/66cfc4baebafd8c7b85864c1?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 19 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/66cf8a6a5748bc96ec44fb06?utm_campaign=1056&utm_source=git)** | Clearwater, FL | Hybrid | Sep 19 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/66cfb0f64114f0066f1e159a?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Government Engagement Intern](https://jobright.ai/jobs/info/66cd1854e990e635dfd5861c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 17 |
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add1d5?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 17 |
 | ↳ | **[NGO Management Volunteer Internship](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add1e8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 17 |
-| ↳ | **[NGO Management Volunteer Internship](https://jobright.ai/jobs/info/66cc62fb3fe2acbf710315fd?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 17 |
-| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Elections Intern](https://jobright.ai/jobs/info/66e944fe2c0f6fc7308b8f35?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Remote | Sep 17 |
-| ↳ | **[Energy Efficiency Outreach Paid Intern](https://jobright.ai/jobs/info/66e944fe2c0f6fc7308b8f4a?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Hybrid | Sep 17 |
-| ↳ | **[Field Canvass Internship](https://jobright.ai/jobs/info/66e938c23a1deeceb48eefd9?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Hybrid | Sep 17 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66e905ba2e48568c0c1bec7c?utm_campaign=1056&utm_source=git)** | Abbeville, SC | On Site | Sep 16 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/66e905ba2e48568c0c1bec7b?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
