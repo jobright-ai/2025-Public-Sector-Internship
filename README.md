@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[US Army](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/66f04faee4e0ce6031dfd631?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Sep 22 |
+| **[The Outreach Team LLC](https://www.theoutreachteam.net)** | **[Summer Fellow](https://jobright.ai/jobs/info/66f04522e67387bb9436652b?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 22 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[International Organizations Research Internship SPRING 2025](https://jobright.ai/jobs/info/66f009c42d2030fa3756e304?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 22 |
-| **[US Army](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/66ef5e4094f2ad9877a289dd?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Sep 21 |
 | **[NYPD](http://www.nyc.gov/nypd)** | **[College Aide](https://jobright.ai/jobs/info/66eefdf169bfa1b1cb72c013?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 21 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef25?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/66eecfdd1fd7c7d163651a54?utm_campaign=1056&utm_source=git)** | Ellensburg, WA | On Site | Sep 21 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66d8b42e78f1ab2b69551a7b?utm_campaign=1056&utm_source=git)** | Katy, TX | On Site | Sep 19 |
 | **[The Aubrey Group](www.theaubreygroup.org)** | **[Research Analyst Internship](https://jobright.ai/jobs/info/66eca3cdd5e94d2403d5e980?utm_campaign=1056&utm_source=git)** | Camden, NJ | Hybrid | Sep 19 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Lead Intern - CSR & Sustainability Community Affairs](https://jobright.ai/jobs/info/66d2a83708a16fb8fdf4989d?utm_campaign=1056&utm_source=git)** | Carlsbad, CA | On Site | Sep 19 |
-| **[Where Food Comes From](http://wherefoodcomesfrom.com/)** | **[Intern Fall 2024-Spring 2025](https://jobright.ai/jobs/info/66ec9642b6c00ee3027742a2?utm_campaign=1056&utm_source=git)** | United States | On Site | Sep 19 |
 | **[Integral Health](https://www.integralhealth.me/)** | **[Social Worker Intern](https://jobright.ai/jobs/info/66ec7c3ad4c205834a967e96?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Sep 19 |
 | **[Financial Services Volunteer Corps](https://www.fsvc.org/)** | **[Spring Program Intern](https://jobright.ai/jobs/info/66ecfbf7572e625a4d9a83c1?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/66ec7c3ad4c205834a967f1b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 19 |
