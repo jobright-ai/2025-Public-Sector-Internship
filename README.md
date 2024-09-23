@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/66f1213d3a01faf31dd9a3b7?utm_campaign=1056&utm_source=git)** | Franklin, TN | On Site | Sep 23 |
+| **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Health, Equity and Wellbeing Internship](https://jobright.ai/jobs/info/66f1160aaa190db8471858a4?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Sep 23 |
 | **[US Army](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/66f04faee4e0ce6031dfd631?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Sep 22 |
 | **[The Outreach Team LLC](https://www.theoutreachteam.net)** | **[Summer Fellow](https://jobright.ai/jobs/info/66f04522e67387bb9436652b?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 22 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[International Organizations Research Internship SPRING 2025](https://jobright.ai/jobs/info/66f009c42d2030fa3756e304?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 22 |
@@ -86,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[Military & Political Power Research Internship SPRING 2025](https://jobright.ai/jobs/info/66ed670e87fe81f1ef70ea03?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 20 |
 | ↳ | **[Economic & Financial Power Research Internship](https://jobright.ai/jobs/info/66ed670e87fe81f1ef70ea10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 20 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Sep 20 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d7235b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 20 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66b4b55c056563ab43d72352?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 20 |
 | **[NAACP Legal Defense & Educational Fund](http://www.naacpldf.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f3ec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 20 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Sep 20 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Sep 20 |
@@ -115,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66d2fd9d5124fb6aa79ecfac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec7ece794bb3240a3b852d?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Sep 19 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c1?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Sep 19 |
-| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c7?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Sep 19 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c4?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Sep 19 |
-| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526db4?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Sep 19 |
+| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c7?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Sep 19 |
+| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526c0e?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Sep 19 |
 | **[Astoria Values Inc.](http://www.astoriavalues.com)** | **[Volunteer: Grant Writer Internship](https://jobright.ai/jobs/info/66ec9642b6c00ee302774394?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[FOCUS On Communities United for Success](http://www.focusorg.org)** | **[Volunteer Grant Researcher](https://jobright.ai/jobs/info/66ec5542116b734f01bc7def?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Sep 19 |
 | **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec57d5b80e15eafa3a97b9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Counseling Centers of Chicago](https://c4chicago.org)** | **[Collaborative Bridges Intern](https://jobright.ai/jobs/info/66ebea7d431901ec7bc2ac5a?utm_campaign=1056&utm_source=git)** | North Chicago, IL | On Site | Sep 18 |
 | **[Barnes & Thornburg](http://www.btlaw.com/)** | **[Government Services Legislative Intern](https://jobright.ai/jobs/info/66ee4a947d3f12882b7a7a7a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 | **[Progressive Maryland](http://www.progressivemaryland.org)** | **[Electoral Intern](https://jobright.ai/jobs/info/66ea5db13d027204c7955628?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 17 |
-| **[Issue One](https://www.issueone.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/66ea2a29e429fa03425e23b1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 17 |
-| **[Beckman Coulter](http://www.beckmancoulter.com)** | **[Clinical Affairs Intern](https://jobright.ai/jobs/info/66eb08747146a6bf8e679c33?utm_campaign=1056&utm_source=git)** | Chaska, MN | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
