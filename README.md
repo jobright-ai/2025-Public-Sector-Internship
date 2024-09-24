@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Locust Street Group](https://locuststreet.com)** | **[Intern, Research and Insights](https://jobright.ai/jobs/info/66f2b5ad5bafcd544db2474d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
+| **[SEEDS2SUCCEED Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/66f293f3e26395659959f03f?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Sep 24 |
 | **[EPCOR](http://www.epcor.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66d0f7c9bbfbd04abcd24cf2?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 23 |
 | **[The Arc of the United States](http://www.thearc.org)** | **[Paul Marchand Fellowship in Disability Public Policy](https://jobright.ai/jobs/info/66f24c944644e2ea5d263982?utm_campaign=1056&utm_source=git)** | Washington, PA | Hybrid | Sep 23 |
 | **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[USID Internship](https://jobright.ai/jobs/info/66f248e1bd73a14a8a8d8a8d?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec57d5b80e15eafa3a97b9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/66ec43ff0363dbd53ea6d42f?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Sep 19 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/66ec3ee9c09b03d60a9ea077?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Sep 19 |
-| **[Lehi City](https://www.lehi-ut.gov/)** | **[Planning Internship](https://jobright.ai/jobs/info/66ec141dfdc99156daa52677?utm_campaign=1056&utm_source=git)** | Lehi, UT | On Site | Sep 19 |
-| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Executive Branch Agency Internship](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1056&utm_source=git)** | Connecticut, United States | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
