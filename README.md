@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Boston Consulting Group](http://www.bcg.com)** | **[Public Sector Management and Operations Co-Op](https://jobright.ai/jobs/info/66f214c5d4beb8dbce901068?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 23 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Public Policy Intern](https://jobright.ai/jobs/info/66f2170019096a7a94e42fd4?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Sep 23 |
 | **[Meritage Homes Corporation](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/66f1f1bbe554983220a5aa6f?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Sep 23 |
+| **[Radiant Digital](https://www.radiant.digital/)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/66f21c5e3ea64742d1c2112a?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 23 |
+| **[Amway Corporation](http://www.amway.com)** | **[Global Customs & Trade Internship](https://jobright.ai/jobs/info/66f231d047aac89868ca0579?utm_campaign=1056&utm_source=git)** | Ada, MI | On Site | Sep 23 |
 | **[Enterprise Community Investment](https://www.enterprisecommunity.org/)** | **[Intern, Research and Policy](https://jobright.ai/jobs/info/66eb34b964eba508c73a2f93?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
 | **[Missouri Farm Bureau](https://mofb.org/)** | **[Spring Legislative Affairs Intern](https://jobright.ai/jobs/info/66f1bcd905f21fac89a34c74?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Sep 23 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Internship](https://jobright.ai/jobs/info/66f1c81f47339153b30a5b90?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 23 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[VOX Global](https://voxglobal.com/)** | **[Public Affairs Internship](https://jobright.ai/jobs/info/66f201ecc94964cad6685a1e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Public Policy Law Extern](https://jobright.ai/jobs/info/66f1943673e5598a49d28608?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
 | **[VOX Global](https://voxglobal.com/)** | **[Public Affairs Internship Fall 2024 (hybrid)](https://jobright.ai/jobs/info/66f1b040bacf6646dac4ecf9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
+| **[ICF Next](https://www.icf.com/next)** | **[Summer Intern, International Labor Research](https://jobright.ai/jobs/info/66f2119fd46612d2a114a0ad?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Sep 22 |
 | **[The Outreach Team LLC](https://www.theoutreachteam.net)** | **[Summer Fellow](https://jobright.ai/jobs/info/66f04522e67387bb9436652b?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 22 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[International Organizations Research Internship SPRING 2025](https://jobright.ai/jobs/info/66f009c42d2030fa3756e304?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 22 |
 | **[FOCUS On Communities United for Success](http://www.focusorg.org)** | **[Volunteer Grant Researcher](https://jobright.ai/jobs/info/66ec5542116b734f01bc7def?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Sep 21 |
@@ -137,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec7ece794bb3240a3b852d?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Sep 19 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c1?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Sep 19 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66ec6d8bf8b72f06722058c4?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Sep 19 |
-| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526c0e?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Sep 19 |
+| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526db4?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Sep 19 |
 | **[Astoria Values Inc.](http://www.astoriavalues.com)** | **[Volunteer: Grant Writer Internship](https://jobright.ai/jobs/info/66ec9642b6c00ee302774394?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Baker Tilly International](https://www.bakertilly.global/)** | **[Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec57d5b80e15eafa3a97b9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/66ec43ff0363dbd53ea6d42f?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Sep 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate & Legislative Affairs Intern](https://jobright.ai/jobs/info/66eb9dd3dedfc465d467b778?utm_campaign=1056&utm_source=git)** | Wisconsin, United States | Hybrid | Sep 18 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Animal Welfare Intern](https://jobright.ai/jobs/info/66d3f20e6b87bd9b43dabd5c?utm_campaign=1056&utm_source=git)** | Candor, NC | On Site | Sep 18 |
 | **[Pressley Ridge](https://www.pressleyridge.org/)** | **[Human Services Intern](https://jobright.ai/jobs/info/66ec84ed86f1dc651a139c3d?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Sep 18 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Bachelor’s Level Humanities/Social Sciences Internship](https://jobright.ai/jobs/info/66e86cd096a22538fca13915?utm_campaign=1056&utm_source=git)** | Toledo, OH | On Site | Sep 18 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66eb6ba2d963c866437561db?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern 2025 - Division of Consumer and Community Affairs](https://jobright.ai/jobs/info/66eb5ac2cde046b57b050a16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66eb585a0259ae9eea89a21e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Sep 18 |
-| **[Bluestone Child & Adolescent Psychiatric Hospital](https://www.bluestone.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/66ec03dcec570585d86e4b03?utm_campaign=1056&utm_source=git)** | University Heights, OH | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
