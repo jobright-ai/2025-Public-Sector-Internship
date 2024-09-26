@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AltaMed Health](http://www.altamed.org/)** | **[Non-Exempt Intern](https://jobright.ai/jobs/info/66f4a898570be7543e29828d?utm_campaign=1056&utm_source=git)** | Commerce, CA | On Site | Sep 25 |
+| **[Serco](https://www.serco.com)** | **[Environmental Social Governance Intern](https://jobright.ai/jobs/info/66f4c1101c475b8faf7a8233?utm_campaign=1056&utm_source=git)** | Virginia, United States | Hybrid | Sep 25 |
+| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Community Development Intern - Summer 2025](https://jobright.ai/jobs/info/66f4b3fc5408589b00161cb3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Communications Intern - Transportation, Plan & Policy](https://jobright.ai/jobs/info/66f48646c3aa2b7388504971?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 25 |
 | **[Lewis Roca](https://www.lewisroca.com)** | **[Legislative Assistant Intern](https://jobright.ai/jobs/info/66f47b70ed5281cf376f43c2?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Sep 25 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern](https://jobright.ai/jobs/info/66f46e5e456314045b5177cb?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Sep 25 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[myGwork](https://www.mygwork.com/en/)** | **[Gender Affairs Intern](https://jobright.ai/jobs/info/66f462d907e17ad7328dfeae?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | ↳ | **[Intern, Office for Intergovernmental Support and Coordination for Sustainable Development](https://jobright.ai/jobs/info/66f46e5e456314045b517842?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Sep 25 |
 | **[Anonymous Philanthropy LLC](http://www.anonymousllc.com)** | **[Philanthropy Research Intern](https://jobright.ai/jobs/info/66f449e675ed2bdb1f32f34a?utm_campaign=1056&utm_source=git)** | Laguna Hills, CA | On Site | Sep 25 |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[Administrative Intern](https://jobright.ai/jobs/info/66f4c3a797db4190eeeaf61e?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Sep 25 |
 | **[The John A. Hartford Foundation](https://www.johnahartford.org/)** | **[Spring 2025 Internship / Health and Aging](https://jobright.ai/jobs/info/66f43fbf0776e16fec994c2a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Spring 2025 Internship](https://jobright.ai/jobs/info/66f41875529f6deb5cd0af7f?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 25 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2024 Strategy & Policy Intern](https://jobright.ai/jobs/info/66e575ebc6a85a6501cdcad3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
@@ -85,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Community Energy Canvasser (Intern)](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757b2a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 24 |
 | ↳ | **[Agrivoltaics Associate (Intern)](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757b24?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 24 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Spotlight Initiative Partnerships Support Intern](https://jobright.ai/jobs/info/66f33ee67c45a759fdaf5828?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f3d22e967ea34b96f1ee11?utm_campaign=1056&utm_source=git)** | Ellicott City, MD | On Site | Sep 24 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f3416dcf110409419233d8?utm_campaign=1056&utm_source=git)** | Ellicott City, MD | On Site | Sep 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66f332bc3bdff08377ee7eb3?utm_campaign=1056&utm_source=git)** | Joplin, MO | On Site | Sep 24 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Mississippi Legislative Intern - Spring 2025](https://jobright.ai/jobs/info/66f31f8288ed982f5ccf320b?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Sep 24 |
 | **[The New York Public Library](http://www.nypl.org)** | **[Strategy and Public Impact Intern](https://jobright.ai/jobs/info/66f32d3be529ca597f7fef6c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[USID Internship](https://jobright.ai/jobs/info/66f248e1bd73a14a8a8d8a8d?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757c25?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
 | **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/66f248e1bd73a14a8a8d8a88?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Sep 23 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Food Assistance Intern](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757bd6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
-| ↳ | **[Spring 2025 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757bbb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Spring 2025 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757bbb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
+| ↳ | **[Food Assistance Intern](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757bd6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
 | ↳ | **[Spring 2025 Government Affairs Intern](https://jobright.ai/jobs/info/66f35a8fb939bf2d7c6c4767?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
 | ↳ | **[Income Security Intern](https://jobright.ai/jobs/info/66f35a8fb939bf2d7c6c475c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
 | ↳ | **[Housing Intern](https://jobright.ai/jobs/info/66f35a8fb939bf2d7c6c4797?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc146?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Sep 22 |
 | ↳ | **[Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc19c?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Sep 22 |
 | ↳ | **[Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc274?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Sep 22 |
-| ↳ | **[Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc2f2?utm_campaign=1056&utm_source=git)** | Missouri, United States | On Site | Sep 22 |
-| ↳ | **[Internment/Resettlement Specialist](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc331?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
