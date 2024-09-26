@@ -87,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Community Energy Canvasser (Intern)](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757b2a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 24 |
 | ↳ | **[Agrivoltaics Associate (Intern)](https://jobright.ai/jobs/info/66f35f4354bd7ccdd0757b24?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 24 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Spotlight Initiative Partnerships Support Intern](https://jobright.ai/jobs/info/66f33ee67c45a759fdaf5828?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f3416dcf110409419233d8?utm_campaign=1056&utm_source=git)** | Ellicott City, MD | On Site | Sep 24 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f3d22e967ea34b96f1ee11?utm_campaign=1056&utm_source=git)** | Ellicott City, MD | On Site | Sep 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66f332bc3bdff08377ee7eb3?utm_campaign=1056&utm_source=git)** | Joplin, MO | On Site | Sep 24 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Mississippi Legislative Intern - Spring 2025](https://jobright.ai/jobs/info/66f31f8288ed982f5ccf320b?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Sep 24 |
 | **[The New York Public Library](http://www.nypl.org)** | **[Strategy and Public Impact Intern](https://jobright.ai/jobs/info/66f32d3be529ca597f7fef6c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
