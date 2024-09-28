@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb904?utm_campaign=1056&utm_source=git)** | Evansville, IN | On Site | Sep 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb905?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Sep 27 |
+| **[Curtis Bashaw for U.S. Senate](https://www.bashawforussenate.com/)** | **[Political Intern](https://jobright.ai/jobs/info/66f7574f16223968c530881f?utm_campaign=1056&utm_source=git)** | Cape May, NJ | Hybrid | Sep 27 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66f754a9b87accb6cdcf000a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Sep 27 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb905?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Sep 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb904?utm_campaign=1056&utm_source=git)** | Evansville, IN | On Site | Sep 27 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Government Health Informatics Intern](https://jobright.ai/jobs/info/66f7258345eeeb72f0887d33?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 27 |
 | **[Education Development Center (EDC)](http://www.edc.org)** | **[Technical Assistance/Public Health Intern](https://jobright.ai/jobs/info/66f7137dbb692bf70848a9d8?utm_campaign=1056&utm_source=git)** | Waltham, MA | Remote | Sep 27 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Student Intern - Probation Division](https://jobright.ai/jobs/info/66f7098566c24823f625c937?utm_campaign=1056&utm_source=git)** | Ocean Township, NJ | Hybrid | Sep 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2025 Research Outreach Intern](https://jobright.ai/jobs/info/66f35502d4523e59ebb13b77?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 24 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Spotlight Initiative Partnerships Support Intern](https://jobright.ai/jobs/info/66f33ee67c45a759fdaf5828?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f3d22e967ea34b96f1ee11?utm_campaign=1056&utm_source=git)** | Ellicott City, MD | On Site | Sep 24 |
-| **[HPV Cancers Alliance](https://hpvalliance.org/)** | **[Grants and Partnerships Research Internship](https://jobright.ai/jobs/info/66f4f0f362d76cd0edf8c7ea?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f332bc3bdff08377ee7eb3?utm_campaign=1056&utm_source=git)** | Joplin, MO | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
