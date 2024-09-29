@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fund for Public Health in New York](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df198?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
+| ↳ | **[Public Health Detailing Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df199?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[Beacon Bridge](www.beaconbridgehs.com)** | **[Outreach Worker](https://jobright.ai/jobs/info/66f89dfa936580c437f05486?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Sep 28 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Associate Sustainability Analyst Intern](https://jobright.ai/jobs/info/66f80fcb722176d54173efc4?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/66f7fc6473d5d6b3615715b4?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Sep 28 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consumer Banking Internship](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3ac2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Remote | Sep 27 |
 | ↳ | **[Consumer Banking Internship](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3ac3?utm_campaign=1056&utm_source=git)** | Ohio, United States | Remote | Sep 27 |
 | ↳ | **[Consumer Banking Internship](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3ac5?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Sep 27 |
+| **[The National Association of Higher Education Systems](http://nash.edu)** | **[NASH RRI Intern](https://jobright.ai/jobs/info/66f8e2ee630c4d3d84e3843c?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Education Development Center (EDC)](http://www.edc.org)** | **[Technical Assistance/Public Health Intern](https://jobright.ai/jobs/info/66f7137dbb692bf70848a9d8?utm_campaign=1056&utm_source=git)** | Waltham, MA | Remote | Sep 27 |
 | **[Dow](https://www.dowchemical.com)** | **[Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7b0a31e70265ab77357fd?utm_campaign=1056&utm_source=git)** | Midland, MI | On Site | Sep 27 |
 | **[Council on Criminal Justice](https://counciloncj.org/)** | **[Policy & Operations Intern](https://jobright.ai/jobs/info/66f7167d53924c5339729b8e?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 27 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Grants & Administrative Assistant](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025e3a?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838a65?utm_campaign=1056&utm_source=git)** | Lake County | On Site | Sep 26 |
 | **[ICF](https://www.icf.com)** | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839100?utm_campaign=1056&utm_source=git)** | Minnesota Remote Office (MN99) | Hybrid | Sep 26 |
-| ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e8390ff?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Sep 26 |
 | ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839101?utm_campaign=1056&utm_source=git)** | Wisconsin Remote Office (WI99) | Hybrid | Sep 26 |
+| ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e8390ff?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Sep 26 |
 | **[Dow](https://www.dowchemical.com)** | **[Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025fd5?utm_campaign=1056&utm_source=git)** | Midland (MI, USA) | On Site | Sep 26 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Health, Equity and Wellbeing (HEW) Internship](https://jobright.ai/jobs/info/66f7be00638607bb01d626a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 26 |
 | ↳ | **[Health, Equity and Wellbeing (HEW) Internship](https://jobright.ai/jobs/info/66f1160aaa190db8471858a4?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Emergency Preparedness & S3 Operations Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9702?utm_campaign=1056&utm_source=git)** | Culver City, CA | Hybrid | Sep 26 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Public Affairs - Corporate Giving](https://jobright.ai/jobs/info/66d92cb621a5f0c594412d07?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Sep 26 |
 | **[Ulteig](http://ulteig.com)** | **[Right of Way Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9bf?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Sep 26 |
-| **[Global Nomadic](https://globalnomadic.com/)** | **[NGO Management Volunteer Internship](https://jobright.ai/jobs/info/66c561eb60544c52d762dccc?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 26 |
-| **[IINE](https://iine.org/)** | **[Shelter Services & Migrant Resettlement Intern](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Sep 26 |
-| **[Arch Capital Group](https://www.archgroup.com)** | **[ESG & Community Impact Summer Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea815?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
