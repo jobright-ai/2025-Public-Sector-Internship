@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palo Alto College](https://www.alamo.edu/pac/)** | **[Student Intern - PAC](https://jobright.ai/jobs/info/66f9537d3fec7c60d62f689b?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
 | **[Fund for Public Health in New York](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df198?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | ↳ | **[Public Health Detailing Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df199?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[Beacon Bridge](www.beaconbridgehs.com)** | **[Outreach Worker](https://jobright.ai/jobs/info/66f89dfa936580c437f05486?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Sep 28 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66f754a9b87accb6cdcf000a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Sep 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Public Sector Summer Associate (Graduate Intern)](https://jobright.ai/jobs/info/66ed2cde3c5b379027496005?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 27 |
 | **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2025 Summer Internship - Emergency Management/Business Continuity](https://jobright.ai/jobs/info/66f7ad5a3c41a70fba6aface?utm_campaign=1056&utm_source=git)** | Duquesne, PA | Hybrid | Sep 27 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb904?utm_campaign=1056&utm_source=git)** | Evansville, IN | On Site | Sep 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb905?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Sep 27 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb905?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Sep 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/66f72a7c8f2f1f86c3cdb904?utm_campaign=1056&utm_source=git)** | Evansville, IN | On Site | Sep 27 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Government Health Informatics Intern](https://jobright.ai/jobs/info/66f7258345eeeb72f0887d33?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 27 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Consumer Banking Internship](https://jobright.ai/jobs/info/66f7afd89f7a8657931b39dd?utm_campaign=1056&utm_source=git)** | Michigan, United States | Remote | Sep 27 |
 | ↳ | **[Consumer Banking Internship](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3abc?utm_campaign=1056&utm_source=git)** | Denver, CO | Remote | Sep 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9708?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Emergency Preparedness & S3 Operations Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9702?utm_campaign=1056&utm_source=git)** | Culver City, CA | Hybrid | Sep 26 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Public Affairs - Corporate Giving](https://jobright.ai/jobs/info/66d92cb621a5f0c594412d07?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Sep 26 |
-| **[Ulteig](http://ulteig.com)** | **[Right of Way Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9bf?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
