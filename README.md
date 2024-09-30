@@ -60,12 +60,13 @@ For a complete list, click the following sortable link below:
 | **[US Army](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/66f9ddd19c529d114f28be49?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Sep 29 |
 | **[State of Nevada Division of Human Resource Management](http://hr.nv.gov/)** | **[Public Service Intern 2](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1b3?utm_campaign=1056&utm_source=git)** | Carson City, NV | On Site | Sep 29 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1eb?utm_campaign=1056&utm_source=git)** | Gardnerville, NV | On Site | Sep 29 |
-| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1ed?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Sep 29 |
 | ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1ec?utm_campaign=1056&utm_source=git)** | Minden, NV | On Site | Sep 29 |
+| ↳ | **[Public Service Intern 2](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1ed?utm_campaign=1056&utm_source=git)** | Genoa, NV | On Site | Sep 29 |
 | **[City of Culver City](https://www.culvercity.org)** | **[Student Worker II - III](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1cb?utm_campaign=1056&utm_source=git)** | Culver City, CA | On Site | Sep 29 |
 | **[Palo Alto College](https://www.alamo.edu/pac/)** | **[Student Intern - PAC](https://jobright.ai/jobs/info/66f9537d3fec7c60d62f689b?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
 | **[Fund for Public Health in New York](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df198?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | ↳ | **[Public Health Detailing Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df199?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/66fa12ff477b618b41adece5?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Beacon Bridge](www.beaconbridgehs.com)** | **[Outreach Worker](https://jobright.ai/jobs/info/66f89dfa936580c437f05486?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Sep 28 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Associate Sustainability Analyst Intern](https://jobright.ai/jobs/info/66f80fcb722176d54173efc4?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[Corporate Responsibility Intern](https://jobright.ai/jobs/info/66f7fc6473d5d6b3615715b4?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Sep 28 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com/)** | **[Volunteer: Human Rights Placement](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87ba?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 28 |
 | **[Feeding America Eastern Wisconsin](https://feedingamericawi.org)** | **[Grants Management Intern](https://jobright.ai/jobs/info/66f7cc286d9284e6e00ab3b2?utm_campaign=1056&utm_source=git)** | Appleton, WI | On Site | Sep 28 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern](https://jobright.ai/jobs/info/66f7875f4d959d9d3ced02c1?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Sep 27 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66fa139855c2bc0a5c86d709?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Sep 27 |
 | **[United Airlines](https://www.united.com/)** | **[Intern - Geopolitical Analysis & Intelligence (Summer 2025)](https://jobright.ai/jobs/info/66f7a9a7735f98eaaf132f43?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
 | **[Curtis Bashaw for U.S. Senate](https://www.bashawforussenate.com/)** | **[Political Intern](https://jobright.ai/jobs/info/66f7574f16223968c530881f?utm_campaign=1056&utm_source=git)** | Cape May, NJ | Hybrid | Sep 27 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Public Sector Summer Associate (Graduate Intern)](https://jobright.ai/jobs/info/66ed2cde3c5b379027496005?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 27 |
@@ -131,6 +133,13 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839100?utm_campaign=1056&utm_source=git)** | Minnesota Remote Office (MN99) | Hybrid | Sep 26 |
 | ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e8390ff?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Sep 26 |
 | ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839101?utm_campaign=1056&utm_source=git)** | Wisconsin Remote Office (WI99) | Hybrid | Sep 26 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44f8?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44f7?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e3868?utm_campaign=1056&utm_source=git)** | US - GA, Atlanta | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44fa?utm_campaign=1056&utm_source=git)** | US - CA, Los Angeles | On Site | Sep 26 |
+| ↳ | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e387c?utm_campaign=1056&utm_source=git)** | US - CA, Sacramento | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44fc?utm_campaign=1056&utm_source=git)** | US - PA, Philadelphia | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44fb?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Sep 26 |
 | **[Dow](https://www.dowchemical.com)** | **[Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025fd5?utm_campaign=1056&utm_source=git)** | Midland (MI, USA) | On Site | Sep 26 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Health, Equity and Wellbeing (HEW) Internship](https://jobright.ai/jobs/info/66f7be00638607bb01d626a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 26 |
 | ↳ | **[Health, Equity and Wellbeing (HEW) Internship](https://jobright.ai/jobs/info/66f1160aaa190db8471858a4?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Sep 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Services & Resettlement Intern](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f91?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Sep 26 |
 | ↳ | **[Trafficking Victims Assistance Program (TVAP) Intern](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[Foundation for Defense of Democracies](https://www.fdd.org/)** | **[Congressional Relations Internship](https://jobright.ai/jobs/info/66f5911940145fa4d57ff454?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
-| **[IINE](https://iine.org/)** | **[Community Services & Resettlement Intern](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0b70?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 26 |
-| **[Green Bay Packers](http://www.packers.com/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/66f5bbdb0c21426602d9f190?utm_campaign=1056&utm_source=git)** | Green Bay, WI | On Site | Sep 26 |
-| **[PADF](https://www.padf.org/)** | **[Programs Intern, Peace, Justice and Security](https://jobright.ai/jobs/info/66f5587ec8807dfefd840066?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
-| **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9650?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
-| **[MISO](https://www.misoenergy.org/)** | **[Economics Intern](https://jobright.ai/jobs/info/66d8b45178f1ab2b695523b7?utm_campaign=1056&utm_source=git)** | Carmel, IN | Hybrid | Sep 26 |
-| **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/66d8e71f4a471adf397a968c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
-| **[Bristol-Myers Squibb](http://www.bms.com)** | **[Medical Policy Intern - Medical Excellence](https://jobright.ai/jobs/info/66f542b823de05fa2f16af98?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Sep 26 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Political Affairs Intern](https://jobright.ai/jobs/info/66f7d6f3fcf793a65237090c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 26 |
-| **[Constellation Energy](https://www.constellationenergy.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/66f543cde607da7f8795ebc4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
