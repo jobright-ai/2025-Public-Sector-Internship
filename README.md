@@ -127,16 +127,16 @@ For a complete list, click the following sortable link below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/66f5ffdf3678da3d01f16d4d?utm_campaign=1056&utm_source=git)** | Johnston, IA | Hybrid | Sep 26 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Grants & Administrative Assistant](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025e3a?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS](https://jobright.ai/jobs/info/66f7a75b8b9edaeb6e838a65?utm_campaign=1056&utm_source=git)** | Lake County | On Site | Sep 26 |
-| **[ICF](https://www.icf.com)** | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839101?utm_campaign=1056&utm_source=git)** | Wisconsin Remote Office (WI99) | Hybrid | Sep 26 |
-| ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e8390ff?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Sep 26 |
+| **[ICF](https://www.icf.com)** | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e8390ff?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Sep 26 |
 | ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839100?utm_campaign=1056&utm_source=git)** | Minnesota Remote Office (MN99) | Hybrid | Sep 26 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44f7?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Sep 26 |
-| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e3868?utm_campaign=1056&utm_source=git)** | US - GA, Atlanta | On Site | Sep 26 |
+| ↳ | **[Summer Intern, Utility Program Services](https://jobright.ai/jobs/info/66f7a7a08b9edaeb6e839101?utm_campaign=1056&utm_source=git)** | Wisconsin Remote Office (WI99) | Hybrid | Sep 26 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e387c?utm_campaign=1056&utm_source=git)** | US - CA, Sacramento | On Site | Sep 26 |
 | ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44fb?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Sep 26 |
-| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44f8?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Sep 26 |
 | ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44fa?utm_campaign=1056&utm_source=git)** | US - CA, Los Angeles | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e3868?utm_campaign=1056&utm_source=git)** | US - GA, Atlanta | On Site | Sep 26 |
 | ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44fc?utm_campaign=1056&utm_source=git)** | US - PA, Philadelphia | On Site | Sep 26 |
-| ↳ | **[Intern – State and Local Government](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e387c?utm_campaign=1056&utm_source=git)** | US - CA, Sacramento | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44f7?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Sep 26 |
+| ↳ | **[Intern – Housing & Community Solutions](https://jobright.ai/jobs/info/66fa01ccfe02d4341e4e44f8?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Sep 26 |
 | **[Dow](https://www.dowchemical.com)** | **[Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7ab39aacfbd677b025fd5?utm_campaign=1056&utm_source=git)** | Midland (MI, USA) | On Site | Sep 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Health, Equity and Wellbeing (HEW) Internship](https://jobright.ai/jobs/info/66f7be00638607bb01d626a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 26 |
 | ↳ | **[Health, Equity and Wellbeing (HEW) Internship](https://jobright.ai/jobs/info/66f1160aaa190db8471858a4?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Sep 26 |
