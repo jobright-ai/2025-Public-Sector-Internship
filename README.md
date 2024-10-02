@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility (CSR) - Spring Co-op 2025](https://jobright.ai/jobs/info/66fd039b476087013cb1194a?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Oct 02 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seekers Case Management Intern- UNPAID](https://jobright.ai/jobs/info/66fcf4c61ad01b3448636648?utm_campaign=1056&utm_source=git)** | Glendale, CA | On Site | Oct 02 |
 | **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/66fcad70413caa990b6a98ca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 01 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Justice Undergraduate Internship](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6ba59?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | ↳ | **[Spring 2025 Justice Undergraduate Internship](https://jobright.ai/jobs/info/66fc95faa8c1cf0a727617d6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 01 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Specialty Human Services Claims Intern - Summer 2025](https://jobright.ai/jobs/info/66fc7c74531f62e59e26fc7b?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Oct 01 |
 | **[Vard Marine Inc](https://vardmarine.com)** | **[DGA ASG Internship Program- Spring 2025](https://jobright.ai/jobs/info/66fc778d98d9562f6f4ef03b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Internship](https://jobright.ai/jobs/info/66fc7c74531f62e59e26fd40?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
-| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Food Systems Intern](https://jobright.ai/jobs/info/66fc4e6dc37b0b2f24a44115?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 01 |
-| ↳ | **[Research and Program Coordinator Intern](https://jobright.ai/jobs/info/66fc4e6dc37b0b2f24a4411f?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 01 |
+| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Research and Program Coordinator Intern](https://jobright.ai/jobs/info/66fc4e6dc37b0b2f24a4411f?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 01 |
+| ↳ | **[Food Systems Intern](https://jobright.ai/jobs/info/66fc4e6dc37b0b2f24a44115?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 01 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Federal Work Study - Computer Lab Aide (00010653)](https://jobright.ai/jobs/info/66fc5cbd414e75527e29a89c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | ↳ | **[Federal Work Study - Computer Lab Aide](https://jobright.ai/jobs/info/66fc5cbd414e75527e29a8c1?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | **[Urban Institute](http://urban.org/)** | **[Research Program Intern (Executive Office Research)](https://jobright.ai/jobs/info/66fc5231b3d19fcd54c1b4f7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/66fc1370fbe83043c89ebb96?utm_campaign=1056&utm_source=git)** | Granite City, IL | On Site | Oct 01 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Oct 01 |
 | **[Sierra Club](http://sierraclub.org)** | **[Chapter Intern](https://jobright.ai/jobs/info/66fbe5c1d41cd8f31cc6ae82?utm_campaign=1056&utm_source=git)** | Hartford, CT | Hybrid | Oct 01 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, NYMA – Campus 2025](https://jobright.ai/jobs/info/66fc9971f3b9e17c8ec2947a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Summer Policy Intern](https://jobright.ai/jobs/info/66df0055c75201ea3c1cd680?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Strategic Partnerships and Government Affairs](https://jobright.ai/jobs/info/66fb5b286083f87e1e3a0c42?utm_campaign=1056&utm_source=git)** | Draper, UT | On Site | Sep 30 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Federal Policy & Advocacy, Spring 2025 Undergraduate Internship](https://jobright.ai/jobs/info/66fb575d776e6696c94b0cf8?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 30 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[City of Culver City](https://www.culvercity.org)** | **[Student Worker II - III (City Intern II - III)](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1cb?utm_campaign=1056&utm_source=git)** | Culver City, CA | On Site | Sep 29 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df198?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | ↳ | **[Public Health Detailing Intern](https://jobright.ai/jobs/info/66f8fbb637f9ad9cfe3df199?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Chicago – Campus 2025](https://jobright.ai/jobs/info/66fcd2c213331f630070c13e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Associate Sustainability Analyst Intern](https://jobright.ai/jobs/info/66f80fcb722176d54173efc4?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Corporate Responsibility](https://jobright.ai/jobs/info/66f7fc6473d5d6b3615715b4?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Sep 28 |
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/66f4efa9492efc1c2c125aaa?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[2025 Public Sector Summer Associate (Graduate Intern)](https://jobright.ai/jobs/info/66da9030dac23d6a1b1bd261?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Global Medical Affairs, Liver Diseases](https://jobright.ai/jobs/info/66da858a54a292f24ecf8f01?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Sep 27 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - MAYOR'S FELLOWS- Chicago, IL](https://jobright.ai/jobs/info/66f685d8ca4058a004230fda?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
-| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2025 Summer Program - Junior - Research](https://jobright.ai/jobs/info/66f69164dc673fbac252d872?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[NextEra Energy, Inc.](http://www.nexteraenergy.com)** | **[NEET Summer College Intern](https://jobright.ai/jobs/info/66f614dd7052e9b65fce8c5d?utm_campaign=1056&utm_source=git)** | Juno Beach, FL | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
