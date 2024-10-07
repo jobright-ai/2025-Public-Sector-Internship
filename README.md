@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/6703c1145a27560d3945879d?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Oct 07 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Research Internship, Center on Health Policy, Economic Studies (Job ID: 2024-3524)](https://jobright.ai/jobs/info/6703caa28f1d12ac1c63a44d?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 07 |
 | **[U.S. International Development Finance Corporation](https://www.dfc.gov)** | **[Political Risk Insurance Internship](https://jobright.ai/jobs/info/670387d85ef5aa87608e8e32?utm_campaign=1056&utm_source=git)** | Indiana, United States | Remote | Oct 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Child and Youth Advocacy Intern - Unpaid](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f62a?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Dallas Food Security Intern](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f658?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
-| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/6703282dceacfacbf464e932?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Oct 06 |
+| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/6702447cc97fa22db73d2b93?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Oct 05 |
 | **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[USID Internship](https://jobright.ai/jobs/info/67022c81cae54072e7d5b4ed?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 05 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/670360c7d4d2b84927ef45fd?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Oct 05 |
 | **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/67014b80a9027b141d0beb1e?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Oct 05 |
@@ -84,12 +86,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/66ffb5269bb821e49e703f69?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | ↳ | **[2025 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/66ffb5269bb821e49e703f7b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 04 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Tucson, AZ](https://jobright.ai/jobs/info/67021ce08adbad10e468fb78?utm_campaign=1056&utm_source=git)** | Tucson, AZ | Hybrid | Oct 03 |
-| ↳ | **[Intern, Community Health-Harrisburg & Surrounding Counties](https://jobright.ai/jobs/info/6700a01e7645b912c43b21cf?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, US | On Site | Oct 03 |
 | ↳ | **[Intern, Community Health-Tucson, AZ](https://jobright.ai/jobs/info/6700844fb72b19cf78abbfb4?utm_campaign=1056&utm_source=git)** | Tucson, AZ, US | Hybrid | Oct 03 |
+| ↳ | **[Intern, Community Health-Harrisburg & Surrounding Counties](https://jobright.ai/jobs/info/6700a01e7645b912c43b21cf?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, US | On Site | Oct 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Government Affairs: Internship Opportunity](https://jobright.ai/jobs/info/66ff5a83d1c132e428d8ed9f?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Oct 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer intern: Government Affairs](https://jobright.ai/jobs/info/66ff5d68f9829e9db22711ef?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Information Technology Industry Council (ITI)](http://itic.org)** | **[Fellow, Space Enterprise Council](https://jobright.ai/jobs/info/6700844fb72b19cf78abbfc9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[PFM](https://www.pfm.com/)** | **[Intern, Public Policy](https://jobright.ai/jobs/info/67006459a7d2337665f144cf?utm_campaign=1056&utm_source=git)** | Remote (Los Angeles) | Remote | Oct 03 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Graduate Student](https://jobright.ai/jobs/info/66ff175127f037f0cc3c520d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2025 Immigrant Youth Casework Intern](https://jobright.ai/jobs/info/66fb4c8720d692942772a164?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 03 |
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Spring 2025](https://jobright.ai/jobs/info/66ff02a69b5dc2a0f191cd63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Branch Intern](https://jobright.ai/jobs/info/66ff5681a403e992c52f502c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Oct 03 |
@@ -105,10 +108,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46210?utm_campaign=1056&utm_source=git)** | Lewiston, ID | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46211?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46212?utm_campaign=1056&utm_source=git)** | Salem, OR | On Site | Oct 02 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46217?utm_campaign=1056&utm_source=git)** | Burlington, WA | On Site | Oct 02 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46213?utm_campaign=1056&utm_source=git)** | Yakima, WA | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46216?utm_campaign=1056&utm_source=git)** | Bend, OR | On Site | Oct 02 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46217?utm_campaign=1056&utm_source=git)** | Burlington, WA | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46214?utm_campaign=1056&utm_source=git)** | Pocatello, ID | On Site | Oct 02 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46213?utm_campaign=1056&utm_source=git)** | Yakima, WA | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46218?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46219?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 02 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d4621a?utm_campaign=1056&utm_source=git)** | Medford, OR | On Site | Oct 02 |
@@ -119,10 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Office of American Indian Health (OAIH) Student Worker](https://jobright.ai/jobs/info/66fe39b2136dce33538ae9e7?utm_campaign=1056&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Oct 02 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2025 U.S. Open Mid-Term Volunteer Administration Internship](https://jobright.ai/jobs/info/66feaf78a5fc1df802b77049?utm_campaign=1056&utm_source=git)** | Liberty Corner, NJ 07938  | On Site | Oct 02 |
 | ↳ | **[2025 U.S. Open Long-Term Volunteer Administration Internship](https://jobright.ai/jobs/info/66feaf78a5fc1df802b77056?utm_campaign=1056&utm_source=git)** | Liberty Corner, NJ 07938  | On Site | Oct 02 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Graduate Student](https://jobright.ai/jobs/info/66fee1828bb80c920e2733a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
-| ↳ | **[Government Affairs Intern - Undergraduate Student](https://jobright.ai/jobs/info/66fee1828bb80c920e27334a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Branch Intern](https://jobright.ai/jobs/info/66ff0f262a06a08244eac56e?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 02 |
-| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/66ff0f262a06a08244eac69e?utm_campaign=1056&utm_source=git)** | Memphis, TN | Hybrid | Oct 02 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Undergraduate Student](https://jobright.ai/jobs/info/66fee1828bb80c920e27334a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Branch Intern](https://jobright.ai/jobs/info/66ff0f262a06a08244eac69e?utm_campaign=1056&utm_source=git)** | Memphis, TN | Hybrid | Oct 02 |
+| ↳ | **[Branch Intern](https://jobright.ai/jobs/info/66ff0f262a06a08244eac56e?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 02 |
 | ↳ | **[Branch Intern](https://jobright.ai/jobs/info/66ff0f262a06a08244eac69f?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Oct 02 |
 | **[AstraZeneca](http://www.astrazeneca.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/66febc61967af97f14637359?utm_campaign=1056&utm_source=git)** | US - Washington - DC | On Site | Oct 02 |
 | **[Destination DC](https://washington.org)** | **[Sustainability Intern--Spring 2024](https://jobright.ai/jobs/info/66fdea0b7a6fdc906232d807?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
@@ -142,19 +144,17 @@ For a complete list, click the following sortable link below:
 | **[RHA Health Services, LLC](https://rhahealthservices.org/)** | **[Social Worker (Intern, unpaid)](https://jobright.ai/jobs/info/66fd6bb5cf8dfbe7a5ac8d17?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Oct 01 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[LPRO Graduate Student Internship (Paid)](https://jobright.ai/jobs/info/66fdea1fe6c2a5d85857081c?utm_campaign=1056&utm_source=git)** | Oregon State Capitol | Hybrid | Oct 01 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Energy Advisory (Bachelors or Masters; Hybrid or Remote)](https://jobright.ai/jobs/info/66fd447abbafb4a75bcf5773?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Oct 01 |
-| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bbe?utm_campaign=1056&utm_source=git)** | Tacoma, WA | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb4?utm_campaign=1056&utm_source=git)** | Yakima, WA | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb7?utm_campaign=1056&utm_source=git)** | Spokane, WA | Remote | Oct 01 |
+| **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb7?utm_campaign=1056&utm_source=git)** | Spokane, WA | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bc4?utm_campaign=1056&utm_source=git)** | Renton, WA | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bbc?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 01 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb9?utm_campaign=1056&utm_source=git)** | Boise, ID | Remote | Oct 01 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb6?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb8?utm_campaign=1056&utm_source=git)** | Pocatello, ID | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bba?utm_campaign=1056&utm_source=git)** | Burlington, WA | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bc3?utm_campaign=1056&utm_source=git)** | Salem, OR | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bbc?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357b3a?utm_campaign=1056&utm_source=git)** | Coeur d'Alene, ID | Remote | Oct 01 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bbd?utm_campaign=1056&utm_source=git)** | Medford, OR | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bc2?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb5?utm_campaign=1056&utm_source=git)** | Bend, OR | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bba?utm_campaign=1056&utm_source=git)** | Burlington, WA | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb4?utm_campaign=1056&utm_source=git)** | Yakima, WA | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bb8?utm_campaign=1056&utm_source=git)** | Pocatello, ID | Remote | Oct 01 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bbb?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Oct 01 |
-| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bc4?utm_campaign=1056&utm_source=git)** | Renton, WA | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bc2?utm_campaign=1056&utm_source=git)** | Lewiston, ID | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bc3?utm_campaign=1056&utm_source=git)** | Salem, OR | Remote | Oct 01 |
+| ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fdf26d25f7fb7641357bbe?utm_campaign=1056&utm_source=git)** | Tacoma, WA | Remote | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
