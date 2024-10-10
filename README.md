@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67081738f8218e8f44fb31fa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 10 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67081738f8218e8f44fb31fd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67082154df463281a020358d?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 10 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67082154df463281a0203593?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 10 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Medical Affairs, Liver Diseases](https://jobright.ai/jobs/info/670805c93b109b4d1465192f?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Oct 10 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2024 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1056&utm_source=git)** | Connecticut, United States | On Site | Oct 10 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6707b13a49b886398ab7ac3e?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 10 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/66eb5d6c1f7ffad39143d333?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Oct 10 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Global Regulatory Policy Researcher](https://jobright.ai/jobs/info/6707b8a6b58e6d13a2f51cf2?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/6707b089c4080601eda9050c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
-| **[Management Sciences for Health](https://www.msh.org)** | **[Local Capacity Strengthening (LCS) Intern](https://jobright.ai/jobs/info/6707a21cf62a3a6ab24ab299?utm_campaign=1056&utm_source=git)** | Medford, MA | On Site | Oct 10 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Political Unit Intern: DC - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0f0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 Summer Internship - Social Responsibility and Community Development - Hybrid](https://jobright.ai/jobs/info/67077333e84b1c4fe789243c?utm_campaign=1056&utm_source=git)** | Empire, CO | Hybrid | Oct 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Child Protection/HSPRS Intern (UNPAID)](https://jobright.ai/jobs/info/670779450c4b52a0f4ef18f5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Oct 09 |
@@ -81,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Prepare + Prosper](https://prepareandprosper.org/)** | **[Systems Change Assistantship](https://jobright.ai/jobs/info/6706ce149460da82dce7efec?utm_campaign=1056&utm_source=git)** | Saint Paul, MN | Hybrid | Oct 09 |
 | **[Center for European Policy Analysis](https://cepa.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/6705602b616f6f7329d686f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 09 |
 | **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67068c7bae78c84ffa9d4c68?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Boston – Campus 2025](https://jobright.ai/jobs/info/67076dd0214174d1f8fbfe91?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66f555322676df6f8d5785b9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea18bee0bd988c233b64f6?utm_campaign=1056&utm_source=git)** | College Station, TX | Hybrid | Oct 09 |
 | ↳ | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea066e78ebd4d7aecb740c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 09 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/67049a17270b75ce22d904d0?utm_campaign=1056&utm_source=git)** | US DC Main Office | Hybrid | Oct 07 |
 | ↳ | **[Intern, Innovation Strategy and Policy](https://jobright.ai/jobs/info/67049a17270b75ce22d9058a?utm_campaign=1056&utm_source=git)** | US DC Main Office | Hybrid | Oct 07 |
 | **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - ASUN Senate Committee Secretary](https://jobright.ai/jobs/info/67062bd5307d727fae364344?utm_campaign=1056&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Oct 07 |
-| **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/67072c1d04654120e0c9524d?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Oct 07 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Environmental, Social and Governance Reporting Intern](https://jobright.ai/jobs/info/67046e7b93fb12aa6e8d9476?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Oct 07 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2024 Research Trainee - Transatlantic Democracy Working Group](https://jobright.ai/jobs/info/6704508362a589fbc257a77f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | **[LyondellBasell](http://lyondellbasell.com)** | **[Government Relations Summer Intern 2025](https://jobright.ai/jobs/info/66cbb2ae341b69ff7aa2042b?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Oct 07 |
@@ -141,12 +145,7 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/66e68bcc529fd491e4751a69?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 06 |
 | **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[USID Internship](https://jobright.ai/jobs/info/67022c81cae54072e7d5b4ed?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 05 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/67060fa96f4ef25a5cfdfad7?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Oct 05 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3ac2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Remote | Oct 05 |
-| ↳ | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b39dd?utm_campaign=1056&utm_source=git)** | Michigan, United States | Remote | Oct 05 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6ce?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 05 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3abc?utm_campaign=1056&utm_source=git)** | Denver, CO | Remote | Oct 05 |
-| ↳ | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3abf?utm_campaign=1056&utm_source=git)** | Columbus, OH | Remote | Oct 05 |
-| ↳ | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3ac5?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Oct 05 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Program Management Support (Energy Conservation Measures) Intern](https://jobright.ai/jobs/info/66e7a3939d543408f6048581?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 05 |
 | **[American AgCredit](http://www.agloan.com/)** | **[Intern-Evaluation Services](https://jobright.ai/jobs/info/67010c715103720fe788084c?utm_campaign=1056&utm_source=git)** | Oakdale, CA | Hybrid | Oct 05 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[UPL](http://www.upl-ltd.com/)** | **[Registration Specialist/Archivist Internship](https://jobright.ai/jobs/info/66e37b59cbbd7515ae5455d5?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Oct 04 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f09a68?utm_campaign=1056&utm_source=git)** | Georgetown, DE | On Site | Oct 04 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Harrisburg & Surrounding Counties](https://jobright.ai/jobs/info/6701725270196d21ef1d0266?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Oct 04 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3abe?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Oct 04 |
+| **[Alameda Health System](http://www.alamedahealthsystem.org/)** | **[HealthPath Intern](https://jobright.ai/jobs/info/6700affe3bf801202c01693e?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Oct 04 |
+| **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '24 Internship (Spanish Bilingual)](https://jobright.ai/jobs/info/67006db214f01246bf899064?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
