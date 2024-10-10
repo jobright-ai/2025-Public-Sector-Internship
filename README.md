@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Mobility Program Internship Summer 2025](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd42b6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 09 |
+| **[Merakey](https://www.merakey.org/)** | **[Adult Behavioral Health Internship](https://jobright.ai/jobs/info/67071ebf21670d050ad43ea2?utm_campaign=1056&utm_source=git)** | Pittsburgh Region | On Site | Oct 09 |
+| **[Small Girls PR](https://www.smallgirlspr.com/)** | **[2025 Summer Fellowship Early Access](https://jobright.ai/jobs/info/6707046801f6f6fe50386744?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
+| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/67071181df1a573bcca62205?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 09 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Community Grants Program Assistant Co-Op Spring 2025](https://jobright.ai/jobs/info/6706dd2d98556815d2943aaf?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 09 |
+| ↳ | **[Mobility Program Internship Summer 2025](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd42b6?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 09 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/6706c95e5eb3072cefdd42d2?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 09 |
 | **[Prepare + Prosper](https://prepareandprosper.org/)** | **[Systems Change Assistantship](https://jobright.ai/jobs/info/6706ce149460da82dce7efec?utm_campaign=1056&utm_source=git)** | Saint Paul, MN | Hybrid | Oct 09 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/6706920122fb57f2ba8b2a19?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 09 |
 | **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67068c7bae78c84ffa9d4c68?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 09 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/67065cbd1946e54b4efc4deb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 09 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/66f555322676df6f8d5785b9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea18bee0bd988c233b64f6?utm_campaign=1056&utm_source=git)** | College Station, TX | Hybrid | Oct 09 |
 | ↳ | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea066e78ebd4d7aecb740c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 09 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Environmental Policy Intern](https://jobright.ai/jobs/info/67065cbd1946e54b4efc4e6c?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 09 |
 | **[The Morton Arboretum](https://www.mortonarb.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6706aa71925d19bd5b5f2b94?utm_campaign=1056&utm_source=git)** | Lisle, IL | On Site | Oct 09 |
 | **[EDC (Education Development Center)](http://www.edc.org)** | **[Technical Assistance/Public Health Intern](https://jobright.ai/jobs/info/6705e7ea6b564fdef64131ed?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Oct 08 |
+| **[Arizona Diamondbacks](http://www.dbacks.com)** | **[Intern, Community Impact (Part-time)](https://jobright.ai/jobs/info/670701ef2176f49f9cd98f59?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 08 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern Paid Internship](https://jobright.ai/jobs/info/6706ce149460da82dce7f140?utm_campaign=1056&utm_source=git)** | United States | On Site | Oct 08 |
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/66e8f395ea4336e48b981b0e?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Oct 08 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Engagement Internship, Brookings Metro (Job ID: 2024-3528)](https://jobright.ai/jobs/info/6705cea1a2a3f30fec2a2d74?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 08 |
@@ -99,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Federal Gov't Affairs/Legislative Affairs Intern](https://jobright.ai/jobs/info/67062bd5307d727fae364664?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Oct 07 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Environmental, Social and Governance Reporting Intern](https://jobright.ai/jobs/info/67046e7b93fb12aa6e8d9476?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Oct 07 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2024 Research Trainee - Transatlantic Democracy Working Group](https://jobright.ai/jobs/info/6704508362a589fbc257a77f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
+| **[LyondellBasell](http://lyondellbasell.com)** | **[Government Relations Summer Intern 2025](https://jobright.ai/jobs/info/66cbb2ae341b69ff7aa2042b?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Oct 07 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Cooperative Development & Grower Relations Intern](https://jobright.ai/jobs/info/6704454dfa947157ca8195fc?utm_campaign=1056&utm_source=git)** | Lakeville, MA | On Site | Oct 07 |
 | **[Leyton](https://www.leyton.com/uk)** | **[Grants Writer Intern](https://jobright.ai/jobs/info/6704402977cb9cf9583183ab?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2024/Spring 2025 - Intern, Research & Policy, Beyond Jails Initiative](https://jobright.ai/jobs/info/67042fc31928ef208963a624?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Huntington National Bank](http://www.huntington.com)** | **[REMOTE - Consumer Banking Internship Summer 2025](https://jobright.ai/jobs/info/66f7afd89f7a8657931b3ac0?utm_campaign=1056&utm_source=git)** | Minnesota, United States | Remote | Oct 04 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Tucson, AZ](https://jobright.ai/jobs/info/67021ce08adbad10e468fb78?utm_campaign=1056&utm_source=git)** | Tucson, AZ | Hybrid | Oct 03 |
 | ↳ | **[Intern, Community Health-Tucson, AZ](https://jobright.ai/jobs/info/6700844fb72b19cf78abbfb4?utm_campaign=1056&utm_source=git)** | Tucson, AZ, US | Hybrid | Oct 03 |
-| ↳ | **[Intern, Community Health-Harrisburg & Surrounding Counties](https://jobright.ai/jobs/info/6700a01e7645b912c43b21cf?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, US | On Site | Oct 03 |
-| **[Microsoft](https://www.microsoft.com)** | **[Government Affairs: Internship Opportunity](https://jobright.ai/jobs/info/66ff5a83d1c132e428d8ed9f?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Oct 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer intern: Government Affairs](https://jobright.ai/jobs/info/66ff5d68f9829e9db22711ef?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[Information Technology Industry Council (ITI)](http://itic.org)** | **[Fellow, Space Enterprise Council](https://jobright.ai/jobs/info/6700844fb72b19cf78abbfc9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/66e1e0a25bd1f0d27ab97711?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
