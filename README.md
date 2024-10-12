@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/670a111979850118278cf81e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Boards and Commissions Internship - Denver Mayor's Office](https://jobright.ai/jobs/info/6709dbd2c2aeef90fb251516?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Oct 11 |
 | ↳ | **[Boards and Commissions Internship - Denver Mayor's Office](https://jobright.ai/jobs/info/6709d0360cdc3e9f8077046d?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Oct 11 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Administrative Services - Procurement Specialist](https://jobright.ai/jobs/info/6709d93088f13f3637f366a6?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Oct 11 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025, Research Internship, Race, Prosperity, and Inclusion Initiative, Governance Studies (Job ID: 2024-3534)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Anti-Corruption Research Internship, Governance Studies (Job ID: 2024-3533)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research and Events Internship, Center on the United States and Europe, Foreign Policy (Job ID: 2024-3529)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Spring 2025, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID: 2024-3540)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, American Congress & Government Internship, Governance Studies (Job ID: 2024-3541)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| ↳ | **[Spring 2025, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID: 2024-3540)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Effective Public Management, Governance Studies (Job ID: 2024-3535)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d328?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Talbott Center Research and Events Internship, Foreign Policy (Job ID: 2024-3530)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2024-3536)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
@@ -101,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/670878026184f99e6e649f53?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Oct 10 |
 | **[SHEIN Technology LLC](http://www.shein.com)** | **[Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae733?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 10 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770b3c?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Oct 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Rural Health-Remote](https://jobright.ai/jobs/info/6708ac9c4677643b241f3f23?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Oct 10 |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Rural Health-Remote](https://jobright.ai/jobs/info/6708ac9c4677643b241f3f23?utm_campaign=1056&utm_source=git)** | Providence, RI | Remote | Oct 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Housing Outreach Intern (Spring 2025)](https://jobright.ai/jobs/info/67084f71c05731eda634207d?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Oct 10 |
 | **[MITRE](http://www.mitre.org)** | **[Health Policy Analysis Graduate Intern / McLean, VA, Bedford, MA, Baltimore, MD or Remote / Hybrid](https://jobright.ai/jobs/info/66dbb5f28bad950f09c994c3?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Oct 10 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67086267dae2d7cb39768289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Oct 10 |
@@ -110,14 +111,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Governor's Office (Fall/Spring)](https://jobright.ai/jobs/info/670844d368c730dbe2b025ca?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Oct 10 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc50f3?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Oct 10 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc5101?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Oct 10 |
+| ↳ | **[Intern- Economic Development (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc5105?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Oct 10 |
 | ↳ | **[Intern - Child Nutrition Programs (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc5107?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Oct 10 |
 | ↳ | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc5106?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Oct 10 |
-| ↳ | **[Intern- Economic Development (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc5105?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Oct 10 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc510e?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Oct 10 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc4f89?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Oct 10 |
+| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc510e?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Oct 10 |
 | **[Comcast](http://corporate.comcast.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6709d70516be1ec974287e26?utm_campaign=1056&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Oct 10 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670909058610dbe208e3579e?utm_campaign=1056&utm_source=git)** | Florida, United States | Hybrid | Oct 10 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670909058610dbe208e357a4?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67081738f8218e8f44fb31fa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 10 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67081738f8218e8f44fb31fd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 10 |
 | **[Peace Corps](http://www.peacecorps.gov)** | **[Sustainable Agriculture Facilitator - Volunteer Position - Onsite in Tanzania](https://jobright.ai/jobs/info/66d1fbde19d9ba68441c9f5f?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 10 |
