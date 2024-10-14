@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Democracy Undergraduate Internship, DC](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00f03?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Oct 13 |
+| **[IBM](http://www.ibm.com)** | **[US Government PM Research Intern: 2025](https://jobright.ai/jobs/info/66eeba78aa89d3a9707b81e2?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/670ab3fc71d97593be733109?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Oct 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - Global Regulatory Policy Researcher](https://jobright.ai/jobs/info/670bc0238d01584483079605?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Nation of Lifesavers-Charlotte, NC/Greater Charlotte, NC region](https://jobright.ai/jobs/info/670ab750dcf86e9245e606d7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46210?utm_campaign=1056&utm_source=git)** | Lewiston, ID | On Site | Oct 11 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Communications Internship, Governance Studies (Job ID: 2024-3537)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Race, Prosperity, and Inclusion Initiative, Governance Studies (Job ID: 2024-3534)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Spring 2025, Research and Events Internship, Center on the United States and Europe, Foreign Policy (Job ID: 2024-3529)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Anti-Corruption Research Internship, Governance Studies (Job ID: 2024-3533)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| ↳ | **[Spring 2025, Research and Events Internship, Center on the United States and Europe, Foreign Policy (Job ID: 2024-3529)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, American Congress & Government Internship, Governance Studies (Job ID: 2024-3541)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID: 2024-3540)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Effective Public Management, Governance Studies (Job ID: 2024-3535)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d328?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/6707b089c4080601eda9050c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
 | **[Cone Health](http://www.conehealth.com)** | **[Intern - Philanthropy](https://jobright.ai/jobs/info/670a449036d4abe5cefc0863?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Oct 10 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Political Unit Intern: DC - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0f0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Research & Grants Program-Remote](https://jobright.ai/jobs/info/6708842f821cb672cabd84c3?utm_campaign=1056&utm_source=git)** | Dallas, TX, US | On Site | Oct 09 |
-| ↳ | **[Intern, Rural Health-Remote](https://jobright.ai/jobs/info/670838f937309c7d2c504378?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Oct 09 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2025 Summer Internship - Social Responsibility and Community Development - Hybrid](https://jobright.ai/jobs/info/67077333e84b1c4fe789243c?utm_campaign=1056&utm_source=git)** | Empire, CO | Hybrid | Oct 09 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Child Protection/HSPRS Intern (UNPAID)](https://jobright.ai/jobs/info/670779450c4b52a0f4ef18f5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Oct 09 |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Rural Health-Remote](https://jobright.ai/jobs/info/670838f937309c7d2c504378?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, US | On Site | Oct 09 |
+| ↳ | **[Intern, Research & Grants Program-Remote](https://jobright.ai/jobs/info/6708842f821cb672cabd84c3?utm_campaign=1056&utm_source=git)** | Dallas, TX, US | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
