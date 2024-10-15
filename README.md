@@ -57,18 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/670dd08574b9f42409c62343?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Oct 14 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac3111421?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 14 |
+| ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ad?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
+| ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ae?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
+| ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114af?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Oct 14 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5deed?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 14 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4f?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4e?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[SkillBridge - FOA Agent Internship](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b76b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 14 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b778?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
-| ↳ | **[Asylee & Humanitarian Parolee Casework Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b7c8?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylee & Humanitarian Parolee Casework Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b7c8?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
+| ↳ | **[Anti-Trafficking Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b778?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Medical Affairs Advocacy Intern](https://jobright.ai/jobs/info/670d7d466771979c05329d52?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 14 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement & Communications Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67099d3fcae5073aeb2c7bfb?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Assistant Station Ops Support & Safety Programs](https://jobright.ai/jobs/info/670d6cc53bd0d1725adf7659?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 14 |
-| **[Delta Air Lines](http://www.delta.com)** | **[Intern, Government Affairs (Spring 2025)](https://jobright.ai/jobs/info/670d58f0c5f1676bc9f85668?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 14 |
 | **[Ameren](http://ameren.com)** | **[Sustainability, Diversity & Philanthropy Intern](https://jobright.ai/jobs/info/670d5721930848e15130474a?utm_campaign=1056&utm_source=git)** | St Louis, MO | Hybrid | Oct 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/670d486266f6a0f9e4d4f9cc?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Oct 14 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Community Engagement](https://jobright.ai/jobs/info/670d24c32e73ebdba59c9a02?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Oct 14 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025, American Congress & Government Internship, Governance Studies (Job ID: 2024-3541)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID: 2024-3540)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Effective Public Management, Governance Studies (Job ID: 2024-3535)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d328?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Spring 2025, Talbott Center Research and Events Internship, Foreign Policy (Job ID: 2024-3530)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2024-3536)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| ↳ | **[Spring 2025, Talbott Center Research and Events Internship, Foreign Policy (Job ID: 2024-3530)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Brown Center on Education Policy, Governance Studies (Job ID: 2024-3532)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d4620d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 11 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46213?utm_campaign=1056&utm_source=git)** | Yakima, WA | On Site | Oct 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Health Policy Analysis Graduate Intern / McLean, VA, Bedford, MA, Baltimore, MD or Remote / Hybrid](https://jobright.ai/jobs/info/66dbb5f28bad950f09c994c3?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Oct 10 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67086267dae2d7cb39768289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Oct 10 |
 | ↳ | **[Intern - Administration for Community Living (ACL) (Summer)](https://jobright.ai/jobs/info/6708be21d2ee6b3cc9239886?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Oct 10 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708be21d2ee6b3cc9239889?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Oct 10 |
-| ↳ | **[Intern - Governor's Office (Fall/Spring)](https://jobright.ai/jobs/info/670844d368c730dbe2b025ca?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Oct 10 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc50f3?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Oct 10 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/6708526ecd556e7017cc5101?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
