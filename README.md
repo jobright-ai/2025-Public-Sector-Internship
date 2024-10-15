@@ -57,19 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169355?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937d?utm_campaign=1056&utm_source=git)** | Washington, DC (DC Metro Area) | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937c?utm_campaign=1056&utm_source=git)** | USA - Remote | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169387?utm_campaign=1056&utm_source=git)** | Santa Monica, CA (Greater Los Angeles Area) | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169380?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e20f496835fac2afdc711?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Oct 15 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Applied Research Internship, Brookings Metro (job ID: 2024-3539)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb6c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
+| ↳ | **[Spring 2025, Research Intern, John L. Thornton China Center, Foreign Policy (Job ID 2024-3550)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb92?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/670dfc1bb6e09263959cdc60?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 14 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Spring 2025](https://jobright.ai/jobs/info/670dfc1bb6e09263959cdd2e?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
+| ↳ | **[Gender Equity Intern - Spring 2025](https://jobright.ai/jobs/info/670dfc1bb6e09263959cdd74?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/670dd08574b9f42409c62343?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Oct 14 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac3111421?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 14 |
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ad?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ae?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114af?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Oct 14 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5deed?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 14 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4f?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4e?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[SkillBridge - FOA Agent Internship](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b76b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 14 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylee & Humanitarian Parolee Casework Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b7c8?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
-| ↳ | **[Anti-Trafficking Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b778?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b778?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
+| ↳ | **[Asylee & Humanitarian Parolee Casework Intern - Spring 2025](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b7c8?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 14 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Medical Affairs Advocacy Intern](https://jobright.ai/jobs/info/670d7d466771979c05329d52?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 14 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement & Communications Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67099d3fcae5073aeb2c7bfb?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Assistant Station Ops Support & Safety Programs](https://jobright.ai/jobs/info/670d6cc53bd0d1725adf7659?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 14 |
@@ -142,19 +153,8 @@ For a complete list, click the following sortable link below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/66cfb0f64114f0066f1e159a?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Environmental & Public Policy Intern](https://jobright.ai/jobs/info/6708e53525860987a086f57e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Oct 11 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern 2025 - Division of Consumer and Community Affairs](https://jobright.ai/jobs/info/66eb5ac2cde046b57b050a16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Nation of Lifesavers-Charlotte, NC/Greater Charlotte, NC region](https://jobright.ai/jobs/info/6709e044f78bbcdc240bcd4a?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | On Site | Oct 10 |
-| ↳ | **[Intern, Community Health-5 boroughs of New York City](https://jobright.ai/jobs/info/67098b02b13a7dc02202a43e?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Oct 10 |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-5 boroughs of New York City](https://jobright.ai/jobs/info/67098b02b13a7dc02202a43e?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Oct 10 |
+| ↳ | **[Intern, Nation of Lifesavers-Charlotte, NC/Greater Charlotte, NC region](https://jobright.ai/jobs/info/6709e044f78bbcdc240bcd4a?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | On Site | Oct 10 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Mountaire Cares Intern](https://jobright.ai/jobs/info/67089ad245db116951ed235a?utm_campaign=1056&utm_source=git)** | Millsboro, DE | On Site | Oct 10 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Strategic Resilience (Bachelors, Hybrid - Tallahassee, FL)](https://jobright.ai/jobs/info/670899a0c12aa02da44f78d3?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 10 |
-| **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/6708958246fdd5e44c24183b?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Oct 10 |
-| **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Trade](https://jobright.ai/jobs/info/670895ed4c45949dbbdf11bb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 10 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6708889ce989b1e0a4489d8e?utm_campaign=1056&utm_source=git)** | Washington, NJ | On Site | Oct 10 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/670878026184f99e6e649f53?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Oct 10 |
-| **[SHEIN Technology LLC](http://www.shein.com)** | **[Intern](https://jobright.ai/jobs/info/6708582326352e5e93bae733?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 10 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770b3c?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Oct 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Rural Health-Remote](https://jobright.ai/jobs/info/6708ac9c4677643b241f3f23?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Oct 10 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Housing Outreach Intern (Spring 2025)](https://jobright.ai/jobs/info/67084f71c05731eda634207d?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Oct 10 |
-| **[MITRE](http://www.mitre.org)** | **[Health Policy Analysis Graduate Intern / McLean, VA, Bedford, MA, Baltimore, MD or Remote / Hybrid](https://jobright.ai/jobs/info/66dbb5f28bad950f09c994c3?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Oct 10 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67086267dae2d7cb39768289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Oct 10 |
-| ↳ | **[Intern - Administration for Community Living (ACL) (Summer)](https://jobright.ai/jobs/info/6708be21d2ee6b3cc9239886?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
