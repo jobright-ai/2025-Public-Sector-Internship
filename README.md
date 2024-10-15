@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/670e57e3a0e3af2788d1f24b?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 15 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Resort Government Relations Intern, Spring 2025](https://jobright.ai/jobs/info/670e569372c2892b78737d63?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Oct 15 |
 | **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169355?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 15 |
-| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937d?utm_campaign=1056&utm_source=git)** | Washington, DC (DC Metro Area) | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937c?utm_campaign=1056&utm_source=git)** | USA - Remote | Hybrid | Oct 15 |
-| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169387?utm_campaign=1056&utm_source=git)** | Santa Monica, CA (Greater Los Angeles Area) | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169380?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169387?utm_campaign=1056&utm_source=git)** | Santa Monica, CA (Greater Los Angeles Area) | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937d?utm_campaign=1056&utm_source=git)** | Washington, DC (DC Metro Area) | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e20f496835fac2afdc711?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Oct 15 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Applied Research Internship, Brookings Metro (job ID: 2024-3539)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb6c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
 | ↳ | **[Spring 2025, Research Intern, John L. Thornton China Center, Foreign Policy (Job ID 2024-3550)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb92?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ae?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114af?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Oct 14 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5deed?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 14 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4f?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4e?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[SkillBridge - FOA Agent Internship](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b76b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 14 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/66cfb0f64114f0066f1e159a?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Environmental & Public Policy Intern](https://jobright.ai/jobs/info/6708e53525860987a086f57e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Oct 11 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern 2025 - Division of Consumer and Community Affairs](https://jobright.ai/jobs/info/66eb5ac2cde046b57b050a16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-5 boroughs of New York City](https://jobright.ai/jobs/info/67098b02b13a7dc02202a43e?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Oct 10 |
-| ↳ | **[Intern, Nation of Lifesavers-Charlotte, NC/Greater Charlotte, NC region](https://jobright.ai/jobs/info/6709e044f78bbcdc240bcd4a?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | On Site | Oct 10 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Mountaire Cares Intern](https://jobright.ai/jobs/info/67089ad245db116951ed235a?utm_campaign=1056&utm_source=git)** | Millsboro, DE | On Site | Oct 10 |
-| **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Strategic Resilience (Bachelors, Hybrid - Tallahassee, FL)](https://jobright.ai/jobs/info/670899a0c12aa02da44f78d3?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 10 |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Nation of Lifesavers-Charlotte, NC/Greater Charlotte, NC region](https://jobright.ai/jobs/info/6709e044f78bbcdc240bcd4a?utm_campaign=1056&utm_source=git)** | Charlotte, NC, US | On Site | Oct 10 |
+| ↳ | **[Intern, Community Health-5 boroughs of New York City](https://jobright.ai/jobs/info/67098b02b13a7dc02202a43e?utm_campaign=1056&utm_source=git)** | New York, NY, US | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
