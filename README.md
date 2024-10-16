@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Preferred Communities Child Protection Intern](https://jobright.ai/jobs/info/670ef2d4d43c7f324e9b1df0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/670ede0020e67b1ae2547cd7?utm_campaign=1056&utm_source=git)** | Madison, WI | Remote | Oct 15 |
+| **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Southeast Asia](https://jobright.ai/jobs/info/670ee84509b9cdeb181fc722?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 15 |
+| ↳ | **[Intern/Graduate Fellow, Mexico](https://jobright.ai/jobs/info/670ee84509b9cdeb181fc723?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Affairs and Communications Intern, Spring 2025](https://jobright.ai/jobs/info/670e9635d44a50b5106bbc12?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Oct 15 |
 | **[UMass Boston](http://www.umb.edu/)** | **[Progressive Employment Research Intern](https://jobright.ai/jobs/info/670e94b880cf612b86e417c0?utm_campaign=1056&utm_source=git)** | Greater Boston | On Site | Oct 15 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern](https://jobright.ai/jobs/info/670e9c72356b7aaa8128ed7d?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 15 |
 | **[ALLETE](http://allete.com)** | **[Internship - Real Estate Services](https://jobright.ai/jobs/info/670e867d109cf6be933a1e1e?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Oct 15 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/670e57e3a0e3af2788d1f24b?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 15 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/66f1f1bbe554983220a5aa6f?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
+| **[Amway](http://www.amway.com)** | **[First Mile Intern, Summer 2025](https://jobright.ai/jobs/info/66f231d047aac89868ca0579?utm_campaign=1056&utm_source=git)** | Ada, MI | Hybrid | Oct 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Resort Government Relations Intern, Spring 2025](https://jobright.ai/jobs/info/670e569372c2892b78737d63?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Oct 15 |
-| **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169387?utm_campaign=1056&utm_source=git)** | Santa Monica, CA (Greater Los Angeles Area) | Hybrid | Oct 15 |
-| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169355?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 15 |
-| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937c?utm_campaign=1056&utm_source=git)** | USA - Remote | Hybrid | Oct 15 |
+| **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169355?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169380?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169387?utm_campaign=1056&utm_source=git)** | Santa Monica, CA (Greater Los Angeles Area) | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937d?utm_campaign=1056&utm_source=git)** | Washington, DC (DC Metro Area) | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937c?utm_campaign=1056&utm_source=git)** | USA - Remote | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e20f496835fac2afdc711?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Oct 15 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Applied Research Internship, Brookings Metro (job ID: 2024-3539)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb6c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
 | ↳ | **[Spring 2025, Research Intern, John L. Thornton China Center, Foreign Policy (Job ID 2024-3550)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb92?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
@@ -80,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ae?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114af?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Oct 14 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5deed?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 14 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4e?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4f?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[SkillBridge - FOA Agent Internship](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b76b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 14 |
@@ -130,11 +136,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025, Research Internship, Race, Prosperity, and Inclusion Initiative, Governance Studies (Job ID: 2024-3534)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Anti-Corruption Research Internship, Governance Studies (Job ID: 2024-3533)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research and Events Internship, Center on the United States and Europe, Foreign Policy (Job ID: 2024-3529)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Spring 2025, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID: 2024-3540)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, American Congress & Government Internship, Governance Studies (Job ID: 2024-3541)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| ↳ | **[Spring 2025, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID: 2024-3540)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Effective Public Management, Governance Studies (Job ID: 2024-3535)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d328?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| ↳ | **[Spring 2025, Talbott Center Research and Events Internship, Foreign Policy (Job ID: 2024-3530)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Center for Technology Innovation, Governance Studies (Job ID: 2024-3536)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| ↳ | **[Spring 2025, Talbott Center Research and Events Internship, Foreign Policy (Job ID: 2024-3530)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Spring 2025, Research Internship, Brown Center on Education Policy, Governance Studies (Job ID: 2024-3532)](https://jobright.ai/jobs/info/6709d0ba6c7554671117d2c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d4620d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 11 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46213?utm_campaign=1056&utm_source=git)** | Yakima, WA | On Site | Oct 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[2025 Summer Internship - Tillamook Farm Services Intern](https://jobright.ai/jobs/info/670989ca04e801491b512b25?utm_campaign=1056&utm_source=git)** | Tillamook, OR | On Site | Oct 11 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Research & Grants Program-Remote](https://jobright.ai/jobs/info/67094e8335c90ac0fe16e43f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Oct 11 |
 | **[Cox Communications](http://www.cox.com)** | **[Government & Public Affairs Intern- Summer 2025](https://jobright.ai/jobs/info/670941b7d6dee66b6d4f8067?utm_campaign=1056&utm_source=git)** | Metairie, LA | Hybrid | Oct 11 |
-| **[Tetra Pak](http://www.tetrapak.com)** | **[Intern](https://jobright.ai/jobs/info/67093d975b9f9c6e1a9c2d73?utm_campaign=1056&utm_source=git)** | Denton, TX | Hybrid | Oct 11 |
-| **[NAACP Legal Defense and Educational Fund, Inc.](http://www.naacpldf.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f3ec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec61c3666d1fd6a4526db4?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Oct 11 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Oct 11 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/66ec57d5b80e15eafa3a97b9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/66cfb0f64114f0066f1e159a?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
