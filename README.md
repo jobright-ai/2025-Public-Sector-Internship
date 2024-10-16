@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fd4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 15 |
+| **[Washington University in St. Louis](https://wustl.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/670f3f411d8f0cd10c93ba07?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 15 |
+| **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f45116c727bfb3a197424?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
+| ↳ | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fd4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 15 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Outreach Internship - Denver Mayor's Office](https://jobright.ai/jobs/info/670f2e17ae6c9a7631c4097d?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Oct 15 |
 | **[AstraZeneca](http://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/670f2949b6df58ba9055d43f?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Oct 15 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Outreach Internship - Denver Mayor's Office](https://jobright.ai/jobs/info/670f115770adf5669424f6cd?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Oct 15 |
-| **[AstraZeneca](http://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/670f2deab7369588ead7317f?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Oct 15 |
+| **[AstraZeneca](http://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/670f4a44ee024f60c9a87d7a?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Oct 15 |
+| ↳ | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/670f2deab7369588ead7317f?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Oct 15 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/670f25a60b00d59b34c4f345?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Preferred Communities Child Protection Intern](https://jobright.ai/jobs/info/670ef2d4d43c7f324e9b1df0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/670ede0020e67b1ae2547cd7?utm_campaign=1056&utm_source=git)** | Madison, WI | Remote | Oct 15 |
@@ -75,11 +78,11 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/66f1f1bbe554983220a5aa6f?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
 | **[Amway](http://www.amway.com)** | **[First Mile Intern, Summer 2025](https://jobright.ai/jobs/info/66f231d047aac89868ca0579?utm_campaign=1056&utm_source=git)** | Ada, MI | Hybrid | Oct 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Resort Government Relations Intern, Spring 2025](https://jobright.ai/jobs/info/670e569372c2892b78737d63?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Oct 15 |
-| **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169355?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 15 |
+| **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937d?utm_campaign=1056&utm_source=git)** | Washington, DC (DC Metro Area) | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169355?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937c?utm_campaign=1056&utm_source=git)** | USA - Remote | Hybrid | Oct 15 |
-| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169380?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
-| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe916937d?utm_campaign=1056&utm_source=git)** | Washington, DC (DC Metro Area) | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169387?utm_campaign=1056&utm_source=git)** | Santa Monica, CA (Greater Los Angeles Area) | Hybrid | Oct 15 |
+| ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e2197881a289fe9169380?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 15 |
 | ↳ | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e20f496835fac2afdc711?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Oct 15 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2025, Applied Research Internship, Brookings Metro (job ID: 2024-3539)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb6c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
 | ↳ | **[Spring 2025, Research Intern, John L. Thornton China Center, Foreign Policy (Job ID 2024-3550)](https://jobright.ai/jobs/info/670e1ef6f6d77196b691eb92?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 14 |
@@ -92,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114ae?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | ↳ | **[Precision Oncology Patient Advocacy, Intern](https://jobright.ai/jobs/info/670dd2e1a4e00a4ac31114af?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Oct 14 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5deed?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 14 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 14 |
+| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4e?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 14 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/670dad20180a2e6daaf5df4f?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[SkillBridge - FOA Agent Internship](https://jobright.ai/jobs/info/670d8ff5a3719acf5f99b76b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Oct 14 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Oct 13 |
 | **[IBM](http://www.ibm.com)** | **[US Government PM Research Intern: 2025](https://jobright.ai/jobs/info/66eeba78aa89d3a9707b81e2?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 13 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c98a4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Oct 12 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Administrative Services - Procurement Specialist](https://jobright.ai/jobs/info/6709d93088f13f3637f366a6?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Oct 12 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/670ab3fc71d97593be733109?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Oct 12 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe277b0ee3b5aad709d130?utm_campaign=1056&utm_source=git)** | Spokane, WA | Hybrid | Oct 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - Global Regulatory Policy Researcher](https://jobright.ai/jobs/info/670bc0238d01584483079605?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 12 |
@@ -130,7 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d4621a?utm_campaign=1056&utm_source=git)** | Medford, OR | On Site | Oct 11 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Boards and Commissions Internship - Denver Mayor's Office](https://jobright.ai/jobs/info/6709dbd2c2aeef90fb251516?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Oct 11 |
 | ↳ | **[Boards and Commissions Internship - Denver Mayor's Office](https://jobright.ai/jobs/info/6709d0360cdc3e9f8077046d?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Oct 11 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Administrative Services - Procurement Specialist](https://jobright.ai/jobs/info/6709bc42a5e929d7eec0e2b3?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 11 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Administrative Services - Procurement Specialist](https://jobright.ai/jobs/info/6709d93088f13f3637f366a6?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Oct 11 |
+| ↳ | **[2025 Summer Intern - Administrative Services - Procurement Specialist](https://jobright.ai/jobs/info/6709bc42a5e929d7eec0e2b3?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Oct 11 |
 | **[Cambia Health Solutions](http://www.cambiahealth.com)** | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46218?utm_campaign=1056&utm_source=git)** | Renton, WA | On Site | Oct 11 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46219?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 11 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d46211?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Oct 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe49d1d9567d9890d4621b?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Oct 11 |
 | ↳ | **[Medical Policy Research Analyst Internship](https://jobright.ai/jobs/info/66fe366d42f783663513b439?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 11 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-5 boroughs of New York City](https://jobright.ai/jobs/info/6709af9429d5de0212ea4a2f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 11 |
-| **[Velos](https://velosteam.com)** | **[Government Relations Intern - Space & Defense](https://jobright.ai/jobs/info/6709bc42a5e929d7eec0e386?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 11 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Internship SPRING 2025](https://jobright.ai/jobs/info/67099d3fcae5073aeb2c7bb8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
-| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Sr. Associate, Government Relations (Arlington, VA)](https://jobright.ai/jobs/info/67099860d53f673f2146834f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
