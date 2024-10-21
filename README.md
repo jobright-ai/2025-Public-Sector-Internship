@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6715411be858be1a6940d088?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67159375f3ab319716ced11a?utm_campaign=1056&utm_source=git)** | Southport, NC | On Site | Oct 20 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67159375f3ab319716ced11c?utm_campaign=1056&utm_source=git)** | Wasilla, AK | On Site | Oct 20 |
+| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67159375f3ab319716ced11b?utm_campaign=1056&utm_source=git)** | Harrisburg, NC | On Site | Oct 20 |
+| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67159375f3ab319716ced121?utm_campaign=1056&utm_source=git)** | Clayton, NC | On Site | Oct 20 |
+| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/671583727907a15ff9e1bbaa?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Oct 20 |
+| ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6715411be858be1a6940d088?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67152fd6631eff0d60d58786?utm_campaign=1056&utm_source=git)** | Garner, NC | On Site | Oct 20 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67152fd6631eff0d60d5878b?utm_campaign=1056&utm_source=git)** | Aberdeen, NC | On Site | Oct 20 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6714e7f1da85bd93ebf7a129?utm_campaign=1056&utm_source=git)** | Chugiak, AK | On Site | Oct 20 |
@@ -77,8 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Government](https://jobright.ai/jobs/info/67142ddbd036315f58b65838?utm_campaign=1056&utm_source=git)** | Pine Bluff, AR | On Site | Oct 19 |
 | ↳ | **[Student Government III-1](https://jobright.ai/jobs/info/67142ddbd036315f58b65836?utm_campaign=1056&utm_source=git)** | Pine Bluff, AR | On Site | Oct 19 |
 | **[AnMed Health](http://anmedhealth.org)** | **[Safe Kids- Intern](https://jobright.ai/jobs/info/67142c25d446e3e1eab5070c?utm_campaign=1056&utm_source=git)** | South Carolina, United States | On Site | Oct 19 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67140cd249f63fafd9c3d3b6?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 19 |
-| ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/6713e9f96e351584fbfa8d54?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 19 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern, Systems and Operational Resiliency Policy - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66db5fbfd1ceaa0730d95413?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 19 |
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/66f4efa9492efc1c2c125aaa?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 19 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS - Current Ivy Tech students only](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c41f?utm_campaign=1056&utm_source=git)** | Crown Point, IN | On Site | Oct 19 |
@@ -93,9 +96,10 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://www.unh.edu)** | **[SIMAP Program Coordinator (Open to Internal Candidates Only)](https://jobright.ai/jobs/info/6712ef44d9db9a793458bffc?utm_campaign=1056&utm_source=git)** | Durham, NH | On Site | Oct 18 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Health Equity - R8141](https://jobright.ai/jobs/info/6712ef44d9db9a793458c0d6?utm_campaign=1056&utm_source=git)** | Dayton, OH | Hybrid | Oct 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern (Spring 2025)](https://jobright.ai/jobs/info/6712fc734e3f45ee32cce878?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
-| **[McDermott Will & Emery](http://www.mwe.com/)** | **[Health Policy Client Services Assistant-1](https://jobright.ai/jobs/info/6712c5a2a9d740b2fde7fc3b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 18 |
+| **[McDermott Will & Emery](http://www.mwe.com/)** | **[Health Policy Client Services Assistant-1](https://jobright.ai/jobs/info/6712c5a2a9d740b2fde7fc34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 18 |
 | **[Small Girls PR](https://www.smallgirlspr.com/)** | **[2025 Summer Fellowship Early Access](https://jobright.ai/jobs/info/6712d09148625e6ecf37f518?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Economics (Graduate)](https://jobright.ai/jobs/info/66d8b45178f1ab2b695523b7?utm_campaign=1056&utm_source=git)** | Carmel, IN | Hybrid | Oct 18 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2025 Intern - Information Management/Archives Intern - Monetary Affairs](https://jobright.ai/jobs/info/66f5f73dd7c0f11fe26a0c09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 18 |
 | **[University of Delaware](http://www.udel.edu)** | **[Post Doctoral Researcher, Ecosystem Services Valuation, Applied Economics and Statistics](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bd834?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Oct 18 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Community Engagement and Culture Intern](https://jobright.ai/jobs/info/6712aee74e9d1d4d44a8c71d?utm_campaign=1056&utm_source=git)** | Nottingham, MD | On Site | Oct 18 |
 | **[Walgreens](https://www.walgreens.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67134e8db41c2f97f6051ec3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sustainability Intern (Summer 2025) - Shelton, CT](https://jobright.ai/jobs/info/671009d0c7de3ebe84bb6d6d?utm_campaign=1056&utm_source=git)** | Shelton, CT | On Site | Oct 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Government Affairs: Internship Opportunity](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8cbce?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Mosaic Life Care Foundation Intern](https://jobright.ai/jobs/info/670ffc35f5fbb92f91170553?utm_campaign=1056&utm_source=git)** | St Joseph, MO | On Site | Oct 16 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Democracy Undergraduate Internship, DC](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00f03?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 16 |
-| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/670fbb0d6c6323c491ccaa56?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Oct 16 |
-| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Public Affairs Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/670fc258ddcd6d1c73c21ae6?utm_campaign=1056&utm_source=git)** | Johnston, IA | On Site | Oct 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Affairs and Communications Intern, Spring 2025](https://jobright.ai/jobs/info/670fa0f96c8317e923263dba?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
