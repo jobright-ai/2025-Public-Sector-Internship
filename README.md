@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671b012a821546abe007c024?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 24 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Michigan Infrastructure Council Student Intern](https://jobright.ai/jobs/info/671ad5e26d4be00b870570a1?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Oct 24 |
 | **[World Relief](https://worldrelief.org/)** | **[MHPSS Intern](https://jobright.ai/jobs/info/671ab3d39f85820efe14be94?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Remote | Oct 24 |
 | ↳ | **[MHPSS Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a32689e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Oct 24 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | ↳ | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a6ad967a496c4b6bab53e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe1c?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
-| ↳ | **[Age Friendly City Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2d?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Oct 24 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 24 |
+| ↳ | **[Age Friendly City Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2d?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Oct 24 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe32?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 24 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe3c?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 24 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a6e75431b750db0202dbd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 24 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[NonDuke/Student Intern,Sanford School of Public Policy](https://jobright.ai/jobs/info/6719835dfad2abbc753e3d08?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Oct 23 |
 | **[The Chicago Community Trust](http://www.cct.org/)** | **[(Hybrid) Fall 2024 Public Policy and Community Power Internship (November 2024 - May 2025)](https://jobright.ai/jobs/info/67198c40a03f990a63422d99?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbe9c?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 23 |
-| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbea2?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 23 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbea4?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 23 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2025)](https://jobright.ai/jobs/info/67196a669b26b0041614394c?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Oct 23 |
 | **[Rosendin](https://www.rosendin.com)** | **[Procurement Summer 2025 Internship](https://jobright.ai/jobs/info/671926b9635574d15d522483?utm_campaign=1056&utm_source=git)** | TX-Austin | On Site | Oct 23 |
@@ -105,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/6718b69719a10a8422d5283a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 22 |
 | **[Tallgrass Energy](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/67186cad97e85c974664ef79?utm_campaign=1056&utm_source=git)** | Houston, TX | Remote | Oct 22 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Remote Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52915?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[New York Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f528f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | ↳ | **[Washington, DC Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52910?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 22 |
+| ↳ | **[New York Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f528f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67188628fe85747fa4d63edb?utm_campaign=1056&utm_source=git)** | Mason, OH | Hybrid | Oct 22 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67188628fe85747fa4d63edd?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Oct 22 |
 | ↳ | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/67188628fe85747fa4d63ede?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 22 |
@@ -128,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67181d75dd3b144bfc930bd3?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 22 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Internship-Spring 2025](https://jobright.ai/jobs/info/6717fb020527ee5591e8aec6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | **[Information Technology Industry Council (ITI)](http://itic.org)** | **[Technology Policy Fellow](https://jobright.ai/jobs/info/6717f71eafd4579f4f9dbc36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6717dac07459efc05227b598?utm_campaign=1056&utm_source=git)** | Georgia - Atlanta | Hybrid | Oct 22 |
-| ↳ | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6717dac07459efc05227b5e4?utm_campaign=1056&utm_source=git)** | California - San Francisco | Hybrid | Oct 22 |
-| ↳ | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6717dac07459efc05227b5e3?utm_campaign=1056&utm_source=git)** | Washington - Seattle | Hybrid | Oct 22 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6717dac07459efc05227b5e3?utm_campaign=1056&utm_source=git)** | Washington - Seattle | Hybrid | Oct 22 |
+| ↳ | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6717dac07459efc05227b5e6?utm_campaign=1056&utm_source=git)** | Georgia - Atlanta | Hybrid | Oct 22 |
+| ↳ | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6717dac07459efc05227b5e8?utm_campaign=1056&utm_source=git)** | California - San Francisco | Hybrid | Oct 22 |
 | **[Garver](https://garverusa.com/)** | **[Water Implementation Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb26?utm_campaign=1056&utm_source=git)** | OKC Metro Area | On Site | Oct 22 |
 | ↳ | **[Water Implementation Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb41?utm_campaign=1056&utm_source=git)** | Wichita, KS | On Site | Oct 22 |
 | ↳ | **[Water Implementation Intern](https://jobright.ai/jobs/info/6717cd3a5bffda7c997bfb56?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Oct 22 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Services Intern](https://jobright.ai/jobs/info/6718252ebe1eded7025b2a98?utm_campaign=1056&utm_source=git)** | Brewster, MA | On Site | Oct 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern – Southeast Asia Program (Spring 2025)](https://jobright.ai/jobs/info/671792fd7084fda8b0fdac09?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/671841376774fb2158931ae1?utm_campaign=1056&utm_source=git)** | Carol Stream, IL | On Site | Oct 21 |
-| **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Children's Health Administrative Internship - Summer 2025](https://jobright.ai/jobs/info/6716ee7d7d57ec4e57809772?utm_campaign=1056&utm_source=git)** | Primary Childrens Hospital | On Site | Oct 21 |
-| ↳ | **[Children's Health Administrative Internship - Summer 2025](https://jobright.ai/jobs/info/6716ee7d7d57ec4e57809849?utm_campaign=1056&utm_source=git)** | Primary Childrens at Lehi | On Site | Oct 21 |
+| **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Children's Health Administrative Internship - Summer 2025](https://jobright.ai/jobs/info/6716ee7d7d57ec4e57809849?utm_campaign=1056&utm_source=git)** | Primary Childrens at Lehi | On Site | Oct 21 |
+| ↳ | **[Children's Health Administrative Internship - Summer 2025](https://jobright.ai/jobs/info/6716ee7d7d57ec4e57809772?utm_campaign=1056&utm_source=git)** | Primary Childrens Hospital | On Site | Oct 21 |
 | **[Blackstone](http://blackstone.com)** | **[2025 Blackstone LaunchPad Summer Analyst – Public Affairs](https://jobright.ai/jobs/info/6716eca4d6c74b9f23c98a19?utm_campaign=1056&utm_source=git)** | New York | On Site | Oct 21 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Public Policy/Government](https://jobright.ai/jobs/info/6716eddeb719775120f607cd?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Hybrid | Oct 21 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6716e82e36c40a6dfdb95447?utm_campaign=1056&utm_source=git)** | Homer, AK | On Site | Oct 21 |
