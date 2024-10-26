@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/671d28ddf48a73898ddd3f64?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Oct 26 |
+| **[Cox Communications](http://www.cox.com)** | **[Government & Public Affairs Intern- Summer 2025](https://jobright.ai/jobs/info/671cfc62d0157b9f7e58552b?utm_campaign=1056&utm_source=git)** | Metairie, LA | On Site | Oct 26 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[2025 Public Sector Summer Associate (Graduate Intern)](https://jobright.ai/jobs/info/671ce9a3692d2652bec3c0c3?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 26 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Latino Health Initiative Intern](https://jobright.ai/jobs/info/671cc9146627754d97069870?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Oct 26 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Federal Work Study - Office of Financial Aid](https://jobright.ai/jobs/info/671caeb496eb478a09b6cf3b?utm_campaign=1056&utm_source=git)** | Lawrenceville, GA | On Site | Oct 26 |
@@ -95,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[Reliant Mission](http://www.reliant.org/)** | **[Rochester Comm & Tech - Living Hope Church](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce54bb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Oct 24 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671b012a821546abe007c024?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 24 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Michigan Infrastructure Council Student Intern](https://jobright.ai/jobs/info/671ad5e26d4be00b870570a1?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Oct 24 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
-| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
 | ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671addc92cd987a02c671695?utm_campaign=1056&utm_source=git)** | MO-SSM Health Saint Louis University Hospital | On Site | Oct 24 |
+| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
 | **[American University](http://american.edu)** | **[Comparative Politics Research Assistant (Student)](https://jobright.ai/jobs/info/671addc92cd987a02c671709?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | On Site | Oct 24 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6718df201be6d7a75c13f829?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 22 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67183bcb2e25ae23bf5b4c8e?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Oct 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6718df201be6d7a75c13f82a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
-| ↳ | **[Summer 2025 Intern - Office of Ethical and Humane Use Policy](https://jobright.ai/jobs/info/6718ce061c4f11598367a412?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grant Coordination Intern - Spring 2025](https://jobright.ai/jobs/info/6718327f8d0e9e35d6c5c5c8?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
