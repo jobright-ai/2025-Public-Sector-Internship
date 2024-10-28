@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Latino Health Initiative Intern](https://jobright.ai/jobs/info/671cc9146627754d97069870?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Oct 26 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Federal Work Study - Office of Financial Aid](https://jobright.ai/jobs/info/671caeb496eb478a09b6cf3b?utm_campaign=1056&utm_source=git)** | Lawrenceville, GA | On Site | Oct 26 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Sr. CSR & Sustainability Community Affairs Intern](https://jobright.ai/jobs/info/671cc2751ac1051e039c4762?utm_campaign=1056&utm_source=git)** | Carlsbad, CA | On Site | Oct 26 |
-| **[AstraZeneca](http://www.astrazeneca.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/671ca323423036778cf2f627?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Administrative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/671c8f879d0129dc425a046d?utm_campaign=1056&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | ↳ | **[Health Advocacy Intern (Unpaid)](https://jobright.ai/jobs/info/671c8f879d0129dc425a0477?utm_campaign=1056&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | ↳ | **[Resettlement Caseworker Intern (Unpaid)](https://jobright.ai/jobs/info/671c8f879d0129dc425a046e?utm_campaign=1056&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
@@ -145,9 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbea4?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 23 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2025)](https://jobright.ai/jobs/info/67196a669b26b0041614394c?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Oct 23 |
 | **[Rosendin](https://www.rosendin.com)** | **[Procurement Summer 2025 Internship](https://jobright.ai/jobs/info/671926b9635574d15d522483?utm_campaign=1056&utm_source=git)** | TX-Austin | On Site | Oct 23 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - Ukraine Reform Working Group](https://jobright.ai/jobs/info/67182449be1eded7025b2152?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[NCSA SAC Chair (Student)](https://jobright.ai/jobs/info/6711baba4915af715c3c9a59?utm_campaign=1056&utm_source=git)** | Bay Shore Acres, FL | On Site | Oct 23 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/67182449be1eded7025b215e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/6718f5afc016c7033d75822c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Oct 23 |
 | ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/66d892f34100dfde2cf4164d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 23 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6718e456422eb9cf0e742d99?utm_campaign=1056&utm_source=git)** | Frostproof, FL | On Site | Oct 23 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern-Sustainability Program -Division of Management](https://jobright.ai/jobs/info/6718e00c42232c08db5cd581?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Administrative) CG-0399-07](https://jobright.ai/jobs/info/6718ba3f914f4a52e352837a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Remote Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52915?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
+| ↳ | **[New York Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f528f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
+| ↳ | **[Washington, DC Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52910?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
