@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns](https://jobright.ai/jobs/info/671e85b60b0f27d96ff0a623?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Oct 27 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/671e7afb776eacfe27e7ff23?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Oct 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern for Communication and Outreach](https://jobright.ai/jobs/info/671e26515d0829d8436c4590?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 27 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 27 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Oct 24 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a6ad967a496c4b6bab53e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe1c?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
-| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 24 |
 | ↳ | **[Age Friendly City Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2d?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Oct 24 |
+| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 24 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe32?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 24 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe3c?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 24 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a6e75431b750db0202dbd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6718e456422eb9cf0e742d99?utm_campaign=1056&utm_source=git)** | Frostproof, FL | On Site | Oct 23 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern-Sustainability Program -Division of Management](https://jobright.ai/jobs/info/6718e00c42232c08db5cd581?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Administrative) CG-0399-07](https://jobright.ai/jobs/info/6718ba3f914f4a52e352837a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Remote Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52915?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
