@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Corporate Responsibility](https://jobright.ai/jobs/info/671fa15d66b2674f9d386e4c?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Oct 28 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/671e7afb776eacfe27e7ff23?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Oct 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern for Communication and Outreach](https://jobright.ai/jobs/info/671e26515d0829d8436c4590?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 27 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 27 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee (Administrative) CG-0399-07](https://jobright.ai/jobs/info/6718ba3f914f4a52e352837a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - Ukraine Reform Working Group](https://jobright.ai/jobs/info/67182449be1eded7025b2152?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Remote Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52915?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[New York Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f528f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | ↳ | **[Washington, DC Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f52910?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
