@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[SENIOR/MANAGEMENT INTERN (ADMINISTRATIVE INTERN NON-CAREER)](https://jobright.ai/jobs/info/67204f29b038a6e6458ad05d?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Oct 28 |
+| **[Northeast Ohio Regional Sewer District](http://www.neorsd.org)** | **[GIS Paraprofessional Intern](https://jobright.ai/jobs/info/67202b453f85a4ff6a023e94?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Oct 28 |
+| **[Rocket Lab](http://www.rocketlabusa.com)** | **[Government Operations Intern - Spring 2025](https://jobright.ai/jobs/info/67202d1f4c3662f92bcdd33a?utm_campaign=1056&utm_source=git)** | Washington D.C. | On Site | Oct 28 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Long Term Services and Supports (Summer)](https://jobright.ai/jobs/info/67202b453f85a4ff6a023f09?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Oct 28 |
 | **[MITRE](http://www.mitre.org)** | **[Health Behavioral and Social Sciences Graduate Intern / Health Innovation Center](https://jobright.ai/jobs/info/67200f71ed16d159aa95d83c?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Oct 28 |
+| **[Guidehouse](https://guidehouse.com)** | **[Technology Intern - State & Local Government, Midwest - Campus 2025](https://jobright.ai/jobs/info/67204bc9870751e905a74f78?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Data Literacy and Community Engagement Intern](https://jobright.ai/jobs/info/67200cd55b32415c5ffad897?utm_campaign=1056&utm_source=git)** | Naples, FL | On Site | Oct 28 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Family Advocate - Chicago](https://jobright.ai/jobs/info/67200a71292861b2e54afe86?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | ↳ | **[INTERNAL ONLY Family Advocate - North Carolina](https://jobright.ai/jobs/info/67200a71292861b2e54afe7e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Oct 28 |
@@ -86,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Advocacy Intern (Unpaid)](https://jobright.ai/jobs/info/671c8f879d0129dc425a0477?utm_campaign=1056&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | ↳ | **[Resettlement Caseworker Intern (Unpaid)](https://jobright.ai/jobs/info/671c8f879d0129dc425a046e?utm_campaign=1056&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Health Equity Intern - Public Service Aide (9924)](https://jobright.ai/jobs/info/671c719e608f8cab6245851f?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
+| **[ALLY Energy](http://www.allyenergy.com)** | **[Internship Strategic - Development/CCS](https://jobright.ai/jobs/info/67204e963c61e36d5216c223?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 25 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[Health Equity Intern - Public Service Aide (9924)](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee5a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 | **[RWE](https://www.group.rwe/)** | **[Sustainability Intern, Spring/Summer 2025](https://jobright.ai/jobs/info/671c212dcc81a5f4e8650641?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Temporary Volunteer Support -Long Term Care Ombudsman Services](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdab2?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 25 |
@@ -116,16 +122,16 @@ For a complete list, click the following sortable link below:
 | **[Reliant Mission](http://www.reliant.org/)** | **[Rochester Comm & Tech - Living Hope Church](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce54bb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Oct 24 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671b012a821546abe007c024?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 24 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Michigan Infrastructure Council Student Intern](https://jobright.ai/jobs/info/671ad5e26d4be00b870570a1?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Oct 24 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671addc92cd987a02c671695?utm_campaign=1056&utm_source=git)** | MO-SSM Health Saint Louis University Hospital | On Site | Oct 24 |
-| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
 | ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
+| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671addc92cd987a02c671695?utm_campaign=1056&utm_source=git)** | MO-SSM Health Saint Louis University Hospital | On Site | Oct 24 |
 | **[American University](http://american.edu)** | **[Comparative Politics Research Assistant (Student)](https://jobright.ai/jobs/info/671addc92cd987a02c671709?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | On Site | Oct 24 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Oct 24 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a6ad967a496c4b6bab53e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe1c?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
-| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 24 |
 | ↳ | **[Age Friendly City Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2d?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Oct 24 |
+| ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 24 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe32?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 24 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe3c?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 24 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a6e75431b750db0202dbd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbe9c?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 23 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/67197a03304a535129dfbea4?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 23 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2025)](https://jobright.ai/jobs/info/67196a669b26b0041614394c?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Oct 23 |
-| **[Rosendin](https://www.rosendin.com)** | **[Procurement Summer 2025 Internship](https://jobright.ai/jobs/info/671926b9635574d15d522483?utm_campaign=1056&utm_source=git)** | TX-Austin | On Site | Oct 23 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/67182449be1eded7025b215e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[New College of Florida](http://www.ncf.edu/)** | **[NCSA SAC Chair (Student)](https://jobright.ai/jobs/info/6711baba4915af715c3c9a59?utm_campaign=1056&utm_source=git)** | Bay Shore Acres, FL | On Site | Oct 23 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/6718f5afc016c7033d75822c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Oct 23 |
-| ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/66d892f34100dfde2cf4164d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
