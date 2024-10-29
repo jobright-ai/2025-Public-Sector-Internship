@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/6720c4f16e069af37b96a12e?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Oct 29 |
+| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2024 Research Trainee - Transatlantic Democracy Working Group](https://jobright.ai/jobs/info/6704508362a589fbc257a77f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
+| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Basic Services & Secondary Migrant Intern, IINE Lowell](https://jobright.ai/jobs/info/67046c954b834dd319036e7a?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Oct 29 |
+| **[San Diego Padres](http://www.padres.com)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/6720b4b9432cbc64a10cad2b?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2025 Internship](https://jobright.ai/jobs/info/6720a50942c24bbaf7dd4d80?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Pacific Legal Foundation](https://pacificlegal.org)** | **[Strategic Research Internship (Spring 2025)](https://jobright.ai/jobs/info/6720a60da71b0ee13ea1bfc8?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Oct 29 |
 | **[Pacific Legal Foundation](https://pacificlegal.org)** | **[Legal Policy & Constitutional Scholarship Internship (Spring 2025)](https://jobright.ai/jobs/info/67209822c9e9764c9ac40779?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 28 |
@@ -65,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67208138e9952ff0776a4523?utm_campaign=1056&utm_source=git)** | St Augustine, FL | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e27?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e2b?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Oct 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e30?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e2f?utm_campaign=1056&utm_source=git)** | Wingate, NC | On Site | Oct 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e30?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e35?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e32?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e45?utm_campaign=1056&utm_source=git)** | Martinsville, VA | On Site | Oct 28 |
@@ -98,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Westat](https://www.westat.com)** | **[Public Health Intern - Community Engagement](https://jobright.ai/jobs/info/671db717a824c11467c4ee6c?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Oct 26 |
 | **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas)](https://jobright.ai/jobs/info/66e326f2d893d1cd938286f3?utm_campaign=1056&utm_source=git)** | Lewisville, TX | On Site | Oct 26 |
 | **[Cox Communications](http://www.cox.com)** | **[Government & Public Affairs Intern- Summer 2025](https://jobright.ai/jobs/info/671cfc62d0157b9f7e58552b?utm_campaign=1056&utm_source=git)** | Metairie, LA | On Site | Oct 26 |
+| **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '24 Internship (Spanish Bilingual)](https://jobright.ai/jobs/info/67006db214f01246bf899064?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Oct 26 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Digital Equity Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6c0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 26 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[2025 Public Sector Summer Associate (Graduate Intern)](https://jobright.ai/jobs/info/671ce9a3692d2652bec3c0c3?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 26 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern](https://jobright.ai/jobs/info/67006a34b8e7f755a57ec02f?utm_campaign=1056&utm_source=git)** | Huntington, VT | On Site | Oct 26 |
@@ -139,22 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Reliant Mission](http://www.reliant.org/)** | **[Rochester Comm & Tech - Living Hope Church](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce54bb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Oct 24 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671b012a821546abe007c024?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 24 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Michigan Infrastructure Council Student Intern](https://jobright.ai/jobs/info/671ad5e26d4be00b870570a1?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Oct 24 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
+| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
 | ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671addc92cd987a02c671695?utm_campaign=1056&utm_source=git)** | MO-SSM Health Saint Louis University Hospital | On Site | Oct 24 |
-| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
 | **[American University](http://american.edu)** | **[Comparative Politics Research Assistant (Student)](https://jobright.ai/jobs/info/671addc92cd987a02c671709?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | On Site | Oct 24 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Oct 24 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a6ad967a496c4b6bab53e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe1c?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Oct 24 |
-| ↳ | **[Age Friendly City Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2d?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Oct 24 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 24 |
+| ↳ | **[Age Friendly City Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe2d?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Oct 24 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe32?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Oct 24 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/671a69ea75c42966c795fe3c?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Oct 24 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a6e75431b750db0202dbd?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 24 |
-| **[Citi](https://www.citi.com)** | **[Enterprise Services and Public Affairs, Summer Analyst- New York (2025)](https://jobright.ai/jobs/info/671a56afdb55a822281cfb68?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Oct 24 |
-| ↳ | **[Enterprise Services and Public Affairs, Summer Associate - New York (2025)](https://jobright.ai/jobs/info/671a56afdb55a822281cfb6c?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Oct 24 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a52a1269736bb99c785ab?utm_campaign=1056&utm_source=git)** | Metairie, LA | Hybrid | Oct 24 |
-| **[Athene](https://www.athene.com/)** | **[Community Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/66fd97b7bea31d5bc99726ff?utm_campaign=1056&utm_source=git)** | West Des Moines, IA | On Site | Oct 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Policy MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5bc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
