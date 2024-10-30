@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Instruments](http://www.ti.com)** | **[Communications Intern - Government Relations](https://jobright.ai/jobs/info/672199e7b71396c49fd8afa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
+| **[Bubble](https://hellobubble.com/)** | **[Community Support Internship - Winter 2024/2025](https://jobright.ai/jobs/info/67219c80b16b7eea82821a96?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 29 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2025] Advancement - General Internship](https://jobright.ai/jobs/info/67219c80b16b7eea82821bb0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 29 |
+| **[Church World Service](http://cwsglobal.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/6721834e2f383df0d9c93d29?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Summer 2025 - Inclusion & Culture Intern - 90292160 - Washington](https://jobright.ai/jobs/info/67216347541e4e06b9e81135?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Resettlement Intern - Spring 2024](https://jobright.ai/jobs/info/6721609a953d297dc6fa58cf?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Oct 29 |
-| **[Primerica](https://www.primerica.com)** | **[OLA-2024-8i - Spark Legislative Aide/Specialist Intern](https://jobright.ai/jobs/info/672153279ddd88075d5a2b48?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
-| ↳ | **[AEMS-2024-4i - Spark Bioplastics Policy Research Intern](https://jobright.ai/jobs/info/672153279ddd88075d5a2b56?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
+| **[Primerica](https://www.primerica.com)** | **[AEMS-2024-4i - Spark Bioplastics Policy Research Intern](https://jobright.ai/jobs/info/672153279ddd88075d5a2b56?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
+| ↳ | **[OLA-2024-8i - Spark Legislative Aide/Specialist Intern](https://jobright.ai/jobs/info/672153279ddd88075d5a2b48?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
 | **[Capstone](https://capstonedc.com)** | **[2025 Spring Policy & Investment Internship](https://jobright.ai/jobs/info/672145a60e6a5f2d89040603?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Oct 29 |
 | **[Primerica](https://www.primerica.com)** | **[AEMS-2024-3i - Spark Program Specialist Intern](https://jobright.ai/jobs/info/672151214cd73487e9a2aca1?utm_campaign=1056&utm_source=git)** | Cedar Knolls, NJ | On Site | Oct 29 |
 | ↳ | **[OCR-2024-7i - Spark Climate Resilience Policy Intern](https://jobright.ai/jobs/info/672151214cd73487e9a2acaa?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
@@ -79,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67208138e9952ff0776a4523?utm_campaign=1056&utm_source=git)** | St Augustine, FL | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e27?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e2b?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Oct 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e30?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e2f?utm_campaign=1056&utm_source=git)** | Wingate, NC | On Site | Oct 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e30?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e35?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e32?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Oct 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67207958efd505b54af00e45?utm_campaign=1056&utm_source=git)** | Martinsville, VA | On Site | Oct 28 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Bayer](https://www.bayer.com)** | **[Global Medical Affairs Intern](https://jobright.ai/jobs/info/671ff28dc73c1c0495555588?utm_campaign=1056&utm_source=git)** | Whippany, NJ | On Site | Oct 28 |
 | **[Ascentra Credit Union](https://www.ascentra.org/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6720ab515e96ec1e9b7f618b?utm_campaign=1056&utm_source=git)** | Bettendorf, IA | On Site | Oct 28 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Family Advocate - Chicago](https://jobright.ai/jobs/info/671fee8cd5b0c313a7e57550?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns](https://jobright.ai/jobs/info/671e85b60b0f27d96ff0a623?utm_campaign=1056&utm_source=git)** | Worcester, MA | Hybrid | Oct 27 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/671e7afb776eacfe27e7ff23?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Oct 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern for Communication and Outreach](https://jobright.ai/jobs/info/671e26515d0829d8436c4590?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 27 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 27 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New Roots Food Access Intern (Unpaid)](https://jobright.ai/jobs/info/671bc7f6d5675bc73d430272?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Oct 25 |
 | **[Tallgrass Energy](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/67186cad97e85c974664ef79?utm_campaign=1056&utm_source=git)** | Houston, TX | Remote | Oct 25 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/671b860500dc288547c38528?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Oct 25 |
-| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Intern, Public Funding and Financing Branch, Division of External Relations](https://jobright.ai/jobs/info/67114a416c3f218a9eb6eff8?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Oct 25 |
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Spring 2025](https://jobright.ai/jobs/info/66ff02a69b5dc2a0f191cd63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[AstraZeneca](http://www.astrazeneca.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/671b767ddd2acb51b7a35a20?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications](https://jobright.ai/jobs/info/66e320e606c287a8fb9da6ac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 25 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Reliant Mission](http://www.reliant.org/)** | **[Rochester Comm & Tech - Living Hope Church](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce54bb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Oct 24 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671b012a821546abe007c024?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 24 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Michigan Infrastructure Council Student Intern](https://jobright.ai/jobs/info/671ad5e26d4be00b870570a1?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Oct 24 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671addc92cd987a02c671695?utm_campaign=1056&utm_source=git)** | MO-SSM Health Saint Louis University Hospital | On Site | Oct 24 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
 | ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
-| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
-| **[American University](http://american.edu)** | **[Comparative Politics Research Assistant (Student)](https://jobright.ai/jobs/info/671addc92cd987a02c671709?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | On Site | Oct 24 |
-| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Oct 24 |
+| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671addc92cd987a02c671695?utm_campaign=1056&utm_source=git)** | MO-SSM Health Saint Louis University Hospital | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
