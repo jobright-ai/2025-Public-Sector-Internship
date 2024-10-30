@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Legislative Assistant/Intern](https://jobright.ai/jobs/info/672214b343f407158db1932c?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Oct 30 |
+| **[Iowa State University](http://www.iastate.edu)** | **[Postdoc Research Associate - Social Sciences](https://jobright.ai/jobs/info/672214b343f407158db19056?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Oct 30 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2025](https://jobright.ai/jobs/info/67221021bd1553c54c409285?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/6721d4e9e26b3cd1e9fb181d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Communications Intern - Government Relations](https://jobright.ai/jobs/info/672199e7b71396c49fd8afa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Bubble](https://hellobubble.com/)** | **[Community Support Internship - Winter 2024/2025](https://jobright.ai/jobs/info/67219c80b16b7eea82821a96?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 29 |
@@ -109,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/671e7afb776eacfe27e7ff23?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Oct 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern for Communication and Outreach](https://jobright.ai/jobs/info/671e26515d0829d8436c4590?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 27 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 27 |
+| **[UPL](http://www.upl-ltd.com/)** | **[Registration Specialist/Archivist Internship](https://jobright.ai/jobs/info/66e37b59cbbd7515ae5455d5?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Oct 27 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/671df933d23520e7918cc0a3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 27 |
 | **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/671de528ff89b8c2dbc47fb9?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Oct 26 |
 | **[Library of Congress](http://www.loc.gov)** | **[Analyst in Health Policy (Economics)(Vacancy#:VAR002896)](https://jobright.ai/jobs/info/67208138e9952ff0776a47f5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reliant Mission](http://www.reliant.org/)** | **[Virginia Tech - New Life Christian Fellowship](https://jobright.ai/jobs/info/671b274c9dd0a64885c076bd?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Oct 24 |
 | **[American University](http://american.edu)** | **[Comparative Politics Research Assistant (Student)](https://jobright.ai/jobs/info/671b245bd65f6f0249d962b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Reliant Mission](http://www.reliant.org/)** | **[Rochester Comm & Tech - Living Hope Church](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce54bb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Oct 24 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671b012a821546abe007c024?utm_campaign=1056&utm_source=git)** | Greater St. Louis | On Site | Oct 24 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Michigan Infrastructure Council Student Intern](https://jobright.ai/jobs/info/671ad5e26d4be00b870570a1?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Oct 24 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f6f?utm_campaign=1056&utm_source=git)** | MO-SSM Health St. Mary's Hospital - St. Louis | On Site | Oct 24 |
-| ↳ | **[Intern - Environmental Safety Training & Rounding](https://jobright.ai/jobs/info/671adeeb2cd987a02c671f70?utm_campaign=1056&utm_source=git)** | MO-SSM Health Cardinal Glennon Children's Hospital | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
