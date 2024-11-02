@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/6725566c85fb6393d245e1be?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
+| **[MITRE](http://www.mitre.org)** | **[Health Strategy, Operations & Systems Intern](https://jobright.ai/jobs/info/67255a0f41d5afddea2fa7da?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Nov 01 |
+| **[Sierra Club](http://sierraclub.org)** | **[Community Advocate Intern](https://jobright.ai/jobs/info/672544e7a35b4815191b762c?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Nov 01 |
+| **[ISDA](https://www.isda.org)** | **[Public Policy Intern - Spring Term](https://jobright.ai/jobs/info/67252f61d83f730c4683542c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/672521d4210d2c92ed8a8406?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 01 |
 | **[AARP](http://www.aarp.org)** | **[Age Friendly City Intern](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f05?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Nov 01 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f08?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Nov 01 |
+| **[Constellation](https://www.constellationenergy.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67253324739c87b70f9d85d3?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6725697afc501595f96d8440?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Social Work Addictions Intern](https://jobright.ai/jobs/info/6724ff7209f999f06d810a30?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
 | **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6724d2230ff7e6d2bc4b9719?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 01 |
@@ -96,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Housing & Urban Development (Masters, Remote)](https://jobright.ai/jobs/info/6723a2fa73360339362fd808?utm_campaign=1056&utm_source=git)** | Reston, VA | Remote | Oct 31 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Spring 2025)](https://jobright.ai/jobs/info/6724e999c70e17fcdf72eb2f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 31 |
-| **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9493b1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 31 |
-| ↳ | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9492c2?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Oct 31 |
+| **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9492c2?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Oct 31 |
+| ↳ | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9493b1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 31 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea066e78ebd4d7aecb740c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2025 Housing Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a0847?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Spring 2025 Grants Management Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a084c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
@@ -110,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[USRAP Capacity Building Intern / Practicum](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e76?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | ↳ | **[Cuban/Haitian Entrant (CHE) Casework Intern, Spring 2025](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e5f?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
 | ↳ | **[Resettlement Casework Intern, Spring 2025](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e68?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
-| ↳ | **[Refugee Housing Intern, Spring 2025](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e6d?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
 | ↳ | **[Resettlement - Health and Wellness Intern, Spring 2025](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e72?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
+| ↳ | **[Refugee Housing Intern, Spring 2025](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e6d?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
 | ↳ | **[Economic Empowerment - Matching Grant Intern, Spring 2025](https://jobright.ai/jobs/info/67232584a3abd20c49bc2e6a?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Boston – Campus 2025](https://jobright.ai/jobs/info/67244e99fa37609d423cad92?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 30 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-25011 Policy and Government Affairs Spring 2025 Intern](https://jobright.ai/jobs/info/6722f56c78770a2abdb7497d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Church World Service](http://cwsglobal.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/6721834e2f383df0d9c93d29?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Summer 2025 - Inclusion & Culture Intern - 90292160 - Washington](https://jobright.ai/jobs/info/67216347541e4e06b9e81135?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Resettlement Intern - Spring 2024](https://jobright.ai/jobs/info/6721609a953d297dc6fa58cf?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Oct 29 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6704a4bfa0781c2f765b2e10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 29 |
-| **[Primerica](https://www.primerica.com)** | **[AEMS-2024-4i - Spark Bioplastics Policy Research Intern](https://jobright.ai/jobs/info/672153279ddd88075d5a2b56?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
-| ↳ | **[OLA-2024-8i - Spark Legislative Aide/Specialist Intern](https://jobright.ai/jobs/info/672153279ddd88075d5a2b48?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
-| **[Capstone](https://capstonedc.com)** | **[2025 Spring Policy & Investment Internship](https://jobright.ai/jobs/info/672145a60e6a5f2d89040603?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Oct 29 |
-| **[Primerica](https://www.primerica.com)** | **[AEMS-2024-3i - Spark Program Specialist Intern](https://jobright.ai/jobs/info/672151214cd73487e9a2aca1?utm_campaign=1056&utm_source=git)** | Cedar Knolls, NJ | On Site | Oct 29 |
-| ↳ | **[OCR-2024-7i - Spark Climate Resilience Policy Intern](https://jobright.ai/jobs/info/672151214cd73487e9a2acaa?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
