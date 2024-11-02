@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York County Defender Services](https://nycds.org/)** | **[Policy & Community Engagement Paid Internship](https://jobright.ai/jobs/info/67258a6787f3e47d3a9a2043?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/6725566c85fb6393d245e1be?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[MITRE](http://www.mitre.org)** | **[Health Strategy, Operations & Systems Intern](https://jobright.ai/jobs/info/67255a0f41d5afddea2fa7da?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Nov 01 |
 | **[Sierra Club](http://sierraclub.org)** | **[Community Advocate Intern](https://jobright.ai/jobs/info/672544e7a35b4815191b762c?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Nov 01 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/672521d4210d2c92ed8a8406?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 01 |
 | **[AARP](http://www.aarp.org)** | **[Age Friendly City Intern](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f05?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Nov 01 |
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f08?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Nov 01 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67253324739c87b70f9d85d3?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6725697afc501595f96d8440?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Social Work Addictions Intern](https://jobright.ai/jobs/info/6724ff7209f999f06d810a30?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
@@ -75,12 +75,12 @@ For a complete list, click the following sortable link below:
 | **[City of Hollywood, Florida](http://www.hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb09?utm_campaign=1056&utm_source=git)** | Hollywood, FL | On Site | Nov 01 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/6724b9d5caea83155e718dbe?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 01 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
+| **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern - Kenosha Intoxicated Driver Intervention Program](https://jobright.ai/jobs/info/6724954ed216bf4b7c4a99cc?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Nov 01 |
 | **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/6724a0d5e5d18ded8cc880e0?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | On Site | Nov 01 |
-| **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern - Kenosha Intoxicated Driver Intervention Program](https://jobright.ai/jobs/info/672492cb2e44955669e46dde?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Nov 01 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/672497979636ced902b5e4b7?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Parkview Health](http://www.parkview.com)** | **[Department of Public Safety Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6724caeeecebeed66088eebc?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Oct 31 |
-| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| ↳ | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
+| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
+| ↳ | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/6724599652eba94871e38f36?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Oct 31 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Neighborhood Strategies](https://jobright.ai/jobs/info/6724365d41277f0302f9474f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Transit Service Planner I](https://jobright.ai/jobs/info/672414d6c40604eb9ba1d164?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
