@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Intuit](http://www.intuit.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/672676b8effd98a680d17c0e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
+| **[Intuit](http://www.intuit.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6726bf698db5657a83a488a9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
+| ↳ | **[Public Affairs Intern](https://jobright.ai/jobs/info/672676b8effd98a680d17c0e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/67260e862b1794addaa42e7d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 02 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Intern - Environmental Services, Stakeholder Management (Denver)](https://jobright.ai/jobs/info/67260e862b1794addaa42e60?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 02 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Nov 02 |
 | **[Covestro](https://www.covestro.com/)** | **[Sustainability & Public Affairs Internship](https://jobright.ai/jobs/info/672625a5e7ee10b8668d7980?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Nov 02 |
 | **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Bachelor’s Social Work level Intern - Tuscarawas County](https://jobright.ai/jobs/info/6725ed0ea074ff85e4c318ac?utm_campaign=1056&utm_source=git)** | New Philadelphia, OH | On Site | Nov 02 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67265a18fe1bf8d927230787?utm_campaign=1056&utm_source=git)** | Roanoke Rapids, NC | On Site | Nov 02 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Housing & Urban Development (Masters, Remote)](https://jobright.ai/jobs/info/6723a2fa73360339362fd808?utm_campaign=1056&utm_source=git)** | Reston, VA | Remote | Oct 31 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Spring 2025)](https://jobright.ai/jobs/info/6724e999c70e17fcdf72eb2f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 31 |
-| **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9493b1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 31 |
-| ↳ | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9492c2?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Oct 31 |
+| **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9492c2?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Oct 31 |
+| ↳ | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9493b1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 31 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea066e78ebd4d7aecb740c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2025 Housing Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a0847?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Spring 2025 Grants Management Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a084c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Legislative Assistant/Intern](https://jobright.ai/jobs/info/672214b343f407158db1932c?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Oct 30 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Nonprofit Administration Intern, IINE Manchester](https://jobright.ai/jobs/info/670587bde784b24b3fea1371?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Oct 30 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea18bee0bd988c233b64f6?utm_campaign=1056&utm_source=git)** | College Station, TX | Hybrid | Oct 30 |
-| **[Iowa State University](http://www.iastate.edu)** | **[Postdoc Research Associate - Social Sciences](https://jobright.ai/jobs/info/672214b343f407158db19056?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Oct 30 |
-| **[Young Americans for Liberty](https://yaliberty.org/)** | **[Campus Policy Research Intern](https://jobright.ai/jobs/info/6724795b7a7bb0f298e5889a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
