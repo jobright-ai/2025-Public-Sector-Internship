@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Small Girls PR](https://www.smallgirlspr.com/)** | **[2025 Summer Fellowship Early Access](https://jobright.ai/jobs/info/672877f372030c2d4bbc2782?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[Cyber Statecraft Initiative - Spring 2025 Young Global Professionals Program](https://jobright.ai/jobs/info/670cdef7fa960d9b909c227a?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 04 |
+| ↳ | **[Economic Statecraft Initiative - Spring 2025 Young Global Professionals Program](https://jobright.ai/jobs/info/670cecd039aabb2d5a4b2576?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Fall 2024 - Spring 2025)](https://jobright.ai/jobs/info/67289c94700e7566c1073497?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 03 |
+| **[Small Girls PR](https://www.smallgirlspr.com/)** | **[2025 Summer Fellowship Early Access](https://jobright.ai/jobs/info/6728991cce9a44e6587bdb22?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern - Kenosha Intoxicated Driver Intervention Program](https://jobright.ai/jobs/info/6727fe4bf1a5ecf8ee9b0313?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Nov 03 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach (Rogers Park)](https://jobright.ai/jobs/info/6727aac0c8319698d734f0ac?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6727b326d46147c95e5cb6f9?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/6724a0d5e5d18ded8cc880e0?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | On Site | Nov 01 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/672497979636ced902b5e4b7?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Parkview Health](http://www.parkview.com)** | **[Department of Public Safety Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6724caeeecebeed66088eebc?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Oct 31 |
-| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| ↳ | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
+| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
+| ↳ | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/6724599652eba94871e38f36?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Oct 31 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Neighborhood Strategies](https://jobright.ai/jobs/info/6724365d41277f0302f9474f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/672743a65ee62ea792aeff3d?utm_campaign=1056&utm_source=git)** | College Station, Texas, United States | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6722a8434ae25b6080b68514?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Oct 30 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Boehringer Cares Foundation Summer Internship](https://jobright.ai/jobs/info/6722b01b30048ae6e4c633d6?utm_campaign=1056&utm_source=git)** | Ridgefield, CT | On Site | Oct 30 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Spring - Community & Communications](https://jobright.ai/jobs/info/67229e49d13b87dfa69e42ef?utm_campaign=1056&utm_source=git)** | Harrison, NJ | On Site | Oct 30 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Grants Management](https://jobright.ai/jobs/info/6722b29adb3f65bfa9e5dd32?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| ↳ | **[Summer Intern, Equity & Community Impact - Program Evaluation](https://jobright.ai/jobs/info/6722b01b30048ae6e4c635d8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| ↳ | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/6722b01b30048ae6e4c635e1?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
