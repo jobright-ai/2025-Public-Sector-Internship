@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Family Advocate - Houston](https://jobright.ai/jobs/info/67298dd0bc473ca542a5099a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 04 |
+| **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Education Policy Intern/Fellow](https://jobright.ai/jobs/info/672993b660bc02f1883d6d73?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 04 |
+| **[PATH](http://www.path.org/)** | **[Intern, Global Health Strategy](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56cbf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 04 |
 | **[Omaha Public Power District](https://www.oppd.com/)** | **[Intern - Emergency Preparedness (Jan-Aug) 2025](https://jobright.ai/jobs/info/67295b8a1a76aa496b685407?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 04 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern- Government and Public Affairs](https://jobright.ai/jobs/info/672959072da2de0b2739bfb3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Government Affairs Internships - Summer 2025](https://jobright.ai/jobs/info/672952e14296de8fe60072f2?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Nov 04 |
@@ -121,11 +124,10 @@ For a complete list, click the following sortable link below:
 | **[City of Hollywood, Florida](http://www.hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb09?utm_campaign=1056&utm_source=git)** | Hollywood, FL | On Site | Nov 01 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/6724b9d5caea83155e718dbe?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 01 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
-| **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/6724a0d5e5d18ded8cc880e0?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | On Site | Nov 01 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/672497979636ced902b5e4b7?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 | **[Parkview Health](http://www.parkview.com)** | **[Department of Public Safety Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6724caeeecebeed66088eebc?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Oct 31 |
-| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| ↳ | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
+| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
+| ↳ | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/6724599652eba94871e38f36?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Oct 31 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Neighborhood Strategies](https://jobright.ai/jobs/info/6724365d41277f0302f9474f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/672743a65ee62ea792aeff3d?utm_campaign=1056&utm_source=git)** | College Station, Texas, United States | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67236b952eb0def733404b8b?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Political Unit Intern: DC - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0f0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Spring 2025 - Law and Policy Intern, Vera Louisiana (For Course Credit)](https://jobright.ai/jobs/info/66e079e5c2c35ae4806c90bb?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Oct 31 |
-| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2025 Internships - Bipartisan Policy Center](https://jobright.ai/jobs/info/66fbfde6a0c6e5370ce2b8fe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Community Affairs NY - Undergraduate Intern](https://jobright.ai/jobs/info/6723264ec59b662603e876e3?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
