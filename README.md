@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e20f496835fac2afdc711?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
+| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/6729ed171f7c20e49ef4cc03?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 05 |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Medical Cost Expenses](https://jobright.ai/jobs/info/6729e697294b69bace481ee9?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 05 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Clinical Strategy and Programs - Summer Internship](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e66b?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Nov 04 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Family Advocate - San Antonio](https://jobright.ai/jobs/info/6729a7c2571a830ec22337fb?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
 | ↳ | **[INTERNAL ONLY Family Advocate - Phoenix](https://jobright.ai/jobs/info/6729a7c2571a830ec2233650?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
 | ↳ | **[INTERNAL ONLY Family Advocate - Houston](https://jobright.ai/jobs/info/67298dd0bc473ca542a5099a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 04 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804072?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
 | ↳ | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80405a?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/6724599652eba94871e38f36?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Oct 31 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Neighborhood Strategies](https://jobright.ai/jobs/info/6724365d41277f0302f9474f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/672743a65ee62ea792aeff3d?utm_campaign=1056&utm_source=git)** | College Station, Texas, United States | On Site | Oct 31 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Transit Service Planner I](https://jobright.ai/jobs/info/672414d6c40604eb9ba1d164?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
 | **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[2025 Summer Internship - Tillamook Farm Services Intern](https://jobright.ai/jobs/info/670989ca04e801491b512b25?utm_campaign=1056&utm_source=git)** | Tillamook, OR | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2025 Housing Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a0847?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Spring 2025 Grants Management Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a084c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Spring 2025 Community Engagement Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a084d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
-| **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67236b952eb0def733404b8b?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 31 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Political Unit Intern: DC - Spring 2025](https://jobright.ai/jobs/info/67078d0721156ca41afaa0f0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 31 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Spring 2025 - Law and Policy Intern, Vera Louisiana (For Course Credit)](https://jobright.ai/jobs/info/66e079e5c2c35ae4806c90bb?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
