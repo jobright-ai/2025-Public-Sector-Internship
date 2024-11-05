@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Family Advocate - Houston](https://jobright.ai/jobs/info/67298dd0bc473ca542a5099a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 04 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Family Advocate - San Antonio](https://jobright.ai/jobs/info/6729a7c2571a830ec22337fb?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
+| ↳ | **[INTERNAL ONLY Family Advocate - Phoenix](https://jobright.ai/jobs/info/6729a7c2571a830ec2233650?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
+| ↳ | **[INTERNAL ONLY Family Advocate - Houston](https://jobright.ai/jobs/info/67298dd0bc473ca542a5099a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 04 |
 | **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Education Policy Intern/Fellow](https://jobright.ai/jobs/info/672993b660bc02f1883d6d73?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 04 |
 | **[PATH](http://www.path.org/)** | **[Intern, Global Health Strategy](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56cbf?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 04 |
 | **[Omaha Public Power District](https://www.oppd.com/)** | **[Intern - Emergency Preparedness (Jan-Aug) 2025](https://jobright.ai/jobs/info/67295b8a1a76aa496b685407?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 04 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[ISDA](https://www.isda.org)** | **[Public Policy Intern - Spring Term](https://jobright.ai/jobs/info/67252f61d83f730c4683542c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/672521d4210d2c92ed8a8406?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 01 |
 | **[AARP](http://www.aarp.org)** | **[Age Friendly City Intern](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f05?utm_campaign=1056&utm_source=git)** | San Juan, TX | Hybrid | Nov 01 |
-| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/67252a7a1815c32102cf9f08?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Nov 01 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6725697afc501595f96d8440?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
 | ↳ | **[Spring 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba7dc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Social Work Addictions Intern](https://jobright.ai/jobs/info/6724ff7209f999f06d810a30?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Oct 31 |
 | ↳ | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Spring 2025)](https://jobright.ai/jobs/info/6724e999c70e17fcdf72eb2f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 31 |
-| **[Penn State University](https://www.ime.psu.edu/)** | **[Part Time - Student (Undergraduate) - Policy Process Lab Research Assistant (REU)](https://jobright.ai/jobs/info/67238e5039abb1e35f9492c2?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Oct 31 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/66ea066e78ebd4d7aecb740c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2025 Housing Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a0847?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Spring 2025 Grants Management Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a084c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
