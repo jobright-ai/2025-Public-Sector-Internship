@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Behavioral Health Initiative - R8033](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d35?utm_campaign=1056&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db9e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda25548?utm_campaign=1056&utm_source=git)** | Gordonsville, VA | On Site | Nov 05 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda2554b?utm_campaign=1056&utm_source=git)** | Bel Air, MD | On Site | Nov 05 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238d6?utm_campaign=1056&utm_source=git)** | US - TX, Austin | On Site | Nov 05 |
-| ↳ | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238f9?utm_campaign=1056&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238f9?utm_campaign=1056&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
+| ↳ | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238d6?utm_campaign=1056&utm_source=git)** | US - TX, Austin | On Site | Nov 05 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Unpaid)](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec92bd?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 05 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 05 |
+| ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0b70?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Nov 05 |
 | ↳ | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 05 |
 | ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f91?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 05 |
 | ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/66d892f34100dfde2cf4164d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[RAND](http://www.rand.org)** | **[RAND Summer Associate Program - POLICY Research](https://jobright.ai/jobs/info/670e20f496835fac2afdc711?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 05 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc49?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Nov 05 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/6729ed171f7c20e49ef4cc03?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 05 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Medical Cost Expenses](https://jobright.ai/jobs/info/6729e697294b69bace481ee9?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 05 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Clinical Strategy and Programs - Summer Internship](https://jobright.ai/jobs/info/6729d30879aa1f4ba0d9e66b?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Nov 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern - Children's Rights Project](https://jobright.ai/jobs/info/6723f0b8e7062bb57d1fe03e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/6723faabeda88fc0c0221051?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Molecular and Microbiology, Onsite](https://jobright.ai/jobs/info/67072352093a3bd1b1804374?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Oct 31 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Community Affairs (Central PA) - Undergraduate Intern](https://jobright.ai/jobs/info/6723db2842fabe499bee67bd?utm_campaign=1056&utm_source=git)** | Camp Hill, PA | On Site | Oct 31 |
-| ↳ | **[Summer 2025 - Community Affairs (Western PA) - Undergraduate Intern](https://jobright.ai/jobs/info/6723db2842fabe499bee67c0?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
-| **[Peace Corps](http://www.peacecorps.gov)** | **[Sustainable Agriculture Facilitator - Volunteer Position - Onsite in Tanzania](https://jobright.ai/jobs/info/66d1fbde19d9ba68441c9f5f?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
