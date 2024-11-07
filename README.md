@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
+| ↳ | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/672c17f6a518a04eb3e7801f?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Nov 06 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Health Equity - Summer Internship](https://jobright.ai/jobs/info/672c0c8e0280dd7160a748e5?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Nov 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Government Relations Intern, Spring 2025](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f0b?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Nov 06 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Assessor/Clerk Recorder Trainee Paid Internship](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2b16?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Nov 06 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - Civil Services](https://jobright.ai/jobs/info/672bd7224fd19a2e559a3350?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 06 |
@@ -67,10 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/670ede0020e67b1ae2547cd7?utm_campaign=1056&utm_source=git)** | Madison, WI | Remote | Nov 06 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/672b5d49ca5ed361500c118c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 06 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Behavioral Health Initiative - R8033](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d35?utm_campaign=1056&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/672b3faac3c76165bceaf9a6?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Nov 05 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Public Affairs](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
-| ↳ | **[Spring Internship – Science & Regulatory Advocacy](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | ↳ | **[Spring Internship – Policy and Research](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
+| ↳ | **[Spring Internship – Science & Regulatory Advocacy](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db9e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda25548?utm_campaign=1056&utm_source=git)** | Gordonsville, VA | On Site | Nov 05 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda2554b?utm_campaign=1056&utm_source=git)** | Bel Air, MD | On Site | Nov 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Community Impact Intern - Spring 2025](https://jobright.ai/jobs/info/670878026184f99e6e649f53?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Nov 01 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Environmental & Public Policy Intern](https://jobright.ai/jobs/info/6708e53525860987a086f57e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Nov 01 |
 | **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/6708958246fdd5e44c24183b?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 01 |
-| **[City of Hollywood, Florida](http://www.hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6724af839b9289228541eb09?utm_campaign=1056&utm_source=git)** | Hollywood, FL | On Site | Nov 01 |
-| **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/6724b9d5caea83155e718dbe?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 01 |
-| **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/672497979636ced902b5e4b7?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
