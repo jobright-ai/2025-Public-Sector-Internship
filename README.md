@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sustainability Intern (Summer 2025) - Shelton, CT](https://jobright.ai/jobs/info/671009d0c7de3ebe84bb6d6d?utm_campaign=1056&utm_source=git)** | Shelton, CT | On Site | Nov 07 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[Community Planning Intern](https://jobright.ai/jobs/info/6710678d0017ab080bf10b3e?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Nov 07 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Communications Intern - Transportation, Plan & Policy (Austin)](https://jobright.ai/jobs/info/66f48646c3aa2b7388504971?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 07 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c3ee7d70644f7e875b40d?utm_campaign=1056&utm_source=git)** | El Paso, TX | Hybrid | Nov 06 |
 | ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
-| ↳ | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/672c17f6a518a04eb3e7801f?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Nov 06 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Health Equity - Summer Internship](https://jobright.ai/jobs/info/672c0c8e0280dd7160a748e5?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Nov 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Government Relations Intern, Spring 2025](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f0b?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Social Work Addictions Intern](https://jobright.ai/jobs/info/6724ff7209f999f06d810a30?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
 | **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6724d2230ff7e6d2bc4b9719?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 01 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Community Impact Intern - Spring 2025](https://jobright.ai/jobs/info/670878026184f99e6e649f53?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Nov 01 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Environmental & Public Policy Intern](https://jobright.ai/jobs/info/6708e53525860987a086f57e?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Nov 01 |
-| **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/6708958246fdd5e44c24183b?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
