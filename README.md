@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/672d7be0f624c5305df36c37?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Barnard College](https://barnard.edu/)** | **[Graduate Assistant, Public Interest Technology Initiative](https://jobright.ai/jobs/info/672d3d2c227af53f717121fc?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[Mercy Corps](http://www.mercycorps.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/672d223e54751ccedb96ea02?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[LSG](https://locuststreet.com)** | **[Public Affairs & Communications Internship – Spring 2025](https://jobright.ai/jobs/info/672d1bc2278eb0e050612092?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Communications Intern - Transportation, Plan & Policy (Austin)](https://jobright.ai/jobs/info/66f48646c3aa2b7388504971?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 07 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c3ee7d70644f7e875b40d?utm_campaign=1056&utm_source=git)** | El Paso, TX | Hybrid | Nov 06 |
 | ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
+| **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fd4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 06 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
 | ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/672c17f6a518a04eb3e7801f?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Nov 06 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/672b5d49ca5ed361500c118c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 06 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Behavioral Health Initiative - R8033](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d35?utm_campaign=1056&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Public Affairs](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
-| ↳ | **[Spring Internship – Policy and Research](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | ↳ | **[Spring Internship – Science & Regulatory Advocacy](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
+| ↳ | **[Spring Internship – Policy and Research](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db9e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda25548?utm_campaign=1056&utm_source=git)** | Gordonsville, VA | On Site | Nov 05 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda2554b?utm_campaign=1056&utm_source=git)** | Bel Air, MD | On Site | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 02 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Intern - Environmental Services, Stakeholder Management (Denver)](https://jobright.ai/jobs/info/67260e862b1794addaa42e60?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 02 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Nov 02 |
-| **[City of Denton](https://www.cityofdenton.com)** | **[Intern II- Environmental Services & Sustainability](https://jobright.ai/jobs/info/672608fde9f2585f79934601?utm_campaign=1056&utm_source=git)** | Denton, TX | On Site | Nov 02 |
-| **[SAS](http://www.sas.com)** | **[Revenue Operations Program & Governance Intern (Year-Round)](https://jobright.ai/jobs/info/67107a22e4f9865dd98a3baf?utm_campaign=1056&utm_source=git)** | Cary, NC | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
