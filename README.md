@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd8b4?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 08 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Prevention/Public Health Practicum/Internship-PEC](https://jobright.ai/jobs/info/672ead531f98ad6b4612295c?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Nov 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Intern - Claims and Healthcare Administration](https://jobright.ai/jobs/info/672e8382dd5d0e21448a81d8?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Nov 08 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[AUKUS Program Intern - Summer 2025](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c57071?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Nov 08 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Maricopa County](http://www.maricopa.gov)** | **[Emergency Management Coordinator Intern](https://jobright.ai/jobs/info/672e8b84b09057a00e35dac2?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
@@ -110,17 +111,16 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2025)](https://jobright.ai/jobs/info/672cf08a785f6b8efe987923?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Rules Unit Supervisor (Environmental Planner 5) (Internal Only)](https://jobright.ai/jobs/info/672b91e3ffb287a10b59013b?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Nov 06 |
 | **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/672b8802a8668c2b2af87ac4?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Nov 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/670ede0020e67b1ae2547cd7?utm_campaign=1056&utm_source=git)** | Madison, WI | Remote | Nov 06 |
-| **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/672b5d49ca5ed361500c118c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 06 |
+| ↳ | **[Right of Way Intern](https://jobright.ai/jobs/info/672b5d49ca5ed361500c118c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 06 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Behavioral Health Initiative - R8033](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d35?utm_campaign=1056&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Public Affairs](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
-| ↳ | **[Spring Internship – Science & Regulatory Advocacy](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | ↳ | **[Spring Internship – Policy and Research](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
+| ↳ | **[Spring Internship – Science & Regulatory Advocacy](https://jobright.ai/jobs/info/672bee874e5a8ff8d47c2bab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db9e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 05 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda25548?utm_campaign=1056&utm_source=git)** | Gordonsville, VA | On Site | Nov 05 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/672a8cc5c73d72dceda2554b?utm_campaign=1056&utm_source=git)** | Bel Air, MD | On Site | Nov 05 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238d6?utm_campaign=1056&utm_source=git)** | US - TX, Austin | On Site | Nov 05 |
-| ↳ | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238f9?utm_campaign=1056&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238f9?utm_campaign=1056&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
+| ↳ | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238d6?utm_campaign=1056&utm_source=git)** | US - TX, Austin | On Site | Nov 05 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0b70?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Nov 05 |
 | ↳ | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 05 |
