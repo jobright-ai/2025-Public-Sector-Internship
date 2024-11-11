@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67302a90dc81ad5c8ae3164c?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Nov 09 |
 | **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Intern Healthcare Winter 2025 / Fort Lauderdale](https://jobright.ai/jobs/info/672ff3ed360206ee7497d655?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 09 |
+| **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/66d8abe7d06677690012a318?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Nov 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/672f96605788ad3d722d0950?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/672f96605788ad3d722d0954?utm_campaign=1056&utm_source=git)** | Roanoke Rapids, NC | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Medical Affairs, Liver Diseases](https://jobright.ai/jobs/info/672fb2ee817675ab0620f13f?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Maricopa County](http://www.maricopa.gov)** | **[Emergency Management Coordinator Intern](https://jobright.ai/jobs/info/672e8b84b09057a00e35dac2?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c3ee7d70644f7e875b40d?utm_campaign=1056&utm_source=git)** | El Paso, TX | Hybrid | Nov 06 |
 | ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fd4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 06 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
-| ↳ | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/672c17f6a518a04eb3e7801f?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Nov 06 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – International Advocacy](https://jobright.ai/jobs/info/672d3f5dfccb423711ef29b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | ↳ | **[Spring Internship –Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/672d3f5dfccb423711ef29a9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships - Summer 2025](https://jobright.ai/jobs/info/672952e14296de8fe60072f2?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Nov 04 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Food and Agriculture Intern](https://jobright.ai/jobs/info/67294d0bb13b9fe647c092e0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist (Public Notice Flyer/ Schedule A)](https://jobright.ai/jobs/info/671fc0411836db8c3eecb238?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
-| **[World Vision](http://www.worldvision.org/)** | **[Advocacy Support Intern](https://jobright.ai/jobs/info/67293dc6d932c13582d27d65?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
