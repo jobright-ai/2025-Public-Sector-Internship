@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2025 Summer Intern - U.S. Medical Affairs/Medical Information & Communication (MIC)](https://jobright.ai/jobs/info/6732bc86bbe55da3b2e25f65?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 11 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/673296ea2af954c55269fb6a?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 11 |
 | **[Edelman](http://www.edelman.com)** | **[Global Citizenship Intern](https://jobright.ai/jobs/info/6732902719ace41b225b8ad9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern](https://jobright.ai/jobs/info/673289e942957e9943cd87d8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
 | **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
@@ -97,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/672e5ff3c3241c8ba6484843?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Nov 08 |
 | **[Cone Health](http://www.conehealth.com)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/67320156cca63081a4947b28?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Nov 08 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/672d3f5dfccb423711ef29a9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fd4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 06 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
-| ↳ | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
+| ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/672c17f6a518a04eb3e7801f?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Nov 06 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – International Advocacy](https://jobright.ai/jobs/info/672d3f5dfccb423711ef29b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Health Equity - Summer Internship](https://jobright.ai/jobs/info/672c0c8e0280dd7160a748e5?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238d6?utm_campaign=1056&utm_source=git)** | US - TX, Austin | On Site | Nov 05 |
 | ↳ | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a5c9702842bbeb4a238f9?utm_campaign=1056&utm_source=git)** | US - TX, Houston | On Site | Nov 05 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0b70?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
