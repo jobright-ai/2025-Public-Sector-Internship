@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (San Antonio)](https://jobright.ai/jobs/info/6734ec6ee045db2226bbb605?utm_campaign=1056&utm_source=git)** | San Antonio, TX | Hybrid | Nov 13 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (San Antonio)](https://jobright.ai/jobs/info/6734e3ecb93719ed9b3fc721?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Nov 13 |
+| **[New York League of Conservation Voters](http://nylcv.org)** | **[Political Organizing Fellow](https://jobright.ai/jobs/info/6734dc5ec0bdb67be4b4cb75?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/6734e96b2d298e5b83ec818b?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Nov 13 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/67182449be1eded7025b215e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 13 |
-| ↳ | **[Spring 2025 Research Trainee - Ukraine Reform Working Group](https://jobright.ai/jobs/info/67182449be1eded7025b2152?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 13 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67342ed9a2956c149495143c?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Nov 12 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Equity, Inclusion & Diversity Graduate Intern](https://jobright.ai/jobs/info/67343eb92897de5c5d47c142?utm_campaign=1056&utm_source=git)** | Rochester, MN | Hybrid | Nov 12 |
 | **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Coroner Investigator Student Intern](https://jobright.ai/jobs/info/67342c7a39076263feceef80?utm_campaign=1056&utm_source=git)** | San Bernardino County, CA | On Site | Nov 12 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/6733cf45aeab77073de6da9c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 12 |
 | **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist](https://jobright.ai/jobs/info/67339255c4d6697229bca8d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Leidos](https://www.leidos.com/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/67339290de8df14291e944bb?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Nov 12 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Banking, Credit, and Operational Risk - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66df93bd8a11c28d2bc8ff12?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6732de140e29f0593fb0889a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6732de140e29f0593fb0889f?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Nov 11 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - U.S. Medical Affairs/Medical Information & Communication (MIC)](https://jobright.ai/jobs/info/6732bc86bbe55da3b2e25f65?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 11 |
@@ -82,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
 | **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
@@ -111,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2025 – Open Space Planning and Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/672ea7bcc7dd19a03895096a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/672e5ff3c3241c8ba6484843?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Nov 08 |
 | **[Cone Health](http://www.conehealth.com)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/67320156cca63081a4947b28?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Nov 08 |
@@ -141,11 +145,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Planning Intern](https://jobright.ai/jobs/info/6710678d0017ab080bf10b3e?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Nov 07 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Communications Intern - Transportation, Plan & Policy (Austin)](https://jobright.ai/jobs/info/66f48646c3aa2b7388504971?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 07 |
 | **[UMass Boston](http://www.umb.edu/)** | **[Progressive Employment Research Intern](https://jobright.ai/jobs/info/670e94b880cf612b86e417c0?utm_campaign=1056&utm_source=git)** | Greater Boston | On Site | Nov 06 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c3ee7d70644f7e875b40d?utm_campaign=1056&utm_source=git)** | El Paso, TX | Hybrid | Nov 06 |
-| ↳ | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
-| **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fd4?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 06 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2cd?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
-| ↳ | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c09ee002be8cda077d2ce?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 06 |
-| **[PhRMA](http://phrma.org/)** | **[Spring Internship – International Advocacy](https://jobright.ai/jobs/info/672d3f5dfccb423711ef29b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Health Equity - Summer Internship](https://jobright.ai/jobs/info/672c0c8e0280dd7160a748e5?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
