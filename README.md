@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Hybrid - Southern California)](https://jobright.ai/jobs/info/6735da54a9263af60811c32a?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Nov 14 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/6735c21421fd1001eb027cbc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 14 |
+| **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Specialist](https://jobright.ai/jobs/info/6735ee22169f0b99ef92e4ae?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 14 |
 | **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[City of Fort Wayne is hiring: Intern - Energy Engineering Marketing &amp; Commun](https://jobright.ai/jobs/info/6735a2d578e2a5400d5df1c9?utm_campaign=1056&utm_source=git)** | Fort Wayne, IN | On Site | Nov 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health Promotion Intern](https://jobright.ai/jobs/info/67359f844b047ec7b5973f1a?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Nov 13 |
 | **[State of Michigan](http://www.michigan.gov)** | **[MDCR-SIPI-INTERN24](https://jobright.ai/jobs/info/67358ec1fde2d4e424012187?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 13 |
@@ -103,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
 | **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
@@ -130,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2025 – Open Space Planning and Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/672ea7bcc7dd19a03895096a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/672e5ff3c3241c8ba6484843?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Nov 08 |
@@ -145,10 +147,4 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://www.unh.edu)** | **[Nutrition Connections Project Coordinator (Open to Internal Candidates)](https://jobright.ai/jobs/info/672d4ede1a604d1bac25ffbe?utm_campaign=1056&utm_source=git)** | Durham, NH | Remote | Nov 07 |
 | ↳ | **[Director of Community Engagement (Open to Internal Candidates Only)](https://jobright.ai/jobs/info/672d4ede1a604d1bac25ffc1?utm_campaign=1056&utm_source=git)** | Durham, NH | On Site | Nov 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6710e92024fcd899db30119b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
-| **[Barnard College](https://barnard.edu/)** | **[Graduate Assistant, Public Interest Technology Initiative](https://jobright.ai/jobs/info/672d3d2c227af53f717121fc?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 07 |
-| **[National Endowment for Democracy](http://ned.org/)** | **[Intern, Research & Conferences, (IFDS) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9650?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
-| **[Mercy Corps](http://www.mercycorps.org)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/672d223e54751ccedb96ea02?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
-| **[LSG](https://locuststreet.com)** | **[Public Affairs & Communications Internship – Spring 2025](https://jobright.ai/jobs/info/672d1bc2278eb0e050612092?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2025)](https://jobright.ai/jobs/info/672d174f3ce3cf8f52194208?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Hybrid | Nov 07 |
-| **[Dow](https://www.dowchemical.com)** | **[2024-2025- Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7b0a31e70265ab77357fd?utm_campaign=1056&utm_source=git)** | Midland, MI | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
