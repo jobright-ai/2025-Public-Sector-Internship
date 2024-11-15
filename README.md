@@ -57,7 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec08f7?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Nov 14 |
+| ↳ | **[Policy Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a7257?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
+| **[Chobani](http://www.chobani.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a318?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Energy/Environmental Policy](https://jobright.ai/jobs/info/6736787adc1d611be4f9e248?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Nov 14 |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a388?utm_campaign=1056&utm_source=git)** | New Castle, PA | Hybrid | Nov 14 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a39c?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 14 |
+| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Energy/Environmental Policy](https://jobright.ai/jobs/info/673664aa4b70c702c2f095ab?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Nov 14 |
+| **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a730b?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 14 |
+| ↳ | **[External Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a72e9?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 14 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Intern, Maternal Mental Health](https://jobright.ai/jobs/info/67366f6e6524546e4306151d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 14 |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67366982769ceb72f0d4e56b?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Nov 14 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f7120d?utm_campaign=1056&utm_source=git)** | Norristown, PA | Hybrid | Nov 14 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f711f1?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 14 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f711f6?utm_campaign=1056&utm_source=git)** | Philipsburg, PA | Hybrid | Nov 14 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f71207?utm_campaign=1056&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Nov 14 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/673661b0822ca45d71504341?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8cc5?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States of America | On Site | Nov 14 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Policy/Data (Spring)](https://jobright.ai/jobs/info/673658c6fe942d24ae057345?utm_campaign=1056&utm_source=git)** | Yankton, SD | On Site | Nov 14 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Hybrid - Southern California)](https://jobright.ai/jobs/info/6735da54a9263af60811c32a?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Nov 14 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/6735c21421fd1001eb027cbc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 14 |
 | **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Specialist](https://jobright.ai/jobs/info/6735ee22169f0b99ef92e4ae?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 14 |
@@ -85,9 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Progressive Companies](http://www.progressiveae.com)** | **[Summer 2025 Planning Intern](https://jobright.ai/jobs/info/673401134d7626964168fd74?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 12 |
 | **[University of Nevada, Reno](http://www.unr.edu/)** | **[Public Service Intern 1, Information Technology [R0145097]](https://jobright.ai/jobs/info/6733ea6ef6596fb55fa78693?utm_campaign=1056&utm_source=git)** | UNLV1-Main Campus, Las Vegas | On Site | Nov 12 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Emergency Management Coordinator Intern](https://jobright.ai/jobs/info/672e8b84b09057a00e35dac2?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 12 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Strategic Partnerships and Government Affairs](https://jobright.ai/jobs/info/6733deafb37b75965fd4223d?utm_campaign=1056&utm_source=git)** | Draper, UT | On Site | Nov 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Workplace Utility & Waste, North America Sales & Service Infrastructure Development (Winter/Spring 2025)](https://jobright.ai/jobs/info/673418888c8a747b8f4eadce?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Nov 12 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Government](https://jobright.ai/jobs/info/6733d6652c215fb1f39feb43?utm_campaign=1056&utm_source=git)** | Pine Bluff, AR | On Site | Nov 12 |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67366031591daabd9a46130f?utm_campaign=1056&utm_source=git)** | East Lyme, CT | On Site | Nov 12 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67366031591daabd9a46135e?utm_campaign=1056&utm_source=git)** | Tyler, TX | On Site | Nov 12 |
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/6733cf45aeab77073de6da9c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 12 |
 | **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8d85?utm_campaign=1056&utm_source=git)** | 32202 | On Site | Nov 12 |
 | **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist](https://jobright.ai/jobs/info/67339255c4d6697229bca8d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
@@ -107,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
 | **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
@@ -134,15 +152,9 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2025 – Open Space Planning and Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/672ea7bcc7dd19a03895096a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/672e5ff3c3241c8ba6484843?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Nov 08 |
-| **[Cone Health](http://www.conehealth.com)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/67320156cca63081a4947b28?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Nov 08 |
-| **[AbbVie](https://www.abbvie.com)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/66f5b00844a75740dd09a7a6?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Nov 08 |
-| **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9708?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 08 |
-| **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/672de48f25fe613b8bae6b14?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 08 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[Community Planning Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d12?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
