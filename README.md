@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Enterprise Services and Public Affairs, Summer Associate - New York (2025)](https://jobright.ai/jobs/info/67374c229924e7a7fdb922c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| ↳ | **[Enterprise Services and Public Affairs, Summer Analyst- New York (2025)](https://jobright.ai/jobs/info/673737044ac3d4e525f0af1a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern - Emergency Management - Enterprise Projects](https://jobright.ai/jobs/info/66ff111beaac48b42bbca127?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist](https://jobright.ai/jobs/info/67372a8c3dad49e94b78ea73?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 15 |
+| **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Officer](https://jobright.ai/jobs/info/673720728041c152975ac360?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 15 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/6736d2e04056999c0a979cb7?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Nov 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Family Reunification Intern](https://jobright.ai/jobs/info/6736d03db73c11624ccd94ee?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[American Bar Foundation](http://americanbarfoundation.org)** | **[William H. Neukom Fellows Research Chair in Diversity and Law 2025-26](https://jobright.ai/jobs/info/6736a2f32e75724099be5190?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
@@ -113,6 +118,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist](https://jobright.ai/jobs/info/67339255c4d6697229bca8d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Leidos](https://www.leidos.com/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/67339290de8df14291e944bb?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Nov 12 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Banking, Credit, and Operational Risk - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66df93bd8a11c28d2bc8ff12?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/673725782af9f6bd8f33fbad?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Nov 12 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/673725782af9f6bd8f33fbd5?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 12 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67358725d3fd635879f6e4ba?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Nov 11 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67358725d3fd635879f6e537?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Nov 11 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67358725d3fd635879f6e5b1?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Nov 11 |
@@ -149,9 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6715e873d86afe993cb00d34?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Nov 08 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd8b4?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 08 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Prevention/Public Health Practicum/Internship-PEC](https://jobright.ai/jobs/info/672ead531f98ad6b4612295c?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Nov 08 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Intern - Claims and Healthcare Administration](https://jobright.ai/jobs/info/672e8382dd5d0e21448a81d8?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Nov 08 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[AUKUS Program Intern - Summer 2025](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c57071?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Nov 08 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2025 – Open Space Planning and Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/672ea7bcc7dd19a03895096a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
-| **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
