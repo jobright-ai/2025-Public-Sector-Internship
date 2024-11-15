@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Bar Foundation](http://americanbarfoundation.org)** | **[William H. Neukom Fellows Research Chair in Diversity and Law 2025-26](https://jobright.ai/jobs/info/6736a2f32e75724099be5190?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec08f7?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Nov 14 |
 | ↳ | **[Policy Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a7257?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | **[Chobani](http://www.chobani.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a318?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
@@ -91,8 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (San Antonio)](https://jobright.ai/jobs/info/6734ec6ee045db2226bbb605?utm_campaign=1056&utm_source=git)** | San Antonio, TX | Hybrid | Nov 13 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Community Engagement and Development (San Antonio)](https://jobright.ai/jobs/info/6734e3ecb93719ed9b3fc721?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Nov 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/67352394b692aca655f876ee?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 13 |
-| **[New York League of Conservation Voters](http://nylcv.org)** | **[Political Organizing Fellow](https://jobright.ai/jobs/info/6734dc5ec0bdb67be4b4cb75?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/673521233afb5bc0341e4f3a?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 13 |
+| ↳ | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/673521233afb5bc0341e4f3a?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/6734e96b2d298e5b83ec818b?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Nov 13 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/67182449be1eded7025b215e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 13 |
 | **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Summer Policy Intern](https://jobright.ai/jobs/info/66df0055c75201ea3c1cd680?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2025 – Open Space Planning and Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/672ea7bcc7dd19a03895096a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e7a7a503a5d1058723947?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Greater Cleveland Food Bank](https://greaterclevelandfoodbank.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/672e68526a4c3b774771a2b3?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
+| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd58?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd29?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Nov 08 |
-| ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd5a?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Nov 08 |
 | ↳ | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/672e4f3cd77ba62e89e5dd59?utm_campaign=1056&utm_source=git)** | US - CO, Boulder | On Site | Nov 08 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
