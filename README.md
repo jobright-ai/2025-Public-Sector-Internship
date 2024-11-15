@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tetra Tech](http://www.tetratech.com)** | **[Strategic Engagement and Communications Intern for Climate Adaptation Support Activity – US based remote](https://jobright.ai/jobs/info/67379d99759a800b13fc52a9?utm_campaign=1056&utm_source=git)** | Winooski, VT | Remote | Nov 15 |
+| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025  Research Trainee](https://jobright.ai/jobs/info/67377b5f38327794060929b1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 15 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a52a1269736bb99c785ab?utm_campaign=1056&utm_source=git)** | Metairie, LA | Hybrid | Nov 15 |
 | **[Citi](https://www.citi.com)** | **[Enterprise Services and Public Affairs, Summer Associate - New York (2025)](https://jobright.ai/jobs/info/67374c229924e7a7fdb922c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | ↳ | **[Enterprise Services and Public Affairs, Summer Analyst- New York (2025)](https://jobright.ai/jobs/info/673737044ac3d4e525f0af1a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern - Emergency Management - Enterprise Projects](https://jobright.ai/jobs/info/66ff111beaac48b42bbca127?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
@@ -86,10 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Government Advisory Services Intern (Fall 2024 - Hybrid - Southern California)](https://jobright.ai/jobs/info/6735da54a9263af60811c32a?utm_campaign=1056&utm_source=git)** | Rancho Cucamonga, CA | Hybrid | Nov 14 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/6735c21421fd1001eb027cbc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 14 |
 | **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Specialist](https://jobright.ai/jobs/info/6735ee22169f0b99ef92e4ae?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 14 |
-| **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[City of Fort Wayne is hiring: Intern - Energy Engineering Marketing &amp; Commun](https://jobright.ai/jobs/info/6735a2d578e2a5400d5df1c9?utm_campaign=1056&utm_source=git)** | Fort Wayne, IN | On Site | Nov 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Health Promotion Intern](https://jobright.ai/jobs/info/67359f844b047ec7b5973f1a?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Nov 13 |
 | **[State of Michigan](http://www.michigan.gov)** | **[MDCR-SIPI-INTERN24](https://jobright.ai/jobs/info/67358ec1fde2d4e424012187?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Nov 13 |
-| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Council on Foreign Relations is hiring: Internship, Foreign Affairs, Advertising](https://jobright.ai/jobs/info/67357c4481aa836c276abb60?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 13 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Community Investments Intern](https://jobright.ai/jobs/info/67354c65032bd122ee37f666?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 13 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2025](https://jobright.ai/jobs/info/673549205afa1c34a94dc7d7?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Program Management Intern-SkillBridge (FedRAMP)](https://jobright.ai/jobs/info/673555bae16dd58f465166a4?utm_campaign=1056&utm_source=git)** | USA - Update Location | On Site | Nov 13 |
@@ -154,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Toole Design Group](http://www.tooledesign.com)** | **[Planning Intern](https://jobright.ai/jobs/info/673306dacbfb4d6e89ca6499?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Nov 08 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[TPS Government Affairs Intern](https://jobright.ai/jobs/info/66da2b35b61cde27ebf22d09?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Nov 08 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6715e873d86afe993cb00d34?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Nov 08 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd8b4?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 08 |
-| **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Prevention/Public Health Practicum/Internship-PEC](https://jobright.ai/jobs/info/672ead531f98ad6b4612295c?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
