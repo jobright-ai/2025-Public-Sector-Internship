@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Spring 2025 Community Affairs Buffalo, NY - Undergraduate Internship](https://jobright.ai/jobs/info/6737ec01155a185f8d78dd09?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Nov 15 |
+| ↳ | **[Summer 2025 Community Affairs Buffalo, NY - Undergraduate Intern](https://jobright.ai/jobs/info/6737ec01155a185f8d78ddb9?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Nov 15 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern](https://jobright.ai/jobs/info/6737cd8e715f954db4744a6d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Nov 15 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern Paid Internshi](https://jobright.ai/jobs/info/6737cd8e715f954db4744b33?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Nov 15 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern Paid Internship](https://jobright.ai/jobs/info/6737cd8e715f954db4744b67?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Officer](https://jobright.ai/jobs/info/673720728041c152975ac360?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 15 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/6736d2e04056999c0a979cb7?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Nov 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Family Reunification Intern](https://jobright.ai/jobs/info/6736d03db73c11624ccd94ee?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| **[Mt. Diablo Unified School District](https://mdusd.org/)** | **[Social Work Intern #1328](https://jobright.ai/jobs/info/67380c06095229369c4adf0e?utm_campaign=1056&utm_source=git)** | Concord, CA | On Site | Nov 14 |
 | **[American Bar Foundation](http://americanbarfoundation.org)** | **[William H. Neukom Fellows Research Chair in Diversity and Law 2025-26](https://jobright.ai/jobs/info/6736a2f32e75724099be5190?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern](https://jobright.ai/jobs/info/673289e942957e9943cd87d8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec08f7?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Nov 14 |
@@ -137,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6732de140e29f0593fb0889a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6732de140e29f0593fb0889f?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Nov 11 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - U.S. Medical Affairs/Medical Information & Communication (MIC)](https://jobright.ai/jobs/info/6732bc86bbe55da3b2e25f65?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 11 |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737f902eeffde6607b27e39?utm_campaign=1056&utm_source=git)** | Monticello, MN | On Site | Nov 11 |
 | **[Edelman](http://www.edelman.com)** | **[Global Citizenship Intern](https://jobright.ai/jobs/info/6732902719ace41b225b8ad9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[International Visitor Advisor for the Office of International Affairs](https://jobright.ai/jobs/info/67327ab2f1aeb2cec631d670?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673278d5b66f3c08ab370137?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Nov 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/66d8abe7d06677690012a318?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Nov 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/672f96605788ad3d722d0950?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Medical Affairs, Liver Diseases](https://jobright.ai/jobs/info/672fb2ee817675ab0620f13f?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
-| **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/66f4efa9492efc1c2c125aaa?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Chicago – Campus 2025](https://jobright.ai/jobs/info/672f508c69e72324a687dfe6?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Analysis Intern - Submarine Platforms - Summer 2025](https://jobright.ai/jobs/info/67132983b796353ea3d41d68?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Nov 09 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Public Information Office](https://jobright.ai/jobs/info/672f508c69e72324a687df45?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
