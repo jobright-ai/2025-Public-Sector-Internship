@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Internship, Health for Quest Equity (Q4HE)](https://jobright.ai/jobs/info/6738d14890ba2411edb9ad9c?utm_campaign=1056&utm_source=git)** | Secaucus, NJ | On Site | Nov 16 |
+| **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6738b19633f0f6ae6decfa32?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 16 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/671b860500dc288547c38528?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 16 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Council on Foreign Relations is hiring: Internship, Digital Content, Editorial,](https://jobright.ai/jobs/info/673824bbaade8bd98190d4df?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 15 |
 | ↳ | **[Internship, Foreign Affairs, Advertising, Fall 2024 Job at Council on Foreign Re](https://jobright.ai/jobs/info/673824bbaade8bd98190d4ed?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 15 |
@@ -145,11 +147,10 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
 | **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[El Paso County-Rural Community Development Pgm.](https://jobright.ai/jobs/info/6731af6de2b3e6bf5c6d1e29?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 10 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Services Intern - Environmental Services, Stakeholder Management Services (Richmond)](https://jobright.ai/jobs/info/66dba4aa1c6d79a99125b22b?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 10 |
-| **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Intern Healthcare Winter 2025 / Fort Lauderdale](https://jobright.ai/jobs/info/672ff3ed360206ee7497d655?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
