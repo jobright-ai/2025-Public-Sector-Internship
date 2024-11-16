@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Council on Foreign Relations is hiring: Internship, Digital Content, Editorial,](https://jobright.ai/jobs/info/673824bbaade8bd98190d4df?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 15 |
+| ↳ | **[Internship, Foreign Affairs, Advertising, Fall 2024 Job at Council on Foreign Re](https://jobright.ai/jobs/info/673824bbaade8bd98190d4ed?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 15 |
+| **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy)- 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6ee12?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Spring 2025 Community Affairs Buffalo, NY - Undergraduate Internship](https://jobright.ai/jobs/info/6737ec01155a185f8d78dd09?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Nov 15 |
 | ↳ | **[Summer 2025 Community Affairs Buffalo, NY - Undergraduate Intern](https://jobright.ai/jobs/info/6737ec01155a185f8d78ddb9?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Nov 15 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern](https://jobright.ai/jobs/info/6737cd8e715f954db4744a6d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Nov 15 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Services and Public Affairs, Summer Analyst- New York (2025)](https://jobright.ai/jobs/info/673737044ac3d4e525f0af1a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern - Emergency Management - Enterprise Projects](https://jobright.ai/jobs/info/66ff111beaac48b42bbca127?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist](https://jobright.ai/jobs/info/67372a8c3dad49e94b78ea73?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 15 |
-| **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Officer](https://jobright.ai/jobs/info/673720728041c152975ac360?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 15 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/6736d2e04056999c0a979cb7?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Nov 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Family Reunification Intern](https://jobright.ai/jobs/info/6736d03db73c11624ccd94ee?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Mt. Diablo Unified School District](https://mdusd.org/)** | **[Social Work Intern #1328](https://jobright.ai/jobs/info/67380c06095229369c4adf0e?utm_campaign=1056&utm_source=git)** | Concord, CA | On Site | Nov 14 |
@@ -79,18 +81,13 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern](https://jobright.ai/jobs/info/673289e942957e9943cd87d8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec08f7?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Nov 14 |
 | ↳ | **[Policy Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a7257?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
-| **[Chobani](http://www.chobani.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a318?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Energy/Environmental Policy](https://jobright.ai/jobs/info/6736787adc1d611be4f9e248?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Nov 14 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a388?utm_campaign=1056&utm_source=git)** | New Castle, PA | Hybrid | Nov 14 |
-| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a39c?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 14 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Energy/Environmental Policy](https://jobright.ai/jobs/info/673664aa4b70c702c2f095ab?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Nov 14 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a730b?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 14 |
 | ↳ | **[External Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a72e9?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 14 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Intern, Maternal Mental Health](https://jobright.ai/jobs/info/67366f6e6524546e4306151d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 14 |
-| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67366982769ceb72f0d4e56b?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Nov 14 |
-| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f7120d?utm_campaign=1056&utm_source=git)** | Norristown, PA | Hybrid | Nov 14 |
-| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f711f1?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 14 |
-| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f711f6?utm_campaign=1056&utm_source=git)** | Philipsburg, PA | Hybrid | Nov 14 |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f7120d?utm_campaign=1056&utm_source=git)** | Norristown, PA | Hybrid | Nov 14 |
 | ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f71207?utm_campaign=1056&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Nov 14 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/673661b0822ca45d71504341?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8cc5?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States of America | On Site | Nov 14 |
@@ -147,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
 | **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
@@ -155,6 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Services Intern - Environmental Services, Stakeholder Management Services (Richmond)](https://jobright.ai/jobs/info/66dba4aa1c6d79a99125b22b?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 10 |
 | **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Intern Healthcare Winter 2025 / Fort Lauderdale](https://jobright.ai/jobs/info/672ff3ed360206ee7497d655?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 09 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/66d8abe7d06677690012a318?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Nov 09 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/672f96605788ad3d722d0950?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Nov 09 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern  Global Medical Affairs, Liver Diseases](https://jobright.ai/jobs/info/672fb2ee817675ab0620f13f?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
