@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Policy MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45fb7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
+| **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy)- 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/673a136268c4e04059695676?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 17 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Internship (Unpaid/Remote)](https://jobright.ai/jobs/info/67395b192232811b5941237f?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Internship, Health for Quest Equity (Q4HE)](https://jobright.ai/jobs/info/6738d14890ba2411edb9ad9c?utm_campaign=1056&utm_source=git)** | Secaucus, NJ | On Site | Nov 16 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6738b19633f0f6ae6decfa32?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 16 |
@@ -70,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[Summer 2025 - Genentech Community College Internship Program - Public Affairs & Access](https://jobright.ai/jobs/info/6737d0c1194f23d6695dea04?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Nov 15 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Strategic Engagement and Communications Intern for Climate Adaptation Support Activity – US based remote](https://jobright.ai/jobs/info/67379d99759a800b13fc52a9?utm_campaign=1056&utm_source=git)** | Winooski, VT | Remote | Nov 15 |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/673a3cb59542f53819594206?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 15 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/673a3cb59542f53819594207?utm_campaign=1056&utm_source=git)** | Philipsburg, PA | On Site | Nov 15 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025  Research Trainee](https://jobright.ai/jobs/info/67377b5f38327794060929b1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 15 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Governmental Advisory Services Summer Intern](https://jobright.ai/jobs/info/671a52a1269736bb99c785ab?utm_campaign=1056&utm_source=git)** | Metairie, LA | Hybrid | Nov 15 |
 | **[Citi](https://www.citi.com)** | **[Enterprise Services and Public Affairs, Summer Associate - New York (2025)](https://jobright.ai/jobs/info/67374c229924e7a7fdb922c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 15 |
@@ -113,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/67352394b692aca655f876ee?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 13 |
 | ↳ | **[Internship, Office for Interactions with Industry](https://jobright.ai/jobs/info/673521233afb5bc0341e4f3a?utm_campaign=1056&utm_source=git)** | Somerville, MA | On Site | Nov 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/6734e96b2d298e5b83ec818b?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Nov 13 |
+| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Government Pricing](https://jobright.ai/jobs/info/673a0313847c3e0ec78154d4?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 13 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/67182449be1eded7025b215e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 13 |
 | **[Planned Parenthood Federation of America](http://www.plannedparenthood.org/)** | **[Summer Policy Intern](https://jobright.ai/jobs/info/66df0055c75201ea3c1cd680?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67342ed9a2956c149495143c?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Nov 12 |
@@ -126,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737c766bd921fa97341fb86?utm_campaign=1056&utm_source=git)** | Missouri, United States | On Site | Nov 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Workplace Utility & Waste, North America Sales & Service Infrastructure Development (Winter/Spring 2025)](https://jobright.ai/jobs/info/673418888c8a747b8f4eadce?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Nov 12 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Government](https://jobright.ai/jobs/info/6733d6652c215fb1f39feb43?utm_campaign=1056&utm_source=git)** | Pine Bluff, AR | On Site | Nov 12 |
-| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525cb1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525caf?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 12 |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525caf?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 12 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525cb1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67366031591daabd9a46130f?utm_campaign=1056&utm_source=git)** | East Lyme, CT | On Site | Nov 12 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67366031591daabd9a46135e?utm_campaign=1056&utm_source=git)** | Tyler, TX | On Site | Nov 12 |
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/6733cf45aeab77073de6da9c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 12 |
@@ -150,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 | ↳ | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb444202?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273ab?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/6732563b6d552d8b1c3273c4?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 11 |
 | ↳ | **[US Medical Affairs Intern, Graduate Level](https://jobright.ai/jobs/info/67322a1a237fd248ccfb54ac?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 11 |
-| **[Roche](http://www.roche.com)** | **[SHE Intern](https://jobright.ai/jobs/info/67321fd5eeae20ebf093f013?utm_campaign=1056&utm_source=git)** | Shanghai, VA | On Site | Nov 11 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Government Affairs](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05d3?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 11 |
-| **[AmeriCorps](https://www.nationalservice.gov)** | **[El Paso County-Rural Community Development Pgm.](https://jobright.ai/jobs/info/6731af6de2b3e6bf5c6d1e29?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
