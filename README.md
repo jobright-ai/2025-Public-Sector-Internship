@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Internship (Unpaid/Remote)](https://jobright.ai/jobs/info/67395b192232811b5941237f?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Internship, Health for Quest Equity (Q4HE)](https://jobright.ai/jobs/info/6738d14890ba2411edb9ad9c?utm_campaign=1056&utm_source=git)** | Secaucus, NJ | On Site | Nov 16 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6738b19633f0f6ae6decfa32?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 16 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/671b860500dc288547c38528?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 16 |
