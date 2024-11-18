@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Department of Labor](https://oig.dol.gov)** | **[International Relations Officer](https://jobright.ai/jobs/info/673b1dd85c8c3b8edc064bad?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 18 |
 | **[Community Access](https://www.communityaccess.org)** | **[Housing Intern](https://jobright.ai/jobs/info/673b090d133b6933c0b20b50?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Legislative Intern](https://jobright.ai/jobs/info/673a522b9828a78303a3ba93?utm_campaign=1056&utm_source=git)** | Oregon State Capitol | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45fb7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Internship, Health for Quest Equity (Q4HE)](https://jobright.ai/jobs/info/6738d14890ba2411edb9ad9c?utm_campaign=1056&utm_source=git)** | Secaucus, NJ | On Site | Nov 16 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/6738b19633f0f6ae6decfa32?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 16 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/671b860500dc288547c38528?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 16 |
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Nov 16 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Spring 2025 Community Affairs Buffalo, NY - Undergraduate Internship](https://jobright.ai/jobs/info/6737ec01155a185f8d78dd09?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Nov 15 |
 | ↳ | **[Summer 2025 Community Affairs Buffalo, NY - Undergraduate Intern](https://jobright.ai/jobs/info/6737ec01155a185f8d78ddb9?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Nov 15 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern](https://jobright.ai/jobs/info/6737cd8e715f954db4744a6d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Nov 15 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737c766bd921fa97341fb86?utm_campaign=1056&utm_source=git)** | Missouri, United States | On Site | Nov 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Workplace Utility & Waste, North America Sales & Service Infrastructure Development (Winter/Spring 2025)](https://jobright.ai/jobs/info/673418888c8a747b8f4eadce?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Nov 12 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Government](https://jobright.ai/jobs/info/6733d6652c215fb1f39feb43?utm_campaign=1056&utm_source=git)** | Pine Bluff, AR | On Site | Nov 12 |
-| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525cb1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525caf?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 12 |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525caf?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 12 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737b704a38ce1e28b525cb1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67366031591daabd9a46130f?utm_campaign=1056&utm_source=git)** | East Lyme, CT | On Site | Nov 12 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67366031591daabd9a46135e?utm_campaign=1056&utm_source=git)** | Tyler, TX | On Site | Nov 12 |
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/6733cf45aeab77073de6da9c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 12 |
@@ -153,8 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - U.S. Medical Affairs/Medical Information & Communication (MIC)](https://jobright.ai/jobs/info/6732bc86bbe55da3b2e25f65?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 11 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6737f902eeffde6607b27e39?utm_campaign=1056&utm_source=git)** | Monticello, MN | On Site | Nov 11 |
 | **[Edelman](http://www.edelman.com)** | **[Global Citizenship Intern](https://jobright.ai/jobs/info/6732902719ace41b225b8ad9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
-| **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[International Visitor Advisor for the Office of International Affairs](https://jobright.ai/jobs/info/67327ab2f1aeb2cec631d670?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Nov 11 |
-| **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673278d5b66f3c08ab370137?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Nov 11 |
-| **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Government Relations (Onsite, Washington, DC)](https://jobright.ai/jobs/info/67327318df5aeb4bca54a86b?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Nov 11 |
-| **[HNTB](http://www.hntb.com/)** | **[Public Engagement Intern- Summer 2025](https://jobright.ai/jobs/info/673264e409d247ddfb443f5d?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
