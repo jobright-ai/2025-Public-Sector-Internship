@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Legislative Intern](https://jobright.ai/jobs/info/673a522b9828a78303a3ba93?utm_campaign=1056&utm_source=git)** | Oregon State Capitol | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45fb7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy)- 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/673a136268c4e04059695676?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 17 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Internship (Unpaid/Remote)](https://jobright.ai/jobs/info/67395b192232811b5941237f?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 16 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/6733cf45aeab77073de6da9c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Nov 12 |
 | **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8d85?utm_campaign=1056&utm_source=git)** | 32202 | On Site | Nov 12 |
 | **[U.S. Department of Commerce](https://www.commerce.gov/tags/us-india-ceo-forum)** | **[International Trade Specialist](https://jobright.ai/jobs/info/67339255c4d6697229bca8d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| **[Leidos](https://www.leidos.com/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/67339290de8df14291e944bb?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Nov 12 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Banking, Credit, and Operational Risk - Division of Supervision and Regulation](https://jobright.ai/jobs/info/66df93bd8a11c28d2bc8ff12?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/673725782af9f6bd8f33fbad?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Nov 12 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/673725782af9f6bd8f33fbd5?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Nov 12 |
