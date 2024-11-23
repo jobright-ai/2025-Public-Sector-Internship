@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2024 (9922)](https://jobright.ai/jobs/info/6741463721548116392c963c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
+| **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[TTU Post Doctoral Research Associate - Water Resources Center](https://jobright.ai/jobs/info/67412418613852b5e5c60f82?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Nov 22 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6740fecd93022351f40537a2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Nov 22 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/674107300aa4c92ed5e83866?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/674107300aa4c92ed5e83876?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 22 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Housing Specialist Intern (Spring 2025) - UNPAID](https://jobright.ai/jobs/info/6740ae1b98338abc807bebe6?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 22 |
 | ↳ | **[Spring 2025: Health Navigation Intern (Unpaid)](https://jobright.ai/jobs/info/6740ae1b98338abc807bebf9?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[CITY OF COLUMBIA INTERN (UNDERGRADUATE & GRADUATE)](https://jobright.ai/jobs/info/67408bea2d2adea058f9e568?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Nov 22 |
+| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/66ce186511a089cf92ca4384?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Nov 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/674071dbafa62d83922a8a5b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
 | **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/67406034a56d185bb9e4d414?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 22 |
 | **[Bubble](https://hellobubble.com/)** | **[Community Support Internship - Winter 2024/2025](https://jobright.ai/jobs/info/67404ee08ac592b5302e5e51?utm_campaign=1056&utm_source=git)** | New York/Remote | On Site | Nov 22 |
@@ -119,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship - Public Services Department](https://jobright.ai/jobs/info/673e206bb33db38e33da0720?utm_campaign=1056&utm_source=git)** | Public Services - Bluffton, SC | On Site | Nov 20 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2025 FERC Schneider Fellow (Stanford Students Only)](https://jobright.ai/jobs/info/673e2aa048649f62d9986e44?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
 | ↳ | **[Summer 2025 India Program Schneider Fellow (Stanford Students Only)](https://jobright.ai/jobs/info/673e2aa048649f62d9986e41?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - ITDR and Governance (Memphis, TN)](https://jobright.ai/jobs/info/673dd234ef77ec4af6d149ca?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Nov 20 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Nonprofit Administration Intern, IINE Manchester](https://jobright.ai/jobs/info/670587bde784b24b3fea1371?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Nov 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2025](https://jobright.ai/jobs/info/673dc0a171e938166d5c325f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[International Affairs Analyst, Senior](https://jobright.ai/jobs/info/6704c1e9db2587cbb9c918b6?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Nov 20 |
@@ -130,15 +134,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e2759c381c79bf3c44df6?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e2759c381c79bf3c44df7?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e4428ed95f000a3f97375?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Nov 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/673e425581230fa033a6f584?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e425581230fa033a6f59a?utm_campaign=1056&utm_source=git)** | Westminster, MD | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e425581230fa033a6f59f?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e3f924ff192996a976989?utm_campaign=1056&utm_source=git)** | McMinnville, OR | On Site | Nov 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/673e6c294ee0256875701d7a?utm_campaign=1056&utm_source=git)** | McDonough, GA | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e3ba373237cb794bdefeb?utm_campaign=1056&utm_source=git)** | Elgin, IL | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e3ba373237cb794bdeff6?utm_campaign=1056&utm_source=git)** | Newnan, GA | On Site | Nov 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/673e3ba373237cb794bdeffb?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Nov 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/673e3ba373237cb794bdeff5?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673e3ba373237cb794bdeffc?utm_campaign=1056&utm_source=git)** | Mobile, AL | On Site | Nov 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/673e3ba373237cb794bdeffb?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Nov 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/673dac5bfe1a559d2bf1d9d6?utm_campaign=1056&utm_source=git)** | McDonough, GA | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673dac5bfe1a559d2bf1d9d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673dac5bfe1a559d2bf1d9d9?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673dac5bfe1a559d2bf1d9da?utm_campaign=1056&utm_source=git)** | Cleveland, TN | On Site | Nov 20 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/673dac5bfe1a559d2bf1d9f1?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Nov 20 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance & Administration/Office of Student Accounts (Fall 2024 - Spring 2025)](https://jobright.ai/jobs/info/673da5f7b6c482fc004e6756?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 19 |
 | **[Foundation Health Partners](https://www.foundationhealth.org/)** | **[FHP Professional Intern - Emergency Management Spring 2025](https://jobright.ai/jobs/info/673df0fcbfee9ad984949d44?utm_campaign=1056&utm_source=git)** | Fairbanks, AK | On Site | Nov 19 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - ITDR and Governance (Memphis, TN)](https://jobright.ai/jobs/info/673d863ea81b8c817bdd385d?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Nov 19 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Organizing Intern](https://jobright.ai/jobs/info/673d881b4206b3cd8d4cf54f?utm_campaign=1056&utm_source=git)** | Red Bank, NJ | On Site | Nov 19 |
 | **[Dow](https://www.dowchemical.com)** | **[2024-2025- Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7b0a31e70265ab77357fd?utm_campaign=1056&utm_source=git)** | Midland, MI | On Site | Nov 19 |
 | **[Oregon Department of Transportation](http://www.oregon.gov/odot)** | **[Right of Way Program Intern](https://jobright.ai/jobs/info/673d44eedd5e0298c1ab6cd9?utm_campaign=1056&utm_source=git)** | Salem, OR | Hybrid | Nov 19 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Right of Way Program Intern](https://jobright.ai/jobs/info/673d3f2e2b5b180924b896d0?utm_campaign=1056&utm_source=git)** | Salem | ODOT | TLC Building | Hybrid | Nov 19 |
-| **[CAE](http://www.cae.com)** | **[Government Relations Policy Intern](https://jobright.ai/jobs/info/673d3a414576042042bd6ed4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 19 |
-| **[FMC Corporation](http://www.fmc.com)** | **[Environmental, Social and Governance Reporting Intern](https://jobright.ai/jobs/info/67046e7b93fb12aa6e8d9476?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 19 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Office of Safety, Policy & Promotion](https://jobright.ai/jobs/info/673d609c440c0b23cc76c960?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
