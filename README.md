@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6747b3af29daef2a0b06bc0d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 27 |
+| **[Sierra Club](http://sierraclub.org)** | **[Legislative and Organizing Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c0e?utm_campaign=1056&utm_source=git)** | Missoula, MT | On Site | Nov 27 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Therapeutic Programs](https://jobright.ai/jobs/info/674768f9c04b614c14628e45?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Nov 27 |
-| **[Sierra Club](http://sierraclub.org)** | **[Legislative and Organizing Intern](https://jobright.ai/jobs/info/67474e0f55ecfc26e2ed9af3?utm_campaign=1056&utm_source=git)** | Missoula, MT | On Site | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/66d892f34100dfde2cf4164d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db9e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d89b6e03d0643cfc9a0f91?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 27 |
@@ -92,11 +93,11 @@ For a complete list, click the following sortable link below:
 | **[Public Health Institute](http://www.phi.org)** | **[Health Equity Program Intern](https://jobright.ai/jobs/info/6744f51ba71163a4bc962894?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Nov 25 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/6744f51ba71163a4bc962952?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/6744f51ba71163a4bc96296c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744de015abff3594e0eed7f?utm_campaign=1056&utm_source=git)** | Ontario, California | On Site | Nov 25 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744de015abff3594e0eedd1?utm_campaign=1056&utm_source=git)** | Ontario, California | On Site | Nov 25 |
 | ↳ | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744e11b064ae0231144eaa8?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Nov 25 |
 | ↳ | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae9819c?utm_campaign=1056&utm_source=git)** | San Francisco County, CA | On Site | Nov 25 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Offender Jobs & Programs Administrator](https://jobright.ai/jobs/info/6744d4bf44fea9084120cde9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4277f5?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4276cc?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6744d084e53dca23576cdfcb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/67449e2b60461112ba89858b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/673c151254cef0db3d924046?utm_campaign=1056&utm_source=git)** | Langhorne, PA | On Site | Nov 25 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Bubble](https://hellobubble.com/)** | **[Community Support Internship - Winter 2024/2025](https://jobright.ai/jobs/info/67404ee08ac592b5302e5e51?utm_campaign=1056&utm_source=git)** | New York/Remote | On Site | Nov 22 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6722b4f5fbc07db821e5779c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 21 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Nov 21 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN IN INDIANA (Indianapolis)](https://jobright.ai/jobs/info/67469e0e3471b345491c7614?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 21 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Intern, Democratizing Foreign Policy Program](https://jobright.ai/jobs/info/67400368c9f7842c49aa8193?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Nov 21 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Winter/Spring 20252)](https://jobright.ai/jobs/info/673fff2bfdb7f6a17626ac04?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[University of Florida](https://www.ufl.edu)** | **[STAS/OPS Cancer Research Administration Internship](https://jobright.ai/jobs/info/674282406354ce836ea9193f?utm_campaign=1056&utm_source=git)** | North Port-Sarasota Area | On Site | Nov 21 |
