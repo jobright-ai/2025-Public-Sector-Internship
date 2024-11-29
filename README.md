@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Remote & Unpaid)](https://jobright.ai/jobs/info/674918ac753a08dbf94a2579?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Corporate Responsibility](https://jobright.ai/jobs/info/674872e86ffa10bcc6eecb08?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Nov 28 |
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/67485c90abef33f64cf2da31?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 28 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sustainability Intern (Summer 2025) - Shelton, CT](https://jobright.ai/jobs/info/67485c90abef33f64cf2da33?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Nov 28 |
@@ -65,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/66d89047ab0c83aba88f0b70?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Nov 27 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6747b3af29daef2a0b06bc15?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 27 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6740fecd93022351f40537a2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Nov 27 |
-| **[Sierra Club](http://sierraclub.org)** | **[Legislative and Organizing Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c0e?utm_campaign=1056&utm_source=git)** | Missoula, MT | On Site | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Therapeutic Programs](https://jobright.ai/jobs/info/674768f9c04b614c14628e45?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Nov 27 |
+| **[Sierra Club](http://sierraclub.org)** | **[Legislative and Organizing Intern](https://jobright.ai/jobs/info/67474e0f55ecfc26e2ed9af3?utm_campaign=1056&utm_source=git)** | Missoula, MT | On Site | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/66d892f34100dfde2cf4164d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Southwest – Campus 2025](https://jobright.ai/jobs/info/672a867a7983ba844e24db9e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/66d892f34100dfde2cf41611?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 27 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744e11b064ae0231144eaa8?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Nov 25 |
 | ↳ | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae9819c?utm_campaign=1056&utm_source=git)** | San Francisco County, CA | On Site | Nov 25 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Offender Jobs & Programs Administrator](https://jobright.ai/jobs/info/6744d4bf44fea9084120cde9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4277f5?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4276cc?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6744d084e53dca23576cdfcb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/67449e2b60461112ba89858b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/673c151254cef0db3d924046?utm_campaign=1056&utm_source=git)** | Langhorne, PA | On Site | Nov 25 |
@@ -145,7 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Housing Specialist Intern (Spring 2025) - UNPAID](https://jobright.ai/jobs/info/6740ae1b98338abc807bebe6?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 22 |
 | ↳ | **[Spring 2025: Health Navigation Intern (Unpaid)](https://jobright.ai/jobs/info/6740ae1b98338abc807bebf9?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[CITY OF COLUMBIA INTERN (UNDERGRADUATE & GRADUATE)](https://jobright.ai/jobs/info/67408bea2d2adea058f9e568?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Nov 22 |
-| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/66ce186511a089cf92ca4384?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | On Site | Nov 22 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/674071dbafa62d83922a8a5b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
-| **[CSX](http://www.csx.com)** | **[CSX Public Safety Internship - Summer 2025](https://jobright.ai/jobs/info/67406034a56d185bb9e4d414?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
