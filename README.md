@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/674b401d14eaff9564203f30?utm_campaign=1056&utm_source=git)** | Middlesex, NC | On Site | Nov 30 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[AUKUS Program Intern - Summer 2025](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c57071?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Nov 30 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Food Systems Intern](https://jobright.ai/jobs/info/674b091bf7c36e3e02a56ffe?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Nov 30 |
 | ↳ | **[County Manager Associate Intern](https://jobright.ai/jobs/info/674addab451f770d05fd0f0e?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Nov 30 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Inclusive Policy & Advocacy Intern](https://jobright.ai/jobs/info/674a8ad95017cfef2201a06c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Winter/Spring Internship - Housing Access and Stability - Unpaid](https://jobright.ai/jobs/info/674a392103d9ec741c03aa93?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | ↳ | **[Winter/Spring Internship - Housing Casework Intern - Unpaid](https://jobright.ai/jobs/info/674a392103d9ec741c03aae8?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 29 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Communications Intern - Transportation, Plan & Policy (Austin)](https://jobright.ai/jobs/info/66f48646c3aa2b7388504971?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 29 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6749e11a247306724849e788?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 29 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, World Movement for Democracy (WMD) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9659?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9708?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
@@ -122,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Public Health Institute](http://www.phi.org)** | **[Health Equity Program Intern](https://jobright.ai/jobs/info/6744f51ba71163a4bc962894?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Nov 25 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/6744f51ba71163a4bc962952?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/6744f51ba71163a4bc96296c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744de015abff3594e0eedd1?utm_campaign=1056&utm_source=git)** | Ontario, California | On Site | Nov 25 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744de015abff3594e0eed7f?utm_campaign=1056&utm_source=git)** | Ontario, California | On Site | Nov 25 |
 | ↳ | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744e11b064ae0231144eaa8?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Nov 25 |
 | ↳ | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae9819c?utm_campaign=1056&utm_source=git)** | San Francisco County, CA | On Site | Nov 25 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Offender Jobs & Programs Administrator](https://jobright.ai/jobs/info/6744d4bf44fea9084120cde9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4277f5?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4276cc?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6744d084e53dca23576cdfcb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/67449e2b60461112ba89858b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/673c151254cef0db3d924046?utm_campaign=1056&utm_source=git)** | Langhorne, PA | On Site | Nov 25 |
