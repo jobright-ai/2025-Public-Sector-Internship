@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. CSR & Sustainability Community Affairs Intern](https://jobright.ai/jobs/info/674c6629aad86cf514b3b020?utm_campaign=1056&utm_source=git)** | Carlsbad, CA | On Site | Dec 01 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Services Intern - Environmental Services, Stakeholder Management Services (Richmond)](https://jobright.ai/jobs/info/66dba4aa1c6d79a99125b22b?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 01 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/674c214998a4d934403f380e?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Dec 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fiscal Policy Intern](https://jobright.ai/jobs/info/674c04f636811f4ba003a096?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/674b401d14eaff9564203f30?utm_campaign=1056&utm_source=git)** | Middlesex, NC | On Site | Nov 30 |
@@ -82,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[Strategic Engagement and Communications Intern for Climate Adaptation Support Activity – US based remote](https://jobright.ai/jobs/info/67379d99759a800b13fc52a9?utm_campaign=1056&utm_source=git)** | Winooski, VT | Remote | Nov 27 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d58?utm_campaign=1056&utm_source=git)** | Wasilla, AK | On Site | Nov 27 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/674848a9a4ab0630f876e5b6?utm_campaign=1056&utm_source=git)** | Middlesex, NC | On Site | Nov 27 |
-| **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6747b3af29daef2a0b06bc0d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 27 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6747b3af29daef2a0b06bc15?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 27 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6740fecd93022351f40537a2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Nov 27 |
 | **[Sierra Club](http://sierraclub.org)** | **[Legislative and Organizing Intern](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c0e?utm_campaign=1056&utm_source=git)** | Missoula, MT | On Site | Nov 27 |
 | **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/66d9e18974d19475a0be1ad6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 27 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Internship with Public Partnerships Division, Washington DC, 6 months, In-person and Remote combined](https://jobright.ai/jobs/info/67463ef0c7ee6e3d2b78f7c2?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Nov 26 |
 | **[NEOGOV](http://www.neogov.com)** | **[OCS Intern-Outreach](https://jobright.ai/jobs/info/67462aee37397d09757b5bf8?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Nov 26 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Correctional Officer (Summer)](https://jobright.ai/jobs/info/6746117db0c848a28a30b9ef?utm_campaign=1056&utm_source=git)** | Springfield, SD | On Site | Nov 26 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Correctional Officer (Summer)](https://jobright.ai/jobs/info/6746117db0c848a28a30b9ef?utm_campaign=1056&utm_source=git)** | Springfield, SD | On Site | Nov 26 |
 | **[Church World Service](http://cwsglobal.org)** | **[Intern - Policy and Advocacy](https://jobright.ai/jobs/info/6721834e2f383df0d9c93d29?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/670dd08574b9f42409c62343?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 26 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Government Relations Specialist - Legislative](https://jobright.ai/jobs/info/6745b6ec8d2a2288b20abbd6?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
@@ -130,7 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744e11b064ae0231144eaa8?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Nov 25 |
 | ↳ | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae9819c?utm_campaign=1056&utm_source=git)** | San Francisco County, CA | On Site | Nov 25 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Offender Jobs & Programs Administrator](https://jobright.ai/jobs/info/6744d4bf44fea9084120cde9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4276cc?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4277f5?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6744d084e53dca23576cdfcb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/67449e2b60461112ba89858b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/673c151254cef0db3d924046?utm_campaign=1056&utm_source=git)** | Langhorne, PA | On Site | Nov 25 |
