@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Evaluation Intern](https://jobright.ai/jobs/info/6744916aeed94160d30b2a5d?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | **[Park District of Oak Park](https://pdop.org)** | **[Intern - Community Programs](https://jobright.ai/jobs/info/6744b7965a5df0d6f2520ab9?utm_campaign=1056&utm_source=git)** | Oak Park, IL | On Site | Nov 24 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Intern - Environmental Services, Stakeholder Management (Denver)](https://jobright.ai/jobs/info/67260e862b1794addaa42e60?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 24 |
-| **[Catholic Relief Services](http://www.crs.org/)** | **[Spring Intern – ICT4D BD and Knowledge Management (US Only)](https://jobright.ai/jobs/info/672608fde9f2585f799344ff?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
