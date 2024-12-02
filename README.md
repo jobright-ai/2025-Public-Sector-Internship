@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The RXN Group](www.therxngroup.com)** | **[Graduate Research Fellow (Innovation, Business, and Policy) - Spring Semester 2025](https://jobright.ai/jobs/info/674ddc8e3fb4f91425b6d208?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 02 |
+| **[NEOGOV](http://www.neogov.com)** | **[Fiscal and Policy Intern](https://jobright.ai/jobs/info/674e021062c6b0c8c3dc8c03?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Dec 02 |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/674dd8adebcf6f2fa01eb4cd?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Dec 02 |
+| **[The Heritage Foundation](http://www.heritage.org/)** | **[Summer Internships](https://jobright.ai/jobs/info/674dbc928c77258cf221ac0e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Dec 02 |
 | **[MITRE](http://www.mitre.org)** | **[Cyber Policy Intern](https://jobright.ai/jobs/info/674d82e3e519ff930a448640?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Dec 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/674d74dc551fbec92ccb9f5d?utm_campaign=1056&utm_source=git)** | 33282 Golden Lantern Suite #203 Dana Point, CA 92629 | On Site | Dec 02 |
-| ↳ | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/674d74dc551fbec92ccb9f60?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Dec 02 |
 | **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/674d738d6d5d922834569e86?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 01 |
+| **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/66d8abe7d06677690012a318?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Dec 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Services Intern - Environmental Services, Stakeholder Management Services (Richmond)](https://jobright.ai/jobs/info/66dba4aa1c6d79a99125b22b?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 01 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/674c214998a4d934403f380e?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Dec 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fiscal Policy Intern](https://jobright.ai/jobs/info/674c04f636811f4ba003a096?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 30 |
@@ -113,18 +117,11 @@ For a complete list, click the following sortable link below:
 | **[UnitedHealth Group](http://www.unitedhealthgroup.com/)** | **[Health Care Policy Research Grad Intern](https://jobright.ai/jobs/info/674657427aa7f121fe31153b?utm_campaign=1056&utm_source=git)** | Eden Prairie, MN | Hybrid | Nov 26 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Internship with Public Partnerships Division, Washington DC, 6 months, In-person and Remote combined](https://jobright.ai/jobs/info/67463ef0c7ee6e3d2b78f7c2?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Nov 26 |
-| **[NEOGOV](http://www.neogov.com)** | **[OCS Intern-Outreach](https://jobright.ai/jobs/info/67462aee37397d09757b5bf8?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Nov 26 |
+| **[NEOGOV](http://www.neogov.com)** | **[OCS Intern-Outreach](https://jobright.ai/jobs/info/674dd190b6213435d4d9a812?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Nov 26 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Correctional Officer (Summer)](https://jobright.ai/jobs/info/6746117db0c848a28a30b9ef?utm_campaign=1056&utm_source=git)** | Springfield, SD | On Site | Nov 26 |
 | **[Church World Service](http://cwsglobal.org)** | **[Intern - Policy and Advocacy](https://jobright.ai/jobs/info/6721834e2f383df0d9c93d29?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/670dd08574b9f42409c62343?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 26 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Government Relations Specialist - Legislative](https://jobright.ai/jobs/info/6745b6ec8d2a2288b20abbd6?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
 | **[Capstone](https://capstonedc.com)** | **[2025 Spring Policy & Investment Internship](https://jobright.ai/jobs/info/67497caff83b2f73ede9dc63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 26 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Administration Internship Program](https://jobright.ai/jobs/info/6745b6ec8d2a2288b20ac261?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 25 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/674547fa6e522ffbd865e797?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Nov 25 |
-| **[SAFE](http://secureenergy.org)** | **[EC Campaigns Intern](https://jobright.ai/jobs/info/67463cfbf9780a257a0e3599?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 25 |
-| **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Grassroots) (49041)](https://jobright.ai/jobs/info/67451e126e900c720544c79a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 25 |
-| **[NEOGOV](http://www.neogov.com)** | **[Community Corrections Intern, Human Services Department](https://jobright.ai/jobs/info/674500ac8d7f31e762f18d95?utm_campaign=1056&utm_source=git)** | St. Cloud MN, MN | Hybrid | Nov 25 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/674500ac8d7f31e762f18d96?utm_campaign=1056&utm_source=git)** | Beaumont, CA | On Site | Nov 25 |
-| **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Legislative) (49040)](https://jobright.ai/jobs/info/67450cd437c3005e59001cce?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
