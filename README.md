@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[Cyber Policy Intern](https://jobright.ai/jobs/info/674d82e3e519ff930a448640?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Dec 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/674d74dc551fbec92ccb9f5d?utm_campaign=1056&utm_source=git)** | 33282 Golden Lantern Suite #203 Dana Point, CA 92629 | On Site | Dec 02 |
 | ↳ | **[Administrative Planning Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/674d74dc551fbec92ccb9f60?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | Dec 02 |
 | **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/674d738d6d5d922834569e86?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 01 |
@@ -123,17 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/674547fa6e522ffbd865e797?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Nov 25 |
 | **[SAFE](http://secureenergy.org)** | **[EC Campaigns Intern](https://jobright.ai/jobs/info/67463cfbf9780a257a0e3599?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 25 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Grassroots) (49041)](https://jobright.ai/jobs/info/67451e126e900c720544c79a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 25 |
-| **[NEOGOV](http://www.neogov.com)** | **[Participatory Budgeting Data Coordinator](https://jobright.ai/jobs/info/67450c18dd2780ef1ec6723a?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Nov 25 |
-| ↳ | **[Community Corrections Intern, Human Services Department](https://jobright.ai/jobs/info/674500ac8d7f31e762f18d95?utm_campaign=1056&utm_source=git)** | St. Cloud MN, MN | Hybrid | Nov 25 |
+| **[NEOGOV](http://www.neogov.com)** | **[Community Corrections Intern, Human Services Department](https://jobright.ai/jobs/info/674500ac8d7f31e762f18d95?utm_campaign=1056&utm_source=git)** | St. Cloud MN, MN | Hybrid | Nov 25 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/674500ac8d7f31e762f18d96?utm_campaign=1056&utm_source=git)** | Beaumont, CA | On Site | Nov 25 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Science Policy & Government Relations (Legislative) (49040)](https://jobright.ai/jobs/info/67450cd437c3005e59001cce?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 25 |
-| **[Public Health Institute](http://www.phi.org)** | **[Health Equity Program Intern](https://jobright.ai/jobs/info/6744f51ba71163a4bc962894?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Nov 25 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/6744f51ba71163a4bc962952?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/6744f51ba71163a4bc96296c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744de015abff3594e0eed7f?utm_campaign=1056&utm_source=git)** | Ontario, California | On Site | Nov 25 |
-| ↳ | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6744e11b064ae0231144eaa8?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Nov 25 |
-| ↳ | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae9819c?utm_campaign=1056&utm_source=git)** | San Francisco County, CA | On Site | Nov 25 |
-| **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Offender Jobs & Programs Administrator](https://jobright.ai/jobs/info/6744d4bf44fea9084120cde9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 25 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/6744cf2b17757d023b4277f5?utm_campaign=1056&utm_source=git)** | San Francisco, California | On Site | Nov 25 |
-| **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6744d084e53dca23576cdfcb?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
