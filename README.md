@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/673a3cb59542f53819594206?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 06 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Assistant Examiner Intern](https://jobright.ai/jobs/info/6752e7b9d333d67f5571a5c0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 06 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/6752df25d14db6fef54e13ba?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 06 |
+| **[Chobani](http://www.chobani.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6752d264dc1d96c8f8c83d49?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Intern, Maternal Mental Health](https://jobright.ai/jobs/info/674e6a7447dd8e657fa2654a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 02 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Intern, Congressional Program](https://jobright.ai/jobs/info/674e6c33c13a7859ed3c860f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 | **[MDC Global Solutions](https://www.mdc-llc.com/)** | **[DoD SkillBridge Internship - Program Analyst](https://jobright.ai/jobs/info/674fa2025e24845df525fc4d?utm_campaign=1056&utm_source=git)** | Fort Belvoir, VA | On Site | Dec 02 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/674e5b8f1e44f01455e52bd8?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Dec 02 |
-| **[NEOGOV](http://www.neogov.com)** | **[Intern - Juvenile Truancy Case Manager](https://jobright.ai/jobs/info/674e3afe01aff72475b3b474?utm_campaign=1056&utm_source=git)** | Kyle, TX | On Site | Dec 02 |
-| **[Advantage Solutions](https://advantagesolutions.net)** | **[DEI & Community Engagement Summer Internship 2025](https://jobright.ai/jobs/info/674e355494299244a94638f7?utm_campaign=1056&utm_source=git)** | Greater St. Louis | Hybrid | Dec 02 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6749e11a247306724849e788?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 02 |
-| **[Indiana University Foundation](https://iufoundation.iu.edu)** | **[Summer 2025 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/674e361b488f11de8ff8f971?utm_campaign=1056&utm_source=git)** | Bloomington, IN | Hybrid | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
