@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waukegan Park District](https://www.waukeganparks.org)** | **[SEA - Intern - Special Recreation](https://jobright.ai/jobs/info/67541fc9b0a661957073534f?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Dec 06 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Crisis Response Intern Spring 2025](https://jobright.ai/jobs/info/6753b6f658049e9a02de0703?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
 | ↳ | **[Issue Advocacy Intern Spring 2025](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c7b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
 | ↳ | **[Regional Engagement & Impact Intern Spring 2025](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6753026408744769687830cf?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Dec 06 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Energy/Environmental Policy](https://jobright.ai/jobs/info/6736787adc1d611be4f9e248?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Dec 06 |
+| **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Dec 06 |
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Dec 06 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/673a3cb59542f53819594206?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 06 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Assistant Examiner Intern](https://jobright.ai/jobs/info/6752e7b9d333d67f5571a5c0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 06 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe11?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Dec 06 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/67528b460aaa0dc03c0e2659?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Dec 05 |
@@ -106,12 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Sustainability Intern](https://jobright.ai/jobs/info/67520d356a22751dda834b32?utm_campaign=1056&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Dec 05 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6740fecd93022351f40537a2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA | On Site | Dec 05 |
 | **[AECOM](http://www.aecom.com/)** | **[Transportation Planning Intern](https://jobright.ai/jobs/info/67520e10c8300bc598c61ad6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 05 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/67520d356a22751dda834c08?utm_campaign=1056&utm_source=git)** | USA - Kansas - Lenexa | Hybrid | Dec 05 |
-| ↳ | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/67520df46a22751dda8353b5?utm_campaign=1056&utm_source=git)** | USA - District of Columbia - Washington DC (Pennsylvania Ave) | Hybrid | Dec 05 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/67520df46a22751dda8353b5?utm_campaign=1056&utm_source=git)** | USA - District of Columbia - Washington DC (Pennsylvania Ave) | Hybrid | Dec 05 |
+| ↳ | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/67520d356a22751dda834c08?utm_campaign=1056&utm_source=git)** | USA - Kansas - Lenexa | Hybrid | Dec 05 |
 | **[International Franchise Association](https://www.franchisefoundation.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6751f5268117acf6259ec5ab?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/6751c7108c92b43c81119df9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67519538e80fadffad86177d?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 05 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - ID Boise](https://jobright.ai/jobs/info/675194318b0395b4b63df8af?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Dec 05 |
 | **[Inspire](https://inspirebrands.com)** | **[Impact Intern](https://jobright.ai/jobs/info/67518a0414e8042d94e1984b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/675169e71de841b696ad9eef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Government Relations Internship - Summer 2025](https://jobright.ai/jobs/info/67515753254ebfa9cf7701c2?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Legislative Affairs](https://jobright.ai/jobs/info/673ef835968b75b27e2df9a8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 03 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Spring 2025)](https://jobright.ai/jobs/info/674f7952f9641cd88e193210?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 03 |
-| **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Preservation/Resyndication Intern](https://jobright.ai/jobs/info/674f68921b1ff6551bf668f4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
