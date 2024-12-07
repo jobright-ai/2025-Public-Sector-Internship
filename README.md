@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  Corporate Affairs & Legal (Government Affairs)](https://jobright.ai/jobs/info/675484a67dd49e922c4459a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 07 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[SEA - Intern - Special Recreation](https://jobright.ai/jobs/info/67541fc9b0a661957073534f?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Dec 06 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Crisis Response Intern Spring 2025](https://jobright.ai/jobs/info/6753b6f658049e9a02de0703?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
 | ↳ | **[Issue Advocacy Intern Spring 2025](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c7b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe11?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Dec 06 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/67528b460aaa0dc03c0e2659?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Dec 05 |
@@ -131,11 +132,9 @@ For a complete list, click the following sortable link below:
 | **[International Franchise Association](https://www.franchisefoundation.org/)** | **[Intern, State Government Relations and Public Affairs](https://jobright.ai/jobs/info/6751e560e5eccff9190a48bc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Climate Leaders Program Coordinator](https://jobright.ai/jobs/info/6750c6a2712417332dae746c?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Dec 04 |
 | **[Inspire](https://inspirebrands.com)** | **[Impact Intern](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8ab3?utm_campaign=1056&utm_source=git)** | Atlanta Support Center | On Site | Dec 04 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Mayor's Office Internship - Spring 2025](https://jobright.ai/jobs/info/67509d20976888504663e365?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 04 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Dec 04 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal (Government Affairs)](https://jobright.ai/jobs/info/67508dd018db9272b41223dd?utm_campaign=1056&utm_source=git)** | United States - District of Columbia - Washington | On Site | Dec 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67509413902844f8054ad03b?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 04 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Mayor's Office Internship - Spring 2025](https://jobright.ai/jobs/info/67508dd018db9272b41224c3?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Dec 04 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Digital Advocacy Intern](https://jobright.ai/jobs/info/675314603b15c7707d2c088a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | ↳ | **[Resettlement Intern](https://jobright.ai/jobs/info/675314603b15c7707d2c08aa?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6750739dd61182fcf409c31c?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Dec 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Legislative Affairs](https://jobright.ai/jobs/info/673ef835968b75b27e2df9a8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 03 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Spring 2025)](https://jobright.ai/jobs/info/674f7952f9641cd88e193210?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 03 |
+| **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Preservation/Resyndication Intern](https://jobright.ai/jobs/info/674f68921b1ff6551bf668f4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
