@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d73?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 08 |
+| **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas)](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d7f?utm_campaign=1056&utm_source=git)** | Lewisville, TX | On Site | Dec 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Corporate Affairs & Legal (Government Affairs)](https://jobright.ai/jobs/info/675484a67dd49e922c4459a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 07 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[SEA - Intern - Special Recreation](https://jobright.ai/jobs/info/67541fc9b0a661957073534f?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Dec 06 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Crisis Response Intern Spring 2025](https://jobright.ai/jobs/info/6753b6f658049e9a02de0703?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
@@ -121,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Intern, Maternal Mental Health](https://jobright.ai/jobs/info/674e6a7447dd8e657fa2654a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/675114b85787c17a5367ca87?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 04 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Brewers Community Foundation](https://jobright.ai/jobs/info/67510951bb4b374d4398c94e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Dec 04 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/675119c56e16db8c2a38e289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Dec 04 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/675119c56e16db8c2a38e289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Dec 04 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4a7d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
 | **[Ingham County Health Department](http://hd.ingham.org)** | **[Refugee Development Center- Housing Resource Specialist](https://jobright.ai/jobs/info/6750d99e6ce4cbc5e8a973b1?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Dec 04 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/6753781bce0626af105d314d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 03 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Spring 2025)](https://jobright.ai/jobs/info/674f7952f9641cd88e193210?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 03 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Preservation/Resyndication Intern](https://jobright.ai/jobs/info/674f68921b1ff6551bf668f4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Sustainability Contributor - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4da2ca0189d3b5b4ef?utm_campaign=1056&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
-| **[NEOGOV](http://www.neogov.com)** | **[COUNTY COMMISSIONER, PRECINCT 4 - PAID COMMUNITY OUTREACH INTERN](https://jobright.ai/jobs/info/6751c5357928c63464b9af06?utm_campaign=1056&utm_source=git)** | TX 79901, TX | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
