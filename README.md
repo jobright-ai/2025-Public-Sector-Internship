@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Remote and Unpaid)](https://jobright.ai/jobs/info/67564569620c060c88a73b49?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 08 |
+| **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Community Affairs Outreach Intern](https://jobright.ai/jobs/info/6756bac044f6744b54ed3032?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 09 |
+| **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Procurement Intern](https://jobright.ai/jobs/info/675695a0b11ee87e89a82d99?utm_campaign=1056&utm_source=git)** | 390 Robert St. N St. Paul, MN | Hybrid | Dec 08 |
+| **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Remote and Unpaid)](https://jobright.ai/jobs/info/67564569620c060c88a73b49?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 08 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Dec 08 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d73?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 08 |
 | **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas)](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d7f?utm_campaign=1056&utm_source=git)** | Lewisville, TX | On Site | Dec 08 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Collective Bargaining & Member Advocacy Intern (Stipend), Winter/Spring 2025](https://jobright.ai/jobs/info/671c370e9bb7a6c53da64023?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 07 |
@@ -82,7 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6753026408744769687830cf?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Dec 06 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2025 Summer Internship - Energy/Environmental Policy](https://jobright.ai/jobs/info/6736787adc1d611be4f9e248?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Dec 06 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Environmental Justice Business Model Reviewer](https://jobright.ai/jobs/info/671a9166596b0de5fc97104e?utm_campaign=1056&utm_source=git)** | Golden, CO | Hybrid | Dec 06 |
-| **[PIM Brands, Inc.](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Dec 06 |
+| **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Dec 06 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/673a3cb59542f53819594206?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 06 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Assistant Examiner Intern](https://jobright.ai/jobs/info/6752e7b9d333d67f5571a5c0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 06 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/6752df25d14db6fef54e13ba?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 06 |
@@ -90,10 +93,11 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe11?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Dec 06 |
+| **[Jabil](https://www.jabil.com)** | **[Supply Chain Sustainability Intern](https://jobright.ai/jobs/info/67568962e0cf50903a82ea86?utm_campaign=1056&utm_source=git)** | St Petersburg, FL | On Site | Dec 05 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/67528b460aaa0dc03c0e2659?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Dec 05 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Public Policy Graduate Research Intern](https://jobright.ai/jobs/info/675288e16199329e37dd006a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/6752a159a5e745fd26146005?utm_campaign=1056&utm_source=git)** | Lenexa, KS | Hybrid | Dec 05 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/6752b659d0fa91d738152f68?utm_campaign=1056&utm_source=git)** | Throughout Riverside County | On Site | Dec 05 |
 | **[Roche](http://www.roche.com)** | **[2025 Data Policy & Communications Intern](https://jobright.ai/jobs/info/6752b659d0fa91d738153066?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 05 |
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202d04?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 05 |
-| ↳ | **[Intern, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202c5d?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 05 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6752b659d0fa91d73815323a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships - Summer 2025](https://jobright.ai/jobs/info/67522fee0679dd5671c8f8fa?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Economics](https://jobright.ai/jobs/info/67522fee0679dd5671c8f939?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87eff?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 03 |
 | ↳ | **[Intern, Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87ef9?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 03 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke/Student Intern, World Food Policy Center, Sanford School of Public Policy](https://jobright.ai/jobs/info/674fa7c77b5fb01e60203a2f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 03 |
-| **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media 2025 Spring Internship (Part-Time) - Chicago](https://jobright.ai/jobs/info/674f99a6e13051b248680ee9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Legislative Affairs](https://jobright.ai/jobs/info/673ef835968b75b27e2df9a8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 03 |
-| **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
