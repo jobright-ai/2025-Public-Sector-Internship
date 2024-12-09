@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Remote and Unpaid)](https://jobright.ai/jobs/info/67564569620c060c88a73b49?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 08 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d73?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 08 |
 | **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas)](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d7f?utm_campaign=1056&utm_source=git)** | Lewisville, TX | On Site | Dec 08 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Collective Bargaining & Member Advocacy Intern (Stipend), Winter/Spring 2025](https://jobright.ai/jobs/info/671c370e9bb7a6c53da64023?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 07 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/6752a159a5e745fd26146005?utm_campaign=1056&utm_source=git)** | Lenexa, KS | Hybrid | Dec 05 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/67526e8edb3d654f90de8e89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Genentech](http://gene.com)** | **[2025 Data Policy & Communications Intern](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec2a6?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 05 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Community Investments Intern](https://jobright.ai/jobs/info/67354c65032bd122ee37f666?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 05 |
 | **[NEOGOV](http://www.neogov.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/6752b659d0fa91d738152f68?utm_campaign=1056&utm_source=git)** | Throughout Riverside County | On Site | Dec 05 |
 | **[Roche](http://www.roche.com)** | **[2025 Data Policy & Communications Intern](https://jobright.ai/jobs/info/6752b659d0fa91d738153066?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 05 |
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202d04?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media 2025 Spring Internship (Part-Time) - Chicago](https://jobright.ai/jobs/info/674f99a6e13051b248680ee9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Legislative Affairs](https://jobright.ai/jobs/info/673ef835968b75b27e2df9a8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 03 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Spring 2025)](https://jobright.ai/jobs/info/674f7952f9641cd88e193210?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 03 |
-| **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Preservation/Resyndication Intern](https://jobright.ai/jobs/info/674f68921b1ff6551bf668f4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
