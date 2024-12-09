@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy)- 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/673a136268c4e04059695676?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Community Affairs Outreach Intern](https://jobright.ai/jobs/info/6756bac044f6744b54ed3032?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Procurement Intern](https://jobright.ai/jobs/info/675695a0b11ee87e89a82d99?utm_campaign=1056&utm_source=git)** | 390 Robert St. N St. Paul, MN | Hybrid | Dec 08 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Remote and Unpaid)](https://jobright.ai/jobs/info/67564569620c060c88a73b49?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 08 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Intern, Maternal Mental Health](https://jobright.ai/jobs/info/674e6a7447dd8e657fa2654a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/675114b85787c17a5367ca87?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 04 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Brewers Community Foundation](https://jobright.ai/jobs/info/67510951bb4b374d4398c94e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Dec 04 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/675119c56e16db8c2a38e289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Dec 04 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/675119c56e16db8c2a38e289?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Dec 04 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4a7d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
 | **[Ingham County Health Department](http://hd.ingham.org)** | **[Refugee Development Center- Housing Resource Specialist](https://jobright.ai/jobs/info/6750d99e6ce4cbc5e8a973b1?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Dec 04 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Research and Evaluation Intern](https://jobright.ai/jobs/info/6753781bce0626af105d314d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Recurrent Energy](http://www.recurrentenergy.com)** | **[Intern, Public Affairs & Communication](https://jobright.ai/jobs/info/6750efde5be68f2a3fe52081?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | On Site | Dec 03 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87eff?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 03 |
 | ↳ | **[Intern, Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/674fa33dee1b75a8ffe87ef9?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 03 |
-| **[Duke University](http://www.duke.edu)** | **[NonDuke/Student Intern, World Food Policy Center, Sanford School of Public Policy](https://jobright.ai/jobs/info/674fa7c77b5fb01e60203a2f?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
