@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Constellation](https://www.constellationenergy.com/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/673be9596f1776dc6547e0ec?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Dec 10 |
+| **[Public Health Institute](http://www.phi.org)** | **[Public Health Intern](https://jobright.ai/jobs/info/67582ba7a32b425ab6126151?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738b?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Dec 10 |
+| **[International Institute of New England](https://iine.org/)** | **[[Spring 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67581f91d63ea0f8702a0682?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Dec 10 |
+| ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/67581f91d63ea0f8702a06dd?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 10 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738e?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Council on Foreign Relations is hiring: Internship, Foreign Affairs, Advertising](https://jobright.ai/jobs/info/6757ce6a9771ed8f1bba59ac?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 09 |
 | ↳ | **[Council on Foreign Relations is hiring: Internship, Digital Content, Editorial,](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fe7c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Aflac](http://www.aflac.com)** | **[Sr International Affairs Analyst](https://jobright.ai/jobs/info/6757beaa20073520bc57de67?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 09 |
@@ -123,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe11?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Dec 06 |
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Sustainability Intern](https://jobright.ai/jobs/info/67568962e0cf50903a82ea86?utm_campaign=1056&utm_source=git)** | St Petersburg, FL | On Site | Dec 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67519538e80fadffad86177d?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 05 |
 | **[Inspire](https://inspirebrands.com)** | **[Impact Intern](https://jobright.ai/jobs/info/67518a0414e8042d94e1984b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/675169e71de841b696ad9eef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Government Relations Internship - Summer 2025](https://jobright.ai/jobs/info/67515753254ebfa9cf7701c2?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Dec 04 |
-| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Regional Planning & Coordination](https://jobright.ai/jobs/info/675135e832ec0457488622af?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
-| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Regional Intern Latin America and Caribbean](https://jobright.ai/jobs/info/675135e832ec04574886230b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Intern, Maternal Mental Health](https://jobright.ai/jobs/info/674e6a7447dd8e657fa2654a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/675114b85787c17a5367ca87?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
