@@ -57,15 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Heritage Foundation](http://www.heritage.org/)** | **[Summer Internship](https://jobright.ai/jobs/info/675741c1bf8b03ade04d1436?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Dec 09 |
-| **[Atlantic Health System](http://www.atlantichealth.org)** | **[Emergency Managment Summer Intern](https://jobright.ai/jobs/info/67573c0d93178fb497977489?utm_campaign=1056&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Dec 09 |
-| ↳ | **[Public Health Summer Intern](https://jobright.ai/jobs/info/67573c0d93178fb497977482?utm_campaign=1056&utm_source=git)** | 435 South Street, Morristown, NJ, 07960, US | On Site | Dec 09 |
+| **[Ankura](https://ankura.com)** | **[Intern, Northern Latin America](https://jobright.ai/jobs/info/6757834f5eef554d250114d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
+| **[World Relief](https://worldrelief.org/)** | **[Sacramento Family Services Health & Wellness Intern - Winter/Spring 2025 - 2024958](https://jobright.ai/jobs/info/67577304982cb70e0c088d81?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Dec 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships - Summer 2025](https://jobright.ai/jobs/info/6757872e844ab64cd479d956?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Dec 09 |
+| **[Atlantic Health System](http://www.atlantichealth.org)** | **[Emergency Managment Summer Intern](https://jobright.ai/jobs/info/67577966070e32baa167f8b9?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 09 |
+| ↳ | **[Public Health Summer Intern](https://jobright.ai/jobs/info/67577966070e32baa167f8cd?utm_campaign=1056&utm_source=git)** | New Jersey, United States | On Site | Dec 09 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships - Summer 2025](https://jobright.ai/jobs/info/67577304982cb70e0c088f1f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/675761011acd18cb3c764f6b?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Dec 09 |
+| **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/67575b352b3887370f79d59c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Dec 09 |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[COMMUNITY EFFORTS INTERNSHIP (Summer 2025, Hybrid-LA)](https://jobright.ai/jobs/info/675764538a19593ffbe6f0bd?utm_campaign=1056&utm_source=git)** | Burbank, CA | Hybrid | Dec 09 |
+| **[The Heritage Foundation](http://www.heritage.org/)** | **[Summer Internship](https://jobright.ai/jobs/info/67575990031ba1a6f0c60a75?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Dec 09 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/675741c1bf8b03ade04d1436?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Dec 09 |
+| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Fellow](https://jobright.ai/jobs/info/67574f774a26538c6ed70749?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
+| **[Atlantic Health System](http://www.atlantichealth.org)** | **[Public Health Summer Intern](https://jobright.ai/jobs/info/67573c0d93178fb497977482?utm_campaign=1056&utm_source=git)** | 435 South Street, Morristown, NJ, 07960, US | On Site | Dec 09 |
+| ↳ | **[Emergency Managment Summer Intern](https://jobright.ai/jobs/info/67573c0d93178fb497977489?utm_campaign=1056&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Health Pathways Program - Intern](https://jobright.ai/jobs/info/67573c0d93178fb497977496?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 09 |
 | ↳ | **[College Internship - Senior Services](https://jobright.ai/jobs/info/67572c02a2b0d28c34725890?utm_campaign=1056&utm_source=git)** | Aspen, CO | On Site | Dec 09 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/675738f8eb06b7418afcc20b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 09 |
 | **[Mount Sinai Medical Center of Florida](https://www.msmc.com/)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/67571a615b591e039ca24755?utm_campaign=1056&utm_source=git)** | Miami Beach, FL | On Site | Dec 09 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Crowell Global Advisors Research Associate (Intern)](https://jobright.ai/jobs/info/6757094a4ac60ffdb53e232f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Research Trainee - American Autocracy](https://jobright.ai/jobs/info/6757066410a7badb4ae4629d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy)- 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/673a136268c4e04059695676?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Community Affairs Outreach Intern](https://jobright.ai/jobs/info/6756bac044f6744b54ed3032?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Met Scholar - Procurement Intern](https://jobright.ai/jobs/info/675695a0b11ee87e89a82d99?utm_campaign=1056&utm_source=git)** | 390 Robert St. N St. Paul, MN | Hybrid | Dec 08 |
@@ -102,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe11?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Dec 06 |
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Sustainability Intern](https://jobright.ai/jobs/info/67568962e0cf50903a82ea86?utm_campaign=1056&utm_source=git)** | St Petersburg, FL | On Site | Dec 05 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Climate Leaders Program Coordinator](https://jobright.ai/jobs/info/6750c6a2712417332dae746c?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Dec 04 |
 | **[Inspire](https://inspirebrands.com)** | **[Impact Intern](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8ab3?utm_campaign=1056&utm_source=git)** | Atlanta Support Center | On Site | Dec 04 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Dec 04 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Corporate Affairs & Legal (Government Affairs)](https://jobright.ai/jobs/info/67508dd018db9272b41223dd?utm_campaign=1056&utm_source=git)** | United States - District of Columbia - Washington | On Site | Dec 04 |
-| **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67509413902844f8054ad03b?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 04 |
-| **[New American Pathways](https://newamericanpathways.org)** | **[Digital Advocacy Intern](https://jobright.ai/jobs/info/675314603b15c7707d2c088a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
-| ↳ | **[Resettlement Intern](https://jobright.ai/jobs/info/675314603b15c7707d2c08aa?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6750739dd61182fcf409c31c?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Dec 04 |
-| ↳ | **[2025 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/67502f04267a2ceac98f6785?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Dec 04 |
-| ↳ | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/6750511a2315c28f7d79a4f4?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Dec 04 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6750300bf52a66d3ba66167d?utm_campaign=1056&utm_source=git)** | Moorestown, NJ | On Site | Dec 04 |
-| **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship Program - Spring 2025](https://jobright.ai/jobs/info/67502963124787bbcf3e0d73?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Sustainability Contributor - 2025 Summer Intern](https://jobright.ai/jobs/info/67501b1f348326c5fde374fd?utm_campaign=1056&utm_source=git)** | Southlake, TX | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
