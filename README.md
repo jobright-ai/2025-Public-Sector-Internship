@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/675992385527b42b58ca5b25?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 11 |
+| **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy) - 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/673cfc1b501782f5231e0272?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute (CPI) Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24d15?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 10 |
 | ↳ | **[Comprehensive Planning Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24d25?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 10 |
 | ↳ | **[Zoning and Equity Analyst Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24dd2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 10 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67591a3d816d92e5e125a654?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Dec 10 |
-| **[Oracle](https://www.oracle.com/)** | **[Oracle Health Government Services SkillBridge Military Fellowship](https://jobright.ai/jobs/info/67591532dbb088e548925464?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
+| **[Oracle](https://www.oracle.com/)** | **[Oracle Health Government Services SkillBridge Military Fellowship](https://jobright.ai/jobs/info/67591532dbb088e548925465?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2025 Dairy Policy and Farm Practices Intern](https://jobright.ai/jobs/info/675909e4548886fb3033c4d3?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Dec 10 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/675909e4548886fb3033c723?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Dec 10 |
 | **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Intern/Trainee - All County Departments](https://jobright.ai/jobs/info/6758dedd40f87b5544c4fb11?utm_campaign=1056&utm_source=git)** | San Luis Obispo County, CA | On Site | Dec 10 |
@@ -92,7 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Spring 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/67581f91d63ea0f8702a06dd?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 10 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Population Health Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738e?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Council on Foreign Relations is hiring: Internship, Foreign Affairs, Advertising](https://jobright.ai/jobs/info/6757ce6a9771ed8f1bba59ac?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 09 |
-| ↳ | **[Council on Foreign Relations is hiring: Internship, Digital Content, Editorial,](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fe66?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
+| ↳ | **[Council on Foreign Relations is hiring: Internship, Digital Content, Editorial,](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fe7c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Aflac](http://www.aflac.com)** | **[Sr International Affairs Analyst](https://jobright.ai/jobs/info/6757beaa20073520bc57de67?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 09 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Public Health Research Intern](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fcef?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Remote | Dec 09 |
 | **[The RXN Group](www.therxngroup.com)** | **[Graduate Research Fellow (Innovation, Business, and Policy) - Spring Semester 2025](https://jobright.ai/jobs/info/6757bdbda424688f7d6630aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/6752da16a79911f770946441?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe08?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe11?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe09?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
