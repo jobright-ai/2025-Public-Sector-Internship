@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Park Service](http://www.nps.gov/index.htm)** | **[International Cooperation Officer](https://jobright.ai/jobs/info/675ac99073730d9d7e75c7c1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
+| **[Inspire](https://inspirebrands.com)** | **[Government Affairs Internship - Summer '25](https://jobright.ai/jobs/info/675ac99073730d9d7e75c790?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Summer - Exploratory Nuclear Deterrent Systems, Onsite](https://jobright.ai/jobs/info/675a7fe94c319ff30d307927?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 11 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Criminology/Criminal Justice](https://jobright.ai/jobs/info/675a6dc77de6c012e28c8a64?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Hybrid | Dec 11 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Intern (Remote/Unpaid)](https://jobright.ai/jobs/info/675a6a88a1d377c608c97c25?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Corporate Affairs & Legal (Government Affairs)](https://jobright.ai/jobs/info/675484a67dd49e922c4459a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 07 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[New York Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f528f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780f?utm_campaign=1056&utm_source=git)** | Carnegie, PA | On Site | Dec 06 |
-| ↳ | **[External Communications Intern](https://jobright.ai/jobs/info/67367cf9f03d0bb2ea3a730b?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Dec 06 |
-| **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Crisis Response Intern Spring 2025](https://jobright.ai/jobs/info/6753b6f658049e9a02de0703?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
