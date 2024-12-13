@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seekers Case Management Intern- UNPAID](https://jobright.ai/jobs/info/675bbe718bfaff8814a652db?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 12 |
+| **[GRUNDFOS](https://www.grundfos.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/675bb7c79532a78189b74e2c?utm_campaign=1056&utm_source=git)** | Lenexa, KS | On Site | Dec 12 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Intern - Flood Risk](https://jobright.ai/jobs/info/675bbe718bfaff8814a652c5?utm_campaign=1056&utm_source=git)** | University Park, PA | On Site | Dec 12 |
+| **[New York City Department of Investigation](http://www.nyc.gov/doi)** | **[College Aide](https://jobright.ai/jobs/info/675bae1760145fc4a572f24a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 12 |
+| **[University of Utah](http://utah.edu)** | **[Policy & Public Affairs Internship](https://jobright.ai/jobs/info/675bae1760145fc4a572f226?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Dec 12 |
 | **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Win/Spr 2025 - Public Policy Internship](https://jobright.ai/jobs/info/675b7bb5543693481dc88ea8?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Dec 12 |
 | **[IREX](https://www.irex.org)** | **[Intern, Mandela Washington Fellowship (NEW)](https://jobright.ai/jobs/info/675b7af4459e21925f0a9e4d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/675b622580ddca27c1bfaa5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
@@ -72,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Insurance & Financial Services Internship](https://jobright.ai/jobs/info/675b306b0ff580e330273347?utm_campaign=1056&utm_source=git)** | Des Moines - 50315 - Polk County, IA | On Site | Dec 12 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/675b36e7281a79a283987c81?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 12 |
 | **[Missouri Department of Conservation](http://mdc.mo.gov)** | **[Community Conservation Intern](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ff74?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 12 |
-| **[Valero](http://www.valero.com)** | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd653?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Dec 12 |
-| ↳ | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd67d?utm_campaign=1056&utm_source=git)** | United States | On Site | Dec 12 |
+| **[Valero](http://www.valero.com)** | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd67d?utm_campaign=1056&utm_source=git)** | United States | On Site | Dec 12 |
+| ↳ | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd653?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Dec 12 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Environmental Affairs (Summer 2025)](https://jobright.ai/jobs/info/675b0c408513b0a428076586?utm_campaign=1056&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Dec 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/675b06215d196f6544311c21?utm_campaign=1056&utm_source=git)** | City of Sioux Falls, SD | On Site | Dec 12 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/675afad781754aa1ffb084e3?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Dec 12 |
@@ -81,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emergency Management Intern - Summer 2025](https://jobright.ai/jobs/info/675afad781754aa1ffb084ef?utm_campaign=1056&utm_source=git)** | Exton, PA | Hybrid | Dec 12 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - ITDR and Governance (Memphis, TN)](https://jobright.ai/jobs/info/673dd234ef77ec4af6d149ca?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Dec 12 |
 | **[Peace Corps](http://www.peacecorps.gov)** | **[Sustainable Agriculture Facilitator - Volunteer Position - Onsite in Tanzania](https://jobright.ai/jobs/info/66d1fbde19d9ba68441c9f5f?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 12 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2025 - Social Impact intern](https://jobright.ai/jobs/info/673e6bc04ee02568757016aa?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 12 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Environmental Policy Intern](https://jobright.ai/jobs/info/67065cbd1946e54b4efc4e6c?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Dec 12 |
 | **[National Park Service](http://www.nps.gov/index.htm)** | **[International Cooperation Officer](https://jobright.ai/jobs/info/675ac99073730d9d7e75c7c1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[Inspire](https://inspirebrands.com)** | **[Government Affairs Internship - Summer '25](https://jobright.ai/jobs/info/675ac99073730d9d7e75c790?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
@@ -128,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Intern/Trainee - All County Departments](https://jobright.ai/jobs/info/6758dedd40f87b5544c4fb11?utm_campaign=1056&utm_source=git)** | San Luis Obispo County, CA | On Site | Dec 10 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/6758d9f67df9a1809353eeea?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 10 |
 | **[Northern Kentucky Area Development District](http://www.nkadd.org/)** | **[Community Develpment Planner Intern](https://jobright.ai/jobs/info/6758dedd40f87b5544c4fbf5?utm_campaign=1056&utm_source=git)** | Florence, KY | On Site | Dec 10 |
-| **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/672e46716d4cbe24648ae2df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2025 Western Energy & Equity Intern (CCSF & SFSU Students Only)](https://jobright.ai/jobs/info/6758d91f7df9a1809353e8ba?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[Public Health Institute](http://www.phi.org)** | **[CivicSpark Fellow (Three-Quarter Time) CA](https://jobright.ai/jobs/info/6758d91f7df9a1809353e936?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Dec 10 |
 | ↳ | **[CivicSpark Fellow (Three-Quarter Time) CO](https://jobright.ai/jobs/info/6758cfe33b67e8435ae088ad?utm_campaign=1056&utm_source=git)** | Colorado, United States | Remote | Dec 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Public Health Institute](http://www.phi.org)** | **[Public Health Intern](https://jobright.ai/jobs/info/67582ba7a32b425ab6126151?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738b?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Dec 10 |
 | ↳ | **[Population Health Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738e?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
-| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Council on Foreign Relations is hiring: Internship, Digital Content, Editorial,](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fe7c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
-| **[Aflac](http://www.aflac.com)** | **[Sr International Affairs Analyst](https://jobright.ai/jobs/info/6757beaa20073520bc57de67?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 09 |
-| **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Public Health Research Intern](https://jobright.ai/jobs/info/6757c186f76c7a05ad81fcef?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Remote | Dec 09 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/6757b987565ad30173626615?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Environmental, Social, Governance (ESG) Intern](https://jobright.ai/jobs/info/6757b2c91f739bf7e7f5cbd3?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
