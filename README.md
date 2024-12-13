@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Public Affairs & Access: Employee & Community Engagement (Corporate Communications)](https://jobright.ai/jobs/info/675c840383a10321d81c34e3?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 13 |
+| **[NEOGOV](http://www.neogov.com)** | **[Parks and Recreation - Internship](https://jobright.ai/jobs/info/675c72df6d223e31f5bba840?utm_campaign=1056&utm_source=git)** | Lake Kyle Parks Administration Offices, TX | On Site | Dec 13 |
+| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation)](https://jobright.ai/jobs/info/675c6e233275b8e58c48041f?utm_campaign=1056&utm_source=git)** | Tallahassee | On Site | Dec 13 |
+| **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[COLLEGE AIDE - Law, Elected Officials, Administration, and Finance (LEAF)](https://jobright.ai/jobs/info/675c77cef198d1ac8031373d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
+| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c522959a455f6f97be3e0?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Dec 13 |
+| ↳ | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c54e424387016dd101bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
+| **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/675c4412fcf074dc3638d860?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Dec 13 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/675c4a3513a303fff5e86b31?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Dec 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seekers Case Management Intern- UNPAID](https://jobright.ai/jobs/info/675bbe718bfaff8814a652db?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 12 |
 | **[GRUNDFOS](https://www.grundfos.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/675bb7c79532a78189b74e2c?utm_campaign=1056&utm_source=git)** | Lenexa, KS | On Site | Dec 12 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Intern - Flood Risk](https://jobright.ai/jobs/info/675bbe718bfaff8814a652c5?utm_campaign=1056&utm_source=git)** | University Park, PA | On Site | Dec 12 |
@@ -68,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Managers Office](https://jobright.ai/jobs/info/675b6fea9d1223773274ef84?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Dec 12 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Environmental Affairs (Summer 2025)](https://jobright.ai/jobs/info/675b6ab664d0fc509240dbb7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Intern - Flood Risk](https://jobright.ai/jobs/info/675b5c3154be1fcc41ec2867?utm_campaign=1056&utm_source=git)** | Penn State University Park | On Site | Dec 12 |
-| **[ROCK](http://www.rockventures.com/)** | **[Strategy & Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/675b5ad714220c474d1af5ed?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Dec 12 |
 | **[World Relief](https://worldrelief.org/)** | **[Social Adjustment Services Intern - 2024920](https://jobright.ai/jobs/info/675b4e27b250c441eb75ba99?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/675b4d72a0c6cdc766d010c2?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern - Summer 2025](https://jobright.ai/jobs/info/675b46381df791dc5910f350?utm_campaign=1056&utm_source=git)** | Exton, PA | On Site | Dec 12 |
@@ -77,8 +84,9 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Insurance & Financial Services Internship](https://jobright.ai/jobs/info/675b306b0ff580e330273347?utm_campaign=1056&utm_source=git)** | Des Moines - 50315 - Polk County, IA | On Site | Dec 12 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/675b36e7281a79a283987c81?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 12 |
 | **[Missouri Department of Conservation](http://mdc.mo.gov)** | **[Community Conservation Intern](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ff74?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 12 |
-| **[Valero](http://www.valero.com)** | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd653?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Dec 12 |
-| ↳ | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd67d?utm_campaign=1056&utm_source=git)** | United States | On Site | Dec 12 |
+| **[County of Riverside](http://www.rc-hr.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/67528b460aaa0dc03c0e2659?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Dec 12 |
+| **[Valero](http://www.valero.com)** | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd67d?utm_campaign=1056&utm_source=git)** | United States | On Site | Dec 12 |
+| ↳ | **[ESG Intern - Summer 2025](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd653?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Dec 12 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Environmental Affairs (Summer 2025)](https://jobright.ai/jobs/info/675b0c408513b0a428076586?utm_campaign=1056&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Dec 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/675b06215d196f6544311c21?utm_campaign=1056&utm_source=git)** | City of Sioux Falls, SD | On Site | Dec 12 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/675afad781754aa1ffb084e3?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Dec 12 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/673661b0822ca45d71504341?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6758996be13662c78f957ab8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
 | **[TriHealth](http://www.trihealth.com)** | **[Bethesda Foundation Intern PRN Temporary](https://jobright.ai/jobs/info/67588c326c901154454dc689?utm_campaign=1056&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Dec 10 |
-| ↳ | **[Bethesda Foundation Intern PRN Temporary](https://jobright.ai/jobs/info/6758ab8b58fee455c6d9b62a?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2025 Intern - Inclusive Philanthropy (Memphis, TN) (NPHC Members)](https://jobright.ai/jobs/info/67588b5f547cb67147461176?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Dec 10 |
-| **[TriHealth](http://www.trihealth.com)** | **[Bethesda Foundation Intern PRN Temporary](https://jobright.ai/jobs/info/675b226b27d75763545f9fc5?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 10 |
-| **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Relations Intern - January 2025](https://jobright.ai/jobs/info/67586503f85f71af7b45fd28?utm_campaign=1056&utm_source=git)** | Bismarck, ND | Hybrid | Dec 10 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/673be9596f1776dc6547e0ec?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Dec 10 |
-| **[Public Health Institute](http://www.phi.org)** | **[Public Health Intern](https://jobright.ai/jobs/info/67582ba7a32b425ab6126151?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738b?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Dec 10 |
-| ↳ | **[Population Health Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738e?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
