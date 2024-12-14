@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Redwood City](http://www.redwoodcity.org/)** | **[Planning Intern #25C-5 (20570430)
+16-24 hours per week in the Spring with the potential to increase during the Summer](https://jobright.ai/jobs/info/675d5894df63789401934377?utm_campaign=1056&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/675d4f059ef583a6f2d3e240?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 14 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Criminology/Criminal Justice](https://jobright.ai/jobs/info/675d1a38723ab0adf62a0fa6?utm_campaign=1056&utm_source=git)** | Rosemead, CA | On Site | Dec 13 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fd?utm_campaign=1056&utm_source=git)** | Boston, MA, USA | On Site | Dec 13 |
-| ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f4917a01?utm_campaign=1056&utm_source=git)** | New York, NY, USA | On Site | Dec 13 |
+| ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Department of Government Relations](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8762e7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Mississippi State University](https://coastal.msstate.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48db?utm_campaign=1056&utm_source=git)** | Starkville, MS | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Works Climate Action Intern](https://jobright.ai/jobs/info/675cbc00b352ff36b6092f94?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Dec 13 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c522959a455f6f97be3e0?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Dec 13 |
 | ↳ | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c54e424387016dd101bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/675c4412fcf074dc3638d860?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Dec 13 |
+| **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6722a8434ae25b6080b68514?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Dec 13 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/675c4a3513a303fff5e86b31?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Dec 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seekers Case Management Intern- UNPAID](https://jobright.ai/jobs/info/675bbe718bfaff8814a652db?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 12 |
@@ -117,8 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Peace Corps](http://www.peacecorps.gov)** | **[Sustainable Agriculture Facilitator - Volunteer Position - Onsite in Tanzania](https://jobright.ai/jobs/info/66d1fbde19d9ba68441c9f5f?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 12 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2025 - Social Impact intern](https://jobright.ai/jobs/info/673e6bc04ee02568757016aa?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 12 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Environmental Policy Intern](https://jobright.ai/jobs/info/67065cbd1946e54b4efc4e6c?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Dec 12 |
+| **[Husch Blackwell](http://www.huschblackwell.com/)** | **[LCLD 1L Diversity Summer Associate - American Water](https://jobright.ai/jobs/info/675d5b6ebf019807b76debc4?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 12 |
 | **[National Park Service](http://www.nps.gov/index.htm)** | **[International Cooperation Officer](https://jobright.ai/jobs/info/675ac99073730d9d7e75c7c1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[Inspire](https://inspirebrands.com)** | **[Government Affairs Internship - Summer '25](https://jobright.ai/jobs/info/675ac99073730d9d7e75c790?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6704a4bfa0781c2f765b2e10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Graduate Summer - Exploratory Nuclear Deterrent Systems, Onsite](https://jobright.ai/jobs/info/675a7fe94c319ff30d307927?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 11 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Criminology/Criminal Justice](https://jobright.ai/jobs/info/675a6dc77de6c012e28c8a64?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Hybrid | Dec 11 |
 | **[Sierra Club](http://sierraclub.org)** | **[Community Advocate Intern](https://jobright.ai/jobs/info/675a7d54baf6e9dfc6b9ef5d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Dec 11 |
@@ -153,8 +158,4 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute (CPI) Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24d15?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 10 |
 | ↳ | **[Zoning and Equity Analyst Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24dd2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 10 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6759f3c6a667efba23beeff9?utm_campaign=1056&utm_source=git)** | 1116 Buffalo Trail, Winnebago, NE, US | On Site | Dec 10 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67591a3d816d92e5e125a654?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Dec 10 |
-| **[Oracle](https://www.oracle.com/)** | **[Oracle Health Government Services SkillBridge Military Fellowship](https://jobright.ai/jobs/info/67591532dbb088e548925465?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2025 Dairy Policy and Farm Practices Intern](https://jobright.ai/jobs/info/675909e4548886fb3033c4d3?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Dec 10 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/675909e4548886fb3033c723?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
