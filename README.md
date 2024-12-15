@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Dec 15 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Dec 14 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Dec 14 |
 | **[City of Redwood City](http://www.redwoodcity.org/)** | **[Planning Intern #25C-5 (20570430)
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c54e424387016dd101bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/675c4412fcf074dc3638d860?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Dec 13 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6722a8434ae25b6080b68514?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Dec 13 |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6758996be13662c78f957ab8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  US Medical Affairs Strategy, Primary Biliary Cholangitis (PBC)](https://jobright.ai/jobs/info/675c4a3513a303fff5e86b31?utm_campaign=1056&utm_source=git)** | Foster City, CA | On Site | Dec 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seekers Case Management Intern- UNPAID](https://jobright.ai/jobs/info/675bbe718bfaff8814a652db?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 12 |
@@ -156,6 +158,4 @@ For a complete list, click the following sortable link below:
 | **[MDRC](http://www.mdrc.org/)** | **[2024-33i: 2025 Paid Evidence-to-Practice Internship](https://jobright.ai/jobs/info/673cd902fae93e85f9cfa42b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/675992385527b42b58ca5b25?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 11 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/6718f5afc016c7033d75822c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 11 |
-| **[ByteDance](http://bytedance.com)** | **[Public Policy Intern (Institute of Management Strategy) - 2025 Start (MS/PhD)](https://jobright.ai/jobs/info/673cfc1b501782f5231e0272?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
-| **[Texas Instruments](http://www.ti.com)** | **[Communications Intern - Government Relations](https://jobright.ai/jobs/info/672199e7b71396c49fd8afa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
