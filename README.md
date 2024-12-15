@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Dec 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Dec 15 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Dec 14 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Dec 14 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4a7d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[Dow](https://www.dowchemical.com)** | **[2024-2025- Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7b0a31e70265ab77357fd?utm_campaign=1056&utm_source=git)** | Midland, MI | On Site | Dec 13 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fd?utm_campaign=1056&utm_source=git)** | Boston, MA, USA | On Site | Dec 13 |
-| ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f4917a01?utm_campaign=1056&utm_source=git)** | New York, NY, USA | On Site | Dec 13 |
+| ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Department of Government Relations](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8762e7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Mississippi State University](https://coastal.msstate.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48db?utm_campaign=1056&utm_source=git)** | Starkville, MS | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Works Climate Action Intern](https://jobright.ai/jobs/info/675cbc00b352ff36b6092f94?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Dec 13 |
@@ -85,12 +86,14 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Public Affairs & Access: Employee & Community Engagement (Corporate Communications)](https://jobright.ai/jobs/info/675c840383a10321d81c34e3?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Parks and Recreation - Internship](https://jobright.ai/jobs/info/675c72df6d223e31f5bba840?utm_campaign=1056&utm_source=git)** | Lake Kyle Parks Administration Offices, TX | On Site | Dec 13 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[COLLEGE AIDE - Law, Elected Officials, Administration, and Finance (LEAF)](https://jobright.ai/jobs/info/675c77cef198d1ac8031373d?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
+| **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Intern/Trainee - All County Departments](https://jobright.ai/jobs/info/6758dedd40f87b5544c4fb11?utm_campaign=1056&utm_source=git)** | San Luis Obispo County, CA | On Site | Dec 13 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | ↳ | **[Undergraduate Intern, Race & Ethnicity, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763b9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | ↳ | **[Undergraduate Intern, Social & Demographic Trends, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763fa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c522959a455f6f97be3e0?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Dec 13 |
 | ↳ | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c54e424387016dd101bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/675c4412fcf074dc3638d860?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Dec 13 |
+| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6746a3a6b9738c316e5211af?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Dec 13 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6722a8434ae25b6080b68514?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6758996be13662c78f957ab8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
@@ -154,8 +157,5 @@ For a complete list, click the following sortable link below:
 | **[Sierra Club](http://sierraclub.org)** | **[Community Advocate Intern](https://jobright.ai/jobs/info/6759c9d0a61e89e4be1a6802?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Dec 11 |
 | **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/6759d2368c78f520977da49e?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Dec 11 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 11 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/6759c9d0a61e89e4be1a699e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 11 |
-| **[MDRC](http://www.mdrc.org/)** | **[2024-33i: 2025 Paid Evidence-to-Practice Internship](https://jobright.ai/jobs/info/673cd902fae93e85f9cfa42b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 11 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/675992385527b42b58ca5b25?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 11 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/6718f5afc016c7033d75822c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 11 |
+| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
