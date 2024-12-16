@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/67602a60f8a9ba32ae08ae7a?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Dec 16 |
+| **[NEOGOV](http://www.neogov.com)** | **[Community Development Intern (Planning)](https://jobright.ai/jobs/info/676005b775c4135f25fb89d5?utm_campaign=1056&utm_source=git)** | Mountain View City Hall | On Site | Dec 16 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Stakeholder Management Intern - Environmental Services, Stakeholder Management (Denver)](https://jobright.ai/jobs/info/67260e862b1794addaa42e60?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Community Development Intern (Economic Development)](https://jobright.ai/jobs/info/675ff01e1816de91ac0fc372?utm_campaign=1056&utm_source=git)** | Mountain View City Hall | On Site | Dec 16 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[Paid College Internships/Public Information Office - District 6 - Summer 2025](https://jobright.ai/jobs/info/675fd5581b17810cc5cb7d21?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Dec 15 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Dec 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Dec 15 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Dec 14 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Dec 14 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6724d2230ff7e6d2bc4b9719?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 14 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Dec 14 |
 | **[City of Redwood City](http://www.redwoodcity.org/)** | **[Planning Intern #25C-5 (20570430)
 16-24 hours per week in the Spring with the potential to increase during the Summer](https://jobright.ai/jobs/info/675d5894df63789401934377?utm_campaign=1056&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/675d4f059ef583a6f2d3e240?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 14 |
@@ -78,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Mississippi State University](https://coastal.msstate.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48db?utm_campaign=1056&utm_source=git)** | Starkville, MS | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Works Climate Action Intern](https://jobright.ai/jobs/info/675cbc00b352ff36b6092f94?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Dec 13 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, U. S. Politics, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a876349?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
-| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a87653e?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 13 |
+| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a87653d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[Blackstone](http://blackstone.com)** | **[2025 Blackstone Summer Analyst – Corporate Affairs, Public Affairs](https://jobright.ai/jobs/info/675cbc3c0c1ad24cea1e92ae?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/675cffac0ab7bc71484002e0?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Dec 13 |
 | ↳ | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/675cffac0ab7bc71484002de?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Dec 13 |
@@ -154,8 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[International Affairs Analyst, Senior](https://jobright.ai/jobs/info/6704c1e9db2587cbb9c918b6?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Dec 11 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - UTRGV Grant (Immediate Opening)](https://jobright.ai/jobs/info/6759f97b2c1b4b44e76fc1d1?utm_campaign=1056&utm_source=git)** | Greater McAllen Area | On Site | Dec 11 |
 | ↳ | **[Social Worker Intern - UTRGV Grant (Immediate Opening)](https://jobright.ai/jobs/info/6759dbe88322ea3274709a11?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Dec 11 |
-| **[Sierra Club](http://sierraclub.org)** | **[Community Advocate Intern](https://jobright.ai/jobs/info/6759c9d0a61e89e4be1a6802?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Dec 11 |
-| **[State of Missouri](http://mo.gov)** | **[LPA Planning Intern - St. Louis District](https://jobright.ai/jobs/info/6759d2368c78f520977da49e?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Dec 11 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 11 |
-| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
