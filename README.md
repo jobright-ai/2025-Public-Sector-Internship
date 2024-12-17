@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Proposal/Grant Writer Job at Digital Factory, Inc. in Chicago](https://jobright.ai/jobs/info/6760fc6b75072d57be09eaa0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
+| **[Wawa, Inc.](https://www.wawa.com)** | **[Government Relations and Social Purpose Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbd9?utm_campaign=1056&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
+| **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Damage Prevention/Public Awareness Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadc1d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 16 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2024 (9922)](https://jobright.ai/jobs/info/6760fc6b75072d57be09ecd4?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship Program - GREW Sustainability Intern](https://jobright.ai/jobs/info/6760aab37c7914b16e24c6d4?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Dec 16 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[ESG Intern](https://jobright.ai/jobs/info/6760b8ccb843344c96759812?utm_campaign=1056&utm_source=git)** | Victor, NY | Hybrid | Dec 16 |
 | **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/6760aab37c7914b16e24c9b1?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Dec 16 |
@@ -100,11 +104,13 @@ For a complete list, click the following sortable link below:
 | **[City of Redwood City](http://www.redwoodcity.org/)** | **[Planning Intern #25C-5 (20570430)
 16-24 hours per week in the Spring with the potential to increase during the Summer](https://jobright.ai/jobs/info/675d5894df63789401934377?utm_campaign=1056&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/675d4f059ef583a6f2d3e240?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 14 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/674071dbafa62d83922a8a5b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 13 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Criminology/Criminal Justice](https://jobright.ai/jobs/info/675d1a38723ab0adf62a0fa6?utm_campaign=1056&utm_source=git)** | Rosemead, CA | On Site | Dec 13 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-25011 Policy and Government Affairs Spring 2025 Intern](https://jobright.ai/jobs/info/6722f56c78770a2abdb7497d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4a7d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | **[Dow](https://www.dowchemical.com)** | **[2024-2025- Campus Internship – Public Affairs](https://jobright.ai/jobs/info/66f7b0a31e70265ab77357fd?utm_campaign=1056&utm_source=git)** | Midland, MI | On Site | Dec 13 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6722b4f5fbc07db821e5779c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 13 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/6752a159a5e745fd26146005?utm_campaign=1056&utm_source=git)** | Lenexa, KS | Hybrid | Dec 13 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fd?utm_campaign=1056&utm_source=git)** | Boston, MA, USA | On Site | Dec 13 |
 | ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f4917a01?utm_campaign=1056&utm_source=git)** | New York, NY, USA | On Site | Dec 13 |
@@ -152,10 +158,4 @@ For a complete list, click the following sortable link below:
 | **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - ASUN Senator, College of Engineering](https://jobright.ai/jobs/info/675b34ceb36222e5ba7340af?utm_campaign=1056&utm_source=git)** | University of Nevada, Reno - Main Campus | On Site | Dec 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Insurance & Financial Services Internship](https://jobright.ai/jobs/info/675b306b0ff580e330273347?utm_campaign=1056&utm_source=git)** | Des Moines - 50315 - Polk County, IA | On Site | Dec 12 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/675b36e7281a79a283987c81?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 12 |
-| **[Missouri Department of Conservation](http://mdc.mo.gov)** | **[Community Conservation Intern](https://jobright.ai/jobs/info/675b1e1cd66a627394c5ff74?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 12 |
-| **[County of Riverside](http://www.rc-hr.com)** | **[Board of Supervisors District 4 Legislative Intern](https://jobright.ai/jobs/info/67528b460aaa0dc03c0e2659?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Dec 12 |
-| **[NEOGOV](http://www.neogov.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/675b06215d196f6544311c21?utm_campaign=1056&utm_source=git)** | City of Sioux Falls, SD | On Site | Dec 12 |
-| **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/675afad781754aa1ffb084e3?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Dec 12 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675afad781754aa1ffb08502?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
