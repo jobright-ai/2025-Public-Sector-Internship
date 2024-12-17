@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/67615232c8fd5b2f11ed3276?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Dec 17 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Proposal/Grant Writer Job at Digital Factory, Inc. in Chicago](https://jobright.ai/jobs/info/6760fc6b75072d57be09eaa0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Government Relations and Social Purpose Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbd9?utm_campaign=1056&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Damage Prevention/Public Awareness Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadc1d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 16 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Policy Intern](https://jobright.ai/jobs/info/6722b4f5fbc07db821e5779c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 13 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Public Policy & Government Relations Intern](https://jobright.ai/jobs/info/6752a159a5e745fd26146005?utm_campaign=1056&utm_source=git)** | Lenexa, KS | Hybrid | Dec 13 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fd?utm_campaign=1056&utm_source=git)** | Boston, MA, USA | On Site | Dec 13 |
-| ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f4917a01?utm_campaign=1056&utm_source=git)** | New York, NY, USA | On Site | Dec 13 |
+| ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f49179fe?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | On Site | Dec 13 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Department of Government Relations](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8762e7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Mississippi State University](https://coastal.msstate.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48db?utm_campaign=1056&utm_source=git)** | Starkville, MS | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Works Climate Action Intern](https://jobright.ai/jobs/info/675cbc00b352ff36b6092f94?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Dec 13 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Win/Spr 2025 - Public Policy Internship](https://jobright.ai/jobs/info/675b7bb5543693481dc88ea8?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Dec 12 |
 | **[IREX](https://www.irex.org)** | **[Intern, Mandela Washington Fellowship (NEW)](https://jobright.ai/jobs/info/675b7af4459e21925f0a9e4d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/675b622580ddca27c1bfaa5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
-| **[United Airlines](https://www.united.com)** | **[Intern - Environmental Affairs (Summer 2025)](https://jobright.ai/jobs/info/675b6ab664d0fc509240dbb7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Intern - Flood Risk](https://jobright.ai/jobs/info/675b5c3154be1fcc41ec2867?utm_campaign=1056&utm_source=git)** | Penn State University Park | On Site | Dec 12 |
 | **[World Relief](https://worldrelief.org/)** | **[Social Adjustment Services Intern - 2024920](https://jobright.ai/jobs/info/675b4e27b250c441eb75ba99?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 12 |
 | **[NEOGOV](http://www.neogov.com)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/675b4d72a0c6cdc766d010c2?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 12 |
