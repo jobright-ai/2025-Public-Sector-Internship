@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/676201604fc81cd2680f3511?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Dec 17 |
+| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f511?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
+| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f8d6?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Dec 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/67620c51d03d46f04888fe7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
+| **[State of Michigan](http://www.michigan.gov)** | **[FOA METRO Internship](https://jobright.ai/jobs/info/67620b89d03d46f04888f759?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 17 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6761fc9d30dcf6c5c5ff5670?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Dec 17 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
+| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6761d7b0a3bd7d8cebcf95a5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
+| ↳ | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6761d7b0a3bd7d8cebcf97ae?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Dec 17 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/6761c25db63f894e5254cb86?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Public Affairs & Access: Managed Care Contracts (Channel & Contract Management)](https://jobright.ai/jobs/info/6761ba140ff537d344f78a5d?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 17 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Housing - Community Development](https://jobright.ai/jobs/info/6761ba5c42d1b147e4458a3f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
@@ -137,8 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | ↳ | **[Undergraduate Intern, Race & Ethnicity, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763b9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 | ↳ | **[Undergraduate Intern, Social & Demographic Trends, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763fa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
-| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c522959a455f6f97be3e0?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Dec 13 |
-| ↳ | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c54e424387016dd101bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
+| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/675c54e424387016dd101bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6746a3a6b9738c316e5211af?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Dec 13 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6722a8434ae25b6080b68514?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6758996be13662c78f957ab8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
@@ -150,12 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Intern - Flood Risk](https://jobright.ai/jobs/info/675bbe718bfaff8814a652c5?utm_campaign=1056&utm_source=git)** | University Park, PA | On Site | Dec 12 |
 | **[ROCK](http://www.rockventures.com/)** | **[Strategy & Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/675cf89555340aa4bfaa42b6?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Dec 12 |
 | **[University of Utah](http://utah.edu)** | **[Policy & Public Affairs Internship](https://jobright.ai/jobs/info/675bae1760145fc4a572f226?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Dec 12 |
-| **[InterAction](http://www.interactions.org/)** | **[Public Policy & Congressional Engagement Internship](https://jobright.ai/jobs/info/675cd234e0d6a65443827f56?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 12 |
-| **[Rails to Trails Conservancy](http://www.railstotrails.org/)** | **[Win/Spr 2025 - Public Policy Internship](https://jobright.ai/jobs/info/675b7bb5543693481dc88ea8?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Dec 12 |
-| **[IREX](https://www.irex.org)** | **[Intern, Mandela Washington Fellowship (NEW)](https://jobright.ai/jobs/info/675b7af4459e21925f0a9e4d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
-| **[R&R Partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/675b622580ddca27c1bfaa5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Intern - Flood Risk](https://jobright.ai/jobs/info/675b5c3154be1fcc41ec2867?utm_campaign=1056&utm_source=git)** | Penn State University Park | On Site | Dec 12 |
-| **[World Relief](https://worldrelief.org/)** | **[Social Adjustment Services Intern - 2024920](https://jobright.ai/jobs/info/675b4e27b250c441eb75ba99?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 12 |
-| **[NEOGOV](http://www.neogov.com)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/675b4d72a0c6cdc766d010c2?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 12 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern - Summer 2025](https://jobright.ai/jobs/info/675b46381df791dc5910f350?utm_campaign=1056&utm_source=git)** | Exton, PA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
