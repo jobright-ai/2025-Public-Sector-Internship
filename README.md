@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda Oncology](http://www.takedaoncology.com)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs Oncology) Intern](https://jobright.ai/jobs/info/67638ff52f9807998a44a3aa?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 18 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/67638ff52f9807998a44a355?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Dec 18 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[Policy and Government Affairs Fall 2024 Intern](https://jobright.ai/jobs/info/67638d251b3b06e64d6583aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 18 |
+| **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Evidence for Access, Technical Institute (Policy, Evidence, & Access Strategy)](https://jobright.ai/jobs/info/6763887c516d5bfac2700b05?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 18 |
+| **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/676369c6a31e69e5cf451b82?utm_campaign=1056&utm_source=git)** | Chattanooga, TN, USA | On Site | Dec 18 |
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915e49?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 18 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/6763587fe04f420715fd299c?utm_campaign=1056&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 18 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 18 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/673c151254cef0db3d924046?utm_campaign=1056&utm_source=git)** | Langhorne, PA | On Site | Dec 18 |
 | **[NEOGOV](http://www.neogov.com)** | **[Student Intern (Public Affairs)](https://jobright.ai/jobs/info/676345f8c5d66c8cde371a0b?utm_campaign=1056&utm_source=git)** | Orange County Sanitation District, CA | On Site | Dec 18 |
 | **[Church World Service](http://cwsglobal.org)** | **[Intern - Policy and Advocacy](https://jobright.ai/jobs/info/6721834e2f383df0d9c93d29?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 18 |
@@ -152,10 +158,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Gender Project Support ](https://jobright.ai/jobs/info/675cd3d2ba2a4ee4f4917a01?utm_campaign=1056&utm_source=git)** | New York, NY, USA | On Site | Dec 13 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Intern Program - Department of Government Relations](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8762e7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Mississippi State University](https://coastal.msstate.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae48db?utm_campaign=1056&utm_source=git)** | Starkville, MS | On Site | Dec 13 |
-| **[NEOGOV](http://www.neogov.com)** | **[Public Works Climate Action Intern](https://jobright.ai/jobs/info/675cbc00b352ff36b6092f94?utm_campaign=1056&utm_source=git)** | Boise City Hall, ID | On Site | Dec 13 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, U. S. Politics, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a876349?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
-| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Gender Project Support](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a87653d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 13 |
-| **[Blackstone](http://blackstone.com)** | **[2025 Blackstone Summer Analyst – Corporate Affairs, Public Affairs](https://jobright.ai/jobs/info/675cbc3c0c1ad24cea1e92ae?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/675cffac0ab7bc71484002e0?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Dec 13 |
-| ↳ | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/675cffac0ab7bc71484002de?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
