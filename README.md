@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Maritime Sustainability](https://jobright.ai/jobs/info/6763e0fb9bef383db6cea9ad?utm_campaign=1056&utm_source=git)** | Port of San Diego, CA | On Site | Dec 19 |
+| **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3da?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 19 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6763e33d140bc107144207a2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
 | **[Milacron](https://www.milacronindia.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6763c41e0a8804f83e125d63?utm_campaign=1056&utm_source=git)** | Batesville, IN, USA | On Site | Dec 18 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grant Assistant Intern](https://jobright.ai/jobs/info/6763ad7c7bef0dbc11109fbd?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Dec 18 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship - Various Programs](https://jobright.ai/jobs/info/676331cee8e341c033ecbea8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/67633574ed46d41004a5ad92?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5cd3?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Dec 18 |
-| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington,](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa3?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Dec 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa4?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/6762de97ba5b48e07d5c75c1?utm_campaign=1056&utm_source=git)** | Washington, United States of America | On Site | Dec 18 |
@@ -157,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/675d4f059ef583a6f2d3e240?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/674071dbafa62d83922a8a5b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 13 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Criminology/Criminal Justice](https://jobright.ai/jobs/info/675d1a38723ab0adf62a0fa6?utm_campaign=1056&utm_source=git)** | Rosemead, CA | On Site | Dec 13 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-25011 Policy and Government Affairs Spring 2025 Intern](https://jobright.ai/jobs/info/6722f56c78770a2abdb7497d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
