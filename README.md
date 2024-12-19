@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Government Affairs Coordinator](https://jobright.ai/jobs/info/67646eb4a82c0007fef3b0b6?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Dec 19 |
+| **[AF - Group](http://www.afgroup.com)** | **[Internship Government Affairs Coordinator](https://jobright.ai/jobs/info/67646c1dca4377bf73966697?utm_campaign=1056&utm_source=git)** | 200 N Grand Ave, Lansing, MI, 48901, US | On Site | Dec 19 |
+| **[Orange County Sanitation District](https://www.ocsan.gov)** | **[Student Intern (Public Affairs)](https://jobright.ai/jobs/info/67646ce79409510352032df3?utm_campaign=1056&utm_source=git)** | Fountain Valley, CA | On Site | Dec 19 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Undergraduate Student](https://jobright.ai/jobs/info/6764462f6ff0cdc52412759f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Maritime Sustainability](https://jobright.ai/jobs/info/6763e0fb9bef383db6cea9ad?utm_campaign=1056&utm_source=git)** | Port of San Diego, CA | On Site | Dec 19 |
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3da?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 19 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6763e33d140bc107144207a2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Damage Prevention/Public Awareness Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadc1d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship Program - GREW Sustainability Intern](https://jobright.ai/jobs/info/6760aab37c7914b16e24c6d4?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Dec 16 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[ESG Intern](https://jobright.ai/jobs/info/6760b8ccb843344c96759812?utm_campaign=1056&utm_source=git)** | Victor, NY | Hybrid | Dec 16 |
-| **[Desert Financial Credit Union](https://www.desertfinancial.com)** | **[Social Responsibility Intern](https://jobright.ai/jobs/info/6760aab37c7914b16e24c9b1?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Dec 16 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM 2025 Summer Internship - Office of Safety and Emergency Management (Emergency Management)](https://jobright.ai/jobs/info/67609a02fd9bef99b3eaadd8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[ESG Intern](https://jobright.ai/jobs/info/676094b08a273e5f1b45f7d6?utm_campaign=1056&utm_source=git)** | 209 High Point Drive, Victor, NY, 14564, US | On Site | Dec 16 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e9662?utm_campaign=1056&utm_source=git)** | Oconee County, GA | On Site | Dec 16 |
@@ -155,7 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Dec 14 |
 | **[City of Redwood City](http://www.redwoodcity.org/)** | **[Planning Intern #25C-5 (20570430)
 16-24 hours per week in the Spring with the potential to increase during the Summer](https://jobright.ai/jobs/info/675d5894df63789401934377?utm_campaign=1056&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
-| **[State of Missouri](http://mo.gov)** | **[Right of Way Intern](https://jobright.ai/jobs/info/675d4f059ef583a6f2d3e240?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 14 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/674071dbafa62d83922a8a5b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 13 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Criminology/Criminal Justice](https://jobright.ai/jobs/info/675d1a38723ab0adf62a0fa6?utm_campaign=1056&utm_source=git)** | Rosemead, CA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
