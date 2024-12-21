@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
+| ↳ | **[Innovation and Strategy Intern](https://jobright.ai/jobs/info/67662bfdaae55ce179800019?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
+| **[NEOGOV](http://www.neogov.com)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/676615de2f00251aa8127ecc?utm_campaign=1056&utm_source=git)** | Government Center - Plainfield, IN | On Site | Dec 20 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/676616b0513078fb7535e420?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
+| ↳ | **[Communications & Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/676616b0513078fb7535e561?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Innovation and Strategy Intern](https://jobright.ai/jobs/info/676607138ed8515bb6bdfb9b?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Government Contracts and Proposals Intern](https://jobright.ai/jobs/info/676616b0513078fb7535e44f?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Dec 20 |
 | **[WM](https://www.wm.com/)** | **[Public Sector Intern](https://jobright.ai/jobs/info/676602fbbdc134c63a8a5dd0?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Dec 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/6765ebefa3102f5140017158?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Development Resource Mapping Intern](https://jobright.ai/jobs/info/6765f8153079658b09983b6d?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 20 |
@@ -88,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/6764ba7881163bf7bd190257?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Clinical Intern-Community Healthlink](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909ea1?utm_campaign=1056&utm_source=git)** | Leominster, MA | Hybrid | Dec 19 |
 | **[City of Pompano Beach](https://pompanobeachfl.gov)** | **[City Clerks Office Intern #2025-PT05](https://jobright.ai/jobs/info/6764ab8fc9114368eecd5fa2?utm_campaign=1056&utm_source=git)** | Pompano Beach, FL | On Site | Dec 19 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/67648e3670503840963f1d34?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 19 |
 | **[ASCP](https://www.ascp.com)** | **[Executive Fellow  in Association Leadership and Management](https://jobright.ai/jobs/info/67648c7ca5ec61bd09dd1fcd?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[PLANNING INTERN - SPRING SEMESTER ($15.00 PER HOUR)](https://jobright.ai/jobs/info/676489981cee7f091f719b83?utm_campaign=1056&utm_source=git)** | 750 West Iredell Ave, NC | On Site | Dec 19 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/676486115c2c8f528d230893?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 19 |
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/67648062588ce1be55f9658d?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Actum](https://actumllc.com)** | **[Junior Associate](https://jobright.ai/jobs/info/67648b088dcfb675e0b80323?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc49?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Dec 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/67620c51d03d46f04888fe7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA METRO Internship](https://jobright.ai/jobs/info/67620b89d03d46f04888f759?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 17 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6761fc9d30dcf6c5c5ff5670?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Dec 17 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6761d7b0a3bd7d8cebcf95a5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
-| ↳ | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6761d7b0a3bd7d8cebcf97ae?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Dec 17 |
-| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/6761c25db63f894e5254cb86?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Public Affairs & Access: Managed Care Contracts (Channel & Contract Management)](https://jobright.ai/jobs/info/6761ba140ff537d344f78a5d?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 17 |
-| **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Housing - Community Development](https://jobright.ai/jobs/info/6761ba5c42d1b147e4458a3f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
