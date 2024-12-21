@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
+| ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | ↳ | **[Innovation and Strategy Intern](https://jobright.ai/jobs/info/67662bfdaae55ce179800019?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | **[NEOGOV](http://www.neogov.com)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/676615de2f00251aa8127ecc?utm_campaign=1056&utm_source=git)** | Government Center - Plainfield, IN | On Site | Dec 20 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Orange County Sanitation District](https://www.ocsan.gov)** | **[Student Intern (Public Affairs)](https://jobright.ai/jobs/info/67646ce79409510352032df3?utm_campaign=1056&utm_source=git)** | Fountain Valley, CA | On Site | Dec 19 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 19 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Undergraduate Student](https://jobright.ai/jobs/info/6764462f6ff0cdc52412759f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 19 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Maritime Sustainability](https://jobright.ai/jobs/info/6763e0fb9bef383db6cea9ad?utm_campaign=1056&utm_source=git)** | Port of San Diego, CA | On Site | Dec 19 |
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3da?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 19 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6763e33d140bc107144207a2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
@@ -139,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/67633574ed46d41004a5ad92?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5cd3?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Dec 18 |
-| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington,](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa3?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Dec 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa4?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/6762de97ba5b48e07d5c75c1?utm_campaign=1056&utm_source=git)** | Washington, United States of America | On Site | Dec 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f8d6?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Dec 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/67620c51d03d46f04888fe7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA METRO Internship](https://jobright.ai/jobs/info/67620b89d03d46f04888f759?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 17 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6761fc9d30dcf6c5c5ff5670?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Dec 17 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
