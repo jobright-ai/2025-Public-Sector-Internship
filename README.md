@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 21 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | ↳ | **[Innovation and Strategy Intern](https://jobright.ai/jobs/info/67662bfdaae55ce179800019?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
@@ -89,7 +90,8 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/67659aecd8a91d71092d6410?utm_campaign=1056&utm_source=git)** | West Square Building 505 Broadway Baraboo | On Site | Dec 20 |
 | ↳ | **[Intern - Capital Improvement Program Delivery](https://jobright.ai/jobs/info/6765877c8dd969908c7085ae?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Managed Care Science Liaison Intern](https://jobright.ai/jobs/info/67656b158447803c2c24a6d3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
-| **[AARP](http://www.aarp.org)** | **[Policy and Brain Health Intern](https://jobright.ai/jobs/info/676550c6e1f1bce8acbd7dda?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 20 |
+| **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern](https://jobright.ai/jobs/info/6737cd8e715f954db4744a6d?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Dec 20 |
+| ↳ | **[Policy and Brain Health Intern](https://jobright.ai/jobs/info/676550c6e1f1bce8acbd7dda?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Family Reunification Intern](https://jobright.ai/jobs/info/67655982d550d55d71f1f4ba?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 20 |
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Outreach Community Engagement Internship (Hybrid)](https://jobright.ai/jobs/info/6767c27f7d21b50d0051cc5a?utm_campaign=1056&utm_source=git)** | Riverside, CA | Hybrid | Dec 19 |
 | **[Health Share of Oregon](https://www.healthshareoregon.org)** | **[System of Care Community Engagement Intern](https://jobright.ai/jobs/info/67650124b98a10834628cad3?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Dec 19 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Managed Care Contracts (Channel & Contract Management)](https://jobright.ai/jobs/info/676344bf426013ad688204c3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 18 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship - Various Programs](https://jobright.ai/jobs/info/676331cee8e341c033ecbea8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/67633574ed46d41004a5ad92?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5cd3?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington,](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa3?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Dec 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/676201604fc81cd2680f3511?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Dec 17 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f511?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
-| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f8d6?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
