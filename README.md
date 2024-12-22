@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67674db5de86d7fc971bb249?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f511?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f8d6?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Dec 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/67620c51d03d46f04888fe7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
-| **[State of Michigan](http://www.michigan.gov)** | **[FOA METRO Internship](https://jobright.ai/jobs/info/67620b89d03d46f04888f759?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
