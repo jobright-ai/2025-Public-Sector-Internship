@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
+| ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67674db5de86d7fc971bb249?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 21 |
-| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
-| ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 21 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Orange County Sanitation District](https://www.ocsan.gov)** | **[Student Intern (Public Affairs)](https://jobright.ai/jobs/info/67646ce79409510352032df3?utm_campaign=1056&utm_source=git)** | Fountain Valley, CA | On Site | Dec 19 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 19 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Undergraduate Student](https://jobright.ai/jobs/info/6764462f6ff0cdc52412759f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 19 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Maritime Sustainability](https://jobright.ai/jobs/info/6763e0fb9bef383db6cea9ad?utm_campaign=1056&utm_source=git)** | Port of San Diego, CA | On Site | Dec 19 |
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3da?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 19 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6763e33d140bc107144207a2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship - Various Programs](https://jobright.ai/jobs/info/676331cee8e341c033ecbea8?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/67633574ed46d41004a5ad92?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5cd3?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Dec 18 |
-| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington,](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa3?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Dec 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa4?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/6762de97ba5b48e07d5c75c1?utm_campaign=1056&utm_source=git)** | Washington, United States of America | On Site | Dec 18 |
