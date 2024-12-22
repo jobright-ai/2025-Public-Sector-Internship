@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67674db5de86d7fc971bb249?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
+| **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 21 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | ↳ | **[Innovation and Strategy Intern](https://jobright.ai/jobs/info/67662bfdaae55ce179800019?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | **[NEOGOV](http://www.neogov.com)** | **[Town of Plainfield Internship Program](https://jobright.ai/jobs/info/676615de2f00251aa8127ecc?utm_campaign=1056&utm_source=git)** | Government Center - Plainfield, IN | On Site | Dec 20 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications & Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/6765ef7875b93d2604f217b6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Health Economics and Outcomes Intern](https://jobright.ai/jobs/info/6765ebefa3102f51400171d6?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Dec 20 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Relations Intern - January 2025](https://jobright.ai/jobs/info/6765e3038e465cac3b7b1221?utm_campaign=1056&utm_source=git)** | Bismarck, ND | Hybrid | Dec 20 |
-| **[MITRE](http://www.mitre.org)** | **[National and Defense Intelligence Strategy and Policy Intern](https://jobright.ai/jobs/info/6765e71af6406944246cdb1c?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Dec 20 |
 | **[WM](https://www.wm.com/)** | **[Public Sector Intern](https://jobright.ai/jobs/info/6765dbec17e41d3f8f8f5903?utm_campaign=1056&utm_source=git)** | 9650 HAWKINS DR, MANASSAS, VA, 20109, US | On Site | Dec 20 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Hourly (Part-time) Intern - Economic Development](https://jobright.ai/jobs/info/6765e71af6406944246cdb1f?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Dec 20 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[2025 Summer Planning Intern (9910)](https://jobright.ai/jobs/info/6765dd80a428dd24202fe7ec?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Managed Care Science Liaison Intern](https://jobright.ai/jobs/info/67656b158447803c2c24a6d3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[AARP](http://www.aarp.org)** | **[Policy and Brain Health Intern](https://jobright.ai/jobs/info/676550c6e1f1bce8acbd7dda?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Family Reunification Intern](https://jobright.ai/jobs/info/67655982d550d55d71f1f4ba?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 20 |
+| **[GRID Alternatives ](http://gridalternatives.org/)** | **[Outreach Community Engagement Internship (Hybrid)](https://jobright.ai/jobs/info/6767c27f7d21b50d0051cc5a?utm_campaign=1056&utm_source=git)** | Riverside, CA | Hybrid | Dec 19 |
 | **[Health Share of Oregon](https://www.healthshareoregon.org)** | **[System of Care Community Engagement Intern](https://jobright.ai/jobs/info/67650124b98a10834628cad3?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Dec 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/67651331ec2c9742f034b52a?utm_campaign=1056&utm_source=git)** | Norwell, MA | On Site | Dec 19 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Summer 2025 Internship Program - Multiple Divisions Under Office of the City Administrator (9922)](https://jobright.ai/jobs/info/6764edf7c58845df23c2ee98?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Orange County Sanitation District](https://www.ocsan.gov)** | **[Student Intern (Public Affairs)](https://jobright.ai/jobs/info/67646ce79409510352032df3?utm_campaign=1056&utm_source=git)** | Fountain Valley, CA | On Site | Dec 19 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 19 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern - Undergraduate Student](https://jobright.ai/jobs/info/6764462f6ff0cdc52412759f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 19 |
-| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Maritime Sustainability](https://jobright.ai/jobs/info/6763e0fb9bef383db6cea9ad?utm_campaign=1056&utm_source=git)** | Port of San Diego, CA | On Site | Dec 19 |
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3da?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 19 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6763e33d140bc107144207a2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern](https://jobright.ai/jobs/info/6763603e6e0e512866915e49?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 18 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/6763587fe04f420715fd299c?utm_campaign=1056&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 18 |
 | **[The New York Immigration Coalition](https://www.nyic.org)** | **[Black Immigrant Engagement Fellow, NYC Community Interpreter Bank](https://jobright.ai/jobs/info/6746b65f137e1a5bd946994c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 18 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 18 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/673c151254cef0db3d924046?utm_campaign=1056&utm_source=git)** | Langhorne, PA | On Site | Dec 18 |
 | **[NEOGOV](http://www.neogov.com)** | **[Student Intern (Public Affairs)](https://jobright.ai/jobs/info/676345f8c5d66c8cde371a0b?utm_campaign=1056&utm_source=git)** | Orange County Sanitation District, CA | On Site | Dec 18 |
 | **[Church World Service](http://cwsglobal.org)** | **[Intern - Policy and Advocacy](https://jobright.ai/jobs/info/6721834e2f383df0d9c93d29?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 18 |
@@ -143,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/67633574ed46d41004a5ad92?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5cd3?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Dec 18 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern, Washington,](https://jobright.ai/jobs/info/6762fe285b5782ac0a8a57f4?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa3?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Dec 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa4?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Dec 18 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/6762de97ba5b48e07d5c75c1?utm_campaign=1056&utm_source=git)** | Washington, United States of America | On Site | Dec 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/676201604fc81cd2680f3511?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Dec 17 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f511?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f8d6?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Dec 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/67620c51d03d46f04888fe7a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
