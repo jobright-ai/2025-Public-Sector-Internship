@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC Water](https://dcwater.com/)** | **[Summer Intern, Fleet (25-FM-202000-026)](https://jobright.ai/jobs/info/67695e767698f9918a78207f?utm_campaign=1056&utm_source=git)** | 6020 Walker Mill Road, Capitol Heights, MD, 20743, US | On Site | Dec 23 |
+| ↳ | **[Summer Intern, Community Engagement (25-OMAC-103000-064)](https://jobright.ai/jobs/info/67695e767698f9918a782094?utm_campaign=1056&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Real Estate, CPA, Summer 2025, PN: 20077983](https://jobright.ai/jobs/info/6768b4fc517c82d7f7235d18?utm_campaign=1056&utm_source=git)** | Allen, OH | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67674db5de86d7fc971bb249?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 21 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 21 |
+| **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
+| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 21 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Intern, Sentencing Reform](https://jobright.ai/jobs/info/67662bfdaae55ce1797ffece?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
 | ↳ | **[Innovation and Strategy Intern](https://jobright.ai/jobs/info/67662bfdaae55ce179800019?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 20 |
@@ -102,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/6764ba7881163bf7bd190257?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Clinical Intern-Community Healthlink](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909ea1?utm_campaign=1056&utm_source=git)** | Leominster, MA | Hybrid | Dec 19 |
 | **[City of Pompano Beach](https://pompanobeachfl.gov)** | **[City Clerks Office Intern #2025-PT05](https://jobright.ai/jobs/info/6764ab8fc9114368eecd5fa2?utm_campaign=1056&utm_source=git)** | Pompano Beach, FL | On Site | Dec 19 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/67648e3670503840963f1d34?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 19 |
 | **[ASCP](https://www.ascp.com)** | **[Executive Fellow  in Association Leadership and Management](https://jobright.ai/jobs/info/67648c7ca5ec61bd09dd1fcd?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[PLANNING INTERN - SPRING SEMESTER ($15.00 PER HOUR)](https://jobright.ai/jobs/info/676489981cee7f091f719b83?utm_campaign=1056&utm_source=git)** | 750 West Iredell Ave, NC | On Site | Dec 19 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/676486115c2c8f528d230893?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 19 |
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/67648062588ce1be55f9658d?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Actum](https://actumllc.com)** | **[Junior Associate](https://jobright.ai/jobs/info/67648b088dcfb675e0b80323?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc49?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Dec 19 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6763b6cb0a4cd4ce0674bd41?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 18 |
 | ↳ | **[Afghan Youth Mentor Intern](https://jobright.ai/jobs/info/6763b6cb0a4cd4ce0674bd0c?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 18 |
 | **[Takeda Oncology](http://www.takedaoncology.com)** | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework Implementation Intern](https://jobright.ai/jobs/info/67639ece6399f16522c5fae9?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| ↳ | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs Oncology) Intern](https://jobright.ai/jobs/info/67638ff52f9807998a44a3aa?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/67638ff52f9807998a44a355?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Dec 18 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[Policy and Government Affairs Fall 2024 Intern](https://jobright.ai/jobs/info/67638d251b3b06e64d6583aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 18 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Evidence for Access, Technical Institute (Policy, Evidence, & Access Strategy)](https://jobright.ai/jobs/info/6763887c516d5bfac2700b05?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b7d?utm_campaign=1056&utm_source=git)** | Laurens, SC | On Site | Dec 17 |
 | **[Evanston/Skokie School District 65](https://www.district65.net/)** | **[School Social Work Intern (4 positions) (SY25/26)](https://jobright.ai/jobs/info/6764d9519fb77033c6858d98?utm_campaign=1056&utm_source=git)** | Evanston, IL | On Site | Dec 17 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6746a3a6b9738c316e5211af?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Dec 17 |
-| ↳ | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/676201604fc81cd2680f3511?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
