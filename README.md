@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Real Estate, CPA, Summer 2025, PN: 20077983](https://jobright.ai/jobs/info/6768b4fc517c82d7f7235d18?utm_campaign=1056&utm_source=git)** | Allen, OH | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67674db5de86d7fc971bb249?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
@@ -96,15 +97,16 @@ For a complete list, click the following sortable link below:
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Outreach Community Engagement Internship (Hybrid)](https://jobright.ai/jobs/info/6767c27f7d21b50d0051cc5a?utm_campaign=1056&utm_source=git)** | Riverside, CA | Hybrid | Dec 19 |
 | **[Health Share of Oregon](https://www.healthshareoregon.org)** | **[System of Care Community Engagement Intern](https://jobright.ai/jobs/info/67650124b98a10834628cad3?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Dec 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/67651331ec2c9742f034b52a?utm_campaign=1056&utm_source=git)** | Norwell, MA | On Site | Dec 19 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6768d79b0573dd5c781c7c03?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Summer 2025 Internship Program - Multiple Divisions Under Office of the City Administrator (9922)](https://jobright.ai/jobs/info/6764edf7c58845df23c2ee98?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Council Office Intern](https://jobright.ai/jobs/info/6764da8f533d38228a189ae6?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Dec 19 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Community Planning Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d12?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Dec 19 |
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/6764ba7881163bf7bd190257?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Clinical Intern-Community Healthlink](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909ea1?utm_campaign=1056&utm_source=git)** | Leominster, MA | Hybrid | Dec 19 |
 | **[City of Pompano Beach](https://pompanobeachfl.gov)** | **[City Clerks Office Intern #2025-PT05](https://jobright.ai/jobs/info/6764ab8fc9114368eecd5fa2?utm_campaign=1056&utm_source=git)** | Pompano Beach, FL | On Site | Dec 19 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/67648e3670503840963f1d34?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 19 |
 | **[ASCP](https://www.ascp.com)** | **[Executive Fellow  in Association Leadership and Management](https://jobright.ai/jobs/info/67648c7ca5ec61bd09dd1fcd?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Dec 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[PLANNING INTERN - SPRING SEMESTER ($15.00 PER HOUR)](https://jobright.ai/jobs/info/676489981cee7f091f719b83?utm_campaign=1056&utm_source=git)** | 750 West Iredell Ave, NC | On Site | Dec 19 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/676486115c2c8f528d230893?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Dec 19 |
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/67648062588ce1be55f9658d?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Actum](https://actumllc.com)** | **[Junior Associate](https://jobright.ai/jobs/info/67648b088dcfb675e0b80323?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/672b018c0b97bbc900b6cc49?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Dec 19 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2025 - Open Space Planning and Project](https://jobright.ai/jobs/info/676255c29b554984a3f2ab8d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67624d8e51fce7bf5d079b7d?utm_campaign=1056&utm_source=git)** | Laurens, SC | On Site | Dec 17 |
 | **[Evanston/Skokie School District 65](https://www.district65.net/)** | **[School Social Work Intern (4 positions) (SY25/26)](https://jobright.ai/jobs/info/6764d9519fb77033c6858d98?utm_campaign=1056&utm_source=git)** | Evanston, IL | On Site | Dec 17 |
-| **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/674654579eecbca9f68d70c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern - Summer 2025](https://jobright.ai/jobs/info/676201604fc81cd2680f3511?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Dec 17 |
-| **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f511?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
+| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6746a3a6b9738c316e5211af?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
