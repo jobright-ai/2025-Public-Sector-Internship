@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Real Estate, CPA, Summer 2025, PN: 20077983](https://jobright.ai/jobs/info/6768b4fc517c82d7f7235d18?utm_campaign=1056&utm_source=git)** | Allen, OH | On Site | Dec 23 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Medical Affairs - Summer 2025](https://jobright.ai/jobs/info/6769f732e1da286384ab419d?utm_campaign=1056&utm_source=git)** | Cary, NC | On Site | Dec 23 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern (Mayor's Office of Intergovernmental Affairs)](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a8e9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Summer 2025 Internship Program - Multiple Divisions Under Office of the City Administrator (9922)](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0afb1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 23 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[QUNO Program Assistant](https://jobright.ai/jobs/info/6769ae629fd3a4d58f9ab7da?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[DC Water](https://dcwater.com/)** | **[Summer Intern, Fleet (25-FM-202000-026)](https://jobright.ai/jobs/info/67695e767698f9918a78207f?utm_campaign=1056&utm_source=git)** | 6020 Walker Mill Road, Capitol Heights, MD, 20743, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Community Engagement (25-OMAC-103000-064)](https://jobright.ai/jobs/info/67695e767698f9918a782094?utm_campaign=1056&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Real Estate, CPA, Summer 2025, PN: 20077983](https://jobright.ai/jobs/info/6768b4fc517c82d7f7235d18?utm_campaign=1056&utm_source=git)** | Allen, OH | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67674db5de86d7fc971bb249?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 21 |
@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seekers Case Management Intern](https://jobright.ai/jobs/info/6763b6cb0a4cd4ce0674bbf3?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 18 |
 | ↳ | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6763b6cb0a4cd4ce0674bd41?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 18 |
 | ↳ | **[Afghan Youth Mentor Intern](https://jobright.ai/jobs/info/6763b6cb0a4cd4ce0674bd0c?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Dec 18 |
-| **[Takeda Oncology](http://www.takedaoncology.com)** | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework Implementation Intern](https://jobright.ai/jobs/info/67639ece6399f16522c5fae9?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/67638ff52f9807998a44a355?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Dec 18 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[Policy and Government Affairs Fall 2024 Intern](https://jobright.ai/jobs/info/67638d251b3b06e64d6583aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 18 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Evidence for Access, Technical Institute (Policy, Evidence, & Access Strategy)](https://jobright.ai/jobs/info/6763887c516d5bfac2700b05?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/67632478dd38a8ef53ec5cd3?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Dec 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa3?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Dec 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/6762f6ac2161cf51e000eaa4?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Dec 18 |
+| **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[External Relations Intern](https://jobright.ai/jobs/info/6762de97ba5b48e07d5c75c1?utm_campaign=1056&utm_source=git)** | Washington, United States of America | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
