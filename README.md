@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ørsted](https://orsted.com)** | **[Federal and Regulatory Affairs Intern](https://jobright.ai/jobs/info/676c0ee5ab48b38629a1d855?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 25 |
 | **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/676b716c326512b97cc656da?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Dec 24 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/676b8037df2cd99d03dd7959?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Dec 24 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Channel Operations (Channel & Contract Management)](https://jobright.ai/jobs/info/676b6d267e0cc0461519d3a8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 24 |
@@ -90,12 +91,12 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Summer 2025 Internship Program - Multiple Divisions Under Office of the City Administrator (9922)](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0afb1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Dec 23 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern (Office of International and Immigrant Affairs)](https://jobright.ai/jobs/info/6769cf3f65cba2c07f215eae?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Bloomberg Government Internship](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0aecf?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 23 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern (Mayor's Office of Intergovernmental Affairs)](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e7b8?utm_campaign=1056&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | Dec 23 |
-| ↳ | **[Intern (Office of International and Immigrant Affairs)](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e7ab?utm_campaign=1056&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | Dec 23 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern (Office of International and Immigrant Affairs)](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e7ab?utm_campaign=1056&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | Dec 23 |
+| ↳ | **[Intern (Mayor's Office of Intergovernmental Affairs)](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e7b8?utm_campaign=1056&utm_source=git)** | 55 Trinity Avenue SW, Atlanta, GA, 30303, US | On Site | Dec 23 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Dec 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Policy and Advocacy Internship (2024984)](https://jobright.ai/jobs/info/676997ba30db5fa12bb15e36?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 23 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Agriculture and Environment Center Summer Intern](https://jobright.ai/jobs/info/6769957d58d3494941bb74fb?utm_campaign=1056&utm_source=git)** | Penn State University Park | On Site | Dec 23 |
-| ↳ | **[Part-Time Agriculture and Environment Center Summer Intern](https://jobright.ai/jobs/info/6769957d58d3494941bb754d?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | On Site | Dec 23 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Agriculture and Environment Center Summer Intern](https://jobright.ai/jobs/info/6769957d58d3494941bb754d?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | On Site | Dec 23 |
+| ↳ | **[Part-Time Agriculture and Environment Center Summer Intern](https://jobright.ai/jobs/info/6769957d58d3494941bb74fb?utm_campaign=1056&utm_source=git)** | Penn State University Park | On Site | Dec 23 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[QUNO Program Assistant](https://jobright.ai/jobs/info/6769ae629fd3a4d58f9ab7da?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[DC Water](https://dcwater.com/)** | **[Summer Intern, Fleet (25-FM-202000-026)](https://jobright.ai/jobs/info/67695e767698f9918a78207f?utm_campaign=1056&utm_source=git)** | 6020 Walker Mill Road, Capitol Heights, MD, 20743, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Community Engagement (25-OMAC-103000-064)](https://jobright.ai/jobs/info/67695e767698f9918a782094?utm_campaign=1056&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Maritime Sustainability](https://jobright.ai/jobs/info/6763e0fb9bef383db6cea9ad?utm_campaign=1056&utm_source=git)** | Port of San Diego, CA | On Site | Dec 19 |
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3da?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 19 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6763e33d140bc107144207a2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
-| **[Milacron](https://www.milacronindia.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6763c41e0a8804f83e125d63?utm_campaign=1056&utm_source=git)** | Batesville, IN, USA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
