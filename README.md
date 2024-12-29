@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d9fa01d9804af3762d2fc?utm_campaign=1056&utm_source=git)** | New Castle, PA | Hybrid | Dec 27 |
 | **[NEOGOV](http://www.neogov.com)** | **[ADMINISTRATIVE INTERN II - PUBLIC WORKS (ENGINEERING DEPARTMENT)](https://jobright.ai/jobs/info/676dcdc04343a5ff88a8e80b?utm_campaign=1056&utm_source=git)** | CITY OF CARSON, CA | On Site | Dec 26 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe48b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 26 |
-| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
-| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Dec 26 |
+| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Dec 26 |
+| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf84ee1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85044?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 26 |
@@ -131,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[QUNO Program Assistant](https://jobright.ai/jobs/info/6769ae629fd3a4d58f9ab7da?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[DC Water](https://dcwater.com/)** | **[Summer Intern, Fleet (25-FM-202000-026)](https://jobright.ai/jobs/info/67695e767698f9918a78207f?utm_campaign=1056&utm_source=git)** | 6020 Walker Mill Road, Capitol Heights, MD, 20743, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Community Engagement (25-OMAC-103000-064)](https://jobright.ai/jobs/info/67695e767698f9918a782094?utm_campaign=1056&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd13?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
-| ↳ | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Evidence Generation Framework](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e973?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
