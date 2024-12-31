@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b8fdd?utm_campaign=1056&utm_source=git)** | Livonia, MI | On Site | Dec 30 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (April Start)](https://jobright.ai/jobs/info/67732866ca0a140535d1408a?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 30 |
+| **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/6772f06f34b7b216e28aa3b8?utm_campaign=1056&utm_source=git)** | Livonia, Michigan | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 30 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Carbon Accounting and Reporting](https://jobright.ai/jobs/info/67727f543138b22384a62d3b?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 30 |
 | **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e42b?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 29 |
-| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/6771f3ba5bc70bc4acd63389?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Dec 29 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/67536b78ef8c5078f8c36c33?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 28 |
 | **[CSC](http://www.cscglobal.com)** | **[Sustainability and Philanthropy Intern](https://jobright.ai/jobs/info/67539e9ccb731d1d31c66878?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Dec 28 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 27 |
@@ -71,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[ADMINISTRATIVE INTERN II - PUBLIC WORKS (ENGINEERING DEPARTMENT)](https://jobright.ai/jobs/info/676dcdc04343a5ff88a8e80b?utm_campaign=1056&utm_source=git)** | CITY OF CARSON, CA | On Site | Dec 26 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe48b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 26 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, World Movement for Democracy (WMD) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9659?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
-| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
+| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Dec 26 |
-| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf84ee1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85044?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85045?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
@@ -96,14 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, U. S. Politics, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a876349?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Green Communities](https://jobright.ai/jobs/info/674e816ddf4487f801c55582?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Dec 24 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/676d20a453b34d06d962b7ac?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Dec 24 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/676a87fa6153c13b15eae59e?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 24 |
-| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/676d1c880bc58620b63b7e20?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 24 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/676d1c880bc58620b63b7e53?utm_campaign=1056&utm_source=git)** | Missouri, United States | On Site | Dec 24 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Development, Policy, and Impact (DPI) Intern](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bcd6d?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 24 |
-| **[The Bronx Defenders](https://www.bronxdefenders.org/)** | **[The Bronx Defenders 2025 Non-Legal Summer Internship Program](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bd073?utm_campaign=1056&utm_source=git)** | Bronx, NY | Hybrid | Dec 24 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Probation Division)](https://jobright.ai/jobs/info/676a72808c069691d13b8d03?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 24 |
-| **[NEOGOV](http://www.neogov.com)** | **[Paid Internship (Probation Division)](https://jobright.ai/jobs/info/676a58980e45a2926715d430?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Dec 23 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 23 |
-| **[City of Mountain View](http://mountainview.gov/)** | **[Community Development Intern (Planning)](https://jobright.ai/jobs/info/676b92fa3f8f98679347ec94?utm_campaign=1056&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
-| ↳ | **[Community Services Intern (Recreation)](https://jobright.ai/jobs/info/676b8b0be76c05c0353e78cb?utm_campaign=1056&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
