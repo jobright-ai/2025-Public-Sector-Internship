@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/6773d39617389810bd609c65?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/67736f6de6da3621645685f7?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
 | **[Larimer County](https://www.larimer.gov)** | **[Public Health Tobacco Intern (Temp)](https://jobright.ai/jobs/info/67736b07a9e96208d3806eb0?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec853?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 30 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf84ee1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85044?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 26 |
-| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85046?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85045?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
+| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85046?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Ørsted](https://orsted.com)** | **[Federal and Regulatory Affairs Intern](https://jobright.ai/jobs/info/676d62ccf2d56b1cb3c447cd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/676d25b0f386b40c594f59f7?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Dec 26 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Sustainability Contributor - 2025 Summer Intern](https://jobright.ai/jobs/info/67501b1f348326c5fde374fd?utm_campaign=1056&utm_source=git)** | Southlake, TX | On Site | Dec 25 |
@@ -96,8 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Channel Operations (Channel & Contract Management)](https://jobright.ai/jobs/info/676b6d267e0cc0461519d3a8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 24 |
 | **[Alzheimer's Association®](http://www.axon-neuroscience.eu)** | **[Paid Internship](https://jobright.ai/jobs/info/676b5748d187bc822f83afca?utm_campaign=1056&utm_source=git)** | Newton, MA | Hybrid | Dec 24 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Corp Social Responsibility](https://jobright.ai/jobs/info/676b42be912426fb585fc4bd?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
-| **[NEOGOV](http://www.neogov.com)** | **[Planning Intern (Part-time)](https://jobright.ai/jobs/info/676b2a25da022fdcf4a33510?utm_campaign=1056&utm_source=git)** | La Verne, CA | On Site | Dec 24 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[2025 Summer Planning Intern (9910)](https://jobright.ai/jobs/info/676b371debc281c9ef45bf50?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
-| **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy)](https://jobright.ai/jobs/info/676b19d2ac5b60455f590e96?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 24 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Public Affairs & Access: Channel Operations (Channel & Contract Management)](https://jobright.ai/jobs/info/676b0179d7fc7c0a2047a685?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
