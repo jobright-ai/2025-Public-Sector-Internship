@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Child and Family Health](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e777c?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 31 |
+| ↳ | **[Intern- MMC Philanthropy](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e777f?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 31 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[2025 Summer Planning Intern (9910)](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8912?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Intern](https://jobright.ai/jobs/info/67750c0e0375815823eb1748?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Police Operations](https://jobright.ai/jobs/info/6774ad182e2eadd17fefaf6f?utm_campaign=1056&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Capital Programming](https://jobright.ai/jobs/info/67748b6d9018378500b99825?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Dec 31 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Infection Prevention & Control Co-op](https://jobright.ai/jobs/info/6774797353f7e16ae306cc0c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 31 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec853?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 30 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734fb279f991294821a5d3?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Dec 30 |
 | **[NEOGOV](http://www.neogov.com)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734d5d063ac5c8fbcc911c?utm_campaign=1056&utm_source=git)** | MN 55901, MN | On Site | Dec 30 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90a4?utm_campaign=1056&utm_source=git)** | Livonia, MI | On Site | Dec 30 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b8fdd?utm_campaign=1056&utm_source=git)** | Livonia, MI | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (April Start)](https://jobright.ai/jobs/info/67732866ca0a140535d1408a?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 30 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 30 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Capital Improvement Program Delivery](https://jobright.ai/jobs/info/676b842c33bebf2b3ec1f147?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Dec 30 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Carbon Accounting and Reporting](https://jobright.ai/jobs/info/67727f543138b22384a62d3b?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 30 |
 | **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e42b?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 29 |
+| **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Dec 29 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/67536b78ef8c5078f8c36c33?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 28 |
 | **[CSC](http://www.cscglobal.com)** | **[Sustainability and Philanthropy Intern](https://jobright.ai/jobs/info/67539e9ccb731d1d31c66878?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Dec 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/677377fdc466b5f4ba0212ee?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
@@ -88,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[ADMINISTRATIVE INTERN II - PUBLIC WORKS (ENGINEERING DEPARTMENT)](https://jobright.ai/jobs/info/676dcdc04343a5ff88a8e80b?utm_campaign=1056&utm_source=git)** | CITY OF CARSON, CA | On Site | Dec 26 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe48b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 26 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, World Movement for Democracy (WMD) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9659?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
-| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
+| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Dec 26 |
-| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf84ee1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85044?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85045?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
@@ -99,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/676d25b0f386b40c594f59f7?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Dec 26 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Sustainability Contributor - 2025 Summer Intern](https://jobright.ai/jobs/info/67501b1f348326c5fde374fd?utm_campaign=1056&utm_source=git)** | Southlake, TX | On Site | Dec 25 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment Investments](https://jobright.ai/jobs/info/676c6350b1ad68779e77dd9d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 25 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
