@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Health Association](https://www.apha.org)** | **[Alliance for the Public's Health Internship: 2025 summer term (June 1 - August 15)](https://jobright.ai/jobs/info/6776eba6eac469213f0da274?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
+| ↳ | **[Environmental Health Internship: 2025 summer term (June 1 - August 15)](https://jobright.ai/jobs/info/6776eba6eac469213f0da24e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM 2025 Summer Internship - Office of Procurement Planning and Strategic Sourcing](https://jobright.ai/jobs/info/6776de7170457cad93c01ea5?utm_campaign=1056&utm_source=git)** | 72 Marietta St, Atlanta, GA, 30303, US | On Site | Jan 02 |
+| **[NEOGOV](http://www.neogov.com)** | **[Internship - WA State Parks (DOD Skillbridge) Multiple Locations](https://jobright.ai/jobs/info/6776c45e68c46eab19ee8339?utm_campaign=1056&utm_source=git)** | Multiple Locations Statewide, WA | On Site | Jan 02 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs and Public Policy Intern](https://jobright.ai/jobs/info/67768872e645b1ecb01bcf14?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Jan 02 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780e?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Jan 02 |
 | ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d48bbbe71cdac6afdc7fc?utm_campaign=1056&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Jan 02 |
@@ -92,12 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec853?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 30 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734fb279f991294821a5d3?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Dec 30 |
 | **[NEOGOV](http://www.neogov.com)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734d5d063ac5c8fbcc911c?utm_campaign=1056&utm_source=git)** | MN 55901, MN | On Site | Dec 30 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b90a4?utm_campaign=1056&utm_source=git)** | Livonia, MI | On Site | Dec 30 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b8fdd?utm_campaign=1056&utm_source=git)** | Livonia, MI | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (April Start)](https://jobright.ai/jobs/info/67732866ca0a140535d1408a?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 30 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/6752df25d14db6fef54e13ba?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 30 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/6772f06f34b7b216e28aa3b8?utm_campaign=1056&utm_source=git)** | Livonia, Michigan | On Site | Dec 30 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/6772f06f34b7b216e28aa3cb?utm_campaign=1056&utm_source=git)** | Livonia, Michigan | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 30 |
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Capital Improvement Program Delivery](https://jobright.ai/jobs/info/676b842c33bebf2b3ec1f147?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Dec 30 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Carbon Accounting and Reporting](https://jobright.ai/jobs/info/67727f543138b22384a62d3b?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 30 |
