@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs and Public Policy Intern](https://jobright.ai/jobs/info/67768872e645b1ecb01bcf14?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Jan 02 |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780e?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Jan 02 |
+| ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d48bbbe71cdac6afdc7fc?utm_campaign=1056&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Jan 02 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Spring 2025)](https://jobright.ai/jobs/info/6776608b2df4df63a844214b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
+| ↳ | **[Intern - Korea Chair (Spring 2025)](https://jobright.ai/jobs/info/6776608b2df4df63a8442142?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/67764d97c24201392141cde8?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Jan 01 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 01 |
 | ↳ | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67765753449d940da7ecf2ad?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Jan 01 |
@@ -103,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/677377fdc466b5f4ba0212ee?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Airport Parking Policy & Strategy](https://jobright.ai/jobs/info/676f25da493a3554a1a1a5f8?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d9fa01d9804af3762d2fc?utm_campaign=1056&utm_source=git)** | New Castle, PA | Hybrid | Dec 27 |
-| **[NEOGOV](http://www.neogov.com)** | **[ADMINISTRATIVE INTERN II - PUBLIC WORKS (ENGINEERING DEPARTMENT)](https://jobright.ai/jobs/info/676dcdc04343a5ff88a8e80b?utm_campaign=1056&utm_source=git)** | CITY OF CARSON, CA | On Site | Dec 26 |
-| **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe48b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
