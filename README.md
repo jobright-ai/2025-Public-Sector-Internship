@@ -68,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[2025 Summer Planning Intern (9910)](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8912?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Intern](https://jobright.ai/jobs/info/67750c0e0375815823eb1748?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
 | ↳ | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/6775438841580597eeeaa41a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 31 |
+| ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Dec 31 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Police Operations](https://jobright.ai/jobs/info/6774ad182e2eadd17fefaf6f?utm_campaign=1056&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Capital Programming](https://jobright.ai/jobs/info/67748b6d9018378500b99825?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Dec 31 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Infection Prevention & Control Co-op](https://jobright.ai/jobs/info/6774797353f7e16ae306cc0c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 31 |
@@ -99,13 +101,12 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[ADMINISTRATIVE INTERN II - PUBLIC WORKS (ENGINEERING DEPARTMENT)](https://jobright.ai/jobs/info/676dcdc04343a5ff88a8e80b?utm_campaign=1056&utm_source=git)** | CITY OF CARSON, CA | On Site | Dec 26 |
 | **[State of Michigan](http://www.michigan.gov)** | **[FOA-Outstate Internship (Regions 1-8)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe48b?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Dec 26 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Intern, World Movement for Democracy (WMD) / Spring 2025](https://jobright.ai/jobs/info/66d8e71f4a471adf397a9659?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
-| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
+| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Dec 26 |
-| ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d92?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf84ee1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85044?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85046?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | ↳ | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85045?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Ørsted](https://orsted.com)** | **[Federal and Regulatory Affairs Intern](https://jobright.ai/jobs/info/676d62ccf2d56b1cb3c447cd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/676d25b0f386b40c594f59f7?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
