@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a278?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Jan 03 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Zoning and Equity Analyst Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24dd2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Jan 03 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/67526e8edb3d654f90de8e89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
+| **[AbbVie](https://www.abbvie.com)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/66f5b00844a75740dd09a7a6?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 03 |
+| **[ROCK](http://www.rockventures.com/)** | **[Strategy & Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/675cf89555340aa4bfaa42b6?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Safety Trainee Intern](https://jobright.ai/jobs/info/6777a53e4667b0ef2a9bd04d?utm_campaign=1056&utm_source=git)** | Arvada, CO | On Site | Jan 03 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/677761634a6cc4c57cc5484e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Jan 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[SkillBridge Intern - Sheriff's Office (Civil Service)](https://jobright.ai/jobs/info/677723def588a79848710d96?utm_campaign=1056&utm_source=git)** | WA 99260, WA | On Site | Jan 02 |
@@ -94,8 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern- Child and Family Health](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e777c?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | ↳ | **[Intern- MMC Philanthropy](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e777f?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[2025 Summer Planning Intern (9910)](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8912?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Intern](https://jobright.ai/jobs/info/67750c0e0375815823eb1748?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
-| ↳ | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/6775438841580597eeeaa41a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/6775438841580597eeeaa41a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 31 |
 | ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Dec 31 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Police Operations](https://jobright.ai/jobs/info/6774ad182e2eadd17fefaf6f?utm_campaign=1056&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec853?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 30 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734fb279f991294821a5d3?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Dec 30 |
 | **[NEOGOV](http://www.neogov.com)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734d5d063ac5c8fbcc911c?utm_campaign=1056&utm_source=git)** | MN 55901, MN | On Site | Dec 30 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Community Health and Well-Being Intern](https://jobright.ai/jobs/info/67733031748cb5b3c00b8fdd?utm_campaign=1056&utm_source=git)** | Livonia, MI | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (April Start)](https://jobright.ai/jobs/info/67732866ca0a140535d1408a?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 30 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 30 |
