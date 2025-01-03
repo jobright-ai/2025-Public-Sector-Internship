@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Jan 03 |
+| **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Jan 03 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Jan 03 |
+| **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/67526e8edb3d654f90de8e89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Safety Trainee Intern](https://jobright.ai/jobs/info/6777a53e4667b0ef2a9bd04d?utm_campaign=1056&utm_source=git)** | Arvada, CO | On Site | Jan 03 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/677761634a6cc4c57cc5484e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Jan 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[SkillBridge Intern - Sheriff's Office (Civil Service)](https://jobright.ai/jobs/info/677723def588a79848710d96?utm_campaign=1056&utm_source=git)** | WA 99260, WA | On Site | Jan 02 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs and Public Policy Intern](https://jobright.ai/jobs/info/67768872e645b1ecb01bcf14?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Jan 02 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780e?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Jan 02 |
 | ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d48bbbe71cdac6afdc7fc?utm_campaign=1056&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Jan 02 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Korea Chair (Spring 2025)](https://jobright.ai/jobs/info/6776608b2df4df63a8442142?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/67764d97c24201392141cde8?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Jan 01 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 01 |
 | ↳ | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67765753449d940da7ecf2ad?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Hybrid | Jan 01 |
@@ -121,6 +124,4 @@ For a complete list, click the following sortable link below:
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/67536b78ef8c5078f8c36c33?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 28 |
 | **[CSC](http://www.cscglobal.com)** | **[Sustainability and Philanthropy Intern](https://jobright.ai/jobs/info/67539e9ccb731d1d31c66878?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Dec 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/677377fdc466b5f4ba0212ee?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
-| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Airport Parking Policy & Strategy](https://jobright.ai/jobs/info/676f25da493a3554a1a1a5f8?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
-| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d9fa01d9804af3762d2fc?utm_campaign=1056&utm_source=git)** | New Castle, PA | Hybrid | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
