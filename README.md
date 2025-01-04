@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Advancement - Foundation and Government Relations Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fef?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Graduate Level Marriage & Family Therapist Internship Cuy/Lorain/Medina](https://jobright.ai/jobs/info/67789062e7cb536b0e808e10?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
 | **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Pride Network](https://jobright.ai/jobs/info/67786412f6e06f35675dd9d7?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | ↳ | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Women’s Network](https://jobright.ai/jobs/info/677857d66704e8b73fd82fc9?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[ROCK](http://www.rockventures.com/)** | **[Strategy & Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/675cf89555340aa4bfaa42b6?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Safety Trainee Intern](https://jobright.ai/jobs/info/6777a53e4667b0ef2a9bd04d?utm_campaign=1056&utm_source=git)** | Arvada, CO | On Site | Jan 03 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/677761634a6cc4c57cc5484e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Jan 02 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern](https://jobright.ai/jobs/info/67006a34b8e7f755a57ec02f?utm_campaign=1056&utm_source=git)** | Huntington, VT | On Site | Jan 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[SkillBridge Intern - Sheriff's Office (Civil Service)](https://jobright.ai/jobs/info/677723def588a79848710d96?utm_campaign=1056&utm_source=git)** | WA 99260, WA | On Site | Jan 02 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/6777107495553ca6cb79c6c8?utm_campaign=1056&utm_source=git)** | FL - Gainesville | Hybrid | Jan 02 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM 2025 Summer Internship - Office of Procurement Planning and Strategic Sourcing](https://jobright.ai/jobs/info/67777dae56aa27802ba28627?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 02 |
