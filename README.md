@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d00b97c5f32213ca1d6a4?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Jan 04 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/677919eca6ea1cc98a9b86cb?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Jan 04 |
+| ↳ | **[2025 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/677919eca6ea1cc98a9b86cc?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 04 |
+| **[Westat](https://www.westat.com)** | **[Public Health Intern - Community Engagement](https://jobright.ai/jobs/info/677919ce18e9130dab363704?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Jan 04 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6779130ed0c6c9dce87d2804?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Jan 04 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6778f31e5678e7757de0702e?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 04 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Managed Care Contracts (Channel & Contract Management)](https://jobright.ai/jobs/info/6778f4528d060ff8ccb91be8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 04 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Community Health Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066ab7?utm_campaign=1056&utm_source=git)** | 330 S. Service Road, Melville, NY, 11747, US | On Site | Jan 03 |
 | ↳ | **[Telehealth Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066abf?utm_campaign=1056&utm_source=git)** | 221 Jericho Tpke, Syosset, NY, 11791, US | On Site | Jan 03 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Crowell Global Advisors Research Associate (Intern)](https://jobright.ai/jobs/info/6757094a4ac60ffdb53e232f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 03 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/677833fde0c0c00b52350237?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 03 |
 | **[SmartBank](https://www.smartbank.com/)** | **[2025 Summer Intern- Community Development](https://jobright.ai/jobs/info/677869016a7d456659791e96?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Jan 03 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b69405?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Jan 03 |
@@ -84,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9708?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 03 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Zoning and Equity Analyst Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24dd2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Jan 03 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Atlanta– Campus 2025](https://jobright.ai/jobs/info/673f19df015b541496fa3196?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Jan 03 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/67526e8edb3d654f90de8e89?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/66f5b00844a75740dd09a7a6?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 03 |
@@ -107,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Internship - WA State Parks (DOD Skillbridge) Multiple Locations](https://jobright.ai/jobs/info/6776c45e68c46eab19ee8339?utm_campaign=1056&utm_source=git)** | Multiple Locations Statewide, WA | On Site | Jan 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/6777946d20dab98d3e8e0fde?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 02 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs and Public Policy Intern](https://jobright.ai/jobs/info/67768872e645b1ecb01bcf14?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Jan 02 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Green Communities](https://jobright.ai/jobs/info/674e7517e7cf1ef86ee53643?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jan 02 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780e?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Jan 02 |
 | ↳ | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d48bbbe71cdac6afdc7fc?utm_campaign=1056&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Jan 02 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/67764d97c24201392141cde8?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Jan 01 |
