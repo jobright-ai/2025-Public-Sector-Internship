@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/677979018175d18171e9cdf9?utm_campaign=1056&utm_source=git)** | Bronx Zoo | On Site | Jan 04 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[GOVERNANCE & INNOVATION ADMINISTRATION INTERN](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f366?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 04 |
+| **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/677965248a79c150bb849fa2?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 04 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Green Communities](https://jobright.ai/jobs/info/674e7517e7cf1ef86ee53640?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d00b97c5f32213ca1d6a4?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Jan 04 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Green Communities](https://jobright.ai/jobs/info/674e816ddf4487f801c55583?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 04 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/677919eca6ea1cc98a9b86cb?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Jan 04 |
 | ↳ | **[2025 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/677919eca6ea1cc98a9b86cc?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 04 |
 | **[Westat](https://www.westat.com)** | **[Public Health Intern - Community Engagement](https://jobright.ai/jobs/info/677919ce18e9130dab363704?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Jan 04 |
