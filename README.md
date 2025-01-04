@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6778f31e5678e7757de0702e?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 04 |
+| **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Managed Care Contracts (Channel & Contract Management)](https://jobright.ai/jobs/info/6778f4528d060ff8ccb91be8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 04 |
+| **[Westat](https://www.westat.com)** | **[Public Health Intern - Community Engagement](https://jobright.ai/jobs/info/6778d26829546c4639c40d06?utm_campaign=1056&utm_source=git)** | MD - Rockville | Hybrid | Jan 03 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Global Policy Analyst, International Engagement & Strategy - IF](https://jobright.ai/jobs/info/6778c0c7ac646737b4138a9a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 03 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Advancement - Foundation and Government Relations Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fef?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Graduate Level Marriage & Family Therapist Internship Cuy/Lorain/Medina](https://jobright.ai/jobs/info/67789062e7cb536b0e808e10?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
+| **[The Heritage Foundation](http://www.heritage.org/)** | **[Summer Internship](https://jobright.ai/jobs/info/675741c1bf8b03ade04d1436?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Jan 03 |
 | **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Pride Network](https://jobright.ai/jobs/info/67786412f6e06f35675dd9d7?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | ↳ | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Women’s Network](https://jobright.ai/jobs/info/677857d66704e8b73fd82fc9?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, European Public Policy](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc42a?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 03 |
@@ -74,6 +79,8 @@ For a complete list, click the following sortable link below:
 | **[SmartBank](https://www.smartbank.com/)** | **[2025 Summer Intern- Community Development](https://jobright.ai/jobs/info/677869016a7d456659791e96?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Jan 03 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b69405?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Jan 03 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jan 03 |
+| **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9708?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 03 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Zoning and Equity Analyst Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24dd2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7a?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Jan 03 |
@@ -81,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/66f5b00844a75740dd09a7a6?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 03 |
 | **[ROCK](http://www.rockventures.com/)** | **[Strategy & Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/675cf89555340aa4bfaa42b6?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Public Safety Trainee Intern](https://jobright.ai/jobs/info/6777a53e4667b0ef2a9bd04d?utm_campaign=1056&utm_source=git)** | Arvada, CO | On Site | Jan 03 |
+| **[Husch Blackwell](http://www.huschblackwell.com/)** | **[LCLD 1L Diversity Summer Associate - American Water](https://jobright.ai/jobs/info/6778d3eb76db586e8bf0d226?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jan 02 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/677761634a6cc4c57cc5484e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Jan 02 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Policy Intern](https://jobright.ai/jobs/info/67006a34b8e7f755a57ec02f?utm_campaign=1056&utm_source=git)** | Huntington, VT | On Site | Jan 02 |
 | **[NEOGOV](http://www.neogov.com)** | **[SkillBridge Intern - Sheriff's Office (Civil Service)](https://jobright.ai/jobs/info/677723def588a79848710d96?utm_campaign=1056&utm_source=git)** | WA 99260, WA | On Site | Jan 02 |
@@ -138,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Carbon Accounting and Reporting](https://jobright.ai/jobs/info/67727f543138b22384a62d3b?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 30 |
 | **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e42b?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 29 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Dec 29 |
-| **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/67536b78ef8c5078f8c36c33?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
