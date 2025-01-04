@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Graduate Level Marriage & Family Therapist Internship Cuy/Lorain/Medina](https://jobright.ai/jobs/info/67789062e7cb536b0e808e10?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
 | **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Pride Network](https://jobright.ai/jobs/info/67786412f6e06f35675dd9d7?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | ↳ | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Women’s Network](https://jobright.ai/jobs/info/677857d66704e8b73fd82fc9?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, European Public Policy](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc42a?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 03 |
@@ -68,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Community Health Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066ab7?utm_campaign=1056&utm_source=git)** | 330 S. Service Road, Melville, NY, 11747, US | On Site | Jan 03 |
 | ↳ | **[Telehealth Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066abf?utm_campaign=1056&utm_source=git)** | 221 Jericho Tpke, Syosset, NY, 11791, US | On Site | Jan 03 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Crowell Global Advisors Research Associate (Intern)](https://jobright.ai/jobs/info/6757094a4ac60ffdb53e232f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 03 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/677833fde0c0c00b52350237?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 03 |
 | **[SmartBank](https://www.smartbank.com/)** | **[2025 Summer Intern- Community Development](https://jobright.ai/jobs/info/677869016a7d456659791e96?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Jan 03 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b69405?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Jan 03 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[BPS Government Acct Intern](https://jobright.ai/jobs/info/677831184ffdd24b1ee8a278?utm_campaign=1056&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jan 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/6752c5e2b232437059babe0c?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Jan 03 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Zoning and Equity Analyst Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24dd2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset County, NJ | On Site | Jan 03 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson Engineers](http://pape-dawson.com)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e42b?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Dec 29 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Dec 29 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/67536b78ef8c5078f8c36c33?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 28 |
-| **[CSC](http://www.cscglobal.com)** | **[Sustainability and Philanthropy Intern](https://jobright.ai/jobs/info/67539e9ccb731d1d31c66878?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
