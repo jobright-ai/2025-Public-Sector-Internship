@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6779130ed0c6c9dce87d2804?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Jan 04 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6778f31e5678e7757de0702e?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 04 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Public Affairs & Access: Managed Care Contracts (Channel & Contract Management)](https://jobright.ai/jobs/info/6778f4528d060ff8ccb91be8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 04 |
 | **[Westat](https://www.westat.com)** | **[Public Health Intern - Community Engagement](https://jobright.ai/jobs/info/6778d26829546c4639c40d06?utm_campaign=1056&utm_source=git)** | MD - Rockville | Hybrid | Jan 03 |
