@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Management Associates](https://www.healthmanagement.com/)** | **[Fellow - Spring 2025](https://jobright.ai/jobs/info/6779d399ede449ee0ec4806c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/6779a55e94ec1973bf7199ab?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 04 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6779a02cd169a91386993590?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/677979018175d18171e9cdf9?utm_campaign=1056&utm_source=git)** | Bronx Zoo | On Site | Jan 04 |
-| **[Arizona Department of Economic Security](https://des.az.gov)** | **[GOVERNANCE & INNOVATION ADMINISTRATION INTERN](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f366?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 04 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[GOVERNANCE & INNOVATION ADMINISTRATION INTERN](https://jobright.ai/jobs/info/677965248a79c150bb849f53?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/677965248a79c150bb849fa2?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Green Communities](https://jobright.ai/jobs/info/674e7517e7cf1ef86ee53640?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d00b97c5f32213ca1d6a4?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/6752df25d14db6fef54e13ba?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 30 |
 | ↳ | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 30 |
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Capital Improvement Program Delivery](https://jobright.ai/jobs/info/676b842c33bebf2b3ec1f147?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Dec 30 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Sustainability Carbon Accounting and Reporting](https://jobright.ai/jobs/info/67727f543138b22384a62d3b?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
