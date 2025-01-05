@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Policy Processor Intern](https://jobright.ai/jobs/info/677592ec53abd776061fc541?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Jan 01 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67752d5ea5ea532f51207ffe?utm_campaign=1056&utm_source=git)** | Remote - North Carolina | Remote | Jan 01 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Citizens Planning Institute (CPI) Intern](https://jobright.ai/jobs/info/675928fbb2edf5132bc24d15?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 01 |
+| **[GRUNDFOS](https://www.grundfos.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/675bb7c79532a78189b74e2c?utm_campaign=1056&utm_source=git)** | Lenexa, KS | On Site | Jan 01 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Regional Affairs Intern](https://jobright.ai/jobs/info/67415952f1197db4b1c355fd?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jan 01 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67752cea248b5fcad08c0660?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 31 |
 | ↳ | **[County Engagement Intern](https://jobright.ai/jobs/info/67753daa51d8725f2c719f8d?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/6752df25d14db6fef54e13ba?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 30 |
 | ↳ | **[2025 SAMI Intern - Geopolitical Research](https://jobright.ai/jobs/info/673f3e1294a51395e0609a7a?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 30 |
-| **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Capital Improvement Program Delivery](https://jobright.ai/jobs/info/676b842c33bebf2b3ec1f147?utm_campaign=1056&utm_source=git)** | Gwinnett County, GA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
