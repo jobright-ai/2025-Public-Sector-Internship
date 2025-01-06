@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Community Health Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066ab7?utm_campaign=1056&utm_source=git)** | 330 S. Service Road, Melville, NY, 11747, US | On Site | Jan 03 |
 | ↳ | **[Telehealth Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066abf?utm_campaign=1056&utm_source=git)** | 221 Jericho Tpke, Syosset, NY, 11791, US | On Site | Jan 03 |
 | **[Crowell & Moring](http://www.crowell.com)** | **[Crowell Global Advisors Research Associate (Intern)](https://jobright.ai/jobs/info/6757094a4ac60ffdb53e232f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 03 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a738b?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Jan 03 |
 | **[SmartBank](https://www.smartbank.com/)** | **[2025 Summer Intern- Community Development](https://jobright.ai/jobs/info/677869016a7d456659791e96?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Jan 03 |
 | **[SBP](https://sbpusa.org/)** | **[Disaster Recovery AmeriCorps Program - Santa Cruz County, CA](https://jobright.ai/jobs/info/67783e1ed3b2b871c7b69405?utm_campaign=1056&utm_source=git)** | Santa Cruz, CA | On Site | Jan 03 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675afad781754aa1ffb08502?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (April Start)](https://jobright.ai/jobs/info/67732866ca0a140535d1408a?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 30 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 30 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Government Relations Specialist](https://jobright.ai/jobs/info/6752df25d14db6fef54e13ba?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
