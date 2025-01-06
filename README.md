@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abt Global](http://www.abtassociates.com)** | **[Energy & Environment Global Development Intern](https://jobright.ai/jobs/info/677c02bbfd3ed66bb7527baa?utm_campaign=1056&utm_source=git)** | Rockville, MD, United States | On Site | Jan 06 |
+| **[ASTM International](http://www.astm.org)** | **[Intern, U.S Public Policy](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc428?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jan 06 |
+| **[NEOGOV](http://www.neogov.com)** | **[Internship with the Office of Violence Prevention (Summer 2025)](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46d1?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 06 |
+| ↳ | **[Intern - GRADUATE Research Assistant (Law Enforcement Best Practices) -Summer 2025](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a467d?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Jan 06 |
+| ↳ | **[Intern for Public Affairs Office (North Carolina National Guard)](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a469f?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 06 |
+| ↳ | **[Environmental Justice Project Intern (Summer 2025)](https://jobright.ai/jobs/info/677bdeb5f0ba93958b7c778d?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 06 |
+| **[Texas Instruments](http://www.ti.com)** | **[Communications Intern - Government Relations](https://jobright.ai/jobs/info/677c1ae065ad9f57e441d6f4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 06 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jan 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Jan 06 |
 | **[TD](https://www.td.com)** | **[Governance and Control Intern/Co-op (Summer 2025)](https://jobright.ai/jobs/info/677baedaea11c696d822d94b?utm_campaign=1056&utm_source=git)** | Greater Morgantown Area | Hybrid | Jan 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Minority and Small Business Affairs Summer Intern (12501001)](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c23?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 05 |
@@ -64,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/677b8b81ca8d678bc1d720d6?utm_campaign=1056&utm_source=git)** | Princeville, IL | On Site | Jan 05 |
 | ↳ | **[Agricultural Field Representative Intern  2025](https://jobright.ai/jobs/info/677b8b81ca8d678bc1d720d4?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 05 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Global Health Economics and Outcomes Research](https://jobright.ai/jobs/info/677b3e42c224693d687b940a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Jan 05 |
+| **[Gannon University](http://www.gannon.edu/)** | **[Erie City Mission - Public Meal Prog Asst](https://jobright.ai/jobs/info/677c2359c099f7db272b8415?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Jan 05 |
 | **[Health Management Associates](https://www.healthmanagement.com/)** | **[Fellow - Spring 2025](https://jobright.ai/jobs/info/6779d399ede449ee0ec4806c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/6779a55e94ec1973bf7199ab?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 04 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6779a02cd169a91386993590?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 04 |
@@ -88,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[PJT Partners](https://www.pjtpartners.com/)** | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Pride Network](https://jobright.ai/jobs/info/67786412f6e06f35675dd9d7?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | ↳ | **[2026 Summer Analyst Program - Virtual Information Session hosted by the PJT Partners Women’s Network](https://jobright.ai/jobs/info/677857d66704e8b73fd82fc9?utm_campaign=1056&utm_source=git)** | New York | On Site | Jan 03 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, European Public Policy](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc42a?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 03 |
-| ↳ | **[Intern, U.S Public Policy](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc428?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2025](https://jobright.ai/jobs/info/67786d85c046903f1cb2e51b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Planning Intern / Management Analyst (Part-Time)](https://jobright.ai/jobs/info/67784ee79f637be887dacbd2?utm_campaign=1056&utm_source=git)** | Public Services Building; 1150 Half Day Rd.; Highland Park, IL | On Site | Jan 03 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Community Health Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066ab7?utm_campaign=1056&utm_source=git)** | 330 S. Service Road, Melville, NY, 11747, US | On Site | Jan 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673fb8ca213bde3fc3de6669?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 31 |
 | ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/67401b0d3e2e7fa6599d7211?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Dec 31 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Police Operations](https://jobright.ai/jobs/info/6774ad182e2eadd17fefaf6f?utm_campaign=1056&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Capital Programming](https://jobright.ai/jobs/info/67748b6d9018378500b99825?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Dec 31 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Infection Prevention & Control Co-op](https://jobright.ai/jobs/info/6774797353f7e16ae306cc0c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 31 |
-| **[NEOGOV](http://www.neogov.com)** | **[Limited Commissioned Ranger – Stagecoach State Park (housing and internship credit available)](https://jobright.ai/jobs/info/67746607db34dd5b225c54ad?utm_campaign=1056&utm_source=git)** | Routt County, CO | On Site | Dec 31 |
-| ↳ | **[Office of Highway Safety & Justice Programs Spring Internship (61027509)](https://jobright.ai/jobs/info/677449257536526db13de5a6?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Dec 31 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/6773d39617389810bd609c65?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 31 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/67638ff52f9807998a44a355?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Dec 31 |
-| **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/66e8f395ea4336e48b981b0e?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Dec 30 |
-| **[Larimer County](https://www.larimer.gov)** | **[Public Health Tobacco Intern (Temp)](https://jobright.ai/jobs/info/67736b07a9e96208d3806eb0?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
