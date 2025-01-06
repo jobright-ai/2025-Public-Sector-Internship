@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Jan 06 |
+| **[TD](https://www.td.com)** | **[Governance and Control Intern/Co-op (Summer 2025)](https://jobright.ai/jobs/info/677baedaea11c696d822d94b?utm_campaign=1056&utm_source=git)** | Greater Morgantown Area | Hybrid | Jan 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Minority and Small Business Affairs Summer Intern (12501001)](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c23?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 05 |
 | ↳ | **[Sheriff’s Office Intern](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c1a?utm_campaign=1056&utm_source=git)** | Pittsboro, NC | On Site | Jan 05 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/677b8b81ca8d678bc1d720d6?utm_campaign=1056&utm_source=git)** | Princeville, IL | On Site | Jan 05 |
@@ -66,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/6779a55e94ec1973bf7199ab?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 04 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6779a02cd169a91386993590?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/677979018175d18171e9cdf9?utm_campaign=1056&utm_source=git)** | Bronx Zoo | On Site | Jan 04 |
-| **[Arizona Department of Economic Security](https://des.az.gov)** | **[GOVERNANCE & INNOVATION ADMINISTRATION INTERN](https://jobright.ai/jobs/info/677977e8d78c6ca9a0c0f366?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 04 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[GOVERNANCE & INNOVATION ADMINISTRATION INTERN](https://jobright.ai/jobs/info/677965248a79c150bb849f53?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/677965248a79c150bb849fa2?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 04 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Green Communities](https://jobright.ai/jobs/info/674e7517e7cf1ef86ee53640?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/675d00b97c5f32213ca1d6a4?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Jan 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Affairs, Orthopedics](https://jobright.ai/jobs/info/67638ff52f9807998a44a355?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Dec 31 |
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/66e8f395ea4336e48b981b0e?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Dec 30 |
 | **[Larimer County](https://www.larimer.gov)** | **[Public Health Tobacco Intern (Temp)](https://jobright.ai/jobs/info/67736b07a9e96208d3806eb0?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
-| **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec853?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 30 |
-| **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734fb279f991294821a5d3?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
