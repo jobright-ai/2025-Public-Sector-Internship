@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[Minority and Small Business Affairs Summer Intern (12501001)](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c23?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 05 |
+| ↳ | **[Sheriff’s Office Intern](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c1a?utm_campaign=1056&utm_source=git)** | Pittsboro, NC | On Site | Jan 05 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/677b8b81ca8d678bc1d720d6?utm_campaign=1056&utm_source=git)** | Princeville, IL | On Site | Jan 05 |
+| ↳ | **[Agricultural Field Representative Intern  2025](https://jobright.ai/jobs/info/677b8b81ca8d678bc1d720d4?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 05 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Global Health Economics and Outcomes Research](https://jobright.ai/jobs/info/677b3e42c224693d687b940a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Jan 05 |
 | **[Health Management Associates](https://www.healthmanagement.com/)** | **[Fellow - Spring 2025](https://jobright.ai/jobs/info/6779d399ede449ee0ec4806c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/6779a55e94ec1973bf7199ab?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Larimer County](https://www.larimer.gov)** | **[Public Health Tobacco Intern (Temp)](https://jobright.ai/jobs/info/67736b07a9e96208d3806eb0?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
 | **[Winthrop & Weinstine, P.A.](https://www.winthrop.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/677354e15886aece8d3ec853?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 30 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734fb279f991294821a5d3?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Dec 30 |
-| **[NEOGOV](http://www.neogov.com)** | **[Police Intern - Summer of 2025](https://jobright.ai/jobs/info/67734d5d063ac5c8fbcc911c?utm_campaign=1056&utm_source=git)** | MN 55901, MN | On Site | Dec 30 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern (April Start)](https://jobright.ai/jobs/info/67732866ca0a140535d1408a?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 30 |
-| **[The Joint Commission](http://www.jointcommission.org)** | **[Director Healthcare Equity SME- International](https://jobright.ai/jobs/info/66e4b3f2645cf8c6bcf3f5d1?utm_campaign=1056&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 30 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4948?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
