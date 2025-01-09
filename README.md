@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Public Policy](https://jobright.ai/jobs/info/677f02179fcf69ed6bd05ea3?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Jan 08 |
+| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/677ef09356391bb9d0394d9a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/677ef9d4e0336989ef57df71?utm_campaign=1056&utm_source=git)** | North Port-Sarasota Area | On Site | Jan 08 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dd9e?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Jan 08 |
+| ↳ | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dd94?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Jan 08 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/677ef572623457157217fed4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 08 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/677ee7f310b9f32b4e4f0c4a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 08 |
 | **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern (Public Policy and Regulation Group)](https://jobright.ai/jobs/info/677ed29e4ba0db0fe0fcd4db?utm_campaign=1056&utm_source=git)** | Atlanta | On Site | Jan 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Public Policy](https://jobright.ai/jobs/info/677ecc5b3fb27c2abea905f8?utm_campaign=1056&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Jan 08 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/677ed31123a6c81cfa00f21a?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Jan 08 |
@@ -65,10 +72,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Government Pricing, Contracts & Operations](https://jobright.ai/jobs/info/677ebefa347e1ce446878b91?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Jan 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/677ead51cde6280804cf96d1?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Jan 08 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/677e97d481cebc64b6ab8e2f?utm_campaign=1056&utm_source=git)** | DC02-01-Washington DC-1100 New York Ave NW | On Site | Jan 08 |
-| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677e0f09860a506686729ca0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
-| ↳ | **[Temporary Policy Research Analyst Intern](https://jobright.ai/jobs/info/677e0f09860a506686729bef?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Analyst Intern](https://jobright.ai/jobs/info/677e0f09860a506686729bef?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| ↳ | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677e0f09860a506686729ca0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/677e05c3549d220f3a284c0d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/677df54e1179565f54d497fe?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
+| **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Summer Internship (Multiple Positions)](https://jobright.ai/jobs/info/677ef74a1986e24162bc05ac?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jan 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Programs Intern](https://jobright.ai/jobs/info/677dbb732e4652bc92633583?utm_campaign=1056&utm_source=git)** | VA  22030, VA | On Site | Jan 07 |
 | **[American Chemical Society](https://www.acs.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/677daccaa3d017a7d8bd3d9d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/677dde0513b7d89e1ee35163?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 07 |
@@ -95,13 +103,12 @@ For a complete list, click the following sortable link below:
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/67485c90abef33f64cf2da31?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 07 |
 | ↳ | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f45116c727bfb3a197424?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | **[Atlantic Health System](http://www.atlantichealth.org)** | **[Emergency Managment Summer Intern](https://jobright.ai/jobs/info/67577966070e32baa167f8b9?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Jan 07 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6751655fbce97eca70aba3cc?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 07 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship Program - GREW Sustainability Intern, Princeton, NJ](https://jobright.ai/jobs/info/6760aab37c7914b16e24c6d4?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jan 07 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media 2025 Spring Internship (Part-Time) - Chicago](https://jobright.ai/jobs/info/674f99a6e13051b248680ee9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/677d167ab7438dd6b059e507?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Remote | Jan 07 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Legislative Federal Policy Intern](https://jobright.ai/jobs/info/677d023e44657bcaf18b9552?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
-| ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/677d023e44657bcaf18b953b?utm_campaign=1056&utm_source=git)** | North Port-Sarasota Area | On Site | Jan 07 |
 | ↳ | **[Federal Policy Intern](https://jobright.ai/jobs/info/677d023e44657bcaf18b9553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 07 |
+| ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/677d023e44657bcaf18b953b?utm_campaign=1056&utm_source=git)** | North Port-Sarasota Area | On Site | Jan 07 |
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd4de1?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Jan 06 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67752cea248b5fcad08c0660?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 06 |
 | **[American Public Health Association](https://www.apha.org)** | **[Affiliate Affairs & National Public Health Week Internship: 2025 summer term (June 1 - August 15)](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd4dcc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jan 06 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f3ec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/6724f66fbcfdc4ae812179f4?utm_campaign=1056&utm_source=git)** | Redmond, WA | Hybrid | Jan 06 |
-| **[TD](https://www.td.com)** | **[Governance and Control Intern/Co-op (Summer 2025)](https://jobright.ai/jobs/info/677baedaea11c696d822d94b?utm_campaign=1056&utm_source=git)** | Greater Morgantown Area | Hybrid | Jan 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[Minority and Small Business Affairs Summer Intern (12501001)](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c23?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 05 |
-| ↳ | **[Sheriff’s Office Intern](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c1a?utm_campaign=1056&utm_source=git)** | Pittsboro, NC | On Site | Jan 05 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Global Health Economics and Outcomes Research](https://jobright.ai/jobs/info/677b3e42c224693d687b940a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Jan 05 |
-| **[Health Management Associates](https://www.healthmanagement.com/)** | **[Fellow - Spring 2025](https://jobright.ai/jobs/info/6779d399ede449ee0ec4806c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Campaigns Intern](https://jobright.ai/jobs/info/6779a55e94ec1973bf7199ab?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 04 |
-| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Glynn D. Key 1L Summer Fellowship](https://jobright.ai/jobs/info/6779a02cd169a91386993590?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
