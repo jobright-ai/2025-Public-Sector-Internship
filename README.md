@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[PUBLICE SERVICE INTERN II (Public Outreach) - Range 10 / NON](https://jobright.ai/jobs/info/6781de0c1648566cb743d9c2?utm_campaign=1056&utm_source=git)** | 3000 Arctic Blvd., AK | On Site | Jan 10 |
+| **[Ørsted](https://orsted.com)** | **[Government and Market Affairs, Growth and New Markets, Onshore - Intern 2025](https://jobright.ai/jobs/info/6781c874b2b916def5e2951c?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 10 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Intern](https://jobright.ai/jobs/info/67753daa51d8725f2c719f8d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/6781aa5fa579baa35f0172aa?utm_campaign=1056&utm_source=git)** | Grand Island, NE | On Site | Jan 10 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6781a0ee84ffa38208618b3d?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Jan 10 |
 | **[Management Sciences for Health](https://www.msh.org)** | **[Local Capacity Strengthening (LCS) Intern](https://jobright.ai/jobs/info/6781a3b1b5729a0f698a6a4b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 10 |
@@ -69,10 +72,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic & Financial Power Research Internship SPRING 2025](https://jobright.ai/jobs/info/6781969950ee66a6a1ede1e9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Public Engagement](https://jobright.ai/jobs/info/6781a3b1b5729a0f698a6b6b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f511?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
-| **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Strategy](https://jobright.ai/jobs/info/67818f7bf83f99b126091842?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| ↳ | **[College Intern - Systems & Capital Planning](https://jobright.ai/jobs/info/67818f7bf83f99b1260917f9?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 10 |
+| **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Systems & Capital Planning](https://jobright.ai/jobs/info/67818f7bf83f99b1260917f9?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 10 |
+| ↳ | **[College Intern - Strategy](https://jobright.ai/jobs/info/67818f7bf83f99b126091842?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Operations Services](https://jobright.ai/jobs/info/67817ea6e52ec27d57838569?utm_campaign=1056&utm_source=git)** | San Mateo, California, United States | On Site | Jan 10 |
-| **[ASTM International](http://www.astm.org)** | **[Intern, European Public Policy](https://jobright.ai/jobs/info/67818025b626cc1b7332295d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Elections Intern](https://jobright.ai/jobs/info/678164c960e5929536972004?utm_campaign=1056&utm_source=git)** | St. Louis Park, MN | On Site | Jan 10 |
 | ↳ | **[Intern - Parks & Recreation](https://jobright.ai/jobs/info/678143983d3c18e48bca620a?utm_campaign=1056&utm_source=git)** | Waxhaw, NC | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Global Patient Advocacy Intern](https://jobright.ai/jobs/info/67816d5ccc0a3a0522a380c1?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 10 |
@@ -133,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/677daef5be8bc1976746b3a3?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Jan 08 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/66d8abe7d06677690012a318?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Jan 07 |
 | **[Los Angeles Superior Court](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/676bb513b899da4d445149c4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
-| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Analyst Intern](https://jobright.ai/jobs/info/677e0f09860a506686729bef?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
-| ↳ | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677e0f09860a506686729ca0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677e0f09860a506686729ca0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| ↳ | **[Temporary Policy Research Analyst Intern](https://jobright.ai/jobs/info/677e0f09860a506686729bef?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/677e05c3549d220f3a284c0d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/677df54e1179565f54d497fe?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Summer Internship (Multiple Positions)](https://jobright.ai/jobs/info/677ef74a1986e24162bc05ac?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jan 07 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36b?utm_campaign=1056&utm_source=git)** | Effingham, IL | On Site | Jan 07 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Probation Division)](https://jobright.ai/jobs/info/676a72808c069691d13b8d03?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Jan 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Programs Intern](https://jobright.ai/jobs/info/677dbb732e4652bc92633583?utm_campaign=1056&utm_source=git)** | VA  22030, VA | On Site | Jan 07 |
 | **[American Chemical Society](https://www.acs.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/677daccaa3d017a7d8bd3d9d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/677dde0513b7d89e1ee35163?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2025](https://jobright.ai/jobs/info/674071dbafa62d83922a8a5b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Unpaid Intern - Public Health](https://jobright.ai/jobs/info/677d2e1155d6a7a9fb1d1659?utm_campaign=1056&utm_source=git)** | Public Health - 338 1st Ave SW Taylorsville, NC 28681 | On Site | Jan 07 |
 | ↳ | **[2025 Intern - Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/677d25288ef8722124d9ee71?utm_campaign=1056&utm_source=git)** | 390 Robert St. N St. Paul, MN | Hybrid | Jan 07 |
-| ↳ | **[2025 Intern - Local Planning Assistance Intern](https://jobright.ai/jobs/info/677d25288ef8722124d9ee6d?utm_campaign=1056&utm_source=git)** | 390 Robert St. N St. Paul, MN | Hybrid | Jan 07 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4f673f01a82bf616023ca?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
