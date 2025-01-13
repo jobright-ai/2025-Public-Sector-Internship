@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Spring Internship - International Advocacy](https://jobright.ai/jobs/info/6783f15eed27c9790a5f0096?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 12 |
+| **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/672497979636ced902b5e4bf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6753026408744769687830cf?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Jan 12 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[New York Internship Spring 2025](https://jobright.ai/jobs/info/671878469bd6729aa6f528f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 12 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Spring Internship - Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/6782b788ec91942d4377b5e9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 11 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/66d8abe7d06677690012a318?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Jan 07 |
 | **[Los Angeles Superior Court](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/676bb513b899da4d445149c4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[American Chemical Society](https://www.acs.org/)** | **[DEIR Communications Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a98b4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
-| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677e0f09860a506686729ca0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
-| ↳ | **[Temporary Policy Research Analyst Intern](https://jobright.ai/jobs/info/677e0f09860a506686729bef?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Analyst Intern](https://jobright.ai/jobs/info/677e0f09860a506686729bef?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| ↳ | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677e0f09860a506686729ca0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/677e05c3549d220f3a284c0d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/677df54e1179565f54d497fe?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Summer Internship (Multiple Positions)](https://jobright.ai/jobs/info/677ef74a1986e24162bc05ac?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jan 07 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Probation Division)](https://jobright.ai/jobs/info/676a72808c069691d13b8d03?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Jan 07 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36b?utm_campaign=1056&utm_source=git)** | Effingham, IL | On Site | Jan 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Programs Intern](https://jobright.ai/jobs/info/677dbb732e4652bc92633583?utm_campaign=1056&utm_source=git)** | VA  22030, VA | On Site | Jan 07 |
-| **[American Chemical Society](https://www.acs.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/677daccaa3d017a7d8bd3d9d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
-| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Policy Research Intern](https://jobright.ai/jobs/info/677d9ab246fcf77de66f218e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
