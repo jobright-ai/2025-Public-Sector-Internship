@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Public Health Institute](https://lphi.org)** | **[Policy & Equity Intern](https://jobright.ai/jobs/info/6785b1af06b3a83b0c8ad08c?utm_campaign=1056&utm_source=git)** | New Orleans, LA, USA | On Site | Jan 13 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/6785ac897efe1ecd39dfff7b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
-| **[UNDP Careers](https://www.undp.org)** | **[UNSGSA Intern](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a7226?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 13 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67752cea248b5fcad08c0660?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
+| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2025](https://jobright.ai/jobs/info/6785b8aed51305d20c4edaa9?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 13 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
+| **[UNDP Careers](https://www.undp.org)** | **[Strategy, Analysis and Research Team (SART) Intern](https://jobright.ai/jobs/info/6785b2fe3df7ff8fd89316bd?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 13 |
+| ↳ | **[UNSGSA Intern](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a7226?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 13 |
 | **[University of San Francisco](https://www.usfca.edu/)** | **[Social Worker Intern](https://jobright.ai/jobs/info/6785a0e12b7e53732d6391c2?utm_campaign=1056&utm_source=git)** | USF Hilltop Campus | On Site | Jan 13 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2025 Space Policy Graduate Intern](https://jobright.ai/jobs/info/6785a40e46593b8c85d75742?utm_campaign=1056&utm_source=git)** | Crystal City, VA | Hybrid | Jan 13 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[Intern, Cyber Security & IT Policy, Summer 2025](https://jobright.ai/jobs/info/6785a1004e1be79d7be6deb5?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Jan 13 |
@@ -103,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Plan International USA](https://www.planusa.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a94c2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[PUBLIC SERVICE INTERN II (Public Outreach) - Range 10 / NON](https://jobright.ai/jobs/info/6781de0c1648566cb743d9c2?utm_campaign=1056&utm_source=git)** | 3000 Arctic Blvd., AK | On Site | Jan 10 |
 | **[AARP](http://www.aarp.org)** | **[Outreach and Engagement Intern](https://jobright.ai/jobs/info/67832e32ea2df1c4165d817b?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jan 10 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/677e0af29fae9cead865157e?utm_campaign=1056&utm_source=git)** | Rocky Mount, NC | On Site | Jan 10 |
 | **[Ørsted](https://orsted.com)** | **[Government and Market Affairs, Growth and New Markets, Onshore - Intern 2025](https://jobright.ai/jobs/info/6781c874b2b916def5e2951c?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 10 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[County Engagement Intern](https://jobright.ai/jobs/info/67753daa51d8725f2c719f8d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 10 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6746a3a6b9738c316e5211af?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Jan 10 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Provider Network Intern](https://jobright.ai/jobs/info/678043372ca46820f4f83358?utm_campaign=1056&utm_source=git)** | Meridian, ID | On Site | Jan 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Pools Intern](https://jobright.ai/jobs/info/678027314db5ddf98cd43dc9?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Jan 09 |
 | **[Capstone](https://capstonedc.com)** | **[2025 Summer Policy & Investment Internship](https://jobright.ai/jobs/info/678026abea9e0710f4c9343a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 09 |
-| **[Berkeley Research Group (BRG)](http://www.thinkbrg.com)** | **[2025 Baltimore Clinical Economics Intern](https://jobright.ai/jobs/info/678020a8a143c522bbb3c620?utm_campaign=1056&utm_source=git)** | Hunt Valley, MD | On Site | Jan 09 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Procurement Intern](https://jobright.ai/jobs/info/67800654ec8e7be220885c7b?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 09 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Intern, Sustainability & Carbon Reduction Strategies (Association Office)](https://jobright.ai/jobs/info/677c3ebf01aec317ca378fa4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Climate Justice Research Intern](https://jobright.ai/jobs/info/677ef9d4e0336989ef57dd10?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jan 09 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6704a4bfa0781c2f765b2e10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 09 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/677f99cf5142e2f08b35ebe2?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Jan 09 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Global Policy Analyst, International Engagement & Strategy - IF](https://jobright.ai/jobs/info/677f7cf38b3667203069a6ef?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
-| **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Performance Services Intern](https://jobright.ai/jobs/info/677f2968b093dfe2447dcc71?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Jan 08 |
-| **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2025 summer term (June 1 - August 15)](https://jobright.ai/jobs/info/677f2968b093dfe2447dcc76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
