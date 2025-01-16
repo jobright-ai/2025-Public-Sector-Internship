@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e0b16113802bcef7fa5f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Jan 16 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780f?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Jan 16 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Jan 16 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Summer Global Policy & Sustainability  (Packaging) Graduate Intern](https://jobright.ai/jobs/info/6788992a951f0cbdf46bcf45?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Selfhelp Community Services](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2025)](https://jobright.ai/jobs/info/67889bfc1542f6394d09fd20?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/67873e108b40b8f6427e2d41?utm_campaign=1056&utm_source=git)** | Auburn, WA | Hybrid | Jan 14 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/67809cc0a9801fb15a7a3af3?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Jan 14 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[Summer 2025 Internship Program - Multiple Divisions Under Office of the City Administrator (9922)](https://jobright.ai/jobs/info/678743d0180838050b6cdbc6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 14 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Clinical Standardization and Governance](https://jobright.ai/jobs/info/678738c465f18e8873d1b719?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 14 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Community Planning Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d12?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 14 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
@@ -121,10 +122,10 @@ For a complete list, click the following sortable link below:
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Occupational Health Systems](https://jobright.ai/jobs/info/6786b87a3d4b569acf5d387b?utm_campaign=1056&utm_source=git)** | Edison, NJ | On Site | Jan 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Part Time Intern](https://jobright.ai/jobs/info/6786a286286e7354b665e2dc?utm_campaign=1056&utm_source=git)** | Petaluma, CA | On Site | Jan 14 |
 | **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/6786b0541c2c3630fbcaff06?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Jan 14 |
-| **[ERM](http://www.erm.com/)** | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e243?utm_campaign=1056&utm_source=git)** | California - Multiple Locations | On Site | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e241?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e242?utm_campaign=1056&utm_source=git)** | New York – Multiple Locations | On Site | Jan 14 |
+| **[ERM](http://www.erm.com/)** | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e241?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e174?utm_campaign=1056&utm_source=git)** | Bethesda (Coho) | On Site | Jan 14 |
+| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e243?utm_campaign=1056&utm_source=git)** | California - Multiple Locations | On Site | Jan 14 |
+| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e242?utm_campaign=1056&utm_source=git)** | New York – Multiple Locations | On Site | Jan 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Outreach & Engagement Intern](https://jobright.ai/jobs/info/678694f720f761736052e190?utm_campaign=1056&utm_source=git)** | Dublin, OH | On Site | Jan 14 |
 | ↳ | **[Intern - Community Development](https://jobright.ai/jobs/info/678694f720f761736052e177?utm_campaign=1056&utm_source=git)** | Irwindale, CA | On Site | Jan 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Houston)](https://jobright.ai/jobs/info/6753c6d7e0bf7992da587e71?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
 | **[UNDP Careers](https://www.undp.org)** | **[Strategy, Analysis and Research Team (SART) Intern](https://jobright.ai/jobs/info/6785b2fe3df7ff8fd89316bd?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 13 |
 | ↳ | **[UNSGSA Intern](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a7226?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 13 |
-| **[University of San Francisco](https://www.usfca.edu/)** | **[Social Worker Intern](https://jobright.ai/jobs/info/6785a0e12b7e53732d6391c2?utm_campaign=1056&utm_source=git)** | USF Hilltop Campus | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
