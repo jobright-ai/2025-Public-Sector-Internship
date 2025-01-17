@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd4?utm_campaign=1056&utm_source=git)** | Troutman, NC | On Site | Jan 17 |
+| **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Behavioral Health Initiative - R8033](https://jobright.ai/jobs/info/672b2b2e226f757ee6c75d35?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jan 17 |
+| **[Duke University](http://www.duke.edu)** | **[Non Duke Student/ Intern Sanford School of Public Policy](https://jobright.ai/jobs/info/678a4dcc336a7742fdc228f2?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[LTE INTERN - POLICY AND COMMUNICATIONS](https://jobright.ai/jobs/info/6789fcad70771780cb1a3a1b?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Jan 16 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6789ce5450f0b0b5699aada1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f72c?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 16 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce32?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Lead (Unpaid Internship)](https://jobright.ai/jobs/info/6789859024f1862cb8060393?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
@@ -87,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](http://www.airbnb.com)** | **[Public Policy Intern, Policy Central](https://jobright.ai/jobs/info/6764ba7881163bf7bd190257?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
 | **[American Water](http://amwater.com)** | **[Water Utility Operations Intern](https://jobright.ai/jobs/info/6739cab04dc42e40a334780f?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Jan 16 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6752c5e2b232437059babe04?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Jan 16 |
+| **[AARP](http://www.aarp.org)** | **[Policy and Brain Health Intern](https://jobright.ai/jobs/info/676550c6e1f1bce8acbd7dda?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Summer Global Policy & Sustainability  (Packaging) Graduate Intern](https://jobright.ai/jobs/info/6788992a951f0cbdf46bcf45?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Health Care Federal Relations and Public Policy Internship - hybrid work model](https://jobright.ai/jobs/info/67888cd940c53be8cfe32c29?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jan 15 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[2025 Summer Planning Intern (9910)](https://jobright.ai/jobs/info/67888cd940c53be8cfe32c8d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 15 |
@@ -95,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Social Impact Management - Community Intern](https://jobright.ai/jobs/info/67886096b94adef2d6b096a6?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4a7d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/675b36e7281a79a283987c81?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Jan 15 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Correctional Officer (Summer)](https://jobright.ai/jobs/info/6788622680757b33f8dcd035?utm_campaign=1056&utm_source=git)** | Yankton, SD | On Site | Jan 15 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Correctional Officer (Summer)](https://jobright.ai/jobs/info/6788622680757b33f8dcd035?utm_campaign=1056&utm_source=git)** | Yankton, SD | On Site | Jan 15 |
 | **[Emory University](http://www.emory.edu)** | **[TEPHINET Graduate Intern (ETS) / Temporary](https://jobright.ai/jobs/info/678872a7ce4462a506652b91?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 15 |
 | **[Align Technology](http://www.aligntech.com)** | **[Public Affairs Clinical Research Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982c67?utm_campaign=1056&utm_source=git)** | San Jose, CA | Hybrid | Jan 15 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2025 Space Policy Graduate Intern](https://jobright.ai/jobs/info/6785a40e46593b8c85d75742?utm_campaign=1056&utm_source=git)** | Crystal City, VA | Hybrid | Jan 15 |
@@ -123,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6787b2244724769c6a0f2f47?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
 | ↳ | **[Administration Internship Program](https://jobright.ai/jobs/info/6787b2244724769c6a0f2f4e?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Conservation & Community Development Policy (SSP&Sitka Conservation Society)](https://jobright.ai/jobs/info/6787c796eeabb259410fec9c?utm_campaign=1056&utm_source=git)** | Juneau, AK | On Site | Jan 15 |
-| ↳ | **[Shareholder Development - Intern - Conservation & Community Development Policy (SSP&Sitka Conservation Society)](https://jobright.ai/jobs/info/6787c796eeabb259410fec9f?utm_campaign=1056&utm_source=git)** | Sitka, AK | On Site | Jan 15 |
 | ↳ | **[Shareholder Development - Intern - Fisheries Program & Outreach (ALFA)](https://jobright.ai/jobs/info/6787c796eeabb259410feca2?utm_campaign=1056&utm_source=git)** | Sitka, AK | On Site | Jan 15 |
+| ↳ | **[Shareholder Development - Intern - Conservation & Community Development Policy (SSP&Sitka Conservation Society)](https://jobright.ai/jobs/info/6787c796eeabb259410fec9f?utm_campaign=1056&utm_source=git)** | Sitka, AK | On Site | Jan 15 |
 | ↳ | **[Shareholder Development - Intern - Environmental Outreach & Engagement (Tlingit & Haida)](https://jobright.ai/jobs/info/6787b2244724769c6a0f2c47?utm_campaign=1056&utm_source=git)** | Juneau, AK | Hybrid | Jan 15 |
 | ↳ | **[Shareholder Development - Intern - Fisheries Program & Outreach (ALFA)](https://jobright.ai/jobs/info/6787b3a24724769c6a0f3225?utm_campaign=1056&utm_source=git)** | Juneau, AK | On Site | Jan 15 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Corporate Social Responsibility Intern Summer 2025](https://jobright.ai/jobs/info/6787c615eeabb259410fe803?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Jan 15 |
@@ -139,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Community Planning Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d12?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 14 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Residential Services Internship](https://jobright.ai/jobs/info/6787069f45c27abaa8b07c8b?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 14 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/678721f9319d694fd733882b?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jan 14 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/678721f9319d694fd733882b?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jan 14 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Utility Program Services - California (Bachelors, Hybrid)](https://jobright.ai/jobs/info/6786fc26a52344460b83c2e5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 14 |
 | **[ERM](http://www.erm.com/)** | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/6786d7b160bc2a2e20fee103?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 14 |
 | ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/6786d7b160bc2a2e20fee104?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jan 14 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Occupational Health Systems](https://jobright.ai/jobs/info/6786b87a3d4b569acf5d387b?utm_campaign=1056&utm_source=git)** | Edison, NJ | On Site | Jan 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Part Time Intern](https://jobright.ai/jobs/info/6786a286286e7354b665e2dc?utm_campaign=1056&utm_source=git)** | Petaluma, CA | On Site | Jan 14 |
 | **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/6786b0541c2c3630fbcaff06?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Jan 14 |
-| **[ERM](http://www.erm.com/)** | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e174?utm_campaign=1056&utm_source=git)** | Bethesda (Coho) | On Site | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e241?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e243?utm_campaign=1056&utm_source=git)** | California - Multiple Locations | On Site | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e242?utm_campaign=1056&utm_source=git)** | New York – Multiple Locations | On Site | Jan 14 |
-| **[NEOGOV](http://www.neogov.com)** | **[Outreach & Engagement Intern](https://jobright.ai/jobs/info/678694f720f761736052e190?utm_campaign=1056&utm_source=git)** | Dublin, OH | On Site | Jan 14 |
-| ↳ | **[Intern - Community Development](https://jobright.ai/jobs/info/678694f720f761736052e177?utm_campaign=1056&utm_source=git)** | Irwindale, CA | On Site | Jan 14 |
+| **[ERM](http://www.erm.com/)** | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e242?utm_campaign=1056&utm_source=git)** | New York – Multiple Locations | On Site | Jan 14 |
+| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/678694f720f761736052e174?utm_campaign=1056&utm_source=git)** | Bethesda (Coho) | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
