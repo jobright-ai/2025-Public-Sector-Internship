@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bay Area Air Quality Management District](http://www.baaqmd.gov)** | **[College Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253b14?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 17 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Livable Communities Intern](https://jobright.ai/jobs/info/678ae6547791999c9b47fb26?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 17 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Greater Justice New York](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c2?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 17 |
+| **[Roland Berger](http://www.rolandberger.com/)** | **[2025 US Women@RolandBerger Empower Program](https://jobright.ai/jobs/info/678ade853cf4853b1f5825e1?utm_campaign=1056&utm_source=git)** | Detroit Metro | Remote | Jan 17 |
+| **[NEOGOV](http://www.neogov.com)** | **[Land Development Intern](https://jobright.ai/jobs/info/678ac43c049477590f01940d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
+| **[Start Early](https://www.startearly.org/)** | **[Intern - Illinois Policy](https://jobright.ai/jobs/info/678ae6547791999c9b48014e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
+| **[Roland Berger](http://www.rolandberger.com/)** | **[2025 US Women@RolandBerger Empower Program](https://jobright.ai/jobs/info/678ac4cf1e564f59b35ca45e?utm_campaign=1056&utm_source=git)** | Detroit Metro | On Site | Jan 17 |
+| **[NEOGOV](http://www.neogov.com)** | **[HBCU Rail Programs Unit Intern](https://jobright.ai/jobs/info/678ab4678f8ba8828afa89e9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 17 |
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[College Internship - Grant Management and Resource Development](https://jobright.ai/jobs/info/678aaf3d39581b7059f64bca?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Comprehensive Planning Intern](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5b9?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
-| ↳ | **[Peace Officer Candidate Internship](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5aa?utm_campaign=1056&utm_source=git)** | Des Moines - 50313 - Polk County, IA | On Site | Jan 17 |
+| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2025](https://jobright.ai/jobs/info/6785b8aed51305d20c4edaa9?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 17 |
+| **[NEOGOV](http://www.neogov.com)** | **[Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5aa?utm_campaign=1056&utm_source=git)** | Des Moines - 50313 - Polk County, IA | On Site | Jan 17 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Govt Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[UNDP Careers](https://www.undp.org)** | **[Project Coordination Intern – Generation Equality](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb527?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[State and Local Policy and Advocacy Intern](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb4f2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 17 |
@@ -83,14 +92,14 @@ For a complete list, click the following sortable link below:
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6789ac6a2222181844fa0fa9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[MassHousing](https://www.masshousing.com)** | **[Housing Stability - Intern](https://jobright.ai/jobs/info/6789859024f1862cb806005e?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2025 Internship](https://jobright.ai/jobs/info/678995a0a41dc2ac4aefd0fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce32?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 16 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Lead (Unpaid Internship)](https://jobright.ai/jobs/info/6789859024f1862cb8060393?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 16 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Selfhelp Community Services](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2025)](https://jobright.ai/jobs/info/67889bfc1542f6394d09fd20?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/67873e108b40b8f6427e2d41?utm_campaign=1056&utm_source=git)** | Auburn, WA | Hybrid | Jan 14 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/67809cc0a9801fb15a7a3af3?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Jan 14 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Intern Clinical Standardization and Governance](https://jobright.ai/jobs/info/678738c465f18e8873d1b719?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 14 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[Community Planning Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d12?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 14 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
-| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Residential Services Internship](https://jobright.ai/jobs/info/6787069f45c27abaa8b07c8b?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 14 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/678721f9319d694fd733882b?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jan 14 |
-| **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Utility Program Services - California (Bachelors, Hybrid)](https://jobright.ai/jobs/info/6786fc26a52344460b83c2e5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 14 |
-| **[ERM](http://www.erm.com/)** | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/6786d7b160bc2a2e20fee103?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/6786d7b160bc2a2e20fee104?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jan 14 |
-| ↳ | **[Summer Analyst – Coho Climate Advisors (Internship)](https://jobright.ai/jobs/info/6786ccd6054f304ba57c02a4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
