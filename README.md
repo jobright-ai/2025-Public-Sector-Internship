@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/678c3ff88aa039c6a29d3cb5?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Jan 18 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of Technical Assistance - Environmental Justice Intern](https://jobright.ai/jobs/info/678bfe3cd182304b5d07d785?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 18 |
 | **[Deschutes County](https://www.deschutes.org)** | **[2025 Behavioral Health Specialist II, Graduate Intern](https://jobright.ai/jobs/info/678bf6dba258dc34b112635b?utm_campaign=1056&utm_source=git)** | Deschutes County, OR | On Site | Jan 18 |
 | **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Grants Writing & Research Intern, IINE Boston](https://jobright.ai/jobs/info/678bf0d91eed21eee0eae33b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 18 |
@@ -68,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Greater Justice New York](https://jobright.ai/jobs/info/678b15fdc2967b41b82448be?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Cybersecurity - Information Technology](https://jobright.ai/jobs/info/678afb9ce2ee6bbfc3e32b71?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Jan 17 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern - Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/678af8929395ae42b7a91839?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 17 |
-| ↳ | **[Intern - Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/678af62bb3f558bc73ac510e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 17 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67866742997d15df8e738f31?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Intern - Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/678af62bb3f558bc73ac510e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 17 |
 | **[Bay Area Air Quality Management District](http://www.baaqmd.gov)** | **[College Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253b14?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Livable Communities Intern](https://jobright.ai/jobs/info/678ae6547791999c9b47fb26?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 17 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Greater Justice New York](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c2?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 17 |
@@ -103,14 +105,14 @@ For a complete list, click the following sortable link below:
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6789ac6a2222181844fa0fa9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[MassHousing](https://www.masshousing.com)** | **[Housing Stability - Intern](https://jobright.ai/jobs/info/6789859024f1862cb806005e?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2025 Internship](https://jobright.ai/jobs/info/678995a0a41dc2ac4aefd0fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce32?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce32?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Lead (Unpaid Internship)](https://jobright.ai/jobs/info/6789859024f1862cb8060393?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Evaluation Intern](https://jobright.ai/jobs/info/678854c672d340052ffbce16?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Community Engagement Internship Program](https://jobright.ai/jobs/info/6787b2244724769c6a0f2f47?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
 | ↳ | **[Administration Internship Program](https://jobright.ai/jobs/info/6787b2244724769c6a0f2f4e?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Jan 15 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Conservation & Community Development Policy (SSP&Sitka Conservation Society)](https://jobright.ai/jobs/info/6787c796eeabb259410fec9c?utm_campaign=1056&utm_source=git)** | Juneau, AK | On Site | Jan 15 |
-| ↳ | **[Shareholder Development - Intern - Conservation & Community Development Policy (SSP&Sitka Conservation Society)](https://jobright.ai/jobs/info/6787c796eeabb259410fec9f?utm_campaign=1056&utm_source=git)** | Sitka, AK | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
