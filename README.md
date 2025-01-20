@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/678e36b3bb4a305eaa51e015?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Jan 20 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/678dd8538c263913f6a4d02e?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Jan 19 |
 | **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Grants Writing & Research Intern, IINE Boston](https://jobright.ai/jobs/info/678d212155216542864efa3a?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 19 |
 | ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/678d212155216542864efa21?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 19 |
 | ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Boston](https://jobright.ai/jobs/info/678d212155216542864efa49?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 19 |
-| ↳ | **[[Summer 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/678d212155216542864efa51?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 19 |
 | ↳ | **[[Summer 2025] Nonprofit Administration Intern, IINE Manchester](https://jobright.ai/jobs/info/678d212155216542864efa4a?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jan 19 |
+| ↳ | **[[Summer 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/678d212155216542864efa51?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 19 |
 | ↳ | **[[Summer 2025] Basic Services & Secondary Migrant Intern, IINE Lowell](https://jobright.ai/jobs/info/678d212155216542864efa4e?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 19 |
 | ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/678d212155216542864efa5d?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jan 19 |
 | ↳ | **[[Summer 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/678d212155216542864efa5e?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 19 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67866742997d15df8e738f31?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern - Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/678af62bb3f558bc73ac510e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 17 |
 | **[Bay Area Air Quality Management District](http://www.baaqmd.gov)** | **[College Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253b14?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 17 |
-| **[ITHAKA](http://www.ithaka.org)** | **[Intern, Outreach](https://jobright.ai/jobs/info/678af62bb3f558bc73ac52a7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Livable Communities Intern](https://jobright.ai/jobs/info/678ae6547791999c9b47fb26?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 17 |
 | **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Jan 17 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Greater Justice New York](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c2?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 17 |
@@ -90,11 +90,11 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Land Development Intern](https://jobright.ai/jobs/info/678ac43c049477590f01940d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
 | **[Start Early](https://www.startearly.org/)** | **[Intern - Illinois Policy](https://jobright.ai/jobs/info/678ae6547791999c9b48014e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[HBCU Rail Programs Unit Intern](https://jobright.ai/jobs/info/678ab4678f8ba8828afa89e9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 17 |
+| **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[College Internship - Grant Management and Resource Development](https://jobright.ai/jobs/info/678aaf3d39581b7059f64bca?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Comprehensive Planning Intern](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5b9?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2025](https://jobright.ai/jobs/info/6785b8aed51305d20c4edaa9?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5aa?utm_campaign=1056&utm_source=git)** | Des Moines - 50313 - Polk County, IA | On Site | Jan 17 |
-| **[K&L Gates](http://www.klgates.com/)** | **[Govt Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[UNDP Careers](https://www.undp.org)** | **[Project Coordination Intern – Generation Equality](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb527?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[State and Local Policy and Advocacy Intern](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb4f2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Climate Adaptation and Resilience Intern](https://jobright.ai/jobs/info/678aaf3d39581b7059f64fe9?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 17 |
@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Lead (Unpaid Internship)](https://jobright.ai/jobs/info/6789859024f1862cb8060393?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
