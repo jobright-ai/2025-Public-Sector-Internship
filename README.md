@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[Summer Internship Opportunities - Wholesale Food Safety - Paid](https://jobright.ai/jobs/info/6790863e7822a0b9dd07e6f7?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 21 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[US Peacebuilding Research and Bridging Intern](https://jobright.ai/jobs/info/6790876d8b56e66b4d671276?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 PSB Summer Internship Program: Criminal Justice Strategy and Policy](https://jobright.ai/jobs/info/67904d26a9e58c7990fdcf1d?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | Jan 21 |
 | **[RTD](https://www.rtd-denver.com)** | **[Intern - Transit-Oriented Communities](https://jobright.ai/jobs/info/67905e5e842c40e854deee6a?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 21 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Utility Program Services (Bachelors; NM)](https://jobright.ai/jobs/info/67903a62ed60566cd7d41164?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 21 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern-Benchmarking & Strategic Recommendation for Public Facing GIS Tools Intern](https://jobright.ai/jobs/info/678f5061903394e15b8cce54?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | ↳ | **[2025 Summer Intern-Patient Safety Organization Implementation](https://jobright.ai/jobs/info/678f5061903394e15b8cce48?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | ↳ | **[2025 Summer Intern – Community Planning Data and Historical Preservation Analyst](https://jobright.ai/jobs/info/678f5061903394e15b8cce4e?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
+| **[Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov)** | **[Intern - Communications and Engagement](https://jobright.ai/jobs/info/679080cced3a304e2d1fab90?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern - Community Impact](https://jobright.ai/jobs/info/678fc97e95b5a5c46a3e07dd?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Jan 20 |
 | **[Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov)** | **[Intern- Regional Policy & Implementation](https://jobright.ai/jobs/info/67903ea497d59adecc94e0c9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f72c?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 20 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern - Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/678af8929395ae42b7a91839?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 17 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67866742997d15df8e738f31?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Bay Area Air Quality Management District](http://www.baaqmd.gov)** | **[College Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253b14?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 17 |
+| **[ITHAKA](http://www.ithaka.org)** | **[Intern, Outreach](https://jobright.ai/jobs/info/678af62bb3f558bc73ac52a7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Livable Communities Intern](https://jobright.ai/jobs/info/678ae6547791999c9b47fb26?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 17 |
 | **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Jan 17 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Greater Justice New York](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c2?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 17 |
@@ -119,11 +123,11 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Land Development Intern](https://jobright.ai/jobs/info/678ac43c049477590f01940d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[HBCU Rail Programs Unit Intern](https://jobright.ai/jobs/info/678ab4678f8ba8828afa89e9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 17 |
-| **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[College Internship - Grant Management and Resource Development](https://jobright.ai/jobs/info/678aaf3d39581b7059f64bca?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Comprehensive Planning Intern](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5b9?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2025](https://jobright.ai/jobs/info/6785b8aed51305d20c4edaa9?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5aa?utm_campaign=1056&utm_source=git)** | Des Moines - 50313 - Polk County, IA | On Site | Jan 17 |
+| **[K&L Gates](http://www.klgates.com/)** | **[Govt Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[State and Local Policy and Advocacy Intern](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb4f2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Climate Adaptation and Resilience Intern](https://jobright.ai/jobs/info/678aaf3d39581b7059f64fe9?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 17 |
 | ↳ | **[Climate Adaptation and Resilience Intern](https://jobright.ai/jobs/info/678a8b847b3cd3f03884eb1d?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Jan 17 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/6789ac6a2222181844fa0fa9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[MassHousing](https://www.masshousing.com)** | **[Housing Stability - Intern](https://jobright.ai/jobs/info/6789859024f1862cb806005e?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2025 Internship](https://jobright.ai/jobs/info/678995a0a41dc2ac4aefd0fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce32?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
-| **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Lead (Unpaid Internship)](https://jobright.ai/jobs/info/6789859024f1862cb8060393?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
-| **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
