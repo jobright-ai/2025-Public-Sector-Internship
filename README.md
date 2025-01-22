@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[2025 PSB Summer Internship Program: Criminal Justice Strategy and Policy](https://jobright.ai/jobs/info/67904d26a9e58c7990fdcf1d?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | Jan 21 |
+| **[RTD](https://www.rtd-denver.com)** | **[Intern - Transit-Oriented Communities](https://jobright.ai/jobs/info/67905e5e842c40e854deee6a?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 21 |
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Utility Program Services (Bachelors; NM)](https://jobright.ai/jobs/info/67903a62ed60566cd7d41164?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 21 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/679044387abfbd7c8dd227dc?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Jan 21 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Women's Leadership Conference - Summer 2025](https://jobright.ai/jobs/info/679020190a4b62dc8430b609?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Jan 21 |
-| **[ALLETE](http://allete.com)** | **[Internship - Community Affairs](https://jobright.ai/jobs/info/6790351cdebce19fc666da95?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Jan 21 |
 | **[RTD](https://www.rtd-denver.com)** | **[Intern - Transit-Oriented Communities](https://jobright.ai/jobs/info/67901246bf5cdb2ee416de54?utm_campaign=1056&utm_source=git)** | Civic Center Plaza | On Site | Jan 21 |
 | **[Start Early](https://www.startearly.org/)** | **[Intern - Illinois Policy](https://jobright.ai/jobs/info/678ae6547791999c9b48014e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
 | **[Valley Water](https://www.valleywater.org/)** | **[Sacramento Government Relations Intern](https://jobright.ai/jobs/info/678ffb018f43062ff980eec2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 21 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Intern-Smartsheet Implementation](https://jobright.ai/jobs/info/678f88bb07646a5b63ef2975?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 21 |
 | ↳ | **[2025 Summer Intern-Community Engagement & Public Outreach](https://jobright.ai/jobs/info/678f88bb07646a5b63ef2974?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 21 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2025 Intern Program: Operations Support - Right of Way](https://jobright.ai/jobs/info/678f7d0188b6d3555cde14df?utm_campaign=1056&utm_source=git)** | Hicksville, NY | Hybrid | Jan 21 |
-| ↳ | **[Summer 2025 Intern Program: NY Safety Policies & Programs](https://jobright.ai/jobs/info/678f75afe12235b228e613e6?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 21 |
 | ↳ | **[Summer 2025 Intern Program: Gas Resource Planning](https://jobright.ai/jobs/info/678f75afe12235b228e613e5?utm_campaign=1056&utm_source=git)** | Waltham, MA | Hybrid | Jan 21 |
+| ↳ | **[Summer 2025 Intern Program: NY Safety Policies & Programs](https://jobright.ai/jobs/info/678f75afe12235b228e613e6?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 21 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[GIS Intern-2025 Local Gov Summer Internship Program](https://jobright.ai/jobs/info/678f75afe12235b228e612a6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Intern – Community Planning Specialist](https://jobright.ai/jobs/info/678f5061903394e15b8cce5c?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | ↳ | **[2025 Summer Intern-GIS System & Content Audit for Enhanced User and Data Management Intern](https://jobright.ai/jobs/info/678f5061903394e15b8cce53?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern-Patient Safety Organization Implementation](https://jobright.ai/jobs/info/678f5061903394e15b8cce48?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | ↳ | **[2025 Summer Intern – Community Planning Data and Historical Preservation Analyst](https://jobright.ai/jobs/info/678f5061903394e15b8cce4e?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern - Community Impact](https://jobright.ai/jobs/info/678fc97e95b5a5c46a3e07dd?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Jan 20 |
+| **[Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov)** | **[Intern- Regional Policy & Implementation](https://jobright.ai/jobs/info/67903ea497d59adecc94e0c9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f72c?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 20 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Child and Family Health](https://jobright.ai/jobs/info/678ef9845a0541a1f7334e91?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Jan 20 |
 | ↳ | **[Intern- MaineHealth Food Pantry Portland](https://jobright.ai/jobs/info/678ee96c166e62c5abd7e2ac?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Jan 20 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program - Summer 2025](https://jobright.ai/jobs/info/678e949a7c9e587226e22531?utm_campaign=1056&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 20 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Community Health Surveillance and Evaluation](https://jobright.ai/jobs/info/678e36b3bb4a305eaa51e015?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Jan 20 |
 | **[UNDP Careers](https://www.undp.org)** | **[Project Coordination Intern – Generation Equality](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb527?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 19 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2025 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/678c823ef590ef000bec28a1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 18 |
 | **[NEOGOV](http://www.neogov.com)** | **[Land Management Intern](https://jobright.ai/jobs/info/6790221d517cfd6940a767f6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 18 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/678c3ff88aa039c6a29d3cb5?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Jan 18 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of Technical Assistance - Environmental Justice Intern](https://jobright.ai/jobs/info/678bfe3cd182304b5d07d785?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 18 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[MassHousing](https://www.masshousing.com)** | **[Housing Stability - Intern](https://jobright.ai/jobs/info/6789859024f1862cb806005e?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2025 Internship](https://jobright.ai/jobs/info/678995a0a41dc2ac4aefd0fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce34?utm_campaign=1056&utm_source=git)** | Fresno, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce32?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce31?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67898e92e0fe186b70e2ce33?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | Hybrid | Jan 16 |
 | **[Seaside Sustainability (nonprofit)](https://www.seasidesustainability.org/)** | **[Grant Writing Lead (Unpaid Internship)](https://jobright.ai/jobs/info/6789859024f1862cb8060393?utm_campaign=1056&utm_source=git)** | Gloucester, MA | Remote | Jan 16 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897ddd8cef63184bfedefa?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 16 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/67897f798cef63184bfee73d?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Jan 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Zoning and Code Enforcement Intern](https://jobright.ai/jobs/info/67894a9a5858733abf0381f7?utm_campaign=1056&utm_source=git)** | Fridley, MN | On Site | Jan 16 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
