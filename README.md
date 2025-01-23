@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67866742997d15df8e738f31?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
+| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Responsible Business & Sustainability Intern (Remote)](https://jobright.ai/jobs/info/6791929441e8eee783cfd186?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Land Acquisitions Intern (San Ramon)](https://jobright.ai/jobs/info/679183a6b1e0a38053fbc753?utm_campaign=1056&utm_source=git)** | San Ramon, CA | On Site | Jan 22 |
+| **[Global Partners LP](http://www.globalp.com)** | **[Sustainability Development Intern](https://jobright.ai/jobs/info/6791904a2ac8aab3e6b5da52?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern- Governmental Relations](https://jobright.ai/jobs/info/679175fb3d559008419867bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2025 Intern Program: National Grid Partners (NGP) - Corporate Affairs](https://jobright.ai/jobs/info/6791674145f66bc9d8f4edf3?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 22 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Summer Fellow, McKenna Center for Human Development and Global Business](https://jobright.ai/jobs/info/6791721244b88afb9cf62f3b?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | On Site | Jan 22 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern-Benchmarking & Strategic Recommendation for Public Facing GIS Tools Intern](https://jobright.ai/jobs/info/678f5061903394e15b8cce54?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | ↳ | **[2025 Summer Intern-Patient Safety Organization Implementation](https://jobright.ai/jobs/info/678f5061903394e15b8cce48?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
 | ↳ | **[2025 Summer Intern – Community Planning Data and Historical Preservation Analyst](https://jobright.ai/jobs/info/678f5061903394e15b8cce4e?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 20 |
-| **[Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov)** | **[Intern - Communications and Engagement](https://jobright.ai/jobs/info/679080cced3a304e2d1fab90?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern - Community Impact](https://jobright.ai/jobs/info/678fc97e95b5a5c46a3e07dd?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Jan 20 |
 | **[Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov)** | **[Intern- Regional Policy & Implementation](https://jobright.ai/jobs/info/67903ea497d59adecc94e0c9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6789f03c3d32ccd27895f72c?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 20 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Sustainability Contributor - 2025 Summer Intern](https://jobright.ai/jobs/info/67501b1f348326c5fde374fd?utm_campaign=1056&utm_source=git)** | Southlake, TX | On Site | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Cybersecurity - Information Technology](https://jobright.ai/jobs/info/678afb9ce2ee6bbfc3e32b71?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Jan 17 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern - Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/678af8929395ae42b7a91839?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 17 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67866742997d15df8e738f31?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Bay Area Air Quality Management District](http://www.baaqmd.gov)** | **[College Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253b14?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 17 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Outreach](https://jobright.ai/jobs/info/678af62bb3f558bc73ac52a7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Livable Communities Intern](https://jobright.ai/jobs/info/678ae6547791999c9b47fb26?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5aa?utm_campaign=1056&utm_source=git)** | Des Moines - 50313 - Polk County, IA | On Site | Jan 17 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[State and Local Policy and Advocacy Intern](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb4f2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 17 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Climate Adaptation and Resilience Intern](https://jobright.ai/jobs/info/678aaf3d39581b7059f64fe9?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
