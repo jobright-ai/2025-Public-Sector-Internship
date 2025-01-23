@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Policy Research Intern, Geopolitical AI and Cloud - Summer 2025](https://jobright.ai/jobs/info/6791c552d55991987dba8ef5?utm_campaign=1056&utm_source=git)** | US, CA, Santa Clara | On Site | Jan 22 |
+| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/6791d7684c80cf3c3d1d5696?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jan 22 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Corporate Social Responsibility Intern (NC Governor’s HBCU Internship Program)](https://jobright.ai/jobs/info/67866742997d15df8e738f31?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Responsible Business & Sustainability Intern (Remote)](https://jobright.ai/jobs/info/6791929441e8eee783cfd186?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Land Acquisitions Intern (San Ramon)](https://jobright.ai/jobs/info/679183a6b1e0a38053fbc753?utm_campaign=1056&utm_source=git)** | San Ramon, CA | On Site | Jan 22 |
@@ -68,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6791721244b88afb9cf63274?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 22 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Land Acquisitions Intern (San Ramon)](https://jobright.ai/jobs/info/6791638e75f567a1647617a8?utm_campaign=1056&utm_source=git)** | San Ramon, California | On Site | Jan 22 |
 | **[New York State Unified Court System](https://www.nycourts.gov)** | **[Paid Summer Internship with the NYS Courts](https://jobright.ai/jobs/info/6791897a76bc5ec954726d02?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[Paid Summer Internship with the NYS Courts](https://jobright.ai/jobs/info/67915e1cc671c793c0a52b90?utm_campaign=1056&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 22 |
+| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, JFK Redevelopment Community & Compliance Support](https://jobright.ai/jobs/info/6791cef52ac8903337e02006?utm_campaign=1056&utm_source=git)** | Jamaica, NY | On Site | Jan 22 |
+| **[New York State Unified Court System](https://www.nycourts.gov)** | **[Paid Summer Internship with the NYS Courts](https://jobright.ai/jobs/info/67915e1cc671c793c0a52b90?utm_campaign=1056&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 22 |
 | ↳ | **[Paid Summer Internship with the NYS Courts](https://jobright.ai/jobs/info/67915aa67b33a9db3ee5369a?utm_campaign=1056&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[INTERN - PLANNING DEPT. SPRING THROUGH SUMMER ASSIGNMENT) 2 VACANCIES - $15 PER HOUR](https://jobright.ai/jobs/info/6791535406c20e9307a34b12?utm_campaign=1056&utm_source=git)** | 750 West Iredell Ave, NC | On Site | Jan 22 |
 | ↳ | **[2025 Summer Intern-Transit Planning Intern](https://jobright.ai/jobs/info/6791535406c20e9307a34b1a?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 22 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Port Houston](https://porthouston.com/)** | **[Intern, Emergency Management](https://jobright.ai/jobs/info/6790c74479babaff10ba9ace?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | ↳ | **[Intern, Community Relation](https://jobright.ai/jobs/info/6790db20feac3d8ee98198fa?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Internship Opportunities - Wholesale Food Safety - Paid](https://jobright.ai/jobs/info/6790863e7822a0b9dd07e6f7?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 21 |
+| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study – Office Assistant](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d160d?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Jan 21 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[US Peacebuilding Research and Bridging Intern](https://jobright.ai/jobs/info/6790876d8b56e66b4d671276?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 PSB Summer Internship Program: Criminal Justice Strategy and Policy](https://jobright.ai/jobs/info/67904d26a9e58c7990fdcf1d?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | Jan 21 |
 | **[RTD](https://www.rtd-denver.com)** | **[Intern - Transit-Oriented Communities](https://jobright.ai/jobs/info/67905e5e842c40e854deee6a?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 21 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Environmental Policy and Leadership Internships](https://jobright.ai/jobs/info/678fce146d4f95513ced79c4?utm_campaign=1056&utm_source=git)** | Various, MI | On Site | Jan 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/678fd89548a65f63b932ea0c?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 21 |
 | **[ORAU](https://www.orau.org/)** | **[Program Support Specialist](https://jobright.ai/jobs/info/678fcf97c6a171e8f6c2a9ef?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jan 21 |
-| **[Energy Northwest](https://www.energy-northwest.com)** | **[Energy Services Intern - Year Round](https://jobright.ai/jobs/info/678e8c441955a041a01ef5bd?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Intern-Smartsheet Implementation](https://jobright.ai/jobs/info/678f88bb07646a5b63ef2975?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 21 |
 | ↳ | **[2025 Summer Intern-Community Engagement & Public Outreach](https://jobright.ai/jobs/info/678f88bb07646a5b63ef2974?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 21 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2025 Intern Program: Operations Support - Right of Way](https://jobright.ai/jobs/info/678f7d0188b6d3555cde14df?utm_campaign=1056&utm_source=git)** | Hicksville, NY | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[College Internship - Grant Management and Resource Development](https://jobright.ai/jobs/info/678aaf3d39581b7059f64bca?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Jan 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Comprehensive Planning Intern](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5b9?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2025](https://jobright.ai/jobs/info/6785b8aed51305d20c4edaa9?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 17 |
-| **[NEOGOV](http://www.neogov.com)** | **[Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/678aa3e42c01ff9946dfb5aa?utm_campaign=1056&utm_source=git)** | Des Moines - 50313 - Polk County, IA | On Site | Jan 17 |
-| **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212ef7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 17 |
-| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[State and Local Policy and Advocacy Intern](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb4f2?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
