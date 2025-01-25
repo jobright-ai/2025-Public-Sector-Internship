@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Communications Internship, Governance Studies (Job ID: 2025-3579)](https://jobright.ai/jobs/info/6794cf8745f2befe697afb64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 25 |
+| **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Office of Industry Research Assistant](https://jobright.ai/jobs/info/6794b9b1bdb7bf2ecb57e0cb?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 25 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6794a5aad0058b0159edad9c?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Jan 24 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[2025 Social Services Internships](https://jobright.ai/jobs/info/67947facacd41e212a71e5ae?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 24 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research and Events Internship, AI and Emerging Technology, Executive Office (Job ID: 2025-3575)](https://jobright.ai/jobs/info/6794787a6bb5a14fdb642026?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Administration Intern](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2c4?utm_campaign=1056&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Jan 23 |
 | ↳ | **[Public Administration Intern](https://jobright.ai/jobs/info/67934945cbc6072fd683020c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Policy Research Intern, Geopolitical AI and Cloud - Summer 2025](https://jobright.ai/jobs/info/679315da4f9270d1563e5c87?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 23 |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research Internship, Center for Health Policy, Economic Studies (Job ID: 2025-3581)](https://jobright.ai/jobs/info/67932423cfe8e03be68bf2f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Intern - Seattle City Light](https://jobright.ai/jobs/info/67930f7a5d343494cd940945?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[US Medical Affairs - Scientific Materials-Summer Intern-Job ID: MAS25](https://jobright.ai/jobs/info/67932641c81e6b7687d667f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Internship Opportunities - Wholesale Food Safety - Paid](https://jobright.ai/jobs/info/6790863e7822a0b9dd07e6f7?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 21 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study – Office Assistant](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d160d?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Jan 21 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[US Peacebuilding Research and Bridging Intern](https://jobright.ai/jobs/info/6790876d8b56e66b4d671276?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
-| **[NEOGOV](http://www.neogov.com)** | **[2025 PSB Summer Internship Program: Criminal Justice Strategy and Policy](https://jobright.ai/jobs/info/67904d26a9e58c7990fdcf1d?utm_campaign=1056&utm_source=git)** | Chinook Building 401 5th Avenue Seattle, WA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
