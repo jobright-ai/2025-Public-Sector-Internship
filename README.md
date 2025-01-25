@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nex-Tech](http://nex-tech.com)** | **[Community Engagement Intern - Summer 2025](https://jobright.ai/jobs/info/6794f5be5ba41fd7692f28a0?utm_campaign=1056&utm_source=git)** | Hays, KS | Hybrid | Jan 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Communications Internship, Governance Studies (Job ID: 2025-3579)](https://jobright.ai/jobs/info/6794cf8745f2befe697afb64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 25 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Office of Industry Research Assistant](https://jobright.ai/jobs/info/6794b9b1bdb7bf2ecb57e0cb?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 25 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/6794a5aad0058b0159edad9c?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Jan 24 |
@@ -69,12 +70,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/67943939f99a8ccaab4ebc46?utm_campaign=1056&utm_source=git)** | Bensalem, PA | On Site | Jan 24 |
 | **[NEOGOV](http://www.neogov.com)** | **[GIS intern I - Department of Utilities](https://jobright.ai/jobs/info/679425937a6c01eea7175fc2?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 24 |
 | ↳ | **[Internship - Sustainability & Environment](https://jobright.ai/jobs/info/679425937a6c01eea7175f93?utm_campaign=1056&utm_source=git)** | PA, PA | On Site | Jan 24 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[County Clerk eService Center College Intern](https://jobright.ai/jobs/info/679496ecab3613f6ed679bdc?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Jan 24 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/6794270af43679dbcd7f53ff?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jan 24 |
 | ↳ | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/67942208bb84bd4972d69205?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67941abcda5db0d864eabd04?utm_campaign=1056&utm_source=git)** | Wingate, NC | On Site | Jan 24 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Health Policy Summer Intern - 40 hrs/wk - Days - Detroit](https://jobright.ai/jobs/info/679419f0da5db0d864eab921?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 24 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/6793fd7bdb0cb81609847acd?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Jan 24 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Policy, Research, and Communications Intern](https://jobright.ai/jobs/info/6789d7beffe3ed78b974873b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Engagement and Communications Intern - Summer 2025](https://jobright.ai/jobs/info/6793f7f2056991df3109a862?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Energy Market Regulatory Policy Intern](https://jobright.ai/jobs/info/6793ea277c1a65316c4167ad?utm_campaign=1056&utm_source=git)** | Tualatin, OR | On Site | Jan 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern - Strategy & Policy Analytics](https://jobright.ai/jobs/info/6793ea277c1a65316c4168ae?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 24 |
@@ -144,9 +145,11 @@ For a complete list, click the following sortable link below:
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Small Modular Reactor (SMR) & Energy Policy Analyst](https://jobright.ai/jobs/info/67914173d61fe8e9223050e0?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 22 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Federal Planning Intern](https://jobright.ai/jobs/info/678567ce02cc9f6deca0fb8b?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Office Intern](https://jobright.ai/jobs/info/6791235a40cfec64c5680616?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jan 22 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
-| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
+| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern](https://jobright.ai/jobs/info/6793c12c696d8ae7548617aa?utm_campaign=1056&utm_source=git)** | New Braunfels | On Site | Jan 22 |
+| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Communications Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1ede01a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jan 22 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Jan 22 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Internship - Merrimack, NH](https://jobright.ai/jobs/info/673fc9377261118f03058cd1?utm_campaign=1056&utm_source=git)** | Merrimack, NH | On Site | Jan 22 |
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202d04?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Community Relation](https://jobright.ai/jobs/info/6790db20feac3d8ee98198fa?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Community Health Alliance Nevada](https://www.chanevada.org)** | **[Reproductive Health Intern (28979)](https://jobright.ai/jobs/info/679352018ce26e81cc7a7f6f?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Jan 21 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Senior Director, State Relations](https://jobright.ai/jobs/info/679352018ce26e81cc7a7fb5?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 21 |
-| **[NEOGOV](http://www.neogov.com)** | **[Summer Internship Opportunities - Wholesale Food Safety - Paid](https://jobright.ai/jobs/info/6790863e7822a0b9dd07e6f7?utm_campaign=1056&utm_source=git)** | Richland County, SC | Hybrid | Jan 21 |
-| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study – Office Assistant](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d160d?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Jan 21 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[US Peacebuilding Research and Bridging Intern](https://jobright.ai/jobs/info/6790876d8b56e66b4d671276?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
