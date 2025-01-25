@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[District Office Intern - Office of Senator McNerney (Pleasanton, CA)](https://jobright.ai/jobs/info/679442ef1011f142c85ece87?utm_campaign=1056&utm_source=git)** | Pleasanton, CA | On Site | Jan 24 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67943e8d363d28ca17f4fe1a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
+| **[Access Services](https://www.accessservices.org)** | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/679445fad36395043e8bbb7f?utm_campaign=1056&utm_source=git)** | Bristol, PA | On Site | Jan 24 |
+| ↳ | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/67943939f99a8ccaab4ebc46?utm_campaign=1056&utm_source=git)** | Bensalem, PA | On Site | Jan 24 |
 | **[NEOGOV](http://www.neogov.com)** | **[GIS intern I - Department of Utilities](https://jobright.ai/jobs/info/679425937a6c01eea7175fc2?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 24 |
 | ↳ | **[Internship - Sustainability & Environment](https://jobright.ai/jobs/info/679425937a6c01eea7175f93?utm_campaign=1056&utm_source=git)** | PA, PA | On Site | Jan 24 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/6794270af43679dbcd7f53ff?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jan 24 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Policy Research Intern, Geopolitical AI and Cloud - Summer 2025](https://jobright.ai/jobs/info/679315da4f9270d1563e5c87?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research Internship, Center for Health Policy, Economic Studies (Job ID: 2025-3581)](https://jobright.ai/jobs/info/67932423cfe8e03be68bf2f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Intern - Seattle City Light](https://jobright.ai/jobs/info/67930f7a5d343494cd940945?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
+| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[US Medical Affairs - Scientific Materials-Summer Intern-Job ID: MAS25](https://jobright.ai/jobs/info/67932641c81e6b7687d667f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jan 23 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - Environmental, Social & Governance (ESG)](https://jobright.ai/jobs/info/67804ba4080e0c416f055bd1?utm_campaign=1056&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 23 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Healthcare Administration](https://jobright.ai/jobs/info/67938c1328fa474d93af5fb1?utm_campaign=1056&utm_source=git)** | Westbrook, ME | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Utility Program Services (Bachelors; NM)](https://jobright.ai/jobs/info/67903a62ed60566cd7d41164?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 21 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Women's Leadership Conference - Summer 2025](https://jobright.ai/jobs/info/679020190a4b62dc8430b609?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Jan 21 |
 | **[RTD](https://www.rtd-denver.com)** | **[Intern - Transit-Oriented Communities](https://jobright.ai/jobs/info/67901246bf5cdb2ee416de54?utm_campaign=1056&utm_source=git)** | Civic Center Plaza | On Site | Jan 21 |
-| **[Start Early](https://www.startearly.org/)** | **[Intern - Illinois Policy](https://jobright.ai/jobs/info/678ae6547791999c9b48014e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 21 |
-| **[Valley Water](https://www.valleywater.org/)** | **[Sacramento Government Relations Intern](https://jobright.ai/jobs/info/678ffb018f43062ff980eec2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jan 21 |
-| **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Utility Program Services (Bachelors; NM)](https://jobright.ai/jobs/info/678ff5c5704d6375369a3dc0?utm_campaign=1056&utm_source=git)** | Albuquerque, NM (NM08) | On Site | Jan 21 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Communications and Responsible Purchasing (Summer 2025)](https://jobright.ai/jobs/info/6790007262fc49dfed83d980?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Jan 21 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Public Information Officer, Position Number: 20077984](https://jobright.ai/jobs/info/678ffde74903d8667661566b?utm_campaign=1056&utm_source=git)** | Allen, OH | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
