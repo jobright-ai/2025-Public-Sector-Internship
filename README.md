@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Township of Upper St. Clair](https://www.twpusc.org/)** | **[Local Government Administrative Intern - Spring 2025](https://jobright.ai/jobs/info/67955cc22f870c085f64c09d?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Jan 25 |
+| **[Spurwink](http://www.spurwink.org)** | **[Internship - Healthcare Administration](https://jobright.ai/jobs/info/6795535ab8c1bfc720896427?utm_campaign=1056&utm_source=git)** | Westbrook, ME | Hybrid | Jan 25 |
 | **[Nex-Tech](http://nex-tech.com)** | **[Community Engagement Intern - Summer 2025](https://jobright.ai/jobs/info/6794f5be5ba41fd7692f28a0?utm_campaign=1056&utm_source=git)** | Hays, KS | Hybrid | Jan 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Communications Internship, Governance Studies (Job ID: 2025-3579)](https://jobright.ai/jobs/info/6794cf8745f2befe697afb64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 25 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Office of Industry Research Assistant](https://jobright.ai/jobs/info/6794b9b1bdb7bf2ecb57e0cb?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 25 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Small Modular Reactor (SMR) & Energy Policy Analyst](https://jobright.ai/jobs/info/67914173d61fe8e9223050e0?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 22 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Federal Planning Intern](https://jobright.ai/jobs/info/678567ce02cc9f6deca0fb8b?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Office Intern](https://jobright.ai/jobs/info/6791235a40cfec64c5680616?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jan 22 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
-| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
+| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern](https://jobright.ai/jobs/info/6793c12c696d8ae7548617aa?utm_campaign=1056&utm_source=git)** | New Braunfels | On Site | Jan 22 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Communications Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1ede01a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jan 22 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202d04?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 22 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern, Emergency Management](https://jobright.ai/jobs/info/6790c74479babaff10ba9ace?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | ↳ | **[Intern, Community Relation](https://jobright.ai/jobs/info/6790db20feac3d8ee98198fa?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
-| **[Community Health Alliance Nevada](https://www.chanevada.org)** | **[Reproductive Health Intern (28979)](https://jobright.ai/jobs/info/679352018ce26e81cc7a7f6f?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Jan 21 |
-| **[University of Arizona](https://www.arizona.edu)** | **[Senior Director, State Relations](https://jobright.ai/jobs/info/679352018ce26e81cc7a7fb5?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
