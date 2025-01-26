@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Township of Upper St. Clair](https://www.twpusc.org/)** | **[Local Government Administrative Intern - Spring 2025](https://jobright.ai/jobs/info/67955cc22f870c085f64c09d?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Jan 25 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6795aadf19217f95898bd1e1?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Jan 25 |
+| **[Port Houston](https://porthouston.com/)** | **[Intern, Emergency Management](https://jobright.ai/jobs/info/6790c74479babaff10ba9ace?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Healthcare Administration](https://jobright.ai/jobs/info/6795535ab8c1bfc720896427?utm_campaign=1056&utm_source=git)** | Westbrook, ME | Hybrid | Jan 25 |
 | **[Nex-Tech](http://nex-tech.com)** | **[Community Engagement Intern - Summer 2025](https://jobright.ai/jobs/info/6794f5be5ba41fd7692f28a0?utm_campaign=1056&utm_source=git)** | Hays, KS | Hybrid | Jan 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Communications Internship, Governance Studies (Job ID: 2025-3579)](https://jobright.ai/jobs/info/6794cf8745f2befe697afb64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 25 |
@@ -91,6 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67938060be40905d41029332?utm_campaign=1056&utm_source=git)** | Council Bluffs, IA | On Site | Jan 24 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Administration Intern](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2c4?utm_campaign=1056&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Jan 23 |
 | ↳ | **[Public Administration Intern](https://jobright.ai/jobs/info/67934945cbc6072fd683020c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6795d5e8f9741c1b3fe64445?utm_campaign=1056&utm_source=git)** | Columbia, KY | On Site | Jan 23 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Sustainability & Environment](https://jobright.ai/jobs/info/6795d41bf9741c1b3fe63d7e?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Jan 23 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research Internship, Center for Health Policy, Economic Studies (Job ID: 2025-3581)](https://jobright.ai/jobs/info/6795ba897cca49570c8f1c5e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Policy Research Intern, Geopolitical AI and Cloud - Summer 2025](https://jobright.ai/jobs/info/679315da4f9270d1563e5c87?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 23 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Intern - Seattle City Light](https://jobright.ai/jobs/info/67930f7a5d343494cd940945?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Communications Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1ede01a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jan 22 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Jan 22 |
-| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Internship - Merrimack, NH](https://jobright.ai/jobs/info/673fc9377261118f03058cd1?utm_campaign=1056&utm_source=git)** | Merrimack, NH | On Site | Jan 22 |
-| **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202d04?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 22 |
-| **[Port Houston](https://porthouston.com/)** | **[Intern, Emergency Management](https://jobright.ai/jobs/info/6790c74479babaff10ba9ace?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
-| ↳ | **[Intern, Community Relation](https://jobright.ai/jobs/info/6790db20feac3d8ee98198fa?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
