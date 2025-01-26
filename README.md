@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Sustainability - Reporting & Assurance Intern - Summer 2025](https://jobright.ai/jobs/info/67961a767c657710764482e3?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jan 26 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Government Affairs Coordinator](https://jobright.ai/jobs/info/67646eb4a82c0007fef3b0b6?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 26 |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Providence College Internship 2025 - Medicare Policy](https://jobright.ai/jobs/info/67960c6e8c45cd8b171b5ef2?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Jan 26 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6795aadf19217f95898bd1e1?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Jan 25 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern, Emergency Management](https://jobright.ai/jobs/info/6790c74479babaff10ba9ace?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Healthcare Administration](https://jobright.ai/jobs/info/6795535ab8c1bfc720896427?utm_campaign=1056&utm_source=git)** | Westbrook, ME | Hybrid | Jan 25 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Small Modular Reactor (SMR) & Energy Policy Analyst](https://jobright.ai/jobs/info/67914173d61fe8e9223050e0?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 22 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Federal Planning Intern](https://jobright.ai/jobs/info/678567ce02cc9f6deca0fb8b?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Office Intern](https://jobright.ai/jobs/info/6791235a40cfec64c5680616?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jan 22 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
-| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
+| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern](https://jobright.ai/jobs/info/6793c12c696d8ae7548617aa?utm_campaign=1056&utm_source=git)** | New Braunfels | On Site | Jan 22 |
-| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Medical Affairs Communications Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1ede01a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Jan 22 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2025 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/677c54bbff9dcb27ff895c2a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
-| **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER'S 2025 SUMMER INTERNSHIP - DEVELOPMENT (PROPERTY MANAGEMENT/AFFORDABLE HOUSING) - Rochester, NY or Remote](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1727?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
