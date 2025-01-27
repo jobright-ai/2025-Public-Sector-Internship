@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Policy MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45fb7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - City Manager's Office](https://jobright.ai/jobs/info/67973a35fb38082f7b4dabcb?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Jan 26 |
 | ↳ | **[Summer 2025 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/67973a35fb38082f7b4dabcd?utm_campaign=1056&utm_source=git)** | Statewide, NC | On Site | Jan 26 |
 | ↳ | **[Social Work Intern (Juvenile Justice)](https://jobright.ai/jobs/info/67973a35fb38082f7b4dabca?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 26 |
@@ -65,11 +66,11 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Corporate Social Responsibility Internships: NYC- Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22a1?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | ↳ | **[CNN Political Unit Intern: DC - Summer 2025](https://jobright.ai/jobs/info/6797362cfee9d9c11efb31f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Health Data Exchange Associate Intern](https://jobright.ai/jobs/info/67966b1a76f4b7af28c2721a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
-| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/67966435c556eb13d67e1759?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 26 |
+| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Basic Services & Secondary Migrant Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e1769?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e175d?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/67966435c556eb13d67e1759?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/67966435c556eb13d67e175a?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jan 26 |
 | ↳ | **[[Summer 2025] Nonprofit Administration Intern, IINE Manchester](https://jobright.ai/jobs/info/67966435c556eb13d67e1768?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jan 26 |
-| ↳ | **[[Summer 2025] Basic Services & Secondary Migrant Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e1769?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
-| ↳ | **[[Summer 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e175d?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
 | ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e176e?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
 | ↳ | **[[Summer 2025] Grants Writing & Research Intern, IINE Boston](https://jobright.ai/jobs/info/67966435c556eb13d67e177b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Reporting & Assurance Intern - Summer 2025](https://jobright.ai/jobs/info/67961a767c657710764482e3?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2025 Intern Program: National Grid Partners (NGP) - Corporate Affairs](https://jobright.ai/jobs/info/6791674145f66bc9d8f4edf3?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 22 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Summer Fellow, McKenna Center for Human Development and Global Business](https://jobright.ai/jobs/info/6791721244b88afb9cf62f3b?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | On Site | Jan 22 |
 | **[ChristianaCare](http://christianacare.org)** | **[Emergency Management Planner Intern](https://jobright.ai/jobs/info/6791638e75f567a164761740?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Jan 22 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Land Acquisitions Intern (San Ramon)](https://jobright.ai/jobs/info/6791638e75f567a1647617a8?utm_campaign=1056&utm_source=git)** | San Ramon, California | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
