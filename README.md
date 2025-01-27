@@ -57,12 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Policy Institute of California](http://ppic.org)** | **[Summer Intern Project 2: Drivers of Homelessness](https://jobright.ai/jobs/info/6796aa65544f23392e831370?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 26 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Health Data Exchange Associate Intern](https://jobright.ai/jobs/info/67966b1a76f4b7af28c2721a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
+| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Trafficking Victims Assistance Program (TVAP) Intern, IINE Boston](https://jobright.ai/jobs/info/67966435c556eb13d67e1759?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Manchester](https://jobright.ai/jobs/info/67966435c556eb13d67e175a?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Nonprofit Administration Intern, IINE Manchester](https://jobright.ai/jobs/info/67966435c556eb13d67e1768?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Shelter Services & Migrant Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e175d?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Basic Services & Secondary Migrant Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e1769?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67966435c556eb13d67e176e?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jan 26 |
+| ↳ | **[[Summer 2025] Grants Writing & Research Intern, IINE Boston](https://jobright.ai/jobs/info/67966435c556eb13d67e177b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Reporting & Assurance Intern - Summer 2025](https://jobright.ai/jobs/info/67961a767c657710764482e3?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jan 26 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Government Affairs Coordinator](https://jobright.ai/jobs/info/67646eb4a82c0007fef3b0b6?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 26 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Providence College Internship 2025 - Medicare Policy](https://jobright.ai/jobs/info/67960c6e8c45cd8b171b5ef2?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Jan 26 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6795aadf19217f95898bd1e1?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Jan 25 |
 | **[Port Houston](https://porthouston.com/)** | **[Intern, Emergency Management](https://jobright.ai/jobs/info/6790c74479babaff10ba9ace?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Healthcare Administration](https://jobright.ai/jobs/info/6795535ab8c1bfc720896427?utm_campaign=1056&utm_source=git)** | Westbrook, ME | Hybrid | Jan 25 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Nex-Tech](http://nex-tech.com)** | **[Community Engagement Intern - Summer 2025](https://jobright.ai/jobs/info/6794f5be5ba41fd7692f28a0?utm_campaign=1056&utm_source=git)** | Hays, KS | Hybrid | Jan 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Communications Internship, Governance Studies (Job ID: 2025-3579)](https://jobright.ai/jobs/info/6794cf8745f2befe697afb64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 25 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Office of Industry Research Assistant](https://jobright.ai/jobs/info/6794b9b1bdb7bf2ecb57e0cb?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 25 |
@@ -76,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship : Justice Related Services](https://jobright.ai/jobs/info/67943939f99a8ccaab4ebc46?utm_campaign=1056&utm_source=git)** | Bensalem, PA | On Site | Jan 24 |
 | **[NEOGOV](http://www.neogov.com)** | **[GIS intern I - Department of Utilities](https://jobright.ai/jobs/info/679425937a6c01eea7175fc2?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 24 |
 | ↳ | **[Internship - Sustainability & Environment](https://jobright.ai/jobs/info/679425937a6c01eea7175f93?utm_campaign=1056&utm_source=git)** | PA, PA | On Site | Jan 24 |
+| **[RTD](https://www.rtd-denver.com)** | **[Intern - Transit-Oriented Communities](https://jobright.ai/jobs/info/67905e5e842c40e854deee6a?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 24 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/6794270af43679dbcd7f53ff?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Jan 24 |
 | ↳ | **[Crisis & Issues Summer Intern](https://jobright.ai/jobs/info/67942208bb84bd4972d69205?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67941abcda5db0d864eabd04?utm_campaign=1056&utm_source=git)** | Wingate, NC | On Site | Jan 24 |
@@ -92,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Economic Development Associate Internship](https://jobright.ai/jobs/info/6793abc51d9af2608f743a95?utm_campaign=1056&utm_source=git)** | Albemarle, NC | On Site | Jan 24 |
 | **[Stagwell](http://www.stagwellgroup.com/)** | **[Spring 2025 Public Affairs Internship - NY](https://jobright.ai/jobs/info/6793ba70df8fc9a6ff6c6eb3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Houston)](https://jobright.ai/jobs/info/6753c6d7e0bf7992da587e71?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67938060be40905d41029332?utm_campaign=1056&utm_source=git)** | Council Bluffs, IA | On Site | Jan 24 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Administration Intern](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2c4?utm_campaign=1056&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Jan 23 |
 | ↳ | **[Public Administration Intern](https://jobright.ai/jobs/info/67934945cbc6072fd683020c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6795d5e8f9741c1b3fe64445?utm_campaign=1056&utm_source=git)** | Columbia, KY | On Site | Jan 23 |
@@ -111,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/679302a6bf68ba130ccf1743?utm_campaign=1056&utm_source=git)** | Kearney, NE | On Site | Jan 23 |
 | **[MBTA](http://mbta.com)** | **[Intern, Policy & Strategic Planning](https://jobright.ai/jobs/info/6792a587a3d006db3394d901?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Internship Opportunity for Food Safety Program - Paid](https://jobright.ai/jobs/info/679298456a7fea54edc1b421?utm_campaign=1056&utm_source=git)** | Lexington County, SC | Hybrid | Jan 23 |
-| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Engagement and Program Development Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af8f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 23 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Office of Transportation and Infrastructure Systems (OTIS) Internship](https://jobright.ai/jobs/info/67928be17398e6f5e7747125?utm_campaign=1056&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Jan 23 |
 | ↳ | **[Office of Transportation and Infrastructure Systems (OTIS) Internship](https://jobright.ai/jobs/info/679308a2333ed4afd81023b7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Public Affairs Co-Op/Intern - Fall 2025](https://jobright.ai/jobs/info/67934945cbc6072fd68306dd?utm_campaign=1056&utm_source=git)** | Greater Tampa Bay Area | On Site | Jan 23 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[INTERN - PLANNING DEPT. SPRING THROUGH SUMMER ASSIGNMENT) 2 VACANCIES - $15 PER HOUR](https://jobright.ai/jobs/info/6791535406c20e9307a34b12?utm_campaign=1056&utm_source=git)** | 750 West Iredell Ave, NC | On Site | Jan 22 |
 | ↳ | **[2025 Summer Intern-Transit Planning Intern](https://jobright.ai/jobs/info/6791535406c20e9307a34b1a?utm_campaign=1056&utm_source=git)** | Bradenton, FL | On Site | Jan 22 |
 | **[Ørsted](https://orsted.com)** | **[Government and Market Affairs, Growth and New Markets, Onshore - Intern 2025](https://jobright.ai/jobs/info/679144f2dc2010a088d06ee2?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 22 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Responsible Business & Sustainability Intern (Remote)](https://jobright.ai/jobs/info/67914798599983d89b89fdff?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 22 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2025 Internship - Medical Affairs Intern - Remote](https://jobright.ai/jobs/info/67915d81687f68174b1675ad?utm_campaign=1056&utm_source=git)** | Michigan, United States | Remote | Jan 22 |
-| ↳ | **[Summer 2025 Internship - Medical Affairs Intern - Remote](https://jobright.ai/jobs/info/67915d81687f68174b1675f1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
-| **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Small Modular Reactor (SMR) & Energy Policy Analyst](https://jobright.ai/jobs/info/67914173d61fe8e9223050e0?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Jan 22 |
-| **[Michael Baker International](http://mbakerintl.com/)** | **[Federal Planning Intern](https://jobright.ai/jobs/info/678567ce02cc9f6deca0fb8b?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 22 |
-| **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Office Intern](https://jobright.ai/jobs/info/6791235a40cfec64c5680616?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jan 22 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93b40?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | On Site | Jan 22 |
-| ↳ | **[Comptroller - Legislative Affairs Summer Intern (Clerk III)](https://jobright.ai/jobs/info/67911d943ffe64b73cf93bfb?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Jan 22 |
-| **[NEOGOV](http://www.neogov.com)** | **[Intern](https://jobright.ai/jobs/info/6793c12c696d8ae7548617aa?utm_campaign=1056&utm_source=git)** | New Braunfels | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
