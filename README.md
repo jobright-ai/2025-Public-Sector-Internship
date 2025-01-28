@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Public Safety Officer Intern - $18/HR](https://jobright.ai/jobs/info/6798d3427db8a2f5cb074014?utm_campaign=1056&utm_source=git)** | Gurnee, IL | On Site | Jan 28 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Environmental Affairs (Summer 2025)](https://jobright.ai/jobs/info/6798b53c2302486b9470ddc5?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Summer Internship](https://jobright.ai/jobs/info/6798a6351bc7cbff05d427e1?utm_campaign=1056&utm_source=git)** | Grapevine, TX | On Site | Jan 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Workplace Utility & Waste, North America Sales & Service Infrastructure Development (Summer 2025)](https://jobright.ai/jobs/info/67989fc7f05a87696c0664fa?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Jan 27 |
 | **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Sustainable Diets Initiative Summer Intern](https://jobright.ai/jobs/info/67985646797cecda46d2fe67?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67985c2fea28d5a704bfe9fa?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jan 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67985c2fea28d5a704bfe9f9?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67985c2fea28d5a704bfe9f9?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67985c2fea28d5a704bfe9fa?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jan 27 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Social Work Student Researcher](https://jobright.ai/jobs/info/67985c2fea28d5a704bfe6f1?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | Jan 27 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Government and Regulatory Affairs Intern](https://jobright.ai/jobs/info/679869afe0c09e92343d4335?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Environmental Science and Policy Intern - Seattle City Light](https://jobright.ai/jobs/info/67984853b0a599a69cf9e24b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
@@ -131,8 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Houston)](https://jobright.ai/jobs/info/6753c6d7e0bf7992da587e71?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[LCLD 1L Diversity Summer Associate - American Water](https://jobright.ai/jobs/info/67987f65ae7d715e94014b98?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jan 23 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Administration Intern](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2c4?utm_campaign=1056&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Jan 23 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Spring 2025)](https://jobright.ai/jobs/info/679741e48ba5166e40221be1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Public Administration Intern](https://jobright.ai/jobs/info/67934945cbc6072fd683020c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
+| ↳ | **[Public Administration Intern](https://jobright.ai/jobs/info/67934945cbc6072fd683020c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6795d5e8f9741c1b3fe64445?utm_campaign=1056&utm_source=git)** | Columbia, KY | On Site | Jan 23 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Internship - Sustainability & Environment](https://jobright.ai/jobs/info/6795d41bf9741c1b3fe63d7e?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research Internship, Center for Health Policy, Economic Studies (Job ID: 2025-3581)](https://jobright.ai/jobs/info/6795ba897cca49570c8f1c5e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/679323962a3caca2c4465c17?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Jan 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[City Clerk Intern](https://jobright.ai/jobs/info/679268cbd367a60eeaedf14e?utm_campaign=1056&utm_source=git)** | FL 33444, FL | On Site | Jan 23 |
 | **[MDC](https://www.mdcinc.org)** | **[2025 Dan Broun Internship](https://jobright.ai/jobs/info/679271ad6f2ae1411f0b3a10?utm_campaign=1056&utm_source=git)** | Durham, NC | Hybrid | Jan 23 |
-| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6792610f7784e59c5e3fa1e9?utm_campaign=1056&utm_source=git)** | USA - NJ - Camden | On Site | Jan 23 |
-| **[NEOGOV](http://www.neogov.com)** | **[Neighborhood and Community Services Intern - Paid](https://jobright.ai/jobs/info/67925a66fcd187cf5422bd8e?utm_campaign=1056&utm_source=git)** | Delray Beach FL 33144, FL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
