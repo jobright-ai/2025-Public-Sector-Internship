@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67a473ca32abdc9cbc7c7104?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Remote | Feb 05 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67a422781318d489fec8b7bd?utm_campaign=1056&utm_source=git)** | Waterbury, VT | Hybrid | Feb 05 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Summer Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/67a42f4998e77eab6386928c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 | ↳ | **[2025 Summer Internship, Research- Corporate + Public Affairs](https://jobright.ai/jobs/info/67a420ed4f888452586e3b06?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -86,13 +87,12 @@ For a complete list, click the following sortable link below:
 | **[RaganSmith](http://www.ragansmith.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd4de1?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Feb 05 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Intern SU25: Assessing the Impacts of ICE Bans](https://jobright.ai/jobs/info/67626b3a5b8c08e7051ad8e8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 05 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Health Equity - R8141](https://jobright.ai/jobs/info/6712ef44d9db9a793458c0d6?utm_campaign=1056&utm_source=git)** | Dayton, OH | Hybrid | Feb 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern, Community Outreach & Engagement Program](https://jobright.ai/jobs/info/67a35a7eb8dfa3b20e1e1d26?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Energy Transition - Campus 2025](https://jobright.ai/jobs/info/67a331177dcb937a0819f2c1?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 05 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c122?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c125?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Feb 04 |
-| ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c126?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c127?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c128?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 04 |
+| ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c126?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a31c8426dbed2cebb51898?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Sec. and Interface Maturation , Onsite](https://jobright.ai/jobs/info/67a316367dc3e3a5e3d0e87a?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 04 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Social Worker ( LCSW or Registered Clinical Social Worker Intern)](https://jobright.ai/jobs/info/67a2f1ff7cb53b10750ee927?utm_campaign=1056&utm_source=git)** | Zephyrhills, FL | On Site | Feb 04 |
@@ -102,13 +102,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IFC Global Internship Program - Development Impact Measurement - MAS Internship - req31567](https://jobright.ai/jobs/info/67a2e4e5792b9622725c0971?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | ↳ | **[IFC Global Internship Program - Climate Business Internship - req31565](https://jobright.ai/jobs/info/67a2f3e99e80fc0376cebe2b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Health Policy Summer Intern - 40 hrs/wk - Days - Detroit](https://jobright.ai/jobs/info/67a2f5659e80fc0376cec465?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Feb 04 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2025)](https://jobright.ai/jobs/info/67a2d704250b90ec965669bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 04 |
-| ↳ | **[Intern - The Critical Minerals Security Program(Spring 2025)](https://jobright.ai/jobs/info/67a2d704250b90ec96566ac1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern 1 (PCN 25IN1814, 25IN1815, 25IN2002)](https://jobright.ai/jobs/info/67a2c343b6d207d0d01dc36a?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 04 |
 | **[NCTA - The Internet & Television Association](https://www.ncta.com)** | **[INTERN - GR](https://jobright.ai/jobs/info/67a3dcfc14277545bcf28f26?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 04 |
 | **[NEOGOV](http://www.neogov.com)** | **[Council Intern](https://jobright.ai/jobs/info/67a2a6e3d906f43c83fa6f65?utm_campaign=1056&utm_source=git)** | The City of Pinole, CA | On Site | Feb 04 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Philanthropy intern](https://jobright.ai/jobs/info/67a2b82fcfa697fb7c0030bc?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 04 |
 | **[Glencore](http://glencore.com)** | **[Summer Intern - Government Relations](https://jobright.ai/jobs/info/67a2a14f01f6c7be9652238c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
+| **[NEOGOV](http://www.neogov.com)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67a45b4c5deda4bbf0f1d140?utm_campaign=1056&utm_source=git)** | Corpus Christi, TX | On Site | Feb 04 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Forward Planning Internship](https://jobright.ai/jobs/info/67a29623bc2c60c7141b478d?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Feb 04 |
 | **[UNICEF](https://agora.unicef.org/)** | **[INTERNSHIP: Parenting Intern (full time, 26 weeks) - GCA, NYHQ - Requisition# 579704](https://jobright.ai/jobs/info/67a28f46ce3af7b838d74f61?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Feb 04 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Research Intern, Greater Justice New York](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c2?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 04 |
@@ -123,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[The Weitz Company](http://www.weitz.com)** | **[Insurance Program Intern - Summer 2025](https://jobright.ai/jobs/info/67a2467829c1fe435c297259?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Feb 04 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Provider Network Intern](https://jobright.ai/jobs/info/678043372ca46820f4f83358?utm_campaign=1056&utm_source=git)** | Meridian, ID | On Site | Feb 04 |
 | **[Omaha Public Power District](https://www.oppd.com/)** | **[Intern Emergency Preparedness - Summer-Fall 2025](https://jobright.ai/jobs/info/6785fb58a1266341a55a67df?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Feb 04 |
-| **[Cincinnati Reds](https://reds.mlb.com/)** | **[Uniformed Personnel Family Intern](https://jobright.ai/jobs/info/67a338a52b3793ad5aa96a1f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 04 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/67a1c38b546af1fdfd30762e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 03 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Moody Center / Part-Time](https://jobright.ai/jobs/info/67a1df4b86f17c04dc598a57?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 03 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/67a18f7da9cf467bf9ff7a2f?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Feb 03 |
@@ -132,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Homeless & Housing Case Management](https://jobright.ai/jobs/info/67a188d885b2c9d285d626fd?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
 | ↳ | **[Internship: Graduate Social Work/Counseling](https://jobright.ai/jobs/info/67a17821ccbef5667d44873f?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
 | ↳ | **[Internship: Advocacy](https://jobright.ai/jobs/info/67a17821ccbef5667d44870c?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
+| **[Deltek](http://www.deltek.com)** | **[DPS GovCon Intern](https://jobright.ai/jobs/info/67a2b4077e7ab3358c25ca51?utm_campaign=1056&utm_source=git)** | Herndon, VA | On Site | Feb 03 |
 | **[Zscaler](https://www.zscaler.com)** | **[Program Management Intern-SkillBridge (FedRAMP)](https://jobright.ai/jobs/info/67a16a7c86cdda79deb0d978?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Bucks County Intermediate Unit](http://www.BucksIU.org)** | **[Clinical Social Worker Unpaid Internship (2025-2026 School Year)](https://jobright.ai/jobs/info/6797f5eca728090df1c8807f?utm_campaign=1056&utm_source=git)** | Levittown, PA | On Site | Feb 03 |
 | **[Maximus](http://www.maximus.com/)** | **[Market Strategy Intern - Policy Analysis](https://jobright.ai/jobs/info/679965a49889d0b612e69034?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 03 |
@@ -148,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[ROC City Fellows Intern - Graduate](https://jobright.ai/jobs/info/67a127e5c90df92968a47a10?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Feb 03 |
 | ↳ | **[PUBLIC SERVICE INTERN II - TEMPORARY - Range 10 / NON](https://jobright.ai/jobs/info/67a127e5c90df92968a47a26?utm_campaign=1056&utm_source=git)** | 3000 Arctic Blvd., AK | On Site | Feb 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Carbon Solutions: Energy Transition & Government Impact Internship](https://jobright.ai/jobs/info/67a19fc8d1261431043f10dd?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
-| **[Solar Energy Industries Association](http://www.seia.org)** | **[Manufacturing and Supply Chain Policy  Spring Intern 2025](https://jobright.ai/jobs/info/67a12e3702d8244f976cf18f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 03 |
-| ↳ | **[State Affairs Spring Intern 2025](https://jobright.ai/jobs/info/67a12e3702d8244f976cf176?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 03 |
+| **[Solar Energy Industries Association](http://www.seia.org)** | **[State Affairs Spring Intern 2025](https://jobright.ai/jobs/info/67a12e3702d8244f976cf176?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 03 |
+| ↳ | **[Manufacturing and Supply Chain Policy  Spring Intern 2025](https://jobright.ai/jobs/info/67a12e3702d8244f976cf18f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 03 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67a1337d09ec24ddd9f3a5b0?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Feb 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67a10ac6aa9d34b2e0595bea?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Licitaciones Intern - San José, Costa Rica](https://jobright.ai/jobs/info/67a1e4eb35ad959106a4ceff?utm_campaign=1056&utm_source=git)** | San José Metropolitan Area | On Site | Feb 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/670f45116c727bfb3a197424?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Paid Internship- Office of the Mayor](https://jobright.ai/jobs/info/67a06664b51c556066ed3894?utm_campaign=1056&utm_source=git)** | City Hall Bloomington, IN | On Site | Feb 02 |
 | **[Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov)** | **[The Peters Fellowship](https://jobright.ai/jobs/info/67a19d1cf20d1f9f2954f950?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[RWE](https://www.group.rwe/)** | **[Repower Intern, Spring 2025](https://jobright.ai/jobs/info/67485c90abef33f64cf2da31?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
