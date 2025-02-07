@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[Board of Supervisors District 4 (Desert Region) Legislative Intern](https://jobright.ai/jobs/info/67a57a42fa3763abc3c34cf1?utm_campaign=1056&utm_source=git)** | Desert Center | On Site | Feb 06 |
+| **[Primerica](https://www.primerica.com)** | **[AEMS-2025-2i Program Specialist Intern](https://jobright.ai/jobs/info/67a5791e55bde95c4a7fed24?utm_campaign=1056&utm_source=git)** | Cedar Knolls, NJ | On Site | Feb 06 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67a564ff255f02bcbb68300a?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research and Events Internship, Talbott Center, Foreign Policy (2025-3609)](https://jobright.ai/jobs/info/67a56dc3abfb1a7dfabf6498?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c3ee7d70644f7e875b40d?utm_campaign=1056&utm_source=git)** | El Paso, TX | Hybrid | Feb 06 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/67a54a44afb7c8ce539f9b56?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Medical Affairs Summer Intern 2025](https://jobright.ai/jobs/info/67a5485309537b2b10f7753a?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
+| ↳ | **[Global Medical Affairs Summer Intern 2025](https://jobright.ai/jobs/info/67a5537b7da50674775915ec?utm_campaign=1056&utm_source=git)** | Horsham, PA | On Site | Feb 06 |
 | **[CoBank](http://www.cobank.com/)** | **[Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/67a522539c98f1e33bf13700?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/67a5441850c7e785a4164a61?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Summer 2025 Policy & Legislation Internship](https://jobright.ai/jobs/info/67a52b5da47685b6f382a80b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[Technical Networks, Infrastructure & Applications Intern](https://jobright.ai/jobs/info/67a4e6efceb60b8d14e7b396?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Feb 06 |
 | **[ROCK](http://www.rockventures.com/)** | **[Philanthropic Intern - Summer 2025](https://jobright.ai/jobs/info/67a4e9eb4b1713f4010e5976?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
 | **[GBH](http://www.wgbh.org/)** | **[Community and Government Relations Internship - Summer 2025](https://jobright.ai/jobs/info/67a4d2df8290a24c0bf2a92e?utm_campaign=1056&utm_source=git)** | Boston | On Site | Feb 06 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/67a49180a9992fba3591dc87?utm_campaign=1056&utm_source=git)** | Effingham, IL | On Site | Feb 06 |
 | **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67a473ca32abdc9cbc7c7104?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Remote | Feb 05 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67a422781318d489fec8b7bd?utm_campaign=1056&utm_source=git)** | Waterbury, VT | Hybrid | Feb 05 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Summer Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/67a42f4998e77eab6386928c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
@@ -112,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Planning Intern (Non-Engineering Degree) - St. Louis District](https://jobright.ai/jobs/info/6785e67304c3ba50f082eb05?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Feb 05 |
 | **[HKS, Inc.](http://www.hksinc.com/)** | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c122?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c125?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Feb 04 |
+| ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c126?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c128?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c127?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Feb 04 |
-| ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a32b378ace96599852c126?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
 | ↳ | **[Equitable Impact Fellowship](https://jobright.ai/jobs/info/67a31c8426dbed2cebb51898?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year Round - Sec. and Interface Maturation , Onsite](https://jobright.ai/jobs/info/67a316367dc3e3a5e3d0e87a?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 04 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Social Worker ( LCSW or Registered Clinical Social Worker Intern)](https://jobright.ai/jobs/info/67a2f1ff7cb53b10750ee927?utm_campaign=1056&utm_source=git)** | Zephyrhills, FL | On Site | Feb 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Homeless & Housing Case Management](https://jobright.ai/jobs/info/67a188d885b2c9d285d626fd?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
 | ↳ | **[Internship: Graduate Social Work/Counseling](https://jobright.ai/jobs/info/67a17821ccbef5667d44873f?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
 | ↳ | **[Internship: Advocacy](https://jobright.ai/jobs/info/67a17821ccbef5667d44870c?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 03 |
-| **[Zscaler](https://www.zscaler.com)** | **[Program Management Intern-SkillBridge (FedRAMP)](https://jobright.ai/jobs/info/67a16a7c86cdda79deb0d978?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Bucks County Intermediate Unit](http://www.BucksIU.org)** | **[Clinical Social Worker Unpaid Internship (2025-2026 School Year)](https://jobright.ai/jobs/info/6797f5eca728090df1c8807f?utm_campaign=1056&utm_source=git)** | Levittown, PA | On Site | Feb 03 |
-| **[Maximus](http://www.maximus.com/)** | **[Market Strategy Intern - Policy Analysis](https://jobright.ai/jobs/info/679965a49889d0b612e69034?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 03 |
-| **[APTIM](https://www.aptim.com/)** | **[Energy Transition Policy Intern](https://jobright.ai/jobs/info/67a1553faa654d235c3c3d62?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
