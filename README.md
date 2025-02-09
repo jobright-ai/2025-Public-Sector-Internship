@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/67a802244550be88f842c71a?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Feb 08 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship - City Managers Office](https://jobright.ai/jobs/info/67a7d8152bc7756a4cdc0043?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 08 |
 | ↳ | **[Police Department Summer Internship (Summer 2025)](https://jobright.ai/jobs/info/67a78b01f42489a1d24b5a36?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 08 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/67a76280d59a737f6898e3fe?utm_campaign=1056&utm_source=git)** | Effingham, IL | On Site | Feb 08 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/67a6e1de3fa670fc0881dbb4?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 07 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Financial Services - Public Sector - Campus 2025](https://jobright.ai/jobs/info/67a6d41052e0fc97671c377d?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Genentech](http://gene.com)** | **[2025-2026 1-Year Intern - Health Equity and Population Science](https://jobright.ai/jobs/info/67a6cd9650ad618aee397558?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Feb 07 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research Internship, Center for Technology Innovation, Governance Studies (JOB ID 2025-3608)](https://jobright.ai/jobs/info/67a81b0b561b91cb3d347c73?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 07 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Research Coordination Intern - Temporary Part-Time](https://jobright.ai/jobs/info/67a6c326007f8365c3b01e5d?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Policy Intern, Redefining Public Safety](https://jobright.ai/jobs/info/67a6cd9650ad618aee3976e4?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 07 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Community Impact Intern - Summer 2025](https://jobright.ai/jobs/info/67a6a9ad6843194e264649fb?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Feb 07 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Berkeley Research Group (BRG)](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/67a60bd13679107140407923?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Feb 07 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/6780b7cf17d3a2cecb99bae7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern - Global Trade Program Office - Onsite (MA)](https://jobright.ai/jobs/info/673e5aa1220bdfbd53571a64?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | Hybrid | Feb 07 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Public Safety- Loss Prevention Internship](https://jobright.ai/jobs/info/67a5f319620befe64c8ad6f8?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Feb 07 |
-| ↳ | **[Public Safety - Security Division Internship](https://jobright.ai/jobs/info/67a5f319620befe64c8ad6e2?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Feb 07 |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Public Safety - Security Division Internship](https://jobright.ai/jobs/info/67a5f319620befe64c8ad6e2?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Feb 07 |
+| ↳ | **[Public Safety- Loss Prevention Internship](https://jobright.ai/jobs/info/67a5f319620befe64c8ad6f8?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Feb 07 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Government Affairs (Summer 2025)](https://jobright.ai/jobs/info/677c9ee08df0361ca5e82221?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 07 |
 | **[ACHIEVE](https://www.achieveny.org)** | **[Volunteer / Intern](https://jobright.ai/jobs/info/67a5cf299a1dbec008b1bfbb?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Feb 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern Trainee - Public Health & Human Services (Open)](https://jobright.ai/jobs/info/67a5b974a4e931104a32e752?utm_campaign=1056&utm_source=git)** | Duluth/Hibbing/Virginia, MN | On Site | Feb 06 |
@@ -119,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67a564ff255f02bcbb68300a?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Research and Events Internship, Talbott Center, Foreign Policy (2025-3609)](https://jobright.ai/jobs/info/67a56dc3abfb1a7dfabf6498?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (El Paso)](https://jobright.ai/jobs/info/672c3ee7d70644f7e875b40d?utm_campaign=1056&utm_source=git)** | El Paso, TX | Hybrid | Feb 06 |
-| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/67a54a44afb7c8ce539f9b56?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Global Medical Affairs Summer Intern 2025](https://jobright.ai/jobs/info/67a5485309537b2b10f7753a?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
 | ↳ | **[Global Medical Affairs Summer Intern 2025](https://jobright.ai/jobs/info/67a5537b7da50674775915ec?utm_campaign=1056&utm_source=git)** | Horsham, PA | On Site | Feb 06 |
+| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/67a5370672df5cf7fdd4b0c7?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 06 |
 | **[CoBank](http://www.cobank.com/)** | **[Government Affairs Intern - Summer 2025](https://jobright.ai/jobs/info/67a522539c98f1e33bf13700?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/67a5441850c7e785a4164a61?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Feb 06 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Summer Internship, Research- Corporate + Public Affairs](https://jobright.ai/jobs/info/67a5c8544718e236b4fb6b27?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 06 |
@@ -138,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Public Health Master's Intern](https://jobright.ai/jobs/info/67a4ef1cfa2b75004e046d04?utm_campaign=1056&utm_source=git)** | Oakland, CA | Remote | Feb 06 |
 | **[GBH](http://www.wgbh.org/)** | **[Community and Government Relations Internship - Summer 2025](https://jobright.ai/jobs/info/67a4ef1cfa2b75004e046d45?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
 | **[ROCK](http://www.rockventures.com/)** | **[Philanthropic Intern - Summer 2025](https://jobright.ai/jobs/info/67a4e9eb4b1713f4010e5976?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Feb 06 |
-| **[GBH](http://www.wgbh.org/)** | **[Community and Government Relations Internship - Summer 2025](https://jobright.ai/jobs/info/67a4d2df8290a24c0bf2a92e?utm_campaign=1056&utm_source=git)** | Boston | On Site | Feb 06 |
+| **[GBH](http://www.wgbh.org/)** | **[Community and Government Relations Internship - Summer 2025](https://jobright.ai/jobs/info/67a4d2df8290a24c0bf2a840?utm_campaign=1056&utm_source=git)** | Boston | On Site | Feb 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[ECM- Gov't Projects Intern](https://jobright.ai/jobs/info/67a3e38c88cb6895f74087f7?utm_campaign=1056&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2025 Intern - Small Modular Reactor (SMR) & Energy Policy Analyst](https://jobright.ai/jobs/info/67914173d61fe8e9223050e0?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Feb 06 |
 | **[State of Missouri](http://mo.gov)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/67a473ca32abdc9cbc7c7104?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Remote | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Internship - City Clerk's Office](https://jobright.ai/jobs/info/67a3b6c304ddc256e3f873a2?utm_campaign=1056&utm_source=git)** | Coral Springs 33065, FL | On Site | Feb 05 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Summer Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/67a3ae1c88781e08fd8db550?utm_campaign=1056&utm_source=git)** | Washington, DC or NYC | Hybrid | Feb 05 |
 | **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Communications Intern](https://jobright.ai/jobs/info/67a3ab969462e718c2d6bfce?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
-| **[NEOGOV](http://www.neogov.com)** | **[Intern - Public Works (Paid, Non-Benefited)](https://jobright.ai/jobs/info/67a3a61c438cca6585c029e4?utm_campaign=1056&utm_source=git)** | Hanover, VA | On Site | Feb 05 |
-| **[Ankura](https://ankura.com)** | **[Intern, Climate and Sustainability Practice](https://jobright.ai/jobs/info/67a3ac1f4419f78051ed5940?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
