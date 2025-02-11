@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Administration Internship Program](https://jobright.ai/jobs/info/67ab5352a752a799a9fbb24a?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Feb 11 |
 | **[University of Utah](http://utah.edu)** | **[Social Work Internship - HMHI Crisis Care Center](https://jobright.ai/jobs/info/67ab168705c21060d4d28462?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Feb 10 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Intern- Sustainability](https://jobright.ai/jobs/info/67aae2a14f3d707c9f9c1f58?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67aad38399773d7d2098c8cb?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Feb 10 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[OLA-2025-16i - Spark Legislative Aide Intern](https://jobright.ai/jobs/info/67aac578e9139a06dfd34270?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Feb 10 |
 | **[The Nature Conservancy](http://www.nature.org/)** | **[Urban Land Stewardship and Engagement Intern](https://jobright.ai/jobs/info/67aab1f800a8980b757830cc?utm_campaign=1056&utm_source=git)** | Wisconsin, United States | Hybrid | Feb 10 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67aa9e880b656a667d3d913c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 10 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[- Emergency Management – Operations – 6 Month Internship – Denver International Airport](https://jobright.ai/jobs/info/67aaa0211dac6ef43728c565?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Feb 10 |
-| ↳ | **[Government Affairs & Global Public Policy (10 Weeks) Internship - Denver International Airport](https://jobright.ai/jobs/info/67aaa0211dac6ef43728c53a?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 10 |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Government Affairs & Global Public Policy (10 Weeks) Internship - Denver International Airport](https://jobright.ai/jobs/info/67aaa0211dac6ef43728c53a?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 10 |
+| ↳ | **[- Emergency Management – Operations – 6 Month Internship – Denver International Airport](https://jobright.ai/jobs/info/67aaa0211dac6ef43728c565?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Feb 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Community Service Officer Intern (Non-Union)](https://jobright.ai/jobs/info/67aa8f7d5fe41cae75f13b37?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Feb 10 |
 | **[Atrium Health Wake Forest Baptist](http://www.wakehealth.edu/)** | **[Student Intern - Cancer Prevention Policy Implementation](https://jobright.ai/jobs/info/67aa92870bec154f80c421e2?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Feb 10 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Youth Advocate Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3f2e?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Feb 10 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research and Policy Intern - County Council](https://jobright.ai/jobs/info/67aa8d3d5694e2657133b732?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Feb 10 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Humanitarian Representation Team (HRT) Intern](https://jobright.ai/jobs/info/67aa7ce42388250388b9b53e?utm_campaign=1056&utm_source=git)** | New York, New York, United States | Hybrid | Feb 10 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Government Property Intern (Dallas, TX)](https://jobright.ai/jobs/info/67aa852c850c94dba86cb810?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Feb 10 |
-| **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern 2](https://jobright.ai/jobs/info/67aa61f9acaf639835e11c58?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
-| ↳ | **[Government Relations Intern 1](https://jobright.ai/jobs/info/67aa61f9acaf639835e11c7a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
+| **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern 1](https://jobright.ai/jobs/info/67aa6380c8cb52fa8abd0828?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
+| ↳ | **[Government Relations Intern 2](https://jobright.ai/jobs/info/67aa61f9acaf639835e11c58?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
 | **[Institute for Justice](http://ij.org/)** | **[Strategic Research Internship - Summer 2025](https://jobright.ai/jobs/info/67aa66302f1513602cfd15d3?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 10 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Youth Advocate Intern](https://jobright.ai/jobs/info/67aa52576596db1bde95bbd3?utm_campaign=1056&utm_source=git)** | Sacramento, CA USA | On Site | Feb 10 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Housing Court Internship-Northeast Division](https://jobright.ai/jobs/info/67aa48bed840ef9963a77953?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Northeast Housing Court | On Site | Feb 10 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Summer 2025 Income Security Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fb1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Summer 2025 Federal Fiscal Policy Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fb7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Summer 2025 Housing Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fab?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
-| ↳ | **[Summer 2025 Health Policy Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fca?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Summer 2025 Food Assistance Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fcd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
+| ↳ | **[Summer 2025 Health Policy Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fca?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Summer 2025 Government Affairs Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fbe?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Summer 2025 State Fiscal Policy Research Intern](https://jobright.ai/jobs/info/67aa9b361abb11a4b3ab3fce?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | **[Maharishi International University](https://www.miu.edu/)** | **[Student Government Member - Spring 2025](https://jobright.ai/jobs/info/67aa2b6c0429ea0719c5a59f?utm_campaign=1056&utm_source=git)** | Fairfield, IA | On Site | Feb 09 |
@@ -108,10 +109,10 @@ For a complete list, click the following sortable link below:
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship - City Clerks Office](https://jobright.ai/jobs/info/67a933845b2ba91d544aae79?utm_campaign=1056&utm_source=git)** | Coral Springs, FL | On Site | Feb 09 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a91c13cf0c9dea897cd4f9?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
 | ↳ | **[Cyber & Technology Innovation Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 09 |
-| ↳ | **[Congressional Relations Summer 2025 Internship w/ FDD Action](https://jobright.ai/jobs/info/67a9120c87233b067154dfd2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Military & Political Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfe6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
-| ↳ | **[Turkey Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfba?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
+| ↳ | **[Congressional Relations Summer 2025 Internship w/ FDD Action](https://jobright.ai/jobs/info/67a9120c87233b067154dfd2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[International Organizations Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
+| ↳ | **[Turkey Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfba?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | ↳ | **[Economic & Financial Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfe1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2025 (9922)](https://jobright.ai/jobs/info/677715636f5406270c7a333a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85046?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 09 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Initiatives Intern - Summer 2025](https://jobright.ai/jobs/info/67a648a25d6f942aba6e83d1?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Internship: Bachelor and Master of Social Work](https://jobright.ai/jobs/info/67a63971c9564f03bd141525?utm_campaign=1056&utm_source=git)** | Hennepin County | Hybrid | Feb 07 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Summer 2025 Research & Policy Internship – Clean Energy Program](https://jobright.ai/jobs/info/67a63ce3b27ed474bead463a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 07 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/67a61fc27cbaf3bace1a4a72?utm_campaign=1056&utm_source=git)** | Effingham, IL | On Site | Feb 07 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Summer 2025 Policy & Legislation Internship](https://jobright.ai/jobs/info/67a52b5da47685b6f382a80b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
+| ↳ | **[Summer 2025 Policy & Legislation Internship](https://jobright.ai/jobs/info/67a52b5da47685b6f382a80b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
 | ↳ | **[Summer 2025 Research & Policy Internship – Clean Energy Program](https://jobright.ai/jobs/info/67a61b0a58058319a53886cc?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 07 |
 | **[Berkeley Research Group (BRG)](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/67a60bd13679107140407923?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
