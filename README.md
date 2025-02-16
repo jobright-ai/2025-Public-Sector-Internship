@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Marine Policy Intern - Spring & Summer 2025](https://jobright.ai/jobs/info/67b11e3e9b17812fecc004b8?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 15 |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67b115d3233c1a186e55fba2?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Feb 15 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern - Summer 2025](https://jobright.ai/jobs/info/67b0e6a3b7d7328e34c1080d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Paid Intern - Research Grants Management](https://jobright.ai/jobs/info/67b0def352274c64beb6ed93?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
 | **[Nemours](http://www.nemours.org)** | **[Intern - Wellbeing Research](https://jobright.ai/jobs/info/6793dc698c360b7d93c45438?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Feb 15 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Corporate Social Responsibility Intern](https://jobright.ai/jobs/info/67b0c18da938e8cb564bad32?utm_campaign=1056&utm_source=git)** | Greater Jackson, MI Area | Hybrid | Feb 15 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6753026408744769687830cf?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Feb 15 |
 | **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d91?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Feb 15 |
+| **[Lennox](http://www.lennox.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/677daef5be8bc1976746b3a3?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Feb 15 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/6792827c6f1c53fe40bb8b98?utm_campaign=1056&utm_source=git)** | Grand Island, NE | Hybrid | Feb 15 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern - Summer 2025](https://jobright.ai/jobs/info/675b46381df791dc5910f350?utm_campaign=1056&utm_source=git)** | Exton, PA | On Site | Feb 15 |
 | **[GRUNDFOS](https://www.grundfos.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/677deca65d7a23a24c7a60d9?utm_campaign=1056&utm_source=git)** | Lenexa, KS | On Site | Feb 15 |
@@ -83,14 +86,15 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67afd917f3876854d0f0cb72?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Feb 14 |
 | ↳ | **[Internship (School Based Services- Prince Georges County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67afe1cf93fa8460f5503ec2?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Feb 14 |
 | **[Goodwin Living](https://goodwinliving.org)** | **[Healthcare Administration Summer Internships 2025](https://jobright.ai/jobs/info/67afe1cf93fa8460f550404c?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Feb 14 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Opening Doors](https://jobright.ai/jobs/info/67afbd1fc9e7043f19ac8af6?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 14 |
 | **[East-West](https://www.eastwest.org)** | **[Short-Term Mission Team Internship](https://jobright.ai/jobs/info/67afeb3c1c8f18142e9bdb0e?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Feb 14 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Restoring Promise](https://jobright.ai/jobs/info/67afeb3c1c8f18142e9bdb23?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Remote | Feb 14 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2025 Internship w/ FDD Action](https://jobright.ai/jobs/info/67afbf03c9e7043f19ac9099?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[PUBLIC SERVICE INTERN II - Range 10 / NON](https://jobright.ai/jobs/info/67afa4250caf0a7b7bd6635f?utm_campaign=1056&utm_source=git)** | 3000 Arctic Blvd., AK | On Site | Feb 14 |
 | **[HDR](http://www.hdrinc.com)** | **[Military Planning Intern](https://jobright.ai/jobs/info/67aff60b58d417f686244ff8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Feb 14 |
 | **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Land and Real Estate Management Intern](https://jobright.ai/jobs/info/67afa43760a723d425aaec90?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | Feb 14 |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Feb 14 |
 | **[HDR](http://www.hdrinc.com)** | **[Military Planning Intern](https://jobright.ai/jobs/info/67af932fbe32e396a5a9deb6?utm_campaign=1056&utm_source=git)** | United States-Colorado-Colorado Springs | On Site | Feb 14 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Opening Doors](https://jobright.ai/jobs/info/67af9306686dec09800c5aca?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 14 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/67af9c07292968382147fb14?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 14 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Neighborhood Planning and Regulatory Internship (6 Months)](https://jobright.ai/jobs/info/67af9306686dec09800c5bf5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 14 |
 | ↳ | **[Neighborhood Planning and Regulatory Internship (6 Months)](https://jobright.ai/jobs/info/67af7f3aa4e006d8f97f6347?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Feb 14 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb73?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Feb 12 |
 | ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb76?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 12 |
 | ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb77?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Feb 12 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship - Phoenix, AZ - Non-Profit Finance](https://jobright.ai/jobs/info/67ad57bbce806a3d25c39fc0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/67ad6a81215e9f94ba15c3a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 12 |
 | **[Ellucian](http://www.ellucian.com/)** | **[Inclusion & Diversity (I&D) / Environmental, Social & Governance (ESG) Intern – Hybrid](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2ba84?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 12 |
 | **[Gas South](https://www.gassouth.com)** | **[Community Affairs Summer Internship](https://jobright.ai/jobs/info/67af26713972840ba773573f?utm_campaign=1056&utm_source=git)** | Gainesville, GA | Hybrid | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLEAResult](http://www.clearesult.com)** | **[Regulatory Research Intern (Summer 2025)](https://jobright.ai/jobs/info/67ad12e3b42fb8c2743f431d?utm_campaign=1056&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 12 |
 | **[Fervo Energy](https://www.fervoenergy.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d043?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Feb 12 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Public Safety- Loss Prevention Internship](https://jobright.ai/jobs/info/67ace5f2868690c0fbd3c77b?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Feb 12 |
-| ↳ | **[Public Safety - Security Division Internship](https://jobright.ai/jobs/info/67ace89c54b0d205e3a50bda?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Feb 12 |
-| ↳ | **[Public Safety Officer Intern - $18/HR](https://jobright.ai/jobs/info/67ace89c54b0d205e3a50be5?utm_campaign=1056&utm_source=git)** | Gurnee, IL | On Site | Feb 12 |
-| **[Fervo Energy](https://www.fervoenergy.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/67ace86fe770eda4294af742?utm_campaign=1056&utm_source=git)** | Oakland, CA, USA | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
