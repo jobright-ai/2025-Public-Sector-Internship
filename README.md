@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Memorial City Hospital Operations](https://jobright.ai/jobs/info/67b2aa6118ecea165e962bfa?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 16 |
+| ↳ | **[Summer Intern - Greater Heights Hospital Operations](https://jobright.ai/jobs/info/67b2aa6118ecea165e962c00?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 16 |
+| ↳ | **[Summer Intern - Consumer Experience](https://jobright.ai/jobs/info/67b2aa6118ecea165e962bf7?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Governing Board Summer Internship Program](https://jobright.ai/jobs/info/67b23e6bd65c4a1dc8563328?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Feb 16 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern, U.S.](https://jobright.ai/jobs/info/679c63e9d1eb7fa83f776185?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 16 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Government Accountability and State Reporting](https://jobright.ai/jobs/info/677ebefa347e1ce446878b74?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Feb 15 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Marine Policy Intern - Spring &amp; Summer 2025](https://jobright.ai/jobs/info/67b134ea38ddd7d5836868e8?utm_campaign=1056&utm_source=git)** | New York Aquarium | On Site | Feb 15 |
 | ↳ | **[Marine Policy Intern - Spring & Summer 2025](https://jobright.ai/jobs/info/67b11e3e9b17812fecc004b8?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 15 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/67881cbb7579f794e1af702b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
-| **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern - Summer 2025](https://jobright.ai/jobs/info/67b0e6a3b7d7328e34c1080d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Paid Intern - Research Grants Management](https://jobright.ai/jobs/info/67b0def352274c64beb6ed93?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
 | **[Nemours](http://www.nemours.org)** | **[Intern - Wellbeing Research](https://jobright.ai/jobs/info/6793dc698c360b7d93c45438?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Feb 15 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Surfrider Foundation Eastern Long Island Chapter Internship - Summer 2025](https://jobright.ai/jobs/info/67b0c18da938e8cb564baf53?utm_campaign=1056&utm_source=git)** | East Hampton, NY | Hybrid | Feb 15 |
@@ -124,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Offender Services (Part Time) (Summer)](https://jobright.ai/jobs/info/67ae9de5eb4e4d9757997280?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 13 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship - Medical Affairs Intern](https://jobright.ai/jobs/info/67ae82c04270a4c7f65f958b?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 13 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Summer Intern I – Sheriff’s Office](https://jobright.ai/jobs/info/67ae9de5eb4e4d97579974bc?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Feb 13 |
-| **[Orange County Department of Education](http://www.ocde.us/decathlon/Pages/default.aspx)** | **[Business Continuity and Disaster Recovery (BCDR) Program Intern (Unpaid Intern)](https://jobright.ai/jobs/info/67aeec3837c57675375363ca?utm_campaign=1056&utm_source=git)** | Santa Ana, CA | Hybrid | Feb 13 |
 | **[Proskauer Rose LLP](http://www.proskauer.com)** | **[Emergency Management and Business Continuity Planning Intern (Summer 2025)](https://jobright.ai/jobs/info/67ae4b052eec06e041a05a69?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 13 |
 | **[City of Houston](http://www.houstontx.gov)** | **[SEASONAL INTERN - CITY COUNCIL INTERN](https://jobright.ai/jobs/info/67ae4510432d1a7e9439e185?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Intern I – Sheriff’s Office](https://jobright.ai/jobs/info/67ae370fb4edee95996ef3f9?utm_campaign=1056&utm_source=git)** | County of San Mateo, CA | On Site | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern - Business, Sports Management, Exercise Science - Parks & Recreation](https://jobright.ai/jobs/info/67ad216bfe578c5b9bccaef8?utm_campaign=1056&utm_source=git)** | Lakeland, FL | On Site | Feb 12 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/67ad3b9f17f43fabb7252571?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Feb 12 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Development Intern (NYC Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f719?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| ↳ | **[Development Intern (Washington D.C. Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f70a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 12 |
-| ↳ | **[Development Intern (Washington D.C. Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f773?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
