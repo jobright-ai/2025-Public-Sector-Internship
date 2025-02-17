@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Summer 2025 Internships](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6c4a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 13 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Corporate Social Responsibility (Intern)](https://jobright.ai/jobs/info/67a84c02fdcb92d4fac090c0?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[Institute for Justice](http://ij.org/)** | **[Strategic Research Internship - Summer 2025](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6e6c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 13 |
-| **[ClearPath](https://clearpath.org/)** | **[External Affairs Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dcde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
-| ↳ | **[Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dc86?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
+| **[ClearPath](https://clearpath.org/)** | **[Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dc86?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
+| ↳ | **[External Affairs Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dcde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Homeless & Housing Case Management](https://jobright.ai/jobs/info/67ae0c08536b4a01fe2fafa8?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 13 |
 | ↳ | **[Internship: Graduate Social Work/Counseling](https://jobright.ai/jobs/info/67adfd7cceb3207acef1c3b1?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 13 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Statewide & Urban Travel Analysis Section) - Planning](https://jobright.ai/jobs/info/67adc785acb1407ec81a1dbd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Feb 13 |
