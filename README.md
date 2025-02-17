@@ -61,7 +61,7 @@ For a complete list, click the following sortable link below:
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern, U.S.](https://jobright.ai/jobs/info/679c63e9d1eb7fa83f776185?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Marine Policy Intern - Spring &amp; Summer 2025](https://jobright.ai/jobs/info/67b134ea38ddd7d5836868e8?utm_campaign=1056&utm_source=git)** | New York Aquarium | On Site | Feb 15 |
 | ↳ | **[Marine Policy Intern - Spring & Summer 2025](https://jobright.ai/jobs/info/67b11e3e9b17812fecc004b8?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 15 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Planning Intern](https://jobright.ai/jobs/info/67b115d3233c1a186e55fba2?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Feb 15 |
+| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/67881cbb7579f794e1af702b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern - Summer 2025](https://jobright.ai/jobs/info/67b0e6a3b7d7328e34c1080d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Paid Intern - Research Grants Management](https://jobright.ai/jobs/info/67b0def352274c64beb6ed93?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
 | **[Nemours](http://www.nemours.org)** | **[Intern - Wellbeing Research](https://jobright.ai/jobs/info/6793dc698c360b7d93c45438?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Feb 15 |
@@ -146,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb73?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Feb 12 |
 | ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb76?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 12 |
 | ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb77?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Feb 12 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship - Phoenix, AZ - Non-Profit Finance](https://jobright.ai/jobs/info/67ad57bbce806a3d25c39fc0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Feb 12 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/67ad6a81215e9f94ba15c3a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 12 |
 | **[Ellucian](http://www.ellucian.com/)** | **[Inclusion & Diversity (I&D) / Environmental, Social & Governance (ESG) Intern – Hybrid](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2ba84?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Feb 12 |
 | **[Gas South](https://www.gassouth.com)** | **[Community Affairs Summer Internship](https://jobright.ai/jobs/info/67af26713972840ba773573f?utm_campaign=1056&utm_source=git)** | Gainesville, GA | Hybrid | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Development Intern (NYC Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f719?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | ↳ | **[Development Intern (Washington D.C. Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f70a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | ↳ | **[Development Intern (Washington D.C. Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f773?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 12 |
-| ↳ | **[Development Intern (NYC Regional Office)](https://jobright.ai/jobs/info/67ad1fffdd159fde09b78cbe?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
