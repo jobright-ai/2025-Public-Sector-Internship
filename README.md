@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UHS](https://uhs.com)** | **[INTERN - SOCIAL WORK (MSW)](https://jobright.ai/jobs/info/67b3836c3dc7ee144bd6235d?utm_campaign=1056&utm_source=git)** | TEQUESTA, Florida | On Site | Feb 17 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Social Worker ( LCSW or Registered Clinical Social Worker Intern) / Sign On Bonus available!!](https://jobright.ai/jobs/info/67b3bea76313ad9f5d560014?utm_campaign=1056&utm_source=git)** | Zephyrhills, FL | On Site | Feb 17 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Financial Services - Public Sector - Campus 2025](https://jobright.ai/jobs/info/67b3c4be1cc1fcf02e8a9eb5?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Feb 17 |
+| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Health Equity](https://jobright.ai/jobs/info/67b3b52a3a7d5c2a2257b93e?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Feb 17 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67b3b32c13a43be649c43b22?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Feb 17 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Spring 2025)](https://jobright.ai/jobs/info/67b3b0b803c3ee23b7a88f78?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Feb 17 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67b3ade0e9aab77c731b321c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Feb 17 |
+| **[Prison Fellowship](http://www.prisonfellowship.org)** | **[Advocacy Summer Intern](https://jobright.ai/jobs/info/67b3a2704c242a94aa789b03?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/67b36ecf95b13f206c167d37?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Feb 17 |
 | ↳ | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/67b36ecf95b13f206c167d38?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 17 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Summer 2025 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/6797362cfee9d9c11efb3200?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Feb 17 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Memorial City Hospital Operations](https://jobright.ai/jobs/info/67b2aa6118ecea165e962bfa?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | ↳ | **[Summer Intern - Greater Heights Hospital Operations](https://jobright.ai/jobs/info/67b2aa6118ecea165e962c00?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 16 |
 | ↳ | **[Summer Intern - Consumer Experience](https://jobright.ai/jobs/info/67b2aa6118ecea165e962bf7?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 16 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675afad781754aa1ffb08502?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Feb 16 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Governing Board Summer Internship Program](https://jobright.ai/jobs/info/67b23e6bd65c4a1dc8563328?utm_campaign=1056&utm_source=git)** | Diamond Bar, CA | On Site | Feb 16 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Policy and Data Analysis Intern, U.S.](https://jobright.ai/jobs/info/679c63e9d1eb7fa83f776185?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d763a1b1718cb11610d93?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
@@ -77,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Government Accountability and State Reporting](https://jobright.ai/jobs/info/677ebefa347e1ce446878b74?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Feb 15 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Marine Policy Intern - Spring &amp; Summer 2025](https://jobright.ai/jobs/info/67b134ea38ddd7d5836868e8?utm_campaign=1056&utm_source=git)** | New York Aquarium | On Site | Feb 15 |
 | ↳ | **[Marine Policy Intern - Spring & Summer 2025](https://jobright.ai/jobs/info/67b11e3e9b17812fecc004b8?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 15 |
+| **[WilmerHale](http://www.wilmerhale.com)** | **[2025 1L Diversity Public Interest Fellowship](https://jobright.ai/jobs/info/676d6e8d0e7cb13ecaf85045?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/67881cbb7579f794e1af702b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Paid Intern - Research Grants Management](https://jobright.ai/jobs/info/67b0def352274c64beb6ed93?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 15 |
 | **[Nemours](http://www.nemours.org)** | **[Intern - Wellbeing Research](https://jobright.ai/jobs/info/6793dc698c360b7d93c45438?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Feb 15 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Summer 2025 Internships](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6c4a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 13 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Corporate Social Responsibility (Intern)](https://jobright.ai/jobs/info/67a84c02fdcb92d4fac090c0?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[Institute for Justice](http://ij.org/)** | **[Strategic Research Internship - Summer 2025](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6e6c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 13 |
-| **[ClearPath](https://clearpath.org/)** | **[External Affairs Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dcde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
-| ↳ | **[Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dc86?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
+| **[ClearPath](https://clearpath.org/)** | **[Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dc86?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
+| ↳ | **[External Affairs Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dcde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Homeless & Housing Case Management](https://jobright.ai/jobs/info/67ae0c08536b4a01fe2fafa8?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 13 |
-| ↳ | **[Internship: Graduate Social Work/Counseling](https://jobright.ai/jobs/info/67adfd7cceb3207acef1c3b1?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 13 |
-| **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - Community Engagement Data Analyst](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f943?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 13 |
-| **[Rare](https://rare.org/#)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/67acfe3dcc3a83000b362f7c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 13 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Statewide & Urban Travel Analysis Section) - Planning](https://jobright.ai/jobs/info/67adc785acb1407ec81a1dbd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Feb 13 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Communications and Responsible Purchasing (Summer 2025)](https://jobright.ai/jobs/info/6790007262fc49dfed83d980?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Feb 12 |
-| **[Acadia Center](https://acadiacenter.org/)** | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af14f8fb95281f0b44f560?utm_campaign=1056&utm_source=git)** | Rockport, ME | On Site | Feb 12 |
-| ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb6e?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 12 |
-| ↳ | **[Roger E. Koontz Fellowship in Law and Climate Policy](https://jobright.ai/jobs/info/67af16c8fb95281f0b44fb73?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
