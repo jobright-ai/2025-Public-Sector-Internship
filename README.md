@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2025 Summer Intern - Health Equity](https://jobright.ai/jobs/info/67b3f6f9a4f4c052b836afb2?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Feb 17 |
+| **[NEOGOV](http://www.neogov.com)** | **[Planning and Zoning Intern](https://jobright.ai/jobs/info/67b3e7896221456f9b219b21?utm_campaign=1056&utm_source=git)** | City of Tamarac, FL | On Site | Feb 17 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67b3dcced31006061228ae3d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Social Worker ( LCSW or Registered Clinical Social Worker Intern) / Sign On Bonus available!!](https://jobright.ai/jobs/info/67b3bea76313ad9f5d560014?utm_campaign=1056&utm_source=git)** | Zephyrhills, FL | On Site | Feb 17 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Financial Services - Public Sector - Campus 2025](https://jobright.ai/jobs/info/67b3c4be1cc1fcf02e8a9eb5?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Feb 17 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Health Equity](https://jobright.ai/jobs/info/67b3b52a3a7d5c2a2257b93e?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Feb 17 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. CSR & Sustainability Community Affairs Intern](https://jobright.ai/jobs/info/67979a0c8fd6b2e4edce38dd?utm_campaign=1056&utm_source=git)** | Carlsbad, CA | On Site | Feb 15 |
 | **[ALDI USA](http://www.aldi.com)** | **[Technical Networks, Infrastructure & Applications Intern,](https://jobright.ai/jobs/info/67aea7f47c25e0a1d735834b?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Feb 15 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Summer Intern 2025 – Team Strategic Engagement: Foundation, Sustainability and Policy](https://jobright.ai/jobs/info/67a14c5f68bcadaea5dc2bbc?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Feb 15 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern - Summer 2025](https://jobright.ai/jobs/info/675afad781754aa1ffb084ef?utm_campaign=1056&utm_source=git)** | Exton, PA | Hybrid | Feb 15 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Government Accountability and State Reporting](https://jobright.ai/jobs/info/677ebefa347e1ce446878b74?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | On Site | Feb 15 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Marine Policy Intern - Spring &amp; Summer 2025](https://jobright.ai/jobs/info/67b134ea38ddd7d5836868e8?utm_campaign=1056&utm_source=git)** | New York Aquarium | On Site | Feb 15 |
 | ↳ | **[Marine Policy Intern - Spring & Summer 2025](https://jobright.ai/jobs/info/67b11e3e9b17812fecc004b8?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 15 |
@@ -143,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2025, Race, Prosperity, and Inclusion Initiative Internship, Governance Studies (Job ID 2025-3604)](https://jobright.ai/jobs/info/67aec88ba87663c36c4bdea6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op - Physical Security/Emergency Management](https://jobright.ai/jobs/info/67aed141b9591c59faf34a93?utm_campaign=1056&utm_source=git)** | Jackson, MI | Hybrid | Feb 13 |
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67aeda51fdb19253fc0f7690?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
+| **[Feeding America](http://feedingamerica.org)** | **[Graduate Research Intern (Chicago/Hybrid)](https://jobright.ai/jobs/info/67b400d42a5179ce3816d77e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Offender Services (Part Time) (Summer)](https://jobright.ai/jobs/info/67ae9de5eb4e4d9757997280?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 13 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship - Medical Affairs Intern](https://jobright.ai/jobs/info/67ae82c04270a4c7f65f958b?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 13 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Summer Intern I – Sheriff’s Office](https://jobright.ai/jobs/info/67ae9de5eb4e4d97579974bc?utm_campaign=1056&utm_source=git)** | San Mateo County, CA | On Site | Feb 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Community Development - Summer Intern](https://jobright.ai/jobs/info/67ae2b8e27c3c2d19fc298da?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Feb 13 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[PDS Foundation (Intern)](https://jobright.ai/jobs/info/679d3f292b41d95c68e3ba0e?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
 | **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Summer 2025 Internships](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6c4a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 13 |
-| **[PDS Health](http://www.pacificdentalservices.com/)** | **[Corporate Social Responsibility (Intern)](https://jobright.ai/jobs/info/67a84c02fdcb92d4fac090c0?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Feb 13 |
-| **[Institute for Justice](http://ij.org/)** | **[Strategic Research Internship - Summer 2025](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6e6c?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Feb 13 |
-| **[ClearPath](https://clearpath.org/)** | **[Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dc86?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
-| ↳ | **[External Affairs Intern (Summer)](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dcde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 13 |
-| **[EveryMind.](https://www.every-mind.org)** | **[Internship: Homeless & Housing Case Management](https://jobright.ai/jobs/info/67ae0c08536b4a01fe2fafa8?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
