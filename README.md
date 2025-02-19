@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Organizational Change Management (OCM) Communication Intern](https://jobright.ai/jobs/info/679955cee6d126f8a0df9b45?utm_campaign=1056&utm_source=git)** | Trumbull, CT | On Site | Feb 19 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Public Affairs Intern](https://jobright.ai/jobs/info/67b5703f0ed2a1f6488c4538?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Global Medical Affairs Investigator-Initiated Trial Program Intern](https://jobright.ai/jobs/info/67b56c69e407c9ae787ac448?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 18 |
 | **[NEOGOV](http://www.neogov.com)** | **[Communications Intern, LGs Office](https://jobright.ai/jobs/info/67b56479d9334dcd46c6dfe0?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Feb 18 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Feb 18 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Feb 18 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Feb 18 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Policy Intern (Summer 2025)](https://jobright.ai/jobs/info/67a84c02fdcb92d4fac0919f?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Feb 18 |
 | **[State of Minnesota](https://mn.gov)** | **[Research Evaluation Intern / Management Analyst 1](https://jobright.ai/jobs/info/67b48d65b7720117aa3ede20?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Feb 18 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer College Intern - Security & Emergency Preparedness](https://jobright.ai/jobs/info/67b47c3c1651baa44f30824a?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Intern - Police Dept, Recruitment and Training](https://jobright.ai/jobs/info/67afeb1f065a0804a6ed0022?utm_campaign=1056&utm_source=git)** | Pueblo, CO | On Site | Feb 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67afd917f3876854d0f0cb72?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Feb 14 |
 | ↳ | **[Internship (School Based Services- Prince Georges County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67afe1cf93fa8460f5503ec2?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Feb 14 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Opening Doors](https://jobright.ai/jobs/info/67afbd1fc9e7043f19ac8af6?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 14 |
-| **[East-West](https://www.eastwest.org)** | **[Short-Term Mission Team Internship](https://jobright.ai/jobs/info/67afeb3c1c8f18142e9bdb0e?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
