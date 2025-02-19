@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Global Medical Affairs Investigator-Initiated Trial Program Intern](https://jobright.ai/jobs/info/67b54eb53be3f7cf0cc016fa?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Feb 18 |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[Paid College Internship, 20077910, Office of Statewide Planning & Research](https://jobright.ai/jobs/info/67b542439d12813fd8fdfa3d?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Feb 18 |
+| **[U.S. Green Building Council](http://www.usgbc.org)** | **[Intern, Local Government Leadership](https://jobright.ai/jobs/info/67b53dd6b022bd92e7aef230?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 18 |
+| **[Caribou Biosciences](http://www.cariboubio.com)** | **[Medical Affairs Intern ](https://jobright.ai/jobs/info/67b526653a4ce9b7f33f18b4?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Feb 18 |
+| **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op - Physical Security/Emergency Management](https://jobright.ai/jobs/info/67b53dd6b022bd92e7aef2d1?utm_campaign=1056&utm_source=git)** | Jackson, MI | Hybrid | Feb 18 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Racial and Health Equity](https://jobright.ai/jobs/info/67b50abeb20d392af671a278?utm_campaign=1056&utm_source=git)** | Eagan, MN | On Site | Feb 18 |
-| **[R&R Partners](http://www.rrpartners.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67b523bce97810f478569163?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
+| **[R&R Partners](http://www.rrpartners.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67b53feb7a2dd9e198cafee1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 18 |
 | **[MetLife](http://www.metlife.com)** | **[INROADS Intern - Global Resilience Intern](https://jobright.ai/jobs/info/67b50e5fe1688eb5b6921804?utm_campaign=1056&utm_source=git)** | Cary, NC | Hybrid | Feb 18 |
 | **[Xavier University](http://www.xavier.edu/)** | **[Administrative Assistant II, Social Work 997978](https://jobright.ai/jobs/info/67b50fe830edad0dc40a756d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67b509b9a91ceb16653cc663?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Feb 18 |
@@ -68,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[GBH](http://www.wgbh.org/)** | **[Office of Inclusion and Equity Internship - Summer 2025](https://jobright.ai/jobs/info/67b4c23ab6fd148d6f8d1b91?utm_campaign=1056&utm_source=git)** | Boston | On Site | Feb 18 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Texas Medical Center Hospital Operations](https://jobright.ai/jobs/info/67b4c23ab6fd148d6f8d1c4b?utm_campaign=1056&utm_source=git)** | TMC/Children's Hospital | On Site | Feb 18 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Policy Intern - Summer 2025](https://jobright.ai/jobs/info/67b4b9c1310878c224fbb9c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 18 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Feb 18 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Feb 18 |
+| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Feb 18 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Policy Intern (Summer 2025)](https://jobright.ai/jobs/info/67a84c02fdcb92d4fac0919f?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Feb 18 |
 | **[State of Minnesota](https://mn.gov)** | **[Research Evaluation Intern / Management Analyst 1](https://jobright.ai/jobs/info/67b48d65b7720117aa3ede20?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Feb 18 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer College Intern - Security & Emergency Preparedness](https://jobright.ai/jobs/info/67b47c3c1651baa44f30824a?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Feb 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Dallas)](https://jobright.ai/jobs/info/672c2c770459bf8140f34a1f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Feb 14 |
 | **[HDR](http://www.hdrinc.com)** | **[Military Planning Intern](https://jobright.ai/jobs/info/67af932fbe32e396a5a9deb6?utm_campaign=1056&utm_source=git)** | United States-Colorado-Colorado Springs | On Site | Feb 14 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Opening Doors](https://jobright.ai/jobs/info/67af9306686dec09800c5aca?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 14 |
-| **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/67af9c07292968382147fb14?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 14 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Neighborhood Planning and Regulatory Internship (6 Months)](https://jobright.ai/jobs/info/67af9306686dec09800c5bf5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Feb 14 |
-| ↳ | **[Neighborhood Planning and Regulatory Internship (6 Months)](https://jobright.ai/jobs/info/67af7f3aa4e006d8f97f6347?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Feb 14 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Intern, Restoring Promise](https://jobright.ai/jobs/info/67af71a743aa94f436a33418?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 14 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (Summer)](https://jobright.ai/jobs/info/6785a1004e1be79d7be6ddf5?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Feb 14 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Healthcare/Government Programs](https://jobright.ai/jobs/info/67af621c0091b888bd799d58?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
