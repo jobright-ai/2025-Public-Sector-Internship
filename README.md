@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[Civilian Intern](https://jobright.ai/jobs/info/67b82624dbe1c8af915247dc?utm_campaign=1056&utm_source=git)** | Round Rock, TX | On Site | Feb 20 |
+| ↳ | **[Intern - Community & Neighborhood Services](https://jobright.ai/jobs/info/67b82624dbe1c8af915247e2?utm_campaign=1056&utm_source=git)** | Round Rock, TX | On Site | Feb 20 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[U S  Federal Affairs Intern (WWGA&P)](https://jobright.ai/jobs/info/67b8010956490315b9367a1d?utm_campaign=1056&utm_source=git)** | City of Washington County, DC | On Site | Feb 20 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Chicago – Campus 2025](https://jobright.ai/jobs/info/67b7f150952490b3f8130b15?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
 | **[ALDI USA](http://www.aldi.com)** | **[Technical Networks, Infrastructure & Applications Intern,](https://jobright.ai/jobs/info/67b7ea70033a279923798786?utm_campaign=1056&utm_source=git)** | Aurora, IL | On Site | Feb 20 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Mayor’s Internship Program – Summer 2025](https://jobright.ai/jobs/info/67b7ceda448e0718a88bd5ec?utm_campaign=1056&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Feb 20 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Govt Affairs Supply Chain intern](https://jobright.ai/jobs/info/67b7c54092369d7a97220dd6?utm_campaign=1056&utm_source=git)** | City of Washington County, DC | On Site | Feb 20 |
@@ -79,10 +83,13 @@ For a complete list, click the following sortable link below:
 | **[Housing Families](https://housingfamilies.org/)** | **[Housing Families Internship Program](https://jobright.ai/jobs/info/67b6f52c805f592745f3d5e9?utm_campaign=1056&utm_source=git)** | Malden, MA | On Site | Feb 19 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/67b6f52c805f592745f3d3c4?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Feb 19 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[GIS Intern-2025 Local Gov Summer Internship Program](https://jobright.ai/jobs/info/67b6f70d805f592745f3d951?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Feb 19 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Scientific Engagement Strategy Intern](https://jobright.ai/jobs/info/67b82f3c696df09aa289157a?utm_campaign=1056&utm_source=git)** | Horsham, PA | On Site | Feb 19 |
+| **[MDC](https://www.mdcinc.org)** | **[2025 Dan Broun Internship](https://jobright.ai/jobs/info/67b82140eb9b0c618e2b27bc?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Feb 19 |
 | **[HungerRush](https://www.hungerrush.com/)** | **[Chaplaincy Intern](https://jobright.ai/jobs/info/67b6b456937665087ac508f3?utm_campaign=1056&utm_source=git)** | Altavista, VA | On Site | Feb 19 |
 | **[IFC - International Finance Corporation](http://www.ifc.org)** | **[IFC Global Internship Program(30)- Development Impact Measurement - MAS Internship - req31567](https://jobright.ai/jobs/info/67b69d77c199943da3a67366?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | ↳ | **[IFC Global Internship Program(19) - Urban and Climate Analytical Support Internship - req31556](https://jobright.ai/jobs/info/67b69d77c199943da3a67368?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | ↳ | **[IFC Global Internship Program(29) - Sustainable Infrastructure & Climate Finance Internship - req31566](https://jobright.ai/jobs/info/67b680dee838e4cc71595910?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 19 |
+| **[Aledade, Inc.](https://www.aledade.com)** | **[Internship, Policy Team, Summer 2025](https://jobright.ai/jobs/info/67b678983e92d395cfdbbbb5?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Remote | Feb 19 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/67b678983e92d395cfdbbc64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | **[Berkeley Research Group (BRG)](http://www.thinkbrg.com)** | **[2025 Baltimore Clinical Economics Intern](https://jobright.ai/jobs/info/67b678983e92d395cfdbbd79?utm_campaign=1056&utm_source=git)** | Hunt Valley, MD | On Site | Feb 19 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/67b6729a42414426d0b34ae5?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 19 |
@@ -105,8 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Congressional Relations Summer 2025 Internship w/ FDD Action](https://jobright.ai/jobs/info/67b7064191a9629106ac8c62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[PROGRAM SUPPORT: ECONOMIC DEVELOPMENT GRADUATE INTERN](https://jobright.ai/jobs/info/67b63889daa43d47ed5e8a1e?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Feb 19 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[California Climate Policy Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e528fe?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Feb 19 |
-| **[Aledade, Inc.](https://www.aledade.com)** | **[Internship, Policy Team, Summer 2025](https://jobright.ai/jobs/info/67b62ff0ca40b76929fbf659?utm_campaign=1056&utm_source=git)** | Bethesda, MD | Remote | Feb 19 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[California Climate Policy Intern](https://jobright.ai/jobs/info/67b62ff0ca40b76929fbf5c2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 19 |
+| ↳ | **[California Climate Policy Intern](https://jobright.ai/jobs/info/67b62ff0ca40b76929fbf5c2?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Justice of the Peace Pct 2-2 Parent Contributing to Truancy - Intern](https://jobright.ai/jobs/info/67b617647b354bfc22844750?utm_campaign=1056&utm_source=git)** | Kyle, TX | On Site | Feb 19 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/67b63a13942f7cbfc2722d9f?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Feb 19 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[California Climate Policy Intern](https://jobright.ai/jobs/info/67b6082d8a851cbe1398df7d?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Feb 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Health Equity](https://jobright.ai/jobs/info/67b3f6f9a4f4c052b836afb2?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Feb 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Planning and Zoning Intern](https://jobright.ai/jobs/info/67b3e7896221456f9b219b21?utm_campaign=1056&utm_source=git)** | City of Tamarac, FL | On Site | Feb 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67b3dcced31006061228ae3d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
-| **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Hamilton County Fellowship (Seeking Graduate and Undergraduate Students) (4315-27)](https://jobright.ai/jobs/info/67b4d75aa6eef08589f81f25?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 17 |
-| ↳ | **[Community Development Intern (4287-29)](https://jobright.ai/jobs/info/67b4efd31f4e53f0160146a2?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 17 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Social Worker ( LCSW or Registered Clinical Social Worker Intern) / Sign On Bonus available!!](https://jobright.ai/jobs/info/67b3bea76313ad9f5d560014?utm_campaign=1056&utm_source=git)** | Zephyrhills, FL | On Site | Feb 17 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Health Equity](https://jobright.ai/jobs/info/67b3b52a3a7d5c2a2257b93e?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Feb 17 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67b3b32c13a43be649c43b22?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Feb 17 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67b3ade0e9aab77c731b321c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
