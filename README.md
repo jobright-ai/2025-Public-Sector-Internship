@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Govt Affairs Supply Chain intern](https://jobright.ai/jobs/info/67b7c54092369d7a97220dd6?utm_campaign=1056&utm_source=git)** | City of Washington County, DC | On Site | Feb 20 |
+| **[NEOGOV](http://www.neogov.com)** | **[Airport Summer Management Intern](https://jobright.ai/jobs/info/67b7aeb89b8cce72bae91cb8?utm_campaign=1056&utm_source=git)** | Addison, TX | On Site | Feb 20 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67b7b9cd32c7daa4bdaf03b1?utm_campaign=1056&utm_source=git)** | Gainesville, GA | On Site | Feb 20 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Legal & Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/678ade853cf4853b1f5823c9?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Feb 20 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Racial and Health Equity](https://jobright.ai/jobs/info/67b7773088508d309e705142?utm_campaign=1056&utm_source=git)** | Eagan, MN | Hybrid | Feb 20 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Development Intern (NYC Regional Office)](https://jobright.ai/jobs/info/67ad1fffdd159fde09b78cbe?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Cotton Holdings Inc.](https://cottonholdings.com)** | **[Foundations Summer Intern](https://jobright.ai/jobs/info/67b7676d95cdc1dbecf69bb1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 20 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Graduate Research Assistant – Summer 2025](https://jobright.ai/jobs/info/67b647694edd03302b04bc4f?utm_campaign=1056&utm_source=git)** | Tallahassee, Florida | On Site | Feb 19 |
 | ↳ | **[Justice of the Peace Pct 2-2 Juvenile Truancy Intern](https://jobright.ai/jobs/info/67b647694edd03302b04bc72?utm_campaign=1056&utm_source=git)** | Kyle, TX | On Site | Feb 19 |
 | **[Child Care Resource Center](https://www.ccrcca.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/67b655e0e11aa749fd830878?utm_campaign=1056&utm_source=git)** | Chatsworth, CA | On Site | Feb 19 |
-| **[MDC](https://www.mdcinc.org)** | **[2025 Dan Broun Internship](https://jobright.ai/jobs/info/67b6eea3b1bfa04f772723be?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | Feb 19 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Summer 2025 Internship](https://jobright.ai/jobs/info/67b7008e5e05b739ab1a125f?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 19 |
 | ↳ | **[Military & Political Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67b7008e5e05b739ab1a1277?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
 | ↳ | **[Economic & Financial Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67b7008e5e05b739ab1a1341?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prison Fellowship](http://www.prisonfellowship.org)** | **[Advocacy Summer Intern](https://jobright.ai/jobs/info/67b3a2704c242a94aa789b03?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 17 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/67b36ecf95b13f206c167d37?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Feb 17 |
 | ↳ | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/67b36ecf95b13f206c167d38?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 17 |
-| **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Summer 2025 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/6797362cfee9d9c11efb3200?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Feb 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Policy MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45fb7?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Health Clinical Outcomes Intern - Summer 2025](https://jobright.ai/jobs/info/67b35445d511cf43436a686b?utm_campaign=1056&utm_source=git)** | Morris Plains, NJ | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
