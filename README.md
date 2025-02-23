@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/67bb52910cff28dbee199c7b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 23 |
+| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/67bb47fa8cf1826dbddea2e6?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Feb 23 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Community Boards](https://jobright.ai/jobs/info/67bb150c188ffb42f66387cd?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Feb 23 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2025 Internship w/ FDD Action](https://jobright.ai/jobs/info/67ba3a828a90c2a251dc1c7e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 22 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[2025 L.I.F.T. Summit - EVENT APPLICATION for 2026 INTERNSHIPS](https://jobright.ai/jobs/info/679d05000c4708b4e3ce8bd9?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 22 |
+| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Intern - Office of Sustainability](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb574de?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Feb 22 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Leadership Crew Intern](https://jobright.ai/jobs/info/679d55a181e671d3c6185e85?utm_campaign=1056&utm_source=git)** | West Alton, MO | On Site | Feb 22 |
 | **[ChristianaCare](http://christianacare.org)** | **[Emergency Management Planner Intern](https://jobright.ai/jobs/info/67b9c6ebc40702e826111571?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Feb 22 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Community Boards](https://jobright.ai/jobs/info/67b9c6ebc40702e8261115da?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Feb 22 |
@@ -71,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Public Health Institute](http://www.phi.org)** | **[CivicSpark Fellow (Half Time) WA](https://jobright.ai/jobs/info/67b95bc63880833109e4fac9?utm_campaign=1056&utm_source=git)** | Washington, United States | Remote | Feb 21 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666b7f?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666bf1?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666d45?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Feb 21 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666c6a?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666d48?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666d4c?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa9f39932e55903666f2e?utm_campaign=1056&utm_source=git)** | Tyler, TX | On Site | Feb 21 |
@@ -98,11 +101,11 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Services](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2de1?utm_campaign=1056&utm_source=git)** | Okemos, MI | Hybrid | Feb 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[Social Work Intern, Adult & Disabilities Division, Human Services Department](https://jobright.ai/jobs/info/67b8e626b4dbcc7954dbd905?utm_campaign=1056&utm_source=git)** | St. Cloud MN, MN | On Site | Feb 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57c83?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Feb 21 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Electronic Enrollment](https://jobright.ai/jobs/info/67b8f20790567a1457f65a66?utm_campaign=1056&utm_source=git)** | Okemos, MI | Hybrid | Feb 21 |
 | **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas)](https://jobright.ai/jobs/info/67b8e890894454ce6065bb57?utm_campaign=1056&utm_source=git)** | Lewisville, TX | On Site | Feb 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[CO-OP/INTERN 2 (DEPARTMENT OF CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/67b8d768731ed50fb220491b?utm_campaign=1056&utm_source=git)** | Ohio 45202, OH | On Site | Feb 21 |
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Individual Freedom & Free Markets Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055882?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs Intern - Washington, DC](https://jobright.ai/jobs/info/67b8e00c5d3321910ebea7d9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Electronic Enrollment](https://jobright.ai/jobs/info/67b8aa9e0e3a42d523ec106a?utm_campaign=1056&utm_source=git)** | Okemos, MI | Hybrid | Feb 21 |
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/67b89b477189a67242764ed0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Healthcare/Government Programs](https://jobright.ai/jobs/info/67b8a466361c38690de72b1a?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 21 |
 | **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas) ](https://jobright.ai/jobs/info/67b89b477189a67242764c60?utm_campaign=1056&utm_source=git)** | Lewisville, Texas, United States | On Site | Feb 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Housing - Community Development](https://jobright.ai/jobs/info/67b678983e92d395cfdbbfea?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/67b65b746f5d725225a06767?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Feb 19 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - Community Engagement Data Analyst](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f943?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 19 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Rural Resilience Intern](https://jobright.ai/jobs/info/67b655e0e11aa749fd83073d?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 19 |
-| **[NEOGOV](http://www.neogov.com)** | **[Graduate Research Assistant – Summer 2025](https://jobright.ai/jobs/info/67b647694edd03302b04bc4f?utm_campaign=1056&utm_source=git)** | Tallahassee, Florida | On Site | Feb 19 |
-| ↳ | **[Justice of the Peace Pct 2-2 Juvenile Truancy Intern](https://jobright.ai/jobs/info/67b647694edd03302b04bc72?utm_campaign=1056&utm_source=git)** | Kyle, TX | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
