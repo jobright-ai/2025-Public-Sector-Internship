@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Community Boards](https://jobright.ai/jobs/info/67bb150c188ffb42f66387cd?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Feb 23 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Congressional Relations Summer 2025 Internship w/ FDD Action](https://jobright.ai/jobs/info/67ba3a828a90c2a251dc1c7e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 22 |
+| **[GE Aerospace](https://www.geaerospace.com)** | **[2025 L.I.F.T. Summit - EVENT APPLICATION for 2026 INTERNSHIPS](https://jobright.ai/jobs/info/679d05000c4708b4e3ce8bd9?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Feb 22 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Leadership Crew Intern](https://jobright.ai/jobs/info/679d55a181e671d3c6185e85?utm_campaign=1056&utm_source=git)** | West Alton, MO | On Site | Feb 22 |
 | **[ChristianaCare](http://christianacare.org)** | **[Emergency Management Planner Intern](https://jobright.ai/jobs/info/67b9c6ebc40702e826111571?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Feb 22 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Community Boards](https://jobright.ai/jobs/info/67b9c6ebc40702e8261115da?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Feb 22 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67b7399efc9e0ac9211d7cec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 20 |
 | **[NEOGOV](http://www.neogov.com)** | **[Plan Services Internship](https://jobright.ai/jobs/info/67b73333db047a4d3663c831?utm_campaign=1056&utm_source=git)** | City Hall-Lee's Summit, MO | On Site | Feb 20 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Development Intern (Washington D.C. Regional Office)](https://jobright.ai/jobs/info/67ad288a1ea8a1881804f773?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 20 |
-| **[Housing Families](https://housingfamilies.org/)** | **[Housing Families Internship Program](https://jobright.ai/jobs/info/67b6f52c805f592745f3d5e9?utm_campaign=1056&utm_source=git)** | Malden, MA | On Site | Feb 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Scientific Engagement Strategy Intern](https://jobright.ai/jobs/info/67b82f3c696df09aa289157a?utm_campaign=1056&utm_source=git)** | Horsham, PA | On Site | Feb 19 |
 | **[MDC](https://www.mdcinc.org)** | **[2025 Dan Broun Internship](https://jobright.ai/jobs/info/67b82140eb9b0c618e2b27bc?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Feb 19 |
 | **[Wyndham Hotels & Resorts](https://corporate.wyndhamhotels.com/)** | **[Intern, Social Responsibility](https://jobright.ai/jobs/info/67b9573d96d5b3ca51010b90?utm_campaign=1056&utm_source=git)** | Parsippany, NJ | On Site | Feb 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Rural Resilience Intern](https://jobright.ai/jobs/info/67b655e0e11aa749fd83073d?utm_campaign=1056&utm_source=git)** | United States | Remote | Feb 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Graduate Research Assistant – Summer 2025](https://jobright.ai/jobs/info/67b647694edd03302b04bc4f?utm_campaign=1056&utm_source=git)** | Tallahassee, Florida | On Site | Feb 19 |
 | ↳ | **[Justice of the Peace Pct 2-2 Juvenile Truancy Intern](https://jobright.ai/jobs/info/67b647694edd03302b04bc72?utm_campaign=1056&utm_source=git)** | Kyle, TX | On Site | Feb 19 |
-| **[Child Care Resource Center](https://www.ccrcca.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/67b655e0e11aa749fd830878?utm_campaign=1056&utm_source=git)** | Chatsworth, CA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
