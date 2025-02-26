@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Promotion & Behavior Change](https://jobright.ai/jobs/info/67be5ccf991f3b689d9a4ac9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
+| **[Township of Upper St. Clair](https://www.twpusc.org/)** | **[Local Government Administrative Intern - Spring 2025](https://jobright.ai/jobs/info/67be55d9020e15024df9f521?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Feb 25 |
+| **[IIRR](http://www.iirr.org)** | **[Advocacy & Communications Officer - Intern](https://jobright.ai/jobs/info/67be53fe020e15024df9f27c?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Feb 25 |
+| ↳ | **[Research Officer - Intern](https://jobright.ai/jobs/info/67be41e53dc4fea871f7a8c4?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Feb 25 |
+| **[Gas South](https://www.gassouth.com)** | **[Community Affairs Summer Internship](https://jobright.ai/jobs/info/67be30fca3b8c007dfd0ab17?utm_campaign=1056&utm_source=git)** | Gainesville, Florida | On Site | Feb 25 |
 | **[NEOGOV](http://www.neogov.com)** | **[Police Intern - Community Outreach](https://jobright.ai/jobs/info/67be155b45628081b5d342ce?utm_campaign=1056&utm_source=git)** | St. Louis Park, MN | On Site | Feb 25 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Center for Global Impact Intern](https://jobright.ai/jobs/info/67be17fbcc090b67517b816b?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Feb 25 |
 | **[Initium Health](https://initiumhealth.org)** | **[Spanish-Speaking Community Outreach Intern](https://jobright.ai/jobs/info/67bdf5c5bfbe0710df5d92f4?utm_campaign=1056&utm_source=git)** | Amarillo, TX | Hybrid | Feb 25 |
 | **[Squire Patton Boggs](http://www.squirepattonboggs.com/)** | **[Public Policy Intern - 2025 Summer Semester](https://jobright.ai/jobs/info/67a1376e42238d0fb2291619?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Workplace Health and Safety](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b7e23?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Feb 25 |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/679aaf2c76364534cf958aba?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Feb 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67bd74a45194e389c713f712?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Feb 24 |
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern, Summer 2025](https://jobright.ai/jobs/info/67bd3f5cb3d6b64c7347e8f9?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 24 |
 | ↳ | **[Repower Intern, Summer 2025](https://jobright.ai/jobs/info/67bd30b0754d56b779feb996?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Workplace Health and Safety](https://jobright.ai/jobs/info/67bd191a3bacf21775a80d7e?utm_campaign=1056&utm_source=git)** | Medical Plaza North | On Site | Feb 24 |
 | **[Child Mind Institute](http://childmind.org)** | **[Social Work Intern, Anxiety Disorders Center](https://jobright.ai/jobs/info/67bd266b2277159480df1a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
+| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Spring 2025 Trainee, Indo-Pacific Program](https://jobright.ai/jobs/info/67be30fca3b8c007dfd0a9a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | **[Ankura](https://ankura.com)** | **[Intern, Trade Practice](https://jobright.ai/jobs/info/67bd266b2277159480df1dd7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | **[Stantec](http://www.stantec.com)** | **[Public Policy Co-Op/Intern (Summer 2025)](https://jobright.ai/jobs/info/67bd1c0552e1a0dadf20805e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 24 |
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Community Banking Administration Intern](https://jobright.ai/jobs/info/67bd0cf9b61bedfa0a2709e5?utm_campaign=1056&utm_source=git)** | Westborough, MA | On Site | Feb 24 |
@@ -106,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/67bc634621b852fb4f625bbe?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic & Financial Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67bb8f04275eb8245377a707?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 23 |
 | ↳ | **[International Organizations Research Summer 2025 Internship](https://jobright.ai/jobs/info/67bb873f3fadf3cdfab40ab4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 23 |
-| ↳ | **[Israel Program Research Summer 2025 Internship](https://jobright.ai/jobs/info/67bb873f3fadf3cdfab40ab5?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Feb 23 |
 | ↳ | **[Military & Political Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67bb873f3fadf3cdfab40ab8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Evidence Generation Summer Intern (Global Medical Affairs](https://jobright.ai/jobs/info/67bb52910cff28dbee199c7b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Feb 23 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/67bb47fa8cf1826dbddea2e6?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Feb 23 |
@@ -125,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666b7f?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666bf1?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666c6a?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Feb 21 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666d4c?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666d48?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Feb 21 |
+| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa8389932e55903666d4c?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa9f39932e55903666f2e?utm_campaign=1056&utm_source=git)** | Tyler, TX | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa9f39932e55903667085?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Feb 21 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67baa9f39932e55903667099?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growing Grads - Police Department Intern](https://jobright.ai/jobs/info/67b921f33b2328fdd919f85e?utm_campaign=1056&utm_source=git)** | 80601, CO | On Site | Feb 21 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Grants (CSR)](https://jobright.ai/jobs/info/67b9201598c3a0bb8a811c46?utm_campaign=1056&utm_source=git)** | Shafter, CA, USA | On Site | Feb 21 |
 | **[Benesch](https://www.benesch.com)** | **[Civil Internship](https://jobright.ai/jobs/info/67b9265c25af46a282daa529?utm_campaign=1056&utm_source=git)** | East Lansing, MI | Hybrid | Feb 21 |
-| **[World Vision](http://www.worldvision.org/)** | **[Preparedness and Field Readiness Intern](https://jobright.ai/jobs/info/67b909aaaef0c88f8203d364?utm_campaign=1056&utm_source=git)** | Home Working, Florida, United States | On Site | Feb 21 |
-| ↳ | **[Preparedness and Field Readiness Intern](https://jobright.ai/jobs/info/67b909aaaef0c88f8203d37c?utm_campaign=1056&utm_source=git)** | Home Working, United States | On Site | Feb 21 |
+| **[World Vision](http://www.worldvision.org/)** | **[Preparedness and Field Readiness Intern](https://jobright.ai/jobs/info/67b909aaaef0c88f8203d37c?utm_campaign=1056&utm_source=git)** | Home Working, United States | On Site | Feb 21 |
+| ↳ | **[Preparedness and Field Readiness Intern](https://jobright.ai/jobs/info/67b909aaaef0c88f8203d364?utm_campaign=1056&utm_source=git)** | Home Working, Florida, United States | On Site | Feb 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[Paid Summer Intern - Planning Services](https://jobright.ai/jobs/info/67b902ab007697d7f41dd673?utm_campaign=1056&utm_source=git)** | Pelham, AL | On Site | Feb 21 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/6799ec6f5c2b92357f1006b4?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Feb 21 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Summer Intern, Policy Analyst](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2ce4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67b8fda8458f231b3fb57c83?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Feb 21 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Electronic Enrollment](https://jobright.ai/jobs/info/67b8f20790567a1457f65a66?utm_campaign=1056&utm_source=git)** | Okemos, MI | Hybrid | Feb 21 |
 | **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas)](https://jobright.ai/jobs/info/67b8e890894454ce6065bb57?utm_campaign=1056&utm_source=git)** | Lewisville, TX | On Site | Feb 21 |
-| **[NEOGOV](http://www.neogov.com)** | **[CO-OP/INTERN 2 (DEPARTMENT OF CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/67b8d768731ed50fb220491b?utm_campaign=1056&utm_source=git)** | Ohio 45202, OH | On Site | Feb 21 |
-| **[John Templeton Foundation](http://www.templeton.org)** | **[Individual Freedom & Free Markets Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055882?utm_campaign=1056&utm_source=git)** | Greater Philadelphia | Hybrid | Feb 21 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs Intern - Washington, DC](https://jobright.ai/jobs/info/67b8e00c5d3321910ebea7d9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 21 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Services](https://jobright.ai/jobs/info/67b8aa9e0e3a42d523ec102b?utm_campaign=1056&utm_source=git)** | Okemos, MI | Hybrid | Feb 21 |
-| ↳ | **[Internship - Healthcare/Government Programs](https://jobright.ai/jobs/info/67b8a466361c38690de72b1a?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 21 |
-| **[McAdams](http://mcadamsco.com)** | **[Land Planning Internship - Summer 2025 (Texas) ](https://jobright.ai/jobs/info/67b89b477189a67242764c60?utm_campaign=1056&utm_source=git)** | Lewisville, Texas, United States | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
