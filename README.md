@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crocs, Inc.](http://www.crocs.com)** | **[Sustainability Reporting Intern](https://jobright.ai/jobs/info/67c527f2b26784e85ff186ee?utm_campaign=1056&utm_source=git)** | Broomfield, CO | Hybrid | Mar 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67c4e9922c387264ab4d1597?utm_campaign=1056&utm_source=git)** | US - Washington - DC | On Site | Mar 02 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/67c4e6c55f8ee5ea473e34d0?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Mar 02 |
 | **[City of Palo Alto](http://cityofpaloalto.org/)** | **[Summer Intern (Various Positions City Wide)](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f489?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 02 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Aypa Power](https://www.aypa.com)** | **[Development - Central Region, Intern](https://jobright.ai/jobs/info/67c2d1c083071f7a68299de6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | ↳ | **[Government & Regulatory Affairs, Intern](https://jobright.ai/jobs/info/67c2d1c083071f7a68299dc7?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 28 |
 | ↳ | **[Development - Eastern Region, Intern](https://jobright.ai/jobs/info/67c2d1c083071f7a68299de3?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Youth Trafficking Prevention Intern](https://jobright.ai/jobs/info/67c56587c89c767b2c4395e4?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Feb 28 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Environmental, Social, Governance Intern](https://jobright.ai/jobs/info/67c29408fb1bdc712da409c5?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Feb 28 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/67c27ecc9bc450fa308b7ef5?utm_campaign=1056&utm_source=git)** | Irving, TX | On Site | Feb 28 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Agricultural Economic Research Graduate Intern](https://jobright.ai/jobs/info/67c27ecc9bc450fa308b7baf?utm_campaign=1056&utm_source=git)** | Arden Hills, MN | Remote | Feb 28 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, State Advocacy-Jackson, Mississippi](https://jobright.ai/jobs/info/67c21d7ee311e8ac0200977b?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Feb 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c201f4fa8213764905de46?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 28 |
 | **[PBS](http://www.pbs.org)** | **[Station Engagement Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906325?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906333?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
-| ↳ | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90649c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 28 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90649c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 28 |
+| ↳ | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906333?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
 | ↳ | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782da6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67b552fadecd2b3a6a0f2813?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 28 |
 | **[Exiger](http://www.exiger.com)** | **[Defense Intelligence Analyst Intern - Exiger Government Solutions](https://jobright.ai/jobs/info/678551390f2f5faefcf5bb5a?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Feb 28 |
@@ -106,10 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/67a54a44afb7c8ce539f9b56?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Feb 28 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer College Intern - Clerk of the Board](https://jobright.ai/jobs/info/67c1a2dda3bf48e439face11?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Feb 28 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[GIS Intern-2025 Local Gov Summer Internship Program](https://jobright.ai/jobs/info/67c18c5a2707c962362f6bf5?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Feb 28 |
-| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Policy)](https://jobright.ai/jobs/info/67c40f2cbbff6944e30fb50f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern - Summer 2025](https://jobright.ai/jobs/info/67c14a0f075692a1d035881e?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Feb 27 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic &amp; Financial Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67c1417cb7381318d06473ab?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| ↳ | **[Israel Program Research Summer 2025 Internship](https://jobright.ai/jobs/info/67c127637b2c41627cf271e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 27 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Summer 2025 Internship](https://jobright.ai/jobs/info/67c127637b2c41627cf271e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[The Sikh Coalition](http://www.sikhcoalition.org)** | **[Get Out The Vote (GOTV) Fellow](https://jobright.ai/jobs/info/67c120091b9ab4b1288d990f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67a422781318d489fec8b7bd?utm_campaign=1056&utm_source=git)** | Waterbury, VT | Hybrid | Feb 27 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/679aaf2c76364534cf958aba?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Feb 27 |
