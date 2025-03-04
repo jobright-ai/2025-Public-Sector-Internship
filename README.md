@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy, PRN](https://jobright.ai/jobs/info/67c7508a95585e2ec1e1722b?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Mar 04 |
+| **[NEOGOV](http://www.neogov.com)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/67c7508a95585e2ec1e1724c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 04 |
+| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Intern, Energy PMEL](https://jobright.ai/jobs/info/67c74d0b05b900757b6915cc?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Mar 04 |
+| **[NEOGOV](http://www.neogov.com)** | **[Greenville Police Department Internship (Summer 2025)](https://jobright.ai/jobs/info/67c72924534b07135003d8a3?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Mar 04 |
+| **[McAdams](http://mcadamsco.com)** | **[Summer 2025 Internship - Planning + Entitlements](https://jobright.ai/jobs/info/67c72c3dca3503981f96c51a?utm_campaign=1056&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Mar 04 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[PUBLIC SAFETY COMMUNICATIONS INTERN - 66068](https://jobright.ai/jobs/info/67c73ea33da18f0554614211?utm_campaign=1056&utm_source=git)** | Davidson County, TN | On Site | Mar 04 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/67aa489224599cdfddd4a574?utm_campaign=1056&utm_source=git)** | Ashburn, VA | On Site | Mar 04 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, US Medical Affairs](https://jobright.ai/jobs/info/67c6d8c834977dd72ff46d99?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/67c6c6478d56b72018c68926?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Mar 04 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/67c6cf2ebac83ad26fef3181?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Mar 03 |
@@ -89,14 +96,11 @@ For a complete list, click the following sortable link below:
 | **[Initium Health](https://initiumhealth.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/67c5efd1a89814661cb60691?utm_campaign=1056&utm_source=git)** | Amarillo, TX | Hybrid | Mar 03 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67c57c1e465115b1ee65824f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 03 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Sustainability Reporting Intern](https://jobright.ai/jobs/info/67c527f2b26784e85ff186ee?utm_campaign=1056&utm_source=git)** | Broomfield, CO | Hybrid | Mar 02 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Bachelors Level Social Work)](https://jobright.ai/jobs/info/67c651cc9cd9152938d2efd0?utm_campaign=1056&utm_source=git)** | Cleveland, OH | Hybrid | Mar 02 |
-| ↳ | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/67c651cc9cd9152938d2efff?utm_campaign=1056&utm_source=git)** | Cleveland, OH | Hybrid | Mar 02 |
+| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Social Work)](https://jobright.ai/jobs/info/67c651cc9cd9152938d2efff?utm_campaign=1056&utm_source=git)** | Cleveland, OH | Hybrid | Mar 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67c4e9922c387264ab4d1597?utm_campaign=1056&utm_source=git)** | US - Washington - DC | On Site | Mar 02 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/67c4e6c55f8ee5ea473e34d0?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Mar 02 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67b2ca71a1939cc1cfc2129b?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Mar 02 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2025 (9922)](https://jobright.ai/jobs/info/677715636f5406270c7a333a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
 | **[City of Palo Alto](http://cityofpaloalto.org/)** | **[Summer Intern (Various Positions City Wide)](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f489?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 02 |
-| **[PIM Brands](https://pimbrands.com)** | **[Sanitation Intern](https://jobright.ai/jobs/info/671bd833fd3112964d716154?utm_campaign=1056&utm_source=git)** | Somerset, NJ | On Site | Mar 02 |
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3b2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2025 Right of Way Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9bf?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Mar 02 |
 | **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Community Services & Resettlement Intern, IINE Lowell](https://jobright.ai/jobs/info/67c430872aaff622093f9d45?utm_campaign=1056&utm_source=git)** | Lowell, MA | Hybrid | Mar 02 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, State Advocacy-Jackson, Mississippi](https://jobright.ai/jobs/info/67c21d7ee311e8ac0200977b?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Feb 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c201f4fa8213764905de46?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 28 |
 | **[PBS](http://www.pbs.org)** | **[Station Engagement Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906325?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906333?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
-| ↳ | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90649c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 28 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90649c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Feb 28 |
+| ↳ | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906333?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
 | ↳ | **[Utilization Management Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782da6?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Exiger](http://www.exiger.com)** | **[Defense Intelligence Analyst Intern - Exiger Government Solutions](https://jobright.ai/jobs/info/678551390f2f5faefcf5bb5a?utm_campaign=1056&utm_source=git)** | McLean, VA | Hybrid | Feb 28 |
 | **[Berkeley Research Group (BRG)](http://www.thinkbrg.com)** | **[2025 Intern- Economics, Disputes and Investigations, College Station](https://jobright.ai/jobs/info/67a60bd13679107140407923?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Feb 28 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/67c0f73103094c45e3603e5e?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern Paid Internship](https://jobright.ai/jobs/info/67c14b71d2160f0ef304abcf?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Feb 27 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern Paid Internshi](https://jobright.ai/jobs/info/67c0fa6d44772ca8cdabc9fe?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Feb 27 |
-| **[TransUnion](http://www.transunion.com)** | **[Government Relations Summer Intern](https://jobright.ai/jobs/info/67c0ec1d30072ba9359c0a89?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Government](https://jobright.ai/jobs/info/67c0f11c4443285898542f47?utm_campaign=1056&utm_source=git)** | Pine Bluff, AR | On Site | Feb 27 |
 | **[Edelman](http://www.edelman.com)** | **[Public and Government Affairs Intern](https://jobright.ai/jobs/info/67c0ef3944432858985429f7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Feb 27 |
-| ↳ | **[Public and Government Affairs Intern](https://jobright.ai/jobs/info/67c0f11c4443285898543180?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
-| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Intern, Leave No One Behind, Gender, Human Rights and Inclusion Branch, Programme Division](https://jobright.ai/jobs/info/67c0e64fba0a6318f3953e11?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Feb 27 |
-| **[Citizens Business Bank](https://www.cbbank.com)** | **[Bank Rotational Trainee](https://jobright.ai/jobs/info/67c0dfd11b285e074b5748ec?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
