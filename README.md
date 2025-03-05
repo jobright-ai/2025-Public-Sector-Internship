@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (Summer start)](https://jobright.ai/jobs/info/67c837d12ab64bcdc3b628a7?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Mar 05 |
+| **[NRECA](https://www.electric.coop/)** | **[Government Relations Intern 1](https://jobright.ai/jobs/info/67c83e7103e2fd1f4dcecaa9?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
+| **[MITRE](http://www.mitre.org)** | **[Strategic Effects Intern](https://jobright.ai/jobs/info/67c82a8d8bd21f94dfe6da92?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Mar 05 |
+| **[Wisconsin Foundation and Alumni Association](https://www.uwalumni.com/)** | **[Constituent Data Processing Coordinator/Sr. Constituent Data Processing Coordinator](https://jobright.ai/jobs/info/67c82a8d8bd21f94dfe6db72?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Mar 04 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (Summer start)](https://jobright.ai/jobs/info/67c7f764ef4a9ff2f18c0947?utm_campaign=1056&utm_source=git)** | Concord, New Hampshire | Hybrid | Mar 04 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Market Development & Public Policy](https://jobright.ai/jobs/info/67c7fccf2be1db315fb10dc0?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Intern, Market Development & Public Policy](https://jobright.ai/jobs/info/67c7e334f71b036d6e75cdd5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
@@ -96,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/67aa489224599cdfddd4a574?utm_campaign=1056&utm_source=git)** | Ashburn, VA | On Site | Mar 04 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, US Medical Affairs](https://jobright.ai/jobs/info/67c6d8c834977dd72ff46d99?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/67c6c6478d56b72018c68926?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Mar 04 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/67c6cf2ebac83ad26fef3181?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Mar 03 |
+| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Lands Subsistence Projects Intern  Paid Internsh](https://jobright.ai/jobs/info/67c6cf2ebac83ad26fef3181?utm_campaign=1056&utm_source=git)** | Kotzebue, AK | On Site | Mar 03 |
 | **[NEOGOV](http://www.neogov.com)** | **[Parks & Recreation Maintenance Summer Intern](https://jobright.ai/jobs/info/67c6a3a63028f747a9803865?utm_campaign=1056&utm_source=git)** | 301 S. Brooks St. Wake Forest, NC | On Site | Mar 03 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67c7e67d2bb6fca633a76ee3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Summer start)](https://jobright.ai/jobs/info/67c68934caa1cc0b19d3a655?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Mar 03 |
@@ -134,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[City of Palo Alto](http://cityofpaloalto.org/)** | **[Summer Intern (Various Positions City Wide)](https://jobright.ai/jobs/info/67c4ab04e8986607dd82f489?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 02 |
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/67a061e7d0a6b0a426b4b3b2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2025 Right of Way Intern](https://jobright.ai/jobs/info/66d92975539401ce707fa9bf?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Mar 02 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/67c430872aaff622093fa451?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 01 |
+| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/67c430872aaff622093fa451?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/67c366359fad2ca3688831c9?utm_campaign=1056&utm_source=git)** | Effingham, IL | On Site | Mar 01 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/67a74791ad0fdb673b6c411a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Mar 01 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Community Impact Intern - Summer 2025](https://jobright.ai/jobs/info/67a6a9ad6843194e264649fb?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Mar 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mel Trotter Ministries](https://www.meltrotter.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/67c2762be563ea9722886428?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Feb 28 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2025 Dairy Farm Representative Intern](https://jobright.ai/jobs/info/67c2f88c707b58f80e74e91c?utm_campaign=1056&utm_source=git)** | Modesto, CA | On Site | Feb 28 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship](https://jobright.ai/jobs/info/67b96c98edcf19696ebb24da?utm_campaign=1056&utm_source=git)** | Denver Metropolitan Area | On Site | Feb 28 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern (July start)](https://jobright.ai/jobs/info/679971bf994851926ecb9422?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Feb 28 |
-| **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Market Access](https://jobright.ai/jobs/info/67c23d7cb3f94e6a3f75332f?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Feb 28 |
-| **[Milliman](http://www.milliman.com)** | **[Healthcare Policy Analyst - Intern (NYATL Health)](https://jobright.ai/jobs/info/67c23671695f970b79747874?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Feb 28 |
-| **[TriHealth](http://www.trihealth.com)** | **[Bethesda Foundation Intern](https://jobright.ai/jobs/info/67c21dca09aff7f410a2fd22?utm_campaign=1056&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
