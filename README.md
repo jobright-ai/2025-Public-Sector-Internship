@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Transportation](https://jobright.ai/jobs/info/67c9e39aa33dc7dffa1705eb?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Mar 06 |
+| **[City of Lakewood](https://www.lakewood.org/)** | **[Probation/Diversion Officer and Program Support Intern](https://jobright.ai/jobs/info/67ca1e25e5f3f7b3c3be15cb?utm_campaign=1056&utm_source=git)** | Lakewood, CO | On Site | Mar 06 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[UMMG Population Health Intern](https://jobright.ai/jobs/info/67ca2be0ddb299b7261ff63a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Mar 06 |
+| **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Intern, Medical Affairs: June - August 2025 (Remote / Flexible)](https://jobright.ai/jobs/info/67ca21eb88bf343a883b148b?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Intern, Global South Program](https://jobright.ai/jobs/info/67ca1b371b1697ba15045cba?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/67ca1b371b1697ba15045c16?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 06 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/67ca254081318318d4c42024?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 06 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Deputy Commissioner's Office](https://jobright.ai/jobs/info/67ca0b537d16d00498a2c5c7?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 06 |
+| **[NEOGOV](http://www.neogov.com)** | **[TECHNICAL INTERN - PUBLIC UTILITIES FINANCE](https://jobright.ai/jobs/info/67c9fc51be5a686246f6f1aa?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | Mar 06 |
+| **[OpenAI](https://www.openai.com)** | **[Global Affairs Internship (Summer 2025)](https://jobright.ai/jobs/info/67ca1b371b1697ba1504607e?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
+| **[Medidata Solutions](https://www.medidata.com)** | **[Community Engagement Intern- Site & Patient Insights](https://jobright.ai/jobs/info/67c9fc5f130a85825128fa04?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Mar 06 |
+| **[GoArmy](http://www.goarmy.com)** | **[Public Affairs Mass Communication Specialist](https://jobright.ai/jobs/info/67ca06500d75435c9fa29d63?utm_campaign=1056&utm_source=git)** | Santa Barbara, CA | On Site | Mar 06 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - EEO/DEI](https://jobright.ai/jobs/info/67c9fd9efaed535026ea807f?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Mar 06 |
+| ↳ | **[SUMMER GRADUATE INTERN- Department of Environmental Protection & Transit](https://jobright.ai/jobs/info/67c9fd9efaed535026ea8152?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Mar 06 |
+| ↳ | **[SUMMER COLLEGE INTERN - Department of Environmental Protection & Transit](https://jobright.ai/jobs/info/67c9fd9efaed535026ea8061?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Mar 06 |
+| ↳ | **[SUMMER GRADUATE INTERN - Transportation](https://jobright.ai/jobs/info/67c9e39aa33dc7dffa1705eb?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Mar 06 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Intern, Medical Affairs: June - August 2025 (Remote/Flexible)](https://jobright.ai/jobs/info/67c9ca5e4a837382a8fb7e52?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/67ad6a81215e9f94ba15c3a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Mar 06 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Public Safety Officer Intern - $18/HR](https://jobright.ai/jobs/info/67ace89c54b0d205e3a50be5?utm_campaign=1056&utm_source=git)** | Gurnee, IL | On Site | Mar 06 |
@@ -83,11 +97,11 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern, City Manager's Office](https://jobright.ai/jobs/info/67c8d11f1951f2744a64306d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 05 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Health Care Federal Relations and Public Policy Internship - hybrid work model](https://jobright.ai/jobs/info/6795b60a2ff9666e1d57ae16?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 05 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/67c8e12f7a5c291473657ba7?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 05 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
-| ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e0?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Mar 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e1?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Mar 05 |
 | ↳ | **[Intern Hartford, CT](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d5c?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Mar 05 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e1?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Mar 05 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Medicaid Advocacy and Planning](https://jobright.ai/jobs/info/67c8c16838459ec2bb9a34e3?utm_campaign=1056&utm_source=git)** | DDMI - Detroit | Hybrid | Mar 05 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/67c8ba6c1a48485dad5ea7c9?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 05 |
 | **[Box](http://www.box.com)** | **[Policy Intern](https://jobright.ai/jobs/info/67c8b47bedd0b12f41a3968e?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Mar 05 |
@@ -96,23 +110,23 @@ For a complete list, click the following sortable link below:
 | **[South32](https://www.south32.net/)** | **[Intern, External Affairs](https://jobright.ai/jobs/info/67c8b1819b033c122f499508?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 05 |
 | **[William Blair](http://www.williamblair.com)** | **[Philanthropy & Sustainability Intern - Summer 2025](https://jobright.ai/jobs/info/67c8b552286b91220b0e7bc1?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 05 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8af641e4b1b135188cdd7?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2aa?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 05 |
 | ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2a8?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2aa?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Mar 05 |
 | ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2a9?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | Mar 05 |
 | ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2ad?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2ac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
 | ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2ab?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c8afae1e4b1b135188d2ac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 05 |
 | **[Box](http://www.box.com)** | **[Policy Intern](https://jobright.ai/jobs/info/67c89a2388b6c28376cb503b?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Mar 05 |
 | **[Christian Family Care](https://cfcare.org/)** | **[Internship - Undergraduate Social Services](https://jobright.ai/jobs/info/67c8cea7292b154b836579e0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 05 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 2](https://jobright.ai/jobs/info/67c897c3a8273533a3afb018?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 05 |
 | ↳ | **[Summer Intern - Precinct 4](https://jobright.ai/jobs/info/67c897c3a8273533a3afb04b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 05 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff617?utm_campaign=1056&utm_source=git)** | Austin | On Site | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff618?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff48a?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff614?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff619?utm_campaign=1056&utm_source=git)** | San Francisco | On Site | Mar 05 |
-| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff615?utm_campaign=1056&utm_source=git)** | Boulder | On Site | Mar 05 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff615?utm_campaign=1056&utm_source=git)** | Boulder | On Site | Mar 05 |
 | ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff616?utm_campaign=1056&utm_source=git)** | Raleigh | On Site | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff614?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff48a?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff619?utm_campaign=1056&utm_source=git)** | San Francisco | On Site | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff617?utm_campaign=1056&utm_source=git)** | Austin | On Site | Mar 05 |
+| ↳ | **[Industry Decarbonization Intern, China](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff618?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Mar 05 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Intern - KFI IP](https://jobright.ai/jobs/info/67ac23deaeec9d407c4fe55f?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 05 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Corporate Social Responsibility Intern- Summer 2025](https://jobright.ai/jobs/info/67ac23deaeec9d407c4fe3ee?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Mar 05 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/67c87bbdded87694c00f19f6?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 05 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xylem](http://www.xylem.com)** | **[Reservoir Center Program Intern](https://jobright.ai/jobs/info/67c784f1c23dffc77827d6cc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 04 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern – Child Support Case Management Support – Southern Region](https://jobright.ai/jobs/info/67c78559a742bb5026e4dfbb?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Taunton-100 Myles Standish Blv | On Site | Mar 04 |
 | **[Los Angeles Sparks](http://lasparks.com)** | **[Community Relations and Youth Basketball Intern](https://jobright.ai/jobs/info/67c78ec5684906ab34c54289?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/67c78583c4e4922660fa31b0?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Intern, Energy PMEL](https://jobright.ai/jobs/info/67c78ec5684906ab34c54674?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 04 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern North Kingstown](https://jobright.ai/jobs/info/67c78ec5684906ab34c547b8?utm_campaign=1056&utm_source=git)** | North Kingstown, RI | On Site | Mar 04 |
-| **[NEOGOV](http://www.neogov.com)** | **[Summer 2025 Probation/Parole Intern, DAC - Community Supervision (DIVISION IV)](https://jobright.ai/jobs/info/67c767021387713ffb4c1af5?utm_campaign=1056&utm_source=git)** | Statewide, NC | On Site | Mar 04 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern](https://jobright.ai/jobs/info/67c7738def6fe77f647a6cef?utm_campaign=1056&utm_source=git)** | Haverhill, MA | On Site | Mar 04 |
-| **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Domestic Violence Advocate Intern](https://jobright.ai/jobs/info/67c77d2185af1dc7353753bf?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Mar 04 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Internship (Paid) - Public Information Office, PN 20050824](https://jobright.ai/jobs/info/67c7697c1b6939ce2fde8b6a?utm_campaign=1056&utm_source=git)** | Bowling Green, OH | On Site | Mar 04 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[2025 Summer Intern / Community Investment Intern - Hybrid](https://jobright.ai/jobs/info/67c7615f6f371335c7513482?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 04 |
-| **[McAdams](http://mcadamsco.com)** | **[Summer 2025 Internship - Planning + Entitlements](https://jobright.ai/jobs/info/67c7615f6f371335c7513593?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Mar 04 |
-| **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[Public Health Internship - Paid Opportunities](https://jobright.ai/jobs/info/67c7615f6f371335c75135be?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Mar 04 |
-| **[NEOGOV](http://www.neogov.com)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/67c7508a95585e2ec1e1724c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Intern, Energy PMEL](https://jobright.ai/jobs/info/67c74d0b05b900757b6915cc?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Mar 04 |
-| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[SkillBridge Intern, Policy and Financial](https://jobright.ai/jobs/info/67c7594f96c4838741515beb?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Mar 04 |
-| **[GlobalFoundries](https://gf.com/)** | **[Legal Corporate Affairs Intern (Summer 2025)](https://jobright.ai/jobs/info/67bcb1cae9e7f7edd3effa62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
