@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - GLOBAL MOBILITY](https://jobright.ai/jobs/info/67cbbd52150170ba87d1c1d1?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/67cbc514ed529997906bc2de?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67ccbda299dc42cd7315ac67?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Mar 07 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Food Security Intern - Unpaid](https://jobright.ai/jobs/info/67cd0470ac0d80bdfd67a77a?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Government Affairs & Public Policy, Internship](https://jobright.ai/jobs/info/67cb91936ba7c88b2caddf7e?utm_campaign=1056&utm_source=git)** | Headquarters Office, Schenectady, New York, United States of America | On Site | Mar 07 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Impact, CPR-Greater New Orleans Region](https://jobright.ai/jobs/info/67cb9eb5faa575407403f9a2?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Mar 07 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Washington, DC Internship Summer 2025](https://jobright.ai/jobs/info/67cb9eb5faa575407403fb1d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 07 |
@@ -139,6 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy and Market Intern](https://jobright.ai/jobs/info/67c946e53c39e90eacbec67c?utm_campaign=1056&utm_source=git)** | Asbury Park, NJ | On Site | Mar 05 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67c9286092abaeaf4ea23c47?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 05 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Providence College Internship 2025 - Medicare Policy](https://jobright.ai/jobs/info/67960c6e8c45cd8b171b5ef2?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Mar 05 |
+| **[Synergy Services](http://www.synergyservices.org)** | **[Intern Coordinator - Family Violence Services](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffd91?utm_campaign=1056&utm_source=git)** | Parkville, MO | On Site | Mar 05 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Government Programs Medicaid Advocacy and Planning](https://jobright.ai/jobs/info/67c91ed428275c956169bb15?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Mar 05 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Public Policy Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/67c90c4de9ecff35a15caff2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 05 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - WECC Region, Intern](https://jobright.ai/jobs/info/67c91ed428275c956169bdfd?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 05 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern, City Manager's Office](https://jobright.ai/jobs/info/67c8d11f1951f2744a64306d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 05 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Health Care Federal Relations and Public Policy Internship - hybrid work model](https://jobright.ai/jobs/info/6795b60a2ff9666e1d57ae16?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 05 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/67c8e12f7a5c291473657ba7?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 05 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e0?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Mar 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e1?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Mar 05 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
+| ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
