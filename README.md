@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[2025 Summer Intern / Community Investment Intern - Hybrid](https://jobright.ai/jobs/info/67c7615f6f371335c7513482?utm_campaign=1056&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[CO-OP/INTERN 2 - COMMUNITY & ECONOMIC DEVELOPMENT](https://jobright.ai/jobs/info/67cb63708f63fde41104ea02?utm_campaign=1056&utm_source=git)** | Ohio 45202, OH | On Site | Mar 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67cbcecd44a9e3d06fb387e3?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Mar 07 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Spring 2025)](https://jobright.ai/jobs/info/67cbcecd44a9e3d06fb3886d?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Mar 07 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653be6?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Mar 07 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/67cb7d75a57b2ca64c018c7e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I (Audubon Rec Center)](https://jobright.ai/jobs/info/67cbd5bdabb6eff427f13955?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Mar 07 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy and Planning Intern](https://jobright.ai/jobs/info/67c8d7081e8f8534037f74c4?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 05 |
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern, City Manager's Office](https://jobright.ai/jobs/info/67c8d11f1951f2744a64306d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 05 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/67c8e12f7a5c291473657ba7?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 05 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
-| ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e0?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
