@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/67ce2e0b2c68138dc3db3ffe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Military &amp; Political Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67cd11734a8169533668135b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 08 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- MDCOB Deans Office Assistant](https://jobright.ai/jobs/info/67ccc2825b20f4d657bbf665?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Managers Office](https://jobright.ai/jobs/info/67ccd9eaef9e2bd4e9cd715d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 08 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Public Safety Intern - RFD](https://jobright.ai/jobs/info/67cb5552dd2741bba6336e87?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Mar 07 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern (Hollabaugh Rec Center)](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653fac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Mar 07 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/67c87bbdded87694c00f19f6?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 07 |
+| ↳ | **[Summer Intern - Precinct 2](https://jobright.ai/jobs/info/67c897c3a8273533a3afb018?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[Arkansas Children's](http://archildrens.org)** | **[Elevate Summer Internship 2025- Healthcare Legal/ Government Relations](https://jobright.ai/jobs/info/67cc332b30fac953124a4db4?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Mar 07 |
 | **[City of Palo Alto](http://cityofpaloalto.org/)** | **[Summer Intern (Various Positions City Wide)](https://jobright.ai/jobs/info/67cb4bc070beb07923e2effa?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 07 |
 | **[Arkansas Children's](http://archildrens.org)** | **[Elevate Summer Internship 2025- Healthcare Administration](https://jobright.ai/jobs/info/67cb42a03aae52c9210ee3f1?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Mar 07 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[TECHNICAL INTERN - PUBLIC UTILITIES FINANCE](https://jobright.ai/jobs/info/67c9fc51be5a686246f6f1aa?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | Mar 06 |
 | **[OpenAI](https://www.openai.com)** | **[Global Affairs Internship (Summer 2025)](https://jobright.ai/jobs/info/67ca1b371b1697ba1504607e?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Community Engagement Intern- Site & Patient Insights](https://jobright.ai/jobs/info/67c9fc5f130a85825128fa04?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Mar 06 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Transportation](https://jobright.ai/jobs/info/67c9e39aa33dc7dffa1705eb?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Mar 06 |
 | **[Norton Healthcare](https://nortonhealthcare.com)** | **[Chaplain Ordained Intern PRN, As Needed](https://jobright.ai/jobs/info/67c651cc9cd9152938d2ef3b?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Mar 06 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Intern, Medical Affairs: June - August 2025 (Remote/Flexible)](https://jobright.ai/jobs/info/67c9ca5e4a837382a8fb7e52?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/67ad6a81215e9f94ba15c3a9?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Mar 06 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy and Planning Intern](https://jobright.ai/jobs/info/67c8d7081e8f8534037f74c4?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 05 |
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern, City Manager's Office](https://jobright.ai/jobs/info/67c8d11f1951f2744a64306d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 05 |
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/67c8e12f7a5c291473657ba7?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 05 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e0?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Mar 05 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
+| ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
