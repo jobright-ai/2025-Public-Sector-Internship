@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Common Sense Media](http://graphite.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/67aeda51fdb19253fc0f7690?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[The Joint Commission](http://www.jointcommission.org)** | **[Health Care Federal Relations and Public Policy Internship - hybrid work model](https://jobright.ai/jobs/info/6795b60a2ff9666e1d57ae16?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 07 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (August/Fall start)](https://jobright.ai/jobs/info/67ccaf50e1fe595b62db634f?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Hybrid | Mar 07 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Intern](https://jobright.ai/jobs/info/67cd260ffa1782a967dec8d5?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Mar 07 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Market Development & Public Policy](https://jobright.ai/jobs/info/67c8e34060760c77a088ae5d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 07 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[INTERN - GLOBAL MOBILITY (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/67ccb0b51606eeb90e00d99d?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - GLOBAL MOBILITY](https://jobright.ai/jobs/info/67cbbd52150170ba87d1c1d1?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/67c8e12f7a5c291473657ba7?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 05 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122df?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Mar 05 |
 | ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67c8d8feeaa6d008d85122e0?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
