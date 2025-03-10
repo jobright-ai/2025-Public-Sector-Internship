@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Start Early](https://www.startearly.org/)** | **[Intern - Illinois Policy](https://jobright.ai/jobs/info/678ae6547791999c9b48014e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/67cec6cb1a8ce5e8906acc65?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Social Work Intern-Non Paid Internship](https://jobright.ai/jobs/info/67ce8a2e3c5d4c8c79292911?utm_campaign=1056&utm_source=git)** | Naperville, IL | On Site | Mar 09 |
+| **[Community Access](https://www.communityaccess.org)** | **[Health and Wellness Housing Intern](https://jobright.ai/jobs/info/67cee2917ee0dc883e7eafc4?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Mar 09 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/67ce2e0b2c68138dc3db3ffe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/679323962a3caca2c4465c17?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Mar 08 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Military &amp; Political Power Research Summer 2025 Internship](https://jobright.ai/jobs/info/67cd11734a8169533668135b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 08 |
-| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- MDCOB Deans Office Assistant](https://jobright.ai/jobs/info/67ccc2825b20f4d657bbf665?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Managers Office](https://jobright.ai/jobs/info/67ccd9eaef9e2bd4e9cd715d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 08 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Land Acquisition - Summer Intern](https://jobright.ai/jobs/info/67ccba3fda9d3e9f8520b992?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Mar 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/6793fd7bdb0cb81609847acd?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Mar 08 |
@@ -114,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[EVgo](http://www.evgo.com)** | **[Intern, Market Development & Public Policy](https://jobright.ai/jobs/info/67c7fccf2be1db315fb10dc0?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Research & Grants Administration-Remote](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f763?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Mar 06 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Intern, Global South Program](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455bc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Mar 06 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Mental Health (Fall)](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f780?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Mar 06 |
-| ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29a9?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Mar 06 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Mental Health (Fall)](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f780?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Mar 06 |
 | ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29e2?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Mar 06 |
+| ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29a9?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Mar 06 |
 | ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29b1?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Mar 06 |
 | ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29b4?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Mar 06 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Public Safety- Loss Prevention Internship](https://jobright.ai/jobs/info/67ace5f2868690c0fbd3c77b?utm_campaign=1056&utm_source=git)** | Jackson, NJ | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Leading by Example Intern](https://jobright.ai/jobs/info/67c8d7081e8f8534037f74c1?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 05 |
 | ↳ | **[Policy and Planning Intern](https://jobright.ai/jobs/info/67c8d7081e8f8534037f74c4?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Mar 05 |
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern, City Manager's Office](https://jobright.ai/jobs/info/67c8d11f1951f2744a64306d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 05 |
-| **[Duke University](http://www.duke.edu)** | **[Administrative Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/67c8e12f7a5c291473657ba7?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Mar 05 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern Providence, RI](https://jobright.ai/jobs/info/67c8d74deaa6d008d8511d30?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
