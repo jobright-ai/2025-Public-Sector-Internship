@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Redevelopment Authority of Pittsburgh](http://www.ura.org/)** | **[2025 URA Summer Internship Program- 6 Paid Internships Available](https://jobright.ai/jobs/info/67d08276a49a41ac1f4d3cc4?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Mar 11 |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Center for Cancer Care Impact intern](https://jobright.ai/jobs/info/67c62b05c0a2932cdecc6a87?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Mar 11 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67d0029b79007a99a20c23b0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Kansas City Chiefs](https://www.chiefs.com)** | **[Communications - LoneBear/H.Roe Bartle Rotational Internship](https://jobright.ai/jobs/info/67cfdf4b74ed78d2bd52be47?utm_campaign=1056&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Internship - Police Records Intern](https://jobright.ai/jobs/info/67cf7f0e20b68cc8e5e5f8b9?utm_campaign=1056&utm_source=git)** | OR  97123, OR | On Site | Mar 10 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- MDCOB Deans Office Assistant](https://jobright.ai/jobs/info/67cfa648187ee6df07e160bb?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 08 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Managers Office](https://jobright.ai/jobs/info/67ccd9eaef9e2bd4e9cd715d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Mar 08 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[Land Acquisition - Summer Intern](https://jobright.ai/jobs/info/67ccba3fda9d3e9f8520b992?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Mar 08 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/6793fd7bdb0cb81609847acd?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Mar 08 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Government Contracts and Proposals Intern](https://jobright.ai/jobs/info/67cc3bd1101a4900d302161c?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Mar 08 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Government Affairs & Public Policy, Internship](https://jobright.ai/jobs/info/67cc3bd1101a4900d3021093?utm_campaign=1056&utm_source=git)** | Schenectady, NY | Hybrid | Mar 08 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship Program - Summer 2025](https://jobright.ai/jobs/info/67cc22e3139b4730caac595d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Mar 08 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[CO-OP/INTERN 2 - COMMUNITY & ECONOMIC DEVELOPMENT](https://jobright.ai/jobs/info/67cb63708f63fde41104ea02?utm_campaign=1056&utm_source=git)** | Ohio 45202, OH | On Site | Mar 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67cbcecd44a9e3d06fb387e3?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Mar 07 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653be6?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Mar 07 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/67cb7d75a57b2ca64c018c7e?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 07 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Intern I (Audubon Rec Center)](https://jobright.ai/jobs/info/67cbd5bdabb6eff427f13955?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Mar 07 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67cb5552dd2741bba6336d96?utm_campaign=1056&utm_source=git)** | Kansas City Metro Area | On Site | Mar 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Public Safety Intern - RFD](https://jobright.ai/jobs/info/67cb5552dd2741bba6336e87?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Mar 07 |
