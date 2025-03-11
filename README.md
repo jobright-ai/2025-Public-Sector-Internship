@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67d0029b79007a99a20c23b0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 11 |
 | **[Kansas City Chiefs](https://www.chiefs.com)** | **[Communications - LoneBear/H.Roe Bartle Rotational Internship](https://jobright.ai/jobs/info/67cfdf4b74ed78d2bd52be47?utm_campaign=1056&utm_source=git)** | Kansas City, MO, USA | On Site | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Internship - Police Records Intern](https://jobright.ai/jobs/info/67cf7f0e20b68cc8e5e5f8b9?utm_campaign=1056&utm_source=git)** | OR  97123, OR | On Site | Mar 10 |
 | **[UNDP Careers](https://www.undp.org)** | **[SDG Local Action Intern](https://jobright.ai/jobs/info/67cf7ca857dde3b7a8a0ad85?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Mar 10 |
@@ -68,11 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Economist](https://jobright.ai/jobs/info/67cf5a1d6ba05b3a4c64d016?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Hybrid | Mar 10 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Alumni Relations & Annual Giving-Engagement Ambassador (multiple positions to fill)](https://jobright.ai/jobs/info/67cf635bc37af6c6d3d4e99a?utm_campaign=1056&utm_source=git)** | Huntsville, TX | On Site | Mar 10 |
 | **[NEOGOV](http://www.neogov.com)** | **[Internship - Community Development Intern](https://jobright.ai/jobs/info/67cf4a5588030198a20e8d2d?utm_campaign=1056&utm_source=git)** | OR  97123, OR | On Site | Mar 10 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Economic Development](https://jobright.ai/jobs/info/67cf39f06094862eb65902d3?utm_campaign=1056&utm_source=git)** | Columbia, MO | Hybrid | Mar 10 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Providence College Internship 2025 - Medicare Policy](https://jobright.ai/jobs/info/67960c6e8c45cd8b171b5ef2?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Mar 10 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2025 Summer College Internship Program – City Council](https://jobright.ai/jobs/info/67cf130e2b1127099b55b04f?utm_campaign=1056&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Mar 10 |
 | **[Nemours](http://www.nemours.org)** | **[Intern - Wellbeing Research](https://jobright.ai/jobs/info/6793dc698c360b7d93c45438?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Mar 10 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Internships (Support to the Executive Office), Education Cannot Wait (ECW), 2 months (June - July 2025), New York, REQ#580448](https://jobright.ai/jobs/info/67cf08c86cebe3ced1cfa90f?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Economic Development](https://jobright.ai/jobs/info/67cef6b2ac946885a762bb0c?utm_campaign=1056&utm_source=git)** | Columbia, MO | Hybrid | Mar 10 |
+| **[Magna International](http://www.magna.com/)** | **[Intern - Government Affairs Workplace Development](https://jobright.ai/jobs/info/679446f460f2d3334d631c01?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Mar 10 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Public Affairs Intern – Summer 2025](https://jobright.ai/jobs/info/67cef2d3bfa759d65beb157c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (Houston)](https://jobright.ai/jobs/info/6753c6d7e0bf7992da587e71?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Mar 10 |
 | **[Start Early](https://www.startearly.org/)** | **[Intern - Illinois Policy](https://jobright.ai/jobs/info/678ae6547791999c9b48014e?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Intern, Medical Affairs: June - August 2025 (Remote / Flexible)](https://jobright.ai/jobs/info/67ca21eb88bf343a883b148b?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Intern, Global South Program](https://jobright.ai/jobs/info/67ca1b371b1697ba15045cba?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 06 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/67ca1b371b1697ba15045c16?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/67ca254081318318d4c42024?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 06 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Deputy Commissioner's Office](https://jobright.ai/jobs/info/67ca0b537d16d00498a2c5c7?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 06 |
-| **[Fervo Energy](https://www.fervoenergy.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d043?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Mar 06 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/67ca254081318318d4c42024?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
