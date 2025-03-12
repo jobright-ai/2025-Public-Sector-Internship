@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/67d0d308ad2bdb0ee12fd433?utm_campaign=1056&utm_source=git)** | Des Moines, Iowa | Hybrid | Mar 11 |
+| **[CHAS Health](https://chas.org/)** | **[College Intern (Health Equity)](https://jobright.ai/jobs/info/67d0f0f2cc8f6e68de34add8?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Mar 11 |
+| **[NEOGOV](http://www.neogov.com)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/67d0e6647fe1c986773febff?utm_campaign=1056&utm_source=git)** | Palm Desert, CA | On Site | Mar 11 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Intern, East Asia Program](https://jobright.ai/jobs/info/67d0d807b55761b8a722bddd?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/67d0c362bd3dbd964571a99f?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 11 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Sustainability Intern Part-Time](https://jobright.ai/jobs/info/67d0ae8e16574dd9e9e8cae6?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Mar 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67d0b45d7128d17e7bd59f1a?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Mental Health (Fall)](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f780?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Mar 06 |
 | ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29e2?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Mar 06 |
 | ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29a9?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Mar 06 |
-| ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29b1?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Mar 06 |
-| ↳ | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29b4?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
