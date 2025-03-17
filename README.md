@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Community and Cultural Engagement Intern](https://jobright.ai/jobs/info/67d798ddc6aa7cb60efff1e6?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Mar 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Health Economics & Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/67d704d70dc700761e2a05ac?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Mar 16 |
 | **[Springfield Technical Community College](http://www.stcc.edu/)** | **[INTERNAL POSTING - Campus Police Officer II (2 Positions Available)](https://jobright.ai/jobs/info/67d6f07e6e1d0779e9df4172?utm_campaign=1056&utm_source=git)** | Springfield, MA | On Site | Mar 16 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - College - Healthcare and Community Impact - Remote - Nationwide](https://jobright.ai/jobs/info/67d5760115db84a8b5c33b4a?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 15 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Municipal & School Technology Intern](https://jobright.ai/jobs/info/67d1b96fe4973f2ebc3694ee?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Mar 12 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[CHWB Internship - By Invitation Only](https://jobright.ai/jobs/info/67d1c3872b97486ee0747bdc?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Global Medical Affairs Investigator-Initiated Trial Program Intern](https://jobright.ai/jobs/info/67b56c69e407c9ae787ac448?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 12 |
+| **[KeyBank](https://www.key.com)** | **[2025 Project S.U.N. Micro Internship - Institutional Bank Quality Control](https://jobright.ai/jobs/info/67d1a82ef48f4c97b7e597f8?utm_campaign=1056&utm_source=git)** | Brooklyn, OH | On Site | Mar 12 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Mar 12 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4e330a753fdf3c046553b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Mar 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67b42c018d484b0e773884b2?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Mar 12 |
-| **[KeyBank](https://www.key.com)** | **[2025 Project S.U.N. Micro Internship - Commercial Bank](https://jobright.ai/jobs/info/67d19b4d5077e4a98b04984a?utm_campaign=1056&utm_source=git)** | Brooklyn, OH | On Site | Mar 12 |
-| **[Los Angeles County Department of Human Resources](https://www.fire.lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/67d28822f5fe7efc2c548602?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
