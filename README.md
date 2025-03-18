@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba058c?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
+| ↳ | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba0590?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
+| **[KBR, Inc.](https://www.kbr.com)** | **[Government Property Intern](https://jobright.ai/jobs/info/67d9a5a22fbfb6d22481f585?utm_campaign=1056&utm_source=git)** | Fulton, MD | Hybrid | Mar 18 |
+| **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e679a?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Mar 18 |
+| ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/67d9a54be0ff9733335c6d72?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Mar 18 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2025 ESG Internship](https://jobright.ai/jobs/info/67d99ebb2968d9367183c34b?utm_campaign=1056&utm_source=git)** | Illinois, United States | On Site | Mar 18 |
+| **[DDC Public Affairs](http://www.ddcadvocacy.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/67bcdd3798676fe0b6dedab6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 18 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2025 ESG Internship](https://jobright.ai/jobs/info/67d956da9c12365a5457bf30?utm_campaign=1056&utm_source=git)** | USA IL Remote | Remote | Mar 18 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Federal Work Study - Office of Financial Aid](https://jobright.ai/jobs/info/67d94a10710806c96f47f5fb?utm_campaign=1056&utm_source=git)** | Lawrenceville, GA | On Site | Mar 18 |
 | **[AARP](http://www.aarp.org)** | **[Policy Research Intern (Graduate Student - Summer start)](https://jobright.ai/jobs/info/67d90162b9648f7bd32f9776?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 17 |
@@ -76,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[CALSTART](http://www.calstart.org)** | **[Development Proposal Intern](https://jobright.ai/jobs/info/67d890644879ae19a8c4f893?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern, Office of Transit, PN 20065684](https://jobright.ai/jobs/info/67d88372512794d230736fd4?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Mar 17 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Market Development & Public Policy](https://jobright.ai/jobs/info/67d21b5d25a8555d03717bc4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 17 |
-| **[SHEIN](https://careers.shein.com/)** | **[GRC Policy Intern](https://jobright.ai/jobs/info/67d86fb64cfd935b1e09bcf5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Public Affairs and Communications Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67d85a57d45ed246f56ed5f6?utm_campaign=1056&utm_source=git)** | Celebration, FL, USA | On Site | Mar 17 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Mar 17 |
 | **[CALSTART](http://www.calstart.org)** | **[Development Proposal Intern](https://jobright.ai/jobs/info/67d850edeebdf8e267a986f4?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Mar 17 |
@@ -89,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[GE Aerospace](https://www.geaerospace.com)** | **[2025 L.I.F.T. Summit - EVENT APPLICATION for 2026 INTERNSHIPS](https://jobright.ai/jobs/info/679d05000c4708b4e3ce8bd9?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 16 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/67d7c9c47708d1cebc43c10c?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Mar 15 |
 | ↳ | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/67d8f0e6e3f8e4ab7580f71c?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Mar 15 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025: Health Navigation Intern *Unpaid*](https://jobright.ai/jobs/info/67d82efd69c9eef141a7ca0e?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 15 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - College - Healthcare and Community Impact - Remote - Nationwide](https://jobright.ai/jobs/info/67d5760115db84a8b5c33b4a?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 15 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Grants (CSR)](https://jobright.ai/jobs/info/67b964ffe8bbb23666e2f014?utm_campaign=1056&utm_source=git)** | Shafter, CA | On Site | Mar 15 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Intern - Government Property Associate (Summer 2025)](https://jobright.ai/jobs/info/67d263bc2232e6c85edb9235?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - AZ Tucson](https://jobright.ai/jobs/info/67c657fe65512e267b91e0a1?utm_campaign=1056&utm_source=git)** | Tucson, AZ | Hybrid | Mar 12 |
 | **[Symetra](http://www.symetra.com)** | **[2025 Public Affairs & Social Impact Internship](https://jobright.ai/jobs/info/67d2345c7cb2422b479df7a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 12 |
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Sub-Saharan Africa](https://jobright.ai/jobs/info/67d24078e021bd92c75c52b7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 12 |
-| ↳ | **[Intern/Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67d24078e021bd92c75c52ca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 12 |
-| **[Humane Society International](http://hsi.org)** | **[Intern, Political Affairs - Summer '25](https://jobright.ai/jobs/info/67d23949fb3cd8b64dd53769?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Mar 12 |
-| **[The Nature Conservancy](http://www.nature.org/)** | **[Federal Policy Intern](https://jobright.ai/jobs/info/67d23949fb3cd8b64dd5376a?utm_campaign=1056&utm_source=git)** | Oregon, United States | Hybrid | Mar 12 |
-| **[Irvine Company](https://www.irvinecompany.com/)** | **[City Council Summer Internship Program](https://jobright.ai/jobs/info/67d35cfbe28b3b88d4c685c8?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Mar 12 |
-| **[EVgo](http://www.evgo.com)** | **[Intern, Market Development & Public Policy](https://jobright.ai/jobs/info/67d21b5d25a8555d03717bc8?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
