@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canon USA](https://www.usa.canon.com)** | **[2025 Canon Insights Summer Internship - General Affairs & Building Operations Intern](https://jobright.ai/jobs/info/67be757a925bf8faa81133c7?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Mar 19 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Intern - KFI IP](https://jobright.ai/jobs/info/67da788ebf7a46ce6513702d?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67da415b21a1a49a6017d741?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
 | ↳ | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67da415b21a1a49a6017d737?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/67d9d7090b6b5ef738386310?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Mar 18 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Transportation Funding (Summer)](https://jobright.ai/jobs/info/67d9e4d55f9961350d237361?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 18 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2025 Counseling/Social Work Intern - CARES - Biloxi, MS](https://jobright.ai/jobs/info/67d9cf10ba5251e4f30b616e?utm_campaign=1056&utm_source=git)** | Biloxi, MS | On Site | Mar 18 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba058c?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
-| ↳ | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba0590?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba0590?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
+| ↳ | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba058c?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Government Property Intern](https://jobright.ai/jobs/info/67d9a5a22fbfb6d22481f585?utm_campaign=1056&utm_source=git)** | Fulton, MD | Hybrid | Mar 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e679a?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Mar 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/67d9a54be0ff9733335c6d72?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SHEIN](https://careers.shein.com/)** | **[Government Relations Intern, Washington, D.C. - PR&GR Center, US](https://jobright.ai/jobs/info/67d2df55fb11b68fc00d853e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 13 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - Community Engagement and Development (San Antonio)](https://jobright.ai/jobs/info/6734ec6ee045db2226bbb605?utm_campaign=1056&utm_source=git)** | San Antonio, TX | Hybrid | Mar 13 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern](https://jobright.ai/jobs/info/67b6729a42414426d0b34ae5?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – Joint Interface Control Officer (Active Duty Service Members)](https://jobright.ai/jobs/info/679942d1b3f758bf846cae74?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
