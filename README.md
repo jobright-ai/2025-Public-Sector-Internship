@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Korn Ferry](http://www.kornferry.com)** | **[Intern - KFI IP](https://jobright.ai/jobs/info/67db74600d798a95a4c05809?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 19 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Mar 19 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/67db54f3c39337369d12d31c?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Mar 19 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67da415b21a1a49a6017d741?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
 | ↳ | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67da415b21a1a49a6017d737?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
 | **[NCPA](https://www.ncpa.com/)** | **[Student Intern II, Commercial Program Analysis (Palo Alto)](https://jobright.ai/jobs/info/67db4d420922024e73cc0b66?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 18 |
+| **[Meals on Wheels America](https://www.mealsonwheelsamerica.org)** | **[Public Policy and Legislative Affairs Intern](https://jobright.ai/jobs/info/67db638ff2091c05391a4eda?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 18 |
 | **[Olsson](https://www.olsson.com)** | **[Planning Student Internship](https://jobright.ai/jobs/info/67da132965ccd0761397ab58?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Opioid Abatement Funds Program Internship](https://jobright.ai/jobs/info/67da095c662127cf25eb9d04?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Mar 18 |
 | ↳ | **[Opioid Abatement Funds Program Internship](https://jobright.ai/jobs/info/67d9d5a55b3abd66818b0247?utm_campaign=1056&utm_source=git)** | Downtown Denver | Hybrid | Mar 18 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - Environmental, Social & Governance (ESG)](https://jobright.ai/jobs/info/67d8d293428260828675765d?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Mar 17 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[CO-OP/INTERN (THE OFFICE OF ENVIRONMENT FELLOW)](https://jobright.ai/jobs/info/67da020f2f2f75f813a353ee?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 17 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Public Health Intern](https://jobright.ai/jobs/info/67d8d37af045d68f999581dd?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Mar 17 |
-| **[King County, WA](http://kingcounty.gov/)** | **[Metro Mobility Internships (Graduate Intern III)](https://jobright.ai/jobs/info/67d9fd0fb5d76c452c27d725?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Mar 17 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Eastern Region, Intern](https://jobright.ai/jobs/info/67d46dc22a29eb8fbc28a03a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Project Outreach and Engagement Intern Summer 2025](https://jobright.ai/jobs/info/67d8b3800780f60a64d406d3?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Mar 17 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern - Policy and Advocacy](https://jobright.ai/jobs/info/67d8a0ce5b98765711dd6c5c?utm_campaign=1056&utm_source=git)** | US DC 9th St NW | Hybrid | Mar 17 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[ChristianaCare](http://christianacare.org)** | **[Emergency Management Planner Intern](https://jobright.ai/jobs/info/67b9c6ebc40702e826111571?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Mar 16 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[2025 L.I.F.T. Summit - EVENT APPLICATION for 2026 INTERNSHIPS](https://jobright.ai/jobs/info/679d05000c4708b4e3ce8bd9?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Mar 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Cuban/Haitian Entrant (CHE) Casework Intern, Summer 2025](https://jobright.ai/jobs/info/67da67500d68d7e7f09578bf?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Mar 15 |
-| ↳ | **[Summer 2025: Asylum Seekers and Families Intern *Unpaid*](https://jobright.ai/jobs/info/67da5995bfb201d8355d47ce?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Mar 15 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - College - Healthcare and Community Impact - Remote - Nationwide](https://jobright.ai/jobs/info/67d5760115db84a8b5c33b4a?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Mar 15 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Grants (CSR)](https://jobright.ai/jobs/info/67b964ffe8bbb23666e2f014?utm_campaign=1056&utm_source=git)** | Shafter, CA | On Site | Mar 15 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Intern - Government Property Associate (Summer 2025)](https://jobright.ai/jobs/info/67d263bc2232e6c85edb9235?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 15 |
