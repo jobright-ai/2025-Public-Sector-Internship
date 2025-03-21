@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://gf.com/)** | **[Legal Government Affairs Intern (Summer 2025)](https://jobright.ai/jobs/info/67dcbb09fea03d7ce82736e9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 20 |
+| **[State of New Hampshire](https://www.oplc.nh.gov/board-accountancy)** | **[EXECUTIVE COUNCIL INTERN](https://jobright.ai/jobs/info/67dcbab00b10f7c51f4def4b?utm_campaign=1056&utm_source=git)** | New Hampshire, United States | Hybrid | Mar 20 |
+| **[WILSON ENGINEERS, LLC](https://www.wilson-engineers.com)** | **[Civil Intern - Summer 2025](https://jobright.ai/jobs/info/67dcb507f1f9138f78cafaa3?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Mar 20 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/67dc9df254f1ae6bc6558e8c?utm_campaign=1056&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Southeast Asia Program (Summer 2025)](https://jobright.ai/jobs/info/67dca3c4d35d4db5ca188668?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 20 |
 | **[Loudoun County Government](https://www.loudoun.gov/)** | **[Paid Summer Internship](https://jobright.ai/jobs/info/67dc9783f810a7493fca4634?utm_campaign=1056&utm_source=git)** | Leesburg, VA | On Site | Mar 20 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Korn Ferry](http://www.kornferry.com)** | **[Intern - KFI IP](https://jobright.ai/jobs/info/67db74600d798a95a4c05809?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 19 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67dc5649b34e3f0525e568c9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 19 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Mar 19 |
+| **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Eastern Region, Intern](https://jobright.ai/jobs/info/67d46dc22a29eb8fbc28a03a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 19 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/67db54f3c39337369d12d31c?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Mar 19 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[A-dec Inc.](http://www.a-dec.com)** | **[Environmental Health and Safety Intern (Summer 2025)](https://jobright.ai/jobs/info/67db57dba7212c367dbead49?utm_campaign=1056&utm_source=git)** | Newberg, OR | On Site | Mar 19 |
@@ -86,6 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Canon USA](https://www.usa.canon.com)** | **[2025 Canon Insights Summer Internship - General Affairs & Building Operations Intern](https://jobright.ai/jobs/info/67be757a925bf8faa81133c7?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Mar 19 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67da415b21a1a49a6017d741?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
 | ↳ | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67da415b21a1a49a6017d737?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt Rehab and Recovery, Assertive Community Treatment) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/67cb2975347fbd9d1acfa8a2?utm_campaign=1056&utm_source=git)** | Frederick, MD | On Site | Mar 18 |
+| **[Child Mind Institute](http://childmind.org)** | **[Social Work Intern, Anxiety Disorders Center](https://jobright.ai/jobs/info/67bd266b2277159480df1a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[NCPA](https://www.ncpa.com/)** | **[Student Intern II, Commercial Program Analysis (Palo Alto)](https://jobright.ai/jobs/info/67db4d420922024e73cc0b66?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 18 |
 | **[Meals on Wheels America](https://www.mealsonwheelsamerica.org)** | **[Public Policy and Legislative Affairs Intern](https://jobright.ai/jobs/info/67db638ff2091c05391a4eda?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 18 |
 | **[Olsson](https://www.olsson.com)** | **[Planning Student Internship](https://jobright.ai/jobs/info/67da132965ccd0761397ab58?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
@@ -96,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/67d9d7090b6b5ef738386310?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Mar 18 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Transportation Funding (Summer)](https://jobright.ai/jobs/info/67d9e4d55f9961350d237361?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 18 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2025 Counseling/Social Work Intern - CARES - Biloxi, MS](https://jobright.ai/jobs/info/67d9cf10ba5251e4f30b616e?utm_campaign=1056&utm_source=git)** | Biloxi, MS | On Site | Mar 18 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba0590?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
-| ↳ | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba058c?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Academic Yr 2025-2026 Undergrad Intern-16 hrs in Government Relations](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba058c?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
+| ↳ | **[Academic Year 2025-2026 Graduate Internship](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba0590?utm_campaign=1056&utm_source=git)** | Boston | On Site | Mar 18 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Government Property Intern](https://jobright.ai/jobs/info/67d9a5a22fbfb6d22481f585?utm_campaign=1056&utm_source=git)** | Fulton, MD | Hybrid | Mar 18 |
 | **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/67d9a780763980d1aa4e679a?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Mar 18 |
 | ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/67d9a54be0ff9733335c6d72?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Mar 18 |
@@ -115,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - Environmental, Social & Governance (ESG)](https://jobright.ai/jobs/info/67d8d293428260828675765d?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Mar 17 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[CO-OP/INTERN (THE OFFICE OF ENVIRONMENT FELLOW)](https://jobright.ai/jobs/info/67da020f2f2f75f813a353ee?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 17 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Public Health Intern](https://jobright.ai/jobs/info/67d8d37af045d68f999581dd?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Mar 17 |
-| **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Eastern Region, Intern](https://jobright.ai/jobs/info/67d46dc22a29eb8fbc28a03a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Mar 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Project Outreach and Engagement Intern Summer 2025](https://jobright.ai/jobs/info/67d8b3800780f60a64d406d3?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-10 Park Plaza | On Site | Mar 17 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern - Policy and Advocacy](https://jobright.ai/jobs/info/67d8a0ce5b98765711dd6c5c?utm_campaign=1056&utm_source=git)** | US DC 9th St NW | Hybrid | Mar 17 |
 | ↳ | **[Summer Associate Intern - Policy and Advocacy](https://jobright.ai/jobs/info/67d8a41780d4e62497a4262c?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship - Government Affairs](https://jobright.ai/jobs/info/67d4aa4bcf5fc250befebc51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Energy Internship - Houston, TX](https://jobright.ai/jobs/info/67d4b5dc908dbdca69f51dae?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 14 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/67d4b5dd908dbdca69f51f0c?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Mar 14 |
-| **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations / Chicago Fire Foundation Intern](https://jobright.ai/jobs/info/67d4a1186d08d6042d02a8d9?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
-| **[MCRA, an IQVIA business](https://www.mcra.com)** | **[Intern, Clinical Affairs](https://jobright.ai/jobs/info/67d49607fb43b43d3e8dd43d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Mar 14 |
-| **[Genmab](https://www.genmab.com)** | **[US Medical Affairs (Hematology) – Summer Intern](https://jobright.ai/jobs/info/67d48e59f8ac6ca5031136e3?utm_campaign=1056&utm_source=git)** | Plainsboro, NJ | Hybrid | Mar 14 |
-| **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[BLACC Intern](https://jobright.ai/jobs/info/67d487a1f835b88b5a96a166?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
-| **[City of Irvine](https://www.cityofirvine.org)** | **[City Council Summer Internship Program](https://jobright.ai/jobs/info/67d47d11fd55c967fa28981f?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
