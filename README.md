@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67c691f9b055388acb27cbed?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 21 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Policy Intern](https://jobright.ai/jobs/info/66c58b854031dddaece8f3ec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67dddf0a0919d768367bfcb8?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Mar 21 |
-| **[TNTP](http://tntp.org/)** | **[Education Policy Research Internship](https://jobright.ai/jobs/info/67dec59ae3ef90b273fe4095?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
-| ↳ | **[Community Engagement and Data Internship](https://jobright.ai/jobs/info/67dec59ae3ef90b273fe4065?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
+| **[TNTP](http://tntp.org/)** | **[Community Engagement and Data Internship](https://jobright.ai/jobs/info/67dec59ae3ef90b273fe4065?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
+| ↳ | **[Education Policy Research Internship](https://jobright.ai/jobs/info/67dec59ae3ef90b273fe4095?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
 | **[CRISTA Ministries](https://crista.org/)** | **[Grant & Donor Engagement Intern](https://jobright.ai/jobs/info/67ddca3097d6bfab0794dd3c?utm_campaign=1056&utm_source=git)** | Shoreline, WA | On Site | Mar 21 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Public Health Intern](https://jobright.ai/jobs/info/67ddc45a6aca1fbd3da3faf8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
 | ↳ | **[Social Work Intern](https://jobright.ai/jobs/info/67ddc45a6aca1fbd3da3fb6b?utm_campaign=1056&utm_source=git)** | Patchogue, NY | Hybrid | Mar 21 |
@@ -88,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Center City District](http://www.centercityphila.org)** | **[Economic Development: Research and Economic Development Internship](https://jobright.ai/jobs/info/67ddb2d67c144123fbd756c7?utm_campaign=1056&utm_source=git)** | Center City District | On Site | Mar 21 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/67ddb930a17eada3de9398ec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 21 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Government Markets](https://jobright.ai/jobs/info/67ddc20fb9de80cbd142860d?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO | Hybrid | Mar 21 |
-| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/67dda2d31b95d8e0cf9338bb?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 21 |
+| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/67ddbb8e5ccd954c776587ee?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Mar 21 |
 | **[TNTP](http://tntp.org/)** | **[Education Policy Research Internship](https://jobright.ai/jobs/info/67dd945d72526952102e34fc?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
 | ↳ | **[Community Engagement and Data Internship](https://jobright.ai/jobs/info/67dd945d72526952102e3498?utm_campaign=1056&utm_source=git)** | United States | Remote | Mar 21 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[PAID STUDENT INTERN (Housing)](https://jobright.ai/jobs/info/67dd5a845e194626f8c82ecf?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
@@ -147,7 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67dd0d53adfd716315cc8ce9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Mar 18 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67dd142a6538bc079a8a45e2?utm_campaign=1056&utm_source=git)** | East Lyme, CT | On Site | Mar 18 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/67dd142a6538bc079a8a4626?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Mar 18 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt Rehab and Recovery, Assertive Community Treatment) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/67cb2975347fbd9d1acfa8a2?utm_campaign=1056&utm_source=git)** | Frederick, MD | On Site | Mar 18 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c96c83d91d34f17d32a264?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Mar 18 |
+| ↳ | **[Internship (Sheppard Pratt Rehab and Recovery, Assertive Community Treatment) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/67cb2975347fbd9d1acfa8a2?utm_campaign=1056&utm_source=git)** | Frederick, MD | On Site | Mar 18 |
 | **[Child Mind Institute](http://childmind.org)** | **[Social Work Intern, Anxiety Disorders Center](https://jobright.ai/jobs/info/67bd266b2277159480df1a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[NCPA](https://www.ncpa.com/)** | **[Student Intern II, Commercial Program Analysis (Palo Alto)](https://jobright.ai/jobs/info/67db4d420922024e73cc0b66?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Mar 18 |
 | **[Meals on Wheels America](https://www.mealsonwheelsamerica.org)** | **[Public Policy and Legislative Affairs Intern](https://jobright.ai/jobs/info/67db638ff2091c05391a4eda?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kansas City Chiefs](https://www.chiefs.com)** | **[Communications - LoneBear/H.Roe Bartle Rotational Internship](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9d7b?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/67d9e4d55f9961350d237602?utm_campaign=1056&utm_source=git)** | New Jersey, United States | On Site | Mar 18 |
 | ↳ | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/67d9d7090b6b5ef738386310?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Mar 18 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Transportation Funding (Summer)](https://jobright.ai/jobs/info/67d9e4d55f9961350d237361?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
