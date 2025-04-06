@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/67f225e0011d88d7eeb085af?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 05 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/67f2ce5db53ea8cf46e46d3c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[SENIOR ADMINISTRATIVE INTERN (ADMINISTRATIVE INTERN (NON-CAREER))](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bcb1b?utm_campaign=1056&utm_source=git)** | Long Beach, CA | On Site | Apr 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Public Policy Graduate Intern, Summer 2025](https://jobright.ai/jobs/info/67f10e7e84370fdb351ad994?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 05 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Health Policy Analyst](https://jobright.ai/jobs/info/67f0a2d128a38bd8c605699c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/67f07dd262bf485fca631bec?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 04 |
-| ↳ | **[Mixed Income Housing Intern](https://jobright.ai/jobs/info/67f07dd262bf485fca631bd4?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 04 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Mixed Income Housing Intern](https://jobright.ai/jobs/info/67f07dd262bf485fca631bd4?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 04 |
+| ↳ | **[Policy and Analysis Intern](https://jobright.ai/jobs/info/67f07dd262bf485fca631bec?utm_campaign=1056&utm_source=git)** | 1515 Arch St, Philadelphia, PA 19102, USA | On Site | Apr 04 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN - Summer](https://jobright.ai/jobs/info/67f0988abc5898b8155948cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 04 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/679aaf2c76364534cf958aba?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Apr 04 |
 | **[Diocese of Raleigh](http://www.dioceseofraleigh.org)** | **[Catholic Campaign for Human Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca266d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Remote | Apr 04 |
@@ -98,12 +98,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Summer 2025 - Development Intern - Act](https://jobright.ai/jobs/info/67eedf657ff7179d4047551f?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f46e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Policy Intern - The Buckeye Institute](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f46a?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Apr 03 |
-| ↳ | **[KIP Summer 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/67eec162357dc4681d8643d6?utm_campaign=1056&utm_source=git)** | Illinois, United States | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Policy Intern - Taxpayers Protection Alliance Foundation](https://jobright.ai/jobs/info/67eec162357dc4681d864327?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 03 |
+| ↳ | **[KIP Summer 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/67eec162357dc4681d8643d6?utm_campaign=1056&utm_source=git)** | Illinois, United States | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eec162357dc4681d86430e?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/67eec162357dc4681d864326?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Apr 03 |
-| ↳ | **[KIP Summer 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/67eec162357dc4681d864321?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Financial Accountability Research Intern - California Policy Center](https://jobright.ai/jobs/info/67eec162357dc4681d864381?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Apr 03 |
+| ↳ | **[KIP Summer 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/67eec162357dc4681d864321?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/67eec162357dc4681d8642c2?utm_campaign=1056&utm_source=git)** | Utah, United States | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eeb73931ee51a1d09009b5?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
 | **[Superior Court of Los Angeles County](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/676bb513b899da4d445149c4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Government Affairs Workforce Development](https://jobright.ai/jobs/info/679446f460f2d3334d631c01?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Apr 01 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67ecc5113a3946dccc614252?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[Northwest Human Services, Inc.](http://www.northwesthumanservices.org)** | **[Human Services Intern](https://jobright.ai/jobs/info/67eca8cbc3dd1387f2c28b6f?utm_campaign=1056&utm_source=git)** | Salem, OR | On Site | Apr 01 |
-| **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, National Community Strategies](https://jobright.ai/jobs/info/67ede635a29c880654c097bb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
-| ↳ | **[Intern, Grants Management](https://jobright.ai/jobs/info/67ede635a29c880654c09855?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
+| **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Grants Management](https://jobright.ai/jobs/info/67ede635a29c880654c09855?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
+| ↳ | **[Intern, National Community Strategies](https://jobright.ai/jobs/info/67ede635a29c880654c097bb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67d24e42ce474d793197e0aa?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | Apr 01 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/67ec82b655ace3436367c920?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 01 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Hispanic Ministry Intern](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f0ee7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
