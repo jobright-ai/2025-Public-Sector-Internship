@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/67f2ce5db53ea8cf46e46d3c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/67f37bd50fe3643a9fe45b66?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
+| **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/67ce2e0b2c68138dc3db3ffe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 06 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[SENIOR ADMINISTRATIVE INTERN (ADMINISTRATIVE INTERN (NON-CAREER))](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bcb1b?utm_campaign=1056&utm_source=git)** | Long Beach, CA | On Site | Apr 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Public Policy Graduate Intern, Summer 2025](https://jobright.ai/jobs/info/67f10e7e84370fdb351ad994?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 05 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Health Policy Analyst](https://jobright.ai/jobs/info/67f0a2d128a38bd8c605699c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 04 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Market Strategy Intern - Policy Analysis](https://jobright.ai/jobs/info/679965a49889d0b612e69034?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/67eecd7fd83fb27c1839274d?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Recreation Specialist Intern - Piggyback R18985](https://jobright.ai/jobs/info/67eec4378aba860f90eb9b4f?utm_campaign=1056&utm_source=git)** | Administration Center | On Site | Apr 03 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2025 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e7b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
-| ↳ | **[KIP Summer 2025 - Strategic Research Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e49?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2025 - Strategic Research Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e49?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
+| ↳ | **[KIP Summer 2025 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e7b?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Administrative Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e3e?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - State Policies Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e36?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eedf657ff7179d4047550c?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
@@ -102,9 +103,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Summer 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/67eec162357dc4681d8643d6?utm_campaign=1056&utm_source=git)** | Illinois, United States | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eec162357dc4681d86430e?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/67eec162357dc4681d864326?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Apr 03 |
-| ↳ | **[KIP Summer 2025 - Financial Accountability Research Intern - California Policy Center](https://jobright.ai/jobs/info/67eec162357dc4681d864381?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/67eec162357dc4681d864321?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/67eec162357dc4681d8642c2?utm_campaign=1056&utm_source=git)** | Utah, United States | Remote | Apr 03 |
+| ↳ | **[KIP Summer 2025 - Financial Accountability Research Intern - California Policy Center](https://jobright.ai/jobs/info/67eec162357dc4681d864381?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Apr 03 |
 | ↳ | **[KIP Summer 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/67eeb73931ee51a1d09009b5?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 03 |
 | **[Superior Court of Los Angeles County](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/676bb513b899da4d445149c4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[2025 Fall Internship - Dept. of Correction](https://jobright.ai/jobs/info/67eea9871e7f46bd2bfa1f21?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Milford-50 Maple Street | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Government Affairs Public Policy/Supplier Diversity](https://jobright.ai/jobs/info/67b0b358f8fb92df4755aa86?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Apr 01 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675afad781754aa1ffb08502?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Apr 01 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67ea0d17615fa52300f2274d?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Mar 31 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer Housing Support Intern](https://jobright.ai/jobs/info/67f14cf1c3660467a1b6ef52?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
