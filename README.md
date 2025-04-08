@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/67f4d1c14036140498bca60c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Intern, Philanthropy](https://jobright.ai/jobs/info/67f4d1c14036140498bca5fd?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/67f4d1c14036140498bca632?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
+| **[Healthfirst](https://healthfirst.org)** | **[Behavioral Health Intern - Summer 2025](https://jobright.ai/jobs/info/67f4abe866d9897c28e8fcfd?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[Once Upon a Farm](https://onceuponafarmorganics.com)** | **[Sustainability Data and Communications Intern](https://jobright.ai/jobs/info/67e20306a26478f92ae052a6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Apr 07 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67f49662bd2699df45df1425?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern](https://jobright.ai/jobs/info/679971bf994851926ecb9422?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 07 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Community Relations Intern (FT/Post-Graduate)](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b261?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 | **[Johnson County, KS Government](https://jocogov.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b18d?utm_campaign=1056&utm_source=git)** | Olathe, KS | On Site | Apr 07 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Student Government Office Assistant](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b320?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67f48b6b3ebe52b93d5d0cca?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Apr 07 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b3dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 07 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy & Planning Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655fc?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 07 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '25 Intern - Sustainability](https://jobright.ai/jobs/info/67f43365e399199de77d6e0d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 07 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Drainage & Wastewater Policy Intern](https://jobright.ai/jobs/info/67e381aef958b915eef1635f?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 07 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Summer 2025)](https://jobright.ai/jobs/info/67f43b8dd973bd810f3ac380?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Save the Children US](http://savethechildren.org)** | **[Summer Federal Fellow (Biden Institute)](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b5f9?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 07 |
 | **[AeroVironment](http://www.avinc.com)** | **[Government Operations Intern](https://jobright.ai/jobs/info/67f41fd343b4265fefd8bfdc?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 07 |
-| **[Thompson Coburn LLP](http://www.thompsoncoburn.com)** | **[Lobbying & Policy Intern](https://jobright.ai/jobs/info/67f464d1a9408c3967023e6f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Central Region, Intern](https://jobright.ai/jobs/info/67f43b8dd973bd810f3ac5f5?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Governmental Affairs Intern](https://jobright.ai/jobs/info/67f403df8743cb159385ccdd?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Apr 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67f40dcf5615de3da1e1aabd?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Apr 07 |
@@ -143,13 +148,9 @@ For a complete list, click the following sortable link below:
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Grants Management](https://jobright.ai/jobs/info/67ede635a29c880654c09855?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
 | ↳ | **[Intern, National Community Strategies](https://jobright.ai/jobs/info/67ede635a29c880654c097bb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Apr 01 |
 | **[Knights of Columbus](http://www.kofc.org)** | **[Hispanic Ministry Intern](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f0ee7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[Student Intern - Government Relations (Summer 2025)](https://jobright.ai/jobs/info/67ec6676a4526e2942eb3508?utm_campaign=1056&utm_source=git)** | Bismarck, ND | On Site | Apr 01 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - Federal Government Customer Advisory Intern](https://jobright.ai/jobs/info/67ec6676a4526e2942eb3758?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 01 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Development Intern (NYC Regional Office)](https://jobright.ai/jobs/info/67df95c000422dd7b937cec2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Healthy Housing Foundation Intern](https://jobright.ai/jobs/info/67e321d100ffad4d6d5c5e06?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 01 |
 | ↳ | **[Healthy Housing Foundation Intern](https://jobright.ai/jobs/info/67e31fda00ffad4d6d5c559b?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 01 |
 | **[Allstate](http://www.allstate.com)** | **[Public Policy & Advocacy Apprentice Program](https://jobright.ai/jobs/info/67ec410b4d00a4e683f2b8e5?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/67524ac6a37ed175a1202d04?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 01 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67c428321e15b7120b8aa29c?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Apr 01 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Government Affairs Public Policy/Supplier Diversity](https://jobright.ai/jobs/info/67b0b358f8fb92df4755aa86?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
