@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/67f5d392811c3cf2f6812aae?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 08 |
+| **[CalPortland](https://www.calportland.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67f5c9f09fbb18c4464fe8b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Public Health Performance Management System Intern](https://jobright.ai/jobs/info/67f5b6191ca62aaac2ce9fb8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Advocacy and Outreach Intern](https://jobright.ai/jobs/info/67f5ab18ded92873c288c73c?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Apr 08 |
 | **[The Centers](https://thecentersohio.org/)** | **[Intern- Social Work](https://jobright.ai/jobs/info/67f570f18f6733d0d8f27bd8?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Apr 08 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/67f4d1c14036140498bca60c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Intern, Philanthropy](https://jobright.ai/jobs/info/67f4d1c14036140498bca5fd?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
 | ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/67f4d1c14036140498bca632?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[PWD Grad Strategic Planning Internship- 177](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d776c2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | **[Healthfirst](https://healthfirst.org)** | **[Behavioral Health Intern - Summer 2025](https://jobright.ai/jobs/info/67f4abe866d9897c28e8fcfd?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Once Upon a Farm](https://onceuponafarmorganics.com)** | **[Sustainability Data and Communications Intern](https://jobright.ai/jobs/info/67e20306a26478f92ae052a6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Apr 07 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/67f49662bd2699df45df1425?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Apr 07 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[New American Pathways](https://newamericanpathways.org)** | **[Research and Evaluation - Summer Intern](https://jobright.ai/jobs/info/67f43b8dd973bd810f3ac48c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern (Summer)](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b666?utm_campaign=1056&utm_source=git)** | Charleston, WV | Hybrid | Apr 06 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/67ce2e0b2c68138dc3db3ffe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 06 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025: Asylum Seekers and Families Intern *Unpaid*](https://jobright.ai/jobs/info/67f57d86c12aa5dd489e494e?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 05 |
 | **[Maximus](http://www.maximus.com/)** | **[Market Strategy Intern - Policy Analysis](https://jobright.ai/jobs/info/679965a49889d0b612e69034?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Public Policy Graduate Intern, Remote, Summer 2025](https://jobright.ai/jobs/info/67f10e7e84370fdb351ad994?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Apr 05 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[SENIOR ADMINISTRATIVE INTERN (ADMINISTRATIVE INTERN (NON-CAREER))](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bcb1b?utm_campaign=1056&utm_source=git)** | Long Beach, CA | On Site | Apr 05 |
@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Hub & Spoke Health Home](https://jobright.ai/jobs/info/67efc901469b0519d5d1f6c8?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[SENIOR ADMINISTRATIVE INTERN (ADMINISTRATIVE INTERN (NON-CAREER))](https://jobright.ai/jobs/info/67ef5b0a615aaa2dfdf7ec8b?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Apr 03 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Crisis Response Intern Summer 2025](https://jobright.ai/jobs/info/67ef4665b3df66b54f7c74e6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Organizational Change Management (OCM) Communication Intern](https://jobright.ai/jobs/info/679955cee6d126f8a0df9b45?utm_campaign=1056&utm_source=git)** | Trumbull, CT | On Site | Apr 03 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern (Summer 2025)](https://jobright.ai/jobs/info/67ef1bda67c5bb19c72d9776?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - Community Engagement](https://jobright.ai/jobs/info/67ef0b2cb351fb114fa674c0?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Apr 03 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) Fall Semester - Cherry Hill](https://jobright.ai/jobs/info/67e31fda00ffad4d6d5c5309?utm_campaign=1056&utm_source=git)** | Cherry Hill, NJ | Hybrid | Apr 03 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) Fall Semester - Paterson](https://jobright.ai/jobs/info/67e31fda00ffad4d6d5c5308?utm_campaign=1056&utm_source=git)** | Paterson, NJ | Hybrid | Apr 03 |
 | **[Superior Court of Los Angeles County](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/676bb513b899da4d445149c4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[2025 Fall Internship - Dept. of Correction](https://jobright.ai/jobs/info/67eea9871e7f46bd2bfa1f21?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Milford-50 Maple Street | On Site | Apr 03 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66c875232c039f582bb83fb0?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Apr 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67b42c018d484b0e773884b2?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Apr 03 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/67d1326a044ce9402a8b0ac9?utm_campaign=1056&utm_source=git)** | Des Moines, IA | Hybrid | Apr 02 |
@@ -141,8 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Breakthrough T1D](http://www.BreakthroughT1D.org)** | **[2025 Advocacy Intern](https://jobright.ai/jobs/info/67e5677364a35617c48531bd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Agriculture and Community Health Internship](https://jobright.ai/jobs/info/67ed7a3dcb9b22cdc44c8621?utm_campaign=1056&utm_source=git)** | Muskegon, MI | On Site | Apr 02 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/66b4ed74244a438cc6e55a57?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Apr 02 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2025 (9922)](https://jobright.ai/jobs/info/677715636f5406270c7a333a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
-| **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Family Youth and Financial Stability](https://jobright.ai/jobs/info/67efd39dcbf77f04a2e55c4f?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Apr 02 |
-| ↳ | **[Intern, Atlanta Civic Site](https://jobright.ai/jobs/info/67efd39dcbf77f04a2e55c19?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - Capital Planning](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83112151?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
