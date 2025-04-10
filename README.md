@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salt Lake County](https://www.slco.org)** | **[Mayor’s Office Special Projects Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7d95?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Space & Down Town Activation Intern](https://jobright.ai/jobs/info/67f73846571176c49747102a?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
+| **[Salt Lake County](https://www.slco.org)** | **[Office of Homelessness and Criminal Justice Reform - Data and Analytics Intern](https://jobright.ai/jobs/info/67f70b917471e502643fae45?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 09 |
+| ↳ | **[Animal Services Special Projects Intern](https://jobright.ai/jobs/info/67f70b917471e502643fadfb?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | ↳ | **[Office of Homelessness and Criminal Justice Reform Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7db2?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 09 |
+| ↳ | **[Mayor’s Office Special Projects Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7d95?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | ↳ | **[New Americans and Refugees Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7dee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[GRC Policy Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a80d5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Graduate Research and Policy Fellow](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7f1c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -92,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/6776f762b69da2507f0b8f8e?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 08 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Apr 08 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/67f4d1c14036140498bca60c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/67f4d1c14036140498bca632?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
-| ↳ | **[Intern, Philanthropy](https://jobright.ai/jobs/info/67f4d1c14036140498bca5fd?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Intern, Philanthropy](https://jobright.ai/jobs/info/67f4d1c14036140498bca5fd?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
+| ↳ | **[Philanthropy Intern](https://jobright.ai/jobs/info/67f4d1c14036140498bca632?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Apr 08 |
 | **[Healthfirst](https://healthfirst.org)** | **[Behavioral Health Intern - Summer 2025](https://jobright.ai/jobs/info/67f4abe866d9897c28e8fcfd?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Once Upon a Farm](https://onceuponafarmorganics.com)** | **[Sustainability Data and Communications Intern](https://jobright.ai/jobs/info/67e20306a26478f92ae052a6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Apr 07 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Leadership Crew Intern](https://jobright.ai/jobs/info/679d55a181e671d3c6185e85?utm_campaign=1056&utm_source=git)** | West Alton, MO | On Site | Apr 07 |
@@ -102,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson County, KS Government](https://jocogov.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b18d?utm_campaign=1056&utm_source=git)** | Olathe, KS | On Site | Apr 07 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Student Government Office Assistant](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b320?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67f48b6b3ebe52b93d5d0cca?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Apr 07 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b3dc?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 07 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Solid Waste Policy & Planning Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655fc?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Apr 07 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '25 Intern - Sustainability](https://jobright.ai/jobs/info/67f43365e399199de77d6e0d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 07 |
 | **[Save the Children US](http://savethechildren.org)** | **[Summer Federal Fellow (Biden Institute)](https://jobright.ai/jobs/info/67f471d78a96a4ce69d5b5f9?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 07 |
@@ -150,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Superior Court of Los Angeles County](https://lacourt.org/)** | **[Volunteer & Internship Programs](https://jobright.ai/jobs/info/676bb513b899da4d445149c4?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[2025 Fall Internship - Dept. of Correction](https://jobright.ai/jobs/info/67eea9871e7f46bd2bfa1f21?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Milford-50 Maple Street | On Site | Apr 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67b42c018d484b0e773884b2?utm_campaign=1056&utm_source=git)** | Youngsville, NC | On Site | Apr 03 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
