@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Lead Intern](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f519?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Apr 11 |
+| **[Save the Children US](http://savethechildren.org)** | **[Humanitarian Fellow (GWU)](https://jobright.ai/jobs/info/67f9c3102777827478b583cd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 11 |
+| **[AC Disaster Consulting](https://acdisaster.com)** | **[Emergency Management Recovery Intern](https://jobright.ai/jobs/info/67f9d93b58724f6e738ee477?utm_campaign=1056&utm_source=git)** | Houston, TX | Remote | Apr 11 |
+| ↳ | **[Emergency Management Recovery Intern](https://jobright.ai/jobs/info/67f9d78e58724f6e738edc1f?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Remote | Apr 11 |
+| ↳ | **[Emergency Management Recovery Intern](https://jobright.ai/jobs/info/67f9d93b58724f6e738ee478?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Apr 11 |
+| ↳ | **[Emergency Management Recovery Intern](https://jobright.ai/jobs/info/67f9d93b58724f6e738ee47a?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Remote | Apr 11 |
+| ↳ | **[Emergency Management Recovery Intern](https://jobright.ai/jobs/info/67f9d93b58724f6e738ee479?utm_campaign=1056&utm_source=git)** | Denver, CO | Remote | Apr 11 |
 | **[AtriCure, Inc.](http://www.atricure.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/67f9aeb57e1357c68b53942a?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Apr 11 |
 | **[Oregon Department of Corrections](https://www.oregon.gov/doc/)** | **[Global Trade & Investment Intern](https://jobright.ai/jobs/info/67f9a4ab5c77d4affef23825?utm_campaign=1056&utm_source=git)** | Portland | OBDD | On Site | Apr 11 |
+| **[Saab](https://www.saab.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/67f9c3102777827478b587d1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 11 |
+| **[Saab, Inc.](http://saabinc.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/67f9b9250dc10334e539af8d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 | **[USPS OIG](https://www.uspsoig.gov/)** | **[Student Cooperative - Cybersecurity & Technology Directorate](https://jobright.ai/jobs/info/67f99b3251429be0341e04f7?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Lead Intern](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb3db?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Apr 11 |
 | **[RXN](www.therxngroup.com)** | **[Government Affairs Intern/ Graduate Fellow](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb510?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 11 |
@@ -83,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. State Policy and Advocacy 2025-26 Social Work Student Internship](https://jobright.ai/jobs/info/67f8200e8f14befa8e492d2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | ↳ | **[U.S. State Policy and Advocacy 2025-26 Social Work Student Internship](https://jobright.ai/jobs/info/67f81764d88f8155040a6e56?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 10 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/67f832a0e4436ba6585b1dba?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Apr 10 |
-| **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Advocacy and Philanthropy Intern – Summer 2025](https://jobright.ai/jobs/info/67f813e58a09bfe9ef287e2e?utm_campaign=1056&utm_source=git)** | USA-WA-Seattle | On Site | Apr 10 |
-| ↳ | **[Advocacy and Philanthropy Intern – Summer 2025](https://jobright.ai/jobs/info/67f813e58a09bfe9ef287e2f?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 10 |
+| **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Advocacy and Philanthropy Intern – Summer 2025](https://jobright.ai/jobs/info/67f8103d28f8acc0f8402497?utm_campaign=1056&utm_source=git)** | USA-WA-Seattle | On Site | Apr 10 |
+| ↳ | **[Advocacy and Philanthropy Intern – Summer 2025](https://jobright.ai/jobs/info/67f8103d28f8acc0f84026f0?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Workplace Infrastructure and Logistics - Communications Specialist)](https://jobright.ai/jobs/info/67f8103d28f8acc0f840243b?utm_campaign=1056&utm_source=git)** | Pensacola, FL, United States | On Site | Apr 10 |
 | **[Aypa Power](https://www.aypa.com)** | **[Development Analyst - Central Region, Intern](https://jobright.ai/jobs/info/67f821a08f14befa8e493462?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 10 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/67f8200e8f14befa8e493034?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Apr 10 |
@@ -125,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Community Health Alliance Nevada](https://www.chanevada.org)** | **[Reproductive Health Intern (30013)](https://jobright.ai/jobs/info/67f842972a1a84f71a5c58a0?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Apr 09 |
 | **[Salt Lake County](https://www.slco.org)** | **[Office of Homelessness and Criminal Justice Reform - Data and Analytics Intern](https://jobright.ai/jobs/info/67f70b917471e502643fae45?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 09 |
 | ↳ | **[Animal Services Special Projects Intern](https://jobright.ai/jobs/info/67f70b917471e502643fadfb?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
+| ↳ | **[Mayor’s Office Special Projects Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7d95?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | ↳ | **[Office of Homelessness and Criminal Justice Reform Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7db2?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 09 |
 | ↳ | **[New Americans and Refugees Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7dee?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
-| ↳ | **[Mayor’s Office Special Projects Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7d95?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[GRC Policy Intern](https://jobright.ai/jobs/info/67f7032cf3b080c4766a80d5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Water Rights](https://jobright.ai/jobs/info/67ec2484774bfde226d8270d?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Apr 09 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Graduate Research and Policy Fellow](https://jobright.ai/jobs/info/67f7032cf3b080c4766a7f1c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern, Office of Transit, PN 20065684](https://jobright.ai/jobs/info/67f60b5d56702ca86f17fa5f?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Apr 08 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/67f7a21650095ace0265d5e1?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | ↳ | **[Cancer Team Program Assistant Intern](https://jobright.ai/jobs/info/67f6193abb168e8b5831edb2?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Apr 08 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Airport Security Intern - 1 Year College Intern - Operations](https://jobright.ai/jobs/info/67f5e8c66ed402c4c05aaf53?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 08 |
-| **[CalPortland](https://www.calportland.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67f5c9f09fbb18c4464fe8b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 08 |
-| **[Okaloosa County Sheriff's Office](https://www.sheriff-okaloosa.org)** | **[2025 Summer OCSO Internship](https://jobright.ai/jobs/info/67f6ea7c472a94e9d37b344b?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Apr 08 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Public Health Performance Management System Intern](https://jobright.ai/jobs/info/67f5b6191ca62aaac2ce9fb8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 08 |
-| **[AARP](http://www.aarp.org)** | **[Communications, Advocacy and Outreach Intern](https://jobright.ai/jobs/info/67f5ab18ded92873c288c73c?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Apr 08 |
-| ↳ | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/679aaf2c76364534cf958aba?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Apr 08 |
-| ↳ | **[Policy Research Intern (Graduate Student - Summer start)](https://jobright.ai/jobs/info/67d90162b9648f7bd32f9776?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/6776f762b69da2507f0b8f8e?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 08 |
-| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Apr 08 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN - CITY CLERK](https://jobright.ai/jobs/info/67f4d1c14036140498bca60c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
+| **[Stellantis](https://www.stellantis.com)** | **[Well-Being Health and Safety (WBHS) Student Program](https://jobright.ai/jobs/info/67f9e110a78fdbe72d907544?utm_campaign=1056&utm_source=git)** | Dundee, MI | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
