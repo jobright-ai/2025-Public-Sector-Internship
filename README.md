@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Food Justice Intern at FRESH New London](https://jobright.ai/jobs/info/680069c78459e4ac4fff3ea2?utm_campaign=1056&utm_source=git)** | Middletown, CT | Hybrid | Apr 16 |
+| **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/680069c78459e4ac4fff3cd9?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 16 |
+| **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Strategy, Learning, and Evaluation Division (SLED)](https://jobright.ai/jobs/info/6800641e3ea364e9ddc9ce29?utm_campaign=1056&utm_source=git)** | Westlake Village, CA | Hybrid | Apr 16 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/68004216443ff9a1e1aee87e?utm_campaign=1056&utm_source=git)** | St. Petersburg, FL | On Site | Apr 16 |
 | ↳ | **[Development and Integration Intern](https://jobright.ai/jobs/info/68003c4cf32efdff6e3ee9a6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 16 |
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern](https://jobright.ai/jobs/info/68002edb6a17b667aa504752?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Mill](https://mill.com)** | **[Communications and Public Affairs Intern](https://jobright.ai/jobs/info/68002495b4657a21711b67b7?utm_campaign=1056&utm_source=git)** | San Bruno, CA | On Site | Apr 16 |
 | **[RWE](https://www.group.rwe/)** | **[Repower Intern](https://jobright.ai/jobs/info/680021a967f1e312f762bda1?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Humanitarian Parolees (OIRS/UHP) Communications Intern - Summer 2025](https://jobright.ai/jobs/info/68000f0e44d47efcddf09ced?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Apr 16 |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Center for Cancer Care Impact intern](https://jobright.ai/jobs/info/680067dcc34e47bf6b7ce3e4?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Apr 16 |
 | **[Devoted Health](https://devoted.com)** | **[SNP Undergrad Intern](https://jobright.ai/jobs/info/67fffd1780255206e4879acd?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Apr 16 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, International Economics](https://jobright.ai/jobs/info/67fff0eb44edfa6871310a85?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Summer College Intern - Federal Affairs - Washington D.C.](https://jobright.ai/jobs/info/67ffe6f0258ac84d6ca27b85?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 16 |
@@ -74,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[Sustainability Intern-The College of William & Mary - The College of William and Mary](https://jobright.ai/jobs/info/67ffdd5bdc131b71139c5148?utm_campaign=1056&utm_source=git)** | Williamsburg, VA | On Site | Apr 16 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/67ff789292a33ef668ecfc72?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Apr 16 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/67ff70870bd3b5b199d37d57?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Apr 15 |
-| **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/67ff4192e1dd436e15180613?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Apr 15 |
-| ↳ | **[Sacramento Family Services Health & Wellness Intern - Winter/Spring 2025 - 2024958](https://jobright.ai/jobs/info/67ff4192e1dd436e1518061c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 15 |
+| **[World Relief](https://worldrelief.org/)** | **[Sacramento Family Services Health & Wellness Intern - Winter/Spring 2025 - 2024958](https://jobright.ai/jobs/info/67ff4192e1dd436e1518061c?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 15 |
+| ↳ | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/67ff4192e1dd436e15180613?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Apr 15 |
 | ↳ | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 15 |
 | **[World Education Services](http://www.wes.org/)** | **[Intern, WES Fund (Remote)](https://jobright.ai/jobs/info/67ff33db702303816e808987?utm_campaign=1056&utm_source=git)** | United States | Remote | Apr 15 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Shared Mobility Program Intern](https://jobright.ai/jobs/info/67ff1e6c7ae9e732fdbd6a7f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
@@ -83,14 +87,15 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[MDCR - Division of Deaf, DeafBlind, Hard of Hearing Intern](https://jobright.ai/jobs/info/67ff0f4309734ea0289f68cf?utm_campaign=1056&utm_source=git)** | Michigan, United States | Remote | Apr 15 |
 | **[ETL-Gruppe](https://www.etl.de/)** | **[Ausbildung zum Steuerfachangestellten (m/w/d)](https://jobright.ai/jobs/info/67ff0f4309734ea0289f694f?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Apr 15 |
 | **[Mercy Corps](http://www.mercycorps.org)** | **[Internship - Policy and Advocacy - Washington D.C., US](https://jobright.ai/jobs/info/67ff02837d1ea36c928e4b81?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/67eb6bfe1e068af1420b82c2?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | Apr 15 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Global External Affairs Intern](https://jobright.ai/jobs/info/67fef154d08ba43505ad7b15?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Insurance and Contract Administration](https://jobright.ai/jobs/info/67ff03d97d1ea36c928e534a?utm_campaign=1056&utm_source=git)** | Manhattan, NY | Hybrid | Apr 15 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer – Real Estate Zoning and Land Use](https://jobright.ai/jobs/info/67fee0b2b0c067d54f11150c?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Apr 15 |
-| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- MDCOB Deans Office Assistant](https://jobright.ai/jobs/info/67fef154d08ba43505ad7ce1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| ↳ | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad8242?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 15 |
+| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad8242?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 15 |
+| ↳ | **[Federal Work-Study- MDCOB Deans Office Assistant](https://jobright.ai/jobs/info/67fef154d08ba43505ad7ce1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Evergen (Formerly RTI Surgical)](https://www.rtix.com/index.php)** | **[DE&I Intern](https://jobright.ai/jobs/info/67fefa8ff371ad217db5284b?utm_campaign=1056&utm_source=git)** | Alachua, FL | On Site | Apr 15 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 Comprehensive Refugee Service Intern UNPAID](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9ec2?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 15 |
-| ↳ | **[Summer 2025 Unaccompanied Minor HSPRS Intern - UNPAID](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9eb5?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 15 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 Unaccompanied Minor HSPRS Intern - UNPAID](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9eb5?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 15 |
+| ↳ | **[Summer 2025 Comprehensive Refugee Service Intern UNPAID](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9ec2?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Apr 15 |
 | ↳ | **[Summer 2025 Social Adjustments Services Intern - UNPAID](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9e7c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[Proskauer Rose LLP](http://www.proskauer.com)** | **[Community Engagement & Inclusion Intern (Summer 2025)](https://jobright.ai/jobs/info/67fec273e3550588fa05d14c?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Apr 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 Immigrant Youth Casework Intern - UNPAID](https://jobright.ai/jobs/info/67fec146dd174d346366a2b5?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Apr 15 |
@@ -133,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[City of Tacoma](http://CityofTacoma.org)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/67fa604abb78fc181def47ee?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Apr 12 |
 | **[A-dec Inc.](http://www.a-dec.com)** | **[Environmental Health and Safety Intern (Summer 2025)](https://jobright.ai/jobs/info/67fa604abb78fc181def4a3d?utm_campaign=1056&utm_source=git)** | Newberg, OR | On Site | Apr 12 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/679aaf2c76364534cf958aba?utm_campaign=1056&utm_source=git)** | SeaTac, WA | Hybrid | Apr 11 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67f9ea239e5d9871a05403cb?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67f9ea239e5d9871a05403ca?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Apr 11 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/67f9ea239e5d9871a05403ca?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Apr 11 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67f9ea239e5d9871a05403cb?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Post Resettlement Casework Intern](https://jobright.ai/jobs/info/67fe2bed02ddcefef6d5b6fc?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Apr 11 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Lead Intern](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f519?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Apr 11 |
 | **[AtriCure, Inc.](http://www.atricure.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/67f9aeb57e1357c68b53942a?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Apr 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/67fa1370bb47a5a2c68df2ff?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Apr 10 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/67db54f3c39337369d12d31c?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Apr 10 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - Community Engagement](https://jobright.ai/jobs/info/67ef0b2cb351fb114fa674c0?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Apr 10 |
-| **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Advocacy and Philanthropy Intern – Summer 2025](https://jobright.ai/jobs/info/67f8c1fa51f3dec910293902?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 10 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/67f8983d143e69ba5304a2d2?utm_campaign=1056&utm_source=git)** | Wilson, NC | On Site | Apr 10 |
-| **[Salt Lake County](https://www.slco.org)** | **[Mayors Office Special Projects Intern](https://jobright.ai/jobs/info/67f8983d143e69ba5304a197?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 10 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Global Health Internship – Henry Ford Health International](https://jobright.ai/jobs/info/67f8a9eb7d95fe4250176d8e?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
