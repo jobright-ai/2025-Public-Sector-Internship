@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/680e199f095fc303dc9794c6?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Summer Intern - Precinct 2](https://jobright.ai/jobs/info/680e0d97325d445abc3888d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/680e0d97325d445abc3888ce?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Summer Intern - Precinct 4](https://jobright.ai/jobs/info/680e0d97325d445abc3888c8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Emergency Planning](https://jobright.ai/jobs/info/680d939964bf7f89579d6ce2?utm_campaign=1056&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern Interest Application](https://jobright.ai/jobs/info/680d84b15d2c37179cc317e7?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 26 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Police Administration - FLEX](https://jobright.ai/jobs/info/680d2f0623dc523f160fad76?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
@@ -64,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/680d18ea9c2a866b274cca19?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 26 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - ENVIRONMENTAL PLANNING](https://jobright.ai/jobs/info/680cb7630be34182f8430bfd?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Apr 26 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390037e4f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 26 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Organizational Change Management (OCM) Communication Intern](https://jobright.ai/jobs/info/679955cee6d126f8a0df9b45?utm_campaign=1056&utm_source=git)** | Trumbull, CT | On Site | Apr 26 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/680c795df26eb478fada6549?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Apr 25 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/680c52c17883eb2208f99ff7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/680da9e7922ad23b499a7831?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 25 |
@@ -128,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/68048f45406d915e3b8ff6f0?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Apr 23 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67d27b5940ac2c3e6ee5189e?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Apr 22 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 22 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c351?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 22 |
 | ↳ | **[Communications and Engagement Intern (July Start)](https://jobright.ai/jobs/info/68088184c8135c53d930c31a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 22 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c351?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 22 |
+| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 22 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/680b0639eac3454073e25744?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Apr 22 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Sustainability and External Affairs Intern](https://jobright.ai/jobs/info/680d9c3011014e3ed7907b11?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Andrew Jackson PEBS Internship](https://jobright.ai/jobs/info/6808435e846671f162998161?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/6807d4bc54367ca3e9f734a5?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/6807d0dd2f07a9037812a4a7?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/67ff4192e1dd436e15180613?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Apr 22 |
-| **[International Justice Mission](http://www.ijm.org)** | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f178477c?utm_campaign=1056&utm_source=git)** | District of Columbia - Remote | Hybrid | Apr 22 |
-| ↳ | **[US Policy & Advocacy Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f17847af?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | On Site | Apr 22 |
+| **[International Justice Mission](http://www.ijm.org)** | **[US Policy & Advocacy Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f17847af?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | On Site | Apr 22 |
 | ↳ | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f17847c1?utm_campaign=1056&utm_source=git)** | District of Columbia - Remote | Hybrid | Apr 22 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Government Affairs Public Policy/Supplier Diversity](https://jobright.ai/jobs/info/67b0b358f8fb92df4755aa86?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Apr 22 |
-| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/6807a9d8f3b07810215467e0?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Apr 22 |
-| ↳ | **[Intern Master of Social Work](https://jobright.ai/jobs/info/6807a9d8f3b07810215467d6?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Apr 22 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9b18?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Apr 22 |
-| **[SRI](http://www.sri.com)** | **[Technology Policy Intern](https://jobright.ai/jobs/info/6807a1a744886dd56c7f2ccf?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Apr 22 |
+| ↳ | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f178477c?utm_campaign=1056&utm_source=git)** | District of Columbia - Remote | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
