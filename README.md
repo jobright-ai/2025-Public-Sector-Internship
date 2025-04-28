@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/680e9ec230c4d0aef5963ed4?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Apr 27 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/680e199f095fc303dc9794c6?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Summer Intern - Precinct 4](https://jobright.ai/jobs/info/680e0d97325d445abc3888c8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | ↳ | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/680e0d97325d445abc3888ce?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | ↳ | **[Summer Intern - Precinct 2](https://jobright.ai/jobs/info/680e0d97325d445abc3888d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
-| ↳ | **[Summer Intern - Precinct 4](https://jobright.ai/jobs/info/680e0d97325d445abc3888c8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Emergency Planning](https://jobright.ai/jobs/info/680d939964bf7f89579d6ce2?utm_campaign=1056&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern Interest Application](https://jobright.ai/jobs/info/680d84b15d2c37179cc317e7?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 26 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Police Administration - FLEX](https://jobright.ai/jobs/info/680d2f0623dc523f160fad76?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Mayors Fellow Program - Office of the Mayor Intern](https://jobright.ai/jobs/info/680c17a698af0fe9135cf5db?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Apr 24 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[CMS Program Intern](https://jobright.ai/jobs/info/680ace9a6c3935cbcee9f0ed?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Summer Intern – U.S. Heavy-Duty Vehicles Program](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c7236?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
+| **[Detroit Pistons](https://pistons.nba.com/)** | **[Community & Social Responsibility Intern (Motor City Cruise)](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c6e7a?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
 | **[Centene Corporation](http://www.centene.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c724c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Clerk II (Government Relations Intern)](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d28e8?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Child Welfare & Adult Protective Services Internship](https://jobright.ai/jobs/info/680aad832a94be607ef376a9?utm_campaign=1056&utm_source=git)** | Greater Denver Area | Hybrid | Apr 24 |
@@ -105,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Clerk II (Government Relations Intern)](https://jobright.ai/jobs/info/680a8aea35e4a77f27bc8f39?utm_campaign=1056&utm_source=git)** | Austin GLO Main FL91700 N Congress Ave | On Site | Apr 24 |
 | **[The International Council on Clean Transportation](http://theicct.org/)** | **[Summer Intern – U.S. Heavy-Duty Vehicles Program ](https://jobright.ai/jobs/info/680a899935e4a77f27bc84c6?utm_campaign=1056&utm_source=git)** | San Francisco, California, United States | On Site | Apr 24 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Clerk II (Government Relations Intern)](https://jobright.ai/jobs/info/680a899935e4a77f27bc847f?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 24 |
-| **[Detroit Pistons](https://pistons.nba.com/)** | **[Community & Social Responsibility Intern (Motor City Cruise)](https://jobright.ai/jobs/info/680a899935e4a77f27bc8467?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Apr 24 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/680a8720d342b9e409012da8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Mecklenburg County](https://www.mecknc.gov)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/67fe97d0a0bae532c82573a8?utm_campaign=1056&utm_source=git)** | Mecklenburg County, NC | On Site | Apr 24 |
 | **[Evergen](https://www.rtix.com/index.php)** | **[DE&I Intern](https://jobright.ai/jobs/info/67fefa8ff371ad217db5284b?utm_campaign=1056&utm_source=git)** | Alachua, FL | On Site | Apr 24 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/68048f45406d915e3b8ff6f0?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Apr 23 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67d27b5940ac2c3e6ee5189e?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Apr 22 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 22 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c351?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 22 |
 | ↳ | **[Communications and Engagement Intern (July Start)](https://jobright.ai/jobs/info/68088184c8135c53d930c31a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 22 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c351?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 22 |
+| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 22 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/680b0639eac3454073e25744?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Apr 22 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Sustainability and External Affairs Intern](https://jobright.ai/jobs/info/680d9c3011014e3ed7907b11?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Andrew Jackson PEBS Internship](https://jobright.ai/jobs/info/6808435e846671f162998161?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/68082aa951246f8e727b9e8c?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Apr 22 |
 | **[TransUnion](http://www.transunion.com)** | **[Government Relations Summer Intern](https://jobright.ai/jobs/info/68081bbba35464a65e446181?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/67ff8bddabb56870650a764c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
+| **[World Relief](https://worldrelief.org/)** | **[U.S.- Mexico Border Engagement Intern](https://jobright.ai/jobs/info/68080aa4bf373162fb67350d?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Community Development Internship Summer 2025](https://jobright.ai/jobs/info/67ea3242191aa0417da85211?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Apr 22 |
-| **[World Relief](https://worldrelief.org/)** | **[U.S.- Mexico Border Engagement Intern](https://jobright.ai/jobs/info/6808034d89ea5d9449bad713?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68081eefbcda5c9758dcdc65?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Apr 22 |
 | **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/6807dbbd9316ee5fba8c8946?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
 | ↳ | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/6807d4bc54367ca3e9f734a5?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/67ff4192e1dd436e15180613?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Apr 22 |
 | **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f17847c1?utm_campaign=1056&utm_source=git)** | District of Columbia - Remote | Hybrid | Apr 22 |
 | ↳ | **[US Policy & Advocacy Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f17847af?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | On Site | Apr 22 |
-| ↳ | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f178477c?utm_campaign=1056&utm_source=git)** | District of Columbia - Remote | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
