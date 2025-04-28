@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant- Health Policy and Administration](https://jobright.ai/jobs/info/680f3c1f09b8a56a591fdf02?utm_campaign=1056&utm_source=git)** | University Park, PA | On Site | Apr 28 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Water Utility Resilience Program (WURP) - Intern](https://jobright.ai/jobs/info/680fb7362e5f6d76b4e618ea?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 28 |
+| ↳ | **[Clean Energy Results Program Intern](https://jobright.ai/jobs/info/680fb7362e5f6d76b4e618d0?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 28 |
+| ↳ | **[Watershed Planning Program (WPP) - Non Point Source Management Section Intern](https://jobright.ai/jobs/info/680fb7362e5f6d76b4e618d9?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Worcester - 8 New Bond St | On Site | Apr 28 |
+| ↳ | **[Watershed Planning Program - Total Maximum Daily Load Section Intern](https://jobright.ai/jobs/info/680fb7362e5f6d76b4e618d7?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Worcester - 8 New Bond St | Hybrid | Apr 28 |
+| **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern](https://jobright.ai/jobs/info/680fb5178ad0affeaecfdd91?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Apr 28 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistants - Center for Energy Law and Policy](https://jobright.ai/jobs/info/680fb39d03393a03aea73c47?utm_campaign=1056&utm_source=git)** | Penn State University Park | On Site | Apr 28 |
+| ↳ | **[Part-Time Research Assistant- Health Policy and Administration](https://jobright.ai/jobs/info/680f3c1f09b8a56a591fdf02?utm_campaign=1056&utm_source=git)** | University Park, PA | On Site | Apr 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/680e9ec230c4d0aef5963ed4?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Apr 27 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/680f00abae030a72c493d4bb?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Apr 27 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/680e199f095fc303dc9794c6?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
-| ↳ | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/680e0d97325d445abc3888ce?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | ↳ | **[Summer Intern - Precinct 2](https://jobright.ai/jobs/info/680e0d97325d445abc3888d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/680e0d97325d445abc3888ce?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | ↳ | **[Summer Intern - Precinct 4](https://jobright.ai/jobs/info/680e0d97325d445abc3888c8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Emergency Planning](https://jobright.ai/jobs/info/680d939964bf7f89579d6ce2?utm_campaign=1056&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
-| **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern Interest Application](https://jobright.ai/jobs/info/680d84b15d2c37179cc317e7?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | Apr 26 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Police Administration - FLEX](https://jobright.ai/jobs/info/680d2f0623dc523f160fad76?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Emergency Services Intern](https://jobright.ai/jobs/info/680d2cb443c522965368c4e5?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Apr 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/680d18ea9c2a866b274cca19?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 26 |
@@ -136,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/68048f45406d915e3b8ff6f0?utm_campaign=1056&utm_source=git)** | Palmer, AK | On Site | Apr 23 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Emergency Management Intern – Summer 2025](https://jobright.ai/jobs/info/675b3061fadff200c30bffa8?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/67d27b5940ac2c3e6ee5189e?utm_campaign=1056&utm_source=git)** | Whitsett, NC | On Site | Apr 22 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern (July Start)](https://jobright.ai/jobs/info/68088184c8135c53d930c31a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 22 |
-| ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 22 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | Apr 22 |
 | ↳ | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c351?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Apr 22 |
+| ↳ | **[Communications and Engagement Intern (July Start)](https://jobright.ai/jobs/info/68088184c8135c53d930c31a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Apr 22 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/680b0639eac3454073e25744?utm_campaign=1056&utm_source=git)** | Kenai, AK | On Site | Apr 22 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Sustainability and External Affairs Intern](https://jobright.ai/jobs/info/680d9c3011014e3ed7907b11?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Andrew Jackson PEBS Internship](https://jobright.ai/jobs/info/6808435e846671f162998161?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Apr 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[U.S.- Mexico Border Engagement Intern](https://jobright.ai/jobs/info/68080aa4bf373162fb67350d?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Community Development Internship Summer 2025](https://jobright.ai/jobs/info/67ea3242191aa0417da85211?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Apr 22 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68081eefbcda5c9758dcdc65?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Apr 22 |
-| **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/6807dbbd9316ee5fba8c8946?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
-| ↳ | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/6807d4bc54367ca3e9f734a5?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 22 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/6807d0dd2f07a9037812a4a7?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 22 |
-| **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/67ff4192e1dd436e15180613?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Apr 22 |
-| **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/6807b6b702a76297f17847c1?utm_campaign=1056&utm_source=git)** | District of Columbia - Remote | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
