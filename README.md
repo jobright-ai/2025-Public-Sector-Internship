@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Government Programs](https://jobright.ai/jobs/info/6810d1fefa345d39af9d14d8?utm_campaign=1056&utm_source=git)** | DDMI - Detroit | Hybrid | Apr 29 |
+| **[International Justice Mission](http://www.ijm.org)** | **[US Policy & Advocacy Intern - Fall 2025](https://jobright.ai/jobs/info/6810b47c23db12d831d19416?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 29 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/681052dc48169e0c326e32cb?utm_campaign=1056&utm_source=git)** | Byron Center, MI | On Site | Apr 28 |
 | **[Walmart](http://www.walmart.com)** | **[Corporate Intern - Global Public Policy](https://jobright.ai/jobs/info/68105293d2e0a1a12ed6f602?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/68104c877093043d6e21e8ce?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
@@ -96,19 +98,18 @@ For a complete list, click the following sortable link below:
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/681046a4a554db05d7718781?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Apr 27 |
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[City Planning Intern](https://jobright.ai/jobs/info/681014401bd4c198c8bf5c9c?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Apr 27 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Summer Intern - Precinct 1](https://jobright.ai/jobs/info/680e199f095fc303dc9794c6?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| ↳ | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/680e0d97325d445abc3888ce?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | ↳ | **[Summer Intern - Precinct 4](https://jobright.ai/jobs/info/680e0d97325d445abc3888c8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | ↳ | **[Summer Intern - Precinct 2](https://jobright.ai/jobs/info/680e0d97325d445abc3888d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
-| ↳ | **[Summer Intern - Precinct 3](https://jobright.ai/jobs/info/680e0d97325d445abc3888ce?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Emergency Planning](https://jobright.ai/jobs/info/680d939964bf7f89579d6ce2?utm_campaign=1056&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Department Secretary -Police Administration - FLEX](https://jobright.ai/jobs/info/680d2f0623dc523f160fad76?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Emergency Services Intern](https://jobright.ai/jobs/info/680d2cb443c522965368c4e5?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Apr 26 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Police Administration - FLEX](https://jobright.ai/jobs/info/680d2f0623dc523f160fad76?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/680d18ea9c2a866b274cca19?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 26 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - ENVIRONMENTAL PLANNING](https://jobright.ai/jobs/info/680cb7630be34182f8430bfd?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Apr 26 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390037e4f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 26 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Organizational Change Management (OCM) Communication Intern](https://jobright.ai/jobs/info/679955cee6d126f8a0df9b45?utm_campaign=1056&utm_source=git)** | Trumbull, CT | On Site | Apr 26 |
 | **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/680c795df26eb478fada6549?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Apr 25 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/680c52c17883eb2208f99ff7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/681046a4a554db05d7718869?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Apr 25 |
 | **[Our Daily Bread Ministries](https://odb.org/)** | **[Grant Writing & Research Internship - Paid PT](https://jobright.ai/jobs/info/67e2ca829de0425ab7aeb767?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Apr 25 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/680c34a319ae08c3f6f42338?utm_campaign=1056&utm_source=git)** | Bay Shore Acres, FL | On Site | Apr 25 |
 | **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Emergency Planning](https://jobright.ai/jobs/info/680c34a319ae08c3f6f424c5?utm_campaign=1056&utm_source=git)** | Covert, MI | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The New York Immigration Coalition](https://www.nyic.org)** | **[Program Associate, NYC Community Interpreter Bank](https://jobright.ai/jobs/info/68098749b375c510743d9859?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[City of Rochester Hills](http://www.rochesterhills.org/)** | **[Student Intern - Mayor's Office](https://jobright.ai/jobs/info/680ace9a6c3935cbcee9f4d3?utm_campaign=1056&utm_source=git)** | Rochester Hills, MI | On Site | Apr 23 |
 | **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Clerk II (Coastal Information Resources Intern)](https://jobright.ai/jobs/info/6809559b90595e25bd217857?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Apr 23 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Collections Assistant for Native American Graves Protection and Repatriation Act (NAGPRA)](https://jobright.ai/jobs/info/68094c9a994b102c5a3f82da?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
