@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Mixed Income Housing Intern](https://jobright.ai/jobs/info/68165e7082d6cecce05285b3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68165115b601bc0ddefef18c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/68165115b601bc0ddefef18a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 03 |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/67bf6022ffdcd77c095357b3?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 03 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern - Per Diem (On-site)](https://jobright.ai/jobs/info/67f71c946f62acad0f5a1f63?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Mixed Income Housing Intern](https://jobright.ai/jobs/info/6815aef03d4bf88570c958fc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 02 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Harris County Leadership Internship Program (HCLIP)](https://jobright.ai/jobs/info/68155488f0a77c03331c354b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 02 |
 | **[Nuveen, a TIAA company](http://www.nuveen.com)** | **[Climate Corp Fellow](https://jobright.ai/jobs/info/681543560b6c9838315dd13e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Green Finance and Climate Justice Research Intern](https://jobright.ai/jobs/info/6815391c90df5f7b0ead716a?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 02 |
@@ -78,11 +79,10 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2025 fall term (Sept. 1-Dec. 15)](https://jobright.ai/jobs/info/681461f0198a780cdf2047ea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 01 |
 | ↳ | **[Affiliate Affairs & National Public Health Week Internship: 2025 fall term (Sept. 1-Dec. 15)](https://jobright.ai/jobs/info/681461f0198a780cdf204802?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Portland Trail Blazers @ the Rose Quarter](http://trailblazers.com)** | **[Community Programs Intern](https://jobright.ai/jobs/info/681435390c0999de6bc7b895?utm_campaign=1056&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | May 01 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6815869bc2e502ee4475e0aa?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | May 01 |
-| **[Portland Trail Blazers @ the Rose Quarter](http://trailblazers.com)** | **[Community Programs Intern](https://jobright.ai/jobs/info/681414868fcdb972eafaa133?utm_campaign=1056&utm_source=git)** | Portland, Oregon | On Site | May 01 |
+| ↳ | **[Community Programs Intern](https://jobright.ai/jobs/info/681414868fcdb972eafaa133?utm_campaign=1056&utm_source=git)** | Portland, Oregon | On Site | May 01 |
 | **[King County, WA](http://kingcounty.gov/)** | **[Graduate Overdose Prevention & Response Summer Research Intern](https://jobright.ai/jobs/info/681550552f638550bc1a8ed8?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | May 01 |
 | **[Fairfield County's Community Foundation](https://fccfoundation.org)** | **[Intern](https://jobright.ai/jobs/info/6813c351762cbf27701b410d?utm_campaign=1056&utm_source=git)** | Norwalk, CT | Hybrid | May 01 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/6813b93b1eb737c3dae12ae5?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | May 01 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/6813b93b1eb737c3dae12ae4?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | May 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Grants Writing/Administration Intern](https://jobright.ai/jobs/info/6813b6795b7917642c053254?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | May 01 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Applied Public Policy Graduate Intern (Hybrid - Boston/Quincy, MA)](https://jobright.ai/jobs/info/67f6b990e2082528cc701e76?utm_campaign=1056&utm_source=git)** | North Quincy, MA | Hybrid | May 01 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Perfect Order Experience](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146ffe?utm_campaign=1056&utm_source=git)** | Sunnyvale, CA | On Site | May 01 |
@@ -101,15 +101,15 @@ For a complete list, click the following sortable link below:
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/681270a3e9a0537757f0ed86?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Apr 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Legislative Information Services Work Study Intern](https://jobright.ai/jobs/info/6801c0bbf5fa19f83798ef45?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68126730828e2b4909601d09?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Apr 30 |
-| ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/6812600c5aafa2f8be904fcd?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/6812600c5aafa2f8be904fcc?utm_campaign=1056&utm_source=git)** | Baldwin Park, CA | On Site | Apr 30 |
 | ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/6812600c5aafa2f8be904fd1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
+| ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/6812600c5aafa2f8be904fcd?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Apr 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Unpaid Intern - Research and Evaluation - Provo MTC](https://jobright.ai/jobs/info/68123506f0acf7eab0c759f6?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Apr 30 |
 | **[Archdiocese of St. Louis](https://www.archstl.org/)** | **[Respect Life Summer Intern](https://jobright.ai/jobs/info/6812e92d28515a0baa96c1b1?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Apr 30 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/681229dfb58a2c552b3796dc?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Apr 30 |
 | **[Penn State University](http://psu.edu)** | **[Postdoctoral Scholar - Public Health Sciences](https://jobright.ai/jobs/info/681229bd4e0a74b67700644f?utm_campaign=1056&utm_source=git)** | Hershey, PA | On Site | Apr 30 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Division of Victim Services Internship](https://jobright.ai/jobs/info/681226f23b129fb2f84bce59?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Apr 30 |
-| ↳ | **[Division of Victim Services Intern](https://jobright.ai/jobs/info/681226f23b129fb2f84bce11?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Apr 30 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Division of Victim Services Intern](https://jobright.ai/jobs/info/681226f23b129fb2f84bce11?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Apr 30 |
+| ↳ | **[Division of Victim Services Internship](https://jobright.ai/jobs/info/681226f23b129fb2f84bce59?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Apr 30 |
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Mayor's Fellow Program - Public Arts Commission Intern](https://jobright.ai/jobs/info/68101e0c15cd436634157401?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Apr 30 |
 | **[Ministerie van Buitenlandse Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken)** | **[Stage bij de Nederlandse ambassade te Washington](https://jobright.ai/jobs/info/6811da7cfb329f8bf724bac5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Apr 30 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Leadership Crew Intern](https://jobright.ai/jobs/info/679d55a181e671d3c6185e85?utm_campaign=1056&utm_source=git)** | West Alton, MO | On Site | Apr 30 |
