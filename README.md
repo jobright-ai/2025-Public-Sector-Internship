@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of North Carolina at Greensboro](https://www.uncg.edu)** | **[Graduate Assistant for Dialogue & Collective Support](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b93b?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | May 03 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68165115b601bc0ddefef18a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 03 |
-| ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/68165115b601bc0ddefef18c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68165115b601bc0ddefef18c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
+| ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/68165115b601bc0ddefef18a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 03 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 03 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Policy Intern](https://jobright.ai/jobs/info/67bf6022ffdcd77c095357b3?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | May 03 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications and Public Involvement Intern - Summer 2025](https://jobright.ai/jobs/info/67a40c16ee18f5addb0a4ceb?utm_campaign=1056&utm_source=git)** | Waterbury, VT | On Site | May 03 |
