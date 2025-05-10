@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Intern, Community Relations](https://jobright.ai/jobs/info/681fa21af5a3dd2fba4004f9?utm_campaign=1056&utm_source=git)** | Orlando, Florida | On Site | May 10 |
+| ↳ | **[Intern, Community Relations](https://jobright.ai/jobs/info/681fa1c9fc919003b8cc348c?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | May 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/681f4ea0ce958e9a89ed740e?utm_campaign=1056&utm_source=git)** | Downey, CA | On Site | May 10 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/681eec11e7e3b39aa670596f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
-| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Policy Reform Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a36?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
-| ↳ | **[Legislative Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a21?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
+| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Legislative Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a21?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
+| ↳ | **[Policy Reform Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a36?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/681e4ab2d2a21646a93e821f?utm_campaign=1056&utm_source=git)** | All, MO | On Site | May 09 |
 | **[Best Friends Animal Society](https://bestfriends.org/)** | **[Intern, Regional Engagement & Research](https://jobright.ai/jobs/info/681e3aec269c23a1ca8a15f0?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[Orange County Public Schools](https://ocps.net)** | **[Sustainability and Conservation Intern](https://jobright.ai/jobs/info/681e337dbde03398d904a84a?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | May 09 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/681da5c8df7c7209071aeb8d?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | May 08 |
 | **[Montgomery County Government](http://www.montgomerycountymd.gov)** | **[Community Correctional Intern Grade S1](https://jobright.ai/jobs/info/681da057553612ad52e87b2c?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | May 08 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Agriculture and Community Health Internship](https://jobright.ai/jobs/info/681da00e553612ad52e87349?utm_campaign=1056&utm_source=git)** | Muskegon, MI | On Site | May 08 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/681d98696dc7ec4b3c13e31b?utm_campaign=1056&utm_source=git)** | Gainesville, GA | On Site | May 08 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/681043479c069f106455a21d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | May 08 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Impact & Inclusion Governance & Policy Co-op](https://jobright.ai/jobs/info/681d835e909d11a48e6b07c2?utm_campaign=1056&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 08 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[Land Management Intern](https://jobright.ai/jobs/info/681f2b40f9e65890b44b4214?utm_campaign=1056&utm_source=git)** | Canonsburg, PA US (Primary) | On Site | May 08 |
@@ -88,8 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Policy Intern (Paid Position)](https://jobright.ai/jobs/info/681cd8334d92c76d8aa7c4af?utm_campaign=1056&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 08 |
 | **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern- Victim Advocate](https://jobright.ai/jobs/info/681cc01a507ccd2171866e25?utm_campaign=1056&utm_source=git)** | Fort Wayne, IN | On Site | May 08 |
 | **[Socure](http://www.socure.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/681cbf0212bfb86e37243b66?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | May 08 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 Unaccompanied Minor HSPRS Intern - UNPAID](https://jobright.ai/jobs/info/681d85b1a1aa04a5e4dd4e9a?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | May 08 |
-| ↳ | **[Summer 2025 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/681d69c546029eb5fc91d618?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 08 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/681d69c546029eb5fc91d618?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | May 08 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer – Real Estate Zoning and Land Use](https://jobright.ai/jobs/info/67fee0b2b0c067d54f11150c?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | May 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Political Affairs Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f4f0?utm_campaign=1056&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/681c1d6302fd7a7a9a97bc57?utm_campaign=1056&utm_source=git)** | United States | Remote | May 07 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Bowman Consulting](https://bowman.com)** | **[Right of Way Land Acquisition Intern (Part-Time) - Tampa, FL](https://jobright.ai/jobs/info/67fd4819e99c28832328b9ed?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | May 06 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (August/Fall start)](https://jobright.ai/jobs/info/67ccaf50e1fe595b62db634f?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Hybrid | May 06 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Manufacturing and Supply Chain Summer Intern](https://jobright.ai/jobs/info/681ac42526161b49e5e9efc6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 06 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/681d69c546029eb5fc91d7b1?utm_campaign=1056&utm_source=git)** | Gainesville, GA | On Site | May 06 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Sustainability Intern (Remote)](https://jobright.ai/jobs/info/681a6f71635df6b150cda295?utm_campaign=1056&utm_source=git)** | Green Bay, WI | Remote | May 06 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program - Fall 2025](https://jobright.ai/jobs/info/681a67f210d61902897739a1?utm_campaign=1056&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 06 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Mosaic Life Care Foundation Intern](https://jobright.ai/jobs/info/681a554ec6b2a1eff62c0705?utm_campaign=1056&utm_source=git)** | St Joseph, MO | On Site | May 06 |
