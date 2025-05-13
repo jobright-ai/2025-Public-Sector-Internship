@@ -57,21 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Collin College](http://www.collin.edu/)** | **[Intern- Plano Mayor's Summer Intern Program](https://jobright.ai/jobs/info/68224c6711fd56e7c6d7fcbd?utm_campaign=1056&utm_source=git)** | Plano Campus | On Site | May 12 |
-| ↳ | **[Intern- Plano Mayor's Summer Intern Program](https://jobright.ai/jobs/info/68224c6711fd56e7c6d7fce9?utm_campaign=1056&utm_source=git)** | Plano Campus | On Site | May 12 |
-| **[AV](http://www.avinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/682245ec403d6cc7f84183d8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | May 12 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682287fb9965135f8eb6173c?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | May 12 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68226e8e11b85f8b177b6f08?utm_campaign=1056&utm_source=git)** | Kearney, NE | On Site | May 12 |
+| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68226e8e11b85f8b177b6f48?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | May 12 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Summer 2025)](https://jobright.ai/jobs/info/68226e8e11b85f8b177b6ece?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 12 |
+| **[Adventist Health](https://www.adventisthealth.org/)** | **[Community Impact Intern, Full-time, Temporary](https://jobright.ai/jobs/info/68225e0f647898fff12bc99e?utm_campaign=1056&utm_source=git)** | ONE Adventist Health Way, Roseville, CA, 95661, US | On Site | May 12 |
+| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Technical Assistance and Capacity Building Intern](https://jobright.ai/jobs/info/68225d58d41ae49c4b45384c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 12 |
+| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Policy Reform Intern — Fall 2025](https://jobright.ai/jobs/info/68225d58d41ae49c4b453729?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 12 |
+| **[SRI](http://www.sri.com)** | **[Ohio State WAIP: Innovation Strategy & Policy Intern](https://jobright.ai/jobs/info/682252793b196333a6e7d83a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | May 12 |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Communications](https://jobright.ai/jobs/info/682252777de92a098585d40e?utm_campaign=1056&utm_source=git)** | United States | Remote | May 12 |
+| **[Collin College](http://www.collin.edu/)** | **[Intern- Plano Mayor's Summer Intern Program](https://jobright.ai/jobs/info/68224c6711fd56e7c6d7fce9?utm_campaign=1056&utm_source=git)** | Plano Campus | On Site | May 12 |
+| ↳ | **[Intern- Plano Mayor's Summer Intern Program](https://jobright.ai/jobs/info/68224c6711fd56e7c6d7fcbd?utm_campaign=1056&utm_source=git)** | Plano Campus | On Site | May 12 |
+| **[AV](http://www.avinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68224c6711fd56e7c6d7fd28?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | May 12 |
 | **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Technical Assistance and Capacity Building Intern](https://jobright.ai/jobs/info/682243df0b2b2134bfa43060?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | May 12 |
 | ↳ | **[Political Mobilization Intern](https://jobright.ai/jobs/info/682243df0b2b2134bfa43041?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | May 12 |
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern Kenosha Intoxicated Driver](https://jobright.ai/jobs/info/68223ee44ec05169ac075e2f?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | May 12 |
-| ↳ | **[Intern Hub Spoke Health Home](https://jobright.ai/jobs/info/682235edd65eef70cc79b7e0?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | May 12 |
 | ↳ | **[Intern Wraparound Care Coordination](https://jobright.ai/jobs/info/682235edd65eef70cc79b7da?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | May 12 |
 | ↳ | **[Intern Supportive Housing Program](https://jobright.ai/jobs/info/682235edd65eef70cc79b7d2?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | May 12 |
+| ↳ | **[Intern Hub Spoke Health Home](https://jobright.ai/jobs/info/682235edd65eef70cc79b7e0?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | May 12 |
 | **[Gritter Francona](https://www.gritterfrancona.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/682235edd65eef70cc79b936?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | May 12 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/682231ebf120d7aae3655f03?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | May 12 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/682207aceca91851f3cb705c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 12 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Government Affairs and Communications ](https://jobright.ai/jobs/info/6822065ea495c855e0214c70?utm_campaign=1056&utm_source=git)** | United States - Remote | Remote | May 12 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Summer Intern - Parks for People -  Bay Area](https://jobright.ai/jobs/info/682193b8ab2fcf7e5facd7a9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | May 11 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682185e40de2c826143cb169?utm_campaign=1056&utm_source=git)** | Nampa, ID | On Site | May 11 |
+| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Administrative Assistant](https://jobright.ai/jobs/info/68225d58d41ae49c4b453892?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | May 11 |
 | **[Community Access](https://www.communityaccess.org)** | **[Housing Intern](https://jobright.ai/jobs/info/68219673e787a9b9421a5f43?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Cyber &amp; Technology Innovation Research Summer 2025 Internship](https://jobright.ai/jobs/info/68201446461d1a30b3712f0e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 10 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Intern, Community Relations](https://jobright.ai/jobs/info/681fa1c9fc919003b8cc348c?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | May 10 |
@@ -81,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/681eec11e7e3b39aa670596f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68216c6a3a3c53528fff8cd0?utm_campaign=1056&utm_source=git)** | Gainesville, GA | On Site | May 09 |
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Summer 2025](https://jobright.ai/jobs/info/67ab961237288ae932703351?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 09 |
-| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Policy Reform Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a36?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
-| ↳ | **[Legislative Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a21?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
+| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Legislative Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a21?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
+| ↳ | **[Policy Reform Intern — Fall 2026](https://jobright.ai/jobs/info/681e6efb7a28caf10d8a9a36?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/681e4ab2d2a21646a93e821f?utm_campaign=1056&utm_source=git)** | All, MO | On Site | May 09 |
 | **[Best Friends Animal Society](https://bestfriends.org/)** | **[Intern, Regional Engagement & Research](https://jobright.ai/jobs/info/681e3aec269c23a1ca8a15f0?utm_campaign=1056&utm_source=git)** | United States | Remote | May 09 |
 | **[Orange County Public Schools](https://ocps.net)** | **[Sustainability and Conservation Intern](https://jobright.ai/jobs/info/681e337dbde03398d904a84a?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | May 09 |
@@ -137,7 +146,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/681a42f014e486256c3358c1?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | May 06 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Intern -Environmental Justice Intern](https://jobright.ai/jobs/info/681a2405d6cf75241e7fe349?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | May 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681b0d570d18e722a812e1a3?utm_campaign=1056&utm_source=git)** | Soldotna, AK | On Site | May 06 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/67a74791ad0fdb673b6c411a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | May 05 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682033d483678daf62707df7?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | May 05 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68217e31e71778a6c3d80e13?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
