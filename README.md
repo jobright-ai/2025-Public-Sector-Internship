@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Government Relations (Arlington, VA)](https://jobright.ai/jobs/info/682e44b5e166ec5255c73ab8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | May 21 |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[LIJ Valley Stream Surgery Internship](https://jobright.ai/jobs/info/682e3d8c4b40d279fe1e0197?utm_campaign=1056&utm_source=git)** | 900 Franklin Ave, Valley Stream, NY, 11580, US | On Site | May 21 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Ctr For Rehabilitation Rsrch](https://jobright.ai/jobs/info/682e383c29b3aaa08e0c3a8d?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | May 21 |
+| **[Brattleboro Retreat](https://www.brattlebororetreat.org/)** | **[Post Intern Social Work Fellow](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7146b2?utm_campaign=1056&utm_source=git)** | Brattleboro, VT | On Site | May 21 |
+| **[Alternative Family Services](https://www.afs4kids.org/)** | **[Clinical Intern – Mental Health Services, Sonoma County, CA](https://jobright.ai/jobs/info/682e2de4756ec84e83079acb?utm_campaign=1056&utm_source=git)** | Santa Rosa, CA | Hybrid | May 21 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/682e28053403b37ac4b9299b?utm_campaign=1056&utm_source=git)** | Yankton, SD | On Site | May 21 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Social Work Intern](https://jobright.ai/jobs/info/682e18ca51c302179859f981?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | May 21 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Intern, Planning Specialist](https://jobright.ai/jobs/info/682e0ccfaf354217f4b49db0?utm_campaign=1056&utm_source=git)** | Virginia, MN | On Site | May 21 |
@@ -81,11 +86,9 @@ For a complete list, click the following sortable link below:
 | **[CORE (Community Organized Relief Effort)](https://www.coreresponse.org/)** | **[Emergency Response Intern](https://jobright.ai/jobs/info/682cb0e269d34aa2d2b5f238?utm_campaign=1056&utm_source=git)** | Los Angeles, California | Hybrid | May 20 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Investments Summer Intern](https://jobright.ai/jobs/info/682e176e37d4fceb95e85526?utm_campaign=1056&utm_source=git)** | Memorial City Hospital | On Site | May 20 |
 | **[SEIU](http://www.seiu.org)** | **[Digital Intern For Politics and Government Relations](https://jobright.ai/jobs/info/682c9672701a60c992a7b186?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/682d4a660901b82c20f7ace2?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | May 20 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6812e92d28515a0baa96c304?utm_campaign=1056&utm_source=git)** | Byron Center, MI | On Site | May 20 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | May 20 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grants Assistant Intern](https://jobright.ai/jobs/info/682c1ef3d3eb7ebab5eb735d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | May 19 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682d55b3902a0b753bc08b3b?utm_campaign=1056&utm_source=git)** | Emory, VA | On Site | May 19 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Public Affairs Intern (Association Office)](https://jobright.ai/jobs/info/682bce80921cfda09985da01?utm_campaign=1056&utm_source=git)** | New York, NY, None | On Site | May 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC4/T44 Washington Community Affairs Internship – Academic Year](https://jobright.ai/jobs/info/682bc9ec117fd005084b9e5f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 19 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Public Affairs Intern (Association Office)](https://jobright.ai/jobs/info/682becfb802e2c34f4bf3432?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 19 |
@@ -123,7 +126,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/67e33b8b825ba91e4514c879?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Intern - Agriculture and Community Health](https://jobright.ai/jobs/info/6826a8c4d89d4c101d325a0b?utm_campaign=1056&utm_source=git)** | Muskegon, MI | On Site | May 15 |
 | ↳ | **[Intern - Agriculture and Community Health](https://jobright.ai/jobs/info/6825f4de4d333bf0af3a02a3?utm_campaign=1056&utm_source=git)** | Mercy Health West Michigan Community Health Services - Muskegon, Mi | On Site | May 15 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/68259208f802fcc9f70f4cdd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 15 |
-| **[Stellantis](https://www.stellantis.com)** | **[Well-Being Health and Safety (WBHS) Student Program](https://jobright.ai/jobs/info/68282460c9ccd81de948c3ed?utm_campaign=1056&utm_source=git)** | Dundee, MI | On Site | May 14 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/68088184c8135c53d930c323?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | Hybrid | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
