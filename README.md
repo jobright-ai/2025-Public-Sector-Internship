@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Public Affairs/Government & Regulatory Affairs](https://jobright.ai/jobs/info/683068b31c1a38c0075973af?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 23 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Red Flag](https://jobright.ai/jobs/info/682fdec02c345fc0966978d5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | May 22 |
 | ↳ | **[University Intern, Red Flag](https://jobright.ai/jobs/info/682fa7d19a81bddd492c607b?utm_campaign=1056&utm_source=git)** | USA Washington DC 655 15th Street NW (Red Flag) | On Site | May 22 |
 | **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[CWR - Social Work Intern, PT Day Shift, Palliative Care](https://jobright.ai/jobs/info/682fa7d19a81bddd492c6321?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | May 22 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[2025 Urban Leadership Fellow](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd644a4?utm_campaign=1056&utm_source=git)** | New York, New York | On Site | May 22 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Public Affairs Intern - Year Round](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd6449d?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | May 22 |
 | **[TD](https://www.td.com)** | **[2025 Urban Leadership Fellow](https://jobright.ai/jobs/info/682f771532e75c74aa069cf6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 22 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682f69a533367a2157ec6f3e?utm_campaign=1056&utm_source=git)** | East Marion, IL | On Site | May 22 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f698c911e15ae2919b90d?utm_campaign=1056&utm_source=git)** | USA MA Tewksbury | On Site | May 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | May 22 |
 | **[Best Friends Animal Society](https://bestfriends.org/)** | **[Intern, Grants Management](https://jobright.ai/jobs/info/682f488e1f3bc0f73ad6950e?utm_campaign=1056&utm_source=git)** | United States | Remote | May 22 |
@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | May 20 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Military & Outreach Services Intern](https://jobright.ai/jobs/info/682f7b62370204ce5aab6fa3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grants Assistant Intern](https://jobright.ai/jobs/info/682c1ef3d3eb7ebab5eb735d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | May 19 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682eab4a064ff8dce1fc5212?utm_campaign=1056&utm_source=git)** | Emory, VA | On Site | May 19 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Program Evaluation Intern](https://jobright.ai/jobs/info/682ff58b2fd2e66f52418e73?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Public Affairs Intern (Association Office)](https://jobright.ai/jobs/info/682bce80921cfda09985da01?utm_campaign=1056&utm_source=git)** | New York, NY, None | On Site | May 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC4/T44 Washington Community Affairs Internship – Academic Year](https://jobright.ai/jobs/info/682bc9ec117fd005084b9e5f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 19 |
@@ -113,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Intern*](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733e5e?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | May 19 |
 | **[SUNY Broome Community College](http://sunybroome.edu)** | **[Grant Program Director](https://jobright.ai/jobs/info/682b6e6cd3c45f5d5b153e90?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | May 19 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Ombudsman Intern (Fall 2025)](https://jobright.ai/jobs/info/68268e45908b652b4ac746bf?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | May 19 |
+| **[Mill Creek Residential Trust LLC](https://millcreekplaces.com/)** | **[Internship](https://jobright.ai/jobs/info/682ae222d41cb991fb0def9e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | May 19 |
 | **[City of Kirkland](http://www.kirklandwa.gov)** | **[Public Works Intern](https://jobright.ai/jobs/info/682b75c5691282396ac88f7e?utm_campaign=1056&utm_source=git)** | Kirkland, WA | On Site | May 18 |
 | **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Path to Power Intern – Saint Paul, MN](https://jobright.ai/jobs/info/682b7ba8c339eb677fa157cc?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | May 18 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/681eec11e7e3b39aa670596f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Co-op: Public Affairs - Operations Analyst (CM)](https://jobright.ai/jobs/info/6827f40962df9ad68f698b09?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 16 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (North Carolina)](https://jobright.ai/jobs/info/6809b0217ba9b011245a3cfd?utm_campaign=1056&utm_source=git)** | Washington, NC | On Site | May 16 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Center for Organizing Intern (Summer 2025))](https://jobright.ai/jobs/info/6815ad143271bf7e0cecc686?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 16 |
-| **[One Community Health](https://www.onecommunityhealth.org/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6827aca1d8a067bcfd474f30?utm_campaign=1056&utm_source=git)** | Hood River, OR | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
