@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Public Affairs/Government & Regulatory Affairs](https://jobright.ai/jobs/info/6832b39723181a1fd3a2bff1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 24 |
-| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
-| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Public Affairs/Government & Regulatory Affairs](https://jobright.ai/jobs/info/6833620bbe60fe414d977a36?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 25 |
+| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
+| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/683150b5becb8c7519c900a2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | May 23 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship](https://jobright.ai/jobs/info/68311b015b52832f63327fd5?utm_campaign=1056&utm_source=git)** | Denver Metropolitan Area | On Site | May 23 |
@@ -130,7 +130,5 @@ For a complete list, click the following sortable link below:
 | **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Intern*](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733e5e?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | May 19 |
 | **[SUNY Broome Community College](http://sunybroome.edu)** | **[Grant Program Director](https://jobright.ai/jobs/info/682b6e6cd3c45f5d5b153e90?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | May 19 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Ombudsman Intern (Fall 2025)](https://jobright.ai/jobs/info/68268e45908b652b4ac746bf?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | May 19 |
-| **[City of Kirkland](http://www.kirklandwa.gov)** | **[Public Works Intern](https://jobright.ai/jobs/info/682b75c5691282396ac88f7e?utm_campaign=1056&utm_source=git)** | Kirkland, WA | On Site | May 18 |
-| **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/681eec11e7e3b39aa670596f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
-| **[Avon Community School Corporation](https://www.avon-schools.org)** | **[Student Government Co-Sponsor **INTERNAL ONLY**](https://jobright.ai/jobs/info/682a4efa446c386dc82e327d?utm_campaign=1056&utm_source=git)** | Avon, IN | On Site | May 18 |
+| **[Mill Creek Residential Trust LLC](https://millcreekplaces.com/)** | **[Internship](https://jobright.ai/jobs/info/682ae222d41cb991fb0def9e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
