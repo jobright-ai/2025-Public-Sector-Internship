@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Public Affairs/Government & Regulatory Affairs](https://jobright.ai/jobs/info/6834c29652de3a3cf364e071?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Summer College Intern - Federal Affairs - Washington D.C.](https://jobright.ai/jobs/info/683457cd98d886914f2cc894?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 26 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68343c36d925ebc83e9ae243?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | May 26 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/6834038fe5cf27d7bd56a8e3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 25 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/68344e8c29d5401fae69272b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 25 |
 | ↳ | **[HEOR Intern](https://jobright.ai/jobs/info/68344e8c29d5401fae692856?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 25 |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Public Affairs/Government & Regulatory Affairs](https://jobright.ai/jobs/info/6833d524c07f2c3b49ac4829?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 25 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
-| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
-| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
+| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
+| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | May 24 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/683150b5becb8c7519c900a2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | May 23 |
@@ -108,8 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c96c83d91d34f17d32a264?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 21 |
 | ↳ | **[Internship (School Based Services- Prince Georges County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c3c87717c9ccf885d18a84?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | May 21 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/683443ee74d25400314fc1ef?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | May 21 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682ebc31d2b4968eb38c397c?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | May 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/682eab4a064ff8dce1fc5037?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | May 20 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682eab4a064ff8dce1fc5037?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | May 20 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Postdoctoral Fellow- Forest Economics Policy](https://jobright.ai/jobs/info/682d371a76362e77aaea2c5f?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | May 20 |
 | **[American Geophysical Union](https://www.agu.org)** | **[FALL Intern, Science Policy & Government Relations (Grassroots) (49914)](https://jobright.ai/jobs/info/682d281d4389d9a2d9f982ee?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Airport Security Intern - 1 Year College Intern - Operations](https://jobright.ai/jobs/info/682d1f64e774a365707b8976?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | May 20 |
@@ -127,8 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | May 20 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grants Assistant Intern](https://jobright.ai/jobs/info/682c1ef3d3eb7ebab5eb735d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | May 19 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6833e5c552b25af496b4a59f?utm_campaign=1056&utm_source=git)** | Emory, VA | On Site | May 19 |
-| **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Public Affairs Intern (Association Office)](https://jobright.ai/jobs/info/682bce80921cfda09985da01?utm_campaign=1056&utm_source=git)** | New York, NY, None | On Site | May 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC4/T44 Washington Community Affairs Internship – Academic Year](https://jobright.ai/jobs/info/682bc9ec117fd005084b9e5f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 19 |
-| **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Public Affairs Intern (Association Office)](https://jobright.ai/jobs/info/682becfb802e2c34f4bf3432?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 19 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Communications & Media Channels Intern](https://jobright.ai/jobs/info/682bb5eaded1bb50cee78a20?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-600 Washington Street | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
