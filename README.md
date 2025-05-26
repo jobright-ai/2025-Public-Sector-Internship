@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[Summer College Intern - Federal Affairs - Washington D.C.](https://jobright.ai/jobs/info/683457cd98d886914f2cc894?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 26 |
+| **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68343c36d925ebc83e9ae243?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | May 26 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/6834038fe5cf27d7bd56a8e3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 25 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/68344e8c29d5401fae69272b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 25 |
+| ↳ | **[HEOR Intern](https://jobright.ai/jobs/info/68344e8c29d5401fae692856?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 25 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Public Affairs/Government & Regulatory Affairs](https://jobright.ai/jobs/info/6833d524c07f2c3b49ac4829?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | May 25 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
-| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
-| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
+| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
+| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
+| **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | May 24 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/683150b5becb8c7519c900a2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | May 23 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[City Council Internship](https://jobright.ai/jobs/info/68311b015b52832f63327fd5?utm_campaign=1056&utm_source=git)** | Denver Metropolitan Area | On Site | May 23 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (August/Fall start)](https://jobright.ai/jobs/info/67ccaf50e1fe595b62db634f?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Hybrid | May 23 |
 | ↳ | **[Community Outreach Intern](https://jobright.ai/jobs/info/68311569f8436f88c9a99863?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | May 23 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/68259208f802fcc9f70f4cdd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 23 |
@@ -103,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Kansas State University](http://www.k-state.edu/)** | **[Social Work Intern](https://jobright.ai/jobs/info/682e18ca51c302179859f981?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | May 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c96c83d91d34f17d32a264?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | May 21 |
 | ↳ | **[Internship (School Based Services- Prince Georges County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c3c87717c9ccf885d18a84?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | May 21 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/683443ee74d25400314fc1ef?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | May 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/682ebc31d2b4968eb38c397c?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | May 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/682eab4a064ff8dce1fc5037?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | May 20 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Postdoctoral Fellow- Forest Economics Policy](https://jobright.ai/jobs/info/682d371a76362e77aaea2c5f?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | May 20 |
@@ -126,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC4/T44 Washington Community Affairs Internship – Academic Year](https://jobright.ai/jobs/info/682bc9ec117fd005084b9e5f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 19 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[Public Affairs Intern (Association Office)](https://jobright.ai/jobs/info/682becfb802e2c34f4bf3432?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Communications & Media Channels Intern](https://jobright.ai/jobs/info/682bb5eaded1bb50cee78a20?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-600 Washington Street | On Site | May 19 |
-| **[City of Richmond, Virginia](http://www.rva.gov/)** | **[Intern*](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733e5e?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | May 19 |
-| **[SUNY Broome Community College](http://sunybroome.edu)** | **[Grant Program Director](https://jobright.ai/jobs/info/682b6e6cd3c45f5d5b153e90?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
