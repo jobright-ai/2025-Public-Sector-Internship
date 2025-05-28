@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/6836f9cb78976ce8f60ef474?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
+| **[City of Kirkland](http://www.kirklandwa.gov)** | **[Public Works Intern](https://jobright.ai/jobs/info/6836ddb5ccd1362a7dc974b5?utm_campaign=1056&utm_source=git)** | Kirkland, WA | On Site | May 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public Affairs Intern - Paid Manhattan NY Public Affairs Office](https://jobright.ai/jobs/info/68367c7c480eb864c097701b?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | **[PIDC](http://pidcphila.com)** | **[Economic Development Intern, Capitalization and Impact](https://jobright.ai/jobs/info/683675f8b13369de1a89689f?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | May 27 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer – Real Estate Zoning and Land Use](https://jobright.ai/jobs/info/68366886c55d58bce9f68fb6?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | May 27 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Trade & Northeast Asia](https://jobright.ai/jobs/info/6836320a3e46e10428e6b02d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | May 27 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Procurement Services Student Intern (9005)](https://jobright.ai/jobs/info/6836213083626c2d15e0751d?utm_campaign=1056&utm_source=git)** | Brooksville, FL | On Site | May 27 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/67fd3f90759cd464bfb07d9f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/681043479c069f106455a21d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | May 27 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern - WIC Outreach](https://jobright.ai/jobs/info/68367e4552bdf1e2c3f55150?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | May 26 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Summer College Intern - Federal Affairs - Washington D.C.](https://jobright.ai/jobs/info/683457cd98d886914f2cc894?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 26 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/6834038fe5cf27d7bd56a8e3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 25 |
@@ -102,10 +105,4 @@ For a complete list, click the following sortable link below:
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern](https://jobright.ai/jobs/info/6811370916c074f137a5470b?utm_campaign=1056&utm_source=git)** | Lewis Center, OH | On Site | May 22 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Co-Op Intern, Health Services Policy (Corporate)](https://jobright.ai/jobs/info/682b25a5e18d593986e614e5?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | May 22 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Co-op: CTM & Medicare Member Outreach: Complaints and Escalation Co-op (MZ)](https://jobright.ai/jobs/info/682eef752880733707782b46?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
-| **[Northwell Health](https://feinstein.northwell.edu/)** | **[LIJ Valley Stream Surgery Internship](https://jobright.ai/jobs/info/682e3d8c4b40d279fe1e0197?utm_campaign=1056&utm_source=git)** | 900 Franklin Ave, Valley Stream, NY, 11580, US | On Site | May 21 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Ctr For Rehabilitation Rsrch](https://jobright.ai/jobs/info/682e383c29b3aaa08e0c3a8d?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | May 21 |
-| **[Brattleboro Retreat](https://www.brattlebororetreat.org/)** | **[Post Intern Social Work Fellow](https://jobright.ai/jobs/info/682e33de07d3aeb0ca7146b2?utm_campaign=1056&utm_source=git)** | Brattleboro, VT | On Site | May 21 |
-| **[Alternative Family Services](https://www.afs4kids.org/)** | **[Clinical Intern – Mental Health Services, Sonoma County, CA](https://jobright.ai/jobs/info/682e2de4756ec84e83079acb?utm_campaign=1056&utm_source=git)** | Santa Rosa, CA | Hybrid | May 21 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Fall)](https://jobright.ai/jobs/info/682e28053403b37ac4b9299b?utm_campaign=1056&utm_source=git)** | Yankton, SD | On Site | May 21 |
-| **[Kansas State University](http://www.k-state.edu/)** | **[Social Work Intern](https://jobright.ai/jobs/info/682e18ca51c302179859f981?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
