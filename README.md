@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH ASST I -Temp (Draus Grixdale Farms)](https://jobright.ai/jobs/info/68375b2a940f34a12f3720ae?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | May 28 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/6836f9cb78976ce8f60ef474?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[City of Kirkland](http://www.kirklandwa.gov)** | **[Public Works Intern](https://jobright.ai/jobs/info/6836ddb5ccd1362a7dc974b5?utm_campaign=1056&utm_source=git)** | Kirkland, WA | On Site | May 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public Affairs Intern - Paid Manhattan NY Public Affairs Office](https://jobright.ai/jobs/info/68367c7c480eb864c097701b?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | May 27 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Intern - Office of Sustainability](https://jobright.ai/jobs/info/6830e42147563071c880c94e?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | May 23 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Advocacy Intern - Spring 2026](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdc22?utm_campaign=1056&utm_source=git)** | Springfield, Massachusetts Metropolitan Area | On Site | May 23 |
 | **[Humana](http://www.humana.com)** | **[Health Quality and Stars Intern – Summer 2025](https://jobright.ai/jobs/info/6830d20caf165100ccb7bd47?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | May 23 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Kroll Government Solutions](https://jobright.ai/jobs/info/6830c8e0c87779964d170015?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | May 23 |
 | **[Washoe County](http://www.washoecounty.gov)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/68254bb6fc7147998020073a?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | May 23 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[INTERN (Columbus)](https://jobright.ai/jobs/info/6830c7ed9da6804f3d8bb86f?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | May 23 |
 | **[Louisiana Public Health Institute](https://lphi.org)** | **[TFL Policy, System, Environment Fellowship](https://jobright.ai/jobs/info/6830c2bd0db4a57672cbc477?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | May 23 |
