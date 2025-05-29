@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68380a535826e27b695e37cf?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | May 29 |
 | **[Revvity](https://www.revvity.com/)** | **[Government Affairs & Communications Intern](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f65?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Internship on UN Partnerships, NYHQ or remote, 6 months](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f5f?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | May 28 |
 | **[AARP](http://www.aarp.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6837a272a05a054c2040d965?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 28 |
@@ -80,10 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Public Health Intern - WIC Outreach](https://jobright.ai/jobs/info/68367e4552bdf1e2c3f55150?utm_campaign=1056&utm_source=git)** | Kannapolis, NC | On Site | May 26 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Summer College Intern - Federal Affairs - Washington D.C.](https://jobright.ai/jobs/info/683457cd98d886914f2cc894?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 26 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/6834038fe5cf27d7bd56a8e3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 25 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/68344e8c29d5401fae69272b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 25 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
-| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
-| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
+| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
+| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | May 24 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Engagement Intern](https://jobright.ai/jobs/info/67db4d420922024e73cc0620?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/683150b5becb8c7519c900a2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | May 23 |
@@ -98,13 +98,10 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | May 23 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Government Relations Associate](https://jobright.ai/jobs/info/6830b281f56c2b11dfd4268c?utm_campaign=1056&utm_source=git)** | Lake Mary, FL | On Site | May 23 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Department Intern - ED/Behavioral Health](https://jobright.ai/jobs/info/6830afad3486a9532402bf5d?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | May 23 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6837f186d748e0393c34ff94?utm_campaign=1056&utm_source=git)** | East Marion, IL | On Site | May 22 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/682f7c8f500e1d5a61b15cec?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | May 22 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Public Affairs Intern - Year Round](https://jobright.ai/jobs/info/682f7a7409ab23357bb75620?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | May 22 |
 | ↳ | **[Public Affairs Intern - Year Round](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd6449d?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | May 22 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f698c911e15ae2919b90d?utm_campaign=1056&utm_source=git)** | USA MA Tewksbury | On Site | May 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | May 22 |
-| **[Best Friends Animal Society](https://bestfriends.org/)** | **[Intern, Grants Management](https://jobright.ai/jobs/info/682f488e1f3bc0f73ad6950e?utm_campaign=1056&utm_source=git)** | United States | Remote | May 22 |
-| **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern - Redevelopment](https://jobright.ai/jobs/info/682f3dd2448c35e3c0ec0741?utm_campaign=1056&utm_source=git)** | Fort Wayne, IN | On Site | May 22 |
-| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern](https://jobright.ai/jobs/info/6811370916c074f137a5470b?utm_campaign=1056&utm_source=git)** | Lewis Center, OH | On Site | May 22 |
-| **[Carnival Cruise Line](http://www.carnival.com)** | **[Co-Op Intern, Health Services Policy (Corporate)](https://jobright.ai/jobs/info/682b25a5e18d593986e614e5?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
