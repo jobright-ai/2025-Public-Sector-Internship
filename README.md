@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[Government Affairs & Communications Intern](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f65?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 28 |
+| **[UNICEF](https://agora.unicef.org/)** | **[Internship on UN Partnerships, NYHQ or remote, 6 months](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f5f?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | May 28 |
 | **[AARP](http://www.aarp.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6837a272a05a054c2040d965?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 28 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Trees for Seattle Intern](https://jobright.ai/jobs/info/683796afef8f94bbf9bcc9ec?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | May 28 |
 | **[AARP](http://www.aarp.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6837688bb922f0e6cd132685?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | May 28 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern - Redevelopment](https://jobright.ai/jobs/info/682f3dd2448c35e3c0ec0741?utm_campaign=1056&utm_source=git)** | Fort Wayne, IN | On Site | May 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern](https://jobright.ai/jobs/info/6811370916c074f137a5470b?utm_campaign=1056&utm_source=git)** | Lewis Center, OH | On Site | May 22 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Co-Op Intern, Health Services Policy (Corporate)](https://jobright.ai/jobs/info/682b25a5e18d593986e614e5?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | May 22 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[College Co-op: CTM & Medicare Member Outreach: Complaints and Escalation Co-op (MZ)](https://jobright.ai/jobs/info/682eef752880733707782b46?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
