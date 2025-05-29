@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Lancaster](https://www.lancastercountypa.gov)** | **[County Social Casework Intern (2 vacancies)](https://jobright.ai/jobs/info/683863db8b6d08106ddcb8c6?utm_campaign=1056&utm_source=git)** | Behavioral Health Developmental Services-750 Eden Road, Lancaster, PA | On Site | May 29 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68385575324ba89f1093ada1?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 29 |
+| ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/68385575324ba89f1093adac?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | On Site | May 29 |
+| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/6838395afa0cab6afdd41395?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | May 29 |
+| **[City of Kirkland](http://www.kirklandwa.gov)** | **[Public Works Intern](https://jobright.ai/jobs/info/6838395afa0cab6afdd41410?utm_campaign=1056&utm_source=git)** | Kirkland, WA | On Site | May 29 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Audubon Conservation Ranching Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d96a5?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68380a535826e27b695e37cf?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | May 29 |
 | **[Revvity](https://www.revvity.com/)** | **[Government Affairs & Communications Intern](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f65?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Internship on UN Partnerships, NYHQ or remote, 6 months](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f5f?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | May 28 |
@@ -99,9 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Government Relations Associate](https://jobright.ai/jobs/info/6830b281f56c2b11dfd4268c?utm_campaign=1056&utm_source=git)** | Lake Mary, FL | On Site | May 23 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Department Intern - ED/Behavioral Health](https://jobright.ai/jobs/info/6830afad3486a9532402bf5d?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | May 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6837f186d748e0393c34ff94?utm_campaign=1056&utm_source=git)** | East Marion, IL | On Site | May 22 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/682f7c8f500e1d5a61b15cec?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | May 22 |
-| **[Energy Northwest](https://www.energy-northwest.com)** | **[Public Affairs Intern - Year Round](https://jobright.ai/jobs/info/682f7a7409ab23357bb75620?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | May 22 |
-| ↳ | **[Public Affairs Intern - Year Round](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd6449d?utm_campaign=1056&utm_source=git)** | Richland, WA | On Site | May 22 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f698c911e15ae2919b90d?utm_campaign=1056&utm_source=git)** | USA MA Tewksbury | On Site | May 22 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
