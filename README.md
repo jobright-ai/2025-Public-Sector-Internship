@@ -57,23 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/6838eed1d2f8f2792f747e73?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | May 29 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Special Programs Team (25-26)](https://jobright.ai/jobs/info/6838ac18999e0c8c5e8146ab?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | On Site | May 29 |
-| **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/6838a2fe419e28042b4ac4c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 29 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Special Programs Team (25-26)](https://jobright.ai/jobs/info/6838a03c593ebb186d8f1105?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | May 29 |
+| ↳ | **[Intern - Special Programs Team (25-26)](https://jobright.ai/jobs/info/6838a03c593ebb186d8f1105?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | May 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6838b0341aafedfea489edff?utm_campaign=1056&utm_source=git)** | Venice, FL | On Site | May 29 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant - SPRA](https://jobright.ai/jobs/info/683884bb8f7183089e642237?utm_campaign=1056&utm_source=git)** | Richmond, KY | On Site | May 29 |
 | **[ProPharma](http://www.propharmagroup.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68387d0d3ec73aae1b80483e?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[County of Lancaster](https://www.lancastercountypa.gov)** | **[County Social Casework Intern (2 vacancies)](https://jobright.ai/jobs/info/683863db8b6d08106ddcb8c6?utm_campaign=1056&utm_source=git)** | Behavioral Health Developmental Services-750 Eden Road, Lancaster, PA | On Site | May 29 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68385575324ba89f1093ad9d?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 29 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[College Pipeline Internship](https://jobright.ai/jobs/info/68385575324ba89f1093ada1?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | May 29 |
 | ↳ | **[College Pipeline Internship](https://jobright.ai/jobs/info/68385575324ba89f1093adac?utm_campaign=1056&utm_source=git)** | Bakersfield, CA | On Site | May 29 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/6838395afa0cab6afdd41395?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | May 29 |
-| **[City of Kirkland](http://www.kirklandwa.gov)** | **[Public Works Intern](https://jobright.ai/jobs/info/6838395afa0cab6afdd41410?utm_campaign=1056&utm_source=git)** | Kirkland, WA | On Site | May 29 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Audubon Conservation Ranching Intern](https://jobright.ai/jobs/info/681b9a45c9cebebc972d96a5?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | May 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68380a535826e27b695e37cf?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | May 29 |
 | **[Revvity](https://www.revvity.com/)** | **[Government Affairs & Communications Intern](https://jobright.ai/jobs/info/6837cf8069f3c828fed35f65?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[AARP](http://www.aarp.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6837a272a05a054c2040d965?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 28 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Trees for Seattle Intern](https://jobright.ai/jobs/info/683796afef8f94bbf9bcc9ec?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | May 28 |
-| **[AARP](http://www.aarp.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6837688bb922f0e6cd132685?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | May 28 |
+| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/6837688bb922f0e6cd132685?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | May 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH ASST I -Temp (Draus Grixdale Farms)](https://jobright.ai/jobs/info/68375b2a940f34a12f3720ae?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | May 28 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Special Investigations Unit)](https://jobright.ai/jobs/info/6836f9cb78976ce8f60ef474?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern (August/Fall start)](https://jobright.ai/jobs/info/67ccaf50e1fe595b62db634f?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Hybrid | May 27 |
@@ -93,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[Summer College Intern - Federal Affairs - Washington D.C.](https://jobright.ai/jobs/info/683457cd98d886914f2cc894?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | May 26 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/6834038fe5cf27d7bd56a8e3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | May 25 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | May 25 |
-| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
-| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
+| **[Sierra Club](http://sierraclub.org)** | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deac?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | May 24 |
+| ↳ | **[Rural Youth Organizing Fellow](https://jobright.ai/jobs/info/683220b862f0b2a7a793deed?utm_campaign=1056&utm_source=git)** | Fort Kent, ME | Hybrid | May 24 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | May 24 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Resettlement Internship - Winter/Spring 2025 - 2024954](https://jobright.ai/jobs/info/683150b5becb8c7519c900a2?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | May 23 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/68311569f8436f88c9a99863?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | May 23 |
@@ -108,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | May 23 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Government Relations Associate](https://jobright.ai/jobs/info/6830b281f56c2b11dfd4268c?utm_campaign=1056&utm_source=git)** | Lake Mary, FL | On Site | May 23 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Department Intern - ED/Behavioral Health](https://jobright.ai/jobs/info/6830afad3486a9532402bf5d?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | May 23 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6837f186d748e0393c34ff94?utm_campaign=1056&utm_source=git)** | East Marion, IL | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
