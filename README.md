@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sunland Asphalt & Construction, LLC](http://www.sunlandasphalt.com)** | **[Intern - Public Works](https://jobright.ai/jobs/info/6844aa9745f198a7c18e2ddc?utm_campaign=1056&utm_source=git)** | Mesa, AZ | On Site | Jun 07 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Freeman Chair in China Studies (Summer 2025)](https://jobright.ai/jobs/info/68441aae615c8f9b45e4f537?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jun 07 |
 | **[MBTA](http://mbta.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06c8d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 06 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e6c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jun 06 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Youth Villages](http://www.youthvillages.org)** | **[Federal Policy Internship](https://jobright.ai/jobs/info/6842beea730820da024d6e6a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 06 |
 | **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Criminal Justice Research Assistant (Intern)](https://jobright.ai/jobs/info/68427c7930c5c9beea507cda?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Engagement Internship, Brookings Metro (Job ID 2025-3685)](https://jobright.ai/jobs/info/6842b7166d9d4289b49826f6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 06 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Communications & Integration, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa35f0?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Police Cadet (Intern)](https://jobright.ai/jobs/info/68429501e9520a51adaa35fb?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Communications & Integration, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/684289a062bcd3ab9bf4d924?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Police Cadet (Intern)](https://jobright.ai/jobs/info/684272eebaa44f6876262ea4?utm_campaign=1056&utm_source=git)** | 1425 Courthouse Rd, Arlington, VA, 22201, US | On Site | Jun 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Afghan Youth Mentor Intern](https://jobright.ai/jobs/info/6842594a9648893cb66b7a04?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jun 05 |
 | **[A New Leaf](https://www.turnanewleaf.org/)** | **[WV Housing Assistance Center - Intern](https://jobright.ai/jobs/info/68424dd0796ef24abc3b6dcb?utm_campaign=1056&utm_source=git)** | Surprise, AZ, USA | On Site | Jun 05 |
@@ -100,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Native American and Indigenous Economies Internship, Brookings Metro (Job ID 2025-3684)](https://jobright.ai/jobs/info/684103049472c9a3a9f45b9e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Fall 2025, Research and Events Internship, Center on the United States and Europe, Foreign Policy (Job ID 2025-3683)](https://jobright.ai/jobs/info/684103049472c9a3a9f45b9d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Fall 2025, Research Internship, Center for Technology Innovation, Governance Studies (Job ID 2025-3682)](https://jobright.ai/jobs/info/6840f9b0b3b146380c127a85?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
-| **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1fa7a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
+| **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1f940?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
 | **[City of Fremont](https://www.fremont.gov)** | **[WPCA Part Time Intern](https://jobright.ai/jobs/info/6841e40455065cb19877e1ac?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Jun 04 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Procurement Services Student Intern (9005)](https://jobright.ai/jobs/info/683d290aeb26debe8ea4e523?utm_campaign=1056&utm_source=git)** | Brooksville, FL | On Site | Jun 04 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[2025 Take the Lead Fellowship](https://jobright.ai/jobs/info/6840b031838bfe938d22ec40?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Jun 04 |
