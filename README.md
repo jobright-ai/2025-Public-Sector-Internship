@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/684867a15b70cd083c79aa89?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Jun 10 |
+| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ec6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Women's Rights Division Intern ](https://jobright.ai/jobs/info/6847f70dc72d2e98f8016b38?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 10 |
 | **[University of Utah](http://utah.edu)** | **[Public Programs Intern](https://jobright.ai/jobs/info/6847ced72929d984e04c6b1f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jun 09 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Energy Efficiency Outreach Paid Intern / Hybrid in Boston, MA](https://jobright.ai/jobs/info/6847b67a41cd9cebd9b19d16?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jun 09 |
-| **[A New Leaf](https://www.turnanewleaf.org/)** | **[2025 - 2026 Foster Care Intern (One-Year Placement)](https://jobright.ai/jobs/info/6847941291105b416093edc6?utm_campaign=1056&utm_source=git)** | Mesa, AZ, USA | On Site | Jun 09 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Ministry Specialist (Summer Intern) - Richmond/Fulshear](https://jobright.ai/jobs/info/68478c93f76396f59fb3842b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 09 |
-| ↳ | **[Ministry Specialist (Summer Intern) - Richmond/Fulshear](https://jobright.ai/jobs/info/68474b3149d66ce393068a8b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 09 |
+| **[State of New Hampshire](https://www.oplc.nh.gov/board-accountancy)** | **[EXECUTIVE COUNCIL INTERN](https://jobright.ai/jobs/info/684879ff076d932c8167fe46?utm_campaign=1056&utm_source=git)** | New Hampshire, United States | Hybrid | Jun 09 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Ministry Specialist (Summer Intern) - Richmond/Fulshear](https://jobright.ai/jobs/info/68474b3149d66ce393068a8b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 09 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/684738f2aa02f81a171dfd22?utm_campaign=1056&utm_source=git)** | 1325 N Fiesta Blvd | On Site | Jun 09 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Community Outreach](https://jobright.ai/jobs/info/684734b03b4bb73bd22c0840?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Jun 09 |
 | ↳ | **[Intern – Community Outreach](https://jobright.ai/jobs/info/684725e6ae27a4ff15e61e32?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jun 09 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Research and Innovation](https://jobright.ai/jobs/info/684353728c77815ebc127ff6?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Political Involvement Committee](https://jobright.ai/jobs/info/6846c31ce4f121300f698b5d?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 09 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Community Health Improvement Internship](https://jobright.ai/jobs/info/68480faf78724d2d992aae53?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 09 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[Behavioral Health Fellow - San Francisco Department of Public Health (9910)](https://jobright.ai/jobs/info/684660436ed7686fa5135177?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 08 |
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[SOLARCORPS Program Operations Fellow (Remote)](https://jobright.ai/jobs/info/684786a8a566a684f36f67ee?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9b18?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 08 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/684570fa2bda8c0f0b67a0cc?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Jun 08 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Native American and Indigenous Economies Internship, Brookings Metro (Job ID 2025-3684)](https://jobright.ai/jobs/info/684103049472c9a3a9f45b9e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Fall 2025, Research and Events Internship, Center on the United States and Europe, Foreign Policy (Job ID 2025-3683)](https://jobright.ai/jobs/info/684103049472c9a3a9f45b9d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Fall 2025, Research Internship, Center for Technology Innovation, Governance Studies (Job ID 2025-3682)](https://jobright.ai/jobs/info/6840f9b0b3b146380c127a85?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 04 |
-| **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1fa7a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
+| **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1f940?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
 | **[City of Fremont](https://www.fremont.gov)** | **[WPCA Part Time Intern](https://jobright.ai/jobs/info/6841e40455065cb19877e1ac?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Jun 04 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Procurement Services Student Intern (9005)](https://jobright.ai/jobs/info/683d290aeb26debe8ea4e523?utm_campaign=1056&utm_source=git)** | Brooksville, FL | On Site | Jun 04 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[2025 Take the Lead Fellowship](https://jobright.ai/jobs/info/6840b031838bfe938d22ec40?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Jun 04 |
@@ -122,7 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f070?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | Remote | Jun 04 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 04 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Valued Based Care- Intern](https://jobright.ai/jobs/info/683feeed939fe882bc5a1bb4?utm_campaign=1056&utm_source=git)** | Los Angeles, California | On Site | Jun 03 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Social Work - MSW](https://jobright.ai/jobs/info/683fbac6cbdcfae2f63a1b25?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Jun 03 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6840da91640e14bb27f5c182?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 03 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/683f8533e2d083e3200557a2?utm_campaign=1056&utm_source=git)** | Greenville, IL | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
