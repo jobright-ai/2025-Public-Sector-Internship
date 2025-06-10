@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Young Life](https://sworlando.younglife.org)** | **[Ministry Specialist (Summer Intern) - Richmond/Fulshear](https://jobright.ai/jobs/info/68474b3149d66ce393068a8b?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 09 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Emergency Management Intern](https://jobright.ai/jobs/info/684738f2aa02f81a171dfd22?utm_campaign=1056&utm_source=git)** | 1325 N Fiesta Blvd | On Site | Jun 09 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Community Outreach](https://jobright.ai/jobs/info/684734b03b4bb73bd22c0840?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Jun 09 |
 | ↳ | **[Intern – Community Outreach](https://jobright.ai/jobs/info/684725e6ae27a4ff15e61e32?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jun 09 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/67fd8da55e4c98c4595fcadc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 09 |
-| **[UNDP Careers](https://www.undp.org)** | **[Internship - Research and Innovation](https://jobright.ai/jobs/info/684353728c77815ebc127ff6?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 09 |
+| **[UNDP Careers](https://www.undp.org)** | **[Internship - Governance Data and Analytics](https://jobright.ai/jobs/info/684353728c77815ebc127fdb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 09 |
+| ↳ | **[Internship - Research and Innovation](https://jobright.ai/jobs/info/684353728c77815ebc127ff6?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Political Involvement Committee](https://jobright.ai/jobs/info/6846c31ce4f121300f698b5d?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 09 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Behavioral Health Fellow - San Francisco Department of Public Health (9910)](https://jobright.ai/jobs/info/684660436ed7686fa5135177?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 08 |
+| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9b18?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 08 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/684570fa2bda8c0f0b67a0cc?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Jun 08 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6845655e4f50b63db8425eee?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 08 |
 | **[American Red Cross](http://redcross.org)** | **[SAF Paid Intern](https://jobright.ai/jobs/info/68397aee109bc504a6eeaaab?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 07 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e6c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jun 06 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[BUY YOUTH LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68433d82cf23b7081b52da4e?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Jun 06 |
 | ↳ | **[BUY YOUTH LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68433d14f0482b9d99de4f90?utm_campaign=1056&utm_source=git)** | Quincy, Ma | On Site | Jun 06 |
-| **[UNDP Careers](https://www.undp.org)** | **[Internship - Governance Data and Analytics](https://jobright.ai/jobs/info/684353728c77815ebc127fdb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 06 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Counterpoint Global- Summer Intern](https://jobright.ai/jobs/info/68430ba3d43d42fd92de5e5a?utm_campaign=1056&utm_source=git)** | New York, New York, United States of America | On Site | Jun 06 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Fall 2025](https://jobright.ai/jobs/info/6842fb717f2906af4687a7ce?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 06 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Federal Policy Internship](https://jobright.ai/jobs/info/6842beea730820da024d6e6a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 06 |
@@ -117,12 +119,11 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f070?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | Remote | Jun 04 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 04 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Valued Based Care- Intern](https://jobright.ai/jobs/info/683feeed939fe882bc5a1bb4?utm_campaign=1056&utm_source=git)** | Los Angeles, California | On Site | Jun 03 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9b18?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jun 03 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - Social Work - MSW](https://jobright.ai/jobs/info/683fbac6cbdcfae2f63a1b25?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Jun 03 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6840da91640e14bb27f5c182?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 03 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/683f8533e2d083e3200557a2?utm_campaign=1056&utm_source=git)** | Greenville, IL | On Site | Jun 03 |
-| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Human Services Internship (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d398?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Jun 03 |
 | **[Hopelab](https://hopelab.org)** | **[Policy Intern](https://jobright.ai/jobs/info/683f56dab9d6f40322e65a45?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 03 |
+| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Human Services Internship (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/683f4cfd07c85b31cb7f6e97?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Jun 03 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - UTRGV Grant Funded (25-26)](https://jobright.ai/jobs/info/683f4cfd07c85b31cb7f7092?utm_campaign=1056&utm_source=git)** | WESLACO, TEXAS | On Site | Jun 03 |
 | ↳ | **[Social Worker Intern - UTRGV Grant Funded (25-26)](https://jobright.ai/jobs/info/683f4cc766a6181a9f58d389?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | On Site | Jun 03 |
 | ↳ | **[Social Worker Intern - UTRGV Grant Funded (25-26)](https://jobright.ai/jobs/info/683f46686b070950bfe2a71f?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Jun 03 |
