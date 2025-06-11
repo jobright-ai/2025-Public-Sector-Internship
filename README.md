@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ROCK](http://www.rockventures.com/)** | **[Philanthropic Intern](https://jobright.ai/jobs/info/6848c14f8a65d9e9aef5e5e3?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jun 10 |
+| **[Discovery Land Company](http://discoverylandco.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68489a2812afe2185e6449b1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Jun 10 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Summer College Intern - Security & Emergency Preparedness](https://jobright.ai/jobs/info/6848b7e6705df4254d339096?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Jun 10 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Summer 2025)](https://jobright.ai/jobs/info/6848959d7f92b9d5c784e1b6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 10 |
+| **[Discovery Land Company](http://discoverylandco.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68488f341b350cec07d2dadf?utm_campaign=1056&utm_source=git)** | Discovery Land Company (Remote) | Remote | Jun 10 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Westminster RRP) 2025-2026 Undergraduate Social Work](https://jobright.ai/jobs/info/68488de91d19366aff0846ff?utm_campaign=1056&utm_source=git)** | Westminster, MD | On Site | Jun 10 |
+| **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684888437fcfd40c9cbcffca?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Audit - Business Student Unit (Year-Round Intern)](https://jobright.ai/jobs/info/6848880aea5e7f8f7f7ae580?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina | On Site | Jun 10 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/684867a15b70cd083c79aa89?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ec6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Women's Rights Division Intern ](https://jobright.ai/jobs/info/6847f70dc72d2e98f8016b38?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 10 |
@@ -102,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Advancement - Individual Giving Internship](https://jobright.ai/jobs/info/6841f054c15bdcafb14a2323?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 05 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/6841e7ada9cc09dc8db1030a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 05 |
 | **[Segal](https://www.segalco.com)** | **[National Retirement Summer Intern](https://jobright.ai/jobs/info/6841de0ced225d22ed9b0a0e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 05 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[USFWS Internship - Work Study Student Worker](https://jobright.ai/jobs/info/6841c8dc7a735509e1eb4920?utm_campaign=1056&utm_source=git)** | UAM | Monticello Campus | On Site | Jun 05 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Corporate Citizenship and Sustainability Intern](https://jobright.ai/jobs/info/6841acf2ecf80d2ec601ee88?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jun 05 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern (July Start)](https://jobright.ai/jobs/info/68088184c8135c53d930c31a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Jun 05 |
 | **[Metrea](https://www.metrea.aero)** | **[Fall 2025 Strategy Internship](https://jobright.ai/jobs/info/6823aadfd08c1bf2cd0fce7f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
@@ -122,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[SEIU](http://www.seiu.org)** | **[Political Department Intern - Member Programs](https://jobright.ai/jobs/info/68406fd71bdbc79ff9ef0ddd?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 04 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f070?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | Remote | Jun 04 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 04 |
-| **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Valued Based Care- Intern](https://jobright.ai/jobs/info/683feeed939fe882bc5a1bb4?utm_campaign=1056&utm_source=git)** | Los Angeles, California | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
