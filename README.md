@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Young Life](https://sworlando.younglife.org)** | **[Area Intern - Catholic Relations](https://jobright.ai/jobs/info/684a12bfc45010bb7a61eff3?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 11 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2025 - College Intern - Hilton Head Island, SC (Safety & Security)](https://jobright.ai/jobs/info/6849f7956b567304c99fc455?utm_campaign=1056&utm_source=git)** | Marriott's Sea Pines | On Site | Jun 11 |
+| **[DGA Group](https://www.dentonsglobaladvisors.com)** | **[Intern – Tech Policy (DGA ASG Internship Program- Summer 2025)](https://jobright.ai/jobs/info/6849e94d279f661871a721ca?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 11 |
 | **[Metrea](https://www.metrea.aero)** | **[Fall 2025 Strategy Internship](https://jobright.ai/jobs/info/6849db4464cdd320419f5a8d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 11 |
+| **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Brazil and Southern Cone](https://jobright.ai/jobs/info/6849ee596f5358f0dde4b939?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6849680c40bb6fa098c58187?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Jun 11 |
 | **[Palmetto GBA](http://www.palmettogba.com/)** | **[Government Audit - Business Student Unit (Year-Round Intern)](https://jobright.ai/jobs/info/68491001b4f292dbfce484b8?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Jun 10 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[ProBAR - UTRGV Social Worker Intern](https://jobright.ai/jobs/info/6848de5fb67bd2e964a90126?utm_campaign=1056&utm_source=git)** | TX ProBAR, Harlingen, Texas, United States of America | On Site | Jun 10 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Audit - Business Student Unit (Year-Round Intern)](https://jobright.ai/jobs/info/6848880aea5e7f8f7f7ae580?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina | On Site | Jun 10 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/68490dd254466755f3a530b8?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jun 10 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/68490df154466755f3a53a6f?utm_campaign=1056&utm_source=git)** | Monticello, MN | On Site | Jun 10 |
-| ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/684913ec8196084fd3c21db1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 10 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/684867a15b70cd083c79aa89?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ec6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
 | **[Human Rights Watch](http://www.hrw.org/)** | **[Women's Rights Division Intern ](https://jobright.ai/jobs/info/6847f70dc72d2e98f8016b38?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Jun 10 |
@@ -124,8 +127,4 @@ For a complete list, click the following sortable link below:
 | **[AAON, Inc.](https://www.aaon.com)** | **[Corporate Citizenship and Sustainability Intern](https://jobright.ai/jobs/info/6841acf2ecf80d2ec601ee88?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jun 05 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Engagement Intern (July Start)](https://jobright.ai/jobs/info/68088184c8135c53d930c31a?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Jun 05 |
 | **[Metrea](https://www.metrea.aero)** | **[Fall 2025 Strategy Internship](https://jobright.ai/jobs/info/6823aadfd08c1bf2cd0fce7f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 05 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern (August/Fall Start)](https://jobright.ai/jobs/info/6823e16a59fcce5395c77b0a?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Jun 04 |
-| **[Primerica](https://www.primerica.com)** | **[LRA-2025-1i- Spark Legislative Specialist Intern](https://jobright.ai/jobs/info/68413c2731f3fad94317b2ed?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Jun 04 |
-| **[Stellantis](https://www.stellantis.com)** | **[Well-Being Health and Safety (WBHS) Student Program](https://jobright.ai/jobs/info/68282460c9ccd81de948c3ed?utm_campaign=1056&utm_source=git)** | Dundee, MI | On Site | Jun 04 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (MSW-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/6806787f341f17ed8736556c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
