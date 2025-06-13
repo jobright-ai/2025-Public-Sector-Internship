@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Intern](https://jobright.ai/jobs/info/684bfc4a6d65db3f7dbae26c?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Jun 13 |
 | **[SCO Family of Services](https://sco.org/)** | **[TST PREVENTATIVE UNPAID INTERN](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e48?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jun 13 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Dept. of Public Social Services Paid Student Internship](https://jobright.ai/jobs/info/684b9d45a33f13642d254335?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 12 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Maternal Infant Health focused Community Health Worker (CHW) Internship](https://jobright.ai/jobs/info/684b96d24d77e2a6c381712a?utm_campaign=1056&utm_source=git)** | Southfield, MI | Hybrid | Jun 12 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Field Canvass Internship / Massachusetts, Michigan, Minnesota, Pennsylvania](https://jobright.ai/jobs/info/684b002ef57b0afef10ea937?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 12 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2025 Public Affairs Internship - DC](https://jobright.ai/jobs/info/684af5d7f7c640f29d299148?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 12 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Intern - Public Affairs and Corporate Communications](https://jobright.ai/jobs/info/684af5d7f7c640f29d29913c?utm_campaign=1056&utm_source=git)** | US-PA-Philadelphia | On Site | Jun 12 |
+| **[City of Rancho Palos Verdes](http://www.rpvca.gov)** | **[INTERN](https://jobright.ai/jobs/info/684c228ac232c703ef8ea51e?utm_campaign=1056&utm_source=git)** | Rancho Palos Verdes, CA | On Site | Jun 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Justice Intern](https://jobright.ai/jobs/info/684ae4abd9061cd112933b92?utm_campaign=1056&utm_source=git)** | St. Paul, MN | On Site | Jun 12 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/684ae23a7dc079acda49c2c2?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Jun 12 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Research Homeless Services Intern](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5f8b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 12 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[McLarty Associates](https://maglobal.com)** | **[Intern/Graduate Fellow, Brazil and Southern Cone](https://jobright.ai/jobs/info/6849ee596f5358f0dde4b939?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 11 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Jun 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6849680c40bb6fa098c58187?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Jun 11 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Asia Maritime Transparency Initiative](https://jobright.ai/jobs/info/684c013a4e0054714b6e8caf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 11 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/684a84c32b948718a2c41251?utm_campaign=1056&utm_source=git)** | Tyler, TX | On Site | Jun 10 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/684a84c32b948718a2c41296?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Jun 10 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/684a84c32b948718a2c412e7?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Jun 10 |
@@ -135,7 +138,4 @@ For a complete list, click the following sortable link below:
 | **[American Red Cross](http://redcross.org)** | **[SAF Paid Intern](https://jobright.ai/jobs/info/68397aee109bc504a6eeaaab?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 07 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Freeman Chair in China Studies (Summer 2025)](https://jobright.ai/jobs/info/68441aae615c8f9b45e4f537?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jun 07 |
 | **[MBTA](http://mbta.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06c8d?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 06 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e6c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jun 06 |
-| **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[BUY YOUTH LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68433d82cf23b7081b52da4e?utm_campaign=1056&utm_source=git)** | Quincy, MA | On Site | Jun 06 |
-| ↳ | **[BUY YOUTH LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68433d14f0482b9d99de4f90?utm_campaign=1056&utm_source=git)** | Quincy, Ma | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
