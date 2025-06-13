@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 13 |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Social Services Intern (Fall 2025)](https://jobright.ai/jobs/info/684c72553af50420ea06b129?utm_campaign=1056&utm_source=git)** | Atlanta | Hybrid | Jun 13 |
+| ↳ | **[Forced Marriage Initiative: Client Services Internship Fall 2025](https://jobright.ai/jobs/info/684c6af97e723989f512448f?utm_campaign=1056&utm_source=git)** | Falls Church, VA | On Site | Jun 13 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Intern](https://jobright.ai/jobs/info/684bfc4a6d65db3f7dbae26c?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Jun 13 |
 | **[SCO Family of Services](https://sco.org/)** | **[TST PREVENTATIVE UNPAID INTERN](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e48?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jun 13 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Dept. of Public Social Services Paid Student Internship](https://jobright.ai/jobs/info/684b9d45a33f13642d254335?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 12 |
@@ -75,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Maternal Infant Health focused Community Health Worker (CHW) Internship](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9565?utm_campaign=1056&utm_source=git)** | Southfield, MI | Hybrid | Jun 12 |
 | **[Climate Policy Initiative](https://www.climatepolicyinitiative.org/)** | **[Climate Finance Intern](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d93bf?utm_campaign=1056&utm_source=git)** | San Francisco, California, United States | On Site | Jun 12 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Intern Oral Health](https://jobright.ai/jobs/info/684b1ffaf2de8740c0cc2db6?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jun 12 |
-| **[Sarasota County Government](https://www.scgov.net/)** | **[Parks & Recreation Interpretive Program Specialist Intern - Beach and Water Access - R15707](https://jobright.ai/jobs/info/684b122f4084419ccd42662f?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jun 12 |
-| ↳ | **[Emergency Management Intern - R15698](https://jobright.ai/jobs/info/684b0943e5bad6b699efec8e?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jun 12 |
+| **[Sarasota County Government](https://www.scgov.net/)** | **[Emergency Management Intern - R15698](https://jobright.ai/jobs/info/684b0943e5bad6b699efec8e?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jun 12 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Field Canvass Internship / Massachusetts, Michigan, Minnesota, Pennsylvania](https://jobright.ai/jobs/info/684b002ef57b0afef10ea937?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 12 |
 | **[SKDK](http://skdknick.com)** | **[Summer 2025 Public Affairs Internship - DC](https://jobright.ai/jobs/info/684af5d7f7c640f29d299148?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Jun 12 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Intern - Public Affairs and Corporate Communications](https://jobright.ai/jobs/info/684af5d7f7c640f29d29913c?utm_campaign=1056&utm_source=git)** | US-PA-Philadelphia | On Site | Jun 12 |
