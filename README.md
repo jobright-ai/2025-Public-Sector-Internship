@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alameda County Water District](https://acwd.org/)** | **[Water Resources Department Interns](https://jobright.ai/jobs/info/684dbce95aacc289c7e62ecd?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Jun 14 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | Jun 14 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Intern - Integrated Behavioral Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e61?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
+| **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Jun 14 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Intern - Center for the Treatment of Eating Disorders](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e5e?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
+| ↳ | **[Social Work Intern - Integrated Behavioral Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e61?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
 | ↳ | **[Social Work Intern - Inpatient Mental Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297ead?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Jun 13 |
-| ↳ | **[Social Work Intern - Center for the Treatment of Eating Disorders](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e5e?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS - Current Ivy Tech students only](https://jobright.ai/jobs/info/684ceac35c914a5780453f80?utm_campaign=1056&utm_source=git)** | East Chicago, IN | On Site | Jun 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | ↳ | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 13 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Social Services Intern (Fall 2025)](https://jobright.ai/jobs/info/684c72553af50420ea06b129?utm_campaign=1056&utm_source=git)** | Atlanta | Hybrid | Jun 13 |
 | ↳ | **[Forced Marriage Initiative: Client Services Internship Fall 2025](https://jobright.ai/jobs/info/684c6af97e723989f512448f?utm_campaign=1056&utm_source=git)** | Falls Church, VA | On Site | Jun 13 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Jun 13 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Intern](https://jobright.ai/jobs/info/684bfc4a6d65db3f7dbae26c?utm_campaign=1056&utm_source=git)** | Gering, NE | On Site | Jun 13 |
 | **[SCO Family of Services](https://sco.org/)** | **[TST PREVENTATIVE UNPAID INTERN](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e48?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jun 13 |
 | **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[SACOG's Early Career Experience Internship Program](https://jobright.ai/jobs/info/684d241f92e41206fd4e7956?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Jun 12 |
