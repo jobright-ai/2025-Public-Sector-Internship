@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS - Current Ivy Tech students only](https://jobright.ai/jobs/info/684ceac35c914a5780453f80?utm_campaign=1056&utm_source=git)** | East Chicago, IN | On Site | Jun 13 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| ↳ | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Intern - Funding Agreements Department](https://jobright.ai/jobs/info/684cdde70abcd95f34868d2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 13 |
+| **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Opioid Treatment Program Internship](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5bdb?utm_campaign=1056&utm_source=git)** | Orange, MA | On Site | Jun 13 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Social Services Intern (Fall 2025)](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c04ea?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jun 13 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[Intern - Special Programs Team (25-26)](https://jobright.ai/jobs/info/684ca97b78c40262be18baf6?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Jun 13 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Strategas Policy (Summer 2025)](https://jobright.ai/jobs/info/684c9ab348b6bce57c46bd41?utm_campaign=1056&utm_source=git)** | DC-Washington DC | On Site | Jun 13 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental and Public Health Advocacy](https://jobright.ai/jobs/info/6848ca1b2f2d70b89f5d5c28?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 10 |
 | **[ROCK](http://www.rockventures.com/)** | **[Philanthropic Intern](https://jobright.ai/jobs/info/6848c14f8a65d9e9aef5e5e3?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jun 10 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Westminster RRP) 2025-2026 Undergraduate Social Work](https://jobright.ai/jobs/info/68488de91d19366aff0846ff?utm_campaign=1056&utm_source=git)** | Westminster, MD | On Site | Jun 10 |
+| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Audit - Business Student Unit (Year-Round Intern)](https://jobright.ai/jobs/info/68488846ea5e7f8f7f7aea22?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/684888437fcfd40c9cbcffca?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
-| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Government Audit - Business Student Unit (Year-Round Intern)](https://jobright.ai/jobs/info/6848880aea5e7f8f7f7ae580?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina | On Site | Jun 10 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/68490dd254466755f3a530b8?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jun 10 |
 | ↳ | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/68490df154466755f3a53a6f?utm_campaign=1056&utm_source=git)** | Monticello, MN | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Policy & Representation Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/68485bc2d11080ce51217ec6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
@@ -136,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[SOLARCORPS Program Operations Fellow (Remote)](https://jobright.ai/jobs/info/684786a8a566a684f36f67ee?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2025 Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/684570fa2bda8c0f0b67a0cc?utm_campaign=1056&utm_source=git)** | Princeville, HI | On Site | Jun 08 |
 | **[American Red Cross](http://redcross.org)** | **[SAF Paid Intern](https://jobright.ai/jobs/info/68397aee109bc504a6eeaaab?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 07 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Freeman Chair in China Studies (Summer 2025)](https://jobright.ai/jobs/info/68441aae615c8f9b45e4f537?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jun 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
