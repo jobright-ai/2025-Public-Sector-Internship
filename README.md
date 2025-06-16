@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Jun 15 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern Providence, RI](https://jobright.ai/jobs/info/684ecd84e59b2014122ca808?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Jun 15 |
 | ↳ | **[Intern North Kingstown](https://jobright.ai/jobs/info/684ecd84e59b2014122ca824?utm_campaign=1056&utm_source=git)** | North Kingstown, RI | On Site | Jun 15 |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/68311569f8436f88c9a99863?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Jun 14 |
 | **[Alameda County Water District](https://acwd.org/)** | **[Water Resources Department Interns](https://jobright.ai/jobs/info/684dbce95aacc289c7e62ecd?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Jun 14 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | Jun 14 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Jun 14 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Work Intern - Inpatient Mental Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297ead?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Jun 13 |
 | ↳ | **[Social Work Intern - Center for the Treatment of Eating Disorders](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e5e?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS - Current Ivy Tech students only](https://jobright.ai/jobs/info/684ceac35c914a5780453f80?utm_campaign=1056&utm_source=git)** | East Chicago, IN | On Site | Jun 13 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
-| ↳ | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
+| ↳ | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Intern - Funding Agreements Department](https://jobright.ai/jobs/info/684cdde70abcd95f34868d2e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Opioid Treatment Program Internship](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5bdb?utm_campaign=1056&utm_source=git)** | Orange, MA | On Site | Jun 13 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Social Services Intern (Fall 2025)](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c04ea?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jun 13 |
@@ -145,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[Internship - Governance Data and Analytics](https://jobright.ai/jobs/info/684353728c77815ebc127fdb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 09 |
 | ↳ | **[Internship - Research and Innovation](https://jobright.ai/jobs/info/684353728c77815ebc127ff6?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Jun 09 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Political Involvement Committee](https://jobright.ai/jobs/info/6846c31ce4f121300f698b5d?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jun 09 |
-| **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Community Health Improvement Internship](https://jobright.ai/jobs/info/68480faf78724d2d992aae53?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
