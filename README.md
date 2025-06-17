@@ -57,47 +57,49 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Intern - Office of Sustainability](https://jobright.ai/jobs/info/6850a639e7248cb8f36e789b?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Jun 16 |
+| **[SEI](http://www.seic.com)** | **[Community Outreach Fellow](https://jobright.ai/jobs/info/68507426f720d669ee068f4a?utm_campaign=1056&utm_source=git)** | Sunnyvale, CA | Hybrid | Jun 16 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Research & Insights](https://jobright.ai/jobs/info/68506dee1c7b907b2da1be02?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 16 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Asia Maritime Transparency Initiative (Summer 2025)](https://jobright.ai/jobs/info/68506dee1c7b907b2da1beb3?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jun 16 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern](https://jobright.ai/jobs/info/685065841f8f03dd69e8f58c?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Jun 16 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Intern - Social Worker I - Child Welfare](https://jobright.ai/jobs/info/68501902a071db3ec1fb1968?utm_campaign=1056&utm_source=git)** | Dobson, NC | On Site | Jun 16 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6850100ee3c2a20ed92c5472?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6850100ee3c2a20ed92c5473?utm_campaign=1056&utm_source=git)** | Naples, FL | On Site | Jun 15 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6850100ee3c2a20ed92c5473?utm_campaign=1056&utm_source=git)** | Naples, FL | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6850100ee3c2a20ed92c5472?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018557a?utm_campaign=1056&utm_source=git)** | Martinsburg, WV | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018557d?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018557e?utm_campaign=1056&utm_source=git)** | Kearney, NE | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018557c?utm_campaign=1056&utm_source=git)** | Columbia, KY | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018557f?utm_campaign=1056&utm_source=git)** | Daytona Beach, FL | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018557b?utm_campaign=1056&utm_source=git)** | Fort Myers, FL | On Site | Jun 15 |
-| ↳ | **[Intern Hartford, CT](https://jobright.ai/jobs/info/685004f9b3b321dc80185580?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185581?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185582?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185584?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185583?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Jun 15 |
+| ↳ | **[Intern Hartford, CT](https://jobright.ai/jobs/info/685004f9b3b321dc80185580?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185585?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185587?utm_campaign=1056&utm_source=git)** | Prince Frederick, MD | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185583?utm_campaign=1056&utm_source=git)** | Midland, TX | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185584?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185586?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185587?utm_campaign=1056&utm_source=git)** | Prince Frederick, MD | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185589?utm_campaign=1056&utm_source=git)** | Gainesville, GA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018558b?utm_campaign=1056&utm_source=git)** | Venice, FL | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185591?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185592?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018558c?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018558d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018558f?utm_campaign=1056&utm_source=git)** | Greenville, IL | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018558e?utm_campaign=1056&utm_source=git)** | Greenwood, SC | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185590?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185593?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185591?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018558e?utm_campaign=1056&utm_source=git)** | Greenwood, SC | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185595?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185594?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185597?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185596?utm_campaign=1056&utm_source=git)** | Gainesville, GA | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559a?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185593?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185598?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559a?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185597?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc80185599?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559c?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559b?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559e?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559f?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559c?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a0?utm_campaign=1056&utm_source=git)** | Fayetteville, GA | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a1?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc8018559f?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a2?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a4?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a3?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a7?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685004f9b3b321dc801855a9?utm_campaign=1056&utm_source=git)** | Emory, VA | On Site | Jun 15 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89d6?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89d7?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89d8?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jun 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89d9?utm_campaign=1056&utm_source=git)** | East Marion, IL | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89da?utm_campaign=1056&utm_source=git)** | Essex County, MA | On Site | Jun 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89d9?utm_campaign=1056&utm_source=git)** | East Marion, IL | On Site | Jun 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68500a66530b50d897ba89db?utm_campaign=1056&utm_source=git)** | Ohio, OH | On Site | Jun 15 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/684eb9a2eee3fda2038fca95?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 15 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/67bfea4863b3a5e740fe744c?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Jun 15 |
@@ -118,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/68311569f8436f88c9a99863?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Hybrid | Jun 14 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | Jun 14 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Jun 14 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Intern - Center for the Treatment of Eating Disorders](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e5e?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
-| ↳ | **[Social Work Intern - Integrated Behavioral Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e61?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Social Work Intern - Integrated Behavioral Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e61?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
 | ↳ | **[Social Work Intern - Inpatient Mental Health](https://jobright.ai/jobs/info/684d13f8007d7cef5d297ead?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Jun 13 |
+| ↳ | **[Social Work Intern - Center for the Treatment of Eating Disorders](https://jobright.ai/jobs/info/684d13f8007d7cef5d297e5e?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Work-Study - OFF CAMPUS - Current Ivy Tech students only](https://jobright.ai/jobs/info/684ceac35c914a5780453f80?utm_campaign=1056&utm_source=git)** | East Chicago, IN | On Site | Jun 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | ↳ | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Intern - Public Affairs and Corporate Communications](https://jobright.ai/jobs/info/684b33e54c5ab8819961d25a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Research & Events Internship, AI and Emerging Technology, Executive Office (Job ID 2025-3690)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5f0e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Maternal Infant Health focused Community Health Worker (CHW) Internship](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9565?utm_campaign=1056&utm_source=git)** | Southfield, MI | Hybrid | Jun 12 |
-| **[Climate Policy Initiative](https://www.climatepolicyinitiative.org/)** | **[Climate Finance Intern](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d93bf?utm_campaign=1056&utm_source=git)** | San Francisco, California, United States | On Site | Jun 12 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Intern Oral Health](https://jobright.ai/jobs/info/684b1ffaf2de8740c0cc2db6?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
