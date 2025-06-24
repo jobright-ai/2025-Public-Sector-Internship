@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6855a7b2eb8282c01188642e?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Jun 20 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern (Fall)](https://jobright.ai/jobs/info/6855a38a613a7a4afa5ed0dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 20 |
 | **[City of McKinney](https://www.mckinneytexas.org/)** | **[MEDC Intern](https://jobright.ai/jobs/info/6856447759822f6bdd3d24af?utm_campaign=1056&utm_source=git)** | McKinney, TX | On Site | Jun 20 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/681c11f2ab59c69fcea72e6c?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Jun 20 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern - General Land Office (Hourly)](https://jobright.ai/jobs/info/685580c6a2327243eed6e3c1?utm_campaign=1056&utm_source=git)** | Highland Campus | On Site | Jun 20 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Fall 2025](https://jobright.ai/jobs/info/6855715949c91ad203c1feb3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 20 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68550f16f69a18b3b6600340?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Jun 20 |
@@ -105,17 +106,12 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](http://www.asu.edu)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/68532b335e267793b99485bc?utm_campaign=1056&utm_source=git)** | Tempe, AZ | On Site | Jun 18 |
 | **[Energy Solutions](https://energy-solution.com)** | **[Research & Analysis Intern - Remote, US](https://jobright.ai/jobs/info/6853204614ff481d01a9da70?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Jun 18 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Program Intern - Illinois](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdbe16?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
-| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/68529bc2066361fd45d2d6b3?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685268c0251c2028caf06a18?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685268c0251c2028caf06a19?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Jun 18 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718890?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Jun 17 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718894?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jun 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718893?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Jun 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718891?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jun 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718890?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Jun 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718892?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Jun 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718894?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jun 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718891?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jun 17 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/68526105327493acee718456?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jun 17 |
-| **[P1FCU](http://www.p1fcu.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68534810e07e4888e15ddcbe?utm_campaign=1056&utm_source=git)** | Post Falls, ID | On Site | Jun 17 |
-| **[GRID Alternatives ](http://gridalternatives.org/)** | **[SOLARCORPS Community Outreach Fellow (On-site)](https://jobright.ai/jobs/info/68530b2791f98a4aee063f62?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | Jun 17 |
-| **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Policy Intern/Fellow](https://jobright.ai/jobs/info/6851f74e4ec886bae24038dd?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Jun 17 |
-| **[Hazelden Betty Ford Foundation](https://www.hazeldenbettyford.org/)** | **[Mental Health Social Work Intern](https://jobright.ai/jobs/info/6851e2bebbb1f397e899030a?utm_campaign=1056&utm_source=git)** | Center City, Minnesota | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
