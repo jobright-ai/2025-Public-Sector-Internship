@@ -57,21 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Legislative Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109bd?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
-| ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90a06?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Jun 23 |
+| **[County of Riverside](http://www.rc-hr.com)** | **[Agricultural & Standards Unpaid Student Internship](https://jobright.ai/jobs/info/684b945c776475572a1579b3?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 23 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a4ad9a0b2587615a9052f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90523?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Institute Relations & Grants Intern - Atlas Network](https://jobright.ai/jobs/info/685a4ad9a0b2587615a9056f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Legislative Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109bd?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a16f526818caaa6a10988?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
-| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc59f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Area Intern - Catholic Relations](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90be8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 23 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Dept. of Public Social Services Paid Student Internship](https://jobright.ai/jobs/info/684b9d45a33f13642d254335?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 23 |
+| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755bd0?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6859c96c9a3836ed8f9429ad?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd50d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685801f600765e147b8701e5?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jun 22 |
 | **[SEI](http://www.seic.com)** | **[Sustainability and Community Engagement Fellow](https://jobright.ai/jobs/info/6857b30a9e3c7af5f976beed?utm_campaign=1056&utm_source=git)** | Milpitas, CA | On Site | Jun 22 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/68578acfed20a17f102ac124?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jun 21 |
-| ↳ | **[Area Intern - Catholic Relations](https://jobright.ai/jobs/info/68576c0557ccdc3b1b930eba?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 21 |
 | **[International Justice Mission](http://www.ijm.org)** | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/681da5c8df7c7209071aeb8d?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 21 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/683137e9a277cd90747bf572?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jun 21 |
-| **[County of Riverside](http://www.rc-hr.com)** | **[Agricultural & Standards Unpaid Student Internship](https://jobright.ai/jobs/info/684b945c776475572a1579b3?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 20 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Internship, FedEx Corporate Diplomacy](https://jobright.ai/jobs/info/6855cf7661e2938c799f0f6f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 20 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Program Intern](https://jobright.ai/jobs/info/6853053b586d1b8ea702466f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jun 20 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern - General Land Office (Hourly)](https://jobright.ai/jobs/info/6855b5982d77e62fc9ea8d4a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 20 |
@@ -101,15 +106,14 @@ For a complete list, click the following sortable link below:
 | **[Energy Solutions](https://energy-solution.com)** | **[Research & Analysis Intern - Remote, US](https://jobright.ai/jobs/info/6853204614ff481d01a9da70?utm_campaign=1056&utm_source=git)** | Remote - US | Remote | Jun 18 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Program Intern - Illinois](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdbe16?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jun 18 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/68529bc2066361fd45d2d6b3?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 18 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685268c0251c2028caf06a19?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Jun 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/685268c0251c2028caf06a18?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685268c0251c2028caf06a18?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685268c0251c2028caf06a19?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Jun 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718894?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jun 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718890?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Jun 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718892?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Jun 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718890?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Jun 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718891?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jun 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68526105327493acee718893?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Jun 17 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/68526105327493acee718456?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jun 17 |
-| **[Duke University](http://www.duke.edu)** | **[NonDuke Student /Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/68522984ee45f45f1ae1907d?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Jun 17 |
 | **[P1FCU](http://www.p1fcu.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68534810e07e4888e15ddcbe?utm_campaign=1056&utm_source=git)** | Post Falls, ID | On Site | Jun 17 |
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[SOLARCORPS Community Outreach Fellow (On-site)](https://jobright.ai/jobs/info/68530b2791f98a4aee063f62?utm_campaign=1056&utm_source=git)** | Riverside, CA | On Site | Jun 17 |
 | **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Policy Intern/Fellow](https://jobright.ai/jobs/info/6851f74e4ec886bae24038dd?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Jun 17 |
@@ -121,7 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Anti-Trafficking Casework Intern](https://jobright.ai/jobs/info/6851c33b64f4aa94cc71df18?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 17 |
 | ↳ | **[Fall 2025 Home Study & Post Release Services (HSPRS) Intern](https://jobright.ai/jobs/info/6851e2909d0e777694797423?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jun 17 |
 | ↳ | **[Fall 2025 Economic Empowerment Intern](https://jobright.ai/jobs/info/6851e2909d0e7776947973db?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 17 |
-| **[Sky Ranch](https://skyranch.org)** | **[Legacy Fellowship](https://jobright.ai/jobs/info/685180320b1947eba7ea3951?utm_campaign=1056&utm_source=git)** | Westcliffe, CO | On Site | Jun 17 |
-| ↳ | **[Legacy Fellowship](https://jobright.ai/jobs/info/685180320b1947eba7ea390a?utm_campaign=1056&utm_source=git)** | Van, TX | On Site | Jun 17 |
-| **[Evangelical Lutheran Church in America](https://www.altawindowfashions.com/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68515e68f33bf19ebb2a42e0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
