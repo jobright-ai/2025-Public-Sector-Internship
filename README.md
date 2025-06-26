@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/6849096f732864ad688b084c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 26 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/685d1ab4bca766ed365f0092?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 26 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Food Justice Intern at FRESH New London](https://jobright.ai/jobs/info/685cba59a78bcacaf84d3a30?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Jun 25 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Ministry Specialist (Summer Intern)](https://jobright.ai/jobs/info/685cb5d008795d4388595288?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jun 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Outreach Intern - Mercatus Center](https://jobright.ai/jobs/info/685cb5d008795d438859564e?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 25 |
@@ -92,12 +94,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Fall 2025 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90523?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Institute Relations & Grants Intern - Atlas Network](https://jobright.ai/jobs/info/685a4ad9a0b2587615a9056f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Legislative Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109bd?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
-| ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a16f526818caaa6a10988?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc59f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Area Intern - Catholic Relations](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90be8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 23 |
+| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Dept. of Public Social Services Paid Student Internship](https://jobright.ai/jobs/info/684b9d45a33f13642d254335?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 23 |
-| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755bd0?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd50d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685801f600765e147b8701e5?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jun 22 |
