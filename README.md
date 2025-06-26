@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Program Support - Intern](https://jobright.ai/jobs/info/685d93688b653ad0ec8f5bf0?utm_campaign=1056&utm_source=git)** | Chantilly, VA | On Site | Jun 26 |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[U.S. Advocacy - Intern](https://jobright.ai/jobs/info/685d93688b653ad0ec8f5ed2?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 26 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685d89a705604ba2e0bbf758?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
+| **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Graduate or Legal Intern, National Political Advocacy Department- Policy & Government Affairs, Justice](https://jobright.ai/jobs/info/685d77183f271975746c3211?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
 | **[Ankura](https://ankura.com)** | **[Intern / Graduate Fellow, Mexico](https://jobright.ai/jobs/info/6849096f732864ad688b084c?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jun 26 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/685d1ab4bca766ed365f0092?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 26 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary Food Justice Intern at FRESH New London](https://jobright.ai/jobs/info/685cba59a78bcacaf84d3a30?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Jun 25 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2025 Green Finance Intern](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb8ea?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 25 |
 | **[Institute of World Politics](https://www.iwp.edu)** | **[National Security, Intelligence, and International Affairs Research Internship and Graduate Pathway Program (Fall 2025)](https://jobright.ai/jobs/info/685c495a5279b12c1551ba23?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 25 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685c3ab632a883848a24d066?utm_campaign=1056&utm_source=git)** | Bastrop, TX | On Site | Jun 25 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 25 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 25 |
-| **[Discovery Land Company](http://discoverylandco.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/685bac011ca634db84c54255?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Jun 25 |
 | **[Public Health Institute](http://www.phi.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd864?utm_campaign=1056&utm_source=git)** | Alameda, CA | Remote | Jun 24 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jun 24 |
 | ↳ | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jun 24 |
@@ -98,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc59f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Area Intern - Catholic Relations](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90be8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 23 |
-| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Dept. of Public Social Services Paid Student Internship](https://jobright.ai/jobs/info/684b9d45a33f13642d254335?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 23 |
+| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859aeb2cbb989f90f755bd0?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd50d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685801f600765e147b8701e5?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jun 22 |
@@ -124,10 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6855011b4e39385905561360?utm_campaign=1056&utm_source=git)** | Essex County, MA | On Site | Jun 19 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Field Canvass Internship / Massachusetts, Michigan, Minnesota, Pennsylvania](https://jobright.ai/jobs/info/6854ee22affad6cf75c62f11?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 19 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary-Clerical](https://jobright.ai/jobs/info/6854d78eb7b32860f76017b2?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jun 19 |
-| **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Grants and Public Administration Intern (Fall Semester)](https://jobright.ai/jobs/info/6854dbf7d98683640c4c9c34?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jun 19 |
-| ↳ | **[Grants and Public Administration Intern (Fall Semester)](https://jobright.ai/jobs/info/6854b0d19788a9d5a273c07e?utm_campaign=1056&utm_source=git)** | US-PA-Philadelphia | On Site | Jun 19 |
-| **[KET - Kentucky Educational Television](https://www.ket.org)** | **[Fall 2025 Philanthropy Internship](https://jobright.ai/jobs/info/6855a7b2eb8282c0118862e2?utm_campaign=1056&utm_source=git)** | Lexington, KY | On Site | Jun 19 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - Capital Planning](https://jobright.ai/jobs/info/6854a423b5dba61b299ecf10?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jun 19 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6854cd83bd9dbbea69c4f598?utm_campaign=1056&utm_source=git)** | Moorestown, NJ | On Site | Jun 19 |
-| **[Rape Recovery Center](https://www.raperecoverycenter.org/)** | **[Outreach Intern](https://jobright.ai/jobs/info/68548b3ed9957fdbc03f62d1?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
