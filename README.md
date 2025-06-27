@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4af?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jun 27 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/685e50e4ea767a925e54e029?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Jun 26 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF Prevention and Behavioral Health-Intake Unit Intern](https://jobright.ai/jobs/info/685e24e336e0cf8b08fadcad?utm_campaign=1056&utm_source=git)** | Delaware, United States | Hybrid | Jun 26 |
 | **[SEI](http://www.seic.com)** | **[Climate Fellow](https://jobright.ai/jobs/info/685e01d2c91cba6844eb3a2e?utm_campaign=1056&utm_source=git)** | Mountain View, CA | Hybrid | Jun 26 |
@@ -89,12 +90,12 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/685b43debc23eac2e2129df6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Anti-Trafficking Casework Intern](https://jobright.ai/jobs/info/6851c33b64f4aa94cc71df18?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685b5a9c5c940c71bad1e02f?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jun 24 |
+| **[Kids Alive International](https://www.kidsalive.org/)** | **[Intern Alpharetta, GA](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc538?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Home Study & Post Release Services Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc2a7?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Anti-Trafficking Casework Intern](https://jobright.ai/jobs/info/6851c33b64f4aa94cc71df27?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 24 |
 | ↳ | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Health and Wellness Intern](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c05a1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
 | ↳ | **[Cuban/Haitian Entrant (CHE) Casework Intern, Summer 2025](https://jobright.ai/jobs/info/68281ec618dabdd1a1bf275e?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Jun 24 |
-| **[Kids Alive International](https://www.kidsalive.org/)** | **[Intern Alpharetta, GA](https://jobright.ai/jobs/info/685a9bdf25c4ad411eb33adc?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Jun 24 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Behavioral Health - Social Work Internship](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd989?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 23 |
 | ↳ | **[Health Equity & Strategy Program Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fda00?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 23 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/685b5a9c5c940c71bad1e1b2?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jun 23 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Fall 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc59f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Dept. of Public Social Services Paid Student Internship](https://jobright.ai/jobs/info/684b9d45a33f13642d254335?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Jun 23 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6859c96c9a3836ed8f9429ad?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd50d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685801f600765e147b8701e5?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jun 22 |
@@ -123,8 +123,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/681dac344d7b30d51d905bd2?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 21 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/683137e9a277cd90747bf572?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jun 21 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Internship, FedEx Corporate Diplomacy](https://jobright.ai/jobs/info/6855cf7661e2938c799f0f6f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 20 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern - General Land Office (Hourly)](https://jobright.ai/jobs/info/6855b5982d77e62fc9ea8d4a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 20 |
-| **[AARP](http://www.aarp.org)** | **[External Relations Intern (Fall)](https://jobright.ai/jobs/info/6855b26940702334a45a12e5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 20 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6855a7b2eb8282c01188642e?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Jun 20 |
-| **[AARP](http://www.aarp.org)** | **[External Relations Intern (Fall)](https://jobright.ai/jobs/info/6855a38a613a7a4afa5ed0dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
