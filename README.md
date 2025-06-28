@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Ctr For Rehabilitation Rsrch](https://jobright.ai/jobs/info/685f51765c93d612182ee355?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jun 27 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking Intern - Fall 2025](https://jobright.ai/jobs/info/685f51765c93d612182ee34b?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Jun 27 |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83c80?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 27 |
+| **[Sarasota County Government](https://www.scgov.net/)** | **[Neighborhood Services Intern - R15699](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83ee6?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jun 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Orem](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dd09?utm_campaign=1056&utm_source=git)** | Orem, UT, United States | On Site | Jun 27 |
-| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[U.S. Advocacy - Intern](https://jobright.ai/jobs/info/685ef60369775480953a0e5d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685edf12e170c993be537334?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Jun 27 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culturally and Linguistically Appropriate Services (CLAS) Internship - Fall 2025](https://jobright.ai/jobs/info/685eb98cfa1e0775ecd94fb4?utm_campaign=1056&utm_source=git)** | Dedham, MA | Remote | Jun 27 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4af?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jun 27 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Research Intern - Common Sense Institute](https://jobright.ai/jobs/info/685c5d858ca20a43023ae104?utm_campaign=1056&utm_source=git)** | Colorado, United States | On Site | Jun 25 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Community Aide/Intern](https://jobright.ai/jobs/info/685c6d2eb2cf7be790fc05d1?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 25 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Fall 2025 Green Finance Intern](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb8ea?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jun 25 |
-| **[Institute of World Politics](https://www.iwp.edu)** | **[National Security, Intelligence, and International Affairs Research Internship and Graduate Pathway Program (Fall 2025)](https://jobright.ai/jobs/info/685c495a5279b12c1551ba23?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 25 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685c3ab632a883848a24d066?utm_campaign=1056&utm_source=git)** | Bastrop, TX | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 25 |
 | ↳ | **[Fall 2025 Economic Empowerment Intern](https://jobright.ai/jobs/info/6851e2909d0e7776947973db?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Fall 2025 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90523?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Institute Relations & Grants Intern - Atlas Network](https://jobright.ai/jobs/info/685a4ad9a0b2587615a9056f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Legislative Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109bd?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
-| ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a16f526818caaa6a10988?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
+| ↳ | **[KIP Fall 2025 - Policy Reform Intern - The Foundation for Individual Rights and Expression (FIRE)](https://jobright.ai/jobs/info/685a16f526818caaa6a109c4?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc59f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
@@ -125,5 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Intern, National Political Advocacy Department- Cross Divisional/Electoral Team](https://jobright.ai/jobs/info/685cca7a85b8bb36976bc948?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 21 |
 | **[International Justice Mission](http://www.ijm.org)** | **[VAWC Policy Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/681da5c8df7c7209071aeb8d?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 21 |
 | ↳ | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/681dac344d7b30d51d905bd2?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 21 |
-| **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/683137e9a277cd90747bf572?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
