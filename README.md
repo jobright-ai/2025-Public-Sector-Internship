@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Orem](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dd09?utm_campaign=1056&utm_source=git)** | Orem, UT, United States | On Site | Jun 27 |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[U.S. Advocacy - Intern](https://jobright.ai/jobs/info/685ef60369775480953a0e5d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685edf12e170c993be537334?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Jun 27 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culturally and Linguistically Appropriate Services (CLAS) Internship - Fall 2025](https://jobright.ai/jobs/info/685eb98cfa1e0775ecd94fb4?utm_campaign=1056&utm_source=git)** | Dedham, MA | Remote | Jun 27 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4af?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jun 27 |
@@ -93,12 +95,12 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/685b43debc23eac2e2129df6?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Anti-Trafficking Casework Intern](https://jobright.ai/jobs/info/6851c33b64f4aa94cc71df18?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685b5a9c5c940c71bad1e02f?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jun 24 |
-| **[Kids Alive International](https://www.kidsalive.org/)** | **[Intern Alpharetta, GA](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc538?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Jun 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Home Study & Post Release Services Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc2a7?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Anti-Trafficking Casework Intern](https://jobright.ai/jobs/info/6851c33b64f4aa94cc71df27?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 24 |
 | ↳ | **[Community Engagement Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327e74?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 24 |
 | ↳ | **[Fall 2025 Health and Wellness Intern](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c05a1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
 | ↳ | **[Cuban/Haitian Entrant (CHE) Casework Intern, Summer 2025](https://jobright.ai/jobs/info/68281ec618dabdd1a1bf275e?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Jun 24 |
+| **[Kids Alive International](https://www.kidsalive.org/)** | **[Intern Alpharetta, GA](https://jobright.ai/jobs/info/685a9bdf25c4ad411eb33adc?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Jun 24 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Behavioral Health - Social Work Internship](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd989?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 23 |
 | ↳ | **[Health Equity & Strategy Program Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fda00?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jun 23 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/685b5a9c5c940c71bad1e1b2?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jun 23 |
