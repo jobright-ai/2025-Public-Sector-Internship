@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec0b3?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Jun 28 |
+| **[Institute of World Politics](https://www.iwp.edu)** | **[National Security, Intelligence, and International Affairs Research Internship and Graduate Pathway Program (Fall 2025)](https://jobright.ai/jobs/info/6860db710300edb5e7a24af5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[U.S. Advocacy - Intern](https://jobright.ai/jobs/info/686089f98e06bace4b06566f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 28 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Turkey Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e676c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic & Financial Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6776?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | ↳ | **[Israel Program Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67bd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| ↳ | **[Military & Political Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6796?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| ↳ | **[Economic & Financial Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6776?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | ↳ | **[International Organizations Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67ab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Turkey Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e676c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Military & Political Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6796?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Clerical (Off-Campus) - YWCA](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4c7?utm_campaign=1056&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Admin/Ops Intern – Health Equity - Paid - Per Diem](https://jobright.ai/jobs/info/685f9d60445a7d3459246c76?utm_campaign=1056&utm_source=git)** | Beverly Hills, CA | On Site | Jun 28 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Ctr For Rehabilitation Rsrch](https://jobright.ai/jobs/info/685f51765c93d612182ee355?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jun 27 |
@@ -71,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Neighborhood Services Intern - R15699](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83ee6?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jun 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Orem](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dd09?utm_campaign=1056&utm_source=git)** | Orem, UT, United States | On Site | Jun 27 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/685edf12e170c993be537334?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Jun 27 |
-| **[Riverside Community Care](http://www.riversidecc.org)** | **[Culturally and Linguistically Appropriate Services (CLAS) Internship - Fall 2025](https://jobright.ai/jobs/info/685eb98cfa1e0775ecd94fb4?utm_campaign=1056&utm_source=git)** | Dedham, MA | Remote | Jun 27 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4af?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jun 27 |
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/685e50e4ea767a925e54e029?utm_campaign=1056&utm_source=git)** | Auburn, NY | On Site | Jun 26 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF Prevention and Behavioral Health-Intake Unit Intern](https://jobright.ai/jobs/info/685e24e336e0cf8b08fadcad?utm_campaign=1056&utm_source=git)** | Delaware, United States | Hybrid | Jun 26 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern (August/Fall Start)](https://jobright.ai/jobs/info/6823e16a59fcce5395c77b0a?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Jun 26 |
 | **[SEI](http://www.seic.com)** | **[Climate Fellow](https://jobright.ai/jobs/info/685e01d2c91cba6844eb3a2e?utm_campaign=1056&utm_source=git)** | Mountain View, CA | Hybrid | Jun 26 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/685deefb2fb4aba079998b06?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jun 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/685db6168f5566bc57021cd4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 26 |
@@ -123,8 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Fall 2025 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a16f526818caaa6a10988?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | ↳ | **[KIP Fall 2025 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/685a2ab64c499b5d218cc59f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jun 23 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6859c96c9a3836ed8f9429ad?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6860afe2b37c6cb1b5aedb5c?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jun 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
-| ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd50d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
