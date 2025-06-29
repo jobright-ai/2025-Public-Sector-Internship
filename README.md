@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[U.S. Advocacy - Intern](https://jobright.ai/jobs/info/686089f98e06bace4b06566f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jun 28 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic & Financial Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6776?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[International Organizations Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67ab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Military & Political Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6796?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Turkey Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e676c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Israel Program Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67bd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Clerical (Off-Campus) - YWCA](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4c7?utm_campaign=1056&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Admin/Ops Intern – Health Equity - Paid - Per Diem](https://jobright.ai/jobs/info/685f9d60445a7d3459246c76?utm_campaign=1056&utm_source=git)** | Beverly Hills, CA | On Site | Jun 28 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Ctr For Rehabilitation Rsrch](https://jobright.ai/jobs/info/685f51765c93d612182ee355?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jun 27 |
@@ -119,9 +125,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern (Part-Time) - 2025179](https://jobright.ai/jobs/info/6859b9709fd382d77ee20b6d?utm_campaign=1056&utm_source=git)** | Towson, MD | Remote | Jun 23 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68584ed2393ffca853a77a02?utm_campaign=1056&utm_source=git)** | Stockton, IL | On Site | Jun 22 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd50d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jun 22 |
-| **[SEI](http://www.seic.com)** | **[Sustainability and Community Engagement Fellow](https://jobright.ai/jobs/info/6857b30a9e3c7af5f976beed?utm_campaign=1056&utm_source=git)** | Milpitas, CA | On Site | Jun 22 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Area Intern - Catholic Relations](https://jobright.ai/jobs/info/685ce9346c68dadaca31155c?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jun 21 |
-| ↳ | **[Club Beyond INTERN Program](https://jobright.ai/jobs/info/68578acfed20a17f102ac124?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jun 21 |
-| **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Intern, National Prison Project](https://jobright.ai/jobs/info/685cca7a85b8bb36976bc929?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 21 |
-| ↳ | **[Fall 2025 Intern, National Political Advocacy Department- Cross Divisional/Electoral Team](https://jobright.ai/jobs/info/685cca7a85b8bb36976bc948?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
