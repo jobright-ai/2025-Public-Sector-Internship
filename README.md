@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025 (Dartmouth), Research Internship, Economic Studies ( Job ID 2025-3652)](https://jobright.ai/jobs/info/6864373da0588d8f832ea077?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 01 |
+| **[World Economic Forum](https://www.weforum.org)** | **[Early Career Program, Urban Transformation](https://jobright.ai/jobs/info/68646a31fe28a02df78f10ee?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
+| **[SEI](http://www.seic.com)** | **[State of California Energy Strategy and Support (SOC ESS) Climate Corps Fellow](https://jobright.ai/jobs/info/686460a783890c531d861295?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 01 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68643f5353eb2f5985836bbe?utm_campaign=1056&utm_source=git)** | Illinois, United States | On Site | Jul 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fall 2025: Massachusetts Office of International Trade and Investment Internship](https://jobright.ai/jobs/info/686415e858e255bd22b3b2da?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Jul 01 |
 | **[Precision Value & Health](https://www.precisionvaluehealth.com/)** | **[HEOR Internship](https://jobright.ai/jobs/info/6863c50148c8b40f03116d25?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 01 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/6863bb1e8cccfd00f02dc6a1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 01 |
@@ -69,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Alzheimer's Association®](http://www.axon-neuroscience.eu)** | **[Paid Internship (Community Engagement)](https://jobright.ai/jobs/info/68631d628ba0d8689d177c70?utm_campaign=1056&utm_source=git)** | Newton, MA | Hybrid | Jun 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6863014ad379ece21477265b?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jun 30 |
 | ↳ | **[Fall 2025 Health and Wellness Intern - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861e79?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 30 |
-| ↳ | **[Fall 2025 Home Study & Post Release Services Intern  - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861f0e?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jun 30 |
-| ↳ | **[Fall 2025 Grant Management Intern  - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861ec0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 30 |
 | ↳ | **[Fall 2025 Economic Empowerment Intern  - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861f49?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 30 |
 | ↳ | **[Fall 2025 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861e7a?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jun 30 |
+| ↳ | **[Fall 2025 Home Study & Post Release Services Intern  - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861f0e?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jun 30 |
+| ↳ | **[Fall 2025 Grant Management Intern  - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861ec0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jun 30 |
 | ↳ | **[Fall 2025 Immigrant Youth Intern - UNPAID](https://jobright.ai/jobs/info/6862fed848122f7100861e84?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jun 30 |
 | **[Hennepin Healthcare](https://www.hennepinhealthcare.org)** | **[Internship: Master of Social Work Clinical](https://jobright.ai/jobs/info/6862fed848122f7100861ec9?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 30 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Foster Care and Adoption Intern](https://jobright.ai/jobs/info/6862fed848122f7100861ded?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Jun 30 |
@@ -93,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Army National Guard](http://www.NATIONALGUARD.com)** | **[31E Internment/Resettlement Specialist](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec0b3?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Jun 28 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2025 (9922)](https://jobright.ai/jobs/info/68310e28349eec0f836f8c7a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 28 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e6c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jun 28 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Turkey Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e676c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic & Financial Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6776?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[Turkey Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e676c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| ↳ | **[International Organizations Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67ab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | ↳ | **[Military & Political Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6796?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | ↳ | **[Israel Program Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67bd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| ↳ | **[International Organizations Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e67ab?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
-| ↳ | **[Economic & Financial Power Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6776?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/681043479c069f106455a21d?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Clerical (Off-Campus) - YWCA](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4c7?utm_campaign=1056&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Admin/Ops Intern – Health Equity - Paid - Per Diem](https://jobright.ai/jobs/info/685f9d60445a7d3459246c76?utm_campaign=1056&utm_source=git)** | Beverly Hills, CA | On Site | Jun 28 |
@@ -129,6 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Development and Grant Coordination Intern (Fall 2025)](https://jobright.ai/jobs/info/684ce4675213d45f53327fd6?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jun 25 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (MSW-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/6806787f341f17ed8736556c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jun 25 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jun 25 |
-| **[Public Health Institute](http://www.phi.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd864?utm_campaign=1056&utm_source=git)** | Alameda, CA | Remote | Jun 24 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
