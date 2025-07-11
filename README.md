@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS Social Services Technician Intern Term: Summer/Fall](https://jobright.ai/jobs/info/68713f88a5ae807a59cfea8a?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 11 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/687100d406ad7073463c2c5a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Emergency Management Intern - R15698](https://jobright.ai/jobs/info/6870e99b06ad7073463c245d?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jul 11 |
 | ↳ | **[Parks & Recreation Interpretive Program Specialist Intern - Beach and Water Access - R15707](https://jobright.ai/jobs/info/6870f8ca06ad7073463c2932?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jul 11 |
@@ -73,14 +74,13 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Nashville, TN](https://jobright.ai/jobs/info/686fe886a5ae807a59cf448f?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Jul 10 |
 | **[SEIU](http://www.seiu.org)** | **[Digital Intern For Politics and Government Relations](https://jobright.ai/jobs/info/6870047fa5ae807a59cf507c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7cc?utm_campaign=1056&utm_source=git)** | , CA | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f3?utm_campaign=1056&utm_source=git)** | , NY | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f4?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de802?utm_campaign=1056&utm_source=git)** | Fort Hood, TX | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f5?utm_campaign=1056&utm_source=git)** | , TX | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7e8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7ee?utm_campaign=1056&utm_source=git)** | , NC | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de804?utm_campaign=1056&utm_source=git)** | Highland Falls, NY | On Site | Jul 10 |
-| **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/686fc11306ad7073463b89a2?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7ee?utm_campaign=1056&utm_source=git)** | , NC | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de802?utm_campaign=1056&utm_source=git)** | Fort Hood, TX | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7e8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f3?utm_campaign=1056&utm_source=git)** | , NY | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f5?utm_campaign=1056&utm_source=git)** | , TX | On Site | Jul 10 |
 | **[Urbis](https://urbis.com.au)** | **[2026 Student Internship Program - Engagement Assistant (National)](https://jobright.ai/jobs/info/6870af2aa5ae807a59cfab52?utm_campaign=1056&utm_source=git)** | National, MD | On Site | Jul 09 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/686f26d790d7b66951c27553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/687009c101cc0956e7e7ebcd?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Jul 09 |
@@ -90,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/686f0c16f0f03582b4c2110c?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jul 09 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/686f26d790d7b66951c275bb?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
 | **[Family & Children's Association](https://fcali.org)** | **[Project Independence Suffolk Intern (Unpaid)](https://jobright.ai/jobs/info/686eed8a45686fa6dca0200c?utm_campaign=1056&utm_source=git)** | Bohemia, NY | On Site | Jul 09 |
-| **[McDermott Will & Emery](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/686ee002938fa366112a6ebb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 09 |
+| **[McDermott Will & Emery](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/686ee002938fa366112a6c7a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Taxpayers Protection Alliance Foundation](https://jobright.ai/jobs/info/686ed1ba2a39bf21f1f7e3eb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Acrisure](http://acrisure.com)** | **[Security & Emergency Preparedness Intern](https://jobright.ai/jobs/info/686ebc72252362a4a1d06455?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Jul 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grant Coordination Intern - Fall 2025](https://jobright.ai/jobs/info/686ee249382429a8d892f4e4?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Jul 09 |
