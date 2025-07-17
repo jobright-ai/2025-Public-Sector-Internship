@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Opioid Treatment Program Internship](https://jobright.ai/jobs/info/687857faae2f413e4a5c1aee?utm_campaign=1056&utm_source=git)** | Orange, MA | On Site | Jul 16 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/68786b12ae2f413e4a5c270c?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Counseling/Social Work Intern - Meridian](https://jobright.ai/jobs/info/68780dc95cebcd1dd51d75fc?utm_campaign=1056&utm_source=git)** | Meridian, MS | On Site | Jul 16 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op-Intern- Corporate Social Responsibility](https://jobright.ai/jobs/info/687801bb5cebcd1dd51d6f13?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 16 |
 | **[SEI ](https://www.seiinc.org)** | **[State of California Energy Strategy and Support (SOC ESS) Climate Corps Fellow](https://jobright.ai/jobs/info/686c91fa35584b65426d18ac?utm_campaign=1056&utm_source=git)** | California (Remote) | Remote | Jul 16 |
@@ -128,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Social Work Intern Hourly](https://jobright.ai/jobs/info/686fea739d5f25f875555dc8?utm_campaign=1056&utm_source=git)** | Public Safety Building | On Site | Jul 10 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS-Social Service Specialist I Intern-Family Support Services Term: Ongoing](https://jobright.ai/jobs/info/68702960a5ae807a59cf6472?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 10 |
 | **[SEIU](http://www.seiu.org)** | **[Digital Intern For Politics and Government Relations](https://jobright.ai/jobs/info/6870047fa5ae807a59cf507c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 10 |
-| **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (External Affairs)](https://jobright.ai/jobs/info/68762c11299cbc74b875b2d2?utm_campaign=1056&utm_source=git)** | Chino, CA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
