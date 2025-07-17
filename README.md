@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6878b62c05b04b0ca9f5b538?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Opioid Treatment Program Internship](https://jobright.ai/jobs/info/687857faae2f413e4a5c1aee?utm_campaign=1056&utm_source=git)** | Orange, MA | On Site | Jul 16 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/68786b12ae2f413e4a5c270c?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Counseling/Social Work Intern - Meridian](https://jobright.ai/jobs/info/68780dc95cebcd1dd51d75fc?utm_campaign=1056&utm_source=git)** | Meridian, MS | On Site | Jul 16 |
@@ -127,7 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2025 Democracy Undergraduate Internship, NY](https://jobright.ai/jobs/info/6850c4f3eb901ac617b6b02e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Social Work Intern Hourly](https://jobright.ai/jobs/info/68703987a5ae807a59cf6d54?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jul 10 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Summer/Fall 2025)](https://jobright.ai/jobs/info/68700f569a77984d3d150d99?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 10 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6870141fa5ae807a59cf5807?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Jul 10 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Social Work Intern Hourly](https://jobright.ai/jobs/info/686fea739d5f25f875555dc8?utm_campaign=1056&utm_source=git)** | Public Safety Building | On Site | Jul 10 |
-| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS-Social Service Specialist I Intern-Family Support Services Term: Ongoing](https://jobright.ai/jobs/info/68702960a5ae807a59cf6472?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
