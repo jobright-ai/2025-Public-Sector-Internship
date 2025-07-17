@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Counseling/Social Work Intern - Meridian](https://jobright.ai/jobs/info/68780dc95cebcd1dd51d75fc?utm_campaign=1056&utm_source=git)** | Meridian, MS | On Site | Jul 16 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op-Intern- Corporate Social Responsibility](https://jobright.ai/jobs/info/687801bb5cebcd1dd51d6f13?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 16 |
 | **[SEI ](https://www.seiinc.org)** | **[State of California Energy Strategy and Support (SOC ESS) Climate Corps Fellow](https://jobright.ai/jobs/info/686c91fa35584b65426d18ac?utm_campaign=1056&utm_source=git)** | California (Remote) | Remote | Jul 16 |
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Fall 2025](https://jobright.ai/jobs/info/687755db5cebcd1dd51d2919?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 16 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Social Work Intern -Myeloma Center](https://jobright.ai/jobs/info/687737d65cebcd1dd51d13e4?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Jul 15 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Fall Intern](https://jobright.ai/jobs/info/6876a788ae2f413e4a5b1f2b?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 15 |
 | **[Evangelical Lutheran Church in America](https://www.altawindowfashions.com/)** | **[Companion Synod Program Intern](https://jobright.ai/jobs/info/6876b176299cbc74b875fa4b?utm_campaign=1056&utm_source=git)** | Chicago, IL | Remote | Jul 15 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op-Intern- Corporate Social Responsibility](https://jobright.ai/jobs/info/687682b75cebcd1dd51c9982?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 15 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Clinical Medical Social Work Intern (MSW)](https://jobright.ai/jobs/info/6876722aae2f413e4a5afba0?utm_campaign=1056&utm_source=git)** | Main Campus, Columbus, OH | On Site | Jul 15 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study / Student Web Tech Assistant](https://jobright.ai/jobs/info/68767b60299cbc74b875d814?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Residential Program Trainee (Part-Time) (LG) - CMSU County MH/ID (Multiple Vacancies)](https://jobright.ai/jobs/info/6876208f5cebcd1dd51c6ca5?utm_campaign=1056&utm_source=git)** | Montour County, PA | On Site | Jul 14 |
 | **[Evangelical Lutheran Church in America](https://www.altawindowfashions.com/)** | **[Companion Synod Program Intern](https://jobright.ai/jobs/info/6875f6435cebcd1dd51c513d?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 14 |
@@ -129,12 +130,12 @@ For a complete list, click the following sortable link below:
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS-Social Service Specialist I Intern-Family Support Services Term: Ongoing](https://jobright.ai/jobs/info/68702960a5ae807a59cf6472?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 10 |
 | **[SEIU](http://www.seiu.org)** | **[Digital Intern For Politics and Government Relations](https://jobright.ai/jobs/info/6870047fa5ae807a59cf507c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (External Affairs)](https://jobright.ai/jobs/info/68762c11299cbc74b875b2d2?utm_campaign=1056&utm_source=git)** | Chino, CA | On Site | Jul 10 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f3?utm_campaign=1056&utm_source=git)** | , NY | On Site | Jul 10 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de802?utm_campaign=1056&utm_source=git)** | Fort Hood, TX | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f5?utm_campaign=1056&utm_source=git)** | , TX | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7e8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de804?utm_campaign=1056&utm_source=git)** | Highland Falls, NY | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7ee?utm_campaign=1056&utm_source=git)** | , NC | On Site | Jul 10 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f3?utm_campaign=1056&utm_source=git)** | , NY | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7cc?utm_campaign=1056&utm_source=git)** | , CA | On Site | Jul 10 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f4?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de804?utm_campaign=1056&utm_source=git)** | Highland Falls, NY | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7e8?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7f5?utm_campaign=1056&utm_source=git)** | , TX | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de802?utm_campaign=1056&utm_source=git)** | Fort Hood, TX | On Site | Jul 10 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/686f6d0770258a58c06de7ee?utm_campaign=1056&utm_source=git)** | , NC | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
