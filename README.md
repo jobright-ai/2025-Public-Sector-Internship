@@ -123,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/687100d406ad7073463c2c5a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 11 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Nashville, TN](https://jobright.ai/jobs/info/686fe886a5ae807a59cf448f?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Jul 11 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/68778a91866a435525ab2651?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
-| **[Akin Gump Strauss Hauer & Feld LLP](https://www.akingump.com/)** | **[Sustainability Intern (Fall 2025)](https://jobright.ai/jobs/info/6875fa29299cbc74b875961f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
-| **[San Diego Theatres](https://sandiegotheatres.org)** | **[INTERN](https://jobright.ai/jobs/info/6873e5444001e95011b1b182?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
