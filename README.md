@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Fall 2025](https://jobright.ai/jobs/info/687755db5cebcd1dd51d2919?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 16 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Social Work Intern -Myeloma Center](https://jobright.ai/jobs/info/687737d65cebcd1dd51d13e4?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Jul 15 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Economic Mobility](https://jobright.ai/jobs/info/686710b0a65d23afd7da5193?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 15 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jul 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/68770fc15cebcd1dd51ced40?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 15 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2025 Public Affairs Internship - NY](https://jobright.ai/jobs/info/6877095dae2f413e4a5b60ad?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | ↳ | **[Fall 2025 Political Internship - DC](https://jobright.ai/jobs/info/6877d539866a435525ab478d?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jul 15 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6870141fa5ae807a59cf5807?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Jul 10 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Social Work Intern Hourly](https://jobright.ai/jobs/info/686fea739d5f25f875555dc8?utm_campaign=1056&utm_source=git)** | Public Safety Building | On Site | Jul 10 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS-Social Service Specialist I Intern-Family Support Services Term: Ongoing](https://jobright.ai/jobs/info/68702960a5ae807a59cf6472?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 10 |
-| **[SEIU](http://www.seiu.org)** | **[Digital Intern For Politics and Government Relations](https://jobright.ai/jobs/info/6870047fa5ae807a59cf507c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
