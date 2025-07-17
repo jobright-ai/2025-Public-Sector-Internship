@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hofstra University](http://hofstra.edu)** | **[Fall 2025 Internship Application for Senator Schumer's NYC Office (Manhattan)](https://jobright.ai/jobs/info/68792f28a7fc8904e39608f1?utm_campaign=1056&utm_source=git)** | Highland Park, NJ | On Site | Jul 17 |
+| **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jul 17 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6878b62c05b04b0ca9f5b538?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Opioid Treatment Program Internship](https://jobright.ai/jobs/info/687857faae2f413e4a5c1aee?utm_campaign=1056&utm_source=git)** | Orange, MA | On Site | Jul 16 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/68786b12ae2f413e4a5c270c?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Jul 16 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Emergency Management Intern - R15698](https://jobright.ai/jobs/info/6873483606ad7073463ce9cb?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jul 11 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025/Spring 2026 - CUNY Applied Justice Research Fellow](https://jobright.ai/jobs/info/6871c6cb06ad7073463c728f?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grants Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871bfd4a5ae807a59d017ce?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
-| ↳ | **[Intern - Project on Prosperity and Development (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355cb0?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Project on Prosperity and Development (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355cb0?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
+| ↳ | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355c7e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | ↳ | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 11 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS Social Services Technician Intern Term: Summer/Fall](https://jobright.ai/jobs/info/68713f88a5ae807a59cfea8a?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 11 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/68778a91866a435525ab2651?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[Akin Gump Strauss Hauer & Feld LLP](https://www.akingump.com/)** | **[Sustainability Intern (Fall 2025)](https://jobright.ai/jobs/info/6875fa29299cbc74b875961f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 10 |
 | **[San Diego Theatres](https://sandiegotheatres.org)** | **[INTERN](https://jobright.ai/jobs/info/6873e5444001e95011b1b182?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jul 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Field Advocacy, Health Care by Food-Remote](https://jobright.ai/jobs/info/68706e8d06ad7073463bd969?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
