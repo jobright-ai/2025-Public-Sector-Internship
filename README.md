@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/6879a30d2097a271a8979064?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Humana](http://www.humana.com)** | **[SC Medicaid UNPAID Pharmacy Intern](https://jobright.ai/jobs/info/687979892097a271a8977d64?utm_campaign=1056&utm_source=git)** | Remote South Carolina | Remote | Jul 17 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work & Counseling Internship - WCCS](https://jobright.ai/jobs/info/687970b22097a271a8977944?utm_campaign=1056&utm_source=git)** | Vicksburg, MS | On Site | Jul 17 |
 | **[Hofstra University](http://hofstra.edu)** | **[Fall 2025 Internship Application for Senator Schumer's NYC Office (Manhattan)](https://jobright.ai/jobs/info/68792f28a7fc8904e39608f1?utm_campaign=1056&utm_source=git)** | Highland Park, NJ | On Site | Jul 17 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Emergency Management Intern - R15698](https://jobright.ai/jobs/info/6873483606ad7073463ce9cb?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jul 11 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025/Spring 2026 - CUNY Applied Justice Research Fellow](https://jobright.ai/jobs/info/6871c6cb06ad7073463c728f?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grants Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871bfd4a5ae807a59d017ce?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Project on Prosperity and Development (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355cb0?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
-| ↳ | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
+| ↳ | **[Intern - Project on Prosperity and Development (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355cb0?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355c7e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | ↳ | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 11 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS Social Services Technician Intern Term: Summer/Fall](https://jobright.ai/jobs/info/68713f88a5ae807a59cfea8a?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 11 |
