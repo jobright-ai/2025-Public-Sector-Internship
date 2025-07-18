@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355c7e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | ↳ | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 11 |
-| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DHSS Social Services Technician Intern Term: Summer/Fall](https://jobright.ai/jobs/info/68713f88a5ae807a59cfea8a?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
