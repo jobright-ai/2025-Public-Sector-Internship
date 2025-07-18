@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[International Affairs & Alliances, Associate Manager](https://jobright.ai/jobs/info/687a9edded63844c944a4795?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Remote | Jul 18 |
+| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687a9d022097a271a89804d2?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Jul 18 |
+| **[Greater Pittsburgh Community Food Bank](https://www.pittsburghfoodbank.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/687a97032097a271a897fde4?utm_campaign=1056&utm_source=git)** | Greater Pittsburgh Community Food Bank | Remote | Jul 18 |
+| **[Nestlé](https://www.nestle.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/687a9281ed63844c944a3e12?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jul 18 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (External Affairs)](https://jobright.ai/jobs/info/687a518d764c3d7411c2c79f?utm_campaign=1056&utm_source=git)** | Chino, CA | On Site | Jul 18 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/687a50352097a271a897e3ce?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jul 18 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/687a1b8a764c3d7411c2b770?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 18 |
@@ -117,7 +121,4 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/681dac344d7b30d51d905bd2?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 12 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/681c11f2ab59c69fcea72e6c?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Jul 12 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Emergency Management Intern - R15698](https://jobright.ai/jobs/info/6873483606ad7073463ce9cb?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jul 11 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/6879c1a2ed63844c9449de5d?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025/Spring 2026 - CUNY Applied Justice Research Fellow](https://jobright.ai/jobs/info/6871c6cb06ad7073463c728f?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 11 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grants Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871bfd4a5ae807a59d017ce?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
