@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/687aa3d82097a271a8980909?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 18 |
 | **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[International Affairs & Alliances, Associate Manager](https://jobright.ai/jobs/info/687a9edded63844c944a4795?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Remote | Jul 18 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687a9d022097a271a89804d2?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Jul 18 |
 | **[Greater Pittsburgh Community Food Bank](https://www.pittsburghfoodbank.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/687a97032097a271a897fde4?utm_campaign=1056&utm_source=git)** | Greater Pittsburgh Community Food Bank | Remote | Jul 18 |
 | **[Nestlé](https://www.nestle.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/687a9281ed63844c944a3e12?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jul 18 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687aaad5ed63844c944a5112?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Jul 18 |
+| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687ab3aa764c3d7411c2f441?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jul 18 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (External Affairs)](https://jobright.ai/jobs/info/687a518d764c3d7411c2c79f?utm_campaign=1056&utm_source=git)** | Chino, CA | On Site | Jul 18 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/687a50352097a271a897e3ce?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jul 18 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/687a1b8a764c3d7411c2b770?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 18 |
