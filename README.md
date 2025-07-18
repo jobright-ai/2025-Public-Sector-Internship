@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/687a1b8a764c3d7411c2b770?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 18 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/6879a30d2097a271a8979064?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Humana](http://www.humana.com)** | **[SC Medicaid UNPAID Pharmacy Intern](https://jobright.ai/jobs/info/687979892097a271a8977d64?utm_campaign=1056&utm_source=git)** | Remote South Carolina | Remote | Jul 17 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work & Counseling Internship - WCCS](https://jobright.ai/jobs/info/687970b22097a271a8977944?utm_campaign=1056&utm_source=git)** | Vicksburg, MS | On Site | Jul 17 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/6879c1a2ed63844c9449de5d?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025/Spring 2026 - CUNY Applied Justice Research Fellow](https://jobright.ai/jobs/info/6871c6cb06ad7073463c728f?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Development & Grants Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871bfd4a5ae807a59d017ce?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Project on Prosperity and Development (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355cb0?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
-| ↳ | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355c64?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
+| ↳ | **[Intern - Project on Prosperity and Development (Fall 2025)](https://jobright.ai/jobs/info/6871b035a96c881fdf355cb0?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 11 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6871b035a96c881fdf355c7e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 11 |
 | ↳ | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
