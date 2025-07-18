@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (External Affairs)](https://jobright.ai/jobs/info/687a518d764c3d7411c2c79f?utm_campaign=1056&utm_source=git)** | Chino, CA | On Site | Jul 18 |
+| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/687a50352097a271a897e3ce?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jul 18 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/687a1b8a764c3d7411c2b770?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 18 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/6879a30d2097a271a8979064?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Humana](http://www.humana.com)** | **[SC Medicaid UNPAID Pharmacy Intern](https://jobright.ai/jobs/info/687979892097a271a8977d64?utm_campaign=1056&utm_source=git)** | Remote South Carolina | Remote | Jul 17 |
