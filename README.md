@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council District 8](https://jobright.ai/jobs/info/687ba71e764c3d7411c348cf?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687b5b41764c3d7411c321f3?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 18 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/687aa3d82097a271a8980909?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern, Strategic Planning and Community Benefit / Internship, Temporary, Fall 2025 / Per diem/PRN](https://jobright.ai/jobs/info/687543035cebcd1dd51bf056?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 14 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/687557845cebcd1dd51bfb9e?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Jul 14 |
 | **[Urbis](https://urbis.com.au)** | **[2026 Student Internship Program - Engagement Assistant (National)](https://jobright.ai/jobs/info/6874a046299cbc74b874f90c?utm_campaign=1056&utm_source=git)** | National, MD | On Site | Jul 13 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Social Work Intern Hourly](https://jobright.ai/jobs/info/68703987a5ae807a59cf6d54?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jul 13 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern (Fall)](https://jobright.ai/jobs/info/6855a38a613a7a4afa5ed0dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 13 |
 | **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/681dac344d7b30d51d905bd2?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
