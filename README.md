@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687b5b41764c3d7411c321f3?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 18 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/687aa3d82097a271a8980909?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jul 18 |
 | **[Research!America: Discovery. Innovation. Health.](https://www.researchamerica.org)** | **[Advocacy and Policy Internship](https://jobright.ai/jobs/info/687b0122ed63844c944a655c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 18 |
@@ -69,7 +70,9 @@ For a complete list, click the following sortable link below:
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687ab3aa764c3d7411c2f441?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jul 18 |
 | **[Inland Empire Utilities Agency](https://www.ieua.org/)** | **[Intern (External Affairs)](https://jobright.ai/jobs/info/687a518d764c3d7411c2c79f?utm_campaign=1056&utm_source=git)** | Chino, CA | On Site | Jul 18 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/687a50352097a271a897e3ce?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jul 18 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Counseling-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/68067db54f1fd6d1efe95590?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 18 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/687a1b8a764c3d7411c2b770?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 18 |
+| **[Commonwealth Corporation](http://commcorp.org/)** | **[Grant Management Intern (Fall 2025 Cohort)](https://jobright.ai/jobs/info/687b571bed63844c944a75f9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | On Site | Jul 17 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/6879a30d2097a271a8979064?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Humana](http://www.humana.com)** | **[SC Medicaid UNPAID Pharmacy Intern](https://jobright.ai/jobs/info/687979892097a271a8977d64?utm_campaign=1056&utm_source=git)** | Remote South Carolina | Remote | Jul 17 |
 | **[UNDP Careers](https://www.undp.org)** | **[UNSGSA Intern](https://jobright.ai/jobs/info/6876c2cc5cebcd1dd51cc21d?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 17 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Fall 2025 Political Internship - DC](https://jobright.ai/jobs/info/6878a1205cebcd1dd51dc8b1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 15 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Social Work Intern -Myeloma Center](https://jobright.ai/jobs/info/687737d65cebcd1dd51d13e4?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Jul 15 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Economic Mobility](https://jobright.ai/jobs/info/686710b0a65d23afd7da5193?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 15 |
+| **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Fall Intern](https://jobright.ai/jobs/info/687b5c1f2097a271a8983619?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 15 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jul 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/68770fc15cebcd1dd51ced40?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 15 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2025 Public Affairs Internship - NY](https://jobright.ai/jobs/info/6877095dae2f413e4a5b60ad?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 15 |
