@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Social Work Intern Hourly](https://jobright.ai/jobs/info/68703987a5ae807a59cf6d54?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jul 13 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern (Fall)](https://jobright.ai/jobs/info/6855a38a613a7a4afa5ed0dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 13 |
 | **[International Justice Mission](http://www.ijm.org)** | **[US Mobilization Intern - Fall 2025](https://jobright.ai/jobs/info/681dac344d7b30d51d905bd2?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 12 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/681c11f2ab59c69fcea72e6c?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
