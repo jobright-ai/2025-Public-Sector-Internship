@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/687c0985764c3d7411c36422?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 19 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council District 8](https://jobright.ai/jobs/info/687ba71e764c3d7411c348cf?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687b5b41764c3d7411c321f3?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Jul 18 |
