@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/687c0985764c3d7411c36422?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 19 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council District 8](https://jobright.ai/jobs/info/687ba71e764c3d7411c348cf?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687b5b41764c3d7411c321f3?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Jul 18 |
@@ -75,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Counseling-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/68067db54f1fd6d1efe95590?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 18 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/687a1b8a764c3d7411c2b770?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 18 |
 | **[Commonwealth Corporation](http://commcorp.org/)** | **[Grant Management Intern (Fall 2025 Cohort)](https://jobright.ai/jobs/info/687b571bed63844c944a75f9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | On Site | Jul 17 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (MSW-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/6806787f341f17ed8736556c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 17 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/6879a30d2097a271a8979064?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
 | **[Humana](http://www.humana.com)** | **[SC Medicaid UNPAID Pharmacy Intern](https://jobright.ai/jobs/info/687979892097a271a8977d64?utm_campaign=1056&utm_source=git)** | Remote South Carolina | Remote | Jul 17 |
 | **[UNDP Careers](https://www.undp.org)** | **[UNSGSA Intern](https://jobright.ai/jobs/info/6876c2cc5cebcd1dd51cc21d?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 17 |
