@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council District 8](https://jobright.ai/jobs/info/687ba71e764c3d7411c348cf?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 18 |
+| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern Term: Ongoing](https://jobright.ai/jobs/info/687c9fbb2097a271a898c0d2?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687b5b41764c3d7411c321f3?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 18 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Jul 18 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Civic Engagement)](https://jobright.ai/jobs/info/687aa3d82097a271a8980909?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 18 |
