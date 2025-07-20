@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern, Strategic Planning and Community Benefit / Internship, Temporary, Fall 2025 / Per diem/PRN](https://jobright.ai/jobs/info/687543035cebcd1dd51bf056?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 14 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/687557845cebcd1dd51bfb9e?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Jul 14 |
 | **[Urbis](https://urbis.com.au)** | **[2026 Student Internship Program - Engagement Assistant (National)](https://jobright.ai/jobs/info/6874a046299cbc74b874f90c?utm_campaign=1056&utm_source=git)** | National, MD | On Site | Jul 13 |
-| **[AARP](http://www.aarp.org)** | **[External Relations Intern (Fall)](https://jobright.ai/jobs/info/6855a38a613a7a4afa5ed0dc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
