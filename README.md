@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2025 (9922)](https://jobright.ai/jobs/info/68310e28349eec0f836f8c7a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 19 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council District 8](https://jobright.ai/jobs/info/687ba71e764c3d7411c348cf?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 18 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern Term: Ongoing](https://jobright.ai/jobs/info/687c9fbb2097a271a898c0d2?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687b5b41764c3d7411c321f3?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 18 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687ab3aa764c3d7411c2f441?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jul 18 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/687a50352097a271a897e3ce?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jul 18 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Counseling-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/68067db54f1fd6d1efe95590?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 18 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/685d1ab4bca766ed365f0092?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jul 18 |
 | **[Commonwealth Corporation](http://commcorp.org/)** | **[Grant Management Intern (Fall 2025 Cohort)](https://jobright.ai/jobs/info/687b571bed63844c944a75f9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | On Site | Jul 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (MSW-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/6806787f341f17ed8736556c?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 17 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/6879a30d2097a271a8979064?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Jul 17 |
