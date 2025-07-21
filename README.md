@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KKR](http://www.kkr.com)** | **[Fall 2025 Public Policy Intern](https://jobright.ai/jobs/info/687e75612097a271a899538a?utm_campaign=1056&utm_source=git)** | Washington County, NY | On Site | Jul 21 |
 | **[UNDP Careers](https://www.undp.org)** | **[Nature Investments Intern (Home-based - 3 positions)](https://jobright.ai/jobs/info/687e45ad2097a271a8993f26?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jul 21 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2025 (9922)](https://jobright.ai/jobs/info/68310e28349eec0f836f8c7a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 19 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council District 8](https://jobright.ai/jobs/info/687ba71e764c3d7411c348cf?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 18 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Evangelical Lutheran Church in America](https://www.altawindowfashions.com/)** | **[Companion Synod Program Intern](https://jobright.ai/jobs/info/6875f6435cebcd1dd51c513d?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 14 |
 | ↳ | **[Companion Synod Program Intern](https://jobright.ai/jobs/info/6875f48f299cbc74b87591d1?utm_campaign=1056&utm_source=git)** | Remote Worker - N/A | Remote | Jul 14 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[PHI Postdoctoral Research Associate Youth-Nex](https://jobright.ai/jobs/info/68763b95299cbc74b875ba7c?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/6875a6855cebcd1dd51c25cf?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
