@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/687f2e08764c3d7411c4a01a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
+| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Policy)](https://jobright.ai/jobs/info/687f23712097a271a899b20b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
+| ↳ | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Research)](https://jobright.ai/jobs/info/687f1b17764c3d7411c49358?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Provo](https://jobright.ai/jobs/info/687ee5e1764c3d7411c47163?utm_campaign=1056&utm_source=git)** | Provo, UT, United States | On Site | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/687ee4b7764c3d7411c47008?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/687ed7dbdb19f31cf0d6d7d3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern](https://jobright.ai/jobs/info/6876a9495cebcd1dd51cb1aa?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Jul 17 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work & Counseling Internship - WCCS](https://jobright.ai/jobs/info/687970b22097a271a8977944?utm_campaign=1056&utm_source=git)** | Vicksburg, MS | On Site | Jul 17 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Community Engagement Internship - Winter/Spring 2025 - 2024960](https://jobright.ai/jobs/info/67ff54266e03ed0a97993f10?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Jul 17 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Social Worker-Program Coordinator](https://jobright.ai/jobs/info/687f19612097a271a899aaeb?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Jul 16 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Opioid Treatment Program Internship](https://jobright.ai/jobs/info/687857faae2f413e4a5c1aee?utm_campaign=1056&utm_source=git)** | Orange, MA | On Site | Jul 16 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/68786b12ae2f413e4a5c270c?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Jul 16 |
 | **[Public Health Institute](http://www.phi.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd864?utm_campaign=1056&utm_source=git)** | Alameda, CA | Remote | Jul 16 |
