@@ -120,6 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Public Affairs Internship - DC](https://jobright.ai/jobs/info/687705c95cebcd1dd51ce84c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 15 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Office Assistant - Campus Police](https://jobright.ai/jobs/info/687718a5ae2f413e4a5b697b?utm_campaign=1056&utm_source=git)** | Campus, IL | On Site | Jul 15 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26000 Policy and Government Affairs Fall 2025 Intern](https://jobright.ai/jobs/info/6876ede2ae2f413e4a5b511d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 15 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Monitoring, Evaluation, Accountability, & Learning  - Paid Intern](https://jobright.ai/jobs/info/6876ba125cebcd1dd51cbc91?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 15 |
-| **[SKDK](http://skdknick.com)** | **[Fall 2025 Public Affairs Internship - NY](https://jobright.ai/jobs/info/6876b1b75cebcd1dd51cb770?utm_campaign=1056&utm_source=git)** | US-NY-New York | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
