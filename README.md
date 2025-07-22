@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/687ed7dbdb19f31cf0d6d7d3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/687e91df764c3d7411c446c7?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/687e91012097a271a899607e?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/687e9010764c3d7411c44518?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
