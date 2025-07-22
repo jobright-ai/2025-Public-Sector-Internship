@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Provo](https://jobright.ai/jobs/info/687ee5e1764c3d7411c47163?utm_campaign=1056&utm_source=git)** | Provo, UT, United States | On Site | Jul 21 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/687ee4b7764c3d7411c47008?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/687ed7dbdb19f31cf0d6d7d3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/687e91df764c3d7411c446c7?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/687e91012097a271a899607e?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
