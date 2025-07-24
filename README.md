@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6881700129ad6b2744ae226c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
+| **[Salt Lake County](https://www.slco.org)** | **[Age-Friendly Intern](https://jobright.ai/jobs/info/68816f9d16ea5743a373912f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
+| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Fellow](https://jobright.ai/jobs/info/68816f9816ea5743a3739129?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/6881649229ad6b2744ae1d85?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 23 |
 | **[OGR](https://www.ogrwashington.com)** | **[Legislative Intern - Fall 2025](https://jobright.ai/jobs/info/68815406f4f06100f3a2616a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Rich Feuer Anderson](https://www.rfadc.com)** | **[Post-Grad Public Policy Intern](https://jobright.ai/jobs/info/68814a3f16ea5743a3737de5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Lineage](https://www.onelineage.com)** | **[Intern (PRE-ID)](https://jobright.ai/jobs/info/6881495df4f06100f3a25b69?utm_campaign=1056&utm_source=git)** | Novi, MI (Humboldt Drive) | Remote | Jul 23 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern-14](https://jobright.ai/jobs/info/688148a2f4f06100f3a25ac2?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jul 23 |
+| **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '25 Internship (Portuguese Bilingual)](https://jobright.ai/jobs/info/6881698af4f06100f3a26c89?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 23 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Social Work Case Manager – Medical Case Management Program Intern (Fall 2025)](https://jobright.ai/jobs/info/68813568f4f06100f3a252a1?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 23 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/68812bf316ea5743a3736bad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[World Relief](https://worldrelief.org/)** | **[IFRP Caseworker- Full-time- 2025232](https://jobright.ai/jobs/info/6881249d16ea5743a3736914?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Jul 23 |
@@ -115,8 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/687e91012097a271a899607e?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/687e9010764c3d7411c44518?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Medical Case Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687e8e5e2097a271a8995e3b?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | Remote | Jul 21 |
-| **[Indy Teen Treatment Center](indyteentreatmentcenter.com)** | **[Master’s Level Social Work Internship](https://jobright.ai/jobs/info/687f8ca5764c3d7411c4b9ef?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 21 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Medical Case Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687ea37d764c3d7411c450ac?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 21 |
+| ↳ | **[Medical Case Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687ea37d764c3d7411c450ac?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 21 |
 | **[UNDP Careers](https://www.undp.org)** | **[Nature Investments Intern (Home-based - 3 positions)](https://jobright.ai/jobs/info/687e45ad2097a271a8993f26?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jul 21 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/687e183f2097a271a8993147?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[State of Washington](http://access.wa.gov/)** | **[Assistant State Auditor 1, 2, or 3 (Internal Only - Bellingham)](https://jobright.ai/jobs/info/687edc6edb19f31cf0d6d947?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Jul 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687aaad5ed63844c944a5112?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Jul 18 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687ab3aa764c3d7411c2f441?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jul 18 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work - Child & Family Advocate Internship - Pascagoula, MS](https://jobright.ai/jobs/info/6875790eae2f413e4a5a76b3?utm_campaign=1056&utm_source=git)** | Pascagoula, MS | On Site | Jul 18 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee3?utm_campaign=1056&utm_source=git)** | New York, NY, USA | On Site | Jul 18 |
-| **[MFA](https://www.managedfunds.org/)** | **[Intern, Government Affairs](https://jobright.ai/jobs/info/687a668f2097a271a897eb37?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 18 |
-| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Master of Social Work](https://jobright.ai/jobs/info/687a50352097a271a897e3ce?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Jul 18 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Counseling-Day Hospital Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/68067db54f1fd6d1efe95590?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
