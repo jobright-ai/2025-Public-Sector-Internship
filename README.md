@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/68823dcdb54cac0f1e72e06d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6882196889987b37105b17bc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | ↳ | **[Intern - Asia Maritime Transparency Initiative (Summer 2025)](https://jobright.ai/jobs/info/688218f589987b37105b179c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688217404b37ff1fba97bbc9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Organizing Intern](https://jobright.ai/jobs/info/688187e916ea5743a3739ce8?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Jul 23 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 23 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Research & Insights](https://jobright.ai/jobs/info/6881844929ad6b2744ae2c0f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
-| **[Sumitomo Corporation of Americas](https://www.sumitomocorp.com/en/us/scoa/)** | **[Policy Research Intern](https://jobright.ai/jobs/info/68822927e36ab438ac25a5e7?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jul 23 |
 | **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6881700129ad6b2744ae226c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Salt Lake County](https://www.slco.org)** | **[Age-Friendly Intern](https://jobright.ai/jobs/info/68816f9d16ea5743a373912f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Fellow](https://jobright.ai/jobs/info/68816f9816ea5743a3739129?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
