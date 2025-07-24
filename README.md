@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Club](http://sierraclub.org)** | **[Climate Action Plan Intern](https://jobright.ai/jobs/info/688189c816ea5743a3739d90?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
+| ↳ | **[Organizing Intern](https://jobright.ai/jobs/info/688187e916ea5743a3739ce8?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Jul 23 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 23 |
+| **[LSG](https://locuststreet.com)** | **[Internship - Research & Insights](https://jobright.ai/jobs/info/6881844929ad6b2744ae2c0f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6881700129ad6b2744ae226c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Salt Lake County](https://www.slco.org)** | **[Age-Friendly Intern](https://jobright.ai/jobs/info/68816f9d16ea5743a373912f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Fellow](https://jobright.ai/jobs/info/68816f9816ea5743a3739129?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
@@ -115,12 +119,12 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Provo](https://jobright.ai/jobs/info/687ee5e1764c3d7411c47163?utm_campaign=1056&utm_source=git)** | Provo, UT, United States | On Site | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/687ee4b7764c3d7411c47008?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | **[North Shore Strategies](https://nsstrategy.com)** | **[Political Intern](https://jobright.ai/jobs/info/687f0dce764c3d7411c487e3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Social Work Case Manager – Medical Case Management Program Intern (Fall 2025)](https://jobright.ai/jobs/info/687ea37d764c3d7411c450ac?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 21 |
 | **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/687ed7dbdb19f31cf0d6d7d3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/687e91df764c3d7411c446c7?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/687e91012097a271a899607e?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/687e9010764c3d7411c44518?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Medical Case Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687e8e5e2097a271a8995e3b?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | Remote | Jul 21 |
-| ↳ | **[Medical Case Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687ea37d764c3d7411c450ac?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 21 |
 | **[UNDP Careers](https://www.undp.org)** | **[Nature Investments Intern (Home-based - 3 positions)](https://jobright.ai/jobs/info/687e45ad2097a271a8993f26?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jul 21 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/687e183f2097a271a8993147?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[State of Washington](http://access.wa.gov/)** | **[Assistant State Auditor 1, 2, or 3 (Internal Only - Bellingham)](https://jobright.ai/jobs/info/687edc6edb19f31cf0d6d947?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Jul 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687acdeb2097a271a898153a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Greater Pittsburgh Community Food Bank](https://www.pittsburghfoodbank.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/687a97032097a271a897fde4?utm_campaign=1056&utm_source=git)** | Greater Pittsburgh Community Food Bank | Remote | Jul 18 |
 | **[Nestlé](https://www.nestle.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/687a9281ed63844c944a3e12?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jul 18 |
-| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Mission Services Intern](https://jobright.ai/jobs/info/687a8feb2097a271a897fb83?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/687aaad5ed63844c944a5112?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Jul 18 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Government Relations](https://jobright.ai/jobs/info/687ab3aa764c3d7411c2f441?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jul 18 |
-| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work - Child & Family Advocate Internship - Pascagoula, MS](https://jobright.ai/jobs/info/6875790eae2f413e4a5a76b3?utm_campaign=1056&utm_source=git)** | Pascagoula, MS | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
