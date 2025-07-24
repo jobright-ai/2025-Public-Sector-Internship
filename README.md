@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/6882667a835a903aa07ed39d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688263a86fcd973d15ad8bf7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Rich Feuer Anderson](https://www.rfadc.com)** | **[Post-Grad Public Policy Intern](https://jobright.ai/jobs/info/68826ddd835a903aa07ed654?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/68823dcdb54cac0f1e72e06d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6882196889987b37105b17bc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | ↳ | **[Intern - Asia Maritime Transparency Initiative (Summer 2025)](https://jobright.ai/jobs/info/688218f589987b37105b179c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
@@ -83,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '25 Internship (Portuguese Bilingual)](https://jobright.ai/jobs/info/68811582f4f06100f3a23cb9?utm_campaign=1056&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Jul 23 |
 | **[IIRR](http://www.iirr.org)** | **[Advocacy & Communications Officer - Intern](https://jobright.ai/jobs/info/68811339f4f06100f3a23ac4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6881003c29ad6b2744addfd4?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Jul 23 |
+| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Jul 23 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/6750100fc215087b2ed1d661?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Evergreen Strategy Group](https://www.evergreenstrategygroup.com)** | **[Fall 2025 Intern](https://jobright.ai/jobs/info/68810c3616ea5743a37355e9?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 23 |
-| **[U.S. House of Representatives](http://www.house.gov/)** | **[Fall Internship](https://jobright.ai/jobs/info/68810bbc16ea5743a3735594?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jul 23 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Lead Internal Auditor - State Program Administrator Coordinator](https://jobright.ai/jobs/info/68811a3916ea5743a37360c9?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Jul 23 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern](https://jobright.ai/jobs/info/6876a9495cebcd1dd51cb1aa?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Jul 23 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/6880ec2e16ea5743a37340ac?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e6c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jul 19 |
 | **[Biasly](http://www.biasly.com)** | **[Political Science Analyst Intern](https://jobright.ai/jobs/info/687c50deed63844c944acb20?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | Jul 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/686002fa6a9f621ce44acdd2?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Jul 19 |
-| **[Meridian Health](https://www.meridianhealth.com)** | **[INTERN Bachelor Level Social Worker 6397](https://jobright.ai/jobs/info/687bf3dbed63844c944ac3f1?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Jul 19 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68236f5202abb00910ca2170?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jul 19 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
