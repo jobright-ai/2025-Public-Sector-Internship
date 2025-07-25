@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6883d5fd835a903aa07f82aa?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Jul 25 |
+| ↳ | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6883d3dab54cac0f1e739f4d?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Jul 25 |
 | **[Connecticut League of Conservation Voters (CTLCV)](http://www.ctlcv.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6883c1546fcd973d15ae2cbb?utm_campaign=1056&utm_source=git)** | Hartford, CT | Hybrid | Jul 25 |
 | **[Southern Research](https://southernresearch.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6883bb36835a903aa07f7210?utm_campaign=1056&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jul 25 |
 | **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883b849b54cac0f1e7390b9?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Jul 25 |
-| ↳ | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
+| **[Sierra Club San Diego Chapter](http://sandiegosierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6883ccf8b54cac0f1e739973?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 25 |
+| **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/68838156835a903aa07f6074?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Jul 25 |
 | **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (MSW Social Work)](https://jobright.ai/jobs/info/68837f14835a903aa07f602f?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Jul 25 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/688206bc3cd0ab03f68765a5?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jul 24 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[SNAP (Student Neighborhood Assistance Program)](https://jobright.ai/jobs/info/68830d21835a903aa07f31ce?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 24 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6881ee9a1321092fa0062ff8?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jul 23 |
-| **[Self Storage Plus](https://www.selfstorageplus.com)** | **[Arcland Intern](https://jobright.ai/jobs/info/6882f89fb54cac0f1e73404c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Action Plan Intern](https://jobright.ai/jobs/info/688189c816ea5743a3739d90?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
 | ↳ | **[Organizing Intern](https://jobright.ai/jobs/info/688187e916ea5743a3739ce8?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Jul 23 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 23 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '25 Internship (Portuguese Bilingual)](https://jobright.ai/jobs/info/6881698af4f06100f3a26c89?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 23 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Social Work Case Manager – Medical Case Management Program Intern (Fall 2025)](https://jobright.ai/jobs/info/68813568f4f06100f3a252a1?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 23 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/68812bf316ea5743a3736bad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
+| **[Gannon University](http://www.gannon.edu/)** | **[Center Social Concerns Community Engagement Intern](https://jobright.ai/jobs/info/6883dab46fcd973d15ae3db8?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Jul 23 |
 | **[World Relief](https://worldrelief.org/)** | **[IFRP Caseworker- Full-time- 2025232](https://jobright.ai/jobs/info/6881249d16ea5743a3736914?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Jul 23 |
 | **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '25 Internship (Portuguese Bilingual)](https://jobright.ai/jobs/info/68811582f4f06100f3a23cb9?utm_campaign=1056&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Jul 23 |
 | **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice](https://jobright.ai/jobs/info/6881003c29ad6b2744addfd4?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Jul 23 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6880ffa0f4f06100f3a22cc9?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Jul 23 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Food & Land Access Intern](https://jobright.ai/jobs/info/68820bf41329ae22b0a01d29?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/686bb6a735584b654250cb04?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/6881e30bee15177ae97188af?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 23 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/688086cb9f7280424570c3f8?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 22 |
 | **[Youth Opportunity Center](https://www.yocinc.org)** | **[State of Indiana Internship - Undergraduate](https://jobright.ai/jobs/info/6880869f9f7280424570c3ce?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Jul 22 |
 | **[Selfhelp Community Services](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2025)](https://jobright.ai/jobs/info/683be57986d1fc2ec8b3f397?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/687fa836764c3d7411c4c32b?utm_campaign=1056&utm_source=git)** | Austin, Texas | Hybrid | Jul 22 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Community Outreach Team Program Director (COT-PD)](https://jobright.ai/jobs/info/6880bf8a29ad6b2744adb6c3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jul 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681b789e334293c5f04d4348?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs - Paid Intern](https://jobright.ai/jobs/info/68632fb7d98d62879cdca9a0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
-| **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/688078929f7280424570b7dc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
