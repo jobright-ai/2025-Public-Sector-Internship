@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Communications and Public Affairs Intern (Fall 2025) at Sugerman Communications Group, Inc.](https://jobright.ai/jobs/info/6882c3b9b54cac0f1e732995?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Velocity Government Relations](https://www.velocitygr.com/)** | **[Fall Fellow](https://jobright.ai/jobs/info/6882a468835a903aa07ef9ce?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jul 24 |
 | **[Metropolitan Planning Council](https://www.metroplanning.org)** | **[Research Assistant / Zoning and Planned Developments](https://jobright.ai/jobs/info/6882a1f2835a903aa07ef83b?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jul 24 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Social Work Intern](https://jobright.ai/jobs/info/68829f38835a903aa07ef642?utm_campaign=1056&utm_source=git)** | FARGO, North Dakota | On Site | Jul 24 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/68829289835a903aa07eefd8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 24 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6882a0206fcd973d15adb1cd?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688275e7b54cac0f1e72fa88?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/6882a1f3835a903aa07ef83f?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jul 24 |
 | **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/6882667a835a903aa07ed39d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688263a86fcd973d15ad8bf7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Rich Feuer Anderson](https://www.rfadc.com)** | **[Post-Grad Public Policy Intern](https://jobright.ai/jobs/info/68826ddd835a903aa07ed654?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[American Lung Association](http://www.lung.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68828813835a903aa07ee5ef?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 24 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Salt Lake County](https://www.slco.org)** | **[Age-Friendly Intern](https://jobright.ai/jobs/info/68816f9d16ea5743a373912f?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[William Randolph Hearst Fellow](https://jobright.ai/jobs/info/68816f9816ea5743a3739129?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/6881649229ad6b2744ae1d85?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 23 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6882bd69835a903aa07f07b0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[OGR](https://www.ogrwashington.com)** | **[Legislative Intern - Fall 2025](https://jobright.ai/jobs/info/68815406f4f06100f3a2616a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[Lineage](https://www.onelineage.com)** | **[Intern (PRE-ID)](https://jobright.ai/jobs/info/6881495df4f06100f3a25b69?utm_campaign=1056&utm_source=git)** | Novi, MI (Humboldt Drive) | Remote | Jul 23 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern-14](https://jobright.ai/jobs/info/688148a2f4f06100f3a25ac2?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Sustainability Reporting Fellow](https://jobright.ai/jobs/info/687ed7dbdb19f31cf0d6d7d3?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/687e91df764c3d7411c446c7?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/687e91012097a271a899607e?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
-| ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/687e9010764c3d7411c44518?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 21 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Medical Case Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687e8e5e2097a271a8995e3b?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
