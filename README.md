@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut League of Conservation Voters (CTLCV)](http://www.ctlcv.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6883c1546fcd973d15ae2cbb?utm_campaign=1056&utm_source=git)** | Hartford, CT | Hybrid | Jul 25 |
+| **[Southern Research](https://southernresearch.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6883bb36835a903aa07f7210?utm_campaign=1056&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jul 25 |
+| **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883b849b54cac0f1e7390b9?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Jul 25 |
+| ↳ | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/68838156835a903aa07f6074?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Jul 25 |
 | **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (MSW Social Work)](https://jobright.ai/jobs/info/68837f14835a903aa07f602f?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Jul 25 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/68823dcdb54cac0f1e72e06d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6882196889987b37105b17bc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| ↳ | **[Intern - Asia Maritime Transparency Initiative (Summer 2025)](https://jobright.ai/jobs/info/688218f589987b37105b179c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688217404b37ff1fba97bbc9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Water Finance Exchange (WFX)](https://waterfx.org)** | **[Research Fellow, Water Infrastructure and Policy](https://jobright.ai/jobs/info/68822fcbb54cac0f1e72da4f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68829172b54cac0f1e730f5a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681b789e334293c5f04d4348?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Public and International Affairs - Paid Intern](https://jobright.ai/jobs/info/68632fb7d98d62879cdca9a0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/688078929f7280424570b7dc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681cc50e367f97acdbd6859e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Jul 22 |
-| ↳ | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Internship](https://jobright.ai/jobs/info/6862ed3e227567a16aee8fb0?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
