@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/688321a66fcd973d15adfa0c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f537835a903aa07f1cc1?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
 | **[UHS](https://uhs.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f52eb54cac0f1e733be8?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
 | **[City of Pasadena](http://www.cityofpasadena.net)** | **[Administrative Intern (Economic Development)](https://jobright.ai/jobs/info/6882f028835a903aa07f19f9?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Jul 24 |
@@ -70,11 +71,11 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst PT– 6310](https://jobright.ai/jobs/info/6882d79eb54cac0f1e733274?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Jul 24 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/68829289835a903aa07eefd8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 24 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6882a0206fcd973d15adb1cd?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688275e7b54cac0f1e72fa88?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/6882a1f3835a903aa07ef83f?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/6882faf66fcd973d15addcc7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[Intern, US Program](https://jobright.ai/jobs/info/6882fa62b54cac0f1e7341a5?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 24 |
 | **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/6882667a835a903aa07ed39d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688263a86fcd973d15ad8bf7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[American Lung Association](http://www.lung.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68828813835a903aa07ee5ef?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/68823dcdb54cac0f1e72e06d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 24 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/6881e30bee15177ae97188af?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 23 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/688086cb9f7280424570c3f8?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 22 |
 | **[Youth Opportunity Center](https://www.yocinc.org)** | **[State of Indiana Internship - Undergraduate](https://jobright.ai/jobs/info/6880869f9f7280424570c3ce?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Jul 22 |
+| **[Selfhelp Community Services](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2025)](https://jobright.ai/jobs/info/683be57986d1fc2ec8b3f397?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/6881a8f416ea5743a373ae7f?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jul 22 |
 | **[Kentucky State University](http://www.kysu.edu/)** | **[FWS Institutional Research Assistant](https://jobright.ai/jobs/info/688308a4b54cac0f1e734e94?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jul 22 |
 | **[National Building Museum](http://www.nbm.org)** | **[Public Programs Intern](https://jobright.ai/jobs/info/6881a3fd29ad6b2744ae3bf4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town of Carolina Beach](https://www.carolinabeach.org)** | **[MPA Fellow](https://jobright.ai/jobs/info/6881b84929ad6b2744ae4b60?utm_campaign=1056&utm_source=git)** | Carolina Beach, NC | On Site | Jul 21 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Policy)](https://jobright.ai/jobs/info/687f23712097a271a899b20b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | ↳ | **[Intern - Simon-Skjodt Center for the Prevention of Genocide (Research)](https://jobright.ai/jobs/info/687f1b17764c3d7411c49358?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jul 21 |
-| **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/683a1bc9d6e60d26a3a431cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 21 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Provo](https://jobright.ai/jobs/info/687ee5e1764c3d7411c47163?utm_campaign=1056&utm_source=git)** | Provo, UT, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
