@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern](https://jobright.ai/jobs/info/6883fcd2835a903aa07f98a5?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Jul 25 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Economic Assistance (Fall)](https://jobright.ai/jobs/info/6883e8d4835a903aa07f8bda?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jul 25 |
+| **[Jewish Democratic Council of America](https://jewishdems.org/)** | **[Winter Internship](https://jobright.ai/jobs/info/6883e336b54cac0f1e73a983?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 25 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6883d5fd835a903aa07f82aa?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Jul 25 |
 | ↳ | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6883d3dab54cac0f1e739f4d?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Jul 25 |
 | **[Connecticut League of Conservation Voters (CTLCV)](http://www.ctlcv.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6883c1546fcd973d15ae2cbb?utm_campaign=1056&utm_source=git)** | Hartford, CT | Hybrid | Jul 25 |
@@ -65,9 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Sierra Club San Diego Chapter](http://sandiegosierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6883ccf8b54cac0f1e739973?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 25 |
 | **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinical Social Work Intern Naples FL](https://jobright.ai/jobs/info/68838156835a903aa07f6074?utm_campaign=1056&utm_source=git)** | Naples, FL | Hybrid | Jul 25 |
-| **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (MSW Social Work)](https://jobright.ai/jobs/info/68837f14835a903aa07f602f?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Jul 25 |
-| ↳ | **[Intern-Senior Nutrition (BSW Social Work)](https://jobright.ai/jobs/info/68837e896fcd973d15ae18da?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Jul 25 |
+| **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (BSW Social Work)](https://jobright.ai/jobs/info/68837e896fcd973d15ae18da?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Jul 25 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/688321a66fcd973d15adfa0c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f537835a903aa07f1cc1?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
 | **[UHS](https://uhs.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f52eb54cac0f1e733be8?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Student Engagement Public Service & Leadership Intern - Federal Work-Study Position (Student Wage)](https://jobright.ai/jobs/info/687fb0b39f72804245704810?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jul 22 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/687fa836764c3d7411c4c32b?utm_campaign=1056&utm_source=git)** | Austin, Texas | Hybrid | Jul 22 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Community Outreach Team Program Director (COT-PD)](https://jobright.ai/jobs/info/6880bf8a29ad6b2744adb6c3?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jul 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681b789e334293c5f04d4348?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
