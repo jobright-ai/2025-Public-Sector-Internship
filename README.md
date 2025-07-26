@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Duckcreek Policy (Business Analyst or Developer or QA) - Internship](https://jobright.ai/jobs/info/68854dd8fbbf032d0006c54d?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | **[My Optimal Child](http://www.myoptimalchild.com)** | **[Mental Health Counselor-Registered Intern](https://jobright.ai/jobs/info/688506a74174df41e0f95d1c?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jul 26 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Volunteer: Political Affairs Internship](https://jobright.ai/jobs/info/6884f045fbbf032d0006b722?utm_campaign=1056&utm_source=git)** | Hooksett, NH | On Site | Jul 26 |
 | **[University of Vermont Foundation & Alumni Association](https://www.uvmfoundation.org/)** | **[Student Philanthropy Intern](https://jobright.ai/jobs/info/684b5c4cb6988150ff157efc?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Intern - Federalist Society](https://jobright.ai/jobs/info/6880d36929ad6b2744adc64d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/68800951764c3d7411c4e9b2?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jul 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6881e201ee15177ae9718781?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Jul 22 |
-| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Graduate Intern](https://jobright.ai/jobs/info/687fc0b49f72804245704df9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
