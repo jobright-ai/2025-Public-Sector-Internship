@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Volunteer: Political Affairs Internship](https://jobright.ai/jobs/info/6884f045fbbf032d0006b722?utm_campaign=1056&utm_source=git)** | Hooksett, NH | On Site | Jul 26 |
 | **[University of Vermont Foundation & Alumni Association](https://www.uvmfoundation.org/)** | **[Student Philanthropy Intern](https://jobright.ai/jobs/info/684b5c4cb6988150ff157efc?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Jul 26 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6884c7f1fbbf032d0006b04c?utm_campaign=1056&utm_source=git)** | Spartanburg, SC | On Site | Jul 26 |
+| **[CryptoCurrency ICO/Airdrop](https://coinmarketcap.com/)** | **[Community Operations and KOL Engagement（Intern/contractor）](https://jobright.ai/jobs/info/6884f3064174df41e0f95a6b?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 26 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/6884b6b54174df41e0f95134?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 26 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Bureau of Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/68844272fbbf032d0006670d?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 25 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/68842b936fcd973d15ae60d4?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jul 25 |
@@ -91,11 +93,11 @@ For a complete list, click the following sortable link below:
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Social Work Intern](https://jobright.ai/jobs/info/68829f38835a903aa07ef642?utm_campaign=1056&utm_source=git)** | FARGO, North Dakota | On Site | Jul 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst PT– 6310](https://jobright.ai/jobs/info/6882d79eb54cac0f1e733274?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Jul 24 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/68829289835a903aa07eefd8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 24 |
-| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688275e7b54cac0f1e72fa88?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/6882a1f3835a903aa07ef83f?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/6882faf66fcd973d15addcc7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[Intern, US Program](https://jobright.ai/jobs/info/6882fa62b54cac0f1e7341a5?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 24 |
 | **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/6882667a835a903aa07ed39d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688263a86fcd973d15ad8bf7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/6865ca02a6777de1bb208e4e?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Jul 24 |
 | **[American Lung Association](http://www.lung.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68828813835a903aa07ee5ef?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 24 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '25 Internship (Portuguese Bilingual)](https://jobright.ai/jobs/info/6881698af4f06100f3a26c89?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 23 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Social Work Case Manager – Medical Case Management Program Intern (Fall 2025)](https://jobright.ai/jobs/info/68813568f4f06100f3a252a1?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Jul 23 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/68812bf316ea5743a3736bad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 23 |
-| **[Gannon University](http://www.gannon.edu/)** | **[Center Social Concerns Community Engagement Intern](https://jobright.ai/jobs/info/6883dab46fcd973d15ae3db8?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Jul 23 |
 | **[World Relief](https://worldrelief.org/)** | **[IFRP Caseworker- Full-time- 2025232](https://jobright.ai/jobs/info/6881249d16ea5743a3736914?utm_campaign=1056&utm_source=git)** | Moline, IL | On Site | Jul 23 |
 | **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Fall '25 Internship (Portuguese Bilingual)](https://jobright.ai/jobs/info/68811582f4f06100f3a23cb9?utm_campaign=1056&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Jul 23 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Fall 2025 US Disaster Relief Intern](https://jobright.ai/jobs/info/67d854236fa3a71eccbcb5e2?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/68800951764c3d7411c4e9b2?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jul 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6881e201ee15177ae9718781?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Jul 22 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Graduate Intern](https://jobright.ai/jobs/info/687fc0b49f72804245704df9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 22 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Refugee Health Services](https://jobright.ai/jobs/info/6881d6f11321092fa0061ce8?utm_campaign=1056&utm_source=git)** | Bridgeport, CT | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
