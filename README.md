@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stearns County MN](http://stearnscountymn.gov)** | **[Community Correction Intern, Human Services](https://jobright.ai/jobs/info/688655f7b651c92cb78af2ca?utm_campaign=1056&utm_source=git)** | St Cloud, MN | On Site | Jul 27 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87c1?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 27 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health & Public Policy Internship](https://jobright.ai/jobs/info/688622b2fbbf032d0006faaa?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Jul 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68861c4cb651c92cb78aece5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/6885fdedb651c92cb78aead0?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kentucky State University](http://www.kysu.edu/)** | **[FWS Institutional Research Assistant](https://jobright.ai/jobs/info/688308a4b54cac0f1e734e94?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jul 22 |
 | **[National Building Museum](http://www.nbm.org)** | **[Public Programs Intern](https://jobright.ai/jobs/info/6881a3fd29ad6b2744ae3bf4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern, LG's Office](https://jobright.ai/jobs/info/68809d2629ad6b2744ada721?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Jul 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
