@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/68842b936fcd973d15ae60d4?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jul 25 |
 | ↳ | **[Intern - Family Services Specialist (Spring)](https://jobright.ai/jobs/info/68842773b54cac0f1e73c610?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Jul 25 |
 | **[City of Plano](https://www.plano.gov)** | **[Intern - Degree - Bachelor - Visit Plano](https://jobright.ai/jobs/info/68840ec66fcd973d15ae563c?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jul 25 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68840c9ab54cac0f1e73bc39?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jul 25 |
 | **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern](https://jobright.ai/jobs/info/6883fcd2835a903aa07f98a5?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Jul 25 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Economic Assistance (Fall)](https://jobright.ai/jobs/info/6883e8d4835a903aa07f8bda?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jul 25 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Community Outreach and Events Intern](https://jobright.ai/jobs/info/6884028f835a903aa07f9a1e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[National Building Museum](http://www.nbm.org)** | **[Public Programs Intern](https://jobright.ai/jobs/info/6881a3fd29ad6b2744ae3bf4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern, LG's Office](https://jobright.ai/jobs/info/68809d2629ad6b2744ada721?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Jul 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 22 |
+| ↳ | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8139?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
