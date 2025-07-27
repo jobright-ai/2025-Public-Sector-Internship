@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/6885fdedb651c92cb78aead0?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Duckcreek Policy (Business Analyst or Developer or QA) (Internship)](https://jobright.ai/jobs/info/6885a84ab651c92cb78ad10c?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern-14](https://jobright.ai/jobs/info/68858e6a4174df41e0f9701f?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Duckcreek Policy (Business Analyst or Developer or QA) - Internship](https://jobright.ai/jobs/info/68854dd8fbbf032d0006c54d?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jul 25 |
+| **[Ultimate Fighting Championship](http://UFC.com)** | **[Government Relations Intern - Fall 2025](https://jobright.ai/jobs/info/6865dee6517281aa5264c1e3?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jul 25 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/688321a66fcd973d15adfa0c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f537835a903aa07f1cc1?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
 | **[UHS](https://uhs.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f52eb54cac0f1e733be8?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
@@ -100,11 +102,11 @@ For a complete list, click the following sortable link below:
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Social Work Intern](https://jobright.ai/jobs/info/68829f38835a903aa07ef642?utm_campaign=1056&utm_source=git)** | FARGO, North Dakota | On Site | Jul 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst PT– 6310](https://jobright.ai/jobs/info/6882d79eb54cac0f1e733274?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Jul 24 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/68829289835a903aa07eefd8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 24 |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688275e7b54cac0f1e72fa88?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/6882a1f3835a903aa07ef83f?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/6882faf66fcd973d15addcc7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[Intern, US Program](https://jobright.ai/jobs/info/6882fa62b54cac0f1e7341a5?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 24 |
 | **[Kurdistan Regional Government Representation in the United States](http://us.gov.krd)** | **[Diplomatic Intern](https://jobright.ai/jobs/info/6882667a835a903aa07ed39d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/688263a86fcd973d15ad8bf7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Outreach Intern](https://jobright.ai/jobs/info/6865ca02a6777de1bb208e4e?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | Hybrid | Jul 24 |
 | **[American Lung Association](http://www.lung.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68828813835a903aa07ee5ef?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8139?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Jul 22 |
 | **[AARP](http://www.aarp.org)** | **[International Policy Intern](https://jobright.ai/jobs/info/688056602097a271a89a3187?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68806ce62097a271a89a4a17?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
-| **[Richardson Bay Audubon Center](http://tiburonaudubon.org)** | **[Intern, Community Conservation Programs](https://jobright.ai/jobs/info/688052549f728042457095a3?utm_campaign=1056&utm_source=git)** | Savannah, NY | On Site | Jul 22 |
-| **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/6881d6a0ee15177ae9717bb3?utm_campaign=1056&utm_source=git)** | Washington Heights, TN | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
