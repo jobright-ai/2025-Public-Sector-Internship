@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Duckcreek Policy (Business Analyst or Developer or QA) (Internship)](https://jobright.ai/jobs/info/6885a84ab651c92cb78ad10c?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern-14](https://jobright.ai/jobs/info/68858e6a4174df41e0f9701f?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Duckcreek Policy (Business Analyst or Developer or QA) - Internship](https://jobright.ai/jobs/info/68854dd8fbbf032d0006c54d?utm_campaign=1056&utm_source=git)** | Michigan, United States | On Site | Jul 26 |
 | **[My Optimal Child](http://www.myoptimalchild.com)** | **[Mental Health Counselor-Registered Intern](https://jobright.ai/jobs/info/688506a74174df41e0f95d1c?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jul 26 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern](https://jobright.ai/jobs/info/6883fcd2835a903aa07f98a5?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Jul 25 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Economic Assistance (Fall)](https://jobright.ai/jobs/info/6883e8d4835a903aa07f8bda?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jul 25 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Community Outreach and Events Intern](https://jobright.ai/jobs/info/6884028f835a903aa07f9a1e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 25 |
-| **[Jewish Democratic Council of America](https://jewishdems.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6883e336b54cac0f1e73a983?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Jewish Democratic Council of America](https://jewishdems.org/)** | **[Winter Internship](https://jobright.ai/jobs/info/6883e336b54cac0f1e73a983?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 25 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6883d5fd835a903aa07f82aa?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Jul 25 |
 | ↳ | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6883d3dab54cac0f1e739f4d?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Jul 25 |
 | **[Connecticut League of Conservation Voters (CTLCV)](http://www.ctlcv.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6883c1546fcd973d15ae2cbb?utm_campaign=1056&utm_source=git)** | Hartford, CT | Hybrid | Jul 25 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68829172b54cac0f1e730f5a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/688206bc3cd0ab03f68765a5?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jul 24 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6881ee9a1321092fa0062ff8?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jul 23 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/6885a716b651c92cb78ad066?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Jul 23 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Action Plan Intern](https://jobright.ai/jobs/info/688189c816ea5743a3739d90?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
 | ↳ | **[Organizing Intern](https://jobright.ai/jobs/info/688187e916ea5743a3739ce8?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Jul 23 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/6881d6a0ee15177ae9717bb3?utm_campaign=1056&utm_source=git)** | Washington Heights, TN | On Site | Jul 22 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6881d3741321092fa0061ad0?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jul 22 |
 | **[AARP](http://www.aarp.org)** | **[International Policy Intern](https://jobright.ai/jobs/info/688053b2764c3d7411c517cf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/681b789e334293c5f04d434e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Jul 22 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Intern - Federalist Society](https://jobright.ai/jobs/info/6880d36929ad6b2744adc64d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
