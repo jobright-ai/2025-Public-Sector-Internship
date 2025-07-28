@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/6886a7734174df41e0f9a6cd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[Stearns County MN](http://stearnscountymn.gov)** | **[Community Correction Intern, Human Services](https://jobright.ai/jobs/info/688655f7b651c92cb78af2ca?utm_campaign=1056&utm_source=git)** | St Cloud, MN | On Site | Jul 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87c1?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jul 27 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health & Public Policy Internship](https://jobright.ai/jobs/info/688622b2fbbf032d0006faaa?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Jul 27 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - Lake Wilmore](https://jobright.ai/jobs/info/6884b6b54174df41e0f95134?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Jul 26 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6885985b4174df41e0f973dd?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Jul 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/688599aeb651c92cb78ac5f9?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Jul 26 |
-| **[Jewish Democratic Council of America](https://jewishdems.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6883e336b54cac0f1e73a983?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68669f176cddfa1959c68712?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jul 25 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Government Relations & Advocacy Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68671fac20a7ad900a5f076c?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 25 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Bureau of Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/68844272fbbf032d0006670d?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 25 |
@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 24 |
 | **[Center for Civilians in Conflict](http://www.civiliansinconflict.org)** | **[Intern, US Program](https://jobright.ai/jobs/info/68823dcdb54cac0f1e72e06d?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/6882196889987b37105b17bc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688217404b37ff1fba97bbc9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Water Finance Exchange (WFX)](https://waterfx.org)** | **[Research Fellow, Water Infrastructure and Policy](https://jobright.ai/jobs/info/68822fcbb54cac0f1e72da4f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68829172b54cac0f1e730f5a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/688206bc3cd0ab03f68765a5?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jul 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kentucky State University](http://www.kysu.edu/)** | **[FWS Institutional Research Assistant](https://jobright.ai/jobs/info/688308a4b54cac0f1e734e94?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jul 22 |
 | **[National Building Museum](http://www.nbm.org)** | **[Public Programs Intern](https://jobright.ai/jobs/info/6881a3fd29ad6b2744ae3bf4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern, LG's Office](https://jobright.ai/jobs/info/68809d2629ad6b2744ada721?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Jul 22 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
