@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[SDOH Screening & Outreach Volunteer](https://jobright.ai/jobs/info/688a308509808a6103e4cee3?utm_campaign=1056&utm_source=git)** | 1621 Eastchester Road | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6889fab2aab47a17f670645b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/6889d4c99f961617fe218adb?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jul 30 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6889d1ba09808a6103e4bc6f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | ↳ | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6889c6d909808a6103e4b7bc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/68899ea7aab47a17f67038c8?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 29 |
@@ -108,6 +108,7 @@ Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_camp
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/6887d7a44174df41e0fa1063?utm_campaign=1056&utm_source=git)** | US-OH-Cincinnati | On Site | Jul 28 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6887ce91fbbf032d00076a6d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 28 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Legislative Research Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/6887ea93fbbf032d00077786?utm_campaign=1056&utm_source=git)** | Illinois, United States | Hybrid | Jul 28 |
+| **[International Institute of New England](https://iine.org/)** | **[Unaccompanied children Internship (Remote)](https://jobright.ai/jobs/info/6887c9404174df41e0fa09f1?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Jul 28 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6887c6ba4174df41e0fa062a?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Jul 28 |
 | ↳ | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/68842b936fcd973d15ae60d4?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jul 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6887bf084174df41e0fa036a?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Jul 28 |
@@ -127,7 +128,6 @@ Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_camp
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/68884a17fbbf032d0007a325?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
 | **[Boys & Girls Clubs of the Tennessee Valley](http://www.bgctnv.org)** | **[MESH Social Work Intern](https://jobright.ai/jobs/info/68884cc24174df41e0fa4942?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Jul 27 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Boston)](https://jobright.ai/jobs/info/68884dcefbbf032d0007a663?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 27 |
-| ↳ | **[Unaccompanied children Internship (Remote)](https://jobright.ai/jobs/info/6887ce5e73e3e13cbd940402?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Jul 27 |
 | ↳ | **[Immigration Research Intern (IINE Boston)](https://jobright.ai/jobs/info/6887febefbbf032d000780b9?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 27 |
 | **[Center for Data Innovation](http://www.datainnovation.org/)** | **[Center for Data Innovation Intern (Part-Time, Paid)](https://jobright.ai/jobs/info/6887dcf773e3e13cbd940a5f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dc?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 27 |
