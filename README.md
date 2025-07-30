@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Real Estate Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/688a49c59f961617fe21a704?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jul 30 |
 | **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[SDOH Screening & Outreach Volunteer](https://jobright.ai/jobs/info/688a308509808a6103e4cee3?utm_campaign=1056&utm_source=git)** | 1621 Eastchester Road | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6889fab2aab47a17f670645b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6889d1ba09808a6103e4bc6f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
-| ↳ | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6889c6d909808a6103e4b7bc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/68899ea7aab47a17f67038c8?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 29 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Grant and Proposal Writer - Volunteer or Unpaid Intern](https://jobright.ai/jobs/info/6889915909808a6103e48a4b?utm_campaign=1056&utm_source=git)** | Vienna, VA | Remote | Jul 29 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/6889732eaab47a17f6701b62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
