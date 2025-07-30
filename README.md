@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6889fab2aab47a17f670645b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/6889d4c99f961617fe218adb?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jul 30 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6889d1ba09808a6103e4bc6f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | ↳ | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6889c6d909808a6103e4b7bc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/688972379f961617fe214730?utm_campaign=1056&utm_source=git)** | Feeding Children Everywhere - HQ | Remote | Jul 29 |
 | ↳ | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/68896fb4aab47a17f67017c3?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 29 |
 | **[State of Arizona](https://gaming.az.gov)** | **[STUDENT INTERN - VICTIM SERVICES - UNPAID](https://jobright.ai/jobs/info/68895735aab47a17f6700f03?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jul 29 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688951ccaab47a17f6700d46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68894faeaab47a17f6700c40?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Jul 29 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[Funding Programs Intern](https://jobright.ai/jobs/info/688940b2aab47a17f67004c4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship for Sustainable Development Goals Outreach and Partnerships
@@ -79,6 +79,7 @@ Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_camp
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889225209808a6103e454ba?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jul 29 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/68891d7809808a6103e45024?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jul 29 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68891b3f09808a6103e44d8c?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 29 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688919dd9f961617fe2119ad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/68891348aab47a17f66fe9ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[PA Interns](https://jobright.ai/jobs/info/688903a29f961617fe210f9e?utm_campaign=1056&utm_source=git)** | US - OR - Portland | On Site | Jul 29 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Intern](https://jobright.ai/jobs/info/6889347209808a6103e45c82?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jul 29 |
@@ -158,5 +159,4 @@ Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_camp
 | **[Granite School District](http://www.graniteschools.org)** | **[Volunteer - Social Worker Intern](https://jobright.ai/jobs/info/68850e2f4174df41e0f95fe3?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Jul 25 |
 | **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
