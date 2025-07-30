@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chevron](http://www.chevron.com)** | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a82fbaab47a17f67096a2?utm_campaign=1056&utm_source=git)** | Midland, Texas, United States of America | On Site | Jul 30 |
+| ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a825f9f961617fe21c35f?utm_campaign=1056&utm_source=git)** | Covington, Louisiana, United States of America | On Site | Jul 30 |
+| ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a81f809808a6103e4f542?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 30 |
+| ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a815609808a6103e4f467?utm_campaign=1056&utm_source=git)** | Greeley, Colorado, United States of America | On Site | Jul 30 |
 | **[Northwestern Medicine](http://nm.org)** | **[Master's Level Police Social Work Intern](https://jobright.ai/jobs/info/688a709d09808a6103e4eb85?utm_campaign=1056&utm_source=git)** | 12 Health Services Dr, DeKalb, IL 60115, USA | On Site | Jul 30 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/688a6d3b09808a6103e4e98f?utm_campaign=1056&utm_source=git)** | Hybrid--Washington DC | Hybrid | Jul 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/688a6a0c9f961617fe21b4ab?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Jul 30 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/68896fb4aab47a17f67017c3?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 29 |
 | **[State of Arizona](https://az.gov/)** | **[STUDENT INTERN - VICTIM SERVICES - UNPAID](https://jobright.ai/jobs/info/68895735aab47a17f6700f03?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jul 29 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68894faeaab47a17f6700c40?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Jul 29 |
-| **[YourBookTeam](https://yourbookteam.com)** | **[Funding Programs Intern](https://jobright.ai/jobs/info/688940b2aab47a17f67004c4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship for Sustainable Development Goals Outreach and Partnerships
 Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889394f9f961617fe212dc4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
@@ -126,8 +129,6 @@ Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_camp
 | **[POPVOX Foundation](http://popvox.org)** | **[POPVOX Foundation Internship](https://jobright.ai/jobs/info/6889c2a009808a6103e4b6ae?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Jul 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/6887694e73e3e13cbd93d943?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 28 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68876f2c4174df41e0f9e307?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jul 28 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Political Affairs/Electoral Analyst
-Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 28 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 28 |
 | **[Trailhead Institute](http://www.trailhead.institute)** | **[Policy Intern](https://jobright.ai/jobs/info/6889ae8009808a6103e4a6c9?utm_campaign=1056&utm_source=git)** | Denver, CO | Remote | Jul 27 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/68884a17fbbf032d0007a325?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
@@ -157,6 +158,4 @@ Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_camp
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Bureau of Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/68844272fbbf032d0006670d?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 25 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Family Services Specialist (Spring)](https://jobright.ai/jobs/info/68842773b54cac0f1e73c610?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Jul 25 |
 | **[City of Plano](https://www.plano.gov)** | **[Intern - Degree - Bachelor - Visit Plano](https://jobright.ai/jobs/info/68840ec66fcd973d15ae563c?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jul 25 |
-| **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern](https://jobright.ai/jobs/info/6883fcd2835a903aa07f98a5?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Jul 25 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Economic Assistance (Fall)](https://jobright.ai/jobs/info/6883e8d4835a903aa07f8bda?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
