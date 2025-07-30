@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Grant and Proposal Writer - Volunteer or Unpaid Intern](https://jobright.ai/jobs/info/6889915909808a6103e48a4b?utm_campaign=1056&utm_source=git)** | Vienna, VA | Remote | Jul 29 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/6889732eaab47a17f6701b62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/688972379f961617fe214730?utm_campaign=1056&utm_source=git)** | Feeding Children Everywhere - HQ | Remote | Jul 29 |
 | ↳ | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/68896fb4aab47a17f67017c3?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 29 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Jul 29 |
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889394f9f961617fe212dc4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
 | **[One House at a Time](http://www.ohaat.org)** | **[Beds for Kids Program Intern (Volunteer)](https://jobright.ai/jobs/info/68893490aab47a17f66ffdd7?utm_campaign=1056&utm_source=git)** | Huntingdon Valley, PA | On Site | Jul 29 |
-| **[Flower Girl Apparel](https://flowergirl.co/)** | **[Grant Writing & Research Intern](https://jobright.ai/jobs/info/688929409f961617fe212547?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | Remote | Jul 29 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/688948d609808a6103e4681b?utm_campaign=1056&utm_source=git)** | Dimondale, MI | Hybrid | Jul 29 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy/Research Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/688943aaaab47a17f670066b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jul 29 |
 | ↳ | **[KIP Fall 2025 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/688948c109808a6103e46810?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jul 29 |
@@ -99,7 +99,6 @@ Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_camp
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/6887d7a44174df41e0fa1063?utm_campaign=1056&utm_source=git)** | US-OH-Cincinnati | On Site | Jul 28 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6887ce91fbbf032d00076a6d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 28 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Legislative Research Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/6887ea93fbbf032d00077786?utm_campaign=1056&utm_source=git)** | Illinois, United States | Hybrid | Jul 28 |
-| **[International Institute of New England](https://iine.org/)** | **[Unaccompanied children Internship (Remote)](https://jobright.ai/jobs/info/6887c9404174df41e0fa09f1?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Jul 28 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/6887c6ba4174df41e0fa062a?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Jul 28 |
 | ↳ | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/68842b936fcd973d15ae60d4?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jul 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6887bf084174df41e0fa036a?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Jul 28 |
@@ -117,6 +116,7 @@ Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_camp
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/68884a17fbbf032d0007a325?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
 | **[Boys & Girls Clubs of the Tennessee Valley](http://www.bgctnv.org)** | **[MESH Social Work Intern](https://jobright.ai/jobs/info/68884cc24174df41e0fa4942?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Jul 27 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Boston)](https://jobright.ai/jobs/info/68884dcefbbf032d0007a663?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 27 |
+| ↳ | **[Unaccompanied children Internship (Remote)](https://jobright.ai/jobs/info/6887ce5e73e3e13cbd940402?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Jul 27 |
 | ↳ | **[Immigration Research Intern (IINE Boston)](https://jobright.ai/jobs/info/6887febefbbf032d000780b9?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 27 |
 | **[Center for Data Innovation](http://www.datainnovation.org/)** | **[Center for Data Innovation Intern (Part-Time, Paid)](https://jobright.ai/jobs/info/6887dcf773e3e13cbd940a5f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dc?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Jul 27 |
@@ -152,8 +152,8 @@ Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_camp
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jul 25 |
 | **[Velocity Government Relations](https://www.velocitygr.com/)** | **[Fellowship](https://jobright.ai/jobs/info/6882a468835a903aa07ef9ce?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 25 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/6887d7fbfbbf032d00076e9a?utm_campaign=1056&utm_source=git)** | Hybrid Remote | Hybrid | Jul 25 |
-| ↳ | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/6887d80673e3e13cbd94085d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
+| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/6887d80673e3e13cbd94085d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
+| ↳ | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/6887d7fbfbbf032d00076e9a?utm_campaign=1056&utm_source=git)** | Hybrid Remote | Hybrid | Jul 25 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Sustainability Fellow - Adjunct](https://jobright.ai/jobs/info/686b37c935584b65423f0564?utm_campaign=1056&utm_source=git)** | Durham, NH | On Site | Jul 25 |
 | **[Southern Research](https://southernresearch.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6888475efbbf032d0007a054?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Jul 24 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[OUTPATIENT SOCIAL WORK INTERN FT. WORTH  (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/6882f537835a903aa07f1cc1?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 24 |
