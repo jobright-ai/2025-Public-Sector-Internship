@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6889c6d909808a6103e4b7bc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
+| **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/6889d4c99f961617fe218adb?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jul 30 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6889d1ba09808a6103e4bc6f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
+| ↳ | **[PSYCHIATRIC SOCIAL WORKER I/DMH INTERN](https://jobright.ai/jobs/info/6889c6d909808a6103e4b7bc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/68899ea7aab47a17f67038c8?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 29 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Grant and Proposal Writer - Volunteer or Unpaid Intern](https://jobright.ai/jobs/info/6889915909808a6103e48a4b?utm_campaign=1056&utm_source=git)** | Vienna, VA | Remote | Jul 29 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/6889732eaab47a17f6701b62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
@@ -157,6 +159,4 @@ Job ID : 261587](https://jobright.ai/jobs/info/68886f2f8168d45fe878d19d?utm_camp
 | **[Southwest Coalition, Inc.](http://www.southwest.life)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6883c309b54cac0f1e7394ed?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Jul 25 |
 | **[Grove Partners](https://thegrovepartners.com/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68839d18835a903aa07f6556?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jul 25 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/6887d7fbfbbf032d00076e9a?utm_campaign=1056&utm_source=git)** | Hybrid Remote | Hybrid | Jul 25 |
-| ↳ | **[Fall 2025 Health Justice Graduate Intern](https://jobright.ai/jobs/info/6887d80673e3e13cbd94085d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
