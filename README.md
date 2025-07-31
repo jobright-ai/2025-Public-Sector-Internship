@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[THOMPSON Child & Family Focus](http://www.thompsoncff.org/)** | **[Foster Care Intern](https://jobright.ai/jobs/info/688bdec8906ac06e1d1cf24a?utm_campaign=1056&utm_source=git)** | Matthews, NC | On Site | Jul 31 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Vera Louisiana - Law and Policy Intern](https://jobright.ai/jobs/info/688bd9d8906ac06e1d1cef9c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bd548906ac06e1d1cec60?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[New Democracy](http://newdemocracy.net/)** | **[Fall CNL Advocacy and Policy Fellow](https://jobright.ai/jobs/info/688bc7863a30793eb963d967?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bbe363a30793eb963d370?utm_campaign=1056&utm_source=git)** | 425 Market Street, San Francisco, CA, 94105, US | On Site | Jul 31 |
 | **[Third Way](http://www.thirdway.org/)** | **[Health Policy Intern, Economic Program (Fall 2025)](https://jobright.ai/jobs/info/688bbc8b906ac06e1d1cdd9c?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 31 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Hudson Valley Regional Council](https://hudsonvalleyregionalcouncil.org/)** | **[Climate Action Planning Intern](https://jobright.ai/jobs/info/688b1005aab47a17f670e33c?utm_campaign=1056&utm_source=git)** | Newburgh, NY | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6889fab2aab47a17f670645b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Rivas Psychotherapy](www.rivaspsychotherapy.com)** | **[Registered Clinical Social Worker Intern (RCSWI)](https://jobright.ai/jobs/info/688b6ae83a30793eb963a676?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Jul 29 |
-| **[New Democracy](http://newdemocracy.net/)** | **[Fall CNL Advocacy and Policy Fellow](https://jobright.ai/jobs/info/688b6e72906ac06e1d1cb663?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/68899ea7aab47a17f67038c8?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 29 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Grant and Proposal Writer - Volunteer or Unpaid Intern](https://jobright.ai/jobs/info/6889915909808a6103e48a4b?utm_campaign=1056&utm_source=git)** | Vienna, VA | Remote | Jul 29 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/6889732eaab47a17f6701b62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/6841e7ada9cc09dc8db1030a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[POPVOX Foundation](http://popvox.org)** | **[POPVOX Foundation Internship](https://jobright.ai/jobs/info/6889c2a009808a6103e4b6ae?utm_campaign=1056&utm_source=git)** | Redwood City, CA | On Site | Jul 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/6887694e73e3e13cbd93d943?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 28 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68876f2c4174df41e0f9e307?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jul 28 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
