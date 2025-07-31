@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Democracy](http://newdemocracy.net/)** | **[Fall CNL Advocacy and Policy Fellow](https://jobright.ai/jobs/info/688bc7863a30793eb963d967?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bbe363a30793eb963d370?utm_campaign=1056&utm_source=git)** | 425 Market Street, San Francisco, CA, 94105, US | On Site | Jul 31 |
+| **[Third Way](http://www.thirdway.org/)** | **[Health Policy Intern, Economic Program (Fall 2025)](https://jobright.ai/jobs/info/688bbc8b906ac06e1d1cdd9c?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 31 |
+| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Unpaid Intern - Office of Nursing](https://jobright.ai/jobs/info/688bbb663a30793eb963ced7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, National Membership Engagement](https://jobright.ai/jobs/info/688ba6a11808534a89cb4ab9?utm_campaign=1056&utm_source=git)** | United States | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Arizona Organizing Intern](https://jobright.ai/jobs/info/688ba2ef3a30793eb963c1ee?utm_campaign=1056&utm_source=git)** | HYBRID - Phoenix, AZ | On Site | Jul 31 |
 | **[National Small Business Association](https://www.nsbaadvocate.org/)** | **[Government Affairs Intern Position – Fall 2025](https://jobright.ai/jobs/info/688ba260906ac06e1d1cceb5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/6887694e73e3e13cbd93d943?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 28 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68876f2c4174df41e0f9e307?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Jul 28 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 28 |
-| **[Trailhead Institute](http://www.trailhead.institute)** | **[Policy Intern](https://jobright.ai/jobs/info/6889ae8009808a6103e4a6c9?utm_campaign=1056&utm_source=git)** | Denver, CO | Remote | Jul 27 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68138746c846c4e5c350aa49?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/68884a17fbbf032d0007a325?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
-| **[Boys & Girls Clubs of the Tennessee Valley](http://www.bgctnv.org)** | **[MESH Social Work Intern](https://jobright.ai/jobs/info/68884cc24174df41e0fa4942?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
