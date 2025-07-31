@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/688aa226aab47a17f670a653?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
+| **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Health Policy Advocacy](https://jobright.ai/jobs/info/688a9eb09f961617fe21d063?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jul 30 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a82fbaab47a17f67096a2?utm_campaign=1056&utm_source=git)** | Midland, Texas, United States of America | On Site | Jul 30 |
 | ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a825f9f961617fe21c35f?utm_campaign=1056&utm_source=git)** | Covington, Louisiana, United States of America | On Site | Jul 30 |
 | ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a81f809808a6103e4f542?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 30 |
@@ -70,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Real Estate Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/688a49c59f961617fe21a704?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jul 30 |
 | **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[SDOH Screening & Outreach Volunteer](https://jobright.ai/jobs/info/688a308509808a6103e4cee3?utm_campaign=1056&utm_source=git)** | 1621 Eastchester Road | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6889fab2aab47a17f670645b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/6889d1ba09808a6103e4bc6f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/68899ea7aab47a17f67038c8?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 29 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Grant and Proposal Writer - Volunteer or Unpaid Intern](https://jobright.ai/jobs/info/6889915909808a6103e48a4b?utm_campaign=1056&utm_source=git)** | Vienna, VA | Remote | Jul 29 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Fall 2025](https://jobright.ai/jobs/info/6889732eaab47a17f6701b62?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/688972379f961617fe214730?utm_campaign=1056&utm_source=git)** | Feeding Children Everywhere - HQ | Remote | Jul 29 |
 | ↳ | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/68896fb4aab47a17f67017c3?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 29 |
+| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688aac2e09808a6103e5086a?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 29 |
 | **[State of Arizona](https://az.gov/)** | **[STUDENT INTERN - VICTIM SERVICES - UNPAID](https://jobright.ai/jobs/info/68895735aab47a17f6700f03?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jul 29 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68894faeaab47a17f6700c40?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Jul 29 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship for Sustainable Development Goals Outreach and Partnerships
@@ -102,7 +104,6 @@ Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_camp
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/68883108fbbf032d00079343?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jul 28 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Boston)](https://jobright.ai/jobs/info/68881964fbbf032d00078c95?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jul 28 |
 | ↳ | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/6888191ffbbf032d00078c48?utm_campaign=1056&utm_source=git)** | Lowell, MA | Hybrid | Jul 28 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support Power, Emerging Talent Intern](https://jobright.ai/jobs/info/688817fb4174df41e0fa2c76?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jul 28 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall  2025 Congressional Relations & Social Impact Intern](https://jobright.ai/jobs/info/688817a173e3e13cbd94242c?utm_campaign=1056&utm_source=git)** | Hybrid---Washington DC | Hybrid | Jul 28 |
 | **[International Institute of New England](https://iine.org/)** | **[Immigration Research Intern (IINE Boston)](https://jobright.ai/jobs/info/6888175f4174df41e0fa2bad?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jul 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68880e3bfbbf032d000786dd?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Jul 28 |
@@ -157,5 +158,4 @@ Job ID : 261896](https://jobright.ai/jobs/info/68893c54aab47a17f6700233?utm_camp
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c96c83d91d34f17d32a264?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Jul 25 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Bureau of Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/68844272fbbf032d0006670d?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jul 25 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Family Services Specialist (Spring)](https://jobright.ai/jobs/info/68842773b54cac0f1e73c610?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Jul 25 |
-| **[City of Plano](https://www.plano.gov)** | **[Intern - Degree - Bachelor - Visit Plano](https://jobright.ai/jobs/info/68840ec66fcd973d15ae563c?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
