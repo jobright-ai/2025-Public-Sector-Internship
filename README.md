@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Project Rescue ' Project Rescue Intern (Bridgeport office only)](https://jobright.ai/jobs/info/688cfcae3a30793eb9647b20?utm_campaign=1056&utm_source=git)** | Bridgeport, CT | On Site | Aug 01 |
+| **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Policy & Advocacy, Fall 2025 Undergraduate Internship](https://jobright.ai/jobs/info/688ceef13a30793eb9647519?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Aug 01 |
+| **[Green Energy Consumers Alliance](https://www.greenenergyconsumers.org/)** | **[Clean Energy Program Intern - Policy, Research and Events](https://jobright.ai/jobs/info/688ce7313a30793eb9646fb5?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f7d?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Aug 01 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/688ce89c3a30793eb9647197?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Aug 01 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health Policy & Media Internship](https://jobright.ai/jobs/info/688cbd493a30793eb964617b?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Middle East Program (Fall 2025)](https://jobright.ai/jobs/info/688ca8261808534a89cbe287?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/688ca7cf3a30793eb9645ae3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/6889a16109808a6103e499db?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jul 29 |
 | **[Marie-Hélène Blain Styliste](http://www.marieheleneblain.com)** | **[DRO Intern](https://jobright.ai/jobs/info/68885ade4174df41e0fa5611?utm_campaign=1056&utm_source=git)** | Sunbury, PA | On Site | Jul 28 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/68883108fbbf032d00079343?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Jul 28 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern (IINE Boston)](https://jobright.ai/jobs/info/68881964fbbf032d00078c95?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jul 28 |
-| ↳ | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/6888191ffbbf032d00078c48?utm_campaign=1056&utm_source=git)** | Lowell, MA | Hybrid | Jul 28 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall  2025 Congressional Relations & Social Impact Intern](https://jobright.ai/jobs/info/688817a173e3e13cbd94242c?utm_campaign=1056&utm_source=git)** | Hybrid---Washington DC | Hybrid | Jul 28 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68880e3bfbbf032d000786dd?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Jul 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/688849f373e3e13cbd943d33?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
