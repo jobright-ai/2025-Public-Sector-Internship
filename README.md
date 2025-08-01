@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/688c13f43a30793eb963fca3?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688bff1c906ac06e1d1d0055?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | ↳ | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/688bf8c93a30793eb963f10c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | ↳ | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/688bf7c73a30793eb963f09d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/688b8f1c3a30793eb963b7f9?utm_campaign=1056&utm_source=git)** | Orlando, Florida, USA | On Site | Jul 31 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/688b9f821808534a89cb47d3?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jul 31 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sept-Dec 2025)](https://jobright.ai/jobs/info/688b7f69906ac06e1d1cbd23?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
-| **[HKPO Veterans Academy](https://www.hkpoveteransacademy.org/)** | **[Grant Writing & Fundraising Intern – DoD SkillBridge or Military Spouse Volunteer (Remote, Unpaid)](https://jobright.ai/jobs/info/688b7317906ac06e1d1cb7c7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 31 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/686f26d790d7b66951c27553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/686f0c16f0f03582b4c2110c?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jul 31 |
 | **[Acrisure](http://acrisure.com)** | **[Security & Emergency Preparedness Intern](https://jobright.ai/jobs/info/6879b592a7fc8904e3964bd5?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[INPATIENT SOCIAL WORK INTERN (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/688b5c29906ac06e1d1cad7b?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 30 |
 | **[City of Durango](https://www.durangoco.gov)** | **[Police Intern](https://jobright.ai/jobs/info/688ae5d9aab47a17f670c404?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Jul 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688ac0589f961617fe21de7b?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jul 30 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Indiana House of Representatives Internship at Indiana House of Representatives](https://jobright.ai/jobs/info/688abd3809808a6103e50e23?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/688ab95d09808a6103e50cc6?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/688aa226aab47a17f670a653?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Health Policy Advocacy](https://jobright.ai/jobs/info/688a9eb09f961617fe21d063?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jul 30 |
@@ -105,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Selfhelp Community Services](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2025)](https://jobright.ai/jobs/info/683be57986d1fc2ec8b3f397?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Returning Real Estate Summer Intern 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/688a49c59f961617fe21a704?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Jul 30 |
 | **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[SDOH Screening & Outreach Volunteer](https://jobright.ai/jobs/info/688a308509808a6103e4cee3?utm_campaign=1056&utm_source=git)** | 1621 Eastchester Road | On Site | Jul 30 |
-| **[Hudson Valley Regional Council](https://hudsonvalleyregionalcouncil.org/)** | **[Climate Action Planning Intern](https://jobright.ai/jobs/info/688b1005aab47a17f670e33c?utm_campaign=1056&utm_source=git)** | Newburgh, NY | On Site | Jul 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6889fab2aab47a17f670645b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Rivas Psychotherapy](www.rivaspsychotherapy.com)** | **[Registered Clinical Social Worker Intern (RCSWI)](https://jobright.ai/jobs/info/688b6ae83a30793eb963a676?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Jul 29 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/68899ea7aab47a17f67038c8?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 29 |
@@ -115,6 +113,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/68896fb4aab47a17f67017c3?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 29 |
 | **[Dallas Regional Chamber](https://www.dallaschamber.org)** | **[Intern - Public Policy](https://jobright.ai/jobs/info/688ab8f809808a6103e50c9b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688aac2e09808a6103e5086a?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 29 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688951ccaab47a17f6700d46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68894faeaab47a17f6700c40?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Jul 29 |
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889394f9f961617fe212dc4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
 | **[One House at a Time](http://www.ohaat.org)** | **[Beds for Kids Program Intern (Volunteer)](https://jobright.ai/jobs/info/68893490aab47a17f66ffdd7?utm_campaign=1056&utm_source=git)** | Huntingdon Valley, PA | On Site | Jul 29 |
@@ -124,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889225209808a6103e454ba?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jul 29 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/68891d7809808a6103e45024?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jul 29 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68891b3f09808a6103e44d8c?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 29 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688919dd9f961617fe2119ad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/68891348aab47a17f66fe9ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[PA Interns](https://jobright.ai/jobs/info/688903a29f961617fe210f9e?utm_campaign=1056&utm_source=git)** | US - OR - Portland | On Site | Jul 29 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Intern](https://jobright.ai/jobs/info/6889347209808a6103e45c82?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jul 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Child Protection Services (Spring)](https://jobright.ai/jobs/info/68842b936fcd973d15ae60d4?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Jul 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6887bf084174df41e0fa036a?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Jul 28 |
 | **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Jul 28 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd4?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 28 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688856d373e3e13cbd944805?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
