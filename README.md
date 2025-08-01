@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Green Growth Institute](https://www.gggi.org)** | **[AU-GRAP Program Support Intern](https://jobright.ai/jobs/info/688c76b13a30793eb9643cec?utm_campaign=1056&utm_source=git)** | Home, MI | On Site | Aug 01 |
+| **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688c77d93a30793eb9643d6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
 | **[Pan American Health Organization](http://paho.org)** | **[PAHO Internships](https://jobright.ai/jobs/info/688c42691808534a89cba0b4?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c39843a30793eb96410c5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Recreation and Community Services Administration](https://jobright.ai/jobs/info/688c2a743a30793eb96407cc?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Jul 31 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/686f26d790d7b66951c27553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/686f0c16f0f03582b4c2110c?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jul 31 |
 | **[Acrisure](http://acrisure.com)** | **[Security & Emergency Preparedness Intern](https://jobright.ai/jobs/info/6879b592a7fc8904e3964bd5?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
+| **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/688b0d5f9f961617fe220e7c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Post Resettlement (NYSESRP) Program Intern (unpaid)](https://jobright.ai/jobs/info/688ae3ae09808a6103e51f5c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Jul 30 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/68896fb4aab47a17f67017c3?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Jul 29 |
 | **[Dallas Regional Chamber](https://www.dallaschamber.org)** | **[Intern - Public Policy](https://jobright.ai/jobs/info/688ab8f809808a6103e50c9b?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688aac2e09808a6103e5086a?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 29 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688951ccaab47a17f6700d46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68894faeaab47a17f6700c40?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Jul 29 |
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889394f9f961617fe212dc4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 29 |
 | **[One House at a Time](http://www.ohaat.org)** | **[Beds for Kids Program Intern (Volunteer)](https://jobright.ai/jobs/info/68893490aab47a17f66ffdd7?utm_campaign=1056&utm_source=git)** | Huntingdon Valley, PA | On Site | Jul 29 |
@@ -132,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[World Learning](http://www.worldlearning.org)** | **[Internship (IVLP)](https://jobright.ai/jobs/info/6889225209808a6103e454ba?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Jul 29 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/68891d7809808a6103e45024?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jul 29 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68891b3f09808a6103e44d8c?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Jul 29 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688919dd9f961617fe2119ad?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/68891348aab47a17f66fe9ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 29 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[PA Interns](https://jobright.ai/jobs/info/688903a29f961617fe210f9e?utm_campaign=1056&utm_source=git)** | US - OR - Portland | On Site | Jul 29 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Intern](https://jobright.ai/jobs/info/6889347209808a6103e45c82?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Program and Communication Intern](https://jobright.ai/jobs/info/68884b76fbbf032d0007a3f0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 28 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/6887f3344174df41e0fa1dd9?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jul 28 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (unpaid)](https://jobright.ai/jobs/info/6887f001fbbf032d00077a7b?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ | On Site | Jul 28 |
-| **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 28 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6887ed53fbbf032d00077838?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 28 |
-| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/6887d7a44174df41e0fa1063?utm_campaign=1056&utm_source=git)** | US-OH-Cincinnati | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
