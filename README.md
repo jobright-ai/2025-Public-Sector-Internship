@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/688b8f1c3a30793eb963b7f9?utm_campaign=1056&utm_source=git)** | Orlando, Florida, USA | On Site | Jul 31 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/688b9f821808534a89cb47d3?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jul 31 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sept-Dec 2025)](https://jobright.ai/jobs/info/688b7f69906ac06e1d1cbd23?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
-| **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/686f26d790d7b66951c27553?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/686f0c16f0f03582b4c2110c?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jul 31 |
 | **[Acrisure](http://acrisure.com)** | **[Security & Emergency Preparedness Intern](https://jobright.ai/jobs/info/6879b592a7fc8904e3964bd5?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Services & Resettlement Intern (IINE Lowell)](https://jobright.ai/jobs/info/6888191ffbbf032d00078c48?utm_campaign=1056&utm_source=git)** | Lowell, MA | Hybrid | Jul 28 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall  2025 Congressional Relations & Social Impact Intern](https://jobright.ai/jobs/info/688817a173e3e13cbd94242c?utm_campaign=1056&utm_source=git)** | Hybrid---Washington DC | Hybrid | Jul 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68880e3bfbbf032d000786dd?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Jul 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/688849f373e3e13cbd943d33?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
