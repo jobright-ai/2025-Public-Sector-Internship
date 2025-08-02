@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/688dee90cdbd821a366400eb?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/688dd9bae5cead4afd45b1cb?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Aug 02 |
 | **[NATIONAL RELIGIOUS PARTNERSHIP FOR THE ENVIRONMENT](http://nrpe.org)** | **[Laudato Si' Intern](https://jobright.ai/jobs/info/688dd2c9cdbd821a3663fdab?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Intern-渠道部实习生](https://jobright.ai/jobs/info/688dbc11cdbd821a3663e961?utm_campaign=1056&utm_source=git)** | Location, WV | On Site | Aug 02 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship](https://jobright.ai/jobs/info/688d35df1808534a89cc1eef?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 01 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Climate Rules Engagement Intern (Administrative Intern 2)](https://jobright.ai/jobs/info/688d2dea27f9022553c09cad?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Aug 01 |
 | **[American Lung Association](http://www.lung.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/688d2d573a30793eb964933c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d2c2527f9022553c09bb8?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Youth Organizing Intern](https://jobright.ai/jobs/info/688d2bd51808534a89cc18f4?utm_campaign=1056&utm_source=git)** | Blacksburg/Roanoke, Virginia | On Site | Aug 01 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d28901808534a89cc14f9?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 261898](https://jobright.ai/jobs/info/688d92d56a4aac5783cd40b3?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Health Administration Intern](https://jobright.ai/jobs/info/688d1a073a30793eb964887d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 01 |
@@ -110,11 +111,10 @@ Job ID : 261898](https://jobright.ai/jobs/info/688d92d56a4aac5783cd40b3?utm_camp
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/688c13f43a30793eb963fca3?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688bff1c906ac06e1d1d0055?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688c39023a30793eb9641079?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jul 31 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/688bf7c73a30793eb963f09d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Research Intern](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/688bf0de1808534a89cb7455?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[THOMPSON Child & Family Focus](http://www.thompsoncff.org/)** | **[Foster Care Intern](https://jobright.ai/jobs/info/688bdec8906ac06e1d1cf24a?utm_campaign=1056&utm_source=git)** | Matthews, NC | On Site | Jul 31 |
