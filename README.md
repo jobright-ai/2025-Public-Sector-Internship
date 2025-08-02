@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[We Independent](www.weindependent.org)** | **[Grant Writer Intern/Volunteer](https://jobright.ai/jobs/info/688e3b866a4aac5783cd8c61?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Aug 02 |
+| **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 02 |
 | **[The African Think Tank](www.theafricanthinktank.com)** | **[Intern](https://jobright.ai/jobs/info/688e1927cdbd821a36640a0d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 02 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health Policy & Media Internship](https://jobright.ai/jobs/info/688e09426a4aac5783cd8135?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 02 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/688dee90cdbd821a366400eb?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
@@ -115,8 +116,8 @@ Job ID : 261898](https://jobright.ai/jobs/info/688d92d56a4aac5783cd40b3?utm_camp
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/688c13f43a30793eb963fca3?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688bff1c906ac06e1d1d0055?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688c39023a30793eb9641079?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Research Intern](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
@@ -157,5 +158,4 @@ Job ID : 261898](https://jobright.ai/jobs/info/688d92d56a4aac5783cd40b3?utm_camp
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa377b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a82fbaab47a17f67096a2?utm_campaign=1056&utm_source=git)** | Midland, Texas, United States of America | On Site | Jul 30 |
 | ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a825f9f961617fe21c35f?utm_campaign=1056&utm_source=git)** | Covington, Louisiana, United States of America | On Site | Jul 30 |
-| ↳ | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a81f809808a6103e4f542?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
