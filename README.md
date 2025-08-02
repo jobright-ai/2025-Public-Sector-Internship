@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health Policy & Media Internship](https://jobright.ai/jobs/info/688e09426a4aac5783cd8135?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 02 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern (Social Worker Trainee (SWT) - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/688dee90cdbd821a366400eb?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/688dd9bae5cead4afd45b1cb?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Aug 02 |
 | **[NATIONAL RELIGIOUS PARTNERSHIP FOR THE ENVIRONMENT](http://nrpe.org)** | **[Laudato Si' Intern](https://jobright.ai/jobs/info/688dd2c9cdbd821a3663fdab?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Aug 02 |
@@ -132,7 +133,6 @@ Job ID : 261898](https://jobright.ai/jobs/info/688d92d56a4aac5783cd40b3?utm_camp
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688c95891808534a89cbccf6?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, National Membership Engagement](https://jobright.ai/jobs/info/688ba6a11808534a89cb4ab9?utm_campaign=1056&utm_source=git)** | United States | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Arizona Organizing Intern](https://jobright.ai/jobs/info/688ba2ef3a30793eb963c1ee?utm_campaign=1056&utm_source=git)** | HYBRID - Phoenix, AZ | On Site | Jul 31 |
-| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/688b9f821808534a89cb47d3?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jul 31 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sept-Dec 2025)](https://jobright.ai/jobs/info/688b7f69906ac06e1d1cbd23?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 31 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/686f0c16f0f03582b4c2110c?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jul 31 |
 | **[Acrisure](http://acrisure.com)** | **[Security & Emergency Preparedness Intern](https://jobright.ai/jobs/info/6879b592a7fc8904e3964bd5?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
