@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
+Job ID : 261430](https://jobright.ai/jobs/info/688fd4c06a4aac5783cddd53?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| ↳ | **[Intern, Office of Intergovernmental Support and Coordination for Sustainable Development (OISC)
+Job ID : 261217](https://jobright.ai/jobs/info/688fd4be6a4aac5783cddd4f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| ↳ | **[Political Affairs Intern: UNOCC Management Support
+Job ID : 256583](https://jobright.ai/jobs/info/688fd488e5cead4afd461484?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| ↳ | **[Intern - Humanitarian Affairs
+Job ID : 249353](https://jobright.ai/jobs/info/688fd480e5cead4afd461480?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| ↳ | **[Intern - Political Affairs (political monitoring and analysis on Western Africa)
+Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688f48926a4aac5783cdd1e7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 03 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/688f4226e5cead4afd46087e?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/688f584ee5cead4afd460a23?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
@@ -113,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Maryland Military Department](https://military.maryland.gov)** | **[Public Health Internship Program (PHIP) (Fall 2025 Cohort)](https://jobright.ai/jobs/info/688dbb81cdbd821a3663e830?utm_campaign=1056&utm_source=git)** | Washington County, MD | On Site | Jul 31 |
 | **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688c77d93a30793eb9643d6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
 | **[Pan American Health Organization](http://paho.org)** | **[PAHO Internships](https://jobright.ai/jobs/info/688c42691808534a89cba0b4?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Jul 31 |
-| **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/688eea5acdbd821a3664396b?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c39843a30793eb96410c5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Policy & Social Justice UNPAID Intern (On-site)](https://jobright.ai/jobs/info/688d89046a4aac5783cd32d0?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[Alvord Unified School District](https://www.alvordschools.org)** | **[Social Worker Intern](https://jobright.ai/jobs/info/688c23f83a30793eb96403c9?utm_campaign=1056&utm_source=git)** | Corona, CA | On Site | Jul 31 |
@@ -153,8 +162,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688ac0589f961617fe21de7b?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jul 30 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/688ab95d09808a6103e50cc6?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Jul 30 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681781af429cfbff2941cb71?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 30 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/688aa226aab47a17f670a653?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Health Policy Advocacy](https://jobright.ai/jobs/info/688a9eb09f961617fe21d063?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jul 30 |
-| **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa377b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[Chevron](http://www.chevron.com)** | **[2025-2026 Land Intern](https://jobright.ai/jobs/info/688a82fbaab47a17f67096a2?utm_campaign=1056&utm_source=git)** | Midland, Texas, United States of America | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
