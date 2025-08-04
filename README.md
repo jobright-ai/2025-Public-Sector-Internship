@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YourBookTeam](https://yourbookteam.com)** | **[Funding  Programs Intern](https://jobright.ai/jobs/info/6890e4c2f5ee707a15dba82d?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890e480f5ee707a15dba7d9?utm_campaign=1056&utm_source=git)** | FL - Jacksonville (Herschel, West) | Hybrid | Aug 04 |
+| **[ClearPath](https://clearpath.org)** | **[External Affairs Intern (Fall 2025 Semester)](https://jobright.ai/jobs/info/6890e2a7f47efe21139511aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d48df47efe2113950b30?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d3a34c7e851b90ac9edc?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d362f5ee707a15db9f8a?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Aug 04 |
@@ -133,11 +136,10 @@ Job ID : 260920](https://jobright.ai/jobs/info/68902daecdbd821a366474e3?utm_camp
 | **[Pan American Health Organization](http://paho.org)** | **[PAHO Internships](https://jobright.ai/jobs/info/688c42691808534a89cba0b4?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c39843a30793eb96410c5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Policy & Social Justice UNPAID Intern (On-site)](https://jobright.ai/jobs/info/688d89046a4aac5783cd32d0?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
-| **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/688c13f43a30793eb963fca3?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688c39023a30793eb9641079?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Research Intern](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
 | **[THOMPSON Child & Family Focus](http://www.thompsoncff.org/)** | **[Foster Care Intern](https://jobright.ai/jobs/info/688bdec8906ac06e1d1cf24a?utm_campaign=1056&utm_source=git)** | Matthews, NC | On Site | Jul 31 |
@@ -158,6 +160,4 @@ Job ID : 260920](https://jobright.ai/jobs/info/68902daecdbd821a366474e3?utm_camp
 | **[Acrisure](http://acrisure.com)** | **[Security & Emergency Preparedness Intern](https://jobright.ai/jobs/info/6879b592a7fc8904e3964bd5?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e6c?utm_campaign=1056&utm_source=git)** | Little Rock, AR | Hybrid | Jul 31 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
-| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2025 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/688b0d5f9f961617fe220e7c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Post Resettlement (NYSESRP) Program Intern (unpaid)](https://jobright.ai/jobs/info/689047774c7e851b90ac5c19?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
