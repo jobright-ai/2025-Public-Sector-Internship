@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/689027846a4aac5783cdede2?utm_campaign=1056&utm_source=git)** | Utah | Remote | Aug 03 |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Program Management Intern](https://jobright.ai/jobs/info/689019cacdbd821a3664677e?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 03 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Community & Family Health Policy Internship](https://jobright.ai/jobs/info/688feface5cead4afd461658?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688fe38e6a4aac5783cdde34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
@@ -67,6 +69,10 @@ Job ID : 261217](https://jobright.ai/jobs/info/688fd4be6a4aac5783cddd4f?utm_camp
 Job ID : 256583](https://jobright.ai/jobs/info/688fd488e5cead4afd461484?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | ↳ | **[Intern - Humanitarian Affairs
 Job ID : 249353](https://jobright.ai/jobs/info/688fd480e5cead4afd461480?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| ↳ | **[Political Affairs Intern
+Job ID : 260920](https://jobright.ai/jobs/info/68902daecdbd821a366474e3?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| ↳ | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
+Job ID : 250033](https://jobright.ai/jobs/info/68902b19e5cead4afd462693?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | ↳ | **[Intern - Political Affairs (political monitoring and analysis on Western Africa)
 Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688f48926a4aac5783cdd1e7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 03 |
@@ -89,6 +95,7 @@ Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_camp
 | ↳ | **[Railroad Program Support Power, Emerging Talent Intern](https://jobright.ai/jobs/info/688d79f86a4aac5783cd2489?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[WMUR-TV](http://www.wmur.com/)** | **[John DiStaso Political Fellowship](https://jobright.ai/jobs/info/66548517dc70ef329d820087?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Aug 01 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688d60d91808534a89cc2d59?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Aug 01 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f33?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Aug 01 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall 2025 Michigan Organizing Intern at Reproductive Freedom for All](https://jobright.ai/jobs/info/688d58853a30793eb964a554?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote](https://jobright.ai/jobs/info/688d54533a30793eb964a429?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Aug 01 |
 | ↳ | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d526d1808534a89cc29a7?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Aug 01 |
@@ -102,9 +109,9 @@ Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_camp
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship](https://jobright.ai/jobs/info/688d35df1808534a89cc1eef?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 01 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Climate Rules Engagement Intern (Administrative Intern 2)](https://jobright.ai/jobs/info/688d2dea27f9022553c09cad?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Aug 01 |
 | **[American Lung Association](http://www.lung.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/688d2d573a30793eb964933c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d2c2527f9022553c09bb8?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Youth Organizing Intern](https://jobright.ai/jobs/info/688d2bd51808534a89cc18f4?utm_campaign=1056&utm_source=git)** | Blacksburg/Roanoke, Virginia | On Site | Aug 01 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work & Counseling Internship - WCCS](https://jobright.ai/jobs/info/687970b22097a271a8977944?utm_campaign=1056&utm_source=git)** | Vicksburg, MS | On Site | Aug 01 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d28901808534a89cc14f9?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Health Administration Intern](https://jobright.ai/jobs/info/688d1a073a30793eb964887d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 01 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/688d0e3e27f9022553c08c26?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 01 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy Fall 2025 Undergraduate Internship](https://jobright.ai/jobs/info/688d0ccf27f9022553c0899d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
@@ -129,8 +136,8 @@ Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_camp
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/688c13f43a30793eb963fca3?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688c39023a30793eb9641079?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Research Intern](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
 | **[THOMPSON Child & Family Focus](http://www.thompsoncff.org/)** | **[Foster Care Intern](https://jobright.ai/jobs/info/688bdec8906ac06e1d1cf24a?utm_campaign=1056&utm_source=git)** | Matthews, NC | On Site | Jul 31 |
@@ -157,9 +164,4 @@ Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_camp
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Jul 30 |
 | **[UHS](https://uhs.com)** | **[INPATIENT SOCIAL WORK INTERN (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/688ad4f0aab47a17f670ba91?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Global Projects Intern - Young Voices](https://jobright.ai/jobs/info/688af450aab47a17f670cf60?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[INPATIENT SOCIAL WORK INTERN (MSW) - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/688b5c29906ac06e1d1cad7b?utm_campaign=1056&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 30 |
-| **[City of Durango](https://www.durangoco.gov)** | **[Police Intern](https://jobright.ai/jobs/info/688ae5d9aab47a17f670c404?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Jul 30 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688ac0589f961617fe21de7b?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jul 30 |
-| **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/688ab95d09808a6103e50cc6?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Jul 30 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681781af429cfbff2941cb71?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
