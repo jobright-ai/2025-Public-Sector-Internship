@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Community & Family Health Policy Internship](https://jobright.ai/jobs/info/688feface5cead4afd461658?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 03 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688fe38e6a4aac5783cdde34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
 Job ID : 261430](https://jobright.ai/jobs/info/688fd4c06a4aac5783cddd53?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | ↳ | **[Intern, Office of Intergovernmental Support and Coordination for Sustainable Development (OISC)
@@ -100,15 +102,14 @@ Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_camp
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship](https://jobright.ai/jobs/info/688d35df1808534a89cc1eef?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 01 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Climate Rules Engagement Intern (Administrative Intern 2)](https://jobright.ai/jobs/info/688d2dea27f9022553c09cad?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Aug 01 |
 | **[American Lung Association](http://www.lung.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/688d2d573a30793eb964933c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d2c2527f9022553c09bb8?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Youth Organizing Intern](https://jobright.ai/jobs/info/688d2bd51808534a89cc18f4?utm_campaign=1056&utm_source=git)** | Blacksburg/Roanoke, Virginia | On Site | Aug 01 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work & Counseling Internship - WCCS](https://jobright.ai/jobs/info/687970b22097a271a8977944?utm_campaign=1056&utm_source=git)** | Vicksburg, MS | On Site | Aug 01 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d28901808534a89cc14f9?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Health Administration Intern](https://jobright.ai/jobs/info/688d1a073a30793eb964887d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 01 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/688d0e3e27f9022553c08c26?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 01 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy Fall 2025 Undergraduate Internship](https://jobright.ai/jobs/info/688d0ccf27f9022553c0899d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | **[MoveSmarter](http://www.movesmarter.co)** | **[Grant Writing & Communications Intern (Remote)](https://jobright.ai/jobs/info/688d88cfcdbd821a3663b464?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Remote | Aug 01 |
 | **[International Tax and Investment Center](https://www.iticnet.org)** | **[International Relations Intern](https://jobright.ai/jobs/info/688d044f3a30793eb9647daa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
-| **[Northeast Recycling Council (NERC)](https://nerc.org)** | **[Sustainability Outreach and Administrative Internship](https://jobright.ai/jobs/info/688d01931808534a89cc03d5?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Avōq](https://teamavoq.com)** | **[Government Relations Intern (Fall)](https://jobright.ai/jobs/info/688d016f3a30793eb9647c82?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Project Rescue ' Project Rescue Intern (Bridgeport office only)](https://jobright.ai/jobs/info/688cfcae3a30793eb9647b20?utm_campaign=1056&utm_source=git)** | Bridgeport, CT | On Site | Aug 01 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Policy & Advocacy, Fall 2025 Undergraduate Internship](https://jobright.ai/jobs/info/688ceef13a30793eb9647519?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Aug 01 |
@@ -161,5 +162,4 @@ Job ID : 261228](https://jobright.ai/jobs/info/688fc76d6a4aac5783cdda9e?utm_camp
 | **[City of Durango](https://www.durangoco.gov)** | **[Police Intern](https://jobright.ai/jobs/info/688ae5d9aab47a17f670c404?utm_campaign=1056&utm_source=git)** | Durango, CO | On Site | Jul 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/688ac0589f961617fe21de7b?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jul 30 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/688ab95d09808a6103e50cc6?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Jul 30 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681781af429cfbff2941cb71?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
