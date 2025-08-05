@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6891e2fbf5ee707a15dc25ed?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
+| **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/6891e17d4c7e851b90ad25ce?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6891b8b1f47efe211395876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/6891a534f47efe2113957e16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890f6e0f5ee707a15dbaf88?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 04 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Postgraduate  Intern](https://jobright.ai/jobs/info/6890f69cf47efe2113951a02?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 | **[World Relief](https://worldrelief.org/)** | **[Resettlement Team (PC) - Duke Internship/Work Study (Part-time)](https://jobright.ai/jobs/info/6890f55d4c7e851b90acadb4?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 04 |
+| **[Selfhelp Community Services](http://selfhelp.net)** | **[Social Work Internship (Start of Fall 2025)](https://jobright.ai/jobs/info/683be57986d1fc2ec8b3f397?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[YourBookTeam](https://yourbookteam.com)** | **[Funding  Programs Intern](https://jobright.ai/jobs/info/6890e4c2f5ee707a15dba82d?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890e480f5ee707a15dba7d9?utm_campaign=1056&utm_source=git)** | FL - Jacksonville (Herschel, West) | Hybrid | Aug 04 |
 | **[ClearPath](https://clearpath.org)** | **[External Affairs Intern (Fall 2025 Semester)](https://jobright.ai/jobs/info/6890e2a7f47efe21139511aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
@@ -155,7 +158,4 @@ Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_camp
 | **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688c77d93a30793eb9643d6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
 | **[Pan American Health Organization](http://paho.org)** | **[PAHO Internships](https://jobright.ai/jobs/info/688c42691808534a89cba0b4?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c39843a30793eb96410c5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
-| **[GRID Alternatives ](http://gridalternatives.org/)** | **[Policy & Social Justice UNPAID Intern (On-site)](https://jobright.ai/jobs/info/688d89046a4aac5783cd32d0?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
-| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
-| **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
