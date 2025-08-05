@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CALSTART](http://www.calstart.org)** | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68914696f47efe2113954194?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Aug 04 |
+| ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/689146944c7e851b90acd6a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 04 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/6891435df47efe2113953fc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
+| **[County of Riverside](http://www.rc-hr.com)** | **[Agricultural & Standards Unpaid Student Internship](https://jobright.ai/jobs/info/689138fef47efe2113953a72?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Aug 04 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development Intern](https://jobright.ai/jobs/info/68911dfff47efe2113952e54?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Aug 04 |
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Intern, Unpaid-1](https://jobright.ai/jobs/info/68911d994c7e851b90acc339?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Aug 04 |
 | **[CALSTART](http://www.calstart.org)** | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68911d10f47efe2113952dde?utm_campaign=1056&utm_source=git)** | Remote, CA | Remote | Aug 04 |
@@ -145,8 +149,8 @@ Job ID : 249353](https://jobright.ai/jobs/info/688fd480e5cead4afd461480?utm_camp
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Policy & Social Justice UNPAID Intern (On-site)](https://jobright.ai/jobs/info/688d89046a4aac5783cd32d0?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688c39023a30793eb9641079?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jul 31 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Research Intern](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
 | **[THOMPSON Child & Family Focus](http://www.thompsoncff.org/)** | **[Foster Care Intern](https://jobright.ai/jobs/info/688bdec8906ac06e1d1cf24a?utm_campaign=1056&utm_source=git)** | Matthews, NC | On Site | Jul 31 |
@@ -155,8 +159,4 @@ Job ID : 249353](https://jobright.ai/jobs/info/688fd480e5cead4afd461480?utm_camp
 | **[Third Way](http://www.thirdway.org/)** | **[Health Policy Intern, Economic Program (Fall 2025)](https://jobright.ai/jobs/info/688bf76c906ac06e1d1cfca9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[New Democracy](http://newdemocracy.net/)** | **[Fall CNL Advocacy and Policy Fellow](https://jobright.ai/jobs/info/688bc7863a30793eb963d967?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bbe363a30793eb963d370?utm_campaign=1056&utm_source=git)** | 425 Market Street, San Francisco, CA, 94105, US | On Site | Jul 31 |
-| **[Third Way](http://www.thirdway.org/)** | **[Health Policy Intern, Economic Program (Fall 2025)](https://jobright.ai/jobs/info/688bbc8b906ac06e1d1cdd9c?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 31 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Unpaid Intern - Office of Nursing](https://jobright.ai/jobs/info/688bbb663a30793eb963ced7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
-| **[Hannah News Service - Midwest, LLC](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/688ca3be27f9022553c060ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
-| **[Northwestern Medicine](http://nm.org)** | **[Master's Level Police Social Work Intern](https://jobright.ai/jobs/info/688c9cd427f9022553c059c3?utm_campaign=1056&utm_source=git)** | DeKalb, IL | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
