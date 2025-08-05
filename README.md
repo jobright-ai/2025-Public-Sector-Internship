@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68922373f47efe211395a07e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
+| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/6892178d4c7e851b90ad326a?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687572625cebcd1dd51c0d3d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6891e2fbf5ee707a15dc25ed?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/6891e17d4c7e851b90ad25ce?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
@@ -156,6 +158,4 @@ Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_camp
 | **[Maryland Military Department](https://military.maryland.gov)** | **[Public Health Internship Program (PHIP) (Fall 2025 Cohort)](https://jobright.ai/jobs/info/688dbb81cdbd821a3663e830?utm_campaign=1056&utm_source=git)** | Washington County, MD | On Site | Jul 31 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/689046fb4c7e851b90ac5bb1?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jul 31 |
 | **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688c77d93a30793eb9643d6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
-| **[Pan American Health Organization](http://paho.org)** | **[PAHO Internships](https://jobright.ai/jobs/info/688c42691808534a89cba0b4?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Jul 31 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c39843a30793eb96410c5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
