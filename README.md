@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/6891a534f47efe2113957e16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Swing Strategies - California](https://www.swingstrat.com)** | **[Fall 2025 Public Affairs Intern](https://jobright.ai/jobs/info/6891598af47efe2113954710?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 04 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/68915287f5ee707a15dbda6d?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Aug 04 |
@@ -89,11 +90,13 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
 Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Aug 04 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/68906f634c7e851b90ac6929?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 04 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/689036744c7e851b90ac489a?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Aug 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/689027846a4aac5783cdede2?utm_campaign=1056&utm_source=git)** | Utah | Remote | Aug 03 |
 | ↳ | **[KIP Fall 2025 - Research Intern - Common Sense Institute](https://jobright.ai/jobs/info/6890a8b04c7e851b90ac8840?utm_campaign=1056&utm_source=git)** | Colorado | On Site | Aug 03 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Program Management Intern](https://jobright.ai/jobs/info/689019cacdbd821a3664677e?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 03 |
 | **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST IV-DACS - 42003953 (FOR INTERNAL EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68917b0cf5ee707a15dbef3e?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 03 |
+| **[The Civic Palette](https://www.linkedin.com/company/107776708)** | **[High School Advocacy Intern](https://jobright.ai/jobs/info/6891aee4f5ee707a15dc1781?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Community & Family Health Policy Internship](https://jobright.ai/jobs/info/688feface5cead4afd461658?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/689041f2f5ee707a15db574b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688fe38e6a4aac5783cdde34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
@@ -154,8 +157,5 @@ Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_camp
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Policy & Social Justice UNPAID Intern (On-site)](https://jobright.ai/jobs/info/688d89046a4aac5783cd32d0?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d5b6c3a30793eb964a65e?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/688c39023a30793eb9641079?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Jul 31 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Vera Louisiana - Research Intern](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
