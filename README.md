@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CALSTART](http://www.calstart.org)** | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68914696f47efe2113954194?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Aug 04 |
+| **[Swing Strategies - California](https://www.swingstrat.com)** | **[Fall 2025 Public Affairs Intern](https://jobright.ai/jobs/info/6891598af47efe2113954710?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 04 |
+| **[Good Shepherd Services](https://goodshepherds.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/68915287f5ee707a15dbda6d?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Aug 04 |
+| **[CALSTART](http://www.calstart.org)** | **[Community Engagement Intern CMO](https://jobright.ai/jobs/info/689148bff5ee707a15dbd803?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Aug 04 |
+| ↳ | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68914696f47efe2113954194?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Aug 04 |
 | ↳ | **[Policy Development Intern](https://jobright.ai/jobs/info/689146944c7e851b90acd6a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/6891435df47efe2113953fc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 04 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Agricultural & Standards Unpaid Student Internship](https://jobright.ai/jobs/info/689138fef47efe2113953a72?utm_campaign=1056&utm_source=git)** | Riverside County, CA | On Site | Aug 04 |
@@ -142,7 +145,6 @@ Job ID : 249353](https://jobright.ai/jobs/info/688fd480e5cead4afd461480?utm_camp
 | **[Global Green Growth Institute](https://www.gggi.org)** | **[AU-GRAP Program Support Intern](https://jobright.ai/jobs/info/688c76b13a30793eb9643cec?utm_campaign=1056&utm_source=git)** | Home, MI | On Site | Aug 01 |
 | **[Maryland Military Department](https://military.maryland.gov)** | **[Public Health Internship Program (PHIP) (Fall 2025 Cohort)](https://jobright.ai/jobs/info/688dbb81cdbd821a3663e830?utm_campaign=1056&utm_source=git)** | Washington County, MD | On Site | Jul 31 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/689046fb4c7e851b90ac5bb1?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Jul 31 |
-| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Recreation and Community Services Administration](https://jobright.ai/jobs/info/68904819f5ee707a15db58df?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Jul 31 |
 | **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/688c77d93a30793eb9643d6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
 | **[Pan American Health Organization](http://paho.org)** | **[PAHO Internships](https://jobright.ai/jobs/info/688c42691808534a89cba0b4?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c39843a30793eb96410c5?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
@@ -157,6 +159,4 @@ Job ID : 249353](https://jobright.ai/jobs/info/688fd480e5cead4afd461480?utm_camp
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Vera Louisiana - Law and Policy Intern](https://jobright.ai/jobs/info/688bd9d8906ac06e1d1cef9c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jul 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bd548906ac06e1d1cec60?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[Third Way](http://www.thirdway.org/)** | **[Health Policy Intern, Economic Program (Fall 2025)](https://jobright.ai/jobs/info/688bf76c906ac06e1d1cfca9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[New Democracy](http://newdemocracy.net/)** | **[Fall CNL Advocacy and Policy Fellow](https://jobright.ai/jobs/info/688bc7863a30793eb963d967?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bbe363a30793eb963d370?utm_campaign=1056&utm_source=git)** | 425 Market Street, San Francisco, CA, 94105, US | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
