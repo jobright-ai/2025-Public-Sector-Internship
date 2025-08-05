@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6891b8b1f47efe211395876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/6891a534f47efe2113957e16?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Swing Strategies - California](https://www.swingstrat.com)** | **[Fall 2025 Public Affairs Intern](https://jobright.ai/jobs/info/6891598af47efe2113954710?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 04 |
@@ -85,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d48df47efe2113950b30?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d3a34c7e851b90ac9edc?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d362f5ee707a15db9f8a?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Aug 04 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 04 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681cc50e367f97acdbd685a8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Aug 04 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/6890aed7f47efe211394f6a2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
 Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Aug 04 |
@@ -109,7 +111,6 @@ Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_camp
 | **[We Independent](www.weindependent.org)** | **[Grant Writer Intern/Volunteer](https://jobright.ai/jobs/info/688e3b866a4aac5783cd8c61?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Aug 02 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 02 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health Policy & Media Internship](https://jobright.ai/jobs/info/688e09426a4aac5783cd8135?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 02 |
-| **[City of Lubbock](http://mylubbock.us)** | **[City Council Intern](https://jobright.ai/jobs/info/688ede2dcdbd821a36642c25?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Aug 02 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/688dd9bae5cead4afd45b1cb?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Aug 02 |
 | **[NATIONAL RELIGIOUS PARTNERSHIP FOR THE ENVIRONMENT](http://nrpe.org)** | **[Laudato Si' Intern](https://jobright.ai/jobs/info/688dd2c9cdbd821a3663fdab?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Aug 02 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/688daba06a4aac5783cd5c36?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 01 |
@@ -132,9 +133,9 @@ Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_camp
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship](https://jobright.ai/jobs/info/688d35df1808534a89cc1eef?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Aug 01 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Climate Rules Engagement Intern (Administrative Intern 2)](https://jobright.ai/jobs/info/688d2dea27f9022553c09cad?utm_campaign=1056&utm_source=git)** | Lacey, WA | Hybrid | Aug 01 |
 | **[American Lung Association](http://www.lung.org/)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/688d2d573a30793eb964933c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d2c2527f9022553c09bb8?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Youth Organizing Intern](https://jobright.ai/jobs/info/688d2bd51808534a89cc18f4?utm_campaign=1056&utm_source=git)** | Blacksburg/Roanoke, Virginia | On Site | Aug 01 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Social Work & Counseling Internship - WCCS](https://jobright.ai/jobs/info/687970b22097a271a8977944?utm_campaign=1056&utm_source=git)** | Vicksburg, MS | On Site | Aug 01 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Child Welfare Intern BSW](https://jobright.ai/jobs/info/688d28901808534a89cc14f9?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Health Administration Intern](https://jobright.ai/jobs/info/688d1a073a30793eb964887d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 01 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/688d0e3e27f9022553c08c26?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 01 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[US Policy and Advocacy Fall 2025 Undergraduate Internship](https://jobright.ai/jobs/info/688d0ccf27f9022553c0899d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
@@ -157,5 +158,4 @@ Job ID : 262176](https://jobright.ai/jobs/info/689075ef4c7e851b90ac6a1d?utm_camp
 | **[GRID Alternatives ](http://gridalternatives.org/)** | **[Policy & Social Justice UNPAID Intern (On-site)](https://jobright.ai/jobs/info/688d89046a4aac5783cd32d0?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/688c9a5827f9022553c056bd?utm_campaign=1056&utm_source=git)** | Glendale, CA | Hybrid | Jul 31 |
 | **[German Marshall Fund of the United States](http://www.gmfus.org)** | **[Fall 2025 Civil-Military Relations Program Trainee](https://jobright.ai/jobs/info/688d48e83a30793eb9649f30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/688d5d1f1808534a89cc2ca4?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
