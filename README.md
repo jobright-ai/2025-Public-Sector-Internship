@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68933c75a9199876488dc840?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
+| ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68933b474c7e851b90adca7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
+| ↳ | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6893365a4c7e851b90adc916?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 06 |
+| ↳ | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/689334d8f47efe2113963279?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[Oppia Foundation](https://oppia.org)** | **[Grant Writer](https://jobright.ai/jobs/info/689318914c7e851b90adc3c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
-| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892e35a4c7e851b90ad9cf9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/6892d48f4c7e851b90ad919f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[MAYOR’S OFFICE - FALL SEMESTER UNDERGRADUATE INTERNSHIP](https://jobright.ai/jobs/info/6892b280f5ee707a15dc79ef?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/6892a7a9f47efe211395e11c?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Aug 05 |
+| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a5c0f5ee707a15dc73b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall 2025 National Organizing Intern at Reproductive Freedom for All](https://jobright.ai/jobs/info/6892c520f5ee707a15dc819a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | ↳ | **[Community Development Fund Intern at National Community Reinvestment Coalition](https://jobright.ai/jobs/info/6892cbeef47efe211395f2c0?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68928d6bf5ee707a15dc6a80?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 05 |
@@ -76,13 +80,13 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/68926d4f4c7e851b90ad5abc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
 | ↳ | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6892648df47efe211395c025?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Aug 05 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/68925f064c7e851b90ad51a7?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Policy Intern - Spring 2026](https://jobright.ai/jobs/info/68925dec4c7e851b90ad5104?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689259b9f47efe211395ba6c?utm_campaign=1056&utm_source=git)** | Amityville,NY,US | On Site | Aug 05 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/689258ff4c7e851b90ad4e6f?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Aug 05 |
 | ↳ | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/689258424c7e851b90ad4d54?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania, USA | On Site | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689257c64c7e851b90ad4c8e?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/689273824c7e851b90ad5e99?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/68923a604c7e851b90ad3ff4?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | Hybrid | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689259464c7e851b90ad4ee2?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
@@ -139,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/689036744c7e851b90ac489a?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Aug 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/689027846a4aac5783cdede2?utm_campaign=1056&utm_source=git)** | Utah | Remote | Aug 03 |
-| ↳ | **[KIP Fall 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68930a164c7e851b90adbd5f?utm_campaign=1056&utm_source=git)** | Illinois | On Site | Aug 03 |
 | ↳ | **[KIP Fall 2025 - Research Intern - Common Sense Institute](https://jobright.ai/jobs/info/6890a8b04c7e851b90ac8840?utm_campaign=1056&utm_source=git)** | Colorado | On Site | Aug 03 |
+| ↳ | **[KIP Fall 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68930a164c7e851b90adbd5f?utm_campaign=1056&utm_source=git)** | Illinois | On Site | Aug 03 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Program Management Intern](https://jobright.ai/jobs/info/689019cacdbd821a3664677e?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 03 |
 | **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST IV-DACS - 42003953 (FOR INTERNAL EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68917b0cf5ee707a15dbef3e?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 03 |
 | **[The Civic Palette](https://www.linkedin.com/company/107776708)** | **[High School Advocacy Intern](https://jobright.ai/jobs/info/6891aee4f5ee707a15dc1781?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/688efde2cdbd821a36644161?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[We Independent](www.weindependent.org)** | **[Grant Writer Intern/Volunteer](https://jobright.ai/jobs/info/688e3b866a4aac5783cd8c61?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Aug 02 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 02 |
-| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health Policy & Media Internship](https://jobright.ai/jobs/info/688e09426a4aac5783cd8135?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 02 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcf7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
-| **[NATIONAL RELIGIOUS PARTNERSHIP FOR THE ENVIRONMENT](http://nrpe.org)** | **[Laudato Si' Intern](https://jobright.ai/jobs/info/688dd2c9cdbd821a3663fdab?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Aug 02 |
-| **[ACH Child & Family Services](https://achservices.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/688daba06a4aac5783cd5c36?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
