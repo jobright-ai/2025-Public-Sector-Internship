@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892e35a4c7e851b90ad9cf9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/6892d48f4c7e851b90ad919f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[MAYOR’S OFFICE - FALL SEMESTER UNDERGRADUATE INTERNSHIP](https://jobright.ai/jobs/info/6892b280f5ee707a15dc79ef?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/6892a7a9f47efe211395e11c?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Aug 05 |
-| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a5c0f5ee707a15dc73b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall 2025 National Organizing Intern at Reproductive Freedom for All](https://jobright.ai/jobs/info/6892c520f5ee707a15dc819a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | ↳ | **[Community Development Fund Intern at National Community Reinvestment Coalition](https://jobright.ai/jobs/info/6892cbeef47efe211395f2c0?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68928d6bf5ee707a15dc6a80?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 05 |
@@ -91,7 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Jersey Cares](https://www.jerseycares.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/68922b0ef5ee707a15dc38da?utm_campaign=1056&utm_source=git)** | Livingston, NJ | Hybrid | Aug 05 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee for Service](https://jobright.ai/jobs/info/689228b4f47efe211395a2f7?utm_campaign=1056&utm_source=git)** | FL - Orlando | Hybrid | Aug 05 |
 | **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68922373f47efe211395a07e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
-| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/6892178d4c7e851b90ad326a?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
+| **[Issue One](https://www.issueone.org/)** | **[Election Protection and Money in Politics Intern](https://jobright.ai/jobs/info/6892eef0f5ee707a15dca66f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
+| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/689217534c7e851b90ad3222?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6892295ff5ee707a15dc383a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687572625cebcd1dd51c0d3d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Aug 05 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68911d10f47efe2113952dde?utm_campaign=1056&utm_source=git)** | Remote, CA | Remote | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Economic Policy Intern](https://jobright.ai/jobs/info/689110d24c7e851b90acbcc0?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Reach For Youth, Inc.](https://www.reachforyouth.org)** | **[Social Work/Human Services Internship - Paid](https://jobright.ai/jobs/info/68910f7ff47efe2113952696?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 04 |
+| **[Texas State Technical College](http://www.tstc.edu)** | **[Intern, Unpaid-1](https://jobright.ai/jobs/info/68911d994c7e851b90acc339?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Aug 04 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection and Money in Politics Intern](https://jobright.ai/jobs/info/68910d5f4c7e851b90acbb10?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Economic Policy Intern](https://jobright.ai/jobs/info/68918b9b4c7e851b90acfd5c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6891948f4c7e851b90ad01ce?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 04 |
@@ -132,6 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/6890aed7f47efe211394f6a2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/68906f634c7e851b90ac6929?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 04 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/6892f8a7f47efe2113961822?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Aug 03 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/689036744c7e851b90ac489a?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Aug 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/689027846a4aac5783cdede2?utm_campaign=1056&utm_source=git)** | Utah | Remote | Aug 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/688daba06a4aac5783cd5c36?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 01 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sept-Dec 2025)](https://jobright.ai/jobs/info/688d965b6a4aac5783cd4469?utm_campaign=1056&utm_source=git)** | Washington Highlands, MD | On Site | Aug 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f84?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd813e?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/688d7a226a4aac5783cd24ae?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[WMUR-TV](http://www.wmur.com/)** | **[John DiStaso Political Fellowship](https://jobright.ai/jobs/info/66548517dc70ef329d820087?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
