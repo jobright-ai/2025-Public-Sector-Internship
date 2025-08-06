@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Salvation Army World Service Office](http://sawso.org)** | **[International Agriculture & Economic Development Intern](https://jobright.ai/jobs/info/6893a7524c7e851b90adf332?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Aug 06 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893a6ec4c7e851b90adf28d?utm_campaign=1056&utm_source=git)** | DC02-01-Washington DC-1100 New York Ave NW | On Site | Aug 06 |
+| **[Marion P. Thomas Charter School](https://mptcs.bamboohr.com/jobs/)** | **[Social Worker Internship](https://jobright.ai/jobs/info/6893a635a9199876488deec2?utm_campaign=1056&utm_source=git)** | Newark, New Jersey, United States | On Site | Aug 06 |
+| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Human Services (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/6893a4a0a9199876488dec90?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Aug 06 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/689391c1a9199876488de503?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Spring 2026 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/68938fe4f47efe2113965057?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2025 Grants and Research Development Intern: Fall](https://jobright.ai/jobs/info/68935e0da9199876488dd079?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Aug 06 |
@@ -99,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee for Service](https://jobright.ai/jobs/info/689228b4f47efe211395a2f7?utm_campaign=1056&utm_source=git)** | FL - Orlando | Hybrid | Aug 05 |
 | **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68922373f47efe211395a07e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection and Money in Politics Intern](https://jobright.ai/jobs/info/6892eef0f5ee707a15dca66f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
-| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/689217534c7e851b90ad3222?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
+| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/6892178d4c7e851b90ad326a?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6892295ff5ee707a15dc383a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687572625cebcd1dd51c0d3d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Aug 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/688fe38e6a4aac5783cdde34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
 | ↳ | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68904366f5ee707a15db57c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Senior Associate Director, Office of International Affairs](https://jobright.ai/jobs/info/688ebe19cdbd821a36641f69?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 02 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/688ea55dcdbd821a36641d91?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| ↳ | **[Intern – Middle East Program (Fall 2025)](https://jobright.ai/jobs/info/688ea54dcdbd821a36641d8d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
-| ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/688efde2cdbd821a36644161?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| **[We Independent](www.weindependent.org)** | **[Grant Writer Intern/Volunteer](https://jobright.ai/jobs/info/688e3b866a4aac5783cd8c61?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
