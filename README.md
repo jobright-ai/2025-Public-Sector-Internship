@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2025 Grants and Research Development Intern: Fall](https://jobright.ai/jobs/info/68935e0da9199876488dd079?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Aug 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68933c75a9199876488dc840?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68933b474c7e851b90adca7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | ↳ | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/6893365a4c7e851b90adc916?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 06 |
 | ↳ | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/689334d8f47efe2113963279?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[Oppia Foundation](https://oppia.org)** | **[Grant Writer](https://jobright.ai/jobs/info/689318914c7e851b90adc3c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Granger-Hunter Improvement District](https://www.ghid.org)** | **[Water Conservation - Part-Time Fall Internship](https://jobright.ai/jobs/info/689375eff47efe21139643d5?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
 | **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892e35a4c7e851b90ad9cf9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/6892d48f4c7e851b90ad919f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[MAYOR’S OFFICE - FALL SEMESTER UNDERGRADUATE INTERNSHIP](https://jobright.ai/jobs/info/6892b280f5ee707a15dc79ef?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Aug 05 |
@@ -80,13 +82,13 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/68926d4f4c7e851b90ad5abc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
 | ↳ | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6892648df47efe211395c025?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Aug 05 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/68925f064c7e851b90ad51a7?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Policy Intern - Spring 2026](https://jobright.ai/jobs/info/68925dec4c7e851b90ad5104?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689259b9f47efe211395ba6c?utm_campaign=1056&utm_source=git)** | Amityville,NY,US | On Site | Aug 05 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/689258ff4c7e851b90ad4e6f?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Aug 05 |
 | ↳ | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/689258424c7e851b90ad4d54?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania, USA | On Site | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689257c64c7e851b90ad4c8e?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/689273824c7e851b90ad5e99?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/68923a604c7e851b90ad3ff4?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | Hybrid | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689259464c7e851b90ad4ee2?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Middle East Program (Fall 2025)](https://jobright.ai/jobs/info/688ea54dcdbd821a36641d8d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/688efde2cdbd821a36644161?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[We Independent](www.weindependent.org)** | **[Grant Writer Intern/Volunteer](https://jobright.ai/jobs/info/688e3b866a4aac5783cd8c61?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Aug 02 |
-| **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 02 |
-| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Health Policy & Media Internship](https://jobright.ai/jobs/info/688e09426a4aac5783cd8135?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
