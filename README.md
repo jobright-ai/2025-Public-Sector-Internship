@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68940c134c7e851b90ae253e?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Aug 06 |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/68941f534c7e851b90ae3089?utm_campaign=1056&utm_source=git)** | Queens County, NY | On Site | Aug 06 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6893fb41a9199876488e16a7?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 06 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Land Administration 2026](https://jobright.ai/jobs/info/6893f0e84c7e851b90ae171c?utm_campaign=1056&utm_source=git)** | Bartlesville, OK | On Site | Aug 06 |
+| **[US Youth Soccer](http://www.usyouthsoccer.org)** | **[US Youth Soccer Olympic Development Program Intern](https://jobright.ai/jobs/info/68940a424c7e851b90ae2468?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Aug 06 |
 | **[Mission University](https://missionuniv.org)** | **[Global Public Health Internship and Research Program](https://jobright.ai/jobs/info/6893e3e94c7e851b90ae115a?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Sustainability Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/68941f0f4c7e851b90ae3072?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/689402a2a9199876488e1c29?utm_campaign=1056&utm_source=git)** | Kokomo, IN | On Site | Aug 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893e0384c7e851b90ae0fca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893dcc6f47efe2113967866?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
@@ -78,11 +82,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/689334d8f47efe2113963279?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[Oppia Foundation](https://oppia.org)** | **[Grant Writer](https://jobright.ai/jobs/info/689318914c7e851b90adc3c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Granger-Hunter Improvement District](https://www.ghid.org)** | **[Water Conservation - Part-Time Fall Internship](https://jobright.ai/jobs/info/689375eff47efe21139643d5?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
-| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892e35a4c7e851b90ad9cf9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/6892d48f4c7e851b90ad919f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
 | **[GE HealthCare Voluson Ultrasound](https://www.gehealthcare.com/products/ultrasound/voluson)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893cd14a9199876488e04df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/6892a7a9f47efe211395e11c?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Aug 05 |
+| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a5c0f5ee707a15dc73b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[MAYOR’S OFFICE - FALL SEMESTER UNDERGRADUATE INTERNSHIP](https://jobright.ai/jobs/info/6893bcf0a9199876488dfb09?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Aug 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST IV - DACS - 42005964 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/6893fde8a9199876488e19e4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 05 |
 | **[Marion P. Thomas Charter School](https://mptcs.bamboohr.com/jobs/)** | **[Social Worker Internship](https://jobright.ai/jobs/info/6893eca5f47efe2113967d9b?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d3a34c7e851b90ac9edc?utm_campaign=1056&utm_source=git)** | New York | Hybrid | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6890d362f5ee707a15db9f8a?utm_campaign=1056&utm_source=git)** | Austin | Hybrid | Aug 04 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681cc50e367f97acdbd685a8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Aug 04 |
-| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcc5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 04 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/6890aed7f47efe211394f6a2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 04 |
-| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/68906f634c7e851b90ac6929?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 04 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/6892f8a7f47efe2113961822?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
