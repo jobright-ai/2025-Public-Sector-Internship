@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op-Intern- Corporate Social Responsibility](https://jobright.ai/jobs/info/687801bb5cebcd1dd51d6f13?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Aug 07 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/68947ae04ed2ea559ca4e0b9?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Aug 07 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68945477f47efe211396bd81?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68940c134c7e851b90ae253e?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Aug 06 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/68941f534c7e851b90ae3089?utm_campaign=1056&utm_source=git)** | Queens County, NY | On Site | Aug 06 |
@@ -88,12 +90,11 @@ For a complete list, click the following sortable link below:
 | **[Oppia Foundation](https://oppia.org)** | **[Grant Writer](https://jobright.ai/jobs/info/689318914c7e851b90adc3c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Granger-Hunter Improvement District](https://www.ghid.org)** | **[Water Conservation - Part-Time Fall Internship](https://jobright.ai/jobs/info/689375eff47efe21139643d5?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/689458e6a9199876488e5170?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892e35a4c7e851b90ad9cf9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/6892d48f4c7e851b90ad919f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
 | **[GE HealthCare Voluson Ultrasound](https://www.gehealthcare.com/products/ultrasound/voluson)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893cd14a9199876488e04df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/6892a7a9f47efe211395e11c?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Aug 05 |
-| **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[MAYOR’S OFFICE - FALL SEMESTER UNDERGRADUATE INTERNSHIP](https://jobright.ai/jobs/info/6893bcf0a9199876488dfb09?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Aug 05 |
+| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a5c0f5ee707a15dc73b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST IV - DACS - 42005964 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/6893fde8a9199876488e19e4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 05 |
 | **[Marion P. Thomas Charter School](https://mptcs.bamboohr.com/jobs/)** | **[Social Worker Internship](https://jobright.ai/jobs/info/6893eca5f47efe2113967d9b?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Community Development Fund Intern at National Community Reinvestment Coalition](https://jobright.ai/jobs/info/6892cbeef47efe211395f2c0?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6892295ff5ee707a15dc383a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687572625cebcd1dd51c0d3d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Aug 05 |
+| **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689491518c6d6b44267727af?utm_campaign=1056&utm_source=git)** | Amityville, NY | On Site | Aug 05 |
 | **[LSG](https://locuststreet.com)** | **[Internship - Public Affairs & Communications](https://jobright.ai/jobs/info/6891e17d4c7e851b90ad25ce?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[Cyber Policy College Aide](https://jobright.ai/jobs/info/6874eaa7ae2f413e4a5a1b70?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Aug 05 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/6891b8b1f47efe211395876d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Economic Policy Intern](https://jobright.ai/jobs/info/68918b9b4c7e851b90acfd5c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | ↳ | **[Economic Policy Intern](https://jobright.ai/jobs/info/6891948f4c7e851b90ad01ce?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 04 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/689104a74c7e851b90acb423?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Aug 04 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890f6e0f5ee707a15dbaf88?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 04 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Postgraduate  Intern](https://jobright.ai/jobs/info/6890f69cf47efe2113951a02?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
