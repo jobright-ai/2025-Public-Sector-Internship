@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission University](https://missionuniv.org)** | **[Global Public Health Internship and Research Program](https://jobright.ai/jobs/info/6893e3e94c7e851b90ae115a?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893e0384c7e851b90ae0fca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
+| **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893dcc6f47efe2113967866?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
+| ↳ | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893d67b4c7e851b90ae0ba6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2026 US Disaster Relief Intern](https://jobright.ai/jobs/info/6893b5e34c7e851b90adfbc7?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Aug 06 |
 | **[The Salvation Army World Service Office](http://sawso.org)** | **[International Agriculture & Economic Development Intern](https://jobright.ai/jobs/info/6893a7524c7e851b90adf332?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Aug 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893a6ec4c7e851b90adf28d?utm_campaign=1056&utm_source=git)** | DC02-01-Washington DC-1100 New York Ave NW | On Site | Aug 06 |
@@ -89,13 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/68926d4f4c7e851b90ad5abc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
 | ↳ | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6892648df47efe211395c025?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Aug 05 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/68925f064c7e851b90ad51a7?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Policy Intern - Spring 2026](https://jobright.ai/jobs/info/68925dec4c7e851b90ad5104?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689259b9f47efe211395ba6c?utm_campaign=1056&utm_source=git)** | Amityville,NY,US | On Site | Aug 05 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/689258ff4c7e851b90ad4e6f?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Aug 05 |
 | ↳ | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/689258424c7e851b90ad4d54?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania, USA | On Site | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689257c64c7e851b90ad4c8e?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/689273824c7e851b90ad5e99?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 05 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Government Relations Apprentice](https://jobright.ai/jobs/info/68923a604c7e851b90ad3ff4?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | Hybrid | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689259464c7e851b90ad4ee2?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
@@ -106,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee for Service](https://jobright.ai/jobs/info/689228b4f47efe211395a2f7?utm_campaign=1056&utm_source=git)** | FL - Orlando | Hybrid | Aug 05 |
 | **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68922373f47efe211395a07e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection and Money in Politics Intern](https://jobright.ai/jobs/info/6892eef0f5ee707a15dca66f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
-| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/689217534c7e851b90ad3222?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
+| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/6892178d4c7e851b90ad326a?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6892295ff5ee707a15dc383a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687572625cebcd1dd51c0d3d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Aug 05 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/688186b429ad6b2744ae2e35?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 03 |
 | **[Cal Farley's Boys Ranch](https://www.calfarley.org/)** | **[2026 UT Social Work Masters Level Final Field Internship](https://jobright.ai/jobs/info/689036744c7e851b90ac489a?utm_campaign=1056&utm_source=git)** | Boys Ranch, TX | On Site | Aug 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/689027846a4aac5783cdede2?utm_campaign=1056&utm_source=git)** | Utah | Remote | Aug 03 |
-| ↳ | **[KIP Fall 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68930a164c7e851b90adbd5f?utm_campaign=1056&utm_source=git)** | Illinois | On Site | Aug 03 |
 | ↳ | **[KIP Fall 2025 - Research Intern - Common Sense Institute](https://jobright.ai/jobs/info/6890a8b04c7e851b90ac8840?utm_campaign=1056&utm_source=git)** | Colorado | On Site | Aug 03 |
-| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Program Management Intern](https://jobright.ai/jobs/info/689019cacdbd821a3664677e?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 03 |
-| **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST IV-DACS - 42003953 (FOR INTERNAL EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68917b0cf5ee707a15dbef3e?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 03 |
-| **[The Civic Palette](https://www.linkedin.com/company/107776708)** | **[High School Advocacy Intern](https://jobright.ai/jobs/info/6891aee4f5ee707a15dc1781?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
-| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Community & Family Health Policy Internship](https://jobright.ai/jobs/info/688feface5cead4afd461658?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 03 |
+| ↳ | **[KIP Fall 2025 - Policy Intern - Illinois Policy Institute](https://jobright.ai/jobs/info/68930a164c7e851b90adbd5f?utm_campaign=1056&utm_source=git)** | Illinois | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
