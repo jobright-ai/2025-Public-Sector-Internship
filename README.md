@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 07 |
+| **[Korea Economic Institute of America](https://keia.org)** | **[KEI Fall/Winter 2025 Internship Program](https://jobright.ai/jobs/info/68952cdc73b3a600fe885847?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
+| **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / St. Vincent de Paul Pantry Operations Intern](https://jobright.ai/jobs/info/6895209b4ed2ea559ca53afe?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 07 |
 | **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68951f3673b3a600fe885506?utm_campaign=1056&utm_source=git)** | Odessa, TX | On Site | Aug 07 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Journal of the United Nations
 Job ID : 262202](https://jobright.ai/jobs/info/68951f0f73b3a600fe8854f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
@@ -92,6 +95,7 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6893e0384c7e851b90ae0fca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893dcc6f47efe2113967866?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | ↳ | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893d67b4c7e851b90ae0ba6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
+| **[SKDK](http://skdknick.com)** | **[Fall 2025 Political Internship - DC](https://jobright.ai/jobs/info/6878a1205cebcd1dd51dc8b1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2026 US Disaster Relief Intern](https://jobright.ai/jobs/info/6893b5e34c7e851b90adfbc7?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Aug 06 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/68943c76a9199876488e3d9b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 06 |
 | **[The Salvation Army World Service Office](http://sawso.org)** | **[International Agriculture & Economic Development Intern](https://jobright.ai/jobs/info/6893a7524c7e851b90adf332?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Aug 06 |
@@ -145,7 +149,7 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee for Service](https://jobright.ai/jobs/info/689228b4f47efe211395a2f7?utm_campaign=1056&utm_source=git)** | FL - Orlando | Hybrid | Aug 05 |
 | **[NC Child](https://ncchild.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68922373f47efe211395a07e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Aug 05 |
 | **[Issue One](https://www.issueone.org/)** | **[Election Protection and Money in Politics Intern](https://jobright.ai/jobs/info/6892eef0f5ee707a15dca66f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
-| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/6892178d4c7e851b90ad326a?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
+| **[Amherst](https://www.amherst.com/)** | **[CARES Intern](https://jobright.ai/jobs/info/689217534c7e851b90ad3222?utm_campaign=1056&utm_source=git)** | Austin, TX (East Side) | On Site | Aug 05 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6892295ff5ee707a15dc383a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Aug 05 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/687572625cebcd1dd51c0d3d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Elkridge) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e26?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Aug 05 |
@@ -155,8 +159,4 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (August/Fall Start)](https://jobright.ai/jobs/info/6823e16a59fcce5395c77b0a?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Aug 04 |
 | **[State of Washington](http://access.wa.gov/)** | **[ES Program Coordinator 3 Supervisor - Internal Only: Olympia/Telework](https://jobright.ai/jobs/info/6894553e4c7e851b90ae548c?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
-| **[Swing Strategies - California](https://www.swingstrat.com)** | **[Fall 2025 Public Affairs Intern](https://jobright.ai/jobs/info/6891598af47efe2113954710?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Aug 04 |
-| **[Good Shepherd Services](https://goodshepherds.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/68915287f5ee707a15dbda6d?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Aug 04 |
-| **[State of Florida](http://www.myflorida.com)** | **[RESEARCH ASSISTANT - OPS - 48005157](https://jobright.ai/jobs/info/6892a8444c7e851b90ad7631?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 04 |
-| **[CALSTART](http://www.calstart.org)** | **[Community Engagement Intern CMO](https://jobright.ai/jobs/info/689148bff5ee707a15dbd803?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
