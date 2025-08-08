@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breaking Silence Movement](https://breakingsilencemvmt.org/)** | **[Advocacy Program Assistant](https://jobright.ai/jobs/info/6896483873b3a600fe88def2?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 08 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689643188c6d6b44267800f2?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | Hybrid | Aug 08 |
+| ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689641d88c6d6b4426780054?utm_campaign=1056&utm_source=git)** | Weslaco, TX | Remote | Aug 08 |
+| **[State of Colorado](http://www.colorado.gov)** | **[***CDHS APPRENTICESHIP POSITION*** - Compliance Auditor.](https://jobright.ai/jobs/info/68963adb73b3a600fe88d91e?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/689637a873b3a600fe88d7e0?utm_campaign=1056&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy/Research Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/68962c991b9e81727f18e9a3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate, Government Relations Team](https://jobright.ai/jobs/info/68961a0b73b3a600fe88ca93?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 08 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/6895442e8c6d6b4426778728?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Aug 07 |
-| ↳ | **[Railroad Program Support Power, Emerging Talent Intern](https://jobright.ai/jobs/info/689542c44ed2ea559ca54769?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Aug 07 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerical Officer (Children’s Home Ventilation Service)](https://jobright.ai/jobs/info/689541b78c6d6b44267785ed?utm_campaign=1056&utm_source=git)** | Carthage, MO | Hybrid | Aug 07 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (August/Fall Start)](https://jobright.ai/jobs/info/6823e16a59fcce5395c77b0a?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Aug 07 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689259b9f47efe211395ba6c?utm_campaign=1056&utm_source=git)** | Amityville,NY,US | On Site | Aug 05 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/689258ff4c7e851b90ad4e6f?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Aug 05 |
 | ↳ | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/689258424c7e851b90ad4d54?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania, USA | On Site | Aug 05 |
-| **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689257c64c7e851b90ad4c8e?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681f675ed9e6e7089f426f27?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 05 |
-| **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/689273824c7e851b90ad5e99?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
