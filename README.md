@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68955bdd73b3a600fe886e7f?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Non-Profit Foundation Intern](https://jobright.ai/jobs/info/689555a573b3a600fe886b39?utm_campaign=1056&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
+| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/689554f273b3a600fe886aad?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/6895442e8c6d6b4426778728?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Aug 07 |
@@ -93,6 +93,8 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Community & Family Health Policy Internship](https://jobright.ai/jobs/info/6894b06b4ed2ea559ca4f7a4?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Aug 07 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-Op-Intern- Corporate Social Responsibility](https://jobright.ai/jobs/info/687801bb5cebcd1dd51d6f13?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Aug 07 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/68947ae04ed2ea559ca4e0b9?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Aug 07 |
+| ↳ | **[Graduate Research Assistant - Social Work Program (Fall 2025)](https://jobright.ai/jobs/info/6895963673b3a600fe888e5a?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Aug 07 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37be?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 06 |
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68940c134c7e851b90ae253e?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Aug 06 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/68941f534c7e851b90ae3089?utm_campaign=1056&utm_source=git)** | Queens County, NY | On Site | Aug 06 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6893fb41a9199876488e16a7?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 06 |
@@ -144,7 +146,6 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/68926d4f4c7e851b90ad5abc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
 | ↳ | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[American Institute of Physics](http://aip.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/6892648df47efe211395c025?utm_campaign=1056&utm_source=git)** | College Park, MD | Hybrid | Aug 05 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/68925f064c7e851b90ad51a7?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Policy Intern - Spring 2026](https://jobright.ai/jobs/info/68925dec4c7e851b90ad5104?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689259b9f47efe211395ba6c?utm_campaign=1056&utm_source=git)** | Amityville,NY,US | On Site | Aug 05 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/689258ff4c7e851b90ad4e6f?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Aug 05 |
@@ -152,11 +153,10 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689257c64c7e851b90ad4c8e?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681f675ed9e6e7089f426f27?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Emergency Management](https://jobright.ai/jobs/info/689273824c7e851b90ad5e99?utm_campaign=1056&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 05 |
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/689259464c7e851b90ad4ee2?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Aug 05 |
 | **[City of Madison, WI](https://www.cityofmadison.com/)** | **[Click and Collect Intern*](https://jobright.ai/jobs/info/68923a04f47efe211395aa2e?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Aug 05 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Social Work Intern Manager](https://jobright.ai/jobs/info/689234f9f5ee707a15dc3c4f?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 05 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Congressional Affairs Fall Intern 2025](https://jobright.ai/jobs/info/68924e4b4c7e851b90ad47fd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee for Service](https://jobright.ai/jobs/info/689228b4f47efe211395a2f7?utm_campaign=1056&utm_source=git)** | FL - Orlando | Hybrid | Aug 05 |
-| **[Issue One](https://www.issueone.org/)** | **[Election Protection and Money in Politics Intern](https://jobright.ai/jobs/info/6892eef0f5ee707a15dca66f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
