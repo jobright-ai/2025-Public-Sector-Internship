@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Arc Lexington](https://thearclexington.org/)** | **[Human Services Intern (16-17 years old) - Paid](https://jobright.ai/jobs/info/68966f301b9e81727f190d40?utm_campaign=1056&utm_source=git)** | Gloversville, NY | On Site | Aug 08 |
+| **[The Common Good](http://thecommongood.net)** | **[Public Policy Summer Internship - unpaid](https://jobright.ai/jobs/info/689669261b9e81727f190a87?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
+| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sept-Dec 2025)](https://jobright.ai/jobs/info/689667871b9e81727f1909d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[Breaking Silence Movement](https://breakingsilencemvmt.org/)** | **[Advocacy Program Assistant](https://jobright.ai/jobs/info/6896483873b3a600fe88def2?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 08 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689643188c6d6b44267800f2?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | Hybrid | Aug 08 |
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689641d88c6d6b4426780054?utm_campaign=1056&utm_source=git)** | Weslaco, TX | Remote | Aug 08 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[PennEnvironment](http://pennenvironment.org)** | **[Fall Intern](https://jobright.ai/jobs/info/68950be573b3a600fe884a13?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 07 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Aug 07 |
 | **[Jersey Cares](https://www.jerseycares.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6894df948c6d6b44267752a4?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Aug 07 |
-| **[Kearney & Company](http://www.kearneyco.com)** | **[Spring 2026 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/68938fe4f47efe2113965057?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Social Work Intern](https://jobright.ai/jobs/info/6894d79373b3a600fe8828c8?utm_campaign=1056&utm_source=git)** | Brooklyn | On Site | Aug 07 |
 | **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Executive Intern](https://jobright.ai/jobs/info/68957e464ed2ea559ca5653f?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
 | **[Greater Kansas City Chamber of Commerce](http://www.kcchamber.com)** | **[Intern, Civic and Community Initiatives](https://jobright.ai/jobs/info/6894d54d8c6d6b4426774c7c?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/68925f064c7e851b90ad51a7?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 05 |
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Policy Intern - Spring 2026](https://jobright.ai/jobs/info/68925dec4c7e851b90ad5104?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Hope For Youth, Inc](http://hfyny.org)** | **[Prevention Intern (PAID)](https://jobright.ai/jobs/info/689259b9f47efe211395ba6c?utm_campaign=1056&utm_source=git)** | Amityville,NY,US | On Site | Aug 05 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/689258ff4c7e851b90ad4e6f?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Aug 05 |
-| ↳ | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/689258424c7e851b90ad4d54?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania, USA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
