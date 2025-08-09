@@ -88,6 +88,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jul 26 |
 | ↳ | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c748027a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 26 |
-| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jul 26 |
-| ↳ | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803da?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
