@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Young Invincibles](https://www.younginvincibles.org)** | **[Midwest Fall Intern](https://jobright.ai/jobs/info/6898be96faa4e875e82508fc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/6898973b83d13d1f5b69072f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
 | **[DSG](http://www.dedicatedsolutionsgroup.com)** | **[RESPTC BCU Intern](https://jobright.ai/jobs/info/689865095574fd6bc0c79a1f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Micro Level Social Work Intern](https://jobright.ai/jobs/info/689817618c6d6b44267951c2?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
@@ -102,9 +103,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/68983a3283d13d1f5b68c421?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/689858b65574fd6bc0c7892f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 07 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Program Coordinator](https://jobright.ai/jobs/info/6897e8181b9e81727f1a2cba?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
-| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68955bdd73b3a600fe886e7f?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68976e6573b3a600fe898e59?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
+| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/689554f273b3a600fe886aad?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Railroad Program Support - Track, Emerging Talent Intern](https://jobright.ai/jobs/info/6895442e8c6d6b4426778728?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Aug 07 |
@@ -114,8 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Korea Economic Institute of America](https://keia.org)** | **[KEI Fall/Winter 2025 Internship Program](https://jobright.ai/jobs/info/68952cdc73b3a600fe885847?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / St. Vincent de Paul Pantry Operations Intern](https://jobright.ai/jobs/info/6895209b4ed2ea559ca53afe?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 07 |
 | **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68951f3673b3a600fe885506?utm_campaign=1056&utm_source=git)** | Odessa, TX | On Site | Aug 07 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Journal of the United Nations
-Job ID : 262202](https://jobright.ai/jobs/info/68951f0f73b3a600fe8854f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Federal Relations Fall Intern, Washington, DC Office](https://jobright.ai/jobs/info/68951d3873b3a600fe885431?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Aug 07 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689519204ed2ea559ca5372f?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Aug 07 |
 | **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/689516f78c6d6b4426777583?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 07 |
