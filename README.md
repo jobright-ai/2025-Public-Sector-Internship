@@ -118,8 +118,6 @@ For a complete list, click the following sortable link below:
 Job ID : 262202](https://jobright.ai/jobs/info/68951f0f73b3a600fe8854f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Federal Relations Fall Intern, Washington, DC Office](https://jobright.ai/jobs/info/68951d3873b3a600fe885431?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Aug 07 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689519204ed2ea559ca5372f?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Aug 07 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Political Affairs
-Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 07 |
 | **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Social Worker Internship Director - LCSW](https://jobright.ai/jobs/info/689516f78c6d6b4426777583?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/6895103a73b3a600fe884c4e?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Aug 07 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Fall Intern](https://jobright.ai/jobs/info/68950be573b3a600fe884a13?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 07 |
@@ -159,4 +157,5 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2025 Grants and Research Development Intern: Fall](https://jobright.ai/jobs/info/68935e0da9199876488dd079?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Aug 06 |
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Fall 2025](https://jobright.ai/jobs/info/687755db5cebcd1dd51d2919?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68933c75a9199876488dc840?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
+| ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68933b474c7e851b90adca7e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
