@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Micro Level Social Work Intern](https://jobright.ai/jobs/info/689817618c6d6b44267951c2?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
 | **[Headstrong Fit](https://www.headstrongfit.com)** | **[Grants Writer](https://jobright.ai/jobs/info/6897f12973b3a600fe8a1ac8?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | Remote | Aug 09 |
 | **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (MSW Social Work)](https://jobright.ai/jobs/info/6897f07c73b3a600fe8a1a89?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Aug 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/6897e75c1b9e81727f1a2c15?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 09 |
@@ -148,16 +149,15 @@ Job ID : 261746](https://jobright.ai/jobs/info/689517884ed2ea559ca53651?utm_camp
 | **[Oppia Foundation](https://oppia.org)** | **[Grant Writer](https://jobright.ai/jobs/info/689318914c7e851b90adc3c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Granger-Hunter Improvement District](https://www.ghid.org)** | **[Water Conservation - Part-Time Fall Internship](https://jobright.ai/jobs/info/689375eff47efe21139643d5?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Aug 05 |
 | **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/689458e6a9199876488e5170?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892e35a4c7e851b90ad9cf9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[MAYOR’S OFFICE - FALL SEMESTER UNDERGRADUATE INTERNSHIP](https://jobright.ai/jobs/info/689587028c6d6b442677aa05?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Aug 05 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/6892d48f4c7e851b90ad919f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 05 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/6892a7a9f47efe211395e11c?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Aug 05 |
+| **[MARA](www.mara.com)** | **[Government Relations & Policy Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a5c0f5ee707a15dc73b6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[FNW PROGRAM SPECIALIST IV - DACS - 42005964 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/6893fde8a9199876488e19e4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 05 |
 | **[Marion P. Thomas Charter School](https://mptcs.bamboohr.com/jobs/)** | **[Social Worker Internship](https://jobright.ai/jobs/info/6893eca5f47efe2113967d9b?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68928d6bf5ee707a15dc6a80?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 05 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/6892dcd24c7e851b90ad98ee?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Services Intern](https://jobright.ai/jobs/info/68927c544c7e851b90ad63d9?utm_campaign=1056&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
-| ↳ | **[Human Services Intern](https://jobright.ai/jobs/info/68927ad74c7e851b90ad6322?utm_campaign=1056&utm_source=git)** | Newburgh, NY | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
