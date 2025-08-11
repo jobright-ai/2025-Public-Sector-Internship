@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Access](https://www.communityaccess.org)** | **[Housing Intern](https://jobright.ai/jobs/info/68999338faa4e875e825356b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Housing Authority of the City of Austin](https://www.hacanet.org)** | **[Community Development – Non-Profit Administration and Grants Compliance Intern 33-35](https://jobright.ai/jobs/info/6898fd66faa4e875e8250f13?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Midwest Fall Intern](https://jobright.ai/jobs/info/6898be96faa4e875e82508fc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 10 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6826075b60f2af99db53865d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 10 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Micro Level Social Work Intern](https://jobright.ai/jobs/info/689817618c6d6b44267951c2?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
 | **[Headstrong Fit](https://www.headstrongfit.com)** | **[Grants Writer](https://jobright.ai/jobs/info/6897f12973b3a600fe8a1ac8?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | Remote | Aug 09 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6899155b83d13d1f5b691487?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Aug 09 |
-| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/6898d93683d13d1f5b690ee5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/6897e75c1b9e81727f1a2c15?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68236f5202abb00910ca2170?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 09 |
 | **[Aeg Worldwide Inc](http://www.aegworldwide.com/)** | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6897de441b9e81727f1a22a6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 09 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/6897bea01b9e81727f1a097b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Fall 2025)](https://jobright.ai/jobs/info/6897577c73b3a600fe8973f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/689858b65574fd6bc0c7892f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 07 |
+| **[Public Health Institute](http://www.phi.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd864?utm_campaign=1056&utm_source=git)** | Alameda, CA | Remote | Aug 07 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Program Coordinator](https://jobright.ai/jobs/info/6897e8181b9e81727f1a2cba?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68976e6573b3a600fe898e59?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2026 US Disaster Relief Intern](https://jobright.ai/jobs/info/6893b5e34c7e851b90adfbc7?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Aug 06 |
 | **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/68943c76a9199876488e3d9b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 06 |
 | **[Marion P. Thomas Charter School](https://mptcs.bamboohr.com/jobs/)** | **[Social Worker Internship](https://jobright.ai/jobs/info/6893a635a9199876488deec2?utm_campaign=1056&utm_source=git)** | Newark, New Jersey, United States | On Site | Aug 06 |
-| **[SKDK](http://skdknick.com)** | **[Fall 2025 Public Affairs Internship - DC](https://jobright.ai/jobs/info/687705c95cebcd1dd51ce84c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
