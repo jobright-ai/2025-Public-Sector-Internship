@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time Paid Intern – Chaplain Services](https://jobright.ai/jobs/info/689a114e5574fd6bc0c7f772?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
+| **[SIFMA](http://www.sifma.org/)** | **[Fall Intern, Advocacy](https://jobright.ai/jobs/info/6899fff083d13d1f5b6956c3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 11 |
+| **[S2 Strategies](https://www.s2strategies.org)** | **[S2 Strategies Fall Fellowship 2025](https://jobright.ai/jobs/info/6899fe38faa4e875e82550ac?utm_campaign=1056&utm_source=git)** | United States | On Site | Aug 11 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern – Chaplain Services](https://jobright.ai/jobs/info/6899fd4a83d13d1f5b695389?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 11 |
 | **[The Salvation Army World Service Office](http://sawso.org)** | **[International Agriculture & Economic Development Intern](https://jobright.ai/jobs/info/6899f43afaa4e875e8254edf?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Aug 11 |
 | **[Community Access](https://www.communityaccess.org)** | **[Housing Intern](https://jobright.ai/jobs/info/68999338faa4e875e825356b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Housing Authority of the City of Austin](https://www.hacanet.org)** | **[Community Development – Non-Profit Administration and Grants Compliance Intern 33-35](https://jobright.ai/jobs/info/6898fd66faa4e875e8250f13?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893dcc6f47efe2113967866?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | ↳ | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6893d67b4c7e851b90ae0ba6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2025 Political Internship - DC](https://jobright.ai/jobs/info/6878a1205cebcd1dd51dc8b1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
-| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2026 US Disaster Relief Intern](https://jobright.ai/jobs/info/6893b5e34c7e851b90adfbc7?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Aug 06 |
-| **[Sierra Club](http://sierraclub.org)** | **[Deep Canvassing Intern](https://jobright.ai/jobs/info/68943c76a9199876488e3d9b?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 06 |
-| **[Marion P. Thomas Charter School](https://mptcs.bamboohr.com/jobs/)** | **[Social Worker Internship](https://jobright.ai/jobs/info/6893a635a9199876488deec2?utm_campaign=1056&utm_source=git)** | Newark, New Jersey, United States | On Site | Aug 06 |
-| **[SKDK](http://skdknick.com)** | **[Fall 2025 Public Affairs Internship - DC](https://jobright.ai/jobs/info/687705c95cebcd1dd51ce84c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
