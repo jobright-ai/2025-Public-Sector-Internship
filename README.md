@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Housing Authority of the City of Austin](https://www.hacanet.org)** | **[Community Development – Non-Profit Administration and Grants Compliance Intern 33-35](https://jobright.ai/jobs/info/6898fd66faa4e875e8250f13?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Midwest Fall Intern](https://jobright.ai/jobs/info/6898be96faa4e875e82508fc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 10 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 10 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6826075b60f2af99db53865d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 10 |
+| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/6898973b83d13d1f5b69072f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
 | **[DSG](http://www.dedicatedsolutionsgroup.com)** | **[RESPTC BCU Intern](https://jobright.ai/jobs/info/689865095574fd6bc0c79a1f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Micro Level Social Work Intern](https://jobright.ai/jobs/info/689817618c6d6b44267951c2?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[Fall 2025 Public Affairs Internship - DC](https://jobright.ai/jobs/info/687705c95cebcd1dd51ce84c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Human Services (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/6893a4a0a9199876488dec90?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Aug 06 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/689391c1a9199876488de503?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 06 |
-| **[Charge Foundation](https://sites.google.com/chargefoundation.org/charge-foundation/home)** | **[Outreach Intern](https://jobright.ai/jobs/info/6894a8488c6d6b44267733d2?utm_campaign=1056&utm_source=git)** | Leander, TX | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
