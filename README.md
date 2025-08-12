@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689ad41dfaa4e875e825cb8b?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 11 |
+| **[Diocese of Austin](http://www.austindiocese.org)** | **[Ministry Intern (Academic Year)](https://jobright.ai/jobs/info/689ad24c83d13d1f5b69cb47?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Aug 11 |
+| **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Fall Policy Internship](https://jobright.ai/jobs/info/689acf1a83d13d1f5b69c849?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 11 |
 | **[Cultural Vistas](http://www.culturalvistas.org)** | **[Intern, CBYX](https://jobright.ai/jobs/info/689aa805faa4e875e825a929?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 11 |
 | **[Health Access California](https://health-access.org/)** | **[OUT Against Big Tobacco Los Angeles Program Intern](https://jobright.ai/jobs/info/689a9365faa4e875e8259d9c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[Ministry Intern (Academic Year)](https://jobright.ai/jobs/info/689a8f405574fd6bc0c8381e?utm_campaign=1056&utm_source=git)** | St. Peter Catholic Student Center | On Site | Aug 11 |
@@ -65,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Testing Services](https://jobright.ai/jobs/info/689a85e05574fd6bc0c8331c?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 11 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY Seasonal Employee - Mueller State Park.](https://jobright.ai/jobs/info/689a85905574fd6bc0c832de?utm_campaign=1056&utm_source=git)** | Teller County, CO | On Site | Aug 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/689a7b5783d13d1f5b699249?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Aug 11 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/689abf7afaa4e875e825be26?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Aug 11 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/689ac38e83d13d1f5b69c139?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 11 |
 | **[One Fair Wage](https://onefairwage.site/)** | **[Public Policy & Political Organizing Intern](https://jobright.ai/jobs/info/689a6df85574fd6bc0c8292d?utm_campaign=1056&utm_source=git)** | Joliet, IL | Hybrid | Aug 11 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
 Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 11 |
@@ -97,7 +102,6 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Micro Level Social Work Intern](https://jobright.ai/jobs/info/689817618c6d6b44267951c2?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
 | **[Headstrong Fit](https://www.headstrongfit.com)** | **[Grants Writer](https://jobright.ai/jobs/info/6897f12973b3a600fe8a1ac8?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | Remote | Aug 09 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6899155b83d13d1f5b691487?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Aug 09 |
-| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/6898d93683d13d1f5b690ee5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/6897e75c1b9e81727f1a2c15?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68236f5202abb00910ca2170?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 09 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/672cc36f0940e6c527a71299?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 09 |
@@ -117,7 +121,6 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/6896a36d1b9e81727f192d26?utm_campaign=1056&utm_source=git)** | Queens Zoo | On Site | Aug 08 |
 | **[Flow Forward NJ](https://www.flowforwardnj.org)** | **[Youth Council Member](https://jobright.ai/jobs/info/689745538c6d6b44267885c2?utm_campaign=1056&utm_source=git)** | New Jersey, United States | On Site | Aug 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/6898327b5574fd6bc0c75416?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
-| **[County of Siskiyou](https://www.co.siskiyou.ca.us/)** | **[Elections Intern - Seasonal Extra Help](https://jobright.ai/jobs/info/689771651b9e81727f19aa4b?utm_campaign=1056&utm_source=git)** | Yreka, CA | On Site | Aug 08 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68894faeaab47a17f6700c40?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Aug 08 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Ocean Advocate Intern](https://jobright.ai/jobs/info/689747851b9e81727f19777e?utm_campaign=1056&utm_source=git)** | New York Aquarium | On Site | Aug 08 |
 | ↳ | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/68984904faa4e875e824d046?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -140,6 +143,7 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68955bdd73b3a600fe886e7f?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68976e6573b3a600fe898e59?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Non-Profit Foundation Intern](https://jobright.ai/jobs/info/689555a573b3a600fe886b39?utm_campaign=1056&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerical Officer (Children’s Home Ventilation Service)](https://jobright.ai/jobs/info/689541b78c6d6b44267785ed?utm_campaign=1056&utm_source=git)** | Carthage, MO | Hybrid | Aug 07 |
@@ -153,9 +157,5 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/6895103a73b3a600fe884c4e?utm_campaign=1056&utm_source=git)** | Downtown Denver | On Site | Aug 07 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Fall Intern](https://jobright.ai/jobs/info/68950be573b3a600fe884a13?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 07 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Aug 07 |
-| **[Jersey Cares](https://www.jerseycares.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6894df948c6d6b44267752a4?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Aug 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6822115e9c2e7b63bb975ede?utm_campaign=1056&utm_source=git)** | Stanford, CA | Hybrid | Aug 07 |
-| **[Manhattan Star Academy](www.yai.org/msa)** | **[Social Work Intern](https://jobright.ai/jobs/info/6894d79373b3a600fe8828c8?utm_campaign=1056&utm_source=git)** | Brooklyn | On Site | Aug 07 |
-| **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Executive Intern](https://jobright.ai/jobs/info/68957e464ed2ea559ca5653f?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
-| **[Greater Kansas City Chamber of Commerce](http://www.kcchamber.com)** | **[Intern, Civic and Community Initiatives](https://jobright.ai/jobs/info/6894d54d8c6d6b4426774c7c?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
