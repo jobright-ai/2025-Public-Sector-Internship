@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ardian](https://www.ardian.com/)** | **[Sustainability Intern - October 2025 (6 Months) I New York](https://jobright.ai/jobs/info/689b6e5b83d13d1f5b6a03e2?utm_campaign=1056&utm_source=git)** | New-York | On Site | Aug 12 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689b6d4bfaa4e875e8260276?utm_campaign=1056&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
+| **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Summer Leadership Program](https://jobright.ai/jobs/info/689b6d2179a9f9666253067a?utm_campaign=1056&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
+| **[Proof](https://www.proof.com)** | **[Government Affairs & Public Policy Intern](https://jobright.ai/jobs/info/689b6a8b83d13d1f5b6a0234?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b56e5faa4e875e825f790?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 12 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/689b345b83d13d1f5b69eff6?utm_campaign=1056&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 12 |
@@ -149,14 +153,10 @@ Job ID : 262349](https://jobright.ai/jobs/info/689b04f983d13d1f5b69e9f3?utm_camp
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/689858b65574fd6bc0c7892f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 07 |
 | **[Public Health Institute](http://www.phi.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd864?utm_campaign=1056&utm_source=git)** | Alameda, CA | Remote | Aug 07 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Program Coordinator](https://jobright.ai/jobs/info/6897e8181b9e81727f1a2cba?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
-| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68955bdd73b3a600fe886e7f?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68976e6573b3a600fe898e59?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
+| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/689554f273b3a600fe886aad?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerical Officer (Children’s Home Ventilation Service)](https://jobright.ai/jobs/info/689541b78c6d6b44267785ed?utm_campaign=1056&utm_source=git)** | Carthage, MO | Hybrid | Aug 07 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern (August/Fall Start)](https://jobright.ai/jobs/info/6823e16a59fcce5395c77b0a?utm_campaign=1056&utm_source=git)** | Franklin, TN | Hybrid | Aug 07 |
-| **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / St. Vincent de Paul Pantry Operations Intern](https://jobright.ai/jobs/info/6895209b4ed2ea559ca53afe?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 07 |
-| **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68951f3673b3a600fe885506?utm_campaign=1056&utm_source=git)** | Odessa, TX | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
