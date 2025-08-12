@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Access California](https://health-access.org/)** | **[OUT Against Big Tobacco Los Angeles Program Intern](https://jobright.ai/jobs/info/689a9365faa4e875e8259d9c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
+| **[Diocese of Austin](http://www.austindiocese.org)** | **[Ministry Intern (Academic Year)](https://jobright.ai/jobs/info/689a8f405574fd6bc0c8381e?utm_campaign=1056&utm_source=git)** | St. Peter Catholic Student Center | On Site | Aug 11 |
+| **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689a8d7b83d13d1f5b699b8b?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 11 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/689a86885574fd6bc0c8339d?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Aug 11 |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Testing Services](https://jobright.ai/jobs/info/689a85e05574fd6bc0c8331c?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 11 |
+| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY Seasonal Employee - Mueller State Park.](https://jobright.ai/jobs/info/689a85905574fd6bc0c832de?utm_campaign=1056&utm_source=git)** | Teller County, CO | On Site | Aug 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/689a7b5783d13d1f5b699249?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Aug 11 |
 | **[One Fair Wage](https://onefairwage.site/)** | **[Public Policy & Political Organizing Intern](https://jobright.ai/jobs/info/689a6df85574fd6bc0c8292d?utm_campaign=1056&utm_source=git)** | Joliet, IL | Hybrid | Aug 11 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
@@ -117,8 +123,7 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/689759a51b9e81727f198daa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/6897e98a73b3a600fe8a1553?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Aug 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/6897ba7873b3a600fe89ed03?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 08 |
-| **[The Common Good](http://thecommongood.net)** | **[Public Policy Summer Internship - unpaid](https://jobright.ai/jobs/info/689868075574fd6bc0c79f5a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy/Research Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/6897a29073b3a600fe89c983?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
+| ↳ | **[KIP Fall 2025 - Policy/Research Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/6897a29073b3a600fe89c983?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/68973d1e8c6d6b4426787b35?utm_campaign=1056&utm_source=git)** | WESLACO, TEXAS | Hybrid | Aug 08 |
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689848c783d13d1f5b68cf5a?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | Hybrid | Aug 08 |
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/6898385e83d13d1f5b68c136?utm_campaign=1056&utm_source=git)** | Weslaco, TX | Remote | Aug 08 |
@@ -153,9 +158,4 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[Greater Kansas City Chamber of Commerce](http://www.kcchamber.com)** | **[Intern, Civic and Community Initiatives](https://jobright.ai/jobs/info/6894d54d8c6d6b4426774c7c?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
 | **[American Lung Association](http://www.lung.org)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/688d2d573a30793eb964933c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 07 |
-| **[Green & Healthy Homes Initiative](https://www.greenandhealthyhomes.org)** | **[Public Policy and Research Intern](https://jobright.ai/jobs/info/6865ea95ba2b553812d9c6f5?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Aug 07 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/689494648c6d6b4426772938?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Aug 07 |
-| **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Police Student Intern - 2026 Spring Semester](https://jobright.ai/jobs/info/6897e0ab1b9e81727f1a2533?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Aug 07 |
-| **[County of Siskiyou](https://www.co.siskiyou.ca.us/)** | **[Elections Intern - Seasonal Extra Help](https://jobright.ai/jobs/info/6897bd5473b3a600fe89ef66?utm_campaign=1056&utm_source=git)** | Yreka, CA | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
