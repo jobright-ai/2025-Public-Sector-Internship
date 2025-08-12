@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b56e5faa4e875e825f790?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
+| **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 12 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/689b345b83d13d1f5b69eff6?utm_campaign=1056&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 12 |
 | **[Korea Economic Institute of America](https://keia.org)** | **[KEI Fall/Winter 2025 Internship Program](https://jobright.ai/jobs/info/689b1f08faa4e875e825ec10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 12 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689ad41dfaa4e875e825cb8b?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 11 |
@@ -157,6 +159,4 @@ Job ID : 262349](https://jobright.ai/jobs/info/689b04f983d13d1f5b69e9f3?utm_camp
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / St. Vincent de Paul Pantry Operations Intern](https://jobright.ai/jobs/info/6895209b4ed2ea559ca53afe?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 07 |
 | **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68951f3673b3a600fe885506?utm_campaign=1056&utm_source=git)** | Odessa, TX | On Site | Aug 07 |
-| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Federal Relations Fall Intern, Washington, DC Office](https://jobright.ai/jobs/info/68951d3873b3a600fe885431?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Aug 07 |
-| **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689519204ed2ea559ca5372f?utm_campaign=1056&utm_source=git)** | Remote, US | Remote | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
