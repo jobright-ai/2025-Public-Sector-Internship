@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Florida Panthers](http://floridapanthers.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/689b345b83d13d1f5b69eff6?utm_campaign=1056&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 12 |
 | **[Korea Economic Institute of America](https://keia.org)** | **[KEI Fall/Winter 2025 Internship Program](https://jobright.ai/jobs/info/689b1f08faa4e875e825ec10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 12 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689ad41dfaa4e875e825cb8b?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 11 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[Ministry Intern (Academic Year)](https://jobright.ai/jobs/info/689ad24c83d13d1f5b69cb47?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Aug 11 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689a8d7b83d13d1f5b699b8b?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/689a86885574fd6bc0c8339d?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Aug 11 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Testing Services](https://jobright.ai/jobs/info/689a85e05574fd6bc0c8331c?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 11 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY Seasonal Employee - Mueller State Park.](https://jobright.ai/jobs/info/689a85905574fd6bc0c832de?utm_campaign=1056&utm_source=git)** | Teller County, CO | On Site | Aug 11 |
+| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[TEMPORARY Seasonal Employee - Mueller State Park.](https://jobright.ai/jobs/info/689a85905574fd6bc0c832de?utm_campaign=1056&utm_source=git)** | Teller County, CO | On Site | Aug 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/689a7b5783d13d1f5b699249?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Aug 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/689abf7afaa4e875e825be26?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Aug 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/689ac38e83d13d1f5b69c139?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 11 |
@@ -140,7 +141,7 @@ Job ID : 262349](https://jobright.ai/jobs/info/689b04f983d13d1f5b69e9f3?utm_camp
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689848c783d13d1f5b68cf5a?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | Hybrid | Aug 08 |
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/6898385e83d13d1f5b68c136?utm_campaign=1056&utm_source=git)** | Weslaco, TX | Remote | Aug 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/68978b8073b3a600fe89b113?utm_campaign=1056&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 08 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[***CDHS APPRENTICESHIP POSITION*** - Compliance Auditor.](https://jobright.ai/jobs/info/68983bb6faa4e875e824c641?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 08 |
+| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[***CDHS APPRENTICESHIP POSITION*** - Compliance Auditor.](https://jobright.ai/jobs/info/68983bb6faa4e875e824c641?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 08 |
 | **[FS Vector](https://www.fsvector.com/)** | **[Fall Associate, Government Relations Team](https://jobright.ai/jobs/info/68984610faa4e875e824cb12?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Aug 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/6897bea01b9e81727f1a097b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/689858b65574fd6bc0c7892f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 07 |
@@ -149,7 +150,6 @@ Job ID : 262349](https://jobright.ai/jobs/info/689b04f983d13d1f5b69e9f3?utm_camp
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68955bdd73b3a600fe886e7f?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68976e6573b3a600fe898e59?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Non-Profit Foundation Intern](https://jobright.ai/jobs/info/689555a573b3a600fe886b39?utm_campaign=1056&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerical Officer (Children’s Home Ventilation Service)](https://jobright.ai/jobs/info/689541b78c6d6b44267785ed?utm_campaign=1056&utm_source=git)** | Carthage, MO | Hybrid | Aug 07 |
