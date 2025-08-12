@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cultural Vistas](http://www.culturalvistas.org)** | **[Intern, CBYX](https://jobright.ai/jobs/info/689aa805faa4e875e825a929?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 11 |
 | **[Health Access California](https://health-access.org/)** | **[OUT Against Big Tobacco Los Angeles Program Intern](https://jobright.ai/jobs/info/689a9365faa4e875e8259d9c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[Ministry Intern (Academic Year)](https://jobright.ai/jobs/info/689a8f405574fd6bc0c8381e?utm_campaign=1056&utm_source=git)** | St. Peter Catholic Student Center | On Site | Aug 11 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689a8d7b83d13d1f5b699b8b?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 11 |
@@ -84,6 +85,7 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[SIFMA](http://www.sifma.org/)** | **[Fall Intern, Advocacy](https://jobright.ai/jobs/info/6899fff083d13d1f5b6956c3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern – Chaplain Services](https://jobright.ai/jobs/info/6899fd4a83d13d1f5b695389?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 11 |
 | **[The Salvation Army World Service Office](http://sawso.org)** | **[International Agriculture & Economic Development Intern](https://jobright.ai/jobs/info/6899f43afaa4e875e8254edf?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Aug 11 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/686002fa6a9f621ce44acdd2?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 10 |
 | **[Community Access](https://www.communityaccess.org)** | **[Housing Intern](https://jobright.ai/jobs/info/68999338faa4e875e825356b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Housing Authority of the City of Austin](https://www.hacanet.org)** | **[Community Development – Non-Profit Administration and Grants Compliance Intern 33-35](https://jobright.ai/jobs/info/6898fd66faa4e875e8250f13?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 10 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Midwest Fall Intern](https://jobright.ai/jobs/info/6898be96faa4e875e82508fc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 10 |
@@ -156,6 +158,4 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Social Work Intern](https://jobright.ai/jobs/info/6894d79373b3a600fe8828c8?utm_campaign=1056&utm_source=git)** | Brooklyn | On Site | Aug 07 |
 | **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Executive Intern](https://jobright.ai/jobs/info/68957e464ed2ea559ca5653f?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
 | **[Greater Kansas City Chamber of Commerce](http://www.kcchamber.com)** | **[Intern, Civic and Community Initiatives](https://jobright.ai/jobs/info/6894d54d8c6d6b4426774c7c?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
-| **[American Lung Association](http://www.lung.org)** | **[Intern, Advocacy & Public Policy](https://jobright.ai/jobs/info/688d2d573a30793eb964933c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
-| **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
