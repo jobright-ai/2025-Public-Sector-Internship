@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/689a7b5783d13d1f5b699249?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Aug 11 |
+| **[One Fair Wage](https://onefairwage.site/)** | **[Public Policy & Political Organizing Intern](https://jobright.ai/jobs/info/689a6df85574fd6bc0c8292d?utm_campaign=1056&utm_source=git)** | Joliet, IL | Hybrid | Aug 11 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
 Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 11 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Administrative Intern (NC) - Office of Sustainability](https://jobright.ai/jobs/info/689a5cf983d13d1f5b6987fb?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Aug 11 |
@@ -90,6 +92,7 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/6898d93683d13d1f5b690ee5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/6897e75c1b9e81727f1a2c15?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68236f5202abb00910ca2170?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 09 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/672cc36f0940e6c527a71299?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Aeg Worldwide Inc](http://www.aegworldwide.com/)** | **[Fall Intern, Community Affairs](https://jobright.ai/jobs/info/6897de441b9e81727f1a22a6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 09 |
 | **[Nestlé](https://www.nestle.com)** | **[Intern - Corporate Affairs](https://jobright.ai/jobs/info/687a9281ed63844c944a3e12?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 09 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/689772051b9e81727f19ab11?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Aug 09 |
@@ -127,9 +130,9 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/689858b65574fd6bc0c7892f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 07 |
 | **[Public Health Institute](http://www.phi.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/685bb02abdb702ed7b7fd864?utm_campaign=1056&utm_source=git)** | Alameda, CA | Remote | Aug 07 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Program Coordinator](https://jobright.ai/jobs/info/6897e8181b9e81727f1a2cba?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
+| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68955bdd73b3a600fe886e7f?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Membership Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68976e6573b3a600fe898e59?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Isla Vista Community Services District](http://islavistacsd.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6895594e73b3a600fe886d1d?utm_campaign=1056&utm_source=git)** | Isla Vista, CA | Hybrid | Aug 07 |
-| **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/689554f273b3a600fe886aad?utm_campaign=1056&utm_source=git)** | Trier, ND | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68954ab473b3a600fe886529?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver City Council Internship](https://jobright.ai/jobs/info/68954a6873b3a600fe8864ce?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 07 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerical Officer (Children’s Home Ventilation Service)](https://jobright.ai/jobs/info/689541b78c6d6b44267785ed?utm_campaign=1056&utm_source=git)** | Carthage, MO | Hybrid | Aug 07 |
@@ -155,7 +158,4 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BSW - Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Aug 07 |
 | **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Police Student Intern - 2026 Spring Semester](https://jobright.ai/jobs/info/6897e0ab1b9e81727f1a2533?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Aug 07 |
 | **[County of Siskiyou](https://www.co.siskiyou.ca.us/)** | **[Elections Intern - Seasonal Extra Help](https://jobright.ai/jobs/info/6897bd5473b3a600fe89ef66?utm_campaign=1056&utm_source=git)** | Yreka, CA | On Site | Aug 07 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/68947ae04ed2ea559ca4e0b9?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Aug 07 |
-| ↳ | **[Graduate Research Assistant - Social Work Program (Fall 2025)](https://jobright.ai/jobs/info/6897d7b773b3a600fe8a01bd?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Aug 07 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Policy Intern - Taxpayers Protection Alliance Foundation](https://jobright.ai/jobs/info/6897c1b11b9e81727f1a0bc0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
