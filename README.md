@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia Beach Psychiatric Center](https://vbpcweb.com/)** | **[Social Worker (MSW)- INTERN](https://jobright.ai/jobs/info/689be4aa83d13d1f5b6a453d?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Aug 12 |
+| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Environment & Development Intern – Sustainability, Public Works, and Energy Efficiency](https://jobright.ai/jobs/info/689be3f6faa4e875e826451f?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Aug 12 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/689bd9affaa4e875e8263ecc?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 12 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - ACL (Spring)](https://jobright.ai/jobs/info/689bd8d1faa4e875e8263e39?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Aug 12 |
 | **[University of Nevada-Las Vegas](http://www.unlv.edu/)** | **[Public Service Intern 1, Information Technology [R0148640]](https://jobright.ai/jobs/info/689bd0befaa4e875e8263b10?utm_campaign=1056&utm_source=git)** | UNLV1-Main Campus, Las Vegas | On Site | Aug 12 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/689bb77afaa4e875e8262f8d?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Aug 12 |
 | **[Tenaska](http://www.tenaska.com/)** | **[Intern Public & Government Relations (PRGR)](https://jobright.ai/jobs/info/689bb6d083d13d1f5b6a2f96?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Aug 12 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The Historic New Orleans Collection](http://www.hnoc.org)** | **[Internship - Strategic Philanthropy and Donor Relations](https://jobright.ai/jobs/info/689b8eeb83d13d1f5b6a0fea?utm_campaign=1056&utm_source=git)** | The Historic New Orleans Collection | On Site | Aug 12 |
 | **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b8e31faa4e875e8260da5?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Ardian](https://www.ardian.com/)** | **[Sustainability Intern - October 2025 (6 Months) I New York](https://jobright.ai/jobs/info/689b6e5b83d13d1f5b6a03e2?utm_campaign=1056&utm_source=git)** | New-York | On Site | Aug 12 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689b6dbb83d13d1f5b6a02ba?utm_campaign=1056&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689b6d4bfaa4e875e8260276?utm_campaign=1056&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Summer Leadership Program](https://jobright.ai/jobs/info/689b6d2179a9f9666253067a?utm_campaign=1056&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
 | **[Proof](https://www.proof.com)** | **[Government Affairs & Public Policy Intern](https://jobright.ai/jobs/info/689b6a8b83d13d1f5b6a0234?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 12 |
@@ -154,8 +158,4 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/6897e98a73b3a600fe8a1553?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Aug 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/6897ba7873b3a600fe89ed03?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 08 |
 | ↳ | **[KIP Fall 2025 - Policy/Research Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/6897a29073b3a600fe89c983?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/68973d1e8c6d6b4426787b35?utm_campaign=1056&utm_source=git)** | WESLACO, TEXAS | Hybrid | Aug 08 |
-| ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689848c783d13d1f5b68cf5a?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | Hybrid | Aug 08 |
-| ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/6898385e83d13d1f5b68c136?utm_campaign=1056&utm_source=git)** | Weslaco, TX | Remote | Aug 08 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/68978b8073b3a600fe89b113?utm_campaign=1056&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
