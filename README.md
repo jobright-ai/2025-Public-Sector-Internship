@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Nevada-Las Vegas](http://www.unlv.edu/)** | **[Public Service Intern 1, Information Technology [R0148640]](https://jobright.ai/jobs/info/689bd0befaa4e875e8263b10?utm_campaign=1056&utm_source=git)** | UNLV1-Main Campus, Las Vegas | On Site | Aug 12 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/689bb77afaa4e875e8262f8d?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Aug 12 |
 | **[Tenaska](http://www.tenaska.com/)** | **[Intern Public & Government Relations (PRGR)](https://jobright.ai/jobs/info/689bb6d083d13d1f5b6a2f96?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Aug 12 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Global South Program](https://jobright.ai/jobs/info/689391c1a9199876488de503?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
@@ -67,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Proof](https://www.proof.com)** | **[Government Affairs & Public Policy Intern](https://jobright.ai/jobs/info/689b9601faa4e875e8261694?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[Consultoría para el fortalecimiento de oportunidades de financiamiento y alianzas locales para la respuesta de Plan International en Venezuela](https://jobright.ai/jobs/info/689b936879a9f966625317ab?utm_campaign=1056&utm_source=git)** | Stamford, CT | On Site | Aug 12 |
 | **[The Historic New Orleans Collection](http://www.hnoc.org)** | **[Internship - Strategic Philanthropy and Donor Relations](https://jobright.ai/jobs/info/689b8eeb83d13d1f5b6a0fea?utm_campaign=1056&utm_source=git)** | The Historic New Orleans Collection | On Site | Aug 12 |
+| **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b8e31faa4e875e8260da5?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Ardian](https://www.ardian.com/)** | **[Sustainability Intern - October 2025 (6 Months) I New York](https://jobright.ai/jobs/info/689b6e5b83d13d1f5b6a03e2?utm_campaign=1056&utm_source=git)** | New-York | On Site | Aug 12 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689b6d4bfaa4e875e8260276?utm_campaign=1056&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689b6dbb83d13d1f5b6a02ba?utm_campaign=1056&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Summer Leadership Program](https://jobright.ai/jobs/info/689b6d2179a9f9666253067a?utm_campaign=1056&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
 | **[Proof](https://www.proof.com)** | **[Government Affairs & Public Policy Intern](https://jobright.ai/jobs/info/689b6a8b83d13d1f5b6a0234?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
-| **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b56e5faa4e875e825f790?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 12 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/689b345b83d13d1f5b69eff6?utm_campaign=1056&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 12 |
 | **[Korea Economic Institute of America](https://keia.org)** | **[KEI Fall/Winter 2025 Internship Program](https://jobright.ai/jobs/info/689b1f08faa4e875e825ec10?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 12 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Cultural Vistas](http://www.culturalvistas.org)** | **[Intern, CBYX](https://jobright.ai/jobs/info/689aa805faa4e875e825a929?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 11 |
 | **[Health Access California](https://health-access.org/)** | **[OUT Against Big Tobacco Los Angeles Program Intern](https://jobright.ai/jobs/info/689a9365faa4e875e8259d9c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
 | **[Diocese of Austin](http://www.austindiocese.org)** | **[Ministry Intern (Academic Year)](https://jobright.ai/jobs/info/689a8f405574fd6bc0c8381e?utm_campaign=1056&utm_source=git)** | St. Peter Catholic Student Center | On Site | Aug 11 |
+| **[Maharishi International University](https://www.miu.edu/)** | **[FWS Student Government Member - Fall 2025](https://jobright.ai/jobs/info/689bd33579a9f96662533f7f?utm_campaign=1056&utm_source=git)** | Fairfield, IA | On Site | Aug 11 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689a8d7b83d13d1f5b699b8b?utm_campaign=1056&utm_source=git)** | WICHITA STREET CAMPUS | On Site | Aug 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/689a86885574fd6bc0c8339d?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Aug 11 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy, Testing Services](https://jobright.ai/jobs/info/689a85e05574fd6bc0c8331c?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 11 |
@@ -118,8 +120,6 @@ Job ID : 262423](https://jobright.ai/jobs/info/689a628483d13d1f5b698a4b?utm_camp
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/689971645574fd6bc0c7c514?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
 | ↳ | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/6898973b83d13d1f5b69072f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
 | **[DSG](http://www.dedicatedsolutionsgroup.com)** | **[RESPTC BCU Intern](https://jobright.ai/jobs/info/689865095574fd6bc0c79a1f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 10 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PUBLIC INFORMATION, I
-Job ID : 262349](https://jobright.ai/jobs/info/689b04f983d13d1f5b69e9f3?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 10 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Micro Level Social Work Intern](https://jobright.ai/jobs/info/689817618c6d6b44267951c2?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 09 |
 | **[Headstrong Fit](https://www.headstrongfit.com)** | **[Grants Writer](https://jobright.ai/jobs/info/6897f12973b3a600fe8a1ac8?utm_campaign=1056&utm_source=git)** | San Luis Obispo, CA | Remote | Aug 09 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6899155b83d13d1f5b691487?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | On Site | Aug 09 |
@@ -158,5 +158,4 @@ Job ID : 262349](https://jobright.ai/jobs/info/689b04f983d13d1f5b69e9f3?utm_camp
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/689848c783d13d1f5b68cf5a?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | Hybrid | Aug 08 |
 | ↳ | **[Intern - State Reporting Team - Temporary Position (Immediate Opening)](https://jobright.ai/jobs/info/6898385e83d13d1f5b68c136?utm_campaign=1056&utm_source=git)** | Weslaco, TX | Remote | Aug 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/68978b8073b3a600fe89b113?utm_campaign=1056&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 08 |
-| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[***CDHS APPRENTICESHIP POSITION*** - Compliance Auditor.](https://jobright.ai/jobs/info/68983bb6faa4e875e824c641?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
