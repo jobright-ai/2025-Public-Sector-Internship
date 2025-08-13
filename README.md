@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alzheimer's Association®](http://www.axon-neuroscience.eu)** | **[Paid Internship (Community Engagement)](https://jobright.ai/jobs/info/68631d628ba0d8689d177c70?utm_campaign=1056&utm_source=git)** | Newton, MA | Hybrid | Aug 13 |
 | **[Wayne State University](https://wayne.edu/)** | **[Non-rep Research Temporary](https://jobright.ai/jobs/info/689c4bebfaa4e875e826826d?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Aug 13 |
 | **[Todd County](co.todd.mn.us)** | **[Social Worker Intern](https://jobright.ai/jobs/info/689c2cef79a9f9666253760c?utm_campaign=1056&utm_source=git)** | Long Prairie, MN | On Site | Aug 12 |
 | **[UHS](https://uhs.com)** | **[Social Worker (MSW)- INTERN](https://jobright.ai/jobs/info/689bfe06faa4e875e8264d27?utm_campaign=1056&utm_source=git)** | VIRGINIA BEACH, Virginia | On Site | Aug 12 |
@@ -77,11 +78,11 @@ For a complete list, click the following sortable link below:
 | **[Health Access California](https://health-access.org/)** | **[OUT Against Big Tobacco Los Angeles (OABT-LA) Program Intern](https://jobright.ai/jobs/info/689b9da6faa4e875e8261c67?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 12 |
 | **[Proof](https://www.proof.com)** | **[Government Affairs & Public Policy Intern](https://jobright.ai/jobs/info/689b9601faa4e875e8261694?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[The Historic New Orleans Collection](http://www.hnoc.org)** | **[Internship - Strategic Philanthropy and Donor Relations](https://jobright.ai/jobs/info/689b8eeb83d13d1f5b6a0fea?utm_campaign=1056&utm_source=git)** | The Historic New Orleans Collection | On Site | Aug 12 |
-| **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b8e31faa4e875e8260da5?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Ardian](https://www.ardian.com/)** | **[Sustainability Intern - October 2025 (6 Months) I New York](https://jobright.ai/jobs/info/689b6e5b83d13d1f5b6a03e2?utm_campaign=1056&utm_source=git)** | New-York | On Site | Aug 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689b6d4bfaa4e875e8260276?utm_campaign=1056&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Summer Leadership Program](https://jobright.ai/jobs/info/689b6d2179a9f9666253067a?utm_campaign=1056&utm_source=git)** | Fort Lauderdale | On Site | Aug 12 |
 | **[Proof](https://www.proof.com)** | **[Government Affairs & Public Policy Intern](https://jobright.ai/jobs/info/689b6a8b83d13d1f5b6a0234?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
+| **[Elastic](https://www.elastic.co)** | **[State & Local Government Affairs Intern - ElastiGrad](https://jobright.ai/jobs/info/689b56e5faa4e875e825f790?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/6829f14d01d8d49bc5eecb95?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 12 |
 | **[UNDP Careers](https://www.undp.org)** | **[Intern – Early Warning & Preparedness](https://jobright.ai/jobs/info/6894bd6073b3a600fe881bfb?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 12 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/689b345b83d13d1f5b69eff6?utm_campaign=1056&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/68235e4eb8c92c2c147442f0?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Aug 08 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/6896a36d1b9e81727f192d26?utm_campaign=1056&utm_source=git)** | Queens Zoo | On Site | Aug 08 |
 | **[Flow Forward NJ](https://www.flowforwardnj.org)** | **[Youth Council Member](https://jobright.ai/jobs/info/689745538c6d6b44267885c2?utm_campaign=1056&utm_source=git)** | New Jersey, United States | On Site | Aug 08 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/6898327b5574fd6bc0c75416?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
