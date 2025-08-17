@@ -57,11 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Information analysis and data visualisation
+Job ID : 256641](https://jobright.ai/jobs/info/68a23df283d13d1f5b6d5a2f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[Political Affairs Intern: UNOCC Management Support
+Job ID : 256583](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a28?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[Intern - Humanitarian Affairs
+Job ID : 249353](https://jobright.ai/jobs/info/68a23d87cc9ee94dc912483b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
+Job ID : 250033](https://jobright.ai/jobs/info/68a23d87cc9ee94dc912483c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[Political Affairs Intern
+Job ID : 242649](https://jobright.ai/jobs/info/68a23d40faa4e875e8295ac0?utm_campaign=1056&utm_source=git)** | Bogota, NJ | On Site | Aug 17 |
+| ↳ | **[Internship for Sustainable Development Goals Outreach and Partnerships
+Job ID : 261896](https://jobright.ai/jobs/info/68a23b1f83d13d1f5b6d59f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity at PayPal, India – Government Relations Associate: Apply Now!](https://jobright.ai/jobs/info/68a1e3f083d13d1f5b6d5286?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Research Assistant at Center of Policy Research and Governance: Apply by Aug 31](https://jobright.ai/jobs/info/68a1e33cfaa4e875e82952fa?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68a1b241cc9ee94dc9123c81?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a10b1b83d13d1f5b6d1fe4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[CCRI (Creative Care for Reaching Independence)](https://ccrimoorhead.org)** | **[Intern- Supported Living Services Residential Coordinator (non-paid)](https://jobright.ai/jobs/info/68a14b93cc9ee94dc9121ab1?utm_campaign=1056&utm_source=git)** | Moorhead, MN | On Site | Aug 16 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c96c83d91d34f17d32a264?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/68a1f967cc9ee94dc91243f2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[Greater Des Moines Partnership](https://www.dsmpartnership.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68a0b97783d13d1f5b6d151c?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Aug 16 |
 | **[Progressive Data Jobs](https://www.progressivedatajobs.org/)** | **[Atlanta Data & Administration Intern](https://jobright.ai/jobs/info/68a1d0d683d13d1f5b6d50dd?utm_campaign=1056&utm_source=git)** | Greater Albany, Georgia Area | On Site | Aug 16 |
@@ -70,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b7?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 16 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Specialty Fellow - Administration](https://jobright.ai/jobs/info/68a07a9ecc9ee94dc911f530?utm_campaign=1056&utm_source=git)** | Cerritos, CA | Remote | Aug 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c3c87717c9ccf885d18a84?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Aug 16 |
-| **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68a0499b83d13d1f5b6d009f?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Aug 16 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a0238f83d13d1f5b6ce672?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 15 |
 | **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Corporate Social Responsibility - Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689fe6d2faa4e875e828be3e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Groundskeeper - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/689fe39fcc9ee94dc911a79f?utm_campaign=1056&utm_source=git)** | Kent, WA | On Site | Aug 15 |
@@ -154,10 +166,4 @@ Job ID : 262085](https://jobright.ai/jobs/info/68a016c6faa4e875e828d483?utm_camp
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Democracy, Speech & Technology Project Extern](https://jobright.ai/jobs/info/689d13b3faa4e875e826cef3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/689d138efaa4e875e826ce5e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d0a87faa4e875e826cc46?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 13 |
-| **[Greenville-Spartanburg International Airport](https://gspairport.com)** | **[Police Intern](https://jobright.ai/jobs/info/689cf86779a9f9666253c91e?utm_campaign=1056&utm_source=git)** | Greer, SC | On Site | Aug 13 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689cdf3683d13d1f5b6ab65c?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Aug 13 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/689cdf3183d13d1f5b6ab63f?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Aug 13 |
-| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/689d7bc6faa4e875e8270c2a?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 13 |
-| **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study - Research Assistant](https://jobright.ai/jobs/info/689cc89ffaa4e875e826a7df?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Aug 13 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc4a779a9f9666253a9d9?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
