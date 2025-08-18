@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68a25792cc9ee94dc9124a01?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 17 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Information analysis and data visualisation
 Job ID : 256641](https://jobright.ai/jobs/info/68a23df283d13d1f5b6d5a2f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | ↳ | **[Political Affairs Intern: UNOCC Management Support
@@ -69,6 +70,7 @@ Job ID : 250033](https://jobright.ai/jobs/info/68a23d87cc9ee94dc912483c?utm_camp
 Job ID : 242649](https://jobright.ai/jobs/info/68a23d40faa4e875e8295ac0?utm_campaign=1056&utm_source=git)** | Bogota, NJ | On Site | Aug 17 |
 | ↳ | **[Internship for Sustainable Development Goals Outreach and Partnerships
 Job ID : 261896](https://jobright.ai/jobs/info/68a23b1f83d13d1f5b6d59f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity at PayPal, India – Government Relations Associate: Apply Now!](https://jobright.ai/jobs/info/68a1e3f083d13d1f5b6d5286?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Research Assistant at Center of Policy Research and Governance: Apply by Aug 31](https://jobright.ai/jobs/info/68a1e33cfaa4e875e82952fa?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68a1b241cc9ee94dc9123c81?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 17 |
@@ -164,6 +166,4 @@ Job ID : 262085](https://jobright.ai/jobs/info/68a016c6faa4e875e828d483?utm_camp
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Student Assistant (JC-487979) at State Water Resources Control Board](https://jobright.ai/jobs/info/689d1f51faa4e875e826d480?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/689d195383d13d1f5b6ad23a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Democracy, Speech & Technology Project Extern](https://jobright.ai/jobs/info/689d13b3faa4e875e826cef3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/689d138efaa4e875e826ce5e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
-| **[Laveer Engineering](https://laveer.ca/)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d0a87faa4e875e826cc46?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
