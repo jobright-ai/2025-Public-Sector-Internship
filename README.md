@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68a326101ab5f8579e8a36f2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 18 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68a323cb403ad4363b1bec7c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2d9fbda4b7a7e730743d4?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2b15e468ac21d6faba167?utm_campaign=1056&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
 | **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68a2761483d13d1f5b6d5fd1?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Aug 17 |
@@ -71,8 +73,6 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a23df283d13d1f5b6d5a2f?utm_camp
 Job ID : 256583](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a28?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | ↳ | **[Intern - Humanitarian Affairs
 Job ID : 249353](https://jobright.ai/jobs/info/68a23d87cc9ee94dc912483b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[Internship for Sustainable Development Goals Outreach and Partnerships
-Job ID : 261896](https://jobright.ai/jobs/info/68a23b1f83d13d1f5b6d59f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity at PayPal, India – Government Relations Associate: Apply Now!](https://jobright.ai/jobs/info/68a1e3f083d13d1f5b6d5286?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Research Assistant at Center of Policy Research and Governance: Apply by Aug 31](https://jobright.ai/jobs/info/68a1e33cfaa4e875e82952fa?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
@@ -163,5 +163,4 @@ Job ID : 262085](https://jobright.ai/jobs/info/68a016c6faa4e875e828d483?utm_camp
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Energy Efficiency Outreach Internship / Hybrid in Boston, MA](https://jobright.ai/jobs/info/689d532afaa4e875e826ecea?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Aug 13 |
 | **[ND Dept of Corrections and Rehabilitation](https://docr.nd.gov/)** | **[Social Work Intern](https://jobright.ai/jobs/info/689e99b5faa4e875e827e04b?utm_campaign=1056&utm_source=git)** | Bismarck, ND | On Site | Aug 13 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Democracy, Speech & Technology Project Extern](https://jobright.ai/jobs/info/689d5aebfaa4e875e826ee39?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
