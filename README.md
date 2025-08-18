@@ -71,10 +71,6 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a23df283d13d1f5b6d5a2f?utm_camp
 Job ID : 256583](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a28?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | ↳ | **[Intern - Humanitarian Affairs
 Job ID : 249353](https://jobright.ai/jobs/info/68a23d87cc9ee94dc912483b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
-Job ID : 250033](https://jobright.ai/jobs/info/68a23d87cc9ee94dc912483c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[Political Affairs Intern
-Job ID : 242649](https://jobright.ai/jobs/info/68a23d40faa4e875e8295ac0?utm_campaign=1056&utm_source=git)** | Bogota, NJ | On Site | Aug 17 |
 | ↳ | **[Internship for Sustainable Development Goals Outreach and Partnerships
 Job ID : 261896](https://jobright.ai/jobs/info/68a23b1f83d13d1f5b6d59f3?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 17 |
@@ -166,4 +162,6 @@ Job ID : 262085](https://jobright.ai/jobs/info/68a016c6faa4e875e828d483?utm_camp
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner- Driehaus (4522-02)](https://jobright.ai/jobs/info/689ebc5183d13d1f5b6c041d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Aug 13 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Energy Efficiency Outreach Internship / Hybrid in Boston, MA](https://jobright.ai/jobs/info/689d532afaa4e875e826ecea?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Aug 13 |
+| **[ND Dept of Corrections and Rehabilitation](https://docr.nd.gov/)** | **[Social Work Intern](https://jobright.ai/jobs/info/689e99b5faa4e875e827e04b?utm_campaign=1056&utm_source=git)** | Bismarck, ND | On Site | Aug 13 |
+| **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Democracy, Speech & Technology Project Extern](https://jobright.ai/jobs/info/689d5aebfaa4e875e826ee39?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
