@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68a2761483d13d1f5b6d5fd1?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Aug 17 |
+| ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/68a27211faa4e875e8296004?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68a25792cc9ee94dc9124a01?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 17 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Information analysis and data visualisation
 Job ID : 256641](https://jobright.ai/jobs/info/68a23df283d13d1f5b6d5a2f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
@@ -92,6 +94,7 @@ Job ID : 261896](https://jobright.ai/jobs/info/68a23b1f83d13d1f5b6d59f3?utm_camp
 | **[Greater Des Moines Partnership](https://www.dsmpartnership.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/689fd58cfaa4e875e828b7a8?utm_campaign=1056&utm_source=git)** | Greater Des Moines Partnership | On Site | Aug 15 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 15 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Jewish Big Brother Big Sister Association (JBBBSA) Intern Spring 2026](https://jobright.ai/jobs/info/689fd0a8faa4e875e828b474?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 15 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68669f176cddfa1959c68712?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Aug 15 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1c579a9f9666253a8e8?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 15 |
 | ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc14683d13d1f5b6aa4aa?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Aug 15 |
 | ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689fbc1bfaa4e875e828ac92?utm_campaign=1056&utm_source=git)** | Jackson, MI | On Site | Aug 15 |
@@ -163,7 +166,4 @@ Job ID : 262085](https://jobright.ai/jobs/info/68a016c6faa4e875e828d483?utm_camp
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d261879a9f9666253dbc3?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 13 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8139?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 13 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/689d252483d13d1f5b6ad81c?utm_campaign=1056&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 13 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Student Assistant (JC-487979) at State Water Resources Control Board](https://jobright.ai/jobs/info/689d1f51faa4e875e826d480?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/689d195383d13d1f5b6ad23a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 13 |
-| **[ACLU of Northern California](https://www.aclunc.org)** | **[Spring 2026 Democracy, Speech & Technology Project Extern](https://jobright.ai/jobs/info/689d13b3faa4e875e826cef3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
