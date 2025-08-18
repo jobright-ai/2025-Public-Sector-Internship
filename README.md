@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a39194403ad4363b1c2540?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Aug 18 |
+| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a3911e1ab5f8579e8a6cd9?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
+| ↳ | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a390aa37d3cc6b0d57820c?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a37e78403ad4363b1c1be4?utm_campaign=1056&utm_source=git)** | Spring Valley Campus (Washington, DC) | On Site | Aug 18 |
 | **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a37a4c37d3cc6b0d57754e?utm_campaign=1056&utm_source=git)** | Eliada Homes | On Site | Aug 18 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a37840403ad4363b1c15a3?utm_campaign=1056&utm_source=git)** | Winston-Salem, North Carolina | Hybrid | Aug 18 |
@@ -156,8 +159,4 @@ Job ID : 261966](https://jobright.ai/jobs/info/689f9fcdfaa4e875e828a2ab?utm_camp
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/6899dbf55574fd6bc0c7e2db?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Aug 14 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689f2322faa4e875e828475d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Government Relations](https://jobright.ai/jobs/info/689dbe2dfaa4e875e8273fa9?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Aug 14 |
-| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/689efd9783d13d1f5b6c401e?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 14 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Foster Youth Internship Student Assistant](https://jobright.ai/jobs/info/689ee9fa79a9f96662553b59?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 14 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern/Support the work of the DRC IOT
-Job ID : 262085](https://jobright.ai/jobs/info/68a016c6faa4e875e828d483?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
