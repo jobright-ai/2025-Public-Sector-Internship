@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a4de02e9f1c744da1250d1?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
+| ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a4d5b1541cc3479840e93c?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Aug 19 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Social Work Intern- Trauma Informed Practice](https://jobright.ai/jobs/info/68a4d572e9f1c744da124cdb?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Aug 19 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4ccf2cbe7dc676dc34a78?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 19 |
 | **[Rising Voices, a Project of Center for Empowered Politics](https://risingvoicesaaf.org/)** | **[Organizing Intern (2 positions available)](https://jobright.ai/jobs/info/68a4bf9b2d2a252445cd8cc8?utm_campaign=1056&utm_source=git)** | Metro Detroit, MI | Hybrid | Aug 19 |
 | **[BSA | The Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68a4bd0c541cc3479840d570?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
@@ -75,8 +78,6 @@ Job ID : 262891](https://jobright.ai/jobs/info/68a465a6e9f1c744da121abe?utm_camp
 | ↳ | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef61ab5f8579e8a88af?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 18 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Fall 2025 - America 250 Ohio Commission Intern](https://jobright.ai/jobs/info/68a3cbb037d3cc6b0d579a4e?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | Aug 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a3c4f2403ad4363b1c39f2?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Aug 18 |
-| **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Fall 2025](https://jobright.ai/jobs/info/68a3c4bb37d3cc6b0d5796f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
-| **[State of North Carolina](http://www.nc.gov)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3e5c6541cc34798408815?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
 | **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bb001ab5f8579e8a7e0f?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
@@ -159,5 +160,4 @@ Job ID : 262150](https://jobright.ai/jobs/info/689fa0ac83d13d1f5b6ca1d0?utm_camp
 | **[Sanofi](https://www.sanofi.com)** | **[Winter-Spring 2026 Co-op-Intern - Public Affairs and Patient Advocacy](https://jobright.ai/jobs/info/68829289835a903aa07eefd8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Aug 15 |
 | **[Minnesota Limited](http://www.mnlimited.com)** | **[Roseville Police Student Intern - 2026 Spring Semester](https://jobright.ai/jobs/info/68a02634cc9ee94dc911d5d7?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Aug 15 |
 | **[Southampton Town Democratic Committee](shdems.org)** | **[Southampton Town Democratic Campaign Interns](https://jobright.ai/jobs/info/68a1cf92faa4e875e829513e?utm_campaign=1056&utm_source=git)** | Southampton, NY | On Site | Aug 15 |
-| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Emergency Management Intern- Emergency Management Department](https://jobright.ai/jobs/info/689ee26a83d13d1f5b6c304b?utm_campaign=1056&utm_source=git)** | Port St Lucie, FL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
