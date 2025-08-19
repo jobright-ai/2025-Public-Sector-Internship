@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integral Health](https://www.integralhealth.me/)** | **[Integral Health Social Worker Intern (Remote or Hybrid – Buffalo/NYC)](https://jobright.ai/jobs/info/68a44e17541cc3479840b39d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Aug 19 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – INTERGOVERNMENTAL AFFAIRS, I
 Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
@@ -67,6 +68,7 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a3c4f2403ad4363b1c39f2?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Aug 18 |
 | **[Leavitt Partners](https://leavittpartners.com/)** | **[Fellow - Fall 2025](https://jobright.ai/jobs/info/68a3c4bb37d3cc6b0d5796f7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[State of North Carolina](http://www.nc.gov)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3e5c6541cc34798408815?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
+| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bb001ab5f8579e8a7e0f?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Aug 18 |
@@ -154,10 +156,8 @@ Job ID : 261966](https://jobright.ai/jobs/info/689f9fcdfaa4e875e828a2ab?utm_camp
 | **[Southampton Town Democratic Committee](shdems.org)** | **[Southampton Town Democratic Campaign Interns](https://jobright.ai/jobs/info/68a1cf92faa4e875e829513e?utm_campaign=1056&utm_source=git)** | Southampton, NY | On Site | Aug 15 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Emergency Management Intern- Emergency Management Department](https://jobright.ai/jobs/info/689ee26a83d13d1f5b6c304b?utm_campaign=1056&utm_source=git)** | Port St Lucie, FL | On Site | Aug 15 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/689ed0a7faa4e875e828219c?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Aug 14 |
-| ↳ | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/689ed03c83d13d1f5b6c20ef?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 14 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[FDA Youth Participant (Underage Purchaser)- Alaska](https://jobright.ai/jobs/info/68a175a283d13d1f5b6d40ea?utm_campaign=1056&utm_source=git)** | North Bethesda, MD | On Site | Aug 14 |
 | ↳ | **[FDA Youth Participant (Underage Purchaser)- Wyoming](https://jobright.ai/jobs/info/68a1751e83d13d1f5b6d3e44?utm_campaign=1056&utm_source=git)** | North Bethesda, MD | On Site | Aug 14 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/689ebf3779a9f96662550787?utm_campaign=1056&utm_source=git)** | UNITED STATES-NY-Syracuse | Hybrid | Aug 14 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Clinical Research Coordinator - SOM Department of Internal Medicine Administration](https://jobright.ai/jobs/info/689eb66679a9f9666254fb56?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Aug 14 |
-| **[JBS International, Inc.](http://www.jbsinternational.com)** | **[FDA Youth Participant (Underage Purchaser)- New Mexico](https://jobright.ai/jobs/info/689ff8f2cc9ee94dc911b088?utm_campaign=1056&utm_source=git)** | North Bethesda, MD | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
