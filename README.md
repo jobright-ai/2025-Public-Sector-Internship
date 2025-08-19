@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Mexico Practice](https://jobright.ai/jobs/info/68a477cf541cc3479840bb68?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Internship - Fall 2025](https://jobright.ai/jobs/info/68a4734fe9f1c744da121edd?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
@@ -159,5 +160,4 @@ Job ID : 262150](https://jobright.ai/jobs/info/689fa0ac83d13d1f5b6ca1d0?utm_camp
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[FDA Youth Participant (Underage Purchaser)- Alaska](https://jobright.ai/jobs/info/68a175a283d13d1f5b6d40ea?utm_campaign=1056&utm_source=git)** | North Bethesda, MD | On Site | Aug 14 |
 | ↳ | **[FDA Youth Participant (Underage Purchaser)- Wyoming](https://jobright.ai/jobs/info/68a1751e83d13d1f5b6d3e44?utm_campaign=1056&utm_source=git)** | North Bethesda, MD | On Site | Aug 14 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/689ebf3779a9f96662550787?utm_campaign=1056&utm_source=git)** | UNITED STATES-NY-Syracuse | Hybrid | Aug 14 |
-| **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Clinical Research Coordinator - SOM Department of Internal Medicine Administration](https://jobright.ai/jobs/info/689eb66679a9f9666254fb56?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
