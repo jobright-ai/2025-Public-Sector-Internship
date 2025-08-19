@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Supportive Housing Intern](https://jobright.ai/jobs/info/68a3d4c6403ad4363b1c42e6?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 18 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3cf0b1ab5f8579e8a88e6?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef737d3cc6b0d579d71?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 18 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1db79a9f9666253a90e?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Aug 15 |
 | **[Greater Des Moines Partnership](https://www.dsmpartnership.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/689fd58cfaa4e875e828b7a8?utm_campaign=1056&utm_source=git)** | Greater Des Moines Partnership | On Site | Aug 15 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 15 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Jewish Big Brother Big Sister Association (JBBBSA) Intern Spring 2026](https://jobright.ai/jobs/info/689fd0a8faa4e875e828b474?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Aug 15 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68669f176cddfa1959c68712?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Aug 15 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1c579a9f9666253a8e8?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 15 |
 | ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc14683d13d1f5b6aa4aa?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Aug 15 |
