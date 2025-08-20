@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Social Work Intern- Trauma Informed Practice](https://jobright.ai/jobs/info/68a51188b6a3617d7fa6e424?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Aug 19 |
+| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern - Public Policy & Regulation Group](https://jobright.ai/jobs/info/68a51157758f2e4ac3fdba49?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 19 |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Office Assistant - Campus Police](https://jobright.ai/jobs/info/68a510ea758f2e4ac3fdb9c4?utm_campaign=1056&utm_source=git)** | Joliet, IL | On Site | Aug 19 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/68a51089758f2e4ac3fdb96e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68a508d2b6a3617d7fa6dff0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Africa](https://jobright.ai/jobs/info/68a50624b6a3617d7fa6df86?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental and Public Health Advocacy](https://jobright.ai/jobs/info/68a5055533dd7158bbc96888?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 19 |
@@ -79,8 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Integral Health](https://www.integralhealth.me/)** | **[Integral Health Social Worker Intern (Remote or Hybrid – Buffalo/NYC)](https://jobright.ai/jobs/info/68a44e17541cc3479840b39d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Aug 19 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – INTERGOVERNMENTAL AFFAIRS, I
 Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 19 |
-| ↳ | **[INTERN - POLICY, I
-Job ID : 262891](https://jobright.ai/jobs/info/68a465a6e9f1c744da121abe?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3cf0b1ab5f8579e8a88e6?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef737d3cc6b0d579d71?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 18 |
@@ -88,6 +91,7 @@ Job ID : 262891](https://jobright.ai/jobs/info/68a465a6e9f1c744da121abe?utm_camp
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Fall 2025 - America 250 Ohio Commission Intern](https://jobright.ai/jobs/info/68a3cbb037d3cc6b0d579a4e?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | Aug 18 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a3c4f2403ad4363b1c39f2?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4f9d033dd7158bbc96454?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Aug 18 |
 | **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bb001ab5f8579e8a7e0f?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
@@ -155,9 +159,4 @@ Job ID : 262891](https://jobright.ai/jobs/info/68a465a6e9f1c744da121abe?utm_camp
 Job ID : 262150](https://jobright.ai/jobs/info/689fa0ac83d13d1f5b6ca1d0?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Aug 15 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/689f89b283d13d1f5b6c9432?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 15 |
 | **[GlobalFoundries](https://gf.com/)** | **[Legal Corporate Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/689f79f4b3e889632cf077d7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 15 |
-| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Procurement Services Student Intern (9005)](https://jobright.ai/jobs/info/689f76c9faa4e875e8288715?utm_campaign=1056&utm_source=git)** | Brooksville, FL | On Site | Aug 15 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Bureau of Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/68844272fbbf032d0006670d?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 15 |
-| **[City of West Hollywood](http://www.weho.org)** | **[Intern - Current & Historic Preservation Planning and Long Range Planning](https://jobright.ai/jobs/info/68a0c48c83d13d1f5b6d18ae?utm_campaign=1056&utm_source=git)** | West Hollywood, CA | On Site | Aug 15 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc46583d13d1f5b6aa624?utm_campaign=1056&utm_source=git)** | Carmel, IN | On Site | Aug 15 |
-| **[Our Community's Children](http://grcity.us)** | **[Police Intern](https://jobright.ai/jobs/info/68a0bef383d13d1f5b6d16de?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
