@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a5b0ab758f2e4ac3fe03cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
+| ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68a5af80b6a3617d7fa72dc2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[City of West Hollywood](http://www.weho.org)** | **[Intern - Current & Historic Preservation Planning and Long Range Planning](https://jobright.ai/jobs/info/68a57f12b6a3617d7fa727d9?utm_campaign=1056&utm_source=git)** | West Hollywood, CA | On Site | Aug 20 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68a5735933dd7158bbc9a8eb?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Aug 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/68a5341db6a3617d7fa6f684?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
@@ -147,7 +149,6 @@ Job ID : 250033](https://jobright.ai/jobs/info/68a551f7b6a3617d7fa708dc?utm_camp
 | ↳ | **[Political Affairs Intern: Information analysis and data visualisation
 Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 17 |
-| **[City of Claremont](https://ci.claremont.ca.us/)** | **[Planning Intern](https://jobright.ai/jobs/info/68a36edc1ab5f8579e8a585b?utm_campaign=1056&utm_source=git)** | Claremont, CA | On Site | Aug 17 |
 | **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68a2761483d13d1f5b6d5fd1?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Aug 17 |
 | ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/68a27211faa4e875e8296004?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Requisition× Youth Ministry Director at Joint Base Lewis-McChord JBLM, a U.S. Military Installation, Washington](https://jobright.ai/jobs/info/68a3ba0f1ab5f8579e8a7ccf?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Aug 17 |
@@ -162,5 +163,4 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 16 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 16 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a10b1b83d13d1f5b6d1fe4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
