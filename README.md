@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Rising Voices, a Project of Center for Empowered Politics](https://risingvoicesaaf.org/)** | **[Organizing Intern (2 positions available)](https://jobright.ai/jobs/info/68a4bf9b2d2a252445cd8cc8?utm_campaign=1056&utm_source=git)** | Metro Detroit, MI | Hybrid | Aug 19 |
 | **[BSA | The Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68a4bd0c541cc3479840d570?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
+| **[Maryland Department of Information Technology](https://doit.maryland.gov)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/68a54cf133dd7158bbc98c98?utm_campaign=1056&utm_source=git)** | Crownsville, MD | On Site | Aug 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Mexico Practice](https://jobright.ai/jobs/info/68a477cf541cc3479840bb68?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – INTERGOVERNMENTAL AFFAIRS, I
 Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68a54b1fb6a3617d7fa7036f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3cf0b1ab5f8579e8a88e6?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef737d3cc6b0d579d71?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 18 |
 | ↳ | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef61ab5f8579e8a88af?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 18 |
@@ -100,7 +102,6 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a3c4f2403ad4363b1c39f2?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4f9d033dd7158bbc96454?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Aug 18 |
-| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bb001ab5f8579e8a7e0f?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Aug 18 |
@@ -123,7 +124,15 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68a326101ab5f8579e8a36f2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2d9fbda4b7a7e730743d4?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2b15e468ac21d6faba167?utm_campaign=1056&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: Information analysis and data visualisation
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship for Sustainable Development Goals Outreach and Partnerships
+Job ID : 261896](https://jobright.ai/jobs/info/68a55b5133dd7158bbc995c8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
+| ↳ | **[Intern - Humanitarian Affairs
+Job ID : 249353](https://jobright.ai/jobs/info/68a55ad5b6a3617d7fa70e9a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[Political Affairs Intern: UNOCC Management Support
+Job ID : 256583](https://jobright.ai/jobs/info/68a54e8733dd7158bbc990c0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
+Job ID : 250033](https://jobright.ai/jobs/info/68a551f7b6a3617d7fa708dc?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[Political Affairs Intern: Information analysis and data visualisation
 Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 17 |
 | **[City of Claremont](https://ci.claremont.ca.us/)** | **[Planning Intern](https://jobright.ai/jobs/info/68a36edc1ab5f8579e8a585b?utm_campaign=1056&utm_source=git)** | Claremont, CA | On Site | Aug 17 |
@@ -153,10 +162,5 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_camp
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b7?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Prince Georges County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c3c87717c9ccf885d18a84?utm_campaign=1056&utm_source=git)** | Lanham, MD | On Site | Aug 16 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a0238f83d13d1f5b6ce672?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 15 |
-| **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Corporate Social Responsibility - Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689fe6d2faa4e875e828be3e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Groundskeeper - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/689fe39fcc9ee94dc911a79f?utm_campaign=1056&utm_source=git)** | Kent, WA | On Site | Aug 15 |
-| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Philanthropy](https://jobright.ai/jobs/info/689fd90dcc9ee94dc911a4b6?utm_campaign=1056&utm_source=git)** | Bridgeport, PA | On Site | Aug 15 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1db79a9f9666253a90e?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Aug 15 |
-| **[Greater Des Moines Partnership](https://www.dsmpartnership.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/689fd58cfaa4e875e828b7a8?utm_campaign=1056&utm_source=git)** | Greater Des Moines Partnership | On Site | Aug 15 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Internship - Florida (Fall 2025)](https://jobright.ai/jobs/info/689273a54c7e851b90ad5eac?utm_campaign=1056&utm_source=git)** | High Springs, FL | Hybrid | Aug 15 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/68a5534f33dd7158bbc99312?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
