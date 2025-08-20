@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UNDP Careers](https://www.undp.org)** | **[Research and Partnerships Intern / UNDP ICPSD’s Skills Development Portfolio](https://jobright.ai/jobs/info/68a627ca758f2e4ac3fe33d0?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Aug 20 |
+| **[Gentex Corporation](http://www.gentex.com)** | **[2026 Summer Intern - Public](https://jobright.ai/jobs/info/68a640b4b6a3617d7fa76855?utm_campaign=1056&utm_source=git)** | Zeeland, MI | On Site | Aug 20 |
+| **[Granger-Hunter Improvement District](https://www.ghid.org)** | **[Water Conservation - Part-Time Fall Internship](https://jobright.ai/jobs/info/68a63e06b6a3617d7fa7673f?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Aug 20 |
+| **[Syracuse Crunch](https://syracusecrunch.com/)** | **[COMMUNITY RELATIONS INTERNSHIP](https://jobright.ai/jobs/info/68a6312e758f2e4ac3fe3782?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
+| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Community-Centered Advocacy Internship](https://jobright.ai/jobs/info/68a630d1758f2e4ac3fe369c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 20 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Community Impact Summer Intern](https://jobright.ai/jobs/info/68a6240233dd7158bbc9e390?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 20 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs Intern (State and Local Relation) - 90397506 - Chicago](https://jobright.ai/jobs/info/68a61e08b6a3617d7fa75781?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/68a61d1b33dd7158bbc9dee7?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
@@ -123,6 +126,7 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a3c4f2403ad4363b1c39f2?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4f9d033dd7158bbc96454?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Aug 18 |
+| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bb001ab5f8579e8a7e0f?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Aug 18 |
@@ -159,8 +163,4 @@ Job ID : 250033](https://jobright.ai/jobs/info/68a551f7b6a3617d7fa708dc?utm_camp
 | ↳ | **[Political Affairs Intern: Information analysis and data visualisation
 Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 17 |
-| **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68a2761483d13d1f5b6d5fd1?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Aug 17 |
-| ↳ | **[Government Relations Intern](https://jobright.ai/jobs/info/68a27211faa4e875e8296004?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 17 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Requisition× Youth Ministry Director at Joint Base Lewis-McChord JBLM, a U.S. Military Installation, Washington](https://jobright.ai/jobs/info/68a3ba0f1ab5f8579e8a7ccf?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Aug 17 |
-| ↳ | **[Youth Ministry Director at Joint Base Anacostia-Bolling JBAB, a U.S. Military Installation, Washington, D.C.](https://jobright.ai/jobs/info/68a3bbc637d3cc6b0d579273?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
