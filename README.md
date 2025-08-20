@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of West Hollywood](http://www.weho.org)** | **[Intern - Current & Historic Preservation Planning and Long Range Planning](https://jobright.ai/jobs/info/68a57f12b6a3617d7fa727d9?utm_campaign=1056&utm_source=git)** | West Hollywood, CA | On Site | Aug 20 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68a5735933dd7158bbc9a8eb?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Aug 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/68a5341db6a3617d7fa6f684?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[The Pavilion Behavioral Health System](https://pavilionhospital.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/68a52ba0b6a3617d7fa6f260?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Aug 19 |
@@ -96,9 +97,11 @@ For a complete list, click the following sortable link below:
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Internship - Fall 2025](https://jobright.ai/jobs/info/68a4734fe9f1c744da121edd?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Integral Health](https://www.integralhealth.me/)** | **[Integral Health Social Worker Intern (Remote or Hybrid – Buffalo/NYC)](https://jobright.ai/jobs/info/68a44e17541cc3479840b39d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Aug 19 |
+| **[American Connection Corps](https://www.americanconnectioncorps.org/)** | **[Digital Navigator](https://jobright.ai/jobs/info/68a59bc833dd7158bbc9b37e?utm_campaign=1056&utm_source=git)** | Beaver County, PA | On Site | Aug 19 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – INTERGOVERNMENTAL AFFAIRS, I
 Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1f879a9f9666253a931?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Aug 18 |
 | **[State of North Carolina](http://www.nc.gov)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a56d8f33dd7158bbc9a4b0?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68a54b1fb6a3617d7fa7036f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3cf0b1ab5f8579e8a88e6?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Aug 18 |
@@ -160,7 +163,4 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_camp
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 16 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a10b1b83d13d1f5b6d1fe4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 16 |
-| **[CCRI (Creative Care for Reaching Independence)](https://ccrimoorhead.org)** | **[Intern- Supported Living Services Residential Coordinator (non-paid)](https://jobright.ai/jobs/info/68a14b93cc9ee94dc9121ab1?utm_campaign=1056&utm_source=git)** | Moorhead, MN | On Site | Aug 16 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Government Documents](https://jobright.ai/jobs/info/689e2ef6faa4e875e8277762?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Aug 16 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 BSW Fieldwork](https://jobright.ai/jobs/info/67c96c83d91d34f17d32a264?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
