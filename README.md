@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68a5ec9a758f2e4ac3fe16ac?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Aug 20 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68a5e2eb33dd7158bbc9c521?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Aug 20 |
 | **[Airbus](https://us.airbus.com)** | **[Intern (d/f/m) - Public Affairs Germany in Berlin](https://jobright.ai/jobs/info/68a5ce98b6a3617d7fa7349e?utm_campaign=1056&utm_source=git)** | Hamburg Area | Hybrid | Aug 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a5b0ab758f2e4ac3fe03cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68a5af80b6a3617d7fa72dc2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
@@ -161,6 +163,4 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 17 |
 | **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity at PayPal, India – Government Relations Associate: Apply Now!](https://jobright.ai/jobs/info/68a1e3f083d13d1f5b6d5286?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | ↳ | **[Research Assistant at Center of Policy Research and Governance: Apply by Aug 31](https://jobright.ai/jobs/info/68a1e33cfaa4e875e82952fa?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
-| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
