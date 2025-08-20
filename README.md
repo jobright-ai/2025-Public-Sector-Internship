@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Intern (d/f/m) - Public Affairs Germany in Berlin](https://jobright.ai/jobs/info/68a5ce98b6a3617d7fa7349e?utm_campaign=1056&utm_source=git)** | Hamburg Area | Hybrid | Aug 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a5b0ab758f2e4ac3fe03cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68a5af80b6a3617d7fa72dc2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[City of West Hollywood](http://www.weho.org)** | **[Intern - Current & Historic Preservation Planning and Long Range Planning](https://jobright.ai/jobs/info/68a57f12b6a3617d7fa727d9?utm_campaign=1056&utm_source=git)** | West Hollywood, CA | On Site | Aug 20 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[The Pavilion Behavioral Health System](https://pavilionhospital.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/68a52ba0b6a3617d7fa6f260?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Aug 19 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Social Work Intern- Trauma Informed Practice](https://jobright.ai/jobs/info/68a51188b6a3617d7fa6e424?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Aug 19 |
-| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern - Public Policy & Regulation Group](https://jobright.ai/jobs/info/68a51157758f2e4ac3fdba49?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Office Assistant - Campus Police](https://jobright.ai/jobs/info/68a510ea758f2e4ac3fdb9c4?utm_campaign=1056&utm_source=git)** | Joliet, IL | On Site | Aug 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/68a51089758f2e4ac3fdb96e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68a508d2b6a3617d7fa6dff0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Columbia River Inter-Tribal Fish Commission](http://www.critfc.org)** | **[PLCI Tribal Engagement and Outreach Relations Coordinator Intern](https://jobright.ai/jobs/info/68a54240758f2e4ac3fdd307?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Aug 19 |
 | **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68a5416133dd7158bbc9858e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 19 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a4f18e33dd7158bbc962a5?utm_campaign=1056&utm_source=git)** | Atlanta | On Site | Aug 19 |
-| **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern - Public Policy & Regulation Group](https://jobright.ai/jobs/info/68a4f14c33dd7158bbc9623a?utm_campaign=1056&utm_source=git)** | Austin | On Site | Aug 19 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a4de02e9f1c744da1250d1?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a541eb758f2e4ac3fdd29c?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Aug 19 |
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a5446cb6a3617d7fa7012a?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Aug 19 |
@@ -90,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4ccf2cbe7dc676dc34a78?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 19 |
 | **[MNA Government Relations, LLC](www.mnagr.com)** | **[Government Relations Internship](https://jobright.ai/jobs/info/68a5416e33dd7158bbc985a2?utm_campaign=1056&utm_source=git)** | Tennessee, United States | On Site | Aug 19 |
 | **[Rising Voices, a Project of Center for Empowered Politics](https://risingvoicesaaf.org/)** | **[Organizing Intern (2 positions available)](https://jobright.ai/jobs/info/68a4bf9b2d2a252445cd8cc8?utm_campaign=1056&utm_source=git)** | Metro Detroit, MI | Hybrid | Aug 19 |
-| **[BSA | The Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68a4bd0c541cc3479840d570?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
+| **[Business Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68a4bd0c541cc3479840d570?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Glimmer Mental Health](https://www.glimmermentalhealth.com/)** | **[Licensed Clinical Social Worker or LSW Clinical Intern](https://jobright.ai/jobs/info/68a5661e33dd7158bbc99def?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Aug 19 |
 | **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
 | **[Maryland Department of Information Technology](https://doit.maryland.gov)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/68a54cf133dd7158bbc98c98?utm_campaign=1056&utm_source=git)** | Crownsville, MD | On Site | Aug 19 |
@@ -98,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Mexico Practice](https://jobright.ai/jobs/info/68a477cf541cc3479840bb68?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Internship - Fall 2025](https://jobright.ai/jobs/info/68a4734fe9f1c744da121edd?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6887ed53fbbf032d00077838?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Integral Health](https://www.integralhealth.me/)** | **[Integral Health Social Worker Intern (Remote or Hybrid – Buffalo/NYC)](https://jobright.ai/jobs/info/68a44e17541cc3479840b39d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Aug 19 |
 | **[American Connection Corps](https://www.americanconnectioncorps.org/)** | **[Digital Navigator](https://jobright.ai/jobs/info/68a59bc833dd7158bbc9b37e?utm_campaign=1056&utm_source=git)** | Beaver County, PA | On Site | Aug 19 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – INTERGOVERNMENTAL AFFAIRS, I
@@ -133,6 +133,7 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | ↳ | **[CX Policy Intern](https://jobright.ai/jobs/info/68a340f1403ad4363b1bf8b6?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 18 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a337e51ab5f8579e8a3c89?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Aug 18 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68a326101ab5f8579e8a36f2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 18 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dc?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2d9fbda4b7a7e730743d4?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Travis County](https://jobright.ai/jobs/info/68a57ac2b6a3617d7fa72545?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 17 |
 | ↳ | **[Care Coordination Intern Position Description-Galveston County](https://jobright.ai/jobs/info/68a57c5bb6a3617d7fa7278d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 17 |
@@ -162,5 +163,4 @@ Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_camp
 | ↳ | **[Research Assistant at Center of Policy Research and Governance: Apply by Aug 31](https://jobright.ai/jobs/info/68a1e33cfaa4e875e82952fa?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5db?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 16 |
-| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b3?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
