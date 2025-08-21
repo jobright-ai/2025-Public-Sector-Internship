@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs (Federal and External Affairs) - 90290801 - Washington](https://jobright.ai/jobs/info/68a6746e33dd7158bbca00dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
+| **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/68a66ea8758f2e4ac3fe4da4?utm_campaign=1056&utm_source=git)** | Maryland Heights | Remote | Aug 20 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Policy & Advocacy Intern – Spring 2026](https://jobright.ai/jobs/info/68a66d56b6a3617d7fa77707?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 20 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Policy & Legislative Affairs Intern](https://jobright.ai/jobs/info/68a65eea758f2e4ac3fe47d9?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 20 |
+| **[Massanutten Resort](http://massresort.com)** | **[Internship- Sustainability](https://jobright.ai/jobs/info/68a649a5758f2e4ac3fe4002?utm_campaign=1056&utm_source=git)** | McGaheysville, VA | On Site | Aug 20 |
+| **[Ponca City Development Authority](https://www.goponca.com)** | **[Victim Service Intern Coordinator](https://jobright.ai/jobs/info/68a6465e33dd7158bbc9f218?utm_campaign=1056&utm_source=git)** | Kaw City, OK | On Site | Aug 20 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[2026 Summer Intern - Public](https://jobright.ai/jobs/info/68a640b4b6a3617d7fa76855?utm_campaign=1056&utm_source=git)** | Zeeland, MI | On Site | Aug 20 |
 | **[Granger-Hunter Improvement District](https://www.ghid.org)** | **[Water Conservation - Part-Time Fall Internship](https://jobright.ai/jobs/info/68a63e06b6a3617d7fa7673f?utm_campaign=1056&utm_source=git)** | West Valley City, UT | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[COMMUNITY RELATIONS INTERNSHIP](https://jobright.ai/jobs/info/68a6312e758f2e4ac3fe3782?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
@@ -64,14 +70,15 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Community Impact Summer Intern](https://jobright.ai/jobs/info/68a6240233dd7158bbc9e390?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 20 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs Intern (State and Local Relation) - 90397506 - Chicago](https://jobright.ai/jobs/info/68a61e08b6a3617d7fa75781?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/68a61d1b33dd7158bbc9dee7?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
-| **[City of Claremont](https://ci.claremont.ca.us/)** | **[Planning Intern](https://jobright.ai/jobs/info/68a6145c758f2e4ac3fe2573?utm_campaign=1056&utm_source=git)** | Claremont, CA | On Site | Aug 20 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68a610a6b6a3617d7fa74e8b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 20 |
-| **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68a6102433dd7158bbc9d6a1?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 20 |
+| ↳ | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68a6102433dd7158bbc9d6a1?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 20 |
 | ↳ | **[SDOT ADA Planning and Outreach Intern](https://jobright.ai/jobs/info/68a60f9f33dd7158bbc9d633?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 20 |
 | **[Greater Pittsburgh Community Food Bank](https://www.pittsburghfoodbank.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68a60e9d758f2e4ac3fe2334?utm_campaign=1056&utm_source=git)** | Duquesne, PA | Hybrid | Aug 20 |
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68a60c77b6a3617d7fa74d79?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc291faa4e875e826a4f4?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
+| ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc4a779a9f9666253a9d9?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Aug 20 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68a5ec9a758f2e4ac3fe16ac?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Aug 20 |
 | **[Airbus](https://us.airbus.com)** | **[Intern (d/f/m) - Public Affairs Germany in Berlin](https://jobright.ai/jobs/info/68a5ce98b6a3617d7fa7349e?utm_campaign=1056&utm_source=git)** | Hamburg Area | Hybrid | Aug 20 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a5b0ab758f2e4ac3fe03cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68a5af80b6a3617d7fa72dc2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[City of West Hollywood](http://www.weho.org)** | **[Intern - Current & Historic Preservation Planning and Long Range Planning](https://jobright.ai/jobs/info/68a57f12b6a3617d7fa727d9?utm_campaign=1056&utm_source=git)** | West Hollywood, CA | On Site | Aug 20 |
@@ -151,16 +158,4 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Travis County](https://jobright.ai/jobs/info/68a57ac2b6a3617d7fa72545?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 17 |
 | ↳ | **[Care Coordination Intern Position Description-Galveston County](https://jobright.ai/jobs/info/68a57c5bb6a3617d7fa7278d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 17 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Supportive Housing Intern](https://jobright.ai/jobs/info/68a566df33dd7158bbc99edf?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 17 |
-| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2b15e468ac21d6faba167?utm_campaign=1056&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Internship for Sustainable Development Goals Outreach and Partnerships
-Job ID : 261896](https://jobright.ai/jobs/info/68a55b5133dd7158bbc995c8?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
-| ↳ | **[Intern - Humanitarian Affairs
-Job ID : 249353](https://jobright.ai/jobs/info/68a55ad5b6a3617d7fa70e9a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[Political Affairs Intern: UNOCC Management Support
-Job ID : 256583](https://jobright.ai/jobs/info/68a54e8733dd7158bbc990c0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
-Job ID : 250033](https://jobright.ai/jobs/info/68a551f7b6a3617d7fa708dc?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| ↳ | **[Political Affairs Intern: Information analysis and data visualisation
-Job ID : 256641](https://jobright.ai/jobs/info/68a53d9c33dd7158bbc983ba?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 17 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
