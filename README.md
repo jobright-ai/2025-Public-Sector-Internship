@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68a77070758f2e4ac3fec243?utm_campaign=1056&utm_source=git)** | Pasadena, TX | On Site | Aug 21 |
+| **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Equity, Engagement, and Environmental Planning Intern](https://jobright.ai/jobs/info/68a76db7d627244576e2c3fa?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 21 |
+| **[Grand County](http://www.grandcountyutah.net)** | **[Student Intern_ Public Health](https://jobright.ai/jobs/info/68a76c0733dd7158bbca6def?utm_campaign=1056&utm_source=git)** | Hot Sulphur Springs, CO | On Site | Aug 21 |
+| **[Ankura](https://ankura.com)** | **[Intern (Fellow), Europe Practice](https://jobright.ai/jobs/info/68a76794d627244576e2bedd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a7603f33dd7158bbca6904?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Aug 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68a7603b758f2e4ac3feb91a?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Aug 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68a75fdf758f2e4ac3feb8d0?utm_campaign=1056&utm_source=git)** | Westminster, MD | On Site | Aug 21 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a75a41d627244576e2baaa?utm_campaign=1056&utm_source=git)** | White Plains, NY United States of America | Hybrid | Aug 21 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Europe Practice](https://jobright.ai/jobs/info/68a74b9b758f2e4ac3fead28?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 21 |
 | **[National Education Association](http://www.nea.org)** | **[Intern (Collective Bargaining & Member Advocacy)](https://jobright.ai/jobs/info/68a72704d627244576e29f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
@@ -113,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68a4fe5933dd7158bbc965bf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Prisoners' Rights Internship (Fall, Non-Legal)](https://jobright.ai/jobs/info/68a4fe4933dd7158bbc965ad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/68a5648833dd7158bbc99b9e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| ↳ | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/68a565cd758f2e4ac3fdebd6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | ↳ | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68a56403758f2e4ac3fde994?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Columbia River Inter-Tribal Fish Commission](http://www.critfc.org)** | **[PLCI Tribal Engagement and Outreach Relations Coordinator Intern](https://jobright.ai/jobs/info/68a54240758f2e4ac3fdd307?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Aug 19 |
 | **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68a5416133dd7158bbc9858e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Fall 2025 - America 250 Ohio Commission Intern](https://jobright.ai/jobs/info/68a3cbb037d3cc6b0d579a4e?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4f9d033dd7158bbc96454?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Aug 18 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
-| **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
-| **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Aug 18 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a39194403ad4363b1c2540?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Aug 18 |
-| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a3911e1ab5f8579e8a6cd9?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
-| ↳ | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a390aa37d3cc6b0d57820c?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
-| **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a37e78403ad4363b1c1be4?utm_campaign=1056&utm_source=git)** | Spring Valley Campus (Washington, DC) | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
