@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68a77070758f2e4ac3fec243?utm_campaign=1056&utm_source=git)** | Pasadena, TX | On Site | Aug 21 |
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Equity, Engagement, and Environmental Planning Intern](https://jobright.ai/jobs/info/68a76db7d627244576e2c3fa?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 21 |
@@ -68,8 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a75a41d627244576e2baaa?utm_campaign=1056&utm_source=git)** | White Plains, NY United States of America | Hybrid | Aug 21 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Europe Practice](https://jobright.ai/jobs/info/68a74b9b758f2e4ac3fead28?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 21 |
 | **[National Education Association](http://www.nea.org)** | **[Intern (Collective Bargaining & Member Advocacy)](https://jobright.ai/jobs/info/68a72704d627244576e29f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68a74118758f2e4ac3fea6cf?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Aug 21 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/688a6a0c9f961617fe21b4ab?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Aug 21 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
+| **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a6e40033dd7158bbca38c4?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[City of Winston-Salem](https://www.cityofws.org)** | **[Community Recreation Intern - Spring 2026](https://jobright.ai/jobs/info/68a6e090b6a3617d7fa7b05e?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Aug 21 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Lieutenant of Police (Internals Only) - Grade 13 - $92,664.00~$129,729.60~$166,795.20](https://jobright.ai/jobs/info/68a6d7da33dd7158bbca3718?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef737d3cc6b0d579d71?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 18 |
 | ↳ | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef61ab5f8579e8a88af?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 18 |
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Fall 2025 - America 250 Ohio Commission Intern](https://jobright.ai/jobs/info/68a3cbb037d3cc6b0d579a4e?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | Aug 18 |
-| **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4f9d033dd7158bbc96454?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
