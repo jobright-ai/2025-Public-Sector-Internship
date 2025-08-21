@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/688a6a0c9f961617fe21b4ab?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Aug 21 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a75a41d627244576e2baaa?utm_campaign=1056&utm_source=git)** | White Plains, NY United States of America | Hybrid | Aug 21 |
+| **[Ankura](https://ankura.com)** | **[Intern (Fellow), Europe Practice](https://jobright.ai/jobs/info/68a74b9b758f2e4ac3fead28?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 21 |
 | **[National Education Association](http://www.nea.org)** | **[Intern (Collective Bargaining & Member Advocacy)](https://jobright.ai/jobs/info/68a72704d627244576e29f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68a74118758f2e4ac3fea6cf?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Aug 21 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/688a6a0c9f961617fe21b4ab?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a6e40033dd7158bbca38c4?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[City of Winston-Salem](https://www.cityofws.org)** | **[Community Recreation Intern - Spring 2026](https://jobright.ai/jobs/info/68a6e090b6a3617d7fa7b05e?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Aug 21 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Lieutenant of Police (Internals Only) - Grade 13 - $92,664.00~$129,729.60~$166,795.20](https://jobright.ai/jobs/info/68a6d7da33dd7158bbca3718?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Aug 21 |
@@ -127,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Business Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68a4bd0c541cc3479840d570?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Glimmer Mental Health](https://www.glimmermentalhealth.com/)** | **[Licensed Clinical Social Worker or LSW Clinical Intern](https://jobright.ai/jobs/info/68a5661e33dd7158bbc99def?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Aug 19 |
 | **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
+| **[Oakland University](http://www.oakland.edu)** | **[Camp Counselor for NSA GenCyber Programs](https://jobright.ai/jobs/info/67db5df2e9d9089b5582c2ad?utm_campaign=1056&utm_source=git)** | Rochester, MI | On Site | Aug 19 |
 | **[Maryland Department of Information Technology](https://doit.maryland.gov)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/68a54cf133dd7158bbc98c98?utm_campaign=1056&utm_source=git)** | Crownsville, MD | On Site | Aug 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Mexico Practice](https://jobright.ai/jobs/info/68a477cf541cc3479840bb68?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Fall 2025 - America 250 Ohio Commission Intern](https://jobright.ai/jobs/info/68a3cbb037d3cc6b0d579a4e?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4f9d033dd7158bbc96454?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Aug 18 |
-| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bb001ab5f8579e8a7e0f?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Aug 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a3911e1ab5f8579e8a6cd9?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
 | ↳ | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a390aa37d3cc6b0d57820c?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a37e78403ad4363b1c1be4?utm_campaign=1056&utm_source=git)** | Spring Valley Campus (Washington, DC) | On Site | Aug 18 |
-| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a37a4c37d3cc6b0d57754e?utm_campaign=1056&utm_source=git)** | Eliada Homes | On Site | Aug 18 |
-| **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a37840403ad4363b1c15a3?utm_campaign=1056&utm_source=git)** | Winston-Salem, North Carolina | Hybrid | Aug 18 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68a36e0f1ab5f8579e8a575f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
