@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/68a6b2bc33dd7158bbca2093?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[Michael Colombo for Staten Island Borough President](https://colombo4si.nyc)** | **[Political Field Intern](https://jobright.ai/jobs/info/68a694c233dd7158bbca0e20?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Aug 20 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/68a68ebc33dd7158bbca0aec?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | Aug 20 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs (Federal and External Affairs) - 90290801 - Washington](https://jobright.ai/jobs/info/68a6746e33dd7158bbca00dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68a60c77b6a3617d7fa74d79?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc291faa4e875e826a4f4?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
 | ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc4a779a9f9666253a9d9?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Aug 20 |
+| **[Sunday Creek Horizons](https://www.sundaycreekhorizons.com)** | **[Fellow](https://jobright.ai/jobs/info/68a69d41758f2e4ac3fe6070?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Aug 20 |
 | **[Airbus](https://us.airbus.com)** | **[Intern (d/f/m) - Public Affairs Germany in Berlin](https://jobright.ai/jobs/info/68a5ce98b6a3617d7fa7349e?utm_campaign=1056&utm_source=git)** | Hamburg Area | Hybrid | Aug 20 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a5b0ab758f2e4ac3fe03cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
@@ -138,7 +140,6 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Transmission Owner Policy Analyst](https://jobright.ai/jobs/info/689e188083d13d1f5b6b6b18?utm_campaign=1056&utm_source=git)** | Glen Allen, VA | Hybrid | Aug 18 |
 | **[American University](http://american.edu)** | **[Graduate Funding Announcement Database Assistant (Student)](https://jobright.ai/jobs/info/68a3b7001ab5f8579e8a7bf8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Aug 18 |
-| **[American Councils for International Education](https://www.americancouncils.org)** | **[Temporary Program Officer, International Visitor Leadership Program](https://jobright.ai/jobs/info/68a3ab841ab5f8579e8a7597?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a39194403ad4363b1c2540?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Aug 18 |
 | ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a3911e1ab5f8579e8a6cd9?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
 | ↳ | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a390aa37d3cc6b0d57820c?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 18 |
@@ -157,5 +158,4 @@ Job ID : 262888](https://jobright.ai/jobs/info/68a43504541cc3479840b149?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dc?utm_campaign=1056&utm_source=git)** | New Haven, CT | Hybrid | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement)](https://jobright.ai/jobs/info/68a2d9fbda4b7a7e730743d4?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Travis County](https://jobright.ai/jobs/info/68a57ac2b6a3617d7fa72545?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 17 |
-| ↳ | **[Care Coordination Intern Position Description-Galveston County](https://jobright.ai/jobs/info/68a57c5bb6a3617d7fa7278d?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
