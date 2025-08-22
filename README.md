@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7a118d627244576e2da4f?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68a77070758f2e4ac3fec243?utm_campaign=1056&utm_source=git)** | Pasadena, TX | On Site | Aug 21 |
@@ -127,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Columbia River Inter-Tribal Fish Commission](http://www.critfc.org)** | **[PLCI Tribal Engagement and Outreach Relations Coordinator Intern](https://jobright.ai/jobs/info/68a54240758f2e4ac3fdd307?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Aug 19 |
 | **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68a5416133dd7158bbc9858e?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 19 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a4f18e33dd7158bbc962a5?utm_campaign=1056&utm_source=git)** | Atlanta | On Site | Aug 19 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Foster Youth Internship Student Assistant](https://jobright.ai/jobs/info/689ee9fa79a9f96662553b59?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 19 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a4de02e9f1c744da1250d1?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a541eb758f2e4ac3fdd29c?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Aug 19 |
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a5446cb6a3617d7fa7012a?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Aug 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of North Carolina](http://www.nc.gov)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a56d8f33dd7158bbc9a4b0?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68a54b1fb6a3617d7fa7036f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3cf0b1ab5f8579e8a88e6?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Aug 18 |
-| **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef737d3cc6b0d579d71?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 18 |
-| ↳ | **[Care Coordination Intern Position Description](https://jobright.ai/jobs/info/68a3cef61ab5f8579e8a88af?utm_campaign=1056&utm_source=git)** | Houston, Texas, United States | Hybrid | Aug 18 |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Fall 2025 - America 250 Ohio Commission Intern](https://jobright.ai/jobs/info/68a3cbb037d3cc6b0d579a4e?utm_campaign=1056&utm_source=git)** | Columbus,OH,US | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
