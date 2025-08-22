@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/68a7df5b33dd7158bbcaa0c1?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | Aug 21 |
 | **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Intern (Sustainability)](https://jobright.ai/jobs/info/68a7bd88758f2e4ac3fee05f?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Aug 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7ace9758f2e4ac3feda7b?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
@@ -74,6 +75,8 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[Intern (Collective Bargaining & Member Advocacy)](https://jobright.ai/jobs/info/68a72704d627244576e29f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/688a6a0c9f961617fe21b4ab?utm_campaign=1056&utm_source=git)** | Providence, RI | Hybrid | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
+| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68138746c846c4e5c350aa49?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
+| **[R&R partners](http://www.rrpartners.com/)** | **[Policy Communications Intern](https://jobright.ai/jobs/info/68a7d2fad627244576e2efc7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68a6e40033dd7158bbca38c4?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[City of Winston-Salem](https://www.cityofws.org)** | **[Community Recreation Intern - Spring 2026](https://jobright.ai/jobs/info/68a6e090b6a3617d7fa7b05e?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | On Site | Aug 21 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/68a66ea8758f2e4ac3fe4da4?utm_campaign=1056&utm_source=git)** | Maryland Heights | Remote | Aug 20 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Policy & Advocacy Intern – Spring 2026](https://jobright.ai/jobs/info/68a66d56b6a3617d7fa77707?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 20 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68a3ea24e9f1c744da11f2b6?utm_campaign=1056&utm_source=git)** | Blue Ash, OH | On Site | Aug 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68a6bee9758f2e4ac3fe7669?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[Massanutten Resort](http://massresort.com)** | **[Internship- Sustainability](https://jobright.ai/jobs/info/68a649a5758f2e4ac3fe4002?utm_campaign=1056&utm_source=git)** | McGaheysville, VA | On Site | Aug 20 |
 | **[Ponca City Development Authority](https://www.goponca.com)** | **[Victim Service Intern Coordinator](https://jobright.ai/jobs/info/68a6465e33dd7158bbc9f218?utm_campaign=1056&utm_source=git)** | Kaw City, OK | On Site | Aug 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Connection Corps](https://www.americanconnectioncorps.org/)** | **[Digital Navigator](https://jobright.ai/jobs/info/68a59bc833dd7158bbc9b37e?utm_campaign=1056&utm_source=git)** | Beaver County, PA | On Site | Aug 19 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1f879a9f9666253a931?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Aug 18 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Supportive Housing Intern](https://jobright.ai/jobs/info/68a6c2b5758f2e4ac3fe7a44?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Aug 18 |
-| **[State of North Carolina](http://www.nc.gov)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a56d8f33dd7158bbc9a4b0?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68a54b1fb6a3617d7fa7036f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
-| **[NC Department of Adult Correction](https://www.dac.nc.gov/about-us)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3cf0b1ab5f8579e8a88e6?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
