@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Sunrise](http://www.sunrisefl.gov/)** | **[Intern (Sustainability)](https://jobright.ai/jobs/info/68a7bd88758f2e4ac3fee05f?utm_campaign=1056&utm_source=git)** | Sunrise, FL | On Site | Aug 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
-| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7a118d627244576e2da4f?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7ace9758f2e4ac3feda7b?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68a77070758f2e4ac3fec243?utm_campaign=1056&utm_source=git)** | Pasadena, TX | On Site | Aug 21 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a5446cb6a3617d7fa7012a?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Aug 19 |
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a542c8758f2e4ac3fdd3b4?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Aug 19 |
 | ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a4d5b1541cc3479840e93c?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Aug 19 |
-| **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Social Work Intern- Trauma Informed Practice](https://jobright.ai/jobs/info/68a4d572e9f1c744da124cdb?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Aug 19 |
 | **[Unbound Now](https://unboundnow.org/)** | **[Care Coordination Intern Position Description-Williamson County](https://jobright.ai/jobs/info/68a4ccf2cbe7dc676dc34a78?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 19 |
 | **[MNA Government Relations, LLC](www.mnagr.com)** | **[Government Relations Internship](https://jobright.ai/jobs/info/68a5416e33dd7158bbc985a2?utm_campaign=1056&utm_source=git)** | Tennessee, United States | On Site | Aug 19 |
 | **[Rising Voices, a Project of Center for Empowered Politics](https://risingvoicesaaf.org/)** | **[Organizing Intern (2 positions available)](https://jobright.ai/jobs/info/68a4bf9b2d2a252445cd8cc8?utm_campaign=1056&utm_source=git)** | Metro Detroit, MI | Hybrid | Aug 19 |
