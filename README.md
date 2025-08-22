@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Center for Health Research](http://center4research.org/)** | **[Fall Health Policy Intern](https://jobright.ai/jobs/info/68a89c8ed627244576e33f15?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 22 |
+| **[Covestro](https://www.covestro.com)** | **[Sustainability & Public Affairs Internship](https://jobright.ai/jobs/info/68a89a0fd627244576e33c5e?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
+| **[Florida Coalition For Children](http://www.flchildren.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/68a89725758f2e4ac3ff3813?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 22 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a88c21d627244576e3365c?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Aug 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Affairs Intern / Arlington, VA](https://jobright.ai/jobs/info/68a80d92758f2e4ac3ff04e0?utm_campaign=1056&utm_source=git)** | Possible | Hybrid | Aug 21 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/68a7df5b33dd7158bbcaa0c1?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | Aug 21 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Business Software Alliance](http://www.bsa.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68a4bd0c541cc3479840d570?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Glimmer Mental Health](https://www.glimmermentalhealth.com/)** | **[Licensed Clinical Social Worker or LSW Clinical Intern](https://jobright.ai/jobs/info/68a5661e33dd7158bbc99def?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Aug 19 |
 | **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
-| **[Maryland Department of Information Technology](https://doit.maryland.gov)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/68a54cf133dd7158bbc98c98?utm_campaign=1056&utm_source=git)** | Crownsville, MD | On Site | Aug 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Internship - Fall 2025](https://jobright.ai/jobs/info/68a4734fe9f1c744da121edd?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: External Affairs (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6887ed53fbbf032d00077838?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Integral Health](https://www.integralhealth.me/)** | **[Integral Health Social Worker Intern (Remote or Hybrid – Buffalo/NYC)](https://jobright.ai/jobs/info/68a44e17541cc3479840b39d?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Aug 19 |
 | **[American Connection Corps](https://www.americanconnectioncorps.org/)** | **[Digital Navigator](https://jobright.ai/jobs/info/68a59bc833dd7158bbc9b37e?utm_campaign=1056&utm_source=git)** | Beaver County, PA | On Site | Aug 19 |
-| **[Salt Lake City Corporation](https://www.slc.gov)** | **[Constituent Liaison Intern](https://jobright.ai/jobs/info/68a425f9541cc3479840ac6e?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Aug 19 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1f879a9f9666253a931?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
