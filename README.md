@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/68a8caee6acf96396f722d58?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Fellow (FOR FAIRFIELD UNIVERSITY STUDENTS ONLY)](https://jobright.ai/jobs/info/68a8be826acf96396f72257f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Mission Team](https://jobright.ai/jobs/info/68a8b9b9d627244576e34d4f?utm_campaign=1056&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a8b34dd627244576e34ab4?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Aug 22 |
@@ -65,11 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Florida Coalition For Children](http://www.flchildren.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/68a89725758f2e4ac3ff3813?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 22 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a88c21d627244576e3365c?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Aug 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Affairs Intern / Arlington, VA](https://jobright.ai/jobs/info/68a80d92758f2e4ac3ff04e0?utm_campaign=1056&utm_source=git)** | Possible | Hybrid | Aug 21 |
-| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/68a7df5b33dd7158bbcaa0c1?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | Aug 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7a118d627244576e2da4f?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68a7f728758f2e4ac3fef8a8?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Equity, Engagement, and Environmental Planning Intern](https://jobright.ai/jobs/info/68a76db7d627244576e2c3fa?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 21 |
 | **[Grand County](http://www.grandcountyutah.net)** | **[Student Intern_ Public Health](https://jobright.ai/jobs/info/68a76c0733dd7158bbca6def?utm_campaign=1056&utm_source=git)** | Hot Sulphur Springs, CO | On Site | Aug 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
+| **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Internship - Fall 2025](https://jobright.ai/jobs/info/68a4734fe9f1c744da121edd?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
