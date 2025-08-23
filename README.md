@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68aa0b666acf96396f7297ef?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 23 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/68a9fe69d627244576e3c101?utm_campaign=1056&utm_source=git)** | Lehi, UT | On Site | Aug 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68a9f4f56acf96396f729591?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Aug 23 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative and Policy Intern (Volunteer)](https://jobright.ai/jobs/info/68a9e9cb6acf96396f72941d?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a9e33a758f2e4ac3ffbb11?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Aug 23 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote](https://jobright.ai/jobs/info/688d54533a30793eb964a429?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Aug 23 |
+| ↳ | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/688d526d1808534a89cc29a7?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[LOVE Columbia Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9ac12758f2e4ac3ffb017?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68a9a2426acf96396f728839?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 23 |
 | **[China Institute in America](https://chinainstitute.org/)** | **[Public Program Intern](https://jobright.ai/jobs/info/68a8f0d86acf96396f723bca?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Aug 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
 Job ID : 262815](https://jobright.ai/jobs/info/68a8e6a5758f2e4ac3ff61dd?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 22 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/68a8caee6acf96396f722d58?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 22 |
-| **[Covestro](https://www.covestro.com)** | **[Sustainability & Public Affairs Internship](https://jobright.ai/jobs/info/68a8c62b758f2e4ac3ff5311?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Fellow (FOR FAIRFIELD UNIVERSITY STUDENTS ONLY)](https://jobright.ai/jobs/info/68a8be826acf96396f72257f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Mission Team](https://jobright.ai/jobs/info/68a8b9b9d627244576e34d4f?utm_campaign=1056&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a8b34dd627244576e34ab4?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Aug 22 |
+| **[Covestro](https://www.covestro.com)** | **[Sustainability & Public Affairs Internship](https://jobright.ai/jobs/info/68a89a0fd627244576e33c5e?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Florida Coalition For Children](http://www.flchildren.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/68a89725758f2e4ac3ff3813?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 22 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a88c21d627244576e3365c?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Aug 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bd548906ac06e1d1cec60?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
@@ -155,7 +158,4 @@ Job ID : 262815](https://jobright.ai/jobs/info/68a8e6a5758f2e4ac3ff61dd?utm_camp
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental and Public Health Advocacy](https://jobright.ai/jobs/info/68a5055533dd7158bbc96888?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68a4fe5933dd7158bbc965bf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Prisoners' Rights Internship (Fall, Non-Legal)](https://jobright.ai/jobs/info/68a4fe4933dd7158bbc965ad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/68a5648833dd7158bbc99b9e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| ↳ | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68a56403758f2e4ac3fde994?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| **[Columbia River Inter-Tribal Fish Commission](http://www.critfc.org)** | **[PLCI Tribal Engagement and Outreach Relations Coordinator Intern](https://jobright.ai/jobs/info/68a54240758f2e4ac3fdd307?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
