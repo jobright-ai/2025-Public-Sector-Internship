@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
+Job ID : 262815](https://jobright.ai/jobs/info/68a8e6a5758f2e4ac3ff61dd?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 22 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/68a8caee6acf96396f722d58?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Fellow (FOR FAIRFIELD UNIVERSITY STUDENTS ONLY)](https://jobright.ai/jobs/info/68a8be826acf96396f72257f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Mission Team](https://jobright.ai/jobs/info/68a8b9b9d627244576e34d4f?utm_campaign=1056&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
@@ -67,8 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a88c21d627244576e3365c?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Aug 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Affairs Intern / Arlington, VA](https://jobright.ai/jobs/info/68a80d92758f2e4ac3ff04e0?utm_campaign=1056&utm_source=git)** | Possible | Hybrid | Aug 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
-| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7a118d627244576e2da4f?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7ace9758f2e4ac3feda7b?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681f675ed9e6e7089f426e7e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
 | **[Seattle Department of Transportation](http://www.seattle.gov/transportation/)** | **[SDOT Equity, Engagement, and Environmental Planning Intern](https://jobright.ai/jobs/info/68a76db7d627244576e2c3fa?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 21 |
 | **[Grand County](http://www.grandcountyutah.net)** | **[Student Intern_ Public Health](https://jobright.ai/jobs/info/68a76c0733dd7158bbca6def?utm_campaign=1056&utm_source=git)** | Hot Sulphur Springs, CO | On Site | Aug 21 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Lieutenant of Police (Internals Only) - Grade 13 - $92,664.00~$129,729.60~$166,795.20](https://jobright.ai/jobs/info/68a6d7da33dd7158bbca3718?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/68a6b2bc33dd7158bbca2093?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
-| **[Michael Colombo for Staten Island Borough President](https://colombo4si.nyc)** | **[Political Field Intern](https://jobright.ai/jobs/info/68a694c233dd7158bbca0e20?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Aug 20 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa377b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/68a68ebc33dd7158bbca0aec?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | Aug 20 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs (Federal and External Affairs) - 90290801 - Washington](https://jobright.ai/jobs/info/68a6746e33dd7158bbca00dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
@@ -156,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Riley County ](https://www.rileycountyks.gov/)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68a4b5b42d2a252445cd8748?utm_campaign=1056&utm_source=git)** | Manhattan, KS | On Site | Aug 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dccb?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68a477862d2a252445cd6fef?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
-| **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Internship - Fall 2025](https://jobright.ai/jobs/info/68a4734fe9f1c744da121edd?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
