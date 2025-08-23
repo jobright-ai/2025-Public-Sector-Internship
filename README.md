@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a9e33a758f2e4ac3ffbb11?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[LOVE Columbia Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9ac12758f2e4ac3ffb017?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68a9a2426acf96396f728839?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 23 |
 | **[China Institute in America](https://chinainstitute.org/)** | **[Public Program Intern](https://jobright.ai/jobs/info/68a8f0d86acf96396f723bca?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Aug 22 |
@@ -76,7 +77,7 @@ Job ID : 262815](https://jobright.ai/jobs/info/68a8e6a5758f2e4ac3ff61dd?utm_camp
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Government Affairs Intern / Arlington, VA](https://jobright.ai/jobs/info/68a98b546acf96396f728575?utm_campaign=1056&utm_source=git)** | Virginia | Hybrid | Aug 21 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Intern](https://jobright.ai/jobs/info/68a9630a6acf96396f726c22?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
-| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7a118d627244576e2da4f?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7ace9758f2e4ac3feda7b?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681f675ed9e6e7089f426e7e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
@@ -157,5 +158,4 @@ Job ID : 262815](https://jobright.ai/jobs/info/68a8e6a5758f2e4ac3ff61dd?utm_camp
 | **[Troutman Pepper](https://www.troutman.com/)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a4f18e33dd7158bbc962a5?utm_campaign=1056&utm_source=git)** | Atlanta | On Site | Aug 19 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Foster Youth Internship Student Assistant](https://jobright.ai/jobs/info/689ee9fa79a9f96662553b59?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 19 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a4de02e9f1c744da1250d1?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
-| ↳ | **[Health Equity/Community Investment Internship - Fall 2025](https://jobright.ai/jobs/info/68a541eb758f2e4ac3fdd29c?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
