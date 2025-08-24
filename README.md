@@ -57,8 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ab4e9ddaf1431824c8ebdb?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e8adaf1431824c8ebd4?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e8adaf1431824c8ebd3?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e89daf1431824c8ebd1?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e7adaf1431824c8ebc9?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e7adaf1431824c8ebca?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e75daf1431824c8ebc7?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 24 |
+| ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/68ab4e6ddaf1431824c8ebc2?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e62d627244576e3f769?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e5edaf1431824c8ebbd?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e5ddaf1431824c8ebbc?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e57d627244576e3f764?utm_campaign=1056&utm_source=git)** | Kokomo, IN | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e57d627244576e3f763?utm_campaign=1056&utm_source=git)** | Paducah, KY | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e3a758f2e4ac3fff461?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e2c758f2e4ac3fff456?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Aug 24 |
+| ↳ | **[Intern Hartford, CT](https://jobright.ai/jobs/info/68ab4e1f758f2e4ac3fff451?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e1b758f2e4ac3fff450?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab4e17d627244576e3f75b?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ab45cddaf1431824c8eb70?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Aug 24 |
 | **[AARP](http://www.aarp.org)** | **[Livable Communities Intern](https://jobright.ai/jobs/info/6875ffd0ae2f413e4a5abfcb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 24 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Public Sector Solutions Intern](https://jobright.ai/jobs/info/68aa28b56acf96396f729b50?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Aug 23 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (MSW-Towson) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ec09?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Aug 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68aa0b666acf96396f7297ef?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Aug 23 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/68a9fe69d627244576e3c101?utm_campaign=1056&utm_source=git)** | Lehi, UT | On Site | Aug 23 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a9e33a758f2e4ac3ffbb11?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Aug 23 |
@@ -89,8 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/682b4042343e13a5159045ba?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Aug 21 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/68a7af1033dd7158bbca8c08?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681cc50e367f97acdbd6859e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 21 |
-| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7ace9758f2e4ac3feda7b?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/672f47604e9c0c337d492a47?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 21 |
+| ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/672f47604e9c0c337d492a47?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 21 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Hispanic Cult. Ctr Office Asst (Student Position)](https://jobright.ai/jobs/info/68a7a118d627244576e2da4f?utm_campaign=1056&utm_source=git)** | Big Rapids, MI | On Site | Aug 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/68a7883733dd7158bbca80b7?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681f675ed9e6e7089f426e7e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Sustainability Reporting & Strategy Summer Intern](https://jobright.ai/jobs/info/68a774ef758f2e4ac3fec534?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 21 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc291faa4e875e826a4f4?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
 | ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc289faa4e875e826a4db?utm_campaign=1056&utm_source=git)** | Allen Park, MI | On Site | Aug 20 |
 | **[Coral Academy](https://www.linkedin.com/company/82662157)** | **[Community Outreach Interns](https://jobright.ai/jobs/info/68a71c6dd627244576e29ba9?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Aug 20 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc4a779a9f9666253a9d9?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Aug 20 |
-| ↳ | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc17883d13d1f5b6aa4fc?utm_campaign=1056&utm_source=git)** | Downers Grove, IL | On Site | Aug 20 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/68177a4d944b2dc64c6b22db?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 20 |
-| **[Airbus](https://us.airbus.com)** | **[Intern (d/f/m) - Public Affairs Germany in Berlin](https://jobright.ai/jobs/info/68a5ce98b6a3617d7fa7349e?utm_campaign=1056&utm_source=git)** | Hamburg Area | Hybrid | Aug 20 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc15c83d13d1f5b6aa4d7?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Aug 20 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68a5b0ab758f2e4ac3fe03cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| ↳ | **[Intern - Congressional & Government Affairs (Fall 2025)](https://jobright.ai/jobs/info/68a5af80b6a3617d7fa72dc2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/6841e7ada9cc09dc8db1030a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 20 |
-| **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68a8272833dd7158bbcac9a5?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Aug 20 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Public Engagement and Communications Intern - Summer 2026 - Great Lakes Division - For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/689cc1db79a9f9666253a90e?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Aug 19 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Emergency Management GIS Intern](https://jobright.ai/jobs/info/689858b65574fd6bc0c7892f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 19 |
-| **[State of Florida](http://www.myflorida.com)** | **[LAW ENFORCEMENT CORPORAL - 42000795 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68a95878d627244576e391a1?utm_campaign=1056&utm_source=git)** | Yulee, FL | On Site | Aug 19 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/68a5341db6a3617d7fa6f684?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| **[The Pavilion Behavioral Health System](https://pavilionhospital.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/68a52ba0b6a3617d7fa6f260?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Aug 19 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
-| **[Panorama Global](http://panoramaglobal.org/)** | **[Program Intern, Funders for Safe Childhood](https://jobright.ai/jobs/info/68a5ff16758f2e4ac3fe1cc8?utm_campaign=1056&utm_source=git)** | Seattle, WA | Remote | Aug 19 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/68a51089758f2e4ac3fdb96e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 19 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68a508d2b6a3617d7fa6dff0?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
