@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2025 Partnerships & Organizing Internship](https://jobright.ai/jobs/info/68ab6fce758f2e4ac3fff735?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ab5bac758f2e4ac3fff59a?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68ab5b8e758f2e4ac3fff583?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68ab5b81d627244576e3f87d?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Aug 24 |
@@ -96,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (MSW-Baltimore/Washington Campus) 2025-2026 Social Work Fieldwork](https://jobright.ai/jobs/info/683bd978dbbdab99147719bf?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Aug 23 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dce2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 22 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/68a8caee6acf96396f722d58?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 22 |
-| **[Covestro](https://www.covestro.com)** | **[Sustainability & Public Affairs Internship](https://jobright.ai/jobs/info/68a8c62b758f2e4ac3ff5311?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Fellow (FOR FAIRFIELD UNIVERSITY STUDENTS ONLY)](https://jobright.ai/jobs/info/68a8be826acf96396f72257f?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 22 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Mission Team](https://jobright.ai/jobs/info/68a8b9b9d627244576e34d4f?utm_campaign=1056&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68a8b34dd627244576e34ab4?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Aug 22 |
+| **[Covestro](https://www.covestro.com)** | **[Sustainability & Public Affairs Internship](https://jobright.ai/jobs/info/68a89a0fd627244576e33c5e?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Florida Coalition For Children](http://www.flchildren.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/68a89725758f2e4ac3ff3813?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 22 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68a88c21d627244576e3365c?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Aug 22 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Communications & Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/688bd548906ac06e1d1cec60?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/68a6b2bc33dd7158bbca2093?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa377b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
-| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/68a68ebc33dd7158bbca0aec?utm_campaign=1056&utm_source=git)** | Northampton, MA | On Site | Aug 20 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs (Federal and External Affairs) - 90290801 - Washington](https://jobright.ai/jobs/info/68a6746e33dd7158bbca00dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support)](https://jobright.ai/jobs/info/684c797308d351b56933724f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | **[COALITION LIFE](https://coalitionlife.com)** | **[Stewardship Intern](https://jobright.ai/jobs/info/68a66ea8758f2e4ac3fe4da4?utm_campaign=1056&utm_source=git)** | Maryland Heights | Remote | Aug 20 |
