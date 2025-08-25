@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Right On Crime](http://www.rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/68ac071dd627244576e43bb0?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | On Site | Aug 24 |
+| ↳ | **[Internship Program](https://jobright.ai/jobs/info/68ac06fc758f2e4ac30037e8?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States | On Site | Aug 24 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative and Policy Intern (Volunteer)](https://jobright.ai/jobs/info/68abb60a758f2e4ac3fffb8c?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 24 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2025 Partnerships & Organizing Internship](https://jobright.ai/jobs/info/68ab6fce758f2e4ac3fff735?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Aug 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ab5bac758f2e4ac3fff59a?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Aug 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[CASAC Intern](https://jobright.ai/jobs/info/68a68e6a758f2e4ac3fe5864?utm_campaign=1056&utm_source=git)** | New Rochelle, NY | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[COMMUNITY RELATIONS INTERNSHIP](https://jobright.ai/jobs/info/68a6312e758f2e4ac3fe3782?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Community-Centered Advocacy Internship](https://jobright.ai/jobs/info/68a630d1758f2e4ac3fe369c?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 20 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Community Impact Summer Intern](https://jobright.ai/jobs/info/68a6240233dd7158bbc9e390?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Aug 20 |
-| **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs Intern (State and Local Relation) - 90397506 - Chicago](https://jobright.ai/jobs/info/68a61e08b6a3617d7fa75781?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
