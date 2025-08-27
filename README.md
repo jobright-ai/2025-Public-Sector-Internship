@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/68af31c91f0a2a568a05f70a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Aug 27 |
+| **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af26027bcb7608b3d2b1de?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Aug 27 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68af015c1f0a2a568a05e932?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 27 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf03daf1431824c971d7?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acae5bd627244576e47f04?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007913?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acada1d627244576e47e69?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007913?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acaffb758f2e4ac3007b22?utm_campaign=1056&utm_source=git)** | Spartanburg, SC | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad80758f2e4ac3007903?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acab87d627244576e47c91?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acafd1daf1431824c972d2?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad80758f2e4ac3007903?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acae46758f2e4ac30079b4?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaa75d627244576e47b96?utm_campaign=1056&utm_source=git)** | Mooresville, NC | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
