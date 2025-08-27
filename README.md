@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Policy and Program Support  Intern](https://jobright.ai/jobs/info/68af6bba962903596357c8ac?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Aug 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Public Sector Strategy - Intern](https://jobright.ai/jobs/info/68af646a1f0a2a568a061458?utm_campaign=1056&utm_source=git)** | Chicago, IL | Remote | Aug 27 |
 | **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68af6042962903596357c3f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Center for Global Programs, Rule of Law Initiative, Latin America and the Caribbean Fall 2025 Internship (Unpaid Internship)](https://jobright.ai/jobs/info/68af5f08962903596357c300?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af5ea71f0a2a568a061026?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
@@ -70,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Ohio State University Physicians](https://www.osuphysicians.com)** | **[Maternal-Fetal Medicine Social Work Student Intern](https://jobright.ai/jobs/info/68aef5372daaba398441aed6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68aee7847bcb7608b3d2a130?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Aug 27 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68aea9017bcb7608b3d28b02?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
-| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68aec7492daaba398441a2f1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68aec7492daaba398441a2f1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ae8e76d627244576e54d17?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/68ae6c98d627244576e53c24?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Grants Resiliency and Master Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68ae68c1d627244576e53b11?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Aug 26 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Program](https://jobright.ai/jobs/info/68ac06fc758f2e4ac30037e8?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States | On Site | Aug 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68acb548758f2e4ac30080fd?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acb22bd627244576e48014?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf03daf1431824c971d7?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007913?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acae5bd627244576e47f04?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acada1d627244576e47e69?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
