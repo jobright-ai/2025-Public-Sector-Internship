@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/68af31c91f0a2a568a05f70a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Aug 27 |
+| **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68af6042962903596357c3f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
+| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Center for Global Programs, Rule of Law Initiative, Latin America and the Caribbean Fall 2025 Internship (Unpaid Internship)](https://jobright.ai/jobs/info/68af5f08962903596357c300?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Aug 27 |
+| **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af5ea71f0a2a568a061026?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
+| **[The New York Foundling](https://www.nyfoundling.org/)** | **[Intern - Communications and Policy](https://jobright.ai/jobs/info/68af5dcf962903596357c19b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
+| **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/68af5bf9962903596357c012?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 27 |
+| **[UNDP Careers](https://www.undp.org)** | **[Just Energy Transition Intern (home-based, reports to office in New York, USA)](https://jobright.ai/jobs/info/68af58291f0a2a568a060d0f?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Aug 27 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af26027bcb7608b3d2b1de?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Aug 27 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68af015c1f0a2a568a05e932?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 27 |
@@ -87,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/68ae43ead627244576e52c22?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 26 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/68ae3a15758f2e4ac301230f?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/68ae3952daf1431824ca1a8a?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 26 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/68ae23f8d627244576e51f8c?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Aug 26 |
 | **[Groma](https://groma.com/)** | **[Policy Summer Associate](https://jobright.ai/jobs/info/68ae1c79758f2e4ac30115f8?utm_campaign=1056&utm_source=git)** | Boston | On Site | Aug 26 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Mariculture tourism intern](https://jobright.ai/jobs/info/68ae0addd627244576e51035?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 26 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68adff69d627244576e507ae?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 26 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Program](https://jobright.ai/jobs/info/68ac06fc758f2e4ac30037e8?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States | On Site | Aug 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68acb548758f2e4ac30080fd?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acb22bd627244576e48014?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf03daf1431824c971d7?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acae5bd627244576e47f04?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acada1d627244576e47e69?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf03daf1431824c971d7?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007913?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaffb758f2e4ac3007b22?utm_campaign=1056&utm_source=git)** | Spartanburg, SC | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acab87d627244576e47c91?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad80758f2e4ac3007903?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acae46758f2e4ac30079b4?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acae5bd627244576e47f04?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
