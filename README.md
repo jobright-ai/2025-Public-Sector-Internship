@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ae8e76d627244576e54d17?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/68ae6c98d627244576e53c24?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Grants Resiliency and Master Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68ae68c1d627244576e53b11?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Aug 26 |
 | ↳ | **[Grants Resiliency and Master Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68ae67ef758f2e4ac301345b?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Aug 26 |
@@ -135,27 +136,25 @@ For a complete list, click the following sortable link below:
 | **[Ignite Adaptive Sports](https://igniteadaptivesports.org)** | **[Nonprofit Administration Intern](https://jobright.ai/jobs/info/68ad32c7d627244576e4bf8c?utm_campaign=1056&utm_source=git)** | Colorado, United States | On Site | Aug 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68ac45ab758f2e4ac3004ba6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 25 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/68906f634c7e851b90ac6929?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 25 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern/Support the work of the DRC IOT
-Job ID : 262085](https://jobright.ai/jobs/info/68ac20d1758f2e4ac300455b?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 25 |
 | **[Right On Crime](http://www.rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/68ac071dd627244576e43bb0?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | On Site | Aug 24 |
 | ↳ | **[Internship Program](https://jobright.ai/jobs/info/68ac06fc758f2e4ac30037e8?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States | On Site | Aug 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68acb548758f2e4ac30080fd?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acb22bd627244576e48014?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf03daf1431824c971d7?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007913?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acae5bd627244576e47f04?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acada1d627244576e47e69?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaffb758f2e4ac3007b22?utm_campaign=1056&utm_source=git)** | Spartanburg, SC | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acab87d627244576e47c91?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007913?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acad80758f2e4ac3007903?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acab87d627244576e47c91?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaffb758f2e4ac3007b22?utm_campaign=1056&utm_source=git)** | Spartanburg, SC | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acad95758f2e4ac3007914?utm_campaign=1056&utm_source=git)** | Laurens, SC | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acae46758f2e4ac30079b4?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acafd1daf1431824c972d2?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acacbc758f2e4ac300786a?utm_campaign=1056&utm_source=git)** | Naples, FL | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acaafdd627244576e47c28?utm_campaign=1056&utm_source=git)** | Prince Frederick, MD | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acafd1daf1431824c972d2?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acaa75d627244576e47b96?utm_campaign=1056&utm_source=git)** | Mooresville, NC | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acac7cdaf1431824c96f96?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acae46758f2e4ac30079b4?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Aug 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68acac74d627244576e47d49?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Aug 24 |
 | ↳ | **[Intern North Kingstown](https://jobright.ai/jobs/info/68acadbc758f2e4ac300793f?utm_campaign=1056&utm_source=git)** | North Kingstown, RI | On Site | Aug 24 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf9d758f2e4ac3007ac2?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
