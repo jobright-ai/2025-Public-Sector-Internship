@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68b0b2a82d46f6396cae7c9d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| **[Women In Need, Inc. (Win)](https://winnyc.org/)** | **[Graduate Policy Intern](https://jobright.ai/jobs/info/68b0b1292d46f6396cae7bcd?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 28 |
+| **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68b0a9f013563e782a9f8479?utm_campaign=1056&utm_source=git)** | Los Angeles | On Site | Aug 28 |
+| **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Associate Director, Community Engagement - IQMP](https://jobright.ai/jobs/info/68b0a22fb47fb001d6893f7a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Aug 28 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b0a00913563e782a9f7eb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b098622d46f6396cae6e03?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b08d4a13563e782a9f747a?utm_campaign=1056&utm_source=git)** | DC-Washington | Hybrid | Aug 28 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[District Intern](https://jobright.ai/jobs/info/68b08c3a2d46f6396cae66b1?utm_campaign=1056&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Aug 28 |
@@ -105,8 +110,8 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -153,9 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | ↳ | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acedcadaf1431824c99215?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Communication Intern - Planning & Capital Development](https://jobright.ai/jobs/info/68ace85fdaf1431824c9902d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 25 |
 | **[YMCA of Delaware](https://www.ymcade.org)** | **[Volunteers- Brandywine](https://jobright.ai/jobs/info/68ace828758f2e4ac30097c5?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Aug 25 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Intern, Restoring Promise](https://jobright.ai/jobs/info/68accdbfd627244576e4947e?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Remote | Aug 25 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Grants - Intern](https://jobright.ai/jobs/info/68accab5d627244576e49201?utm_campaign=1056&utm_source=git)** | UAMS | Remote | Aug 25 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Policy & Legislation Internship – Washington, DC](https://jobright.ai/jobs/info/68acca87daf1431824c984fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 25 |
-| **[Crowe](https://www.crowe.com/)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acca44d627244576e491c2?utm_campaign=1056&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
-| ↳ | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acc9c5758f2e4ac3008bd2?utm_campaign=1056&utm_source=git)** | Sacramento CA USA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
