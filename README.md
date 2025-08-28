@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b06be513563e782a9f60ab?utm_campaign=1056&utm_source=git)** | Azusa, CA | Remote | Aug 28 |
+| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b05f97b47fb001d6891c54?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68b05567b47fb001d689125b?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b04c9db47fb001d6890c63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
@@ -82,6 +84,7 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af26027bcb7608b3d2b1de?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Aug 27 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37be?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 27 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68b05d442d46f6396cae49c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68b05cc22d46f6396cae48c9?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 27 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
@@ -127,7 +130,6 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/68add5b0d627244576e4f33e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Aug 26 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development Intern](https://jobright.ai/jobs/info/689146944c7e851b90acd6a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 26 |
 | ↳ | **[Community Engagement Intern CMO](https://jobright.ai/jobs/info/689148bff5ee707a15dbd803?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Aug 26 |
-| ↳ | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68914696f47efe2113954194?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Aug 26 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ad510edaf1431824c9c1da?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 25 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/68984904faa4e875e824d046?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ad4a56d627244576e4cab2?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 25 |
@@ -156,6 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[State of Utah](http://www.utah.gov/)** | **[Tobacco Prevention & Control Intern](https://jobright.ai/jobs/info/68acbce6daf1431824c97cc5?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Aug 25 |
 | **[Brainerd Lakes Health](http://www.brainerdlakeshealth.org)** | **[Police Intern](https://jobright.ai/jobs/info/68acb378758f2e4ac3007e75?utm_campaign=1056&utm_source=git)** | Brainerd, MN | On Site | Aug 25 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Policy & Legislation Internship – Washington, DC](https://jobright.ai/jobs/info/68acb237758f2e4ac3007cc9?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | On Site | Aug 25 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Phoenix Regional Office](https://jobright.ai/jobs/info/68acae9fdaf1431824c97189?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Aug 25 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs](https://jobright.ai/jobs/info/68acaddd758f2e4ac3007959?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
