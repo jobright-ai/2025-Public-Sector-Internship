@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68af991d2daaba398441f5dc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
+| ↳ | **[SDOT Public Affairs Intern](https://jobright.ai/jobs/info/68af95731f0a2a568a062b7b?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
+| ↳ | **[SDOT Equity, Engagement, and Environmental Planning Intern](https://jobright.ai/jobs/info/68af935b1f0a2a568a062a38?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
+| ↳ | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68af8fa41f0a2a568a062994?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
+| ↳ | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/68af8f071f0a2a568a06292d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 27 |
+| ↳ | **[SDOT ADA Planning and Outreach Intern](https://jobright.ai/jobs/info/68af8dc7962903596357d933?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68af87151f0a2a568a06258e?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 27 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Policy and Program Support  Intern](https://jobright.ai/jobs/info/68af6bba962903596357c8ac?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Aug 27 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Public Sector Strategy - Intern](https://jobright.ai/jobs/info/68af646a1f0a2a568a061458?utm_campaign=1056&utm_source=git)** | Chicago, IL | Remote | Aug 27 |
 | **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68af6042962903596357c3f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Center for Global Programs, Rule of Law Initiative, Latin America and the Caribbean Fall 2025 Internship (Unpaid Internship)](https://jobright.ai/jobs/info/68af5f08962903596357c300?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af5ea71f0a2a568a061026?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[The New York Foundling](https://www.nyfoundling.org/)** | **[Intern - Communications and Policy](https://jobright.ai/jobs/info/68af5dcf962903596357c19b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/68af5bf9962903596357c012?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Just Energy Transition Intern (home-based, reports to office in New York, USA)](https://jobright.ai/jobs/info/68af58291f0a2a568a060d0f?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Aug 27 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 27 |
@@ -72,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Ohio State University Physicians](https://www.osuphysicians.com)** | **[Maternal-Fetal Medicine Social Work Student Intern](https://jobright.ai/jobs/info/68aef5372daaba398441aed6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68aee7847bcb7608b3d2a130?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Aug 27 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68aec7492daaba398441a2f1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ae8e76d627244576e54d17?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/68ae6c98d627244576e53c24?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Grants Resiliency and Master Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68ae68c1d627244576e53b11?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Aug 26 |
@@ -95,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/68ae3a15758f2e4ac301230f?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 | **[Teneo](https://www.teneo.com)** | **[Government/Public Affairs Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/68ae3952daf1431824ca1a8a?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Aug 26 |
 | **[Groma](https://groma.com/)** | **[Policy Summer Associate](https://jobright.ai/jobs/info/68ae1c79758f2e4ac30115f8?utm_campaign=1056&utm_source=git)** | Boston | On Site | Aug 26 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681cc50e367f97acdbd685a8?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Aug 26 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Mariculture tourism intern](https://jobright.ai/jobs/info/68ae0addd627244576e51035?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 26 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68adff69d627244576e507ae?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 26 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68adfada758f2e4ac300ffa9?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/68906f634c7e851b90ac6929?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 25 |
 | **[ECBA Volunteer Lawyers Project - VLP](http://www.ecbavlp.com)** | **[Non-Detained Immigration Unit Intern](https://jobright.ai/jobs/info/68aed6362daaba398441a852?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 | **[Right On Crime](http://www.rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/68ac071dd627244576e43bb0?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | On Site | Aug 24 |
-| ↳ | **[Internship Program](https://jobright.ai/jobs/info/68ac06fc758f2e4ac30037e8?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia, United States | On Site | Aug 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68acb548758f2e4ac30080fd?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acb22bd627244576e48014?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acaf03daf1431824c971d7?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acacef758f2e4ac300788d?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Aug 24 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68acada1d627244576e47e69?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
