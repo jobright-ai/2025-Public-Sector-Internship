@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68b05567b47fb001d689125b?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 28 |
+| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b04c9db47fb001d6890c63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
@@ -80,6 +82,8 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af26027bcb7608b3d2b1de?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Aug 27 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68b05d442d46f6396cae49c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
+| **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68b05cc22d46f6396cae48c9?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 27 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Ohio State University Physicians](https://www.osuphysicians.com)** | **[Maternal-Fetal Medicine Social Work Student Intern](https://jobright.ai/jobs/info/68aef5372daaba398441aed6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
 | **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ae8e76d627244576e54d17?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 26 |
@@ -154,8 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Policy & Legislation Internship – Washington, DC](https://jobright.ai/jobs/info/68acb237758f2e4ac3007cc9?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | On Site | Aug 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Phoenix Regional Office](https://jobright.ai/jobs/info/68acae9fdaf1431824c97189?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Aug 25 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs](https://jobright.ai/jobs/info/68acaddd758f2e4ac3007959?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 25 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Equity and Culture Intern](https://jobright.ai/jobs/info/68acadb5758f2e4ac3007935?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 25 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs](https://jobright.ai/jobs/info/68ac9f34daf1431824c9696b?utm_campaign=1056&utm_source=git)** | MTI - WASHINGTON  DC - 25 Mass - Office | On Site | Aug 25 |
-| **[University of Wisconsin-Eau Claire](http://www.uwec.edu)** | **[Parks & Forestry Administrative Intern](https://jobright.ai/jobs/info/68ac9520daf1431824c96304?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Aug 25 |
-| ↳ | **[Planning & Sustainability Intern](https://jobright.ai/jobs/info/68ac9435d627244576e46f96?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
