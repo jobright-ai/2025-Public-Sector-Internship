@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68affa01b47fb001d688ecf2?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Aug 27 |
 | **[Braunkabel GmbH](https://www.braunkabel.de)** | **[Minister - Church at Lake Mead Intern](https://jobright.ai/jobs/info/68aff94613563e782a9f2aa0?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68aff7f513563e782a9f29c0?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Aug 27 |
@@ -122,7 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Engagement Intern CMO](https://jobright.ai/jobs/info/689148bff5ee707a15dbd803?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Aug 26 |
 | ↳ | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68914696f47efe2113954194?utm_campaign=1056&utm_source=git)** | California, United States | Remote | Aug 26 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ad510edaf1431824c9c1da?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68ad4a56d627244576e4cab2?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 25 |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/68984904faa4e875e824d046?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 25 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ad4a56d627244576e4cab2?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Aug 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68ad4940758f2e4ac300c837?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68ad4833758f2e4ac300c7a3?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Aug 25 |
 | **[Indiana House Republican Internship](https://www.indianahouserepublicans.com/house/internship)** | **[Indiana House Republican Intern](https://jobright.ai/jobs/info/68afda39e723db6c9b7b436a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs](https://jobright.ai/jobs/info/68ac9f34daf1431824c9696b?utm_campaign=1056&utm_source=git)** | MTI - WASHINGTON  DC - 25 Mass - Office | On Site | Aug 25 |
 | **[University of Wisconsin-Eau Claire](http://www.uwec.edu)** | **[Parks & Forestry Administrative Intern](https://jobright.ai/jobs/info/68ac9520daf1431824c96304?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Aug 25 |
 | ↳ | **[Planning & Sustainability Intern](https://jobright.ai/jobs/info/68ac9435d627244576e46f96?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Aug 25 |
-| **[Hannah News Service - Midwest, LLC](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/68ac935fd627244576e46f08?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
-| **[Ignite Adaptive Sports](https://igniteadaptivesports.org)** | **[Nonprofit Administration Intern](https://jobright.ai/jobs/info/68ad32c7d627244576e4bf8c?utm_campaign=1056&utm_source=git)** | Colorado, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
