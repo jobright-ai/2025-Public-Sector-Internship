@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68affa01b47fb001d688ecf2?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Aug 27 |
+| **[Braunkabel GmbH](https://www.braunkabel.de)** | **[Minister - Church at Lake Mead Intern](https://jobright.ai/jobs/info/68aff94613563e782a9f2aa0?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68aff7f513563e782a9f29c0?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Aug 27 |
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/68afedaee723db6c9b7b4c8e?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/68afdf3fe723db6c9b7b466c?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Aug 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68af991d2daaba398441f5dc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
@@ -88,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Planning & Sustainability Intern](https://jobright.ai/jobs/info/68ac9435d627244576e46f96?utm_campaign=1056&utm_source=git)** | Eau Claire, WI | On Site | Aug 25 |
 | **[Hannah News Service - Midwest, LLC](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/68ac935fd627244576e46f08?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[Ignite Adaptive Sports](https://igniteadaptivesports.org)** | **[Nonprofit Administration Intern](https://jobright.ai/jobs/info/68ad32c7d627244576e4bf8c?utm_campaign=1056&utm_source=git)** | Colorado, United States | On Site | Aug 25 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68ac45ab758f2e4ac3004ba6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 25 |
-| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Corporate Environmental Services](https://jobright.ai/jobs/info/68906f634c7e851b90ac6929?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Aug 25 |
-| **[ECBA Volunteer Lawyers Project - VLP](http://www.ecbavlp.com)** | **[Non-Detained Immigration Unit Intern](https://jobright.ai/jobs/info/68aed6362daaba398441a852?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
