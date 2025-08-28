@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b098622d46f6396cae6e03?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b08d4a13563e782a9f747a?utm_campaign=1056&utm_source=git)** | DC-Washington | Hybrid | Aug 28 |
+| **[U.S. House of Representatives](http://www.house.gov/)** | **[District Intern](https://jobright.ai/jobs/info/68b08c3a2d46f6396cae66b1?utm_campaign=1056&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b06be513563e782a9f60ab?utm_campaign=1056&utm_source=git)** | Azusa, CA | Remote | Aug 28 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b05f97b47fb001d6891c54?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68b05567b47fb001d689125b?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 28 |
+| **[TurnUp Activism](https://www.turnup.us/)** | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/67e38395f958b915eef16922?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b04c9db47fb001d6890c63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
@@ -154,8 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Policy & Legislation Internship – Washington, DC](https://jobright.ai/jobs/info/68acca87daf1431824c984fc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | **[Crowe](https://www.crowe.com/)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acca44d627244576e491c2?utm_campaign=1056&utm_source=git)** | Chicago IL USA | On Site | Aug 25 |
 | ↳ | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acc9c5758f2e4ac3008bd2?utm_campaign=1056&utm_source=git)** | Sacramento CA USA | On Site | Aug 25 |
-| ↳ | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acc926daf1431824c98331?utm_campaign=1056&utm_source=git)** | Indianapolis IN USA | On Site | Aug 25 |
-| **[State of Utah](http://www.utah.gov/)** | **[Tobacco Prevention & Control Intern](https://jobright.ai/jobs/info/68acbce6daf1431824c97cc5?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Aug 25 |
-| **[Brainerd Lakes Health](http://www.brainerdlakeshealth.org)** | **[Police Intern](https://jobright.ai/jobs/info/68acb378758f2e4ac3007e75?utm_campaign=1056&utm_source=git)** | Brainerd, MN | On Site | Aug 25 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Policy & Legislation Internship – Washington, DC](https://jobright.ai/jobs/info/68acb237758f2e4ac3007cc9?utm_campaign=1056&utm_source=git)** | Washington, District Of Columbia | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
