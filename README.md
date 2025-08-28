@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0c0762d46f6396cae8261?utm_campaign=1056&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Aug 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68b0b2a82d46f6396cae7c9d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Women In Need, Inc. (Win)](https://winnyc.org/)** | **[Graduate Policy Intern](https://jobright.ai/jobs/info/68b0b1292d46f6396cae7bcd?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68b0a9f013563e782a9f8479?utm_campaign=1056&utm_source=git)** | Los Angeles | On Site | Aug 28 |
@@ -157,5 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | ↳ | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acf07ad627244576e49ff7?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | ↳ | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68acedcadaf1431824c99215?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Communication Intern - Planning & Capital Development](https://jobright.ai/jobs/info/68ace85fdaf1431824c9902d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 25 |
-| **[YMCA of Delaware](https://www.ymcade.org)** | **[Volunteers- Brandywine](https://jobright.ai/jobs/info/68ace828758f2e4ac30097c5?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
