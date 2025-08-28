@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
+Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68affa01b47fb001d688ecf2?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Aug 27 |
 | **[Braunkabel GmbH](https://www.braunkabel.de)** | **[Minister - Church at Lake Mead Intern](https://jobright.ai/jobs/info/68aff94613563e782a9f2aa0?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Intern, Restoring Promise](https://jobright.ai/jobs/info/68ad2bb3daf1431824c9adf6?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Remote | Aug 25 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary NC Conservation Outreach Program Assistant](https://jobright.ai/jobs/info/68ad09c9758f2e4ac300a7af?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Economics and Statistics Intern](https://jobright.ai/jobs/info/68ad089b758f2e4ac300a6c2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
-| **[VisitNorfolk](https://www.visitnorfolk.com)** | **[Norfolk Tourism Foundation Intern](https://jobright.ai/jobs/info/68ae4c83daf1431824ca21d9?utm_campaign=1056&utm_source=git)** | Norfolk, VA | Hybrid | Aug 25 |
 | **[IIRR](http://www.iirr.org)** | **[Advocacy & Communications Officer - Intern](https://jobright.ai/jobs/info/68adfc97758f2e4ac30100bf?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 25 |
 | ↳ | **[Project Officer - Intern](https://jobright.ai/jobs/info/68adfeb7daf1431824c9f913?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Research Officer - Intern](https://jobright.ai/jobs/info/68adfe93d627244576e5070f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 25 |
