@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Behavioral Health - Social Worker/Counselor Internship](https://jobright.ai/jobs/info/68b1043904557a6c207b95f9?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 28 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b11b1e6fab621da7b09f54?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Aug 28 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post Doctoral Scholar - Traditional Governance in Africa](https://jobright.ai/jobs/info/68b0fcfe04557a6c207b937d?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0fcf06fab621da7b0940c?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bd9d8906ac06e1d1cef9c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 28 |
@@ -95,6 +96,8 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68aff7f513563e782a9f29c0?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Aug 27 |
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/68afedaee723db6c9b7b4c8e?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/68afdf3fe723db6c9b7b466c?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Aug 27 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37c2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 27 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[City of San Bruno](https://www.sanbruno.ca.gov/)** | **[Community Safety Intern and Landscape & Facilities Intern](https://jobright.ai/jobs/info/68b0ea64b47fb001d6896640?utm_campaign=1056&utm_source=git)** | Eastvale, CA | On Site | Aug 27 |
 | **[State of Florida](http://www.myflorida.com)** | **[AGRICULTURE & CONSUMER PROTECT SPEC - 42001004 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68b0ebc8b47fb001d6896710?utm_campaign=1056&utm_source=git)** | Lakeland, FL | On Site | Aug 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68af991d2daaba398441f5dc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
@@ -129,8 +132,8 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -155,7 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681f675ed9e6e7089f426f27?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Aug 26 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/68add5b0d627244576e4f33e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Aug 26 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development Intern](https://jobright.ai/jobs/info/689146944c7e851b90acd6a6?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 26 |
-| ↳ | **[Community Engagement Intern CMO](https://jobright.ai/jobs/info/689148bff5ee707a15dbd803?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Aug 26 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ad510edaf1431824c9c1da?utm_campaign=1056&utm_source=git)** | Rutland, VT | On Site | Aug 25 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/68984904faa4e875e824d046?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
