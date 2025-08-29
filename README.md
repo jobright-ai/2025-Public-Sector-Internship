@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Intern: UN/Global Policy (Fall 2025) – New York](https://jobright.ai/jobs/info/68b1e4aff4e41a61efd80780?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Northern Latin America Practice](https://jobright.ai/jobs/info/68b1cb01f4e41a61efd7fb19?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 29 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Center for Women's Leadership intern](https://jobright.ai/jobs/info/68b1b9e5f4e41a61efd7f513?utm_campaign=1056&utm_source=git)** | Stevens Point, WI | Hybrid | Aug 29 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Masters Public Health](https://jobright.ai/jobs/info/68b1b73dbc187f64e1bd6497?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Aug 29 |
+| **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b1d04df4e41a61efd7fe79?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Behavioral Health - Social Worker/Counselor Internship](https://jobright.ai/jobs/info/68b1043904557a6c207b95f9?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 28 |
@@ -79,8 +81,6 @@ For a complete list, click the following sortable link below:
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68b133816fab621da7b0ac19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Office and Public Outreach Administrative Assistant (Student Wage)](https://jobright.ai/jobs/info/68b0d00bb47fb001d6895afe?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Aug 28 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0eb7b2d46f6396cae9922?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Aug 28 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
-Job ID : 263198](https://jobright.ai/jobs/info/68b133b26fab621da7b0ac4b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/68b127a104557a6c207ba3e8?utm_campaign=1056&utm_source=git)** | Arlington Heights, IL | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0c0762d46f6396cae8261?utm_campaign=1056&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Aug 28 |
 | **[Cloud Nine Nonprofit Advisors, LLC](https://www.thrivewithcloud9.com)** | **[Intern](https://jobright.ai/jobs/info/68b0d39613563e782a9f99ee?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 28 |
@@ -92,13 +92,12 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b133b26fab621da7b0ac4b?utm_camp
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b098622d46f6396cae6e03?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b08d4a13563e782a9f747a?utm_campaign=1056&utm_source=git)** | DC-Washington | Hybrid | Aug 28 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[District Intern](https://jobright.ai/jobs/info/68b08c3a2d46f6396cae66b1?utm_campaign=1056&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Aug 28 |
+| **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 28 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b05f97b47fb001d6891c54?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68b05567b47fb001d689125b?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 28 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/67e38395f958b915eef16922?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68940c134c7e851b90ae253e?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b04c9db47fb001d6890c63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
-Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68affa01b47fb001d688ecf2?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Aug 27 |
@@ -142,8 +141,8 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -158,5 +157,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Mariculture tourism intern](https://jobright.ai/jobs/info/68ae0addd627244576e51035?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 26 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68adfada758f2e4ac300ffa9?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 26 |
 | **[United Way of Utah County](https://unitedwayuc.org)** | **[Individual Philanthropy Intern](https://jobright.ai/jobs/info/68adf569758f2e4ac300fd62?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Aug 26 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, North Market – Campus 2026](https://jobright.ai/jobs/info/68adf3ef758f2e4ac300fd0f?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
