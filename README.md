@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ankura](https://ankura.com)** | **[Intern (Fellow), Northern Latin America Practice](https://jobright.ai/jobs/info/68b1cb01f4e41a61efd7fb19?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 29 |
+| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Center for Women's Leadership intern](https://jobright.ai/jobs/info/68b1b9e5f4e41a61efd7f513?utm_campaign=1056&utm_source=git)** | Stevens Point, WI | Hybrid | Aug 29 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Masters Public Health](https://jobright.ai/jobs/info/68b1b73dbc187f64e1bd6497?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Behavioral Health - Social Worker/Counselor Internship](https://jobright.ai/jobs/info/68b1043904557a6c207b95f9?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 28 |
@@ -156,7 +159,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68adfada758f2e4ac300ffa9?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Aug 26 |
 | **[United Way of Utah County](https://unitedwayuc.org)** | **[Individual Philanthropy Intern](https://jobright.ai/jobs/info/68adf569758f2e4ac300fd62?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Aug 26 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, North Market – Campus 2026](https://jobright.ai/jobs/info/68adf3ef758f2e4ac300fd0f?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Aug 26 |
-| ↳ | **[Intern – State and Local Government, North Market – Campus 2026](https://jobright.ai/jobs/info/68adf3c6daf1431824c9f3f4?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Aug 26 |
-| ↳ | **[Intern – State and Local Government, North Market – Campus 2026](https://jobright.ai/jobs/info/68adf2a7d627244576e50148?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Aug 26 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ade765d627244576e4fbca?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
