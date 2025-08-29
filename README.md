@@ -108,7 +108,6 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68af991d2daaba398441f5dc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | ↳ | **[SDOT Public Affairs Intern](https://jobright.ai/jobs/info/68af95731f0a2a568a062b7b?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | ↳ | **[SDOT Equity, Engagement, and Environmental Planning Intern](https://jobright.ai/jobs/info/68af935b1f0a2a568a062a38?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| ↳ | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68af8fa41f0a2a568a062994?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | ↳ | **[SDOT Records Management Intern](https://jobright.ai/jobs/info/68af8f071f0a2a568a06292d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Aug 27 |
 | ↳ | **[SDOT ADA Planning and Outreach Intern](https://jobright.ai/jobs/info/68af8dc7962903596357d933?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68af87151f0a2a568a06258e?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 27 |
@@ -159,4 +158,5 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ade765d627244576e4fbca?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Aug 26 |
 | ↳ | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ade705758f2e4ac300f686?utm_campaign=1056&utm_source=git)** | Austin Central OfficeGeorge H.W. Bush Building, Suite 13.1400 | On Site | Aug 26 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68add696daf1431824c9e5b7?utm_campaign=1056&utm_source=git)** | MTI - WASHINGTON  DC - 25 Mass - Office | On Site | Aug 26 |
+| **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/68adc9a8758f2e4ac300ea4f?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
