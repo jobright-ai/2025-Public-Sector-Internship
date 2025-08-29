@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b2059fbc187f64e1bd8c75?utm_campaign=1056&utm_source=git)** | Allison, IA | On Site | Aug 29 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b20bf4f4e41a61efd81e11?utm_campaign=1056&utm_source=git)** | Indianola, IA | On Site | Aug 29 |
+| ↳ | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b2059fbc187f64e1bd8c75?utm_campaign=1056&utm_source=git)** | Allison, IA | On Site | Aug 29 |
 | ↳ | **[Business/Public Administration Intern (Motor Vehicle Division)](https://jobright.ai/jobs/info/68b20510bc187f64e1bd8c10?utm_campaign=1056&utm_source=git)** | Ankeny, IA | On Site | Aug 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/68b203dd1ade4306aa633cd9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1fdc6bc187f64e1bd8831?utm_campaign=1056&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af5ea71f0a2a568a061026?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/68af5bf9962903596357c012?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Just Energy Transition Intern (home-based, reports to office in New York, USA)](https://jobright.ai/jobs/info/68af58291f0a2a568a060d0f?utm_campaign=1056&utm_source=git)** | Home, KS | Remote | Aug 27 |
+| **[Operation Smile](http://www.operationsmile.org)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/6876d19e5cebcd1dd51ccb21?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Aug 27 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 27 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890f6e0f5ee707a15dbaf88?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae456ddaf1431824ca1f35?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
