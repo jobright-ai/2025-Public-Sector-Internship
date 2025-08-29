@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Behavioral Health - Social Worker/Counselor Internship](https://jobright.ai/jobs/info/68b1043904557a6c207b95f9?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 28 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b11b1e6fab621da7b09f54?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Aug 28 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post Doctoral Scholar - Traditional Governance in Africa](https://jobright.ai/jobs/info/68b0fcfe04557a6c207b937d?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0fcf06fab621da7b0940c?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bd9d8906ac06e1d1cef9c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68b0ef9b13563e782a9fa7b6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/68b197251ade4306aa630995?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 28 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0de9d13563e782a9f9ed8?utm_campaign=1056&utm_source=git)** | New Haven, IN | On Site | Aug 28 |
 | **[New York State Assembly](https://nyassembly.gov/)** | **[Legislative Research Assistant Internship](https://jobright.ai/jobs/info/68b0ddeeb47fb001d6896047?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 28 |
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68b0dbb413563e782a9f9d58?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
@@ -136,8 +139,8 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae4573758f2e4ac301282f?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
@@ -156,7 +159,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b02f3813563e782a9f3d90?utm_camp
 | ↳ | **[Intern – State and Local Government, North Market – Campus 2026](https://jobright.ai/jobs/info/68adf3c6daf1431824c9f3f4?utm_campaign=1056&utm_source=git)** | US - MA, Boston | On Site | Aug 26 |
 | ↳ | **[Intern – State and Local Government, North Market – Campus 2026](https://jobright.ai/jobs/info/68adf2a7d627244576e50148?utm_campaign=1056&utm_source=git)** | US - NY, New York | On Site | Aug 26 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ade765d627244576e4fbca?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Aug 26 |
-| ↳ | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ade705758f2e4ac300f686?utm_campaign=1056&utm_source=git)** | Austin Central OfficeGeorge H.W. Bush Building, Suite 13.1400 | On Site | Aug 26 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68add696daf1431824c9e5b7?utm_campaign=1056&utm_source=git)** | MTI - WASHINGTON  DC - 25 Mass - Office | On Site | Aug 26 |
-| **[SEEDS2SUCCEED Wellness & Therapy Group](http://seeds2succeed.net)** | **[Clinical Social Work Intern /Mental Health Therapist](https://jobright.ai/jobs/info/68adc9a8758f2e4ac300ea4f?utm_campaign=1056&utm_source=git)** | Henderson, NV | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
