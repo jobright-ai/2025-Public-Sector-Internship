@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Access California](https://health-access.org/)** | **[We Breathe Program Intern](https://jobright.ai/jobs/info/68b29a4dbc187f64e1bddd61?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/68b268d5bc187f64e1bdb111?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN - Policy Team Intern](https://jobright.ai/jobs/info/68b26781f4e41a61efd83dd8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/68b24d481ade4306aa635657?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | On Site | Aug 29 |
@@ -86,6 +87,9 @@ For a complete list, click the following sortable link below:
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/68b27910f4e41a61efd84eff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[Planning & Programming Intern](https://jobright.ai/jobs/info/68b28609bc187f64e1bdcb22?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Aug 29 |
 | **[IUCN Eastern and Southern Africa](https://www.iucn.org/our-work/region/eastern-and-southern-africa)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68b285041ade4306aa637b08?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
+Job ID : 263285](https://jobright.ai/jobs/info/68b29634f4e41a61efd86cc9?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
+| **[Stewart](http://stewartinc.com)** | **[Community Planning - Summer 2026 - Student Intern](https://jobright.ai/jobs/info/68b29e411ade4306aa6390c4?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Behavioral Health - Social Worker/Counselor Internship](https://jobright.ai/jobs/info/68b1043904557a6c207b95f9?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 28 |
@@ -117,7 +121,6 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b08d4a13563e782a9f747a?utm_campaign=1056&utm_source=git)** | DC-Washington | Hybrid | Aug 28 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[District Intern](https://jobright.ai/jobs/info/68b08c3a2d46f6396cae66b1?utm_campaign=1056&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Aug 28 |
 | **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 28 |
-| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b05f97b47fb001d6891c54?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68b05567b47fb001d689125b?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 28 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/67e38395f958b915eef16922?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68940c134c7e851b90ae253e?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Aug 28 |
@@ -156,6 +159,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Ohio State University Physicians](https://www.osuphysicians.com)** | **[Maternal-Fetal Medicine Social Work Student Intern](https://jobright.ai/jobs/info/68aef5372daaba398441aed6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
 | **[CALSTART](http://www.calstart.org)** | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68b27e831ade4306aa6375cd?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Aug 26 |
 | **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ae8e76d627244576e54d17?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 26 |
-| **[Granite School District](http://www.graniteschools.org)** | **[Volunteer - Social Worker Intern](https://jobright.ai/jobs/info/68afc83813563e782a9f0fe3?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/68ae6c98d627244576e53c24?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
