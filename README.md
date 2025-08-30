@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyndale House Publishers](http://www.tyndale.com)** | **[Grants and Philanthropy Intern](https://jobright.ai/jobs/info/68b23e61bc187f64e1bda18a?utm_campaign=1056&utm_source=git)** | Carol Stream, IL | On Site | Aug 29 |
+| **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Spring 2026 International Diplomacy Intern](https://jobright.ai/jobs/info/68b23ca8bc187f64e1bda01e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/68b233c6bc187f64e1bd9c9f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b20bf4f4e41a61efd81e11?utm_campaign=1056&utm_source=git)** | Indianola, IA | On Site | Aug 29 |
 | ↳ | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b2059fbc187f64e1bd8c75?utm_campaign=1056&utm_source=git)** | Allison, IA | On Site | Aug 29 |
 | ↳ | **[Business/Public Administration Intern (Motor Vehicle Division)](https://jobright.ai/jobs/info/68b20510bc187f64e1bd8c10?utm_campaign=1056&utm_source=git)** | Ankeny, IA | On Site | Aug 29 |
@@ -80,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0fcf06fab621da7b0940c?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bd9d8906ac06e1d1cef9c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68b0ef9b13563e782a9fa7b6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
+| **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b22a031ade4306aa634a40?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 28 |
 | **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/68b197251ade4306aa630995?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 28 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0de9d13563e782a9f9ed8?utm_campaign=1056&utm_source=git)** | New Haven, IN | On Site | Aug 28 |
 | **[New York State Assembly](https://nyassembly.gov/)** | **[Legislative Research Assistant Internship](https://jobright.ai/jobs/info/68b0ddeeb47fb001d6896047?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 28 |
@@ -110,9 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b04c9db47fb001d6890c63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68affa01b47fb001d688ecf2?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Aug 27 |
 | **[Braunkabel GmbH](https://www.braunkabel.de)** | **[Minister - Church at Lake Mead Intern](https://jobright.ai/jobs/info/68aff94613563e782a9f2aa0?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68aff7f513563e782a9f29c0?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Aug 27 |
 | **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/68afedaee723db6c9b7b4c8e?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/68afdf3fe723db6c9b7b466c?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Aug 27 |
 | **[Taft Stettinius & Hollister LLP](http://www.taftlaw.com)** | **[Legislative Intern (Indianapolis)](https://jobright.ai/jobs/info/68b134ba6fab621da7b0adfa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a4758f2e4ac3012846?utm_campaign=1056&utm_source=git)** | Boston - High St | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae4583758f2e4ac3012837?utm_campaign=1056&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Aug 26 |
+| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
