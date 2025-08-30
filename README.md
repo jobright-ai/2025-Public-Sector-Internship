@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Security Sector Reform Intern – Country backstopping
+Job ID : 262014](https://jobright.ai/jobs/info/68b2b81cbc187f64e1bdedc6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Aug 30 |
 | **[Health Access California](https://health-access.org/)** | **[We Breathe Program Intern](https://jobright.ai/jobs/info/68b29a4dbc187f64e1bddd61?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/68b268d5bc187f64e1bdb111?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN - Policy Team Intern](https://jobright.ai/jobs/info/68b26781f4e41a61efd83dd8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/68b27910f4e41a61efd84eff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
+| **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[Planning & Programming Intern](https://jobright.ai/jobs/info/68b28609bc187f64e1bdcb22?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Aug 29 |
 | **[IUCN Eastern and Southern Africa](https://www.iucn.org/our-work/region/eastern-and-southern-africa)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68b285041ade4306aa637b08?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
@@ -157,6 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68b05cc22d46f6396cae48c9?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 27 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
 | **[Ohio State University Physicians](https://www.osuphysicians.com)** | **[Maternal-Fetal Medicine Social Work Student Intern](https://jobright.ai/jobs/info/68aef5372daaba398441aed6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
-| **[CALSTART](http://www.calstart.org)** | **[Mobility Funding & Partnerships Intern](https://jobright.ai/jobs/info/68b27e831ade4306aa6375cd?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Aug 26 |
-| **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Research Spec I-Quan Pol Intrn - (AUS) - 52325](https://jobright.ai/jobs/info/68ae8e76d627244576e54d17?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
