@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68b2de8cf4e41a61efd8825a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
+| ↳ | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/68b2dd90f4e41a61efd8821f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 30 |
+| ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68b2d9861ade4306aa63a429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
+| **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (BSW Social Work)](https://jobright.ai/jobs/info/68b2d91bf4e41a61efd881e2?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Aug 30 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Security Sector Reform Intern – Country backstopping
 Job ID : 262014](https://jobright.ai/jobs/info/68b2b81cbc187f64e1bdedc6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Aug 30 |
 | **[Health Access California](https://health-access.org/)** | **[We Breathe Program Intern](https://jobright.ai/jobs/info/68b29a4dbc187f64e1bddd61?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
@@ -86,6 +90,7 @@ Job ID : 262014](https://jobright.ai/jobs/info/68b2b81cbc187f64e1bdedc6?utm_camp
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b1d04df4e41a61efd7fe79?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68b2ce70bc187f64e1bdf24e?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 29 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/68b27910f4e41a61efd84eff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[Planning & Programming Intern](https://jobright.ai/jobs/info/68b28609bc187f64e1bdcb22?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Aug 29 |
@@ -155,9 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890f6e0f5ee707a15dbaf88?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af26027bcb7608b3d2b1de?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Aug 27 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37be?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 27 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68b05d442d46f6396cae49c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 27 |
-| **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68b05cc22d46f6396cae48c9?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Aug 27 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Aug 27 |
-| **[Ohio State University Physicians](https://www.osuphysicians.com)** | **[Maternal-Fetal Medicine Social Work Student Intern](https://jobright.ai/jobs/info/68aef5372daaba398441aed6?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
