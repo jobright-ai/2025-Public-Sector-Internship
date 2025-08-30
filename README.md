@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68b2de8cf4e41a61efd8825a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | ↳ | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/68b2dd90f4e41a61efd8821f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 30 |
-| ↳ | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68b2d9861ade4306aa63a429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Aug 30 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68b2d9861ade4306aa63a429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (BSW Social Work)](https://jobright.ai/jobs/info/68b2d91bf4e41a61efd881e2?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Aug 30 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Security Sector Reform Intern – Country backstopping
 Job ID : 262014](https://jobright.ai/jobs/info/68b2b81cbc187f64e1bdedc6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Aug 30 |
@@ -159,5 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bf33b906ac06e1d1cfb31?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Aug 27 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6890f6e0f5ee707a15dbaf88?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 27 |
 | **[ForHealth Consulting at UMass Chan Medical School](https://forhealthconsulting.umassmed.edu/)** | **[Applied Public Policy Graduate Intern](https://jobright.ai/jobs/info/68928510f5ee707a15dc65db?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
-| **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af26027bcb7608b3d2b1de?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
