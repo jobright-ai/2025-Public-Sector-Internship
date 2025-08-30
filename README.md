@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/68b24d481ade4306aa635657?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | On Site | Aug 29 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Grants and Philanthropy Intern](https://jobright.ai/jobs/info/68b23e61bc187f64e1bda18a?utm_campaign=1056&utm_source=git)** | Carol Stream, IL | On Site | Aug 29 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Spring 2026 International Diplomacy Intern](https://jobright.ai/jobs/info/68b23ca8bc187f64e1bda01e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/68b233c6bc187f64e1bd9c9f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Community Engagement Program Assistant](https://jobright.ai/jobs/info/68af060f7bcb7608b3d2a8d5?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45e4d627244576e52cc6?utm_campaign=1056&utm_source=git)** | Philadelphia - South 17th | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Spring Co-op - College Program 2026](https://jobright.ai/jobs/info/68ae45c8d627244576e52cbd?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
-| ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca9?utm_campaign=1056&utm_source=git)** | New York - 1166 | Hybrid | Aug 26 |
 | ↳ | **[Catastrophe Advisory Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68ae45a5d627244576e52ca8?utm_campaign=1056&utm_source=git)** | Edina - Minnesota | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
