@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68b37f65f4e41a61efd89306?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
+| ↳ | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68b37f58f4e41a61efd892ff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | **[The Living Stone Foundation](www.thelivingstonefoundation.com)** | **[Government Contract Specialist](https://jobright.ai/jobs/info/68b36f71f4e41a61efd8929f?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Aug 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68b2de8cf4e41a61efd8825a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | ↳ | **[Intern - Economic Security and Technology Department (Fall 2025)](https://jobright.ai/jobs/info/68b2dd90f4e41a61efd8821f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 30 |
@@ -158,6 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68af6042962903596357c3f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
 | **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Center for Global Programs, Rule of Law Initiative, Latin America and the Caribbean Fall 2025 Internship (Unpaid Internship)](https://jobright.ai/jobs/info/68af5f08962903596357c300?utm_campaign=1056&utm_source=git)** | Washington, DC, USA | Hybrid | Aug 27 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Analyst, New York - USA, 2026](https://jobright.ai/jobs/info/68af5ea71f0a2a568a061026?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/68af5bf9962903596357c012?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Aug 27 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[ILC Community Outreach Internship](https://jobright.ai/jobs/info/6876d19e5cebcd1dd51ccb21?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
