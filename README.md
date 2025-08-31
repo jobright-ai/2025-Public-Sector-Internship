@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/68b43d2df4e41a61efd8c0aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[Union County, NC](https://www.unioncountync.gov)** | **[Intern-Senior Nutrition (MSW Social Work)](https://jobright.ai/jobs/info/68b420c9f4e41a61efd8be86?utm_campaign=1056&utm_source=git)** | Monroe, NC | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68b37f65f4e41a61efd89306?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Northern Latin America Practice](https://jobright.ai/jobs/info/68b1f4a8bc187f64e1bd8064?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Olsson](https://www.olsson.com)** | **[Planning Student Internship](https://jobright.ai/jobs/info/68b1f495bc187f64e1bd804e?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 29 |
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Intern: UN/Global Policy (Fall 2025) – New York](https://jobright.ai/jobs/info/68b1e4aff4e41a61efd80780?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Masters Public Health](https://jobright.ai/jobs/info/68b1b73dbc187f64e1bd6497?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Aug 29 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Northern Latin America Practice](https://jobright.ai/jobs/info/68b1cb01f4e41a61efd7fb19?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 29 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Intern](https://jobright.ai/jobs/info/68b2f38ef4e41a61efd88555?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
 | **[One House at a Time](http://www.ohaat.org)** | **[Beds for Kids Program Intern (Volunteer)](https://jobright.ai/jobs/info/68b278cf1ade4306aa6370bc?utm_campaign=1056&utm_source=git)** | Huntingdon Valley, PA | On Site | Aug 29 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Masters Public Health](https://jobright.ai/jobs/info/68b32ae31ade4306aa63ad4a?utm_campaign=1056&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Aug 29 |
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b1d04df4e41a61efd7fe79?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Masters Public Health](https://jobright.ai/jobs/info/68b1b73dbc187f64e1bd6497?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Aug 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/68b27910f4e41a61efd84eff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
@@ -158,5 +159,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37c2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[City of San Bruno](https://www.sanbruno.ca.gov/)** | **[Community Safety Intern and Landscape & Facilities Intern](https://jobright.ai/jobs/info/68b0ea64b47fb001d6896640?utm_campaign=1056&utm_source=git)** | Eastvale, CA | On Site | Aug 27 |
-| **[State of Florida](http://www.myflorida.com)** | **[AGRICULTURE & CONSUMER PROTECT SPEC - 42001004 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68b0ebc8b47fb001d6896710?utm_campaign=1056&utm_source=git)** | Lakeland, FL | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
