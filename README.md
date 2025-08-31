@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68b37f65f4e41a61efd89306?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | ↳ | **[Intern - Global Health Policy Center (Fall 2025)](https://jobright.ai/jobs/info/68b37f58f4e41a61efd892ff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | ↳ | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/68b3bd0e1ade4306aa63bd19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[Planning & Programming Intern](https://jobright.ai/jobs/info/68b28609bc187f64e1bdcb22?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Aug 29 |
 | **[IUCN Eastern and Southern Africa](https://www.iucn.org/our-work/region/eastern-and-southern-africa)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68b285041ade4306aa637b08?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
+| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2026 US Disaster Relief Intern](https://jobright.ai/jobs/info/6893b5e34c7e851b90adfbc7?utm_campaign=1056&utm_source=git)** | North Wilkesboro, NC | Hybrid | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 263285](https://jobright.ai/jobs/info/68b29634f4e41a61efd86cc9?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[Stewart](http://stewartinc.com)** | **[Community Planning - Summer 2026 - Student Intern](https://jobright.ai/jobs/info/68b29e411ade4306aa6390c4?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
@@ -157,6 +159,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[City of San Bruno](https://www.sanbruno.ca.gov/)** | **[Community Safety Intern and Landscape & Facilities Intern](https://jobright.ai/jobs/info/68b0ea64b47fb001d6896640?utm_campaign=1056&utm_source=git)** | Eastvale, CA | On Site | Aug 27 |
 | **[State of Florida](http://www.myflorida.com)** | **[AGRICULTURE & CONSUMER PROTECT SPEC - 42001004 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68b0ebc8b47fb001d6896710?utm_campaign=1056&utm_source=git)** | Lakeland, FL | On Site | Aug 27 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68af991d2daaba398441f5dc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Philanthropy](https://jobright.ai/jobs/info/689fd90dcc9ee94dc911a4b6?utm_campaign=1056&utm_source=git)** | Bridgeport, PA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
