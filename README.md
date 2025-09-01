@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5ca0bbc187f64e1be8403?utm_campaign=1056&utm_source=git)** | IL - Schaumburg, 1475 E Woodfield Rd | On Site | Sep 01 |
+| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5c98bf4e41a61efd9140c?utm_campaign=1056&utm_source=git)** | MI - Plymouth, 41112 Concept Dr | On Site | Sep 01 |
+| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5c9241ade4306aa64346c?utm_campaign=1056&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/68b5a0ccf4e41a61efd9085c?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5a0391ade4306aa6429c5?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
@@ -64,12 +67,12 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54d591ade4306aa641595?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54ab31ade4306aa641155?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School) - Public Defender- (Spring)](https://jobright.ai/jobs/info/68b54513bc187f64e1be5e8e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b536551ade4306aa640b4e?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School)- Public Defender (Summer)](https://jobright.ai/jobs/info/68b54e81bc187f64e1be659b?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b524e4f4e41a61efd8e529?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS
-Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 31 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/686002fa6a9f621ce44acdd2?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 31 |
+| ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/672cc36f0940e6c527a71299?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/68b43d2df4e41a61efd8c0aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/685deefb2fb4aba079998b06?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 31 |
@@ -89,7 +92,6 @@ Job ID : 256583](https://jobright.ai/jobs/info/68b51f6d1ade4306aa640398?utm_camp
 | ↳ | **[We Breathe Program Intern (Remote – California-Based, Occasional Travel)](https://jobright.ai/jobs/info/68b3cf2ebc187f64e1be17f0?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Aug 29 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Aug 29 |
 | **[Goodwill of Southwestern Pennsylvania](https://www.goodwillswpa.org/)** | **[Goodwill Intern/Volunteer](https://jobright.ai/jobs/info/68b268d5bc187f64e1bdb111?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN - Policy Team Intern](https://jobright.ai/jobs/info/68b26781f4e41a61efd83dd8?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/68b24d481ade4306aa635657?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | On Site | Aug 29 |
 | **[Tyndale House Publishers](http://www.tyndale.com)** | **[Grants and Philanthropy Intern](https://jobright.ai/jobs/info/68b23e61bc187f64e1bda18a?utm_campaign=1056&utm_source=git)** | Carol Stream, IL | On Site | Aug 29 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Spring 2026 International Diplomacy Intern](https://jobright.ai/jobs/info/68b23ca8bc187f64e1bda01e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
@@ -158,7 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b098622d46f6396cae6e03?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b08d4a13563e782a9f747a?utm_campaign=1056&utm_source=git)** | DC-Washington | Hybrid | Aug 28 |
 | **[U.S. House of Representatives](http://www.house.gov/)** | **[District Intern](https://jobright.ai/jobs/info/68b08c3a2d46f6396cae66b1?utm_campaign=1056&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Aug 28 |
-| **[Heritage Grocers Group](https://heritagegrocersgroup.com)** | **[Graduate Internship](https://jobright.ai/jobs/info/68923d26f47efe211395ab3c?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Aug 28 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5a0ccf4e41a61efd9085e?utm_campaign=1056&utm_source=git)** | Azusa, CA | On Site | Aug 28 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 National Organizing Intern](https://jobright.ai/jobs/info/68b05567b47fb001d689125b?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
