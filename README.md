@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5e004f4e41a61efd91689?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Sep 01 |
+| ↳ | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5dd281ade4306aa6436aa?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5ca0bbc187f64e1be8403?utm_campaign=1056&utm_source=git)** | IL - Schaumburg, 1475 E Woodfield Rd | On Site | Sep 01 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5c98bf4e41a61efd9140c?utm_campaign=1056&utm_source=git)** | MI - Plymouth, 41112 Concept Dr | On Site | Sep 01 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5c9241ade4306aa64346c?utm_campaign=1056&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
@@ -158,6 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Associate Director, Community Engagement - IQMP](https://jobright.ai/jobs/info/68b0a22fb47fb001d6893f7a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Aug 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b0a00913563e782a9f7eb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b098622d46f6396cae6e03?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b08d4a13563e782a9f747a?utm_campaign=1056&utm_source=git)** | DC-Washington | Hybrid | Aug 28 |
-| **[U.S. House of Representatives](http://www.house.gov/)** | **[District Intern](https://jobright.ai/jobs/info/68b08c3a2d46f6396cae66b1?utm_campaign=1056&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
