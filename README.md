@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS
+Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 31 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/68b43d2df4e41a61efd8c0aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68b37f65f4e41a61efd89306?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
@@ -157,6 +160,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68b27e681ade4306aa637597?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37c2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[City of San Bruno](https://www.sanbruno.ca.gov/)** | **[Community Safety Intern and Landscape & Facilities Intern](https://jobright.ai/jobs/info/68b0ea64b47fb001d6896640?utm_campaign=1056&utm_source=git)** | Eastvale, CA | On Site | Aug 27 |
-| **[State of Florida](http://www.myflorida.com)** | **[AGRICULTURE & CONSUMER PROTECT SPEC - 42001004 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68b0ebc8b47fb001d6896710?utm_campaign=1056&utm_source=git)** | Lakeland, FL | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
