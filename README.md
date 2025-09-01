@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[Madison Metropolitan Sewerage District](https://www.madsewer.org)** | **[Pollution Prevention Intern](https://jobright.ai/jobs/info/68b55964bc187f64e1be67a7?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54d591ade4306aa641595?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54ab31ade4306aa641155?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
@@ -69,6 +70,7 @@ Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/68b43d2df4e41a61efd8c0aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
+| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/685deefb2fb4aba079998b06?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 31 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: UNOCC Management Support
 Job ID : 256583](https://jobright.ai/jobs/info/68b51f6d1ade4306aa640398?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68b37f65f4e41a61efd89306?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
@@ -159,6 +161,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/67e38395f958b915eef16922?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/68940c134c7e851b90ae253e?utm_campaign=1056&utm_source=git)** | Flensburg, MN | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b04c9db47fb001d6890c63?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 28 |
-| **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
