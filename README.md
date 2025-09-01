@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b524e4f4e41a61efd8e529?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS
 Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 31 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/68b43d2df4e41a61efd8c0aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: UNOCC Management Support
+Job ID : 256583](https://jobright.ai/jobs/info/68b51f6d1ade4306aa640398?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Fall 2025)](https://jobright.ai/jobs/info/68b37f65f4e41a61efd89306?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | ↳ | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/68b3bd0e1ade4306aa63bd19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Aug 30 |
@@ -95,7 +98,6 @@ Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_camp
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Northern Latin America Practice](https://jobright.ai/jobs/info/68b1f4a8bc187f64e1bd8064?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Olsson](https://www.olsson.com)** | **[Planning Student Internship](https://jobright.ai/jobs/info/68b1f495bc187f64e1bd804e?utm_campaign=1056&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 29 |
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Intern: UN/Global Policy (Fall 2025) – New York](https://jobright.ai/jobs/info/68b1e4aff4e41a61efd80780?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Masters Public Health](https://jobright.ai/jobs/info/68b1b73dbc187f64e1bd6497?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Aug 29 |
 | **[Ankura](https://ankura.com)** | **[Intern (Fellow), Northern Latin America Practice](https://jobright.ai/jobs/info/68b1cb01f4e41a61efd7fb19?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Aug 29 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Intern](https://jobright.ai/jobs/info/68b2f38ef4e41a61efd88555?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Aug 29 |
 | **[One House at a Time](http://www.ohaat.org)** | **[Beds for Kids Program Intern (Volunteer)](https://jobright.ai/jobs/info/68b278cf1ade4306aa6370bc?utm_campaign=1056&utm_source=git)** | Huntingdon Valley, PA | On Site | Aug 29 |
@@ -103,6 +105,7 @@ Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_camp
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Masters Public Health](https://jobright.ai/jobs/info/68b32ae31ade4306aa63ad4a?utm_campaign=1056&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Aug 29 |
 | **[The States Project](https://statesproject.org/)** | **[TSP Fall Internship](https://jobright.ai/jobs/info/68b1d04df4e41a61efd7fe79?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Resi Solar Incentives Intern](https://jobright.ai/jobs/info/68b1ae6dbc187f64e1bd60d8?utm_campaign=1056&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Masters Public Health](https://jobright.ai/jobs/info/68b1b73dbc187f64e1bd6497?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Aug 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68b1ab051ade4306aa6311e2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[FWD.us](http://www.fwd.us)** | **[Federal Policy & Government Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/68b27910f4e41a61efd84eff?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Engagement Intern](https://jobright.ai/jobs/info/689530328c6d6b4426777ee3?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 29 |
@@ -116,6 +119,7 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b29634f4e41a61efd86cc9?utm_camp
 | ↳ | **[Youth Ministry Director at Fort Wainwright, a U.S. Military Installation, Alaska](https://jobright.ai/jobs/info/68b3ce391ade4306aa63c6bd?utm_campaign=1056&utm_source=git)** | Wainwright, AK | On Site | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 28 |
+| **[Homeless Solutions, Inc.](https://www.homelesssolutions.org)** | **[Case Management / Social Work / Social Service Paid Internship (Senior Services Coordinator)](https://jobright.ai/jobs/info/68b51accbc187f64e1be50be?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Aug 28 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Behavioral Health - Social Worker/Counselor Internship](https://jobright.ai/jobs/info/68b1043904557a6c207b95f9?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Aug 28 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68b11b1e6fab621da7b09f54?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Aug 28 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post Doctoral Scholar - Traditional Governance in Africa](https://jobright.ai/jobs/info/68b0fcfe04557a6c207b937d?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
@@ -125,7 +129,6 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/68b197251ade4306aa630995?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Aug 28 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Aug 28 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0de9d13563e782a9f9ed8?utm_campaign=1056&utm_source=git)** | New Haven, IN | On Site | Aug 28 |
-| **[New York State Assembly](https://nyassembly.gov/)** | **[Legislative Research Assistant Internship](https://jobright.ai/jobs/info/68b0ddeeb47fb001d6896047?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Aug 28 |
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68b0dbb413563e782a9f9d58?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0da9013563e782a9f9c9c?utm_campaign=1056&utm_source=git)** | Evansville, IN | On Site | Aug 28 |
 | ↳ | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0d9da13563e782a9f9c55?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 28 |
@@ -158,6 +161,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/68afdf3fe723db6c9b7b466c?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Aug 27 |
 | **[Taft Stettinius & Hollister LLP](http://www.taftlaw.com)** | **[Legislative Intern (Indianapolis)](https://jobright.ai/jobs/info/68b134ba6fab621da7b0adfa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68b27e681ade4306aa637597?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37c2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Aug 27 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 New York Summer Internship](https://jobright.ai/jobs/info/6892692df47efe211395c1e5?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
