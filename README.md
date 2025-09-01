@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b524e4f4e41a61efd8e529?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
+| **[American Public Health Association](https://www.apha.org)** | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54d591ade4306aa641595?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
+| ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54ab31ade4306aa641155?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School) - Public Defender- (Spring)](https://jobright.ai/jobs/info/68b54513bc187f64e1be5e8e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b536551ade4306aa640b4e?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School)- Public Defender (Summer)](https://jobright.ai/jobs/info/68b54e81bc187f64e1be659b?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS
 Job ID : 263154](https://jobright.ai/jobs/info/68b5143ff4e41a61efd8d779?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 31 |
@@ -157,8 +161,4 @@ Job ID : 263198](https://jobright.ai/jobs/info/68b27ea6f4e41a61efd853c9?utm_camp
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6892ac95f47efe211395e2c8?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 28 |
 | **[Tony Blair Institute for Global Change](https://institute.global)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68b0220313563e782a9f3a33?utm_campaign=1056&utm_source=git)** | United States of America | On Site | Aug 28 |
 | **[Braunkabel GmbH](https://www.braunkabel.de)** | **[Minister - Church at Lake Mead Intern](https://jobright.ai/jobs/info/68aff94613563e782a9f2aa0?utm_campaign=1056&utm_source=git)** | Henderson, NV | On Site | Aug 27 |
-| **[YMCA of Greater Seattle](http://www.seattleymca.org/)** | **[Social Services Intern - WAGES Program](https://jobright.ai/jobs/info/68afedaee723db6c9b7b4c8e?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
-| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF-Family Informed Resource Support Team Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/68afdf3fe723db6c9b7b466c?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Aug 27 |
-| **[Taft Stettinius & Hollister LLP](http://www.taftlaw.com)** | **[Legislative Intern (Indianapolis)](https://jobright.ai/jobs/info/68b134ba6fab621da7b0adfa?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Aug 27 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT OEEI Equity Intern](https://jobright.ai/jobs/info/68b27e681ade4306aa637597?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
