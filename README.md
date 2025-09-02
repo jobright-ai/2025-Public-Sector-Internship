@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Policy & Legislative Affairs Intern](https://jobright.ai/jobs/info/68b63579f4e41a61efd91fcb?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 01 |
 | **[Gunnison County](https://www.gunnisoncounty.org/)** | **[Youth Prevention Services Intern](https://jobright.ai/jobs/info/68b62ddd1ade4306aa643fc5?utm_campaign=1056&utm_source=git)** | Gunnison, CO | On Site | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b62bd8f4e41a61efd91f0e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b627061ade4306aa643e7b?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | Sep 01 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54d591ade4306aa641595?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54ab31ade4306aa641155?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School) - Public Defender- (Spring)](https://jobright.ai/jobs/info/68b54513bc187f64e1be5e8e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b536551ade4306aa640b4e?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School)- Public Defender (Summer)](https://jobright.ai/jobs/info/68b54e81bc187f64e1be659b?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b524e4f4e41a61efd8e529?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/686002fa6a9f621ce44acdd2?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 31 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
@@ -157,5 +158,4 @@ Job ID : 263285](https://jobright.ai/jobs/info/68b29634f4e41a61efd86cc9?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6822115e9c2e7b63bb975ede?utm_campaign=1056&utm_source=git)** | Stanford, CA | Hybrid | Aug 28 |
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68b0a9f013563e782a9f8479?utm_campaign=1056&utm_source=git)** | Los Angeles | On Site | Aug 28 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Associate Director, Community Engagement - IQMP](https://jobright.ai/jobs/info/68b0a22fb47fb001d6893f7a?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Aug 28 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68b0a00913563e782a9f7eb5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
