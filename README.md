@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AACI (Asian Americans for Community Involvement)](https://www.aaci.org)** | **[Intern (Advocacy, Health & Social Services)](https://jobright.ai/jobs/info/68b6ccf8f4e41a61efd94325?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Sep 02 |
+| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- Office of the President](https://jobright.ai/jobs/info/68b6bff41ade4306aa6462ac?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/689e3254faa4e875e8277ade?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Sep 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/68b689d61ade4306aa645946?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Sep 01 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Policy & Legislative Affairs Intern](https://jobright.ai/jobs/info/68b63579f4e41a61efd91fcb?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 01 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54ab31ade4306aa641155?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[MFA Incorporated](http://mfa-inc.com)** | **[Ag Experience Internship - Communications](https://jobright.ai/jobs/info/68b67778f4e41a61efd93416?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Sep 01 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School) - Public Defender- (Spring)](https://jobright.ai/jobs/info/68b54513bc187f64e1be5e8e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b536551ade4306aa640b4e?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School)- Public Defender (Summer)](https://jobright.ai/jobs/info/68b54e81bc187f64e1be659b?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b524e4f4e41a61efd8e529?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/686002fa6a9f621ce44acdd2?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 31 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68b133816fab621da7b0ac19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Office and Public Outreach Administrative Assistant (Student Wage)](https://jobright.ai/jobs/info/68b0d00bb47fb001d6895afe?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Aug 28 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0eb7b2d46f6396cae9922?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Aug 28 |
-| **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/68b127a104557a6c207ba3e8?utm_campaign=1056&utm_source=git)** | Arlington Heights, IL | On Site | Aug 28 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0c0762d46f6396cae8261?utm_campaign=1056&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
