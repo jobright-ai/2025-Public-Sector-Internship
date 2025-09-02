@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/689e3254faa4e875e8277ade?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Sep 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/68b689d61ade4306aa645946?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Sep 01 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Policy & Legislative Affairs Intern](https://jobright.ai/jobs/info/68b63579f4e41a61efd91fcb?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 01 |
 | **[Gunnison County](https://www.gunnisoncounty.org/)** | **[Youth Prevention Services Intern](https://jobright.ai/jobs/info/68b62ddd1ade4306aa643fc5?utm_campaign=1056&utm_source=git)** | Gunnison, CO | On Site | Sep 01 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Sep 01 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/68b5a0ccf4e41a61efd9085c?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Sep 01 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
-| **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b67ee1bc187f64e1bea6b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 01 |
-| ↳ | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b685231ade4306aa64587c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 01 |
+| **[American Public Health Association](https://www.apha.org)** | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b685231ade4306aa64587c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 01 |
+| ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b67ee1bc187f64e1bea6b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | **[Madison Metropolitan Sewerage District](https://www.madsewer.org)** | **[Pollution Prevention Intern](https://jobright.ai/jobs/info/68b55964bc187f64e1be67a7?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[Climate, Health and Equity Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54d591ade4306aa641595?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | ↳ | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54ab31ade4306aa641155?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SBOA Accounting](https://jobright.ai/jobs/info/68b0eb7b2d46f6396cae9922?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Aug 28 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/68b127a104557a6c207ba3e8?utm_campaign=1056&utm_source=git)** | Arlington Heights, IL | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0c0762d46f6396cae8261?utm_campaign=1056&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Aug 28 |
-| **[Cloud Nine Nonprofit Advisors, LLC](https://www.thrivewithcloud9.com)** | **[Intern](https://jobright.ai/jobs/info/68b0d39613563e782a9f99ee?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
