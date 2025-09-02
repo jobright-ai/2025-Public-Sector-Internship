@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/68b689d61ade4306aa645946?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Sep 01 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Policy & Legislative Affairs Intern](https://jobright.ai/jobs/info/68b63579f4e41a61efd91fcb?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 01 |
 | **[Gunnison County](https://www.gunnisoncounty.org/)** | **[Youth Prevention Services Intern](https://jobright.ai/jobs/info/68b62ddd1ade4306aa643fc5?utm_campaign=1056&utm_source=git)** | Gunnison, CO | On Site | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b62bd8f4e41a61efd91f0e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5ca0bbc187f64e1be8403?utm_campaign=1056&utm_source=git)** | IL - Schaumburg, 1475 E Woodfield Rd | On Site | Sep 01 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5c98bf4e41a61efd9140c?utm_campaign=1056&utm_source=git)** | MI - Plymouth, 41112 Concept Dr | On Site | Sep 01 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68b5c9241ade4306aa64346c?utm_campaign=1056&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Sep 01 |
 | **[Delaware County, Ohio](http://www.co.delaware.oh.us)** | **[Communications Intern](https://jobright.ai/jobs/info/68b5a0ccf4e41a61efd9085c?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Sep 01 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b67ee1bc187f64e1bea6b4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 01 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School) - Public Defender- (Spring)](https://jobright.ai/jobs/info/68b54513bc187f64e1be5e8e?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Real Estate Internship - Summer 2026](https://jobright.ai/jobs/info/68b536551ade4306aa640b4e?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/High School)- Public Defender (Summer)](https://jobright.ai/jobs/info/68b54e81bc187f64e1be659b?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Aug 31 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Graduate Intern](https://jobright.ai/jobs/info/68b683dabc187f64e1bea8c6?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Aug 31 |
 | **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b4e6d71ade4306aa63ed5a?utm_campaign=1056&utm_source=git)** | Hollister, CA | On Site | Aug 31 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/686002fa6a9f621ce44acdd2?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Aug 31 |
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/68b127a104557a6c207ba3e8?utm_campaign=1056&utm_source=git)** | Arlington Heights, IL | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern Exempt- Planning](https://jobright.ai/jobs/info/68b0c0762d46f6396cae8261?utm_campaign=1056&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Aug 28 |
 | **[Cloud Nine Nonprofit Advisors, LLC](https://www.thrivewithcloud9.com)** | **[Intern](https://jobright.ai/jobs/info/68b0d39613563e782a9f99ee?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 28 |
-| **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68b0b2a82d46f6396cae7c9d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
