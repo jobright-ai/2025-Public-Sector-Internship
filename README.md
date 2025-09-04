@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAI](http://www.compaid.com)** | **[Data and Business Operations Intern](https://jobright.ai/jobs/info/68b8c3daea901c0d269f9468?utm_campaign=1056&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 03 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/68b8b07bea901c0d269f8c3b?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Sep 03 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2025 Internship - unpaid](https://jobright.ai/jobs/info/68b8aa1d5b42bc4562826c76?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Fall 2025)](https://jobright.ai/jobs/info/68b8a9b1ea901c0d269f884c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
@@ -98,24 +99,24 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/68b73cec2124650c14020a1c?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
 | **[Baker Newman Noyes](http://bnncpa.com)** | **[2026 Culture & Career Summit](https://jobright.ai/jobs/info/68b73c752124650c1402093d?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Sep 02 |
 | **[VanceMitchem Public Affairs](https://www.vancemitchem.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68b7d957a10b650604b616cb?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Sep 02 |
-| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 02 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68b7271df4e41a61efd96009?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
 | ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68b726a72124650c1401fb81?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
 | ↳ | **[Registered Mental Health Counselor Intern (RMHCI) - Remote](https://jobright.ai/jobs/info/68b72698f4e41a61efd95fa7?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Environmental Planning/Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68b7240d1ade4306aa647e9e?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT | On Site | Sep 02 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Internship - Fall 2025](https://jobright.ai/jobs/info/68b71c77f4e41a61efd95b2f?utm_campaign=1056&utm_source=git)** | Oakland, CA | Hybrid | Sep 02 |
+| **[HNTB](http://www.hntb.com/)** | **[Environmental Planning/Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68b711bdf4e41a61efd9576f?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT (Hartford) | On Site | Sep 02 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/68b711b12124650c1401f2da?utm_campaign=1056&utm_source=git)** | DC | On Site | Sep 02 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/68b711481ade4306aa6475fe?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
-| **[HNTB](http://www.hntb.com/)** | **[Public Engagement and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68b711221ade4306aa6475bd?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Sep 02 |
-| ↳ | **[Environmental Planning/Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68b710c91ade4306aa647543?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT (Hartford) | On Site | Sep 02 |
 | **[China Institute in America](https://chinainstitute.org/)** | **[Public Program Intern](https://jobright.ai/jobs/info/68b710c82124650c1401f150?utm_campaign=1056&utm_source=git)** | NYC Metro Area | On Site | Sep 02 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68b710a1f4e41a61efd95535?utm_campaign=1056&utm_source=git)** | New York New York United States | On Site | Sep 02 |
+| **[HNTB](http://www.hntb.com/)** | **[Public Engagement and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68b710871ade4306aa6474db?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Sep 02 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b71006f4e41a61efd95436?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
 | **[Cencora](http://www.cencora.com)** | **[Government Services Intern](https://jobright.ai/jobs/info/68b703121ade4306aa6470a6?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/68b701632124650c1401ebd4?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | ↳ | **[U.S. Public Policy & Advocacy Intern](https://jobright.ai/jobs/info/68b700e3f4e41a61efd94eb8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post Doctoral Scholar - Traditional Governance in Africa](https://jobright.ai/jobs/info/68b0fcfe04557a6c207b937d?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Sep 02 |
-| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/68b6efa7f4e41a61efd94af7?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
+| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/68b6f12c1ade4306aa646bcb?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
+| ↳ | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b6f0f81ade4306aa646bb2?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 02 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Govt Affairs Intern](https://jobright.ai/jobs/info/689a467283d13d1f5b6979c9?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Sep 02 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/689a284783d13d1f5b696733?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Sep 02 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- Office of the President](https://jobright.ai/jobs/info/68b6bff41ade4306aa6462ac?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 02 |
@@ -157,5 +158,4 @@ Job ID : 263154](https://jobright.ai/jobs/info/68b7ccff5e55be5e2604e210?utm_camp
 | ↳ | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/672cc36f0940e6c527a71299?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/68b43d2df4e41a61efd8c0aa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Aug 31 |
-| **[County of San Benito](https://www.cosb.us)** | **[Student Intern](https://jobright.ai/jobs/info/68b413aff4e41a61efd8be11?utm_campaign=1056&utm_source=git)** | Paicines, CA | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
