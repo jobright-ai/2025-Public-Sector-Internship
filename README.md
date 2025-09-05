@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Press Secretary](https://jobright.ai/jobs/info/68bac1715f3832749186945e?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68bab0e76105227d1189fe5f?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 05 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Spring 2026 Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/68baa7db8043103d4f2225c7?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Conservation Officer (Summer)](https://jobright.ai/jobs/info/68ba80d86105227d1189e8b5?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Sep 04 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Project for Pride in Living (PPL)](https://www.ppl-inc.org/)** | **[Community Health Improvement Intern](https://jobright.ai/jobs/info/68ba34665f38327491864fc9?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Sep 04 |
 | **[Minnesota Senate](https://www.senate.mn/)** | **[Senate Intern](https://jobright.ai/jobs/info/68ba31b86105227d1189b809?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Sep 04 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Webber - Intern - Heavy Civil Estimating](https://jobright.ai/jobs/info/68ba30f06105227d1189b76c?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Sep 04 |
-| **[CryptoCurrency ICO/Airdrop](https://coinmarketcap.com/)** | **[Community Operations and KOL Engagement（Intern/contractor）](https://jobright.ai/jobs/info/68ba2c2f5f38327491864892?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68ba25538043103d4f21de0e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | ↳ | **[Intern - Strategic Technologies Program (Fall 2025)](https://jobright.ai/jobs/info/68ba24aa8043103d4f21dd8d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Webber - Intern - Heavy Civil Estimating](https://jobright.ai/jobs/info/68ba23ad8043103d4f21dca2?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Sep 04 |
@@ -144,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Institute on the Environment University of Minnesota](http://environment.umn.edu)** | **[Clean Energy Program Assistant](https://jobright.ai/jobs/info/68b74fcaf4e41a61efd97f22?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Sep 02 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/68b74e752124650c14021baf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
 | **[Cencora](http://www.cencora.com)** | **[Government Services Intern](https://jobright.ai/jobs/info/68b74e522124650c14021b67?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
+| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/68b74cce1ade4306aa649ced?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | ↳ | **[U.S. Public Policy & Advocacy Intern](https://jobright.ai/jobs/info/68b748acf4e41a61efd97984?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
 | **[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/68b748a41ade4306aa649a59?utm_campaign=1056&utm_source=git)** | Washington University School of Medicine, 4400 Chouteau Ave, St. Louis, MO, 63110 | On Site | Sep 02 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68b742a42124650c14020fee?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 02 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Newman Noyes](http://bnncpa.com)** | **[2026 Culture & Career Summit](https://jobright.ai/jobs/info/68b73c752124650c1402093d?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Sep 02 |
 | **[VanceMitchem Public Affairs](https://www.vancemitchem.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68b7d957a10b650604b616cb?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Sep 02 |
 | **[Henkel](http://www.henkel.com)** | **[Sustainability & Government Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b8e754ea901c0d269faa3b?utm_campaign=1056&utm_source=git)** | Bridgewater, None, US | On Site | Sep 02 |
-| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/68b731011ade4306aa6484e8?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
+| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 02 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68b7271df4e41a61efd96009?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
-| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68b726a72124650c1401fb81?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
