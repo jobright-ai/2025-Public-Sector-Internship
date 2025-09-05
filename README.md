@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cambridge](https://www.cambridgema.gov)** | **[Building Decarbonization Intern](https://jobright.ai/jobs/info/68bae94f8043103d4f223f43?utm_campaign=1056&utm_source=git)** | Cambridge, MA | Hybrid | Sep 05 |
+| **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Summer 2026)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 05 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/689f2f8183d13d1f5b6c4950?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 05 |
 | **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Press Secretary](https://jobright.ai/jobs/info/68bac1715f3832749186945e?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68bab0e76105227d1189fe5f?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 05 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Spring 2026 Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/68baa7db8043103d4f2225c7?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Starr Insurance](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Claims Administration](https://jobright.ai/jobs/info/68b9de825f38327491861845?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 04 |
 | **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/68b9d0446105227d11897fd5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[2026 Starr Summer Intern -  Claims Administration](https://jobright.ai/jobs/info/68b9cc9f8043103d4f21a7c1?utm_campaign=1056&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Sep 04 |
-| **[The Healthcare Navigation Project](https://thehealthcarenavigationproject.org)** | **[Volunteer Research Assistant](https://jobright.ai/jobs/info/68b9c1376105227d118976fe?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 04 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Policy, Strategy & Research Unit Internship - Hourly - New York City](https://jobright.ai/jobs/info/68b0d91713563e782a9f9bf4?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | ↳ | **[Bureau of Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/68844272fbbf032d0006670d?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Sep 04 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/689cdf3683d13d1f5b6ab65c?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 04 |
@@ -143,9 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68b75924f4e41a61efd985d9?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Sep 02 |
 | **[Institute on the Environment University of Minnesota](http://environment.umn.edu)** | **[Clean Energy Program Assistant](https://jobright.ai/jobs/info/68b74fcaf4e41a61efd97f22?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Sep 02 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/68b74e752124650c14021baf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[Government Services Intern](https://jobright.ai/jobs/info/68b74e522124650c14021b67?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
-| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/68b74cce1ade4306aa649ced?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
-| ↳ | **[U.S. Public Policy & Advocacy Intern](https://jobright.ai/jobs/info/68b748acf4e41a61efd97984?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
+| **[Cencora](http://www.cencora.com)** | **[U.S. Public Policy & Advocacy Intern](https://jobright.ai/jobs/info/68b748acf4e41a61efd97984?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
 | **[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/68b748a41ade4306aa649a59?utm_campaign=1056&utm_source=git)** | Washington University School of Medicine, 4400 Chouteau Ave, St. Louis, MO, 63110 | On Site | Sep 02 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68b742a42124650c14020fee?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 02 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b740531ade4306aa6492ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Baker Newman Noyes](http://bnncpa.com)** | **[2026 Culture & Career Summit](https://jobright.ai/jobs/info/68b73c752124650c1402093d?utm_campaign=1056&utm_source=git)** | Portsmouth, NH | On Site | Sep 02 |
 | **[VanceMitchem Public Affairs](https://www.vancemitchem.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68b7d957a10b650604b616cb?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Sep 02 |
 | **[Henkel](http://www.henkel.com)** | **[Sustainability & Government Affairs Intern – Summer 2026](https://jobright.ai/jobs/info/68b8e754ea901c0d269faa3b?utm_campaign=1056&utm_source=git)** | Bridgewater, None, US | On Site | Sep 02 |
-| **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 02 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68b7271df4e41a61efd96009?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68b726a72124650c1401fb81?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
