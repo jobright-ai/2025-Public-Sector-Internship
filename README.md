@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68bb338e6105227d118a4069?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Sep 05 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve 2026 Assistant Examiner Intern](https://jobright.ai/jobs/info/68bb320e5f3832749186cfef?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Summer 2026](https://jobright.ai/jobs/info/68bb2fda5f3832749186cc7a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 05 |
+| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/68bb282f8043103d4f225f65?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve 2026 Assistant Examiner Intern](https://jobright.ai/jobs/info/68bb22438043103d4f225ca6?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
 | **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68bb20036105227d118a3251?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2026](https://jobright.ai/jobs/info/68bb1b1d5f3832749186c1be?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 05 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Public Policy](https://jobright.ai/jobs/info/68bb1b0c8043103d4f225883?utm_campaign=1056&utm_source=git)** | 600 Lafayette East, Detroit, MI, 48226, US | On Site | Sep 05 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68bb15038043103d4f22548e?utm_campaign=1056&utm_source=git)** | Statewide, NE | On Site | Sep 05 |
-| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Summer 2026](https://jobright.ai/jobs/info/68bb149e8043103d4f225425?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 05 |
-| **[City of Rialto ](https://www.rialtonetwork.com)** | **[High School Intern/Intern](https://jobright.ai/jobs/info/68bb0d548043103d4f225223?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Sep 05 |
 | **[Ronald Reagan Presidential Foundation & Institute](https://www.reaganfoundation.org)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/68bb0d145f3832749186baf9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Federal Civilian Agencies - Campus 2026](https://jobright.ai/jobs/info/68bafbcf8043103d4f22499a?utm_campaign=1056&utm_source=git)** | US - VA, Arlington | On Site | Sep 05 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68baf1408043103d4f22427f?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Sep 05 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68b75924f4e41a61efd985d9?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Sep 02 |
 | **[Institute on the Environment University of Minnesota](http://environment.umn.edu)** | **[Clean Energy Program Assistant](https://jobright.ai/jobs/info/68b74fcaf4e41a61efd97f22?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Sep 02 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/68b74e752124650c14021baf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/68b74cce1ade4306aa649ced?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
-| ↳ | **[U.S. Public Policy & Advocacy Intern](https://jobright.ai/jobs/info/68b748acf4e41a61efd97984?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 02 |
-| **[Washington University School of Medicine in St. Louis](https://medicine.wustl.edu/)** | **[Community Development Intern (Part-Time/Temporary) - WUMC Redevelopment](https://jobright.ai/jobs/info/68b748a41ade4306aa649a59?utm_campaign=1056&utm_source=git)** | Washington University School of Medicine, 4400 Chouteau Ave, St. Louis, MO, 63110 | On Site | Sep 02 |
+| **[Cencora](http://www.cencora.com)** | **[Government Services Intern](https://jobright.ai/jobs/info/68b74e522124650c14021b67?utm_campaign=1056&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
