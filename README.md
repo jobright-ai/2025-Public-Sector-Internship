@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68bab0e76105227d1189fe5f?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 05 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Spring 2026 Iowa Department of Public Safety Internship](https://jobright.ai/jobs/info/68baa7db8043103d4f2225c7?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Sep 05 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Conservation Officer (Summer)](https://jobright.ai/jobs/info/68ba80d86105227d1189e8b5?utm_campaign=1056&utm_source=git)** | Rapid City, SD | On Site | Sep 04 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68ba802c6105227d1189e812?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Sep 04 |
 | ↳ | **[Intern - Child Nutrition Programs (Summer)](https://jobright.ai/jobs/info/68ba7da16105227d1189e5d5?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Sep 04 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68ba9e386105227d1189fad8?utm_campaign=1056&utm_source=git)** | Mooresville, NC | On Site | Sep 04 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Community Intern](https://jobright.ai/jobs/info/68ba5b6f5f383274918665da?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/68ba59a28043103d4f21fd17?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Sep 04 |
 | **[American Public Health Association](https://www.apha.org)** | **[Alliance for Disease Prevention and Response Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68ba58a15f3832749186618e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Nashville](https://jobright.ai/jobs/info/68b731011ade4306aa6484e8?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68b7271df4e41a61efd96009?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
 | ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68b726a72124650c1401fb81?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
-| ↳ | **[Registered Mental Health Counselor Intern (RMHCI) - Remote](https://jobright.ai/jobs/info/68b72698f4e41a61efd95fa7?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 02 |
-| **[HNTB](http://www.hntb.com/)** | **[Environmental Planning/Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68b7240d1ade4306aa647e9e?utm_campaign=1056&utm_source=git)** | Rocky Hill, CT | On Site | Sep 02 |
-| **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Government Relations Summer Analyst](https://jobright.ai/jobs/info/68b711b12124650c1401f2da?utm_campaign=1056&utm_source=git)** | DC | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
