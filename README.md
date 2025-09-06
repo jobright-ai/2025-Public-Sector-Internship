@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Social Work Intern Manager](https://jobright.ai/jobs/info/68bb5ab56105227d118a5889?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 05 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Economic Affairs
 Job ID : 263820](https://jobright.ai/jobs/info/68bb4eee5f3832749186e4fb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 05 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68bb4d765f3832749186e3a3?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Sep 05 |
@@ -94,6 +95,7 @@ Job ID : 263820](https://jobright.ai/jobs/info/68bb4eee5f3832749186e4fb?utm_camp
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Community Intern](https://jobright.ai/jobs/info/68ba3a3b6105227d1189c18a?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Economic Development](https://jobright.ai/jobs/info/68ba39045f383274918652c4?utm_campaign=1056&utm_source=git)** | Columbia, MO | Hybrid | Sep 04 |
 | **[Project for Pride in Living (PPL)](https://www.ppl-inc.org/)** | **[Community Health Improvement Intern](https://jobright.ai/jobs/info/68ba34665f38327491864fc9?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Sep 04 |
+| **[City of Brooklyn Park](https://www.linkedin.com/company/73612)** | **[Reimagine Black Youth Mental Health Initiative Intern Brooklyn Bridge Alliance for Youth](https://jobright.ai/jobs/info/68bb60f46105227d118a59d9?utm_campaign=1056&utm_source=git)** | Brooklyn Park, MN | On Site | Sep 04 |
 | **[City of Champaign](https://champaignil.gov/)** | **[Unpaid Intern - Police Department](https://jobright.ai/jobs/info/68bb0e855f3832749186bbab?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Sep 04 |
 | **[Minnesota Senate](https://www.senate.mn/)** | **[Senate Intern](https://jobright.ai/jobs/info/68ba31b86105227d1189b809?utm_campaign=1056&utm_source=git)** | St Paul, MN | On Site | Sep 04 |
 | **[Webber, a Ferrovial company](http://wwebber.com/)** | **[Webber - Intern - Heavy Civil Estimating](https://jobright.ai/jobs/info/68ba30f06105227d1189b76c?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Sep 04 |
@@ -132,7 +134,6 @@ Job ID : 263820](https://jobright.ai/jobs/info/68bb4eee5f3832749186e4fb?utm_camp
 | **[Meijer](https://www.meijer.com/)** | **[Government Affairs Intern- Summer 2026](https://jobright.ai/jobs/info/68b8d3fc07090163b6ba52ec?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68b91c1c07090163b6ba7c43?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Sep 03 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/68b8b07bea901c0d269f8c3b?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Sep 03 |
-| **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2025 Internship - unpaid](https://jobright.ai/jobs/info/68b8aa1d5b42bc4562826c76?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 03 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Counter Disinformation Intern, Center for Communications, Counter Disinformation Strategy Department (Fall 2025)](https://jobright.ai/jobs/info/68b8a9b1ea901c0d269f884c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 03 |
 | **[Wishes & More](http://www.wishesandmore.org)** | **[Volunteer: Wish Granting Intern - Outreach](https://jobright.ai/jobs/info/68b8a0c3ea901c0d269f82ed?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/68b89d7b5b42bc456282656c?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Sep 03 |
@@ -144,7 +145,6 @@ Job ID : 263820](https://jobright.ai/jobs/info/68bb4eee5f3832749186e4fb?utm_camp
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68b87af0ea901c0d269f680f?utm_campaign=1056&utm_source=git)** | Virtual (USA) | Hybrid | Sep 03 |
 | **[National Consumer Voice for Quality Long-Term Care](http://www.theconsumervoice.org)** | **[Spring 2026 Public Policy Internship for a Graduate/Law Student](https://jobright.ai/jobs/info/68b872ee5b42bc45628248cb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 03 |
 | **[Dant Advocacy, Inc.](http://www.dantadvocacy.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68b99a066105227d118962e0?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Sep 03 |
-| **[Hudson Valley Regional Council](https://hudsonvalleyregionalcouncil.org/)** | **[Resilience & Adaptation Intern](https://jobright.ai/jobs/info/68b86babea901c0d269f6089?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Sep 03 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/689bd9affaa4e875e8263ecc?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0f?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 03 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Government Relations & Advocacy Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68b7ed090514b74d7c3ebc0e?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 03 |
