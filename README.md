@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Airways](http://www.rjet.com)** | **[Corporate & Community Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/68bbdf3f5f38327491873c6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Government Affairs](https://jobright.ai/jobs/info/68bbc8056105227d118a9c77?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: Tech Policy & Planning](https://jobright.ai/jobs/info/68bbc6485f38327491872e5a?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Government Programs Intern](https://jobright.ai/jobs/info/68bbaab15f383274918714e1?utm_campaign=1056&utm_source=git)** | Johnston, IA | Hybrid | Sep 05 |
@@ -72,7 +73,7 @@ Job ID : 263820](https://jobright.ai/jobs/info/68bb4eee5f3832749186e4fb?utm_camp
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Philanthropy Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68bb4b515f3832749186e187?utm_campaign=1056&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 05 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Public Policy](https://jobright.ai/jobs/info/68bb46af6105227d118a4c49?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Sep 05 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Summer 2025)](https://jobright.ai/jobs/info/68bb41dc8043103d4f227383?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 05 |
-| **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68bb338e6105227d118a4069?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Sep 05 |
+| **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68bb32568043103d4f226575?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Sep 05 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve 2026 Assistant Examiner Intern](https://jobright.ai/jobs/info/68bb320e5f3832749186cfef?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Summer 2026](https://jobright.ai/jobs/info/68bb2fda5f3832749186cc7a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 05 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/68bb282f8043103d4f225f65?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 05 |
@@ -157,5 +158,4 @@ Job ID : 263820](https://jobright.ai/jobs/info/68bb4eee5f3832749186e4fb?utm_camp
 | **[National Consumer Voice for Quality Long-Term Care](http://www.theconsumervoice.org)** | **[Spring 2026 Public Policy Internship for a Graduate/Law Student](https://jobright.ai/jobs/info/68b872ee5b42bc45628248cb?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 03 |
 | **[Dant Advocacy, Inc.](http://www.dantadvocacy.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68b99a066105227d118962e0?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Sep 03 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/689bd9affaa4e875e8263ecc?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 03 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0f?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
