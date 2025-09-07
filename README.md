@@ -61,13 +61,13 @@ For a complete list, click the following sortable link below:
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68bd4e61ae79610dacddf56f?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 07 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe76ae79610dacddd46b?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe5eae79610dacddd434?utm_campaign=1056&utm_source=git)** | Wayne, NJ | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe2bae79610dacddd3b4?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1dae79610dacddd392?utm_campaign=1056&utm_source=git)** | Laramie, WY | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd385?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd383?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd384?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 06 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd385?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdf2ae79610dacddd32d?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfde8ae79610dacddd310?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfde2ae79610dacddd2f3?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfdd6ae79610dacddd2d7?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdbcae79610dacddd2a7?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdbcae79610dacddd2a9?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 06 |
@@ -104,12 +104,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfd0c68300c452ca172fb?utm_campaign=1056&utm_source=git)** | Kalamazoo, MI | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfd04ae79610dacddd0d6?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfd0368300c452ca172d7?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 06 |
+| ↳ | **[Nonprofit Leadership Program](https://jobright.ai/jobs/info/68bcfd0368300c452ca172da?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
+| ↳ | **[Nonprofit Leadership Programme](https://jobright.ai/jobs/info/68bcfd013bf9eb44f83258f1?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcfd3bf9eb44f83258e3?utm_campaign=1056&utm_source=git)** | Ada, OH | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcf768300c452ca172b8?utm_campaign=1056&utm_source=git)** | Fort Dodge, IA | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcf6ae79610dacddd08f?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcf668300c452ca172b6?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcf6ae79610dacddd09d?utm_campaign=1056&utm_source=git)** | Powell, WY | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcf6ae79610dacddd09e?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Sep 06 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcf668300c452ca172b6?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Sep 06 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcf6ae79610dacddd08f?utm_campaign=1056&utm_source=git)** | Vermillion, SD | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcf2ae79610dacddd089?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcf13bf9eb44f83258c1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcf13bf9eb44f83258c5?utm_campaign=1056&utm_source=git)** | Wayne, NJ | On Site | Sep 06 |
@@ -127,9 +129,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcd168300c452ca17256?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcd168300c452ca17257?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcc668300c452ca1723a?utm_campaign=1056&utm_source=git)** | Gambier, OH | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcc53bf9eb44f832584f?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcc53bf9eb44f8325850?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcc5ae79610dacddcffd?utm_campaign=1056&utm_source=git)** | Bozeman, MT | On Site | Sep 06 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcc53bf9eb44f832584f?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcc43bf9eb44f8325844?utm_campaign=1056&utm_source=git)** | Clemson, SC | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfcbc68300c452ca17222?utm_campaign=1056&utm_source=git)** | Moscow, ID | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfcbc68300c452ca17221?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Sep 06 |
@@ -143,9 +145,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc953bf9eb44f83257d0?utm_campaign=1056&utm_source=git)** | Fort Dodge, IA | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc94ae79610dacddcf90?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc8d3bf9eb44f83257b5?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc85ae79610dacddcf6c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc853bf9eb44f83257a8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc85ae79610dacddcf6d?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Sep 06 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc85ae79610dacddcf6c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc7d3bf9eb44f832579d?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc7aae79610dacddcf52?utm_campaign=1056&utm_source=git)** | Castleton, VT | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc7968300c452ca17154?utm_campaign=1056&utm_source=git)** | Ottawa, KS | On Site | Sep 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc623bf9eb44f8325741?utm_campaign=1056&utm_source=git)** | Ellensburg, WA | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfc563bf9eb44f8325712?utm_campaign=1056&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc5368300c452ca170f6?utm_campaign=1056&utm_source=git)** | Orono, ME | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc4e68300c452ca170e8?utm_campaign=1056&utm_source=git)** | Thibodaux, LA | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfc4968300c452ca170d7?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
