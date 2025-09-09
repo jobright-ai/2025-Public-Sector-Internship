@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/68c04b598e65e77df55bfc67?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 09 |
+| **[Esurgi, Inc.](https://myesurgi.com/)** | **[Grant Writer Intern](https://jobright.ai/jobs/info/68c040738e65e77df55bf6e6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 09 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03f3f8e65e77df55bf60d?utm_campaign=1056&utm_source=git)** | USA - Pennsylvania - Philadelphia (Ludlow WeWork) | Hybrid | Sep 09 |
+| ↳ | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03df75c5d5f14f46dbf40?utm_campaign=1056&utm_source=git)** | USA - Georgia - Atlanta | Hybrid | Sep 09 |
+| ↳ | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03d6f702aa35207aab56a?utm_campaign=1056&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 09 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Corporate Giving Intern (Fall Internship)](https://jobright.ai/jobs/info/68c02dd0702aa35207aab070?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68c00ca8702aa35207aaa9f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Emergency Shelter Internship - Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/68c0264f8e65e77df55bee5b?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 09 |
@@ -115,6 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Engagement Internship (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68befa5f702aa35207aa1fe2?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 08 |
 | ↳ | **[Fall 2025 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/68befa515c5d5f14f46d298b?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 08 |
 | ↳ | **[Fall 2025 Home Study & Post Release Services (HSPRS) Intern - UNPAID](https://jobright.ai/jobs/info/68befa215c5d5f14f46d2955?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Sep 08 |
+| **[Logia Nonprofit Logistics](www.logialogistics.org)** | **[Grant writer Internship](https://jobright.ai/jobs/info/68c02e3e702aa35207aab0ce?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Sep 08 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/68beed268e65e77df55b58a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 08 |
 | ↳ | **[Intern, Member Support, U.S. Climate Alliance](https://jobright.ai/jobs/info/68bee74c702aa35207aa16bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 08 |
 | **[Augusta National Golf Club](https://www.masters.org)** | **[Community Impact Intern](https://jobright.ai/jobs/info/68bede88702aa35207aa11b6?utm_campaign=1056&utm_source=git)** | Augusta Office | On Site | Sep 08 |
@@ -123,9 +129,9 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68bea1c2e57feb02eb0af50c?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68be88c8c4c5904ff60070e3?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 08 |
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/68be87aec4c5904ff6006fb2?utm_campaign=1056&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be8396e57feb02eb0aeffe?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 08 |
 | **[United Nations University Centre for Policy Research (UNU-CPR)](https://cpr.unu.edu)** | **[Conflict Prevention and Sustaining Peace Global Fellow (Internship)](https://jobright.ai/jobs/info/68be7bee3d31ec76b7e8ab3d?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Sep 07 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68be7a2e3d31ec76b7e8ab04?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 07 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be6983e57feb02eb0ae547?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Public Affairs Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be4e1c3d31ec76b7e8970f?utm_campaign=1056&utm_source=git)** | Johnston, IA | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be42e2c4c5904ff6004d2f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1dae79610dacddd392?utm_campaign=1056&utm_source=git)** | Laramie, WY | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd383?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd385?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdf2ae79610dacddd32d?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfde8ae79610dacddd310?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfdd6ae79610dacddd2d7?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdbcae79610dacddd2a7?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdbcae79610dacddd2a9?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdb63bf9eb44f8325acc?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
