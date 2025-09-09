@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Corporate Giving Intern (Fall Internship)](https://jobright.ai/jobs/info/68c02dd0702aa35207aab070?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68c00ca8702aa35207aaa9f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
+| **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Emergency Shelter Internship - Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/68c0264f8e65e77df55bee5b?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 09 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c0284a8e65e77df55bef83?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/68c01e41702aa35207aaad18?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/68bff6ae702aa35207aaa650?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office | On Site | Sep 09 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, IPSP Department](https://jobright.ai/jobs/info/68bfc80d702aa35207aa9133?utm_campaign=1056&utm_source=git)** | United States | On Site | Sep 08 |
 | **[World Relief](https://worldrelief.org/)** | **[Resettlement Team (PC) - Duke Internship/Work Study (Part-time)](https://jobright.ai/jobs/info/68bfb69a702aa35207aa8b9c?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Sep 08 |
 | **[Allstate](http://www.allstate.com)** | **[Allstate Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68bf89ed5c5d5f14f46d7e1c?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
-| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68bf84ca8e65e77df55bb0be?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Sep 08 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Washington Operations Intern](https://jobright.ai/jobs/info/68bf83b6702aa35207aa70fd?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf81545c5d5f14f46d782d?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 08 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Environmental Program Support Specialist](https://jobright.ai/jobs/info/68bf7bd95c5d5f14f46d7450?utm_campaign=1056&utm_source=git)** | Fort Huachuca, AZ | On Site | Sep 08 |
@@ -82,8 +85,9 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf4859702aa35207aa513c?utm_campaign=1056&utm_source=git)** | Itasca, IL | On Site | Sep 08 |
 | ↳ | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf48285c5d5f14f46d5a95?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf46805c5d5f14f46d597f?utm_campaign=1056&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Sep 08 |
+| **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Year round)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 08 |
+| **[Fluid](https://getfluid.com)** | **[Political Intern](https://jobright.ai/jobs/info/68c02ff85c5d5f14f46dbbcd?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Sep 08 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/68bf2d885c5d5f14f46d47ec?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
-| **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Year-round)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 08 |
 | **[Allstate](http://www.allstate.com)** | **[Allstate Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68bf29e15c5d5f14f46d4620?utm_campaign=1056&utm_source=git)** | USA - IL (Remote) | Remote | Sep 08 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Emergency Shelter Internship - Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/68bf281c5c5d5f14f46d440e?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 08 |
 | **[Parks & Trails New York](http://www.ptny.org)** | **[Arthur V. Savage Intern](https://jobright.ai/jobs/info/68bf26d4702aa35207aa3867?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Sep 08 |
@@ -143,18 +147,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68be60f0e57feb02eb0ae18f?utm_campaign=1056&utm_source=git)** | Minot, ND | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68be58d6e57feb02eb0ade2d?utm_campaign=1056&utm_source=git)** | Williston, ND | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe76ae79610dacddd46b?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Program](https://jobright.ai/jobs/info/68bcfe65ae79610dacddd444?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe5eae79610dacddd434?utm_campaign=1056&utm_source=git)** | Wayne, NJ | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1dae79610dacddd392?utm_campaign=1056&utm_source=git)** | Laramie, WY | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd385?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd383?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Sep 06 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd385?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdf2ae79610dacddd32d?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfde8ae79610dacddd310?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfdd6ae79610dacddd2d7?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdbcae79610dacddd2a7?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdbcae79610dacddd2a9?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdb63bf9eb44f8325acc?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdb2ae79610dacddd289?utm_campaign=1056&utm_source=git)** | Wayne, PA | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfdb2ae79610dacddd28d?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfdacae79610dacddd27e?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
