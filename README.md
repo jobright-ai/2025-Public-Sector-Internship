@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts Life Sciences Center](http://www.masslifesciences.com)** | **[Internship, Economic Development & Partnerships](https://jobright.ai/jobs/info/68c063a25c5d5f14f46dd32f?utm_campaign=1056&utm_source=git)** | Waltham, MA | Hybrid | Sep 09 |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UN Women, Results-Based Management and PPG Intern](https://jobright.ai/jobs/info/68c061d6702aa35207aac986?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 09 |
+| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Political Engagement Internship](https://jobright.ai/jobs/info/68c05d0a702aa35207aac698?utm_campaign=1056&utm_source=git)** | Bloomington, IL | On Site | Sep 09 |
+| **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68c05677702aa35207aac397?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Sep 09 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/68c04b598e65e77df55bfc67?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 09 |
 | **[Esurgi, Inc.](https://myesurgi.com/)** | **[Grant Writer Intern](https://jobright.ai/jobs/info/68c040738e65e77df55bf6e6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03f3f8e65e77df55bf60d?utm_campaign=1056&utm_source=git)** | USA - Pennsylvania - Philadelphia (Ludlow WeWork) | Hybrid | Sep 09 |
@@ -144,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Nebraska Advocacy and Organizing Intern - Omaha, NE](https://jobright.ai/jobs/info/68bf762b8e65e77df55ba5e8?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/68be0e4ae57feb02eb0ac9d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 | **[Cycling Batteries Corporation](https://www.cyclingbatteries.com)** | **[You tube community development Mngr](https://jobright.ai/jobs/info/68be0e35e57feb02eb0ac9cf?utm_campaign=1056&utm_source=git)** | Chatham, NY | Hybrid | Sep 07 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Fall 2025)](https://jobright.ai/jobs/info/68be0e35df5eec448f63da2d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/68a1f967cc9ee94dc91243f2?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b7?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68bd7770df5eec448f63cc26?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68be58d6e57feb02eb0ade2d?utm_campaign=1056&utm_source=git)** | Williston, ND | On Site | Sep 06 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe76ae79610dacddd46b?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Sep 06 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe5eae79610dacddd434?utm_campaign=1056&utm_source=git)** | Wayne, NJ | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1dae79610dacddd392?utm_campaign=1056&utm_source=git)** | Laramie, WY | On Site | Sep 06 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd383?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Sep 06 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68bcfe1aae79610dacddd385?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
