@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68c1aafd233c7d3e64d03297?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Sep 10 |
+| **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68c1a1c5233c7d3e64d02f1f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 10 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19acc3fd8b059a20f0cb9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | ↳ | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c19a623fd8b059a20f0c5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 10 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19a433fd8b059a20f0c30?utm_campaign=1056&utm_source=git)** | Schaumburg, IL | On Site | Sep 10 |
@@ -76,15 +78,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5dd5c5d5f14f46e17ad?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Sep 09 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5a18e65e77df55c4f03?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Sep 09 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/68c0c48b8e65e77df55c43bd?utm_campaign=1056&utm_source=git)** | Appleton, WI | On Site | Sep 09 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68c0bfef702aa35207ab024e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68bb6b395f3832749186f01a?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Sep 09 |
 | **[Bayer](https://www.bayer.com)** | **[US Communications Co-Op](https://jobright.ai/jobs/info/68c0b36b5c5d5f14f46e0507?utm_campaign=1056&utm_source=git)** | Whippany, NJ | Hybrid | Sep 09 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst FT– 6420](https://jobright.ai/jobs/info/68c097108e65e77df55c2f24?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68c09357702aa35207aaecf2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c08959702aa35207aae65f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 09 |
 | **[Veridus LLC](https://www.veridus.com)** | **[Government Relations Intern: Spring Semester 2026](https://jobright.ai/jobs/info/68c08933702aa35207aae635?utm_campaign=1056&utm_source=git)** | Greater Phoenix Area | On Site | Sep 09 |
-| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c081d6702aa35207aae14d?utm_campaign=1056&utm_source=git)** | Plymouth, MI | Hybrid | Sep 09 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Policy & Analytics Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68c07fbc702aa35207aaddd7?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 09 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/68b233c6bc187f64e1bd9c9f?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 09 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Results-Based Management and PPG Intern](https://jobright.ai/jobs/info/68c06dc0702aa35207aad009?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 09 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - RGV (Immediate Opening)](https://jobright.ai/jobs/info/68c06d73702aa35207aacfc5?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | On Site | Sep 09 |
 | ↳ | **[Social Worker Intern - RGV (Immediate Opening)](https://jobright.ai/jobs/info/68c06b995c5d5f14f46dd776?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Sep 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/68bea3473d31ec76b7e8b347?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68bea1c2e57feb02eb0af50c?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68be88c8c4c5904ff60070e3?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 08 |
-| ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/68be87aec4c5904ff6006fb2?utm_campaign=1056&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
