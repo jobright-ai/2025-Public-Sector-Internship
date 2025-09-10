@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland® Resort External Affairs Intern, Spring 2026](https://jobright.ai/jobs/info/68c1f12433864f172f9bbdbe?utm_campaign=1056&utm_source=git)** | Anaheim, CA, USA | Hybrid | Sep 10 |
+| **[Strategic Partnerships, Inc.](https://spartnerships.com)** | **[Intern](https://jobright.ai/jobs/info/68c1f0c033864f172f9bbd24?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 10 |
+| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c1f00033864f172f9bbc40?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Sep 10 |
+| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68c1eafb4d652f044775b9ea?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Sep 10 |
+| **[Allstate](http://www.allstate.com)** | **[Allstater Impact and Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68c1e4274d652f044775b6c4?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Government Relations Intern, Spring 2026](https://jobright.ai/jobs/info/68c1e1e3233c7d3e64d05797?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 10 |
+| ↳ | **[Walt Disney World Corporate Social Responsibility Intern, Spring 2026](https://jobright.ai/jobs/info/68c1e0104d652f044775b313?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 10 |
+| **[SCO Family of Services](https://sco.org/)** | **[EARLY CHILDHOOD - SOCIAL WORK INTERN](https://jobright.ai/jobs/info/68c1ddf93fd8b059a20f380c?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Sep 10 |
 | **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68c1d568233c7d3e64d050e3?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 10 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Community Resource Manager (Volunteer)](https://jobright.ai/jobs/info/68c1d48a4d652f044775acd5?utm_campaign=1056&utm_source=git)** | New Haven, CT | Remote | Sep 10 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[PUBLIC HEALTH INTERN](https://jobright.ai/jobs/info/68c1d4524d652f044775ac84?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
@@ -80,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Development Intern (Western Reigon)](https://jobright.ai/jobs/info/68c10f97702aa35207ab31c4?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
 | ↳ | **[Development Intern (Eastern Reigion)](https://jobright.ai/jobs/info/68c135b84d652f0447756b11?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 09 |
 | **[Allstate](http://www.allstate.com)** | **[Allstater Impact and Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68c0ddc5702aa35207ab1373?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 09 |
-| **[Chesapeake Climate Action Network](https://www.chesapeakeclimate.org)** | **[Carol Brantley Policy Fellowship](https://jobright.ai/jobs/info/68c0ddc1702aa35207ab1371?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 09 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d7e3702aa35207ab10a3?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Sep 09 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d6d0702aa35207ab0f89?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Sep 09 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5dd5c5d5f14f46e17ad?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Sep 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supportive Housing Intern](https://jobright.ai/jobs/info/68beffb28e65e77df55b60f8?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Sep 08 |
 | ↳ | **[Mental Health Resource Guide Intern](https://jobright.ai/jobs/info/68befe1a8e65e77df55b5ffa?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 08 |
 | ↳ | **[Refugee Health & Social Integration Intern - Fall 2025](https://jobright.ai/jobs/info/68befd0a702aa35207aa225e?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Sep 08 |
-| ↳ | **[Fall Housing Support Intern](https://jobright.ai/jobs/info/68befcae5c5d5f14f46d2b0d?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
-| ↳ | **[Community Engagement Intern - Fall 2025](https://jobright.ai/jobs/info/68befc5f702aa35207aa21e7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 08 |
-| ↳ | **[Fall Resettlement Supplemental Services Intern](https://jobright.ai/jobs/info/68befc41702aa35207aa21d3?utm_campaign=1056&utm_source=git)** | Tucson, AZ | Hybrid | Sep 08 |
-| ↳ | **[Post Resettlement (NYSESRP) Program Intern (unpaid)](https://jobright.ai/jobs/info/68befc0a5c5d5f14f46d2aa4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Health and Wellness Intern - UNPAID](https://jobright.ai/jobs/info/68befa785c5d5f14f46d29ad?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
-| ↳ | **[Community Engagement Internship (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68befa5f702aa35207aa1fe2?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 08 |
-| **[Logia Nonprofit Logistics](www.logialogistics.org)** | **[Grant writer Internship](https://jobright.ai/jobs/info/68c02e3e702aa35207aab0ce?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
