@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68c1620b4d652f04477574e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
+| **[City of Minneapolis](https://www.minneapolismn.gov/)** | **[Public Works Internship](https://jobright.ai/jobs/info/68c16398233c7d3e64d018d2?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 10 |
 | **[repsol](http://www.repsol.com)** | **[Development Intern (Western Reigon)](https://jobright.ai/jobs/info/68c1150b5c5d5f14f46e3d0d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 09 |
 | ↳ | **[Development Intern (Eastern Reigion)](https://jobright.ai/jobs/info/68c10fe8702aa35207ab3236?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
 | ↳ | **[Development Intern (Western Reigon)](https://jobright.ai/jobs/info/68c10f97702aa35207ab31c4?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/68be87aec4c5904ff6006fb2?utm_campaign=1056&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be8396e57feb02eb0aeffe?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 08 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68c136474d652f0447756b7f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
-| **[United Nations University Centre for Policy Research (UNU-CPR)](https://cpr.unu.edu)** | **[Conflict Prevention and Sustaining Peace Global Fellow (Internship)](https://jobright.ai/jobs/info/68be7bee3d31ec76b7e8ab3d?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Sep 07 |
-| **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68be7a2e3d31ec76b7e8ab04?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 07 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
