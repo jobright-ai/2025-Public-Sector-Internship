@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c169cb4d652f0447757652?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68c1620b4d652f04477574e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | **[City of Minneapolis](https://www.minneapolismn.gov/)** | **[Public Works Internship](https://jobright.ai/jobs/info/68c16398233c7d3e64d018d2?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 10 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Political Engagement Internship](https://jobright.ai/jobs/info/68c05d0a702aa35207aac698?utm_campaign=1056&utm_source=git)** | Bloomington, IL | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68c05677702aa35207aac397?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Sep 09 |
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/68c04b598e65e77df55bfc67?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 09 |
-| **[Esurgi, Inc.](https://myesurgi.com/)** | **[Grant Writer Intern](https://jobright.ai/jobs/info/68c040738e65e77df55bf6e6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03f3f8e65e77df55bf60d?utm_campaign=1056&utm_source=git)** | USA - Pennsylvania - Philadelphia (Ludlow WeWork) | Hybrid | Sep 09 |
 | ↳ | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03df75c5d5f14f46dbf40?utm_campaign=1056&utm_source=git)** | USA - Georgia - Atlanta | Hybrid | Sep 09 |
 | ↳ | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c03d6f702aa35207aab56a?utm_campaign=1056&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 09 |
@@ -122,10 +122,10 @@ For a complete list, click the following sortable link below:
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf4859702aa35207aa513c?utm_campaign=1056&utm_source=git)** | Itasca, IL | On Site | Sep 08 |
 | ↳ | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf48285c5d5f14f46d5a95?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf46805c5d5f14f46d597f?utm_campaign=1056&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Sep 08 |
+| **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Year round)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 08 |
 | **[Long Island Coalition for the Homeless](http://addressthehomeless.org)** | **[CoC Intern](https://jobright.ai/jobs/info/68c11b785c5d5f14f46e3f60?utm_campaign=1056&utm_source=git)** | Amityville, NY | On Site | Sep 08 |
-| **[Fluid](https://getfluid.com)** | **[Political Intern](https://jobright.ai/jobs/info/68c02ff85c5d5f14f46dbbcd?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Sep 08 |
+| **[HONEY.inc](https://getfluid.com)** | **[Political Intern](https://jobright.ai/jobs/info/68c02ff85c5d5f14f46dbbcd?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Sep 08 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/68bf2d885c5d5f14f46d47ec?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
-| **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Year-round)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 08 |
 | **[Allstate](http://www.allstate.com)** | **[Allstate Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68bf29e15c5d5f14f46d4620?utm_campaign=1056&utm_source=git)** | USA - IL (Remote) | Remote | Sep 08 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Emergency Shelter Internship - Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/68bf281c5c5d5f14f46d440e?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 08 |
 | **[Parks & Trails New York](http://www.ptny.org)** | **[Arthur V. Savage Intern](https://jobright.ai/jobs/info/68bf26d4702aa35207aa3867?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Sep 08 |
