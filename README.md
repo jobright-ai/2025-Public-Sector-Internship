@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d7e3702aa35207ab10a3?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Sep 09 |
+| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d6d0702aa35207ab0f89?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Sep 09 |
+| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5dd5c5d5f14f46e17ad?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Sep 09 |
+| **[Men's Health Foundation](https://www.menshealthfound.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/68c0d5ae702aa35207ab0e87?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 09 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5a18e65e77df55c4f03?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Sep 09 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/68c0c48b8e65e77df55c43bd?utm_campaign=1056&utm_source=git)** | Appleton, WI | On Site | Sep 09 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Energy Security and Climate Change Program (Fall 2025)](https://jobright.ai/jobs/info/68c0bfef702aa35207ab024e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[Bayer](https://www.bayer.com)** | **[US Communications Co-Op](https://jobright.ai/jobs/info/68c0b36b5c5d5f14f46e0507?utm_campaign=1056&utm_source=git)** | Whippany, NJ | Hybrid | Sep 09 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst FT– 6420](https://jobright.ai/jobs/info/68c097108e65e77df55c2f24?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68c09357702aa35207aaecf2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
@@ -94,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[NexGen Contracting, A Gray Company](https://www.gray.com/self-perform-services/)** | **[Intern, IPSP Department](https://jobright.ai/jobs/info/68bf7b765c5d5f14f46d73ac?utm_campaign=1056&utm_source=git)** | US-Remote | Hybrid | Sep 08 |
 | **[Oklahoma Department of Human Services](https://oklahoma.gov/okdhs.html)** | **[Child Welfare Intern - Fall '25](https://jobright.ai/jobs/info/68bf7b275c5d5f14f46d7311?utm_campaign=1056&utm_source=git)** | Anytown, OK | Remote | Sep 08 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Communication Intern - Planning & Capital Development](https://jobright.ai/jobs/info/68b1820cbc187f64e1bd5271?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 08 |
+| **[Granite School District](http://www.graniteschools.org)** | **[Volunteer - Social Worker Intern](https://jobright.ai/jobs/info/68c0cd3a8e65e77df55c4880?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Sep 08 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Government Relations & Advocacy Intern](https://jobright.ai/jobs/info/68bf6f515c5d5f14f46d6e24?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 08 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Washington Operations Intern](https://jobright.ai/jobs/info/68bf6a0a5c5d5f14f46d6b56?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 08 |
 | **[CoBank](http://www.cobank.com/)** | **[Government Affairs Intern (Washington DC)](https://jobright.ai/jobs/info/68bf689d5c5d5f14f46d6a61?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 08 |
@@ -135,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68befb2e702aa35207aa20d6?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 08 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Health and Wellness Intern - UNPAID](https://jobright.ai/jobs/info/68befa785c5d5f14f46d29ad?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
 | ↳ | **[Community Engagement Internship (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68befa5f702aa35207aa1fe2?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Anti-Trafficking Casework Intern - UNPAID](https://jobright.ai/jobs/info/68befa515c5d5f14f46d298b?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 08 |
 | **[Logia Nonprofit Logistics](www.logialogistics.org)** | **[Grant writer Internship](https://jobright.ai/jobs/info/68c02e3e702aa35207aab0ce?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Sep 08 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/68beed268e65e77df55b58a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 08 |
 | ↳ | **[Intern, Member Support, U.S. Climate Alliance](https://jobright.ai/jobs/info/68bee74c702aa35207aa16bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be6983e57feb02eb0ae547?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Public Affairs Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be4e1c3d31ec76b7e8970f?utm_campaign=1056&utm_source=git)** | Johnston, IA | Hybrid | Sep 07 |
-| **[CBRE](https://www.cbre.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be42e2c4c5904ff6004d2f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
-| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Public Affairs Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be26eedf5eec448f63dbb7?utm_campaign=1056&utm_source=git)** | Delta Dental of Iowa | On Site | Sep 07 |
-| **[North Shore Strategies](https://nsstrategy.com)** | **[Political Intern](https://jobright.ai/jobs/info/68beff7e8e65e77df55b60d7?utm_campaign=1056&utm_source=git)** | Staten Island, NY | On Site | Sep 07 |
-| **[King County, WA](http://kingcounty.gov/)** | **[District 5 External Affairs Aide](https://jobright.ai/jobs/info/68bf6df9702aa35207aa644c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 07 |
-| **[City of Minneapolis](https://www.minneapolismn.gov/)** | **[Public Works Internship](https://jobright.ai/jobs/info/68bf67b05c5d5f14f46d6975?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
-| **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Nebraska Advocacy and Organizing Intern - Omaha, NE](https://jobright.ai/jobs/info/68bf762b8e65e77df55ba5e8?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
