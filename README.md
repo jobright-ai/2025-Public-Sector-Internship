@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68c1d568233c7d3e64d050e3?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 10 |
+| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Community Resource Manager (Volunteer)](https://jobright.ai/jobs/info/68c1d48a4d652f044775acd5?utm_campaign=1056&utm_source=git)** | New Haven, CT | Remote | Sep 10 |
+| **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[PUBLIC HEALTH INTERN](https://jobright.ai/jobs/info/68c1d4524d652f044775ac84?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
+| **[K&L Gates](http://www.klgates.com/)** | **[Govt Affairs Intern](https://jobright.ai/jobs/info/68c1cee9233c7d3e64d04854?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Advancement - Individual Giving Internship](https://jobright.ai/jobs/info/68c1cd293fd8b059a20f2866?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/68c1cc35233c7d3e64d04574?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Sep 10 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c1c0273fd8b059a20f2204?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 10 |
+| **[University of South Florida](http://www.usf.edu)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68c1bf673fd8b059a20f2185?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 10 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c1be944d652f0447759b3f?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Sep 10 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68c1aafd233c7d3e64d03297?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Sep 10 |
-| **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68c1a1c5233c7d3e64d02f1f?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 10 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19acc3fd8b059a20f0cb9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | ↳ | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c19a623fd8b059a20f0c5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 10 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19a433fd8b059a20f0c30?utm_campaign=1056&utm_source=git)** | Schaumburg, IL | On Site | Sep 10 |
@@ -127,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf46805c5d5f14f46d597f?utm_campaign=1056&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Sep 08 |
 | **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Year round)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 08 |
 | **[Long Island Coalition for the Homeless](http://addressthehomeless.org)** | **[CoC Intern](https://jobright.ai/jobs/info/68c11b785c5d5f14f46e3f60?utm_campaign=1056&utm_source=git)** | Amityville, NY | On Site | Sep 08 |
-| **[HONEY.inc](https://getfluid.com)** | **[Political Intern](https://jobright.ai/jobs/info/68c02ff85c5d5f14f46dbbcd?utm_campaign=1056&utm_source=git)** | SLC Metro Area | Hybrid | Sep 08 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/68bf2d885c5d5f14f46d47ec?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Allstate](http://www.allstate.com)** | **[Allstate Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68bf29e15c5d5f14f46d4620?utm_campaign=1056&utm_source=git)** | USA - IL (Remote) | Remote | Sep 08 |
 | **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Emergency Shelter Internship - Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/68bf281c5c5d5f14f46d440e?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Health and Wellness Intern - UNPAID](https://jobright.ai/jobs/info/68befa785c5d5f14f46d29ad?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
 | ↳ | **[Community Engagement Internship (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68befa5f702aa35207aa1fe2?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 08 |
 | **[Logia Nonprofit Logistics](www.logialogistics.org)** | **[Grant writer Internship](https://jobright.ai/jobs/info/68c02e3e702aa35207aab0ce?utm_campaign=1056&utm_source=git)** | Chattanooga, TN | On Site | Sep 08 |
-| **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Policy, U.S. Climate Alliance](https://jobright.ai/jobs/info/68beed268e65e77df55b58a0?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 08 |
-| ↳ | **[Intern, Member Support, U.S. Climate Alliance](https://jobright.ai/jobs/info/68bee74c702aa35207aa16bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 08 |
-| **[Augusta National Golf Club](https://www.masters.org)** | **[Community Impact Intern](https://jobright.ai/jobs/info/68bede88702aa35207aa11b6?utm_campaign=1056&utm_source=git)** | Augusta Office | On Site | Sep 08 |
-| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Corporate Affairs (Communications, Government Affairs, Community Engagement, Sustainability)](https://jobright.ai/jobs/info/68a2d9fbda4b7a7e730743d4?utm_campaign=1056&utm_source=git)** | McLean, VA | On Site | Sep 08 |
-| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Procurement & Contracts](https://jobright.ai/jobs/info/68bea3473d31ec76b7e8b347?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68bea1c2e57feb02eb0af50c?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Sep 08 |
-| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68be88c8c4c5904ff60070e3?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
