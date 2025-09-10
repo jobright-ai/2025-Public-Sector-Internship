@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19acc3fd8b059a20f0cb9?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
+| ↳ | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c19a623fd8b059a20f0c5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 10 |
+| ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19a433fd8b059a20f0c30?utm_campaign=1056&utm_source=git)** | Schaumburg, IL | On Site | Sep 10 |
+| **[Indiana Builders Association, Inc.](http://www.buildindiana.org)** | **[Governmental Affairs Internship](https://jobright.ai/jobs/info/68c191b6233c7d3e64d02568?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c169cb4d652f0447757652?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68c1620b4d652f04477574e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
@@ -77,12 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Bayer](https://www.bayer.com)** | **[US Communications Co-Op](https://jobright.ai/jobs/info/68c0b36b5c5d5f14f46e0507?utm_campaign=1056&utm_source=git)** | Whippany, NJ | Hybrid | Sep 09 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst FT– 6420](https://jobright.ai/jobs/info/68c097108e65e77df55c2f24?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68c09357702aa35207aaecf2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
-| **[Early Learning Essentials](http://eleutah.org/)** | **[Community Involvement Internship](https://jobright.ai/jobs/info/68c092f25c5d5f14f46df611?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Sep 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c08959702aa35207aae65f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 09 |
 | **[Veridus LLC](https://www.veridus.com)** | **[Government Relations Intern: Spring Semester 2026](https://jobright.ai/jobs/info/68c08933702aa35207aae635?utm_campaign=1056&utm_source=git)** | Greater Phoenix Area | On Site | Sep 09 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c081d6702aa35207aae14d?utm_campaign=1056&utm_source=git)** | Plymouth, MI | Hybrid | Sep 09 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Policy & Analytics Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68c07fbc702aa35207aaddd7?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c07d188e65e77df55c1b33?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 09 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Results-Based Management and PPG Intern](https://jobright.ai/jobs/info/68c06dc0702aa35207aad009?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 09 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - RGV (Immediate Opening)](https://jobright.ai/jobs/info/68c06d73702aa35207aacfc5?utm_campaign=1056&utm_source=git)** | Hidalgo County, TX | On Site | Sep 09 |
 | ↳ | **[Social Worker Intern - RGV (Immediate Opening)](https://jobright.ai/jobs/info/68c06b995c5d5f14f46dd776?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Sep 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68bea1c2e57feb02eb0af50c?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68be88c8c4c5904ff60070e3?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 08 |
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/68be87aec4c5904ff6006fb2?utm_campaign=1056&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be8396e57feb02eb0aeffe?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 08 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68c136474d652f0447756b7f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
