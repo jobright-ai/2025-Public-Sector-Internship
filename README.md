@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bayer](https://www.bayer.com)** | **[US Communications Co-Op](https://jobright.ai/jobs/info/68c0b36b5c5d5f14f46e0507?utm_campaign=1056&utm_source=git)** | Whippany, NJ | Hybrid | Sep 09 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst FT– 6420](https://jobright.ai/jobs/info/68c097108e65e77df55c2f24?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68c09357702aa35207aaecf2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[Early Learning Essentials](http://eleutah.org/)** | **[Community Involvement Internship](https://jobright.ai/jobs/info/68c092f25c5d5f14f46df611?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Sep 09 |
@@ -144,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68bea1c2e57feb02eb0af50c?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68be88c8c4c5904ff60070e3?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 08 |
 | ↳ | **[Intern-Govt Affairs & Corp Communications](https://jobright.ai/jobs/info/68be87aec4c5904ff6006fb2?utm_campaign=1056&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be8396e57feb02eb0aeffe?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 08 |
 | **[United Nations University Centre for Policy Research (UNU-CPR)](https://cpr.unu.edu)** | **[Conflict Prevention and Sustaining Peace Global Fellow (Internship)](https://jobright.ai/jobs/info/68be7bee3d31ec76b7e8ab3d?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Sep 07 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68be7a2e3d31ec76b7e8ab04?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 07 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Community Engagement Intern: Starts January 2026](https://jobright.ai/jobs/info/68be6983e57feb02eb0ae547?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Public Affairs Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68be4e1c3d31ec76b7e8970f?utm_campaign=1056&utm_source=git)** | Johnston, IA | Hybrid | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be42e2c4c5904ff6004d2f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[King County, WA](http://kingcounty.gov/)** | **[District 5 External Affairs Aide](https://jobright.ai/jobs/info/68bf6df9702aa35207aa644c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Sep 07 |
 | **[City of Minneapolis](https://www.minneapolismn.gov/)** | **[Public Works Internship](https://jobright.ai/jobs/info/68bf67b05c5d5f14f46d6975?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 07 |
 | **[Planned Parenthood North Central States](http://www.ppncsorg)** | **[Nebraska Advocacy and Organizing Intern - Omaha, NE](https://jobright.ai/jobs/info/68bf762b8e65e77df55ba5e8?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/68be0e4ae57feb02eb0ac9d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
