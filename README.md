@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Special Recreation SEA](https://jobright.ai/jobs/info/68c21e7063b706703e111ba4?utm_campaign=1056&utm_source=git)** | Waukegan, IL, USA | On Site | Sep 10 |
+| **[Krieg DeVault LLP](http://kriegdevault.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68c21d414d652f044775d2c7?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
+| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c2102d63b706703e1114fe?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Sep 10 |
+| **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/68c20f4e4d652f044775ccfd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
+| ↳ | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68c20e6a4d652f044775cc3e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Advancement - Individual Giving Internship](https://jobright.ai/jobs/info/68c20e574d652f044775cc2a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[Children's Aid](https://www.childrensaidnyc.org)** | **[Prevention Intern](https://jobright.ai/jobs/info/68c20dcd4d652f044775cbc9?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[State of Arizona](https://az.gov/)** | **[PUBLIC HEALTH INTERN](https://jobright.ai/jobs/info/68c20cfd4d652f044775cb1f?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c20bc163b706703e1113dc?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 10 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c20a7f63b706703e111230?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68c209ad63b706703e11114e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c205c163b706703e111073?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 10 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Sep 10 |
 | **[Kidsave](https://www.kidsave.org)** | **[Child Advocate Intern - Weekend Miracles VA](https://jobright.ai/jobs/info/68c1f89b63b706703e110acc?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 10 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68c1f5d04d652f044775c1af?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 10 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Cincinnati Fire Department Cadet Program Youth Program/Education Fund Grant Writer](https://jobright.ai/jobs/info/68c1f5b933864f172f9bbfd3?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 10 |
@@ -101,7 +108,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d6d0702aa35207ab0f89?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Sep 09 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5dd5c5d5f14f46e17ad?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Sep 09 |
 | ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5a18e65e77df55c4f03?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Sep 09 |
+| **[King County, WA](http://kingcounty.gov/)** | **[Victim Advocate-INTERNAL candidates only](https://jobright.ai/jobs/info/68c211b533864f172f9bccb4?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 09 |
+| **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Special Recreation SEA](https://jobright.ai/jobs/info/68c2195633864f172f9bcf2b?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 09 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/68c0c48b8e65e77df55c43bd?utm_campaign=1056&utm_source=git)** | Appleton, WI | On Site | Sep 09 |
+| **[NC Office of State Human Resources](https://oshr.nc.gov/)** | **[Spring 2026 Probation/Parole Intern, DAC - Community Supervision](https://jobright.ai/jobs/info/68a3ac2137d3cc6b0d578b21?utm_campaign=1056&utm_source=git)** | Apex, NC | On Site | Sep 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68bb6b395f3832749186f01a?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Sep 09 |
 | **[Bayer](https://www.bayer.com)** | **[US Communications Co-Op](https://jobright.ai/jobs/info/68c0b36b5c5d5f14f46e0507?utm_campaign=1056&utm_source=git)** | Whippany, NJ | Hybrid | Sep 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68bb6c616105227d118a5de6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 09 |
@@ -144,17 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68bf681f702aa35207aa61cf?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Sep 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68bf67265c5d5f14f46d690f?utm_campaign=1056&utm_source=git)** | Morehead, KY | On Site | Sep 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68bf6632702aa35207aa5f91?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Sep 08 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68bf64c88e65e77df55b9db2?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 08 |
-| ↳ | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68bf592e702aa35207aa590f?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Sep 08 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68bf592e702aa35207aa590f?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Sep 08 |
 | **[Transamerica](http://www.transamerica.com)** | **[iLEAD Finance Leadership Summit (May 2026)](https://jobright.ai/jobs/info/68bf5106702aa35207aa563e?utm_campaign=1056&utm_source=git)** | Cedar Rapids, Iowa | Hybrid | Sep 08 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf4859702aa35207aa513c?utm_campaign=1056&utm_source=git)** | Itasca, IL | On Site | Sep 08 |
-| ↳ | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf48285c5d5f14f46d5a95?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf46805c5d5f14f46d597f?utm_campaign=1056&utm_source=git)** | 8400 Normandale Lake Boulevard, Minneapolis, MN, 55437, US | On Site | Sep 08 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87c1?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Sep 08 |
-| **[BWXT](http://www.bwxt.com/)** | **[Intern -- Corrective Actions Program (Year round)](https://jobright.ai/jobs/info/68bae8d06105227d118a1595?utm_campaign=1056&utm_source=git)** | Erwin, TN | On Site | Sep 08 |
-| **[Long Island Coalition for the Homeless](http://addressthehomeless.org)** | **[CoC Intern](https://jobright.ai/jobs/info/68c11b785c5d5f14f46e3f60?utm_campaign=1056&utm_source=git)** | Amityville, NY | On Site | Sep 08 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[GOVERNMENT SERVICES LEGISLATIVE INTERN (Indianapolis)](https://jobright.ai/jobs/info/68bf2d885c5d5f14f46d47ec?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
-| **[Allstate](http://www.allstate.com)** | **[Allstate Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68bf29e15c5d5f14f46d4620?utm_campaign=1056&utm_source=git)** | USA - IL (Remote) | Remote | Sep 08 |
-| **[A Safe Place](http://www.asafeplaceforhelp.org)** | **[Emergency Shelter Internship - Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/68bf281c5c5d5f14f46d440e?utm_campaign=1056&utm_source=git)** | Waukegan, IL | On Site | Sep 08 |
-| **[Parks & Trails New York](http://www.ptny.org)** | **[Arthur V. Savage Intern](https://jobright.ai/jobs/info/68bf26d4702aa35207aa3867?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
