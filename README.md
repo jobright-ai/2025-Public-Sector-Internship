@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lone Mountain Strategies](lms-temp.com)** | **[Political Campaign Relations Associate (GOP)](https://jobright.ai/jobs/info/68c2491363b706703e1134cb?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68c230474d652f044775daf4?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Sep 10 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Special Recreation SEA](https://jobright.ai/jobs/info/68c21e7063b706703e111ba4?utm_campaign=1056&utm_source=git)** | Waukegan, IL, USA | On Site | Sep 10 |
 | **[Krieg DeVault LLP](http://kriegdevault.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68c21d414d652f044775d2c7?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c19a623fd8b059a20f0c5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 10 |
 | ↳ | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c19a433fd8b059a20f0c30?utm_campaign=1056&utm_source=git)** | Schaumburg, IL | On Site | Sep 10 |
 | **[Indiana Builders Association, Inc.](http://www.buildindiana.org)** | **[Governmental Affairs Internship](https://jobright.ai/jobs/info/68c191b6233c7d3e64d02568?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
+| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c251df33864f172f9bf21a?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | Sep 10 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c169cb4d652f0447757652?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68c1620b4d652f04477574e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68a525c2b6a3617d7fa6eeb4?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
@@ -142,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[PATH](http://www.path.org/)** | **[Epidemic Preparedness and Response Intern](https://jobright.ai/jobs/info/68bff6ae702aa35207aaa650?utm_campaign=1056&utm_source=git)** | United States, Washington DC Headquarters Office | On Site | Sep 09 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, IPSP Department](https://jobright.ai/jobs/info/68bfc80d702aa35207aa9133?utm_campaign=1056&utm_source=git)** | United States | On Site | Sep 08 |
 | **[World Relief](https://worldrelief.org/)** | **[Resettlement Team (PC) - Duke Internship/Work Study (Part-time)](https://jobright.ai/jobs/info/68bfb69a702aa35207aa8b9c?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Sep 08 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6812661b270f9f79c74803b0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Washington Operations Intern](https://jobright.ai/jobs/info/68bf83b6702aa35207aa70fd?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 08 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health, Equity and Wellbeing (HEW) Internship - Multiple Locations - Summer 2026](https://jobright.ai/jobs/info/68bf81545c5d5f14f46d782d?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 08 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Environmental Program Support Specialist](https://jobright.ai/jobs/info/68bf7bd95c5d5f14f46d7450?utm_campaign=1056&utm_source=git)** | Fort Huachuca, AZ | On Site | Sep 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68bf67265c5d5f14f46d690f?utm_campaign=1056&utm_source=git)** | Morehead, KY | On Site | Sep 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68bf6632702aa35207aa5f91?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Sep 08 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68bf592e702aa35207aa590f?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Sep 08 |
-| **[Transamerica](http://www.transamerica.com)** | **[iLEAD Finance Leadership Summit (May 2026)](https://jobright.ai/jobs/info/68bf5106702aa35207aa563e?utm_campaign=1056&utm_source=git)** | Cedar Rapids, Iowa | Hybrid | Sep 08 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf4859702aa35207aa513c?utm_campaign=1056&utm_source=git)** | Itasca, IL | On Site | Sep 08 |
-| ↳ | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68bf48285c5d5f14f46d5a95?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
