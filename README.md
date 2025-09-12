@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Professional Staff Internship](https://jobright.ai/jobs/info/68c385deb8c22d3828472858?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
+| **[State of Utah](http://www.utah.gov/)** | **[Legislative Intern Coordinator](https://jobright.ai/jobs/info/68c384e0b8c22d3828472719?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Sep 11 |
+| **[EveryMind.](https://www.every-mind.org)** | **[Internship: Advocacy](https://jobright.ai/jobs/info/68c381c96031587f8458b63b?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Sep 11 |
+| **[City of Pueblo](www.pueblo.us)** | **[Intern - Police Dept, Recruitment and Training](https://jobright.ai/jobs/info/68c382c2b8c22d38284724d2?utm_campaign=1056&utm_source=git)** | Pueblo, CO | On Site | Sep 11 |
 | **[City of Veneta, Oregon](http://www.venetaoregon.gov)** | **[City Management & Communications Intern](https://jobright.ai/jobs/info/68c35f906031587f8458a44e?utm_campaign=1056&utm_source=git)** | Veneta, OR | On Site | Sep 11 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/68c3455a63829b0a8a501919?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Sep 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[CENTER FOR ECONOMIC RESEARCH IN TENNESSEE (CERT) SPRING 2026 INTERN - 71264](https://jobright.ai/jobs/info/68c33a3b5001f8077bf625f8?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | Sep 11 |
@@ -154,8 +158,4 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 | **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68bb6c616105227d118a5de6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 09 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst FT– 6420](https://jobright.ai/jobs/info/68c097108e65e77df55c2f24?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68c09357702aa35207aaecf2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 09 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/68c08959702aa35207aae65f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 09 |
-| **[Veridus LLC](https://www.veridus.com)** | **[Government Relations Intern: Spring Semester 2026](https://jobright.ai/jobs/info/68c08933702aa35207aae635?utm_campaign=1056&utm_source=git)** | Greater Phoenix Area | On Site | Sep 09 |
-| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Policy & Analytics Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68c07fbc702aa35207aaddd7?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[North Canyon Network of Care](https://www.northcanyon.org)** | **[Intern Student Social Worker / PRN](https://jobright.ai/jobs/info/68c29ba303b99f6b34297372?utm_campaign=1056&utm_source=git)** | North Canyon Medical Center | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
