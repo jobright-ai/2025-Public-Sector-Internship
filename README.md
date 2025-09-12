@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68c492cde471ef3ce16d7840?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 12 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Environmental Affairs Intern
+Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 12 |
+| **[Georgia Chamber of Commerce](https://www.gachamber.com)** | **[Georgia Chamber Government Affairs Intern](https://jobright.ai/jobs/info/68c48a9d14bb275ce0194790?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 12 |
+| **[Nemours](http://www.nemours.org)** | **[Intern-Corporate advocacy-Nemours National Office of Policy and Prevention](https://jobright.ai/jobs/info/68c4891d14bb275ce0194611?utm_campaign=1056&utm_source=git)** | 1201 15th St NW, Washington, DC, 20005, US | On Site | Sep 12 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Environmental Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68c482d4e396b25cb5c68c40?utm_campaign=1056&utm_source=git)** | Atlanta GA | Hybrid | Sep 12 |
 | **[Cooley Public Strategies](https://cooleypublicstrategies.com)** | **[Spring or Summer Public Affairs Intern -  In-person/Nashville](https://jobright.ai/jobs/info/68c44da1e396b25cb5c66b50?utm_campaign=1056&utm_source=git)** | Brentwood, TN | On Site | Sep 12 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/68c4388414bb275ce0191a68?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 12 |
 | **[Appalachian Mountain Club](http://www.outdoors.org/)** | **[Massachusetts Conservation Policy Intern](https://jobright.ai/jobs/info/68c43677e471ef3ce16d45a9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Hybrid | Sep 12 |
@@ -70,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Advocacy](https://jobright.ai/jobs/info/68c381c96031587f8458b63b?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Sep 11 |
 | **[Horizon Health Services](https://www.horizon-health.org/)** | **[Peer Advocate Internship](https://jobright.ai/jobs/info/68c44f8414bb275ce01922d4?utm_campaign=1056&utm_source=git)** | Getzville, NY | On Site | Sep 11 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5e004f4e41a61efd91689?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Sep 11 |
-| **[City of Pueblo](www.pueblo.us)** | **[Intern - Police Dept, Recruitment and Training](https://jobright.ai/jobs/info/68c382c2b8c22d38284724d2?utm_campaign=1056&utm_source=git)** | Pueblo, CO | On Site | Sep 11 |
 | **[City of Veneta, Oregon](http://www.venetaoregon.gov)** | **[City Management & Communication Intern](https://jobright.ai/jobs/info/68c35f906031587f8458a44e?utm_campaign=1056&utm_source=git)** | Veneta, OR | On Site | Sep 11 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/68c3455a63829b0a8a501919?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Sep 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[CENTER FOR ECONOMIC RESEARCH IN TENNESSEE (CERT) SPRING 2026 INTERN - 71264](https://jobright.ai/jobs/info/68c33a3b5001f8077bf625f8?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | Sep 11 |
@@ -154,8 +159,4 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 | ↳ | **[Development Intern (Eastern Reigion)](https://jobright.ai/jobs/info/68c10fe8702aa35207ab3236?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
 | ↳ | **[Development Intern (Western Reigon)](https://jobright.ai/jobs/info/68c10f97702aa35207ab31c4?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
 | ↳ | **[Development Intern (Eastern Reigion)](https://jobright.ai/jobs/info/68c135b84d652f0447756b11?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 09 |
-| **[THE WALT DISNEY COMPANY NORDIC AB](https://thewaltdisneycompany.com/)** | **[Walt Disney World Corporate Social Responsibility Intern, Spring 2026](https://jobright.ai/jobs/info/68c41f5c14bb275ce019119c?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 09 |
-| ↳ | **[Disneyland® Resort External Affairs Intern, Spring 2026](https://jobright.ai/jobs/info/68c41efde396b25cb5c65a69?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Sep 09 |
-| ↳ | **[Walt Disney World Government Relations Intern, Spring 2026](https://jobright.ai/jobs/info/68c41e7814bb275ce019111c?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 09 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d7e3702aa35207ab10a3?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
