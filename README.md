@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cooley Public Strategies](https://cooleypublicstrategies.com)** | **[Spring or Summer Public Affairs Intern -  In-person/Nashville](https://jobright.ai/jobs/info/68c44da1e396b25cb5c66b50?utm_campaign=1056&utm_source=git)** | Brentwood, TN | On Site | Sep 12 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/68c4388414bb275ce0191a68?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 12 |
 | **[Appalachian Mountain Club](http://www.outdoors.org/)** | **[Massachusetts Conservation Policy Intern](https://jobright.ai/jobs/info/68c43677e471ef3ce16d45a9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Hybrid | Sep 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68c41d0a14bb275ce0191033?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Sep 12 |
@@ -67,8 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Professional Staff Internship](https://jobright.ai/jobs/info/68c385deb8c22d3828472858?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
 | **[State of Utah](http://www.utah.gov/)** | **[Legislative Intern Coordinator](https://jobright.ai/jobs/info/68c384e0b8c22d3828472719?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Sep 11 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Advocacy](https://jobright.ai/jobs/info/68c381c96031587f8458b63b?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Sep 11 |
+| **[Horizon Health Services](https://www.horizon-health.org/)** | **[Peer Advocate Internship](https://jobright.ai/jobs/info/68c44f8414bb275ce01922d4?utm_campaign=1056&utm_source=git)** | Getzville, NY | On Site | Sep 11 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5e004f4e41a61efd91689?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Sep 11 |
 | **[City of Pueblo](www.pueblo.us)** | **[Intern - Police Dept, Recruitment and Training](https://jobright.ai/jobs/info/68c382c2b8c22d38284724d2?utm_campaign=1056&utm_source=git)** | Pueblo, CO | On Site | Sep 11 |
-| **[City of Veneta, Oregon](http://www.venetaoregon.gov)** | **[City Management & Communications Intern](https://jobright.ai/jobs/info/68c35f906031587f8458a44e?utm_campaign=1056&utm_source=git)** | Veneta, OR | On Site | Sep 11 |
+| **[City of Veneta, Oregon](http://www.venetaoregon.gov)** | **[City Management & Communication Intern](https://jobright.ai/jobs/info/68c35f906031587f8458a44e?utm_campaign=1056&utm_source=git)** | Veneta, OR | On Site | Sep 11 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/68c3455a63829b0a8a501919?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Sep 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[CENTER FOR ECONOMIC RESEARCH IN TENNESSEE (CERT) SPRING 2026 INTERN - 71264](https://jobright.ai/jobs/info/68c33a3b5001f8077bf625f8?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | Sep 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c3340563829b0a8a500cfd?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | Sep 11 |
@@ -98,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Policy Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68917623f47efe211395587c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - United Nations Sustainable Development Group System-Wide Evaluation Office
 Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 11 |
+| **[City of Pueblo - Police Department](http://pueblo.us/cgi-bin/gt/tpl_page.html,template=16&content=1601&nav1=1&)** | **[Intern - Police Dept, Recruitment and Training](https://jobright.ai/jobs/info/68c45f1ee471ef3ce16d58f9?utm_campaign=1056&utm_source=git)** | Pueblo, CO | On Site | Sep 11 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Youth Environmental Advocate Intern](https://jobright.ai/jobs/info/68984904faa4e875e824d046?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68c3eb9014bb275ce0190017?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 10 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c1cee9233c7d3e64d04854?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
@@ -126,7 +130,7 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 | **[Kidsave](https://www.kidsave.org)** | **[Child Advocate Intern - Weekend Miracles VA](https://jobright.ai/jobs/info/68c1f89b63b706703e110acc?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 10 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Cincinnati Fire Department Cadet Program Youth Program/Education Fund Grant Writer](https://jobright.ai/jobs/info/68c1f5b933864f172f9bbfd3?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland® Resort External Affairs Intern, Spring 2026](https://jobright.ai/jobs/info/68c1f12433864f172f9bbdbe?utm_campaign=1056&utm_source=git)** | Anaheim, CA, USA | Hybrid | Sep 10 |
-| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c1f00033864f172f9bbc40?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Sep 10 |
+| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c1ef8c63b706703e1105c2?utm_campaign=1056&utm_source=git)** | St. Louis, MO | On Site | Sep 10 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68c1eafb4d652f044775b9ea?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Sep 10 |
 | **[Allstate](http://www.allstate.com)** | **[Allstater Impact and Engagement and Foundation Operations Intern](https://jobright.ai/jobs/info/68c1e4274d652f044775b6c4?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Government Relations Intern, Spring 2026](https://jobright.ai/jobs/info/68c1e1e3233c7d3e64d05797?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 10 |
@@ -154,8 +158,4 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 | ↳ | **[Disneyland® Resort External Affairs Intern, Spring 2026](https://jobright.ai/jobs/info/68c41efde396b25cb5c65a69?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Sep 09 |
 | ↳ | **[Walt Disney World Government Relations Intern, Spring 2026](https://jobright.ai/jobs/info/68c41e7814bb275ce019111c?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 09 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d7e3702aa35207ab10a3?utm_campaign=1056&utm_source=git)** | Brookings, SD | On Site | Sep 09 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d6d0702aa35207ab0f89?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Sep 09 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5dd5c5d5f14f46e17ad?utm_campaign=1056&utm_source=git)** | Watertown, SD | On Site | Sep 09 |
-| ↳ | **[Intern - Child Protection Services (Summer)](https://jobright.ai/jobs/info/68c0d5a18e65e77df55c4f03?utm_campaign=1056&utm_source=git)** | Huron, SD | On Site | Sep 09 |
-| **[King County, WA](http://kingcounty.gov/)** | **[Victim Advocate-INTERNAL candidates only](https://jobright.ai/jobs/info/68c211b533864f172f9bccb4?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
