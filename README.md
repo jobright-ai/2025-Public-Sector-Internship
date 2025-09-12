@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communicatioms & Public Affairs (MBA)](https://jobright.ai/jobs/info/68c3dc72e396b25cb5c642e5?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 12 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5dd281ade4306aa6436aa?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Sep 12 |
 | **[Groma](https://groma.com/)** | **[Policy Summer Associate (2026)](https://jobright.ai/jobs/info/68ae1c79758f2e4ac30115f8?utm_campaign=1056&utm_source=git)** | Boston | On Site | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communicatioms & Public Affairs (MBA)](https://jobright.ai/jobs/info/68c3b1d16031587f8458db99?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Professional Staff Internship](https://jobright.ai/jobs/info/68c385deb8c22d3828472858?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
@@ -157,5 +158,4 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/68bb6b395f3832749186f01a?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Sep 09 |
 | **[Bayer](https://www.bayer.com)** | **[US Communications Co-Op](https://jobright.ai/jobs/info/68c0b36b5c5d5f14f46e0507?utm_campaign=1056&utm_source=git)** | Whippany, NJ | Hybrid | Sep 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Community Engagement and Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68bb6c616105227d118a5de6?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 09 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[MWR Program Analyst FT– 6420](https://jobright.ai/jobs/info/68c097108e65e77df55c2f24?utm_campaign=1056&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
