@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Duluth](https://www.duluthmn.gov)** | **[Community Service Officer Intern (Non-Union)](https://jobright.ai/jobs/info/68c5accedb52c07d28843923?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Sep 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c5558fc96a22563ece86f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 13 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68c5460fc96a22563ece83bd?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 13 |
 | **[New York City Department of Investigation](http://www.nyc.gov/doi)** | **[College Aide](https://jobright.ai/jobs/info/68c53a4ec96a22563ece7ec0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 12 |
@@ -129,7 +130,6 @@ Job ID : 264139](https://jobright.ai/jobs/info/68c505fec96a22563ece60b2?utm_camp
 | **[Amtrak](https://www.amtrak.com/)** | **[Fall 2025 & Spring 2026 - Government Affairs (Federal and External Affairs) - 90290801 - Washington](https://jobright.ai/jobs/info/68a6746e33dd7158bbca00dc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Community Resource Manager (Internship/Volunteer)](https://jobright.ai/jobs/info/68c1d48a4d652f044775acd5?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 11 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern for the Mid-Atlantic](https://jobright.ai/jobs/info/688993619f961617fe215aa1?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 11 |
-| **[Community Access](https://www.communityaccess.org)** | **[Health and Wellness Housing Intern](https://jobright.ai/jobs/info/68c54f817d0db4114273387c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2025 Fall Internship Application](https://jobright.ai/jobs/info/6887ef59fbbf032d00077a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68c2bff55001f8077bf5db70?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c1cee9233c7d3e64d04854?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
