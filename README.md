@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York City Department of Investigation](http://www.nyc.gov/doi)** | **[College Aide](https://jobright.ai/jobs/info/68c53a4ec96a22563ece7ec0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68c4f400db52c07d2883eb0c?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 12 |
-| **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68c4f3f17d0db4114272ffa1?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 12 |
 | **[Alzheimer's Association Connecticut Chapter](http://alz.org/ct)** | **[Alzheimer's Association Office Volunteers](https://jobright.ai/jobs/info/68c4e92d7d0db4114272f113?utm_campaign=1056&utm_source=git)** | Farmington, CT | On Site | Sep 12 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68c4e8dddb52c07d2883dbb9?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Sep 12 |
 | ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68c4e836c96a22563ece3b3c?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Sep 12 |
