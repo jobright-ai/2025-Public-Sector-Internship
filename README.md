@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68c5d4c37d0db41142735219?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 13 |
 | **[City of Duluth](https://www.duluthmn.gov)** | **[Community Service Officer Intern (Non-Union)](https://jobright.ai/jobs/info/68c5accedb52c07d28843923?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Sep 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c5558fc96a22563ece86f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 13 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68c5460fc96a22563ece83bd?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 13 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68c4f400db52c07d2883eb0c?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 12 |
 | **[Alzheimer's Association Connecticut Chapter](http://alz.org/ct)** | **[Alzheimer's Association Office Volunteers](https://jobright.ai/jobs/info/68c4e92d7d0db4114272f113?utm_campaign=1056&utm_source=git)** | Farmington, CT | On Site | Sep 12 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68c4e8dddb52c07d2883dbb9?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Sep 12 |
-| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68c4e836c96a22563ece3b3c?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Sep 12 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Corporate advocacy-Nemours National Office of Policy and Prevention](https://jobright.ai/jobs/info/68c4c8a731e5763f188e3966?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 12 |
 | **[City of Greeley](https://greeleygov.com)** | **[Emergency Management Intern II/III](https://jobright.ai/jobs/info/68c4b32e7279451d6a036fb5?utm_campaign=1056&utm_source=git)** | Greeley, CO | On Site | Sep 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68c49e57e471ef3ce16d7c9e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
@@ -142,6 +142,7 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 11 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68c3eb9014bb275ce0190017?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 10 |
 | **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Regional Planning Intern](https://jobright.ai/jobs/info/68c293628753a565272fbf73?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 10 |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68c5d4c47d0db4114273521a?utm_campaign=1056&utm_source=git)** | Nine Greenway Plaza, Houston, TX, 77046, US | On Site | Sep 10 |
 | **[Lone Mountain Strategies](lms-temp.com)** | **[Political Campaign Relations Associate (GOP)](https://jobright.ai/jobs/info/68c2491363b706703e1134cb?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68c230474d652f044775daf4?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Sep 10 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Special Recreation SEA](https://jobright.ai/jobs/info/68c21e7063b706703e111ba4?utm_campaign=1056&utm_source=git)** | Waukegan, IL, USA | On Site | Sep 10 |
@@ -160,5 +161,4 @@ Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c20b1563b706703e1112fa?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c20a7f63b706703e111230?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68c209ad63b706703e11114e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c205c163b706703e111073?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
