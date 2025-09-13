@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68c49e57e471ef3ce16d7c9e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
 | **[JBPro](https://jbpro.com)** | **[Planning Internship - Fall 2025](https://jobright.ai/jobs/info/68c492cde471ef3ce16d7840?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Environmental Affairs Intern
 Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 12 |
 | **[Georgia Chamber of Commerce](https://www.gachamber.com)** | **[Georgia Chamber Government Affairs Intern](https://jobright.ai/jobs/info/68c48a9d14bb275ce0194790?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 12 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Corporate advocacy-Nemours National Office of Policy and Prevention](https://jobright.ai/jobs/info/68c4891d14bb275ce0194611?utm_campaign=1056&utm_source=git)** | 1201 15th St NW, Washington, DC, 20005, US | On Site | Sep 12 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Environmental Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68c482d4e396b25cb5c68c40?utm_campaign=1056&utm_source=git)** | Atlanta GA | Hybrid | Sep 12 |
+| **[World Relief](https://worldrelief.org/)** | **[Resettlement Team (PC) - Duke Internship/Work Study (Part-time)](https://jobright.ai/jobs/info/68bfb69a702aa35207aa8b9c?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Sep 12 |
 | **[Cooley Public Strategies](https://cooleypublicstrategies.com)** | **[Spring or Summer Public Affairs Intern -  In-person/Nashville](https://jobright.ai/jobs/info/68c44da1e396b25cb5c66b50?utm_campaign=1056&utm_source=git)** | Brentwood, TN | On Site | Sep 12 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/68c4388414bb275ce0191a68?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 12 |
 | **[Appalachian Mountain Club](http://www.outdoors.org/)** | **[Massachusetts Conservation Policy Intern](https://jobright.ai/jobs/info/68c43677e471ef3ce16d45a9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Hybrid | Sep 12 |
+| **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Government, Industry, & Member Relations Intern](https://jobright.ai/jobs/info/68c4b0cc7279451d6a036d0a?utm_campaign=1056&utm_source=git)** | Shoemakersville, PA, United States | Hybrid | Sep 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68c41d0a14bb275ce0191033?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Sep 12 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communicatioms & Public Affairs (MBA)](https://jobright.ai/jobs/info/68c3dc72e396b25cb5c642e5?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5dd281ade4306aa6436aa?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Sep 12 |
@@ -156,7 +159,4 @@ Job ID : 263999](https://jobright.ai/jobs/info/68c290a4b535a221b153c830?utm_camp
 | **[National Education Association](http://www.nea.org)** | **[NEA Fall Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/68a383841ab5f8579e8a67ca?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 10 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68be88c8c4c5904ff60070e3?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 10 |
 | **[repsol](http://www.repsol.com)** | **[Development Intern (Western Reigon)](https://jobright.ai/jobs/info/68c1150b5c5d5f14f46e3d0d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 09 |
-| ↳ | **[Development Intern (Eastern Reigion)](https://jobright.ai/jobs/info/68c10fe8702aa35207ab3236?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
-| ↳ | **[Development Intern (Western Reigon)](https://jobright.ai/jobs/info/68c10f97702aa35207ab31c4?utm_campaign=1056&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
-| ↳ | **[Development Intern (Eastern Reigion)](https://jobright.ai/jobs/info/68c135b84d652f0447756b11?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
