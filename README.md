@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68c6a52bc96a22563ecefabe?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Sep 14 |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68c69dd3db52c07d28849738?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 14 |
+| **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68c69d77db52c07d2884971f?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Sep 14 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68c5d4c37d0db41142735219?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 13 |
 | **[City of Duluth](https://www.duluthmn.gov)** | **[Community Service Officer Intern (Non-Union)](https://jobright.ai/jobs/info/68c5accedb52c07d28843923?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Sep 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c5558fc96a22563ece86f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 13 |
@@ -88,7 +91,6 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[Groma](https://groma.com/)** | **[Policy Summer Associate (2026)](https://jobright.ai/jobs/info/68ae1c79758f2e4ac30115f8?utm_campaign=1056&utm_source=git)** | Boston | On Site | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communicatioms & Public Affairs (MBA)](https://jobright.ai/jobs/info/68c3b1d16031587f8458db99?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Walt Disney World Government Relations Intern, Spring 2026](https://jobright.ai/jobs/info/68c658da7d0db41142738cc9?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 11 |
-| **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c6477fc96a22563ecec5ba?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Professional Staff Internship](https://jobright.ai/jobs/info/68c385deb8c22d3828472858?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
 | **[State of Utah](http://www.utah.gov/)** | **[Legislative Intern Coordinator](https://jobright.ai/jobs/info/68c384e0b8c22d3828472719?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Sep 11 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Advocacy](https://jobright.ai/jobs/info/68c381c96031587f8458b63b?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Sep 11 |
@@ -159,6 +161,4 @@ Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c20b1563b706703e1112fa?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c20a7f63b706703e111230?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68c209ad63b706703e11114e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c205c163b706703e111073?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 10 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
