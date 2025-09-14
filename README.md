@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Duluth](http://www.duluthga.net)** | **[Community Service Officer Intern (Non-Union)](https://jobright.ai/jobs/info/68c713a77d0db4114273b9c5?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Sep 14 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c6facb7d0db4114273b68f?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Sep 14 |
 | **[Town of South Windsor](https://www.southwindsor-ct.gov/)** | **[Health Intern](https://jobright.ai/jobs/info/68c6f570db52c07d28849f60?utm_campaign=1056&utm_source=git)** | South Windsor, CT | On Site | Sep 14 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68c69dd3db52c07d28849738?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 14 |
@@ -118,6 +119,7 @@ Job ID : 264139](https://jobright.ai/jobs/info/68c505fec96a22563ece60b2?utm_camp
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68c3102b63829b0a8a4ff4a6?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 11 |
 | **[Prairie Island Indian Community](http://www.prairieisland.org)** | **[Tribal Historic Preservation Office Intern (Tribal Member Only)](https://jobright.ai/jobs/info/68c4e04edb52c07d2883d03d?utm_campaign=1056&utm_source=git)** | Welch, Minnesota, United States | On Site | Sep 11 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/68c30b265001f8077bf6082a?utm_campaign=1056&utm_source=git)** | Peoria, IL | On Site | Sep 11 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Sep 11 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/68c333f163829b0a8a500ce7?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c5085b7d0db41142731a86?utm_campaign=1056&utm_source=git)** | Kearney, NE | On Site | Sep 11 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/68c318945adaee6c9bda6f9b?utm_campaign=1056&utm_source=git)** | Manchester,  NH | On Site | Sep 11 |
@@ -158,6 +160,4 @@ Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c20b1563b706703e1112fa?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c20a7f63b706703e111230?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68c209ad63b706703e11114e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
-| **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c205c163b706703e111073?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 10 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
