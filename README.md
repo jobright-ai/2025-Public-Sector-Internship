@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Port Canaveral](https://www.portcanaveral.com/)** | **[Intern Public Safety and Security - Summer 2026](https://jobright.ai/jobs/info/68c83b2a983e6768bc54b01e?utm_campaign=1056&utm_source=git)** | Cape Canaveral, FL | On Site | Sep 15 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68c83a97983e6768bc54af6e?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Sep 15 |
+| **[Restore NYC](http://restorenyc.org)** | **[Impact Intern](https://jobright.ai/jobs/info/68c83a4295f5211cd2ce2c41?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 15 |
+| **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[2026 USID Internship](https://jobright.ai/jobs/info/68c83a3f983e6768bc54af10?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security & Building Operations Summer Internship Program](https://jobright.ai/jobs/info/68c83440983e6768bc54abe0?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Sep 15 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sustainability Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68c8221d983e6768bc549ffb?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Sep 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Digital Opportunity Intern](https://jobright.ai/jobs/info/68c80d18983e6768bc54925f?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Sep 15 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerical Officer (Children’s Home Ventilation Service)](https://jobright.ai/jobs/info/68c7fe42f9c6ff7aedf09eda?utm_campaign=1056&utm_source=git)** | Carthage, MO | Hybrid | Sep 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c7f4b7f9c6ff7aedf09a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/68c84280983e6768bc54b29f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 15 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, LISCC- Corporate Secretary- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b7b55c25e576f7b2a38f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Intern- Cross Policy Integration and Secretariat - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b76f5c25e576f7b2a2b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Intern, Emerging Issues Policy - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b6975c25e576f7b29f9b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 14 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Town of South Windsor](https://www.southwindsor-ct.gov/)** | **[Health Intern](https://jobright.ai/jobs/info/68c83453983e6768bc54ac1f?utm_campaign=1056&utm_source=git)** | South Windsor, CT | On Site | Sep 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ec09?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Sep 14 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68c69dd3db52c07d28849738?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 14 |
-| **[Times Square Alliance](http://www.timessquarenyc.org)** | **[Times Square Alliance Fellow](https://jobright.ai/jobs/info/68c78de7c96a22563ecf21fe?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Kidsave](https://www.kidsave.org)** | **[Child Advocate Intern - Weekend Miracles VA (Charlottesville)](https://jobright.ai/jobs/info/68c798fb7d0db4114273e406?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Sep 13 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2025-2026 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/683bd978dbbdab99147719bf?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Sep 13 |
 | **[City of Duluth](https://www.duluthmn.gov)** | **[Community Service Officer Intern (Non-Union)](https://jobright.ai/jobs/info/68c5accedb52c07d28843923?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Sep 13 |
@@ -127,8 +130,6 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[State of Tennessee](https://www.tn.gov/)** | **[CENTER FOR ECONOMIC RESEARCH IN TENNESSEE (CERT) SPRING 2026 INTERN - 71264](https://jobright.ai/jobs/info/68c33a3b5001f8077bf625f8?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | Sep 11 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c3337b5001f8077bf621f6?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 11 |
 | **[City of Cleveland Heights, OH](https://www.clevelandheights.com)** | **[Decarbonization Intern](https://jobright.ai/jobs/info/68c32a075001f8077bf61b9d?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Sep 11 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic affairs Intern: Development Cooperation
-Job ID : 264139](https://jobright.ai/jobs/info/68c505fec96a22563ece60b2?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 11 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68c507567d0db411427317de?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Sep 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c501e97d0db4114273117c?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 11 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/68c323f263829b0a8a500271?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Sep 11 |
@@ -158,6 +159,4 @@ Job ID : 264139](https://jobright.ai/jobs/info/68c505fec96a22563ece60b2?utm_camp
 Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 11 |
 | **[City of Melbourne](http://www.melbourneflorida.org)** | **[Communications Officer I - Police Support Services](https://jobright.ai/jobs/info/68c3eb9014bb275ce0190017?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Sep 10 |
 | **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Regional Planning Intern](https://jobright.ai/jobs/info/68c293628753a565272fbf73?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 10 |
-| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68c5d4c47d0db4114273521a?utm_campaign=1056&utm_source=git)** | Nine Greenway Plaza, Houston, TX, 77046, US | On Site | Sep 10 |
-| **[Lone Mountain Strategies](lms-temp.com)** | **[Political Campaign Relations Associate (GOP)](https://jobright.ai/jobs/info/68c2491363b706703e1134cb?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
