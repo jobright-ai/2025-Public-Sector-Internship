@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c7f4b7f9c6ff7aedf09a1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/68c7f346983e6768bc548668?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 15 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, LISCC- Corporate Secretary- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b7b55c25e576f7b2a38f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Intern- Cross Policy Integration and Secretariat - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b76f5c25e576f7b2a2b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Intern, Emerging Issues Policy - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b6975c25e576f7b29f9b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 14 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[MIRACLE LEAGUE OF VOLUSIA COUNTY INC](http://miracleleaguevolusia.org)** | **[Intern](https://jobright.ai/jobs/info/68c6beeadb52c07d28849aca?utm_campaign=1056&utm_source=git)** | Port Orange, FL | On Site | Sep 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c5558fc96a22563ece86f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 13 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68c5460fc96a22563ece83bd?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 13 |
+| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68c7e1b195f5211cd2cdfa63?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Sep 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c7cbdef42a830e1c7e8251?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | Sep 13 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/68c7cd93369c3763c743c43e?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 12 |
 | **[New York City Department of Investigation](http://www.nyc.gov/doi)** | **[College Aide](https://jobright.ai/jobs/info/68c53a4ec96a22563ece7ec0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 12 |
@@ -157,7 +160,4 @@ Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_camp
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Government and Public Affairs](https://jobright.ai/jobs/info/68c5d4c47d0db4114273521a?utm_campaign=1056&utm_source=git)** | Nine Greenway Plaza, Houston, TX, 77046, US | On Site | Sep 10 |
 | **[Lone Mountain Strategies](lms-temp.com)** | **[Political Campaign Relations Associate (GOP)](https://jobright.ai/jobs/info/68c2491363b706703e1134cb?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68c230474d652f044775daf4?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Sep 10 |
-| **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Special Recreation SEA](https://jobright.ai/jobs/info/68c21e7063b706703e111ba4?utm_campaign=1056&utm_source=git)** | Waukegan, IL, USA | On Site | Sep 10 |
-| **[Krieg DeVault LLP](http://kriegdevault.com)** | **[Legislative Intern](https://jobright.ai/jobs/info/68c21d414d652f044775d2c7?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
-| **[Adams County Government](http://www.adcogov.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/68c36629b8c22d382847174d?utm_campaign=1056&utm_source=git)** | Brighton, CO | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
