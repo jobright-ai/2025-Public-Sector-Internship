@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Intern, Restoring Promise](https://jobright.ai/jobs/info/68accdbfd627244576e4947e?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 15 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Community Affairs (Central PA) Undergraduate Intern](https://jobright.ai/jobs/info/68c877e4983e6768bc54d9fe?utm_campaign=1056&utm_source=git)** | Camp Hill, PA | On Site | Sep 15 |
+| **[Loomis, Sayles & Company](http://www.loomissayles.com)** | **[2026 USID Internship](https://jobright.ai/jobs/info/68c871ebf9c6ff7aedf0ea6b?utm_campaign=1056&utm_source=git)** | 1 Financial Ctr, Boston, MA 02111, USA | On Site | Sep 15 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Mission:Dignity](https://jobright.ai/jobs/info/68c86b03f9c6ff7aedf0e90a?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Sep 15 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 SF Fed Summer Internship - ECONOMIC RESEARCH Intern](https://jobright.ai/jobs/info/68c868dd95f5211cd2ce47f7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 15 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Population Health Intern, Fall 2025](https://jobright.ai/jobs/info/68c861ee95f5211cd2ce44e4?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Sep 15 |
@@ -128,6 +131,7 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[Coca-Cola Consolidated](http://www.CokeConsolidated.com)** | **[Public Affairs and Communications Intern](https://jobright.ai/jobs/info/68c7b0077d0db4114273fac7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Professional Staff Internship](https://jobright.ai/jobs/info/68c385deb8c22d3828472858?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
+| **[State of Utah](http://www.utah.gov/)** | **[Legislative Intern Coordinator](https://jobright.ai/jobs/info/68c8734ef9c6ff7aedf0ebb3?utm_campaign=1056&utm_source=git)** | UT | Remote | Sep 11 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Advocacy](https://jobright.ai/jobs/info/68c381c96031587f8458b63b?utm_campaign=1056&utm_source=git)** | Rockville, MD | On Site | Sep 11 |
 | **[Horizon Health Services](https://www.horizon-health.org/)** | **[Peer Advocate Internship](https://jobright.ai/jobs/info/68c44f8414bb275ce01922d4?utm_campaign=1056&utm_source=git)** | Getzville, NY | On Site | Sep 11 |
 | **[State of Washington](http://access.wa.gov/)** | **[Corrections Specialist 3 - INTERNAL GRE - Lacey](https://jobright.ai/jobs/info/68c4e083c96a22563ece3287?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Sep 11 |
@@ -153,9 +157,5 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship (Alaska)](https://jobright.ai/jobs/info/681c21f696f64af729dba982?utm_campaign=1056&utm_source=git)** | Anchorage, AK | On Site | Sep 11 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/68c333f163829b0a8a500ce7?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Sep 11 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c5085b7d0db41142731a86?utm_campaign=1056&utm_source=git)** | Kearney, NE | On Site | Sep 11 |
-| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Community Based Services](https://jobright.ai/jobs/info/68c318945adaee6c9bda6f9b?utm_campaign=1056&utm_source=git)** | Manchester,  NH | On Site | Sep 11 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/68c2edb35adaee6c9bda57e9?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Sep 11 |
-| **[Special Olympics New York](https://www.specialolympics-ny.org)** | **[Program Support and Community Outreach Intern](https://jobright.ai/jobs/info/68c2ecf35adaee6c9bda5725?utm_campaign=1056&utm_source=git)** | Farmingdale, NY | On Site | Sep 11 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disneyland® Resort External Affairs Intern, Spring 2026](https://jobright.ai/jobs/info/68c2eb275adaee6c9bda5459?utm_campaign=1056&utm_source=git)** | Anaheim, CA | On Site | Sep 11 |
-| **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68c2ead163829b0a8a4fdd29?utm_campaign=1056&utm_source=git)** | Manhattan, NY | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
