@@ -104,14 +104,12 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Intern - Fall 2025](https://jobright.ai/jobs/info/68c4dfe1c96a22563ece30f6?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Sep 11 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Bachelor of Social Work](https://jobright.ai/jobs/info/68c3455a63829b0a8a501919?utm_campaign=1056&utm_source=git)** | Pensacola, FL | On Site | Sep 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[CENTER FOR ECONOMIC RESEARCH IN TENNESSEE (CERT) SPRING 2026 INTERN - 71264](https://jobright.ai/jobs/info/68c33a3b5001f8077bf625f8?utm_campaign=1056&utm_source=git)** | Davidson County, TN | Hybrid | Sep 11 |
-| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c3340563829b0a8a500cfd?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | Sep 11 |
 | **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c3337b5001f8077bf621f6?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 11 |
 | **[City of Cleveland Heights, OH](https://www.clevelandheights.com)** | **[Decarbonization Intern](https://jobright.ai/jobs/info/68c32a075001f8077bf61b9d?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Sep 11 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic affairs Intern: Development Cooperation
 Job ID : 264139](https://jobright.ai/jobs/info/68c505fec96a22563ece60b2?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 11 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68c507567d0db411427317de?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Sep 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c501e97d0db4114273117c?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 11 |
-| **[National Pork Producers Council](https://nppc.org)** | **[Spring 2026 Government Affairs Intern](https://jobright.ai/jobs/info/68c324215adaee6c9bda78fa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/68c323f263829b0a8a500271?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Sep 11 |
 | ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/68c31f615adaee6c9bda7683?utm_campaign=1056&utm_source=git)** | USA - Texas - Houston - The Woodlands - Corporate Office | On Site | Sep 11 |
 | **[Gilbert, Arizona](http://www.gilbertaz.gov)** | **[Undergraduate Intern - Police Victim Advocate](https://jobright.ai/jobs/info/68c5081d7d0db411427319aa?utm_campaign=1056&utm_source=git)** | Gilbert, AZ | On Site | Sep 11 |
@@ -160,4 +158,6 @@ Job ID : 264064](https://jobright.ai/jobs/info/68c50145c96a22563ece5bf0?utm_camp
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c20b1563b706703e1112fa?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c20a7f63b706703e111230?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 10 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writer (Internship)](https://jobright.ai/jobs/info/68c209ad63b706703e11114e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
+| **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c205c163b706703e111073?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 10 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Spring 2026 Advisory Intern - Healthcare](https://jobright.ai/jobs/info/682f603a26cb8ab8629d19fe?utm_campaign=1056&utm_source=git)** | Tewksbury, MA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
