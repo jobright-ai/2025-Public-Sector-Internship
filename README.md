@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c8d960983e6768bc5521a2?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
+| **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Northwest Spring 2026](https://jobright.ai/jobs/info/68c8e01cf9c6ff7aedf13d22?utm_campaign=1056&utm_source=git)** | Springdale, AR | On Site | Sep 15 |
+| ↳ | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c8d960983e6768bc5521a2?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
 | ↳ | **[Social Work Internship- East Regions Spring 2026](https://jobright.ai/jobs/info/68c8d8ac95f5211cd2ce9f52?utm_campaign=1056&utm_source=git)** | Corning, AR | On Site | Sep 15 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Workplace Utility & Waste, North America Sales & Service Infrastructure Development (Winter/Spring 2026)](https://jobright.ai/jobs/info/68c8d4d6f9c6ff7aedf12fd3?utm_campaign=1056&utm_source=git)** | Fremont, CA | On Site | Sep 15 |
 | **[YMCA of Metropolitan Chicago](http://www.ymcachicago.org/)** | **[Master’s Level Social Work Intern](https://jobright.ai/jobs/info/68c8cf95983e6768bc551ba6?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
@@ -142,7 +143,6 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[Appalachian Mountain Club](http://www.outdoors.org/)** | **[Massachusetts Conservation Policy Intern](https://jobright.ai/jobs/info/68c55f587d0db41142733be9?utm_campaign=1056&utm_source=git)** | Massachusetts, United States | Hybrid | Sep 12 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681781af429cfbff2941cb71?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 12 |
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Government, Industry, & Member Relations Intern](https://jobright.ai/jobs/info/68c4b0cc7279451d6a036d0a?utm_campaign=1056&utm_source=git)** | Shoemakersville, PA, United States | Hybrid | Sep 12 |
-| **[City of Veneta, Oregon](http://www.venetaoregon.gov)** | **[City Management & Communication Intern](https://jobright.ai/jobs/info/68c35f906031587f8458a44e?utm_campaign=1056&utm_source=git)** | Veneta, OR | On Site | Sep 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68c41d0a14bb275ce0191033?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Sep 12 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communicatioms & Public Affairs (MBA)](https://jobright.ai/jobs/info/68c3dc72e396b25cb5c642e5?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5dd281ade4306aa6436aa?utm_campaign=1056&utm_source=git)** | Rosemead, CA | Remote | Sep 12 |
