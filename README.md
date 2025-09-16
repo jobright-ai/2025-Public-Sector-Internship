@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Englewood Colorado](https://www.englewoodco.gov)** | **[Intern I - City Managers Office](https://jobright.ai/jobs/info/68c93fba95f5211cd2cef76c?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Sep 16 |
 | **[Alfabet Soup Consulting](https://www.alfabetsoupconsulting.com)** | **[Global Health Intern](https://jobright.ai/jobs/info/68c919faf9c6ff7aedf17ed5?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 16 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Intern (Part-Time/Year-Round) - City](https://jobright.ai/jobs/info/68c9092795f5211cd2ced8ef?utm_campaign=1056&utm_source=git)** | 420 W MAIN ST, OKLAHOMA CITY, OK, 73102, US | On Site | Sep 15 |
-| **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Northwest Spring 2026](https://jobright.ai/jobs/info/68c8e01cf9c6ff7aedf13d22?utm_campaign=1056&utm_source=git)** | Springdale, AR | On Site | Sep 15 |
-| ↳ | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c8d960983e6768bc5521a2?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
+| **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c8d960983e6768bc5521a2?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
 | ↳ | **[Social Work Internship- East Regions Spring 2026](https://jobright.ai/jobs/info/68c8d8ac95f5211cd2ce9f52?utm_campaign=1056&utm_source=git)** | Corning, AR | On Site | Sep 15 |
 | **[YMCA of Metropolitan Chicago](http://www.ymcachicago.org/)** | **[Master’s Level Social Work Intern](https://jobright.ai/jobs/info/68c8cf95983e6768bc551ba6?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
+| **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Northwest Spring 2026](https://jobright.ai/jobs/info/68c94a96f9c6ff7aedf18f6a?utm_campaign=1056&utm_source=git)** | Springdale, AR | On Site | Sep 15 |
 | **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c8c0ce983e6768bc551331?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Mission:Dignity](https://jobright.ai/jobs/info/68c8bfab983e6768bc551174?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Sep 15 |
 | **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - Real Estate](https://jobright.ai/jobs/info/68c8bea7983e6768bc551011?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
@@ -157,5 +158,4 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[State of Washington](http://access.wa.gov/)** | **[Corrections Specialist 3 - INTERNAL GRE - Lacey](https://jobright.ai/jobs/info/68c4e083c96a22563ece3287?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Sep 11 |
 | **[City of Pueblo](www.pueblo.us)** | **[Intern - Police Dept, Recruitment and Training](https://jobright.ai/jobs/info/68c4c7a77279451d6a0379d3?utm_campaign=1056&utm_source=git)** | Pueblo, CO | On Site | Sep 11 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/672f47604e9c0c337d492a47?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 11 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68b5e004f4e41a61efd91689?utm_campaign=1056&utm_source=git)** | Irwindale, CA | Remote | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
