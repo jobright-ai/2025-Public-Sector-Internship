@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Mission:Dignity](https://jobright.ai/jobs/info/68c8bfab983e6768bc551174?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Sep 15 |
+| **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - Real Estate](https://jobright.ai/jobs/info/68c8bea7983e6768bc551011?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
+| **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Social Work Internship- Northwest Spring 2026](https://jobright.ai/jobs/info/68c8be3595f5211cd2ce8cf7?utm_campaign=1056&utm_source=git)** | Springdale, AR | On Site | Sep 15 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government, Midwest Market – Campus 2026](https://jobright.ai/jobs/info/68c8b608983e6768bc550c75?utm_campaign=1056&utm_source=git)** | US - MI, Detroit | On Site | Sep 15 |
+| ↳ | **[Intern – State and Local Government, Midwest Market – Campus 2026](https://jobright.ai/jobs/info/68c8b52b95f5211cd2ce88ee?utm_campaign=1056&utm_source=git)** | US - OH, Columbus | On Site | Sep 15 |
+| **[University of Michigan](https://www.umich.edu)** | **[Research Assistant I - Public Health/Health Sciences (Student/Work Study)](https://jobright.ai/jobs/info/68c8aff8983e6768bc55043d?utm_campaign=1056&utm_source=git)** | Flint, MI | Hybrid | Sep 15 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68c8a8b5f9c6ff7aedf11333?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 15 |
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern - Kenosha Intoxicated Driver Intervention Program](https://jobright.ai/jobs/info/68c8a19e95f5211cd2ce7727?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Sep 15 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Office Assistant - Campus Police](https://jobright.ai/jobs/info/68c8a08895f5211cd2ce74f0?utm_campaign=1056&utm_source=git)** | Joliet, IL | On Site | Sep 15 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68c89c6b983e6768bc54f77f?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
@@ -108,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[MIRACLE LEAGUE OF VOLUSIA COUNTY INC](http://miracleleaguevolusia.org)** | **[Intern](https://jobright.ai/jobs/info/68c6beeadb52c07d28849aca?utm_campaign=1056&utm_source=git)** | Port Orange, FL | On Site | Sep 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Office of Korea Chair (Fall 2025)](https://jobright.ai/jobs/info/68c5558fc96a22563ece86f9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 13 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68c5460fc96a22563ece83bd?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 13 |
-| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68c7cbdef42a830e1c7e8251?utm_campaign=1056&utm_source=git)** | Plymouth, MI | On Site | Sep 13 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/68c7cd93369c3763c743c43e?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Sep 12 |
 | **[New York City Department of Investigation](http://www.nyc.gov/doi)** | **[College Aide](https://jobright.ai/jobs/info/68c53a4ec96a22563ece7ec0?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Alzheimer's Association Connecticut Chapter](http://alz.org/ct)** | **[Alzheimer's Association Office Volunteers](https://jobright.ai/jobs/info/68c4e92d7d0db4114272f113?utm_campaign=1056&utm_source=git)** | Farmington, CT | On Site | Sep 12 |
@@ -134,7 +140,6 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[Groma](https://groma.com/)** | **[Policy Summer Associate (2026)](https://jobright.ai/jobs/info/68ae1c79758f2e4ac30115f8?utm_campaign=1056&utm_source=git)** | Boston | On Site | Sep 11 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Walt Disney World Government Relations Intern, Spring 2026](https://jobright.ai/jobs/info/68c7b776c008cf3402c8f784?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communicatioms & Public Affairs (MBA)](https://jobright.ai/jobs/info/68c3b1d16031587f8458db99?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Sep 11 |
-| **[City of Birmingham, Michigan](http://bhamgov.org)** | **[Planning & Sustainability Intern (PT)](https://jobright.ai/jobs/info/68c7ae5d7d0db4114273f70d?utm_campaign=1056&utm_source=git)** | Birmingham, MI | On Site | Sep 11 |
 | **[Coca-Cola Consolidated](http://www.CokeConsolidated.com)** | **[Public Affairs and Communications Intern](https://jobright.ai/jobs/info/68c7b0077d0db4114273fac7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 11 |
 | **[Virginia Office of the Attorney General](http://www.oag.state.va.us)** | **[2026 Summer Professional Staff Internship](https://jobright.ai/jobs/info/68c385deb8c22d3828472858?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Sep 11 |
@@ -153,9 +158,4 @@ Job ID : 263556](https://jobright.ai/jobs/info/68c4903d14bb275ce0194a06?utm_camp
 | **[Sierra Club](http://sierraclub.org)** | **[Political Advocacy Intern](https://jobright.ai/jobs/info/68c3337b5001f8077bf621f6?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 11 |
 | **[City of Cleveland Heights, OH](https://www.clevelandheights.com)** | **[Decarbonization Intern](https://jobright.ai/jobs/info/68c32a075001f8077bf61b9d?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Sep 11 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68c507567d0db411427317de?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Sep 11 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68c501e97d0db4114273117c?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 11 |
-| **[Huntsman Corporation](https://www.huntsman.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/68c323f263829b0a8a500271?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Sep 11 |
-| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/68c31f615adaee6c9bda7683?utm_campaign=1056&utm_source=git)** | USA - Texas - Houston - The Woodlands - Corporate Office | On Site | Sep 11 |
-| **[Gilbert, Arizona](http://www.gilbertaz.gov)** | **[Undergraduate Intern - Police Victim Advocate](https://jobright.ai/jobs/info/68c5081d7d0db411427319aa?utm_campaign=1056&utm_source=git)** | Gilbert, AZ | On Site | Sep 11 |
-| **[Virufy](https://virufy.org/)** | **[Grant Writer (Unpaid, Volunteer, Part-Time, Remote)](https://jobright.ai/jobs/info/68c500487d0db41142730d7d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
