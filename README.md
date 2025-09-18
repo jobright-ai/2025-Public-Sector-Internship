@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68cbd03f9e3a822f5d24bf29?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 17 |
+| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68cbc4689e3a822f5d24b9bc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 17 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Intern](https://jobright.ai/jobs/info/68cb85f7efdec76df36be210?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Sep 17 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68cb832cba798c1a501d1080?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Sep 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Global Projects Intern - Young Voices](https://jobright.ai/jobs/info/68cb7a589e3a822f5d246a58?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
@@ -69,10 +71,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[KIP Spring 2026 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cb7286efdec76df36bcae6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Policy/Research Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/68cb6dcdba798c1a501cf886?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Policy Intern - The Buckeye Institute](https://jobright.ai/jobs/info/68cb6d64ba798c1a501cf7e5?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Sep 17 |
-| **[State of Utah](http://www.utah.gov/)** | **[2026 Legislative Session Internship - Executive](https://jobright.ai/jobs/info/68cb6ce8efdec76df36bc731?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Sep 17 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cb6cbcba798c1a501cf6fd?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 17 |
+| ↳ | **[KIP Spring 2026 - Events and Meetings Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cb6cbcba798c1a501cf6fd?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/68cb8e869e3a822f5d248513?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 17 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/68cb66f2ba798c1a501cf345?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | On Site | Sep 17 |
+| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Land Management Intern](https://jobright.ai/jobs/info/68cbbcb69e3a822f5d24b2dc?utm_campaign=1056&utm_source=git)** | Ishpeming, MI | On Site | Sep 17 |
 | **[The Children's Cabinet](https://www.childrenscabinet.org/)** | **[Subsidy Coordinator - Trainer (Internal Post Only)](https://jobright.ai/jobs/info/68cb741cefdec76df36bce78?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Sep 17 |
 | **[Air Liquide](http://www.airliquide.com)** | **[2026 Summer Intern - Digital Procurement](https://jobright.ai/jobs/info/68cb4f709e3a822f5d244b47?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Government Affairs Intern - Competitive Enterprise Institute](https://jobright.ai/jobs/info/68cb3a8bba798c1a501cd75c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
@@ -96,14 +98,13 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cb1db3efdec76df36b911b?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cb1db2efdec76df36b911a?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Consumer Engagement Internship](https://jobright.ai/jobs/info/68cb1d7d9e3a822f5d242978?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Sep 17 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Intern - America's Future Foundation](https://jobright.ai/jobs/info/68cb1b2eefdec76df36b8e7c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
 Job ID : 263821](https://jobright.ai/jobs/info/68cb7fb6ba798c1a501d069a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 17 |
 | ↳ | **[Population Affairs Intern
 Job ID : 264482](https://jobright.ai/jobs/info/68cb2fd29e3a822f5d24377f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 17 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Spring 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb11caefdec76df36b8794?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Sep 17 |
 | ↳ | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Sep 17 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68cb0dd19e3a822f5d241b6a?utm_campaign=1056&utm_source=git)** | Alameda, California | Hybrid | Sep 17 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68cb0e07d905e25191d9ef13?utm_campaign=1056&utm_source=git)** | Alameda, California | Hybrid | Sep 17 |
 | ↳ | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68cb0d8aefdec76df36b8135?utm_campaign=1056&utm_source=git)** | Oakland, California | Hybrid | Sep 17 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68cb085befdec76df36b7d76?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 17 |
 | **[Right to Life of Michigan](https://rtl.org)** | **[MiGen Leads Campus Representative Internship](https://jobright.ai/jobs/info/68cae6d3d905e25191d9d4de?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Sep 17 |
@@ -114,6 +115,7 @@ Job ID : 264482](https://jobright.ai/jobs/info/68cb2fd29e3a822f5d24377f?utm_camp
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/68cb110defdec76df36b85de?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Sep 17 |
 | ↳ | **[Domestic Violence Advocacy Intern - Spring 2026](https://jobright.ai/jobs/info/68cb10d1efdec76df36b8587?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Sep 17 |
 | **[City of Tustin](http://www.tustinca.org)** | **[Planning Intern (Administrative/Graduate Intern) (Part-time)](https://jobright.ai/jobs/info/68ca95d4cca9271990ce42f6?utm_campaign=1056&utm_source=git)** | Tustin, CA | On Site | Sep 17 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68cbbf9dba798c1a501d4dfb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2026 Philadelphia Summer Internship](https://jobright.ai/jobs/info/68c9ff8bd4187c55157a52aa?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 17 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68adfada758f2e4ac300ffa9?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Sep 17 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching Intern](https://jobright.ai/jobs/info/68ae3a15758f2e4ac301230f?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Sep 17 |
@@ -133,7 +135,7 @@ Job ID : 264482](https://jobright.ai/jobs/info/68cb2fd29e3a822f5d24377f?utm_camp
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Community Affairs Undergraduate Intern](https://jobright.ai/jobs/info/68c9c82195f5211cd2cf44b4?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | On Site | Sep 16 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Protective Services Unit – BDM](https://jobright.ai/jobs/info/68c9b362a0c52d598ea3a158?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 16 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[OPB Spring 2026 Internship (Graduate)](https://jobright.ai/jobs/info/68c9b1c395f5211cd2cf2f46?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Sep 16 |
-| ↳ | **[OPB Spring 2026 Internship (Undergraduate)](https://jobright.ai/jobs/info/68c9b0a2a0c52d598ea39d0d?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Sep 16 |
+| ↳ | **[OPB Spring 2026 Internship (Undergraduate)](https://jobright.ai/jobs/info/68c9b10a95f5211cd2cf2d8d?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Sep 16 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68cadca9d905e25191d9cdef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 16 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/68ca609606a34016008c79ee?utm_campaign=1056&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Sep 16 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote](https://jobright.ai/jobs/info/68c99fc195f5211cd2cf22b3?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Sep 16 |
@@ -157,6 +159,4 @@ Job ID : 264482](https://jobright.ai/jobs/info/68cb2fd29e3a822f5d24377f?utm_camp
 | **[Arisa Health](https://www.arisahealth.org)** | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c99b1ba0c52d598ea38fef?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
 | ↳ | **[Social Work Internship- Northwest Spring 2026](https://jobright.ai/jobs/info/68c94a96f9c6ff7aedf18f6a?utm_campaign=1056&utm_source=git)** | Springdale, AR | On Site | Sep 15 |
 | **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Social Work Internship- Central Region Spring 2026](https://jobright.ai/jobs/info/68c8c0ce983e6768bc551331?utm_campaign=1056&utm_source=git)** | North Little Rock, AR | On Site | Sep 15 |
-| **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - Real Estate](https://jobright.ai/jobs/info/68c8bea7983e6768bc551011?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
-| **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Social Work Internship- Northwest Spring 2026](https://jobright.ai/jobs/info/68c8be3595f5211cd2ce8cf7?utm_campaign=1056&utm_source=git)** | Springdale, AR | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
