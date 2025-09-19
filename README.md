@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Customer Affordability Programs Intern](https://jobright.ai/jobs/info/68cd92111ad6b16f0289b67c?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 19 |
+| **[PAWS Chicago](https://www.pawschicago.org)** | **[Animal Care Program Internship - Adoption Center](https://jobright.ai/jobs/info/68cd8c21e23def7af55bb973?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
+| **[Business Software Alliance](http://www.bsa.org/)** | **[Tech Policy Fellow](https://jobright.ai/jobs/info/68cd7c3ce23def7af55babb1?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68cd7abab2a74e1837ed7960?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[City of Ontario](https://ontarioca.gov)** | **[Administrative Intern - Public Works](https://jobright.ai/jobs/info/68cd5b3ab2a74e1837ed5d8f?utm_campaign=1056&utm_source=git)** | Ontario, CA | On Site | Sep 19 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[NTP- Stipend Intern- Non HCW- JB](https://jobright.ai/jobs/info/68cd5a21e23def7af55b87cb?utm_campaign=1056&utm_source=git)** | Philadelphia Campus- Colket Translational Research Building | On Site | Sep 19 |
@@ -92,12 +95,12 @@ For a complete list, click the following sortable link below:
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Spring GAPP Intern](https://jobright.ai/jobs/info/68cc80b816d00d2beeb20adc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3f37128dc347fd9218aa?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 18 |
 | ↳ | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3d5d128dc347fd921609?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc396316d00d2beeb1beb2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Sep 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc399e128dc347fd921242?utm_campaign=1056&utm_source=git)** | Riffe Tower 2977 South High Street | Hybrid | Sep 18 |
+| ↳ | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc396316d00d2beeb1beb2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc39047342c7623ae613a9?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
 | **[Charity Care Group The Foundation](www.charitycaregroup.org/thefoundation)** | **[INTERN-Grant Manager Assistant](https://jobright.ai/jobs/info/68ccb2247342c7623ae68410?utm_campaign=1056&utm_source=git)** | Suffolk, VA | Hybrid | Sep 18 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc35ab128dc347fd92105c?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Sep 18 |
 | **[Xylem](http://www.xylem.com)** | **[Strategy and External Affairs Coordinator](https://jobright.ai/jobs/info/68cc354c7342c7623ae60d9c?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia | Hybrid | Sep 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc34867342c7623ae60bc0?utm_campaign=1056&utm_source=git)** | Riffe Tower 2977 South High Street | Hybrid | Sep 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Strategic Research Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68cc2708128dc347fd9201bc?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | Remote | Sep 18 |
 | ↳ | **[KIP Spring 2026 - Policy Research Intern - Sutherland Institute](https://jobright.ai/jobs/info/68cc3f0416d00d2beeb1c527?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Sep 18 |
 | ↳ | **[KIP Spring 2026 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/68cc3fcb128dc347fd92196c?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Sep 18 |
@@ -155,8 +158,4 @@ Job ID : 263821](https://jobright.ai/jobs/info/68ccef11d11b445e0bee4840?utm_camp
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Intern - America's Future Foundation](https://jobright.ai/jobs/info/68cb209d9e3a822f5d242b7b?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cb1db3efdec76df36b911b?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cb1db2efdec76df36b911a?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
-| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Consumer Engagement Internship](https://jobright.ai/jobs/info/68cb1d7d9e3a822f5d242978?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Sep 17 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
-Job ID : 264482](https://jobright.ai/jobs/info/68cb2fd29e3a822f5d24377f?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 17 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Spring 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb11caefdec76df36b8794?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
