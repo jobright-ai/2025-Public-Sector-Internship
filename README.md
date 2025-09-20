@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68cdded31ad6b16f0289f892?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 19 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68cdd478e23def7af55bf9c5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 19 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68cdd058b2a74e1837edca6f?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 19 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Global Sustainability: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68cdce9bb2a74e1837edc8b0?utm_campaign=1056&utm_source=git)** | Acton, Massachusetts | Hybrid | Sep 19 |
 | **[EMILYs List](http://www.emilyslist.org/)** | **[EMILYs List Internship - Spring 2026](https://jobright.ai/jobs/info/68cdc9aee23def7af55bf4a9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 19 |
 | **[Snell & Wilmer](https://www.swlaw.com/)** | **[Intern Zoning Practice Group](https://jobright.ai/jobs/info/68cdc956b2a74e1837edc56f?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
@@ -104,12 +107,12 @@ For a complete list, click the following sortable link below:
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Spring GAPP Intern](https://jobright.ai/jobs/info/68cc80b816d00d2beeb20adc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3f37128dc347fd9218aa?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 18 |
 | ↳ | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3d5d128dc347fd921609?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 18 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc399e128dc347fd921242?utm_campaign=1056&utm_source=git)** | Riffe Tower 2977 South High Street | Hybrid | Sep 18 |
-| ↳ | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc396316d00d2beeb1beb2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Sep 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc396316d00d2beeb1beb2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc39047342c7623ae613a9?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
 | **[Charity Care Group The Foundation](www.charitycaregroup.org/thefoundation)** | **[INTERN-Grant Manager Assistant](https://jobright.ai/jobs/info/68ccb2247342c7623ae68410?utm_campaign=1056&utm_source=git)** | Suffolk, VA | Hybrid | Sep 18 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc35ab128dc347fd92105c?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Sep 18 |
 | **[Xylem](http://www.xylem.com)** | **[Strategy and External Affairs Coordinator](https://jobright.ai/jobs/info/68cc354c7342c7623ae60d9c?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia | Hybrid | Sep 18 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc34867342c7623ae60bc0?utm_campaign=1056&utm_source=git)** | Riffe Tower 2977 South High Street | Hybrid | Sep 18 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a337e51ab5f8579e8a3c89?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Sep 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Strategic Research Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68cc2708128dc347fd9201bc?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | Remote | Sep 18 |
 | ↳ | **[KIP Spring 2026 - Policy Research Intern - Sutherland Institute](https://jobright.ai/jobs/info/68cc3f0416d00d2beeb1c527?utm_campaign=1056&utm_source=git)** | Utah, United States | On Site | Sep 18 |
@@ -155,7 +158,4 @@ Job ID : 263821](https://jobright.ai/jobs/info/68ccef11d11b445e0bee4840?utm_camp
 | ↳ | **[KIP Spring 2026 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/68cb39e79e3a822f5d243f79?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Policy Fellow - Engine Foundation](https://jobright.ai/jobs/info/68cb3955efdec76df36ba59f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cb3938ba798c1a501cd54b?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Sep 17 |
-| ↳ | **[KIP Spring 2026 - Global Projects Intern - Young Voices](https://jobright.ai/jobs/info/68cb3931efdec76df36ba56e?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Sep 17 |
-| ↳ | **[KIP Spring 2026 - Policy and Research Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cb3905efdec76df36ba53f?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Sep 17 |
-| ↳ | **[KIP Spring 2026 - Policy Intern - The Buckeye Institute](https://jobright.ai/jobs/info/68cb39039e3a822f5d243e2f?utm_campaign=1056&utm_source=git)** | Ohio | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
