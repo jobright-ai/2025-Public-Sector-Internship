@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rialto ](https://www.rialtonetwork.com)** | **[High School Intern/Intern](https://jobright.ai/jobs/info/68ce1efbb2a74e1837edf7d9?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Sep 19 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68ce0cb7e23def7af55c1a92?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 19 |
 | **[Optum](https://www.optum.com/)** | **[MPP Internship - Walnut Creek/Concord, CA](https://jobright.ai/jobs/info/68cdfecfe23def7af55c0f60?utm_campaign=1056&utm_source=git)** | Walnut Creek, CA | Hybrid | Sep 19 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/68cdfa31e23def7af55c0cbc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Sachs Policy Group](https://jobright.ai/jobs/info/68cdf9fc1ad6b16f028a057f?utm_campaign=1056&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Sep 19 |
@@ -156,6 +158,4 @@ Job ID : 263821](https://jobright.ai/jobs/info/68ccef11d11b445e0bee4840?utm_camp
 | ↳ | **[KIP Spring 2026 - Public Affairs Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cc7f12128dc347fd925e67?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Global Projects Intern - Young Voices](https://jobright.ai/jobs/info/68cc76577342c7623ae65337?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | ↳ | **[KIP Spring 2026 - Membership and Development Intern - American Legislative Exchange Council](https://jobright.ai/jobs/info/68cc5d937342c7623ae6377d?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 17 |
-| ↳ | **[KIP Spring 2026 - Research Intern - Federalist Society](https://jobright.ai/jobs/info/68cc7bf516d00d2beeb206b2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
-| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Land Management Intern](https://jobright.ai/jobs/info/68cbbcb69e3a822f5d24b2dc?utm_campaign=1056&utm_source=git)** | Ishpeming, MI | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
