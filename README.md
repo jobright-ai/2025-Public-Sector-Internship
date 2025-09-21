@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68d065d7fb49c96ca6eaf164?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 21 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68d0164cdbd9fb154eded219?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Sep 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68cff0a5dbd9fb154edec191?utm_campaign=1056&utm_source=git)** | Paducah, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cff055dbd9fb154edec11a?utm_campaign=1056&utm_source=git)** | Kokomo, IN | On Site | Sep 21 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Housing Intern](https://jobright.ai/jobs/info/68cdaf32e23def7af55bdfa7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, Government & Community Relations](https://jobright.ai/jobs/info/68cda87ce23def7af55bda50?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Sep 19 |
 | **[Hopscotch](https://www.joinhopscotch.com/)** | **[Paid Community Development Intern](https://jobright.ai/jobs/info/68cda7ff1ad6b16f0289d115?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Sep 19 |
+| **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[Planning & Programming Intern](https://jobright.ai/jobs/info/68ccef3577add66568abc2d7?utm_campaign=1056&utm_source=git)** | Sacramento, CA | Hybrid | Sep 19 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Environmental Policy Internship](https://jobright.ai/jobs/info/68cd9906e23def7af55bc6fe?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Sep 19 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Customer Affordability Programs Intern](https://jobright.ai/jobs/info/68cd92111ad6b16f0289b67c?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 19 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Animal Care Program Internship - Adoption Center](https://jobright.ai/jobs/info/68cd8c21e23def7af55bb973?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Front Office & Communications- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68cc8c4c7342c7623ae66659?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
 | **[Boston Housing Authority](https://bostonhousing.org/)** | **[Housing Policy Fellowship](https://jobright.ai/jobs/info/68cc837a128dc347fd92605c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 18 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 18 |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc5baa16d00d2beeb1ddec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Xylem](http://www.xylem.com)** | **[Strategy and External Affairs Coordinator](https://jobright.ai/jobs/info/68cc5afb128dc347fd923298?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/68cc7e4f128dc347fd925d2c?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steptoe LLP](http://www.steptoe.com/)** | **[Spring GAPP Intern](https://jobright.ai/jobs/info/68cc80b816d00d2beeb20adc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3f37128dc347fd9218aa?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 18 |
 | ↳ | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3d5d128dc347fd921609?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 18 |
-| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc396316d00d2beeb1beb2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Sep 18 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc39047342c7623ae613a9?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
-| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc35ab128dc347fd92105c?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
