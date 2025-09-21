@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68cfe828846f0b04af68613d?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe7a4fb49c96ca6eac753?utm_campaign=1056&utm_source=git)** | Morehead, KY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe773fb49c96ca6eac6f5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe74b846f0b04af685ff8?utm_campaign=1056&utm_source=git)** | Imperial, CA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe727fb49c96ca6eac689?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe6f0846f0b04af685f6b?utm_campaign=1056&utm_source=git)** | Rock Spring, GA | On Site | Sep 21 |
 | **[City of Worcester](https://www.worcesterma.gov)** | **[HISTORICAL COMMISSION INTERN](https://jobright.ai/jobs/info/68cfc39e846f0b04af684d47?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 21 |
 | **[Meijer](https://www.meijer.com/)** | **[Government Affairs Intern- Summer 2026](https://jobright.ai/jobs/info/68cfbf5dfb49c96ca6eab39f?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Sep 21 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68cf1555846f0b04af67f342?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City Of Hermosa Beach](https://www.hermosabeach.gov)** | **[Housing Intern](https://jobright.ai/jobs/info/68ce9240dbd9fb154ede0f25?utm_campaign=1056&utm_source=git)** | Hermosa Beach, CA | On Site | Sep 18 |
 | **[ALLETE](http://allete.com)** | **[Internship - Community Affairs](https://jobright.ai/jobs/info/68ce7d97dbd9fb154ede01a0?utm_campaign=1056&utm_source=git)** | Duluth, MN | On Site | Sep 18 |
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Housing Intern](https://jobright.ai/jobs/info/68cd2251e23def7af55b5ea7?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Strategic Technologies Program (Fall 2025)](https://jobright.ai/jobs/info/68ce6bc4846f0b04af679a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Spring 2025 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/688bd9d8906ac06e1d1cef9c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Sep 18 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68ce6118fb49c96ca6e9fd28?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Sep 18 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68cd0cd8e23def7af55b4762?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/68ccf5ff5954791a1d701bef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
-| **[State of Maryland](https://jobapscloud.com/MD/)** | **[Fall Intern (Unpaid) Seasonal Ranger Volunteer Internship](https://jobright.ai/jobs/info/68ccfdc4d11b445e0bee59de?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
