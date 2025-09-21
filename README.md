@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68d0164cdbd9fb154eded219?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Sep 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68cff0a5dbd9fb154edec191?utm_campaign=1056&utm_source=git)** | Paducah, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cff055dbd9fb154edec11a?utm_campaign=1056&utm_source=git)** | Kokomo, IN | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cff04cdbd9fb154edec108?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc39047342c7623ae613a9?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc35ab128dc347fd92105c?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Sep 18 |
 | **[Xylem](http://www.xylem.com)** | **[Strategy and External Affairs Coordinator](https://jobright.ai/jobs/info/68cc354c7342c7623ae60d9c?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia | Hybrid | Sep 18 |
-| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc34867342c7623ae60bc0?utm_campaign=1056&utm_source=git)** | Riffe Tower 2977 South High Street | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
