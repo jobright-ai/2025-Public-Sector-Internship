@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Worcester](https://www.worcesterma.gov)** | **[HISTORICAL COMMISSION INTERN](https://jobright.ai/jobs/info/68cfc39e846f0b04af684d47?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 21 |
+| **[Meijer](https://www.meijer.com/)** | **[Government Affairs Intern- Summer 2026](https://jobright.ai/jobs/info/68cfbf5dfb49c96ca6eab39f?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Sep 21 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68cf1555846f0b04af67f342?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68ced534fb49c96ca6ea3ce8?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Sep 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/68cec85dfb49c96ca6ea38db?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 20 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Sep 20 |
 | ↳ | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | ↳ | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681cc50e367f97acdbd6859e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 20 |
+| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68162b4aae35b1ad28662979?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 20 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 20 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Emergency Management Intern Day 8 Part Time](https://jobright.ai/jobs/info/68ce618efb49c96ca6e9fd88?utm_campaign=1056&utm_source=git)** | Danbury, CT | On Site | Sep 20 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68ce441b24dd5209002f1214?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 19 |
@@ -154,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68cd0cd8e23def7af55b4762?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobright.ai/jobs/info/68ccf5ff5954791a1d701bef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 17 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[Fall Intern (Unpaid) Seasonal Ranger Volunteer Internship](https://jobright.ai/jobs/info/68ccfdc4d11b445e0bee59de?utm_campaign=1056&utm_source=git)** | Maryland, United States | On Site | Sep 17 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Digital Opportunity Intern](https://jobright.ai/jobs/info/68ccf66cd11b445e0bee5083?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Sep 17 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
-Job ID : 263821](https://jobright.ai/jobs/info/68ccef11d11b445e0bee4840?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 17 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
