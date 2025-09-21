@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68cec7effb49c96ca6ea37f7?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 20 |
 | ↳ | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/68cec7aefb49c96ca6ea375e?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 20 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | Hybrid | Sep 20 |
+| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68235e4eb8c92c2c1474464e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 20 |
 | ↳ | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | ↳ | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/681cc50e367f97acdbd6859e?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 20 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68162b4aae35b1ad28662979?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc396316d00d2beeb1beb2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc39047342c7623ae613a9?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Governor's Office of Appalachia](https://jobright.ai/jobs/info/68cc35ab128dc347fd92105c?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Sep 18 |
-| **[Xylem](http://www.xylem.com)** | **[Strategy and External Affairs Coordinator](https://jobright.ai/jobs/info/68cc354c7342c7623ae60d9c?utm_campaign=1056&utm_source=git)** | Washington D.C., District of Columbia | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
