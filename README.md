@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0e2e17727df7d5a84e626?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 21 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0e754f1976376178f0766?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e7507727df7d5a84e92d?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Sep 21 |
+| ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/68d0e71ef1976376178f06d7?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e713f1976376178f06b7?utm_campaign=1056&utm_source=git)** | Daytona Beach, FL | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e6cb17bd5d3415aa75bb?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e2e17727df7d5a84e626?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 21 |
 | ↳ | **[Intern Hartford, CT](https://jobright.ai/jobs/info/68d0e2a57727df7d5a84e5be?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e25917bd5d3415aa72ff?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e254f1976376178f033f?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9de7727df7d5a84e3a3?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9cc7727df7d5a84e37a?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9c27727df7d5a84e364?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b5f1976376178f021d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d98bf1976376178f01b9?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 21 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d89817bd5d3415aa6f2c?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 | **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68d0c4180ebfb22f38aa875e?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 21 |
 | **[City of Rialto ](https://www.rialtonetwork.com)** | **[High School Intern/Intern](https://jobright.ai/jobs/info/68d0bb85dbd9fb154edef33f?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Sep 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68c789197d0db4114273d2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Sep 19 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6892295ff5ee707a15dc383a?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Sep 19 |
-| **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68cd7abab2a74e1837ed7960?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
-| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[NTP- Stipend Intern- Non HCW- JB](https://jobright.ai/jobs/info/68cd5a21e23def7af55b87cb?utm_campaign=1056&utm_source=git)** | Philadelphia Campus- Colket Translational Research Building | On Site | Sep 19 |
-| **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68cd53a3b2a74e1837ed55a9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 19 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Communications & Integration, Digital Technology (Summer 2026)](https://jobright.ai/jobs/info/68ccfca6d11b445e0bee5799?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
-| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Communications & Outreach Group - Sophomore](https://jobright.ai/jobs/info/68cf8877fb49c96ca6ea94ae?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
