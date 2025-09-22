@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68d0c4180ebfb22f38aa875e?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 21 |
+| **[City of Rialto ](https://www.rialtonetwork.com)** | **[High School Intern/Intern](https://jobright.ai/jobs/info/68d0bb85dbd9fb154edef33f?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Sep 21 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68d065d7fb49c96ca6eaf164?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 21 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68d0164cdbd9fb154eded219?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Sep 21 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68cff0a5dbd9fb154edec191?utm_campaign=1056&utm_source=git)** | Paducah, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cff055dbd9fb154edec11a?utm_campaign=1056&utm_source=git)** | Kokomo, IN | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cff04cdbd9fb154edec108?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Sep 21 |
@@ -78,9 +81,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe74b846f0b04af685ff8?utm_campaign=1056&utm_source=git)** | Imperial, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe727fb49c96ca6eac689?utm_campaign=1056&utm_source=git)** | Canyon, TX | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe6f0846f0b04af685f6b?utm_campaign=1056&utm_source=git)** | Rock Spring, GA | On Site | Sep 21 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Sep 21 |
 | **[City of Worcester](https://www.worcesterma.gov)** | **[HISTORICAL COMMISSION INTERN](https://jobright.ai/jobs/info/68cfc39e846f0b04af684d47?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 21 |
 | **[Meijer](https://www.meijer.com/)** | **[Government Affairs Intern- Summer 2026](https://jobright.ai/jobs/info/68cfbf5dfb49c96ca6eab39f?utm_campaign=1056&utm_source=git)** | Grand Rapids, MI | On Site | Sep 21 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f84?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37c2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 20 |
+| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f84?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68cf1555846f0b04af67f342?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68ced534fb49c96ca6ea3ce8?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Sep 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/68cec85dfb49c96ca6ea38db?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/68cc7e4f128dc347fd925d2c?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Sep 18 |
 | **[Glimmer Mental Health](https://www.glimmermentalhealth.com/)** | **[Licensed Clinical Social Worker or LSW Clinical Intern](https://jobright.ai/jobs/info/68cc5850128dc347fd922c97?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Sep 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Front Office & Communications- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68cca28c128dc347fd927931?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Advocacy Intern - Spring 2026](https://jobright.ai/jobs/info/68cd1374e23def7af55b4dbf?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Sep 18 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Policy Intern - Libertas Institute](https://jobright.ai/jobs/info/68cc421f7342c7623ae61ccd?utm_campaign=1056&utm_source=git)** | Utah | Remote | Sep 18 |
-| ↳ | **[KIP Spring 2026 - Policy Research Intern - Sutherland Institute](https://jobright.ai/jobs/info/68cc41ab7342c7623ae61c00?utm_campaign=1056&utm_source=git)** | Utah | On Site | Sep 18 |
-| **[Steptoe LLP](http://www.steptoe.com/)** | **[Spring GAPP Intern](https://jobright.ai/jobs/info/68cc80b816d00d2beeb20adc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Institute Relations and Grants Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3f37128dc347fd9218aa?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
