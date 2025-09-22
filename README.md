@@ -57,6 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0e2e17727df7d5a84e626?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 21 |
+| ↳ | **[Intern Hartford, CT](https://jobright.ai/jobs/info/68d0e2a57727df7d5a84e5be?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e25917bd5d3415aa72ff?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e254f1976376178f033f?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9de7727df7d5a84e3a3?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9cc7727df7d5a84e37a?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9c27727df7d5a84e364?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b5f1976376178f021d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d98bf1976376178f01b9?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 21 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Emergency Management Intern](https://jobright.ai/jobs/info/68d0d98517bd5d3415aa7147?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0d97f17bd5d3415aa7134?utm_campaign=1056&utm_source=git)** | Prince Frederick, MD | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d97c17bd5d3415aa712c?utm_campaign=1056&utm_source=git)** | Osage Beach, MO | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d970f1976376178f0182?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d92917bd5d3415aa7071?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d91a17bd5d3415aa704a?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0094?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0093?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
+| ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 | **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68d0c4180ebfb22f38aa875e?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Sep 21 |
 | **[City of Rialto ](https://www.rialtonetwork.com)** | **[High School Intern/Intern](https://jobright.ai/jobs/info/68d0bb85dbd9fb154edef33f?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Sep 21 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68d065d7fb49c96ca6eaf164?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 21 |
@@ -132,29 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68cd7abab2a74e1837ed7960?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[NTP- Stipend Intern- Non HCW- JB](https://jobright.ai/jobs/info/68cd5a21e23def7af55b87cb?utm_campaign=1056&utm_source=git)** | Philadelphia Campus- Colket Translational Research Building | On Site | Sep 19 |
 | **[GHJ](https://www.ghjadvisors.com/)** | **[GHJ Summer 2026 Internship Program - Advisory (CAAS) Intern](https://jobright.ai/jobs/info/68cd53a3b2a74e1837ed55a9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Sep 19 |
-| **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Results-Based Management and PPG Intern](https://jobright.ai/jobs/info/68cbc6a9ba798c1a501d537b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Communications & Integration, Digital Technology (Summer 2026)](https://jobright.ai/jobs/info/68ccfca6d11b445e0bee5799?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Communications & Outreach Group - Sophomore](https://jobright.ai/jobs/info/68cf8877fb49c96ca6ea94ae?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[State of Utah](http://www.utah.gov/)** | **[2026 Legislative Session Internship - Executive](https://jobright.ai/jobs/info/68cbdf13efdec76df36c2c0c?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Sep 18 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Program Intern - Law & Economics Center](https://jobright.ai/jobs/info/68cd33151ad6b16f0289666d?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 18 |
-| **[YMCA of Metropolitan Chicago](http://www.ymcachicago.org/)** | **[Master’s Level Social Work Intern](https://jobright.ai/jobs/info/68c8cf95983e6768bc551ba6?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Strategic Research Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/68cf559bdbd9fb154ede7185?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 18 |
-| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Research Group - Junior](https://jobright.ai/jobs/info/68ccc1b3a77e5d7d744f4d63?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| ↳ | **[2026 Summer Intern - Research Group - Sophomore](https://jobright.ai/jobs/info/68cd32b01ad6b16f02896614?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Program Intern - Law & Economics Center](https://jobright.ai/jobs/info/68cc88fb128dc347fd92641f?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 18 |
-| **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Housing - Community Development](https://jobright.ai/jobs/info/68cc7e5d128dc347fd925d46?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 18 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern - Communications & Outreach Group - Sophomore](https://jobright.ai/jobs/info/68cc7d0216d00d2beeb2090f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[Reach For Youth, Inc.](https://www.reachforyouth.org)** | **[Social Work/Human Services Internship - Paid](https://jobright.ai/jobs/info/68ccda8477add66568abaaa2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Sep 18 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Global Projects Intern - Young Voices](https://jobright.ai/jobs/info/68cc76577342c7623ae65337?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern - Research Group - Sophomore](https://jobright.ai/jobs/info/68cc6d4c16d00d2beeb1f95e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| ↳ | **[2026 Summer Intern - Research Group - Junior](https://jobright.ai/jobs/info/68cc6d2b16d00d2beeb1f900?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 18 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Front Office & Communications- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68cc8c4c7342c7623ae66659?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 18 |
-| **[Boston Housing Authority](https://bostonhousing.org/)** | **[Housing Policy Fellowship](https://jobright.ai/jobs/info/68cc837a128dc347fd92605c?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Sep 18 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 18 |
-| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68aeeb931f0a2a568a05e48c?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Sep 18 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- Congressional Liaison Office- BDM](https://jobright.ai/jobs/info/68cc5baa16d00d2beeb1ddec?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Xylem](http://www.xylem.com)** | **[Strategy and External Affairs Coordinator](https://jobright.ai/jobs/info/68cc5afb128dc347fd923298?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Domestic Violence Services Intern](https://jobright.ai/jobs/info/68cc7e4f128dc347fd925d2c?utm_campaign=1056&utm_source=git)** | Ware, MA | On Site | Sep 18 |
-| **[Glimmer Mental Health](https://www.glimmermentalhealth.com/)** | **[Licensed Clinical Social Worker or LSW Clinical Intern](https://jobright.ai/jobs/info/68cc5850128dc347fd922c97?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Sep 18 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Front Office & Communications- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68cca28c128dc347fd927931?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
