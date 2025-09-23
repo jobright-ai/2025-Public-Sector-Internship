@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68d27da18c62e63bc7fd7b9c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 23 |
+| **[Duke Department of Population Health Sciences](https://populationhealth.duke.edu/)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/68d26fc5a54edb3bf3e1e1af?utm_campaign=1056&utm_source=git)** | Durham, NC | Hybrid | Sep 23 |
+| **[State of Arizona](https://az.gov/)** | **[Intern](https://jobright.ai/jobs/info/68d26db0a54edb3bf3e1e11a?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 23 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- College of Public Service](https://jobright.ai/jobs/info/68d2695917554c2d9eee77a3?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 23 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Humanitarian Affairs
 Job ID : 264136](https://jobright.ai/jobs/info/68d268de8c62e63bc7fd77dd?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 23 |
@@ -79,9 +82,9 @@ Job ID : 264136](https://jobright.ai/jobs/info/68d268de8c62e63bc7fd77dd?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d2434ca54edb3bf3e1cc31?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d25cb08c62e63bc7fd745b?utm_campaign=1056&utm_source=git)** | Spartanburg, SC | On Site | Sep 22 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Planning](https://jobright.ai/jobs/info/68d1f04117554c2d9eee171d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Sep 22 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[GDOT Legislative Internship](https://jobright.ai/jobs/info/68d1efd58c62e63bc7fd149d?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Sep 22 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[ESG Research Assistant Summer 2026](https://jobright.ai/jobs/info/68d1efbc17554c2d9eee15fe?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[ADVOCACY FALL 2025 AND SPRING 2026 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/68d1ef488c62e63bc7fd13a4?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Sep 22 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[GDOT Legislative Internship](https://jobright.ai/jobs/info/68d1eee9a54edb3bf3e17b8b?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Government Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1ed138c62e63bc7fd1222?utm_campaign=1056&utm_source=git)** | Malta, NY | On Site | Sep 22 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Affordable Housing Intern](https://jobright.ai/jobs/info/68d1ec2b8c62e63bc7fd1157?utm_campaign=1056&utm_source=git)** | Calabasas, CA | On Site | Sep 22 |
 | **[City of Lauderhill](http://www.lauderhill-fl.gov)** | **[College Intern](https://jobright.ai/jobs/info/68d1ebff8c62e63bc7fd1121?utm_campaign=1056&utm_source=git)** | Lauderhill, FL | On Site | Sep 22 |
@@ -143,9 +146,8 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9de7727df7d5a84e3a3?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9cc7727df7d5a84e37a?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9c27727df7d5a84e364?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b5f1976376178f021d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d98bf1976376178f01b9?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 21 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Emergency Management Intern](https://jobright.ai/jobs/info/68d0d98517bd5d3415aa7147?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0d97f17bd5d3415aa7134?utm_campaign=1056&utm_source=git)** | Prince Frederick, MD | On Site | Sep 21 |
@@ -157,6 +159,4 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0093?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
-| ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
