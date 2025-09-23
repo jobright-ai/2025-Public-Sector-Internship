@@ -97,13 +97,13 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[International Affairs Advisory Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d1600ccece431f8b58333b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
 | ↳ | **[International Affairs Internship (Spanish or Portuguese Bilingual) - Winter/Spring '26](https://jobright.ai/jobs/info/68d15e7afa731f61692de4d6?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Sep 22 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Climate Change Mitigation, Agroforestry, and Forest Conservation in Ecuador](https://jobright.ai/jobs/info/68d15df0fa731f61692de461?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 22 |
+| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68236f5202abb00910ca2170?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Sep 22 |
 | ↳ | **[Volunteer: Environmental Multimedia Programme in Peru](https://jobright.ai/jobs/info/68d144c0fa731f61692dd809?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68d133d3fa731f61692dd430?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 22 |
 | **[APCO](http://www.apcoworldwide.com)** | **[International Affairs Advisory Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d12e49cece431f8b581e5d?utm_campaign=1056&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Sep 22 |
 | ↳ | **[Public Affairs/Campaigns & Advocacy Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d12d978c62e63bc7fc9423?utm_campaign=1056&utm_source=git)** | 301 Hillsborough Street, Raleigh, NC, 27603, US | Hybrid | Sep 22 |
 | ↳ | **[International Affairs Internship (Spanish or Portuguese Bilingual) - Winter/Spring '26](https://jobright.ai/jobs/info/68d12c72fa731f61692dcefa?utm_campaign=1056&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Sep 22 |
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern - Supportive Housing Program](https://jobright.ai/jobs/info/68d13e338c62e63bc7fc9aaa?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 22 |
-| **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68d11b858c62e63bc7fc909b?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0e754f1976376178f0766?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e7507727df7d5a84e92d?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Sep 21 |
 | ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/68d0e71ef1976376178f06d7?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Sep 21 |
@@ -116,14 +116,15 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d144c28c62e63bc7fc9cc9?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d144e88c62e63bc7fc9d15?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1451d8c62e63bc7fc9d78?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d1434f8c62e63bc7fc9b35?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1453d8c62e63bc7fc9dab?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d1434f8c62e63bc7fc9b35?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d143d9fa731f61692dd709?utm_campaign=1056&utm_source=git)** | Essex County, MA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9de7727df7d5a84e3a3?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9cc7727df7d5a84e37a?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9c27727df7d5a84e364?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b5f1976376178f021d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d98bf1976376178f01b9?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 21 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Emergency Management Intern](https://jobright.ai/jobs/info/68d0d98517bd5d3415aa7147?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Sep 21 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0d97f17bd5d3415aa7134?utm_campaign=1056&utm_source=git)** | Prince Frederick, MD | On Site | Sep 21 |
@@ -131,12 +132,11 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d970f1976376178f0182?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d92917bd5d3415aa7071?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d91a17bd5d3415aa704a?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0094?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0093?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0094?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d89817bd5d3415aa6f2c?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Affairs and Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68d1987c17554c2d9eedd25e?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 21 |
 | **[Remember the ToothFairy](https://rememberthetoothfa.wixsite.com/my-site-1)** | **[Chapter Founder](https://jobright.ai/jobs/info/68d1504c8c62e63bc7fca3ab?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 21 |
