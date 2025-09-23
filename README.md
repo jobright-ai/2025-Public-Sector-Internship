@@ -57,10 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d24388a54edb3bf3e1cc7c?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d242e0a54edb3bf3e1cb98?utm_campaign=1056&utm_source=git)** | Evansville, IN | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d240faa54edb3bf3e1c80c?utm_campaign=1056&utm_source=git)** | Mooresville, NC | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d240dfa54edb3bf3e1c7d1?utm_campaign=1056&utm_source=git)** | Blacksburg, VA | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23ed68c62e63bc7fd5fb7?utm_campaign=1056&utm_source=git)** | Naples, FL | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23ea48c62e63bc7fd5f60?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23e9f17554c2d9eee5ef4?utm_campaign=1056&utm_source=git)** | Laurens, SC | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23dca8c62e63bc7fd5d89?utm_campaign=1056&utm_source=git)** | Lancaster, PA | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23c0ca54edb3bf3e1c531?utm_campaign=1056&utm_source=git)** | Fort Smith, AR | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23bfca54edb3bf3e1c50e?utm_campaign=1056&utm_source=git)** | Jackson, TN | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23b91a54edb3bf3e1c443?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23ac717554c2d9eee5d6d?utm_campaign=1056&utm_source=git)** | Oconee County, GA | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d23a1517554c2d9eee5bed?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d2455c8c62e63bc7fd652e?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Sep 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d2434ca54edb3bf3e1cc31?utm_campaign=1056&utm_source=git)** | Worcester, MA | On Site | Sep 22 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Planning](https://jobright.ai/jobs/info/68d1f04117554c2d9eee171d?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Sep 22 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[GDOT Legislative Internship](https://jobright.ai/jobs/info/68d1efd58c62e63bc7fd149d?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Sep 22 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[ESG Research Assistant Summer 2026](https://jobright.ai/jobs/info/68d1efbc17554c2d9eee15fe?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[ADVOCACY FALL 2025 AND SPRING 2026 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/68d1ef488c62e63bc7fd13a4?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Sep 22 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[GDOT Legislative Internship](https://jobright.ai/jobs/info/68d1eee9a54edb3bf3e17b8b?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Government Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1ed138c62e63bc7fd1222?utm_campaign=1056&utm_source=git)** | Malta, NY | On Site | Sep 22 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Affordable Housing Intern](https://jobright.ai/jobs/info/68d1ec2b8c62e63bc7fd1157?utm_campaign=1056&utm_source=git)** | Calabasas, CA | On Site | Sep 22 |
 | **[City of Lauderhill](http://www.lauderhill-fl.gov)** | **[College Intern](https://jobright.ai/jobs/info/68d1ebff8c62e63bc7fd1121?utm_campaign=1056&utm_source=git)** | Lauderhill, FL | On Site | Sep 22 |
@@ -108,13 +123,14 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern Providence, RI](https://jobright.ai/jobs/info/68d0e71ef1976376178f06d7?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e713f1976376178f06b7?utm_campaign=1056&utm_source=git)** | Daytona Beach, FL | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e6cb17bd5d3415aa75bb?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e2e17727df7d5a84e626?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 21 |
+| **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[ADVOCACY FALL 2025 AND SPRING 2026 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/68d24b1a8c62e63bc7fd68ac?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Sep 21 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0e2e17727df7d5a84e626?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e25917bd5d3415aa72ff?utm_campaign=1056&utm_source=git)** | Roseville, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e254f1976376178f033f?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d121568c62e63bc7fc926c?utm_campaign=1056&utm_source=git)** | Columbia, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d144c28c62e63bc7fc9cc9?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d144e88c62e63bc7fc9d15?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1451d8c62e63bc7fc9d78?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d144e88c62e63bc7fc9d15?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1434f8c62e63bc7fc9b35?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1453d8c62e63bc7fc9dab?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d143d9fa731f61692dd709?utm_campaign=1056&utm_source=git)** | Essex County, MA | On Site | Sep 21 |
@@ -130,32 +146,16 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d970f1976376178f0182?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d92917bd5d3415aa7071?utm_campaign=1056&utm_source=git)** | Lynchburg, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d91a17bd5d3415aa704a?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0093?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0094?utm_campaign=1056&utm_source=git)** | Gallatin, TN | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8f2f1976376178f0093?utm_campaign=1056&utm_source=git)** | Canton, OH | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d89817bd5d3415aa6f2c?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Affairs and Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68d1987c17554c2d9eedd25e?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 21 |
+| **[Equilibrium Press](equilibrium-press.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68d23706a54edb3bf3e1c1e5?utm_campaign=1056&utm_source=git)** | Bellevue, WA | On Site | Sep 21 |
 | **[Remember the ToothFairy](https://rememberthetoothfa.wixsite.com/my-site-1)** | **[Chapter Founder](https://jobright.ai/jobs/info/68d1504c8c62e63bc7fca3ab?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68d0164cdbd9fb154eded219?utm_campaign=1056&utm_source=git)** | Santa Teresa, NM | On Site | Sep 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Human Rights Placement in Buenos Aires](https://jobright.ai/jobs/info/672cc9293e595c543accf6b6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 21 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68cff0a5dbd9fb154edec191?utm_campaign=1056&utm_source=git)** | Paducah, KY | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cff055dbd9fb154edec11a?utm_campaign=1056&utm_source=git)** | Kokomo, IN | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cff04cdbd9fb154edec108?utm_campaign=1056&utm_source=git)** | Ridgeland, MS | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfed66fb49c96ca6eacaf0?utm_campaign=1056&utm_source=git)** | Marianna, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfecc4846f0b04af686311?utm_campaign=1056&utm_source=git)** | Bowling Green, KY | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfea89dbd9fb154edebe11?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfea3edbd9fb154edebd91?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe99fdbd9fb154edebc98?utm_campaign=1056&utm_source=git)** | Kearney, NE | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe960dbd9fb154edebc33?utm_campaign=1056&utm_source=git)** | Sparks, NV | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe938dbd9fb154edebbed?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe880fb49c96ca6eac8ba?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe851fb49c96ca6eac865?utm_campaign=1056&utm_source=git)** | Westminster, MD | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe83efb49c96ca6eac842?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe828846f0b04af68613d?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe7a4fb49c96ca6eac753?utm_campaign=1056&utm_source=git)** | Morehead, KY | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe773fb49c96ca6eac6f5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe74b846f0b04af685ff8?utm_campaign=1056&utm_source=git)** | Imperial, CA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
