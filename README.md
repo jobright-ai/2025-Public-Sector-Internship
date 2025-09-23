@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - Government Affairs Internship/Co-Op](https://jobright.ai/jobs/info/68d1dc1117554c2d9eee0423?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Sep 22 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Fall 2025)](https://jobright.ai/jobs/info/68d1d9d78c62e63bc7fd0272?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 22 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Affordable Housing Intern](https://jobright.ai/jobs/info/68d1cea38c62e63bc7fcfdd3?utm_campaign=1056&utm_source=git)** | Calabasas, CA, USA | On Site | Sep 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PUBLIC INFORMATION
 Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68d1b6f6a54edb3bf3e156b3?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 22 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Gender Affairs Intern
-Job ID : 257618](https://jobright.ai/jobs/info/68d1b4cca54edb3bf3e15429?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Sep 22 |
 | **[Lennox](http://www.lennox.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/68d1a96b8c62e63bc7fce2b9?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Sep 22 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/68d1a96017554c2d9eede172?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Sep 22 |
 | **[Eddy County, NM](http://www.co.eddy.nm.us)** | **[INTERNAL ONLY: ASSESSOR MAPPER TRAINEE - $22.61 - $24.95 PER HOUR DOE](https://jobright.ai/jobs/info/68d1a13617554c2d9eedda55?utm_campaign=1056&utm_source=git)** | Carlsbad, NM | On Site | Sep 22 |
@@ -92,8 +93,6 @@ Job ID : 257618](https://jobright.ai/jobs/info/68d1b4cca54edb3bf3e15429?utm_camp
 | ↳ | **[Public Affairs/Campaigns & Advocacy Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d12d978c62e63bc7fc9423?utm_campaign=1056&utm_source=git)** | 301 Hillsborough Street, Raleigh, NC, 27603, US | Hybrid | Sep 22 |
 | ↳ | **[International Affairs Internship (Spanish or Portuguese Bilingual) - Winter/Spring '26](https://jobright.ai/jobs/info/68d12c72fa731f61692dcefa?utm_campaign=1056&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Sep 22 |
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Intern - Supportive Housing Program](https://jobright.ai/jobs/info/68d13e338c62e63bc7fc9aaa?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 22 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Population Affairs Intern
-Job ID : 264491](https://jobright.ai/jobs/info/68d11c88cece431f8b5817ad?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68d11b858c62e63bc7fc909b?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 22 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d0e754f1976376178f0766?utm_campaign=1056&utm_source=git)** | Woodstock, GA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0e7507727df7d5a84e92d?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Sep 21 |
@@ -114,7 +113,6 @@ Job ID : 264491](https://jobright.ai/jobs/info/68d11c88cece431f8b5817ad?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9de7727df7d5a84e3a3?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9cc7727df7d5a84e37a?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9c27727df7d5a84e364?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b5f1976376178f021d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d98bf1976376178f01b9?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 21 |
@@ -129,6 +127,7 @@ Job ID : 264491](https://jobright.ai/jobs/info/68d11c88cece431f8b5817ad?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d89817bd5d3415aa6f2c?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Affairs and Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68d1987c17554c2d9eedd25e?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 21 |
 | **[Remember the ToothFairy](https://rememberthetoothfa.wixsite.com/my-site-1)** | **[Chapter Founder](https://jobright.ai/jobs/info/68d1504c8c62e63bc7fca3ab?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 21 |
@@ -159,5 +158,4 @@ Job ID : 264491](https://jobright.ai/jobs/info/68d11c88cece431f8b5817ad?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/6820b69defd2f8ae7c7f37c2?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Sep 20 |
 | ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f84?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[City of Cincinnati](http://www.cincinnati-oh.gov)** | **[CO-OP/INTERN 2 (CITY PLANNING and ENGAGEMENT)](https://jobright.ai/jobs/info/68cf1555846f0b04af67f342?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
-| **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/68ced534fb49c96ca6ea3ce8?utm_campaign=1056&utm_source=git)** | Las Cruces, NM | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
