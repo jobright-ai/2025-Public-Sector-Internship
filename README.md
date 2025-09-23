@@ -76,7 +76,6 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | **[Lennox](http://www.lennox.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/68d1a96b8c62e63bc7fce2b9?utm_campaign=1056&utm_source=git)** | Richardson, TX | On Site | Sep 22 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/68d1a96017554c2d9eede172?utm_campaign=1056&utm_source=git)** | US-TX-Richardson | On Site | Sep 22 |
 | **[Eddy County, NM](http://www.co.eddy.nm.us)** | **[INTERNAL ONLY: ASSESSOR MAPPER TRAINEE - $22.61 - $24.95 PER HOUR DOE](https://jobright.ai/jobs/info/68d1a13617554c2d9eedda55?utm_campaign=1056&utm_source=git)** | Carlsbad, NM | On Site | Sep 22 |
-| **[SAATH](https://substack.com/@saath)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d1a0238c62e63bc7fcd9bb?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d19dd88c62e63bc7fcd4cc?utm_campaign=1056&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Sep 22 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d19dbb17554c2d9eedd416?utm_campaign=1056&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Sep 22 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Hybrid | Sep 22 |
@@ -116,13 +115,12 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d144c28c62e63bc7fc9cc9?utm_campaign=1056&utm_source=git)** | Mullins, SC | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d144e88c62e63bc7fc9d15?utm_campaign=1056&utm_source=git)** | Fallbrook, CA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1451d8c62e63bc7fc9d78?utm_campaign=1056&utm_source=git)** | Burlington, VT | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d1453d8c62e63bc7fc9dab?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d1434f8c62e63bc7fc9b35?utm_campaign=1056&utm_source=git)** | Campbellsville, KY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d1453d8c62e63bc7fc9dab?utm_campaign=1056&utm_source=git)** | Hampden, ME | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d143d9fa731f61692dd709?utm_campaign=1056&utm_source=git)** | Essex County, MA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9de7727df7d5a84e3a3?utm_campaign=1056&utm_source=git)** | Lubbock, TX | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9cc7727df7d5a84e37a?utm_campaign=1056&utm_source=git)** | Owensboro, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9c27727df7d5a84e364?utm_campaign=1056&utm_source=git)** | Gainesville, FL | On Site | Sep 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b5f1976376178f021d?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71ba?utm_campaign=1056&utm_source=git)** | Shalimar, FL | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d9b317bd5d3415aa71bb?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d98bf1976376178f01b9?utm_campaign=1056&utm_source=git)** | College Park, MD | On Site | Sep 21 |
@@ -137,6 +135,7 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8d17727df7d5a84e15b?utm_campaign=1056&utm_source=git)** | Bridgewater, VA | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d8c5f1976376178f0025?utm_campaign=1056&utm_source=git)** | Farmville, VA | On Site | Sep 21 |
 | ↳ | **[Intern Eastern Connecticut](https://jobright.ai/jobs/info/68d0d8a07727df7d5a84e11a?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d89817bd5d3415aa6f2c?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d0d877f1976376178eff61?utm_campaign=1056&utm_source=git)** | Murfreesboro, TN | On Site | Sep 21 |
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Affairs and Communications Intern, Spring 2026](https://jobright.ai/jobs/info/68d1987c17554c2d9eedd25e?utm_campaign=1056&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 21 |
 | **[Remember the ToothFairy](https://rememberthetoothfa.wixsite.com/my-site-1)** | **[Chapter Founder](https://jobright.ai/jobs/info/68d1504c8c62e63bc7fca3ab?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 21 |
@@ -158,4 +157,5 @@ Job ID : 264612](https://jobright.ai/jobs/info/68d1b850a54edb3bf3e159a2?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe828846f0b04af68613d?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe7a4fb49c96ca6eac753?utm_campaign=1056&utm_source=git)** | Morehead, KY | On Site | Sep 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe773fb49c96ca6eac6f5?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Sep 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68cfe74b846f0b04af685ff8?utm_campaign=1056&utm_source=git)** | Imperial, CA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
