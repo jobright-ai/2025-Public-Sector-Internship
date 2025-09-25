@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
-| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d3ffce17554c2d9eef55bf?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Aide for EEO](https://jobright.ai/jobs/info/68d3f68817554c2d9eef5241?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 24 |
@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[State of Oregon](https://www.oregon.gov)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3aea6952b4a32e23d8897?utm_campaign=1056&utm_source=git)** | Portland | DOJ | Legal | On Site | Sep 24 |
 | ↳ | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3adc78c62e63bc7fe40fe?utm_campaign=1056&utm_source=git)** | Salem | DOJ | Justice Building | On Site | Sep 24 |
 | **[Oaks of Hope International](https://oaksofhopeinternational.org/)** | **[Oaks of Hope International Grant Writer Intern](https://jobright.ai/jobs/info/68d4a6af8c62e63bc7feb41c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Sep 24 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/67500e74c215087b2ed1d4c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Humanitarian Affairs
 Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 23 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - External Affairs Intern - Media Research Center](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eaa?utm_campaign=1056&utm_source=git)** | Virginia, United States | On Site | Sep 23 |
@@ -157,5 +158,4 @@ Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d23ac717554c2d9eee5d6d?utm_campaign=1056&utm_source=git)** | Oconee County, GA | On Site | Sep 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d23a1517554c2d9eee5bed?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d25ac817554c2d9eee7280?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Sep 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d2455c8c62e63bc7fd652e?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
