@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d261879a9f9666253dbc3?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Sep 25 |
 | **[MoveSmarter](http://www.movesmarter.co)** | **[Grant Writing & Communications Intern (Remote)](https://jobright.ai/jobs/info/68d4c487ffc1276de3fdde25?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Remote | Sep 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68d4ae2cffc1276de3fdcf51?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Kalispel Tribe of Indians](https://kalispeltribe.com)** | **[TCRP Youth Intern](https://jobright.ai/jobs/info/68d4a2718c62e63bc7feb2f8?utm_campaign=1056&utm_source=git)** | Usk, WA | On Site | Sep 24 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
-| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d3ffce17554c2d9eef55bf?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Aide for EEO](https://jobright.ai/jobs/info/68d3f68817554c2d9eef5241?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 24 |
@@ -157,5 +158,4 @@ Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d23b91a54edb3bf3e1c443?utm_campaign=1056&utm_source=git)** | Encinitas, CA | On Site | Sep 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d23ac717554c2d9eee5d6d?utm_campaign=1056&utm_source=git)** | Oconee County, GA | On Site | Sep 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d23a1517554c2d9eee5bed?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d25ac817554c2d9eee7280?utm_campaign=1056&utm_source=git)** | Sellersburg, IN | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
