@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68d6c8d1d3fe025a3015bfa8?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Sep 26 |
+| **[City of Deerfield Beach](https://deerfield-beach.com)** | **[Coastal and Sustainability Intern](https://jobright.ai/jobs/info/68d6ec0b894705799a2eed5a?utm_campaign=1056&utm_source=git)** | Deerfield Beach, FL | On Site | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
+| **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d6e6d5894705799a2ee9ee?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
+| **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
+| **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
+| **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e253d3fe025a3015c9be?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
+| **[Vermont Natural Resources Council](https://vnrc.org)** | **[2026 VNRC / VCV / VPA Legislative Internship](https://jobright.ai/jobs/info/68d6da57894705799a2ee192?utm_campaign=1056&utm_source=git)** | Montpelier, VT | Hybrid | Sep 26 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68d6d5f9894705799a2ee165?utm_campaign=1056&utm_source=git)** | Orange City, IA | On Site | Sep 26 |
+| ↳ | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68d6c8d1d3fe025a3015bfa8?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Sep 26 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d657224736ff202fdd2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d65083894705799a2eaa18?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
@@ -152,12 +160,4 @@ Job ID : 249353](https://jobright.ai/jobs/info/68d610691f7fb2169ab159eb?utm_camp
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - External Affairs Intern - Media Research Center](https://jobright.ai/jobs/info/68d30f43f0d9af73038dea8b?utm_campaign=1056&utm_source=git)** | Virginia | On Site | Sep 23 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[OVERDOSE DATA TO ACTION IN STATES - EVALUATION INTERN](https://jobright.ai/jobs/info/68d30e8917554c2d9eeed8ca?utm_campaign=1056&utm_source=git)** | Greater Phoenix Area | Hybrid | Sep 23 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68d30af68c62e63bc7fdd337?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
-| **[UNICEF](https://agora.unicef.org/)** | **[Internships, Education Cannot Wait (ECW), Hosted Fund, New York, 6 months, REQ#584351](https://jobright.ai/jobs/info/68d30aab8c62e63bc7fdd2e7?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
-| **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Sep 23 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/68d30591f0d9af73038de455?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
-| ↳ | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/68d3049717554c2d9eeed0fd?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
-| ↳ | **[Grants Resiliency and Master Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68d301f517554c2d9eeecd7e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
-| **[Compeer Financial](https://compeer.com/)** | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d301698c62e63bc7fdcb01?utm_campaign=1056&utm_source=git)** | Naperville, IL | Hybrid | Sep 23 |
-| ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d301208c62e63bc7fdca9a?utm_campaign=1056&utm_source=git)** | Prairie du Sac, WI | Hybrid | Sep 23 |
-| ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2fbca8c62e63bc7fdc555?utm_campaign=1056&utm_source=git)** | Lakeville, MN | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
