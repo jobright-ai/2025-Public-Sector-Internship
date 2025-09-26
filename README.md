@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Unpaid Social Work Internship](https://jobright.ai/jobs/info/68d6c8d1d3fe025a3015bfa8?utm_campaign=1056&utm_source=git)** | Waterloo, IA | On Site | Sep 26 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d657224736ff202fdd2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d65083894705799a2eaa18?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
@@ -108,7 +109,6 @@ Job ID : 249353](https://jobright.ai/jobs/info/68d610691f7fb2169ab159eb?utm_camp
 | ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4461dffc1276de3fd9053?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d44444ffc1276de3fd8d92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d43f9017554c2d9eef73b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Winter Justice Undergraduate Internship](https://jobright.ai/jobs/info/68d59af11f7fb2169ab12464?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Special Programs Team (Immediate Opening)](https://jobright.ai/jobs/info/68d437ce8c62e63bc7fe6deb?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Sep 24 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Associate Sustainability Analyst Intern](https://jobright.ai/jobs/info/68d43764ffc1276de3fd856e?utm_campaign=1056&utm_source=git)** | IL - Chicago | On Site | Sep 24 |
 | **[Akin Gump Strauss Hauer & Feld LLP](https://www.akingump.com/)** | **[Public Law & Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/68d4b26dffc1276de3fdd2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 24 |
