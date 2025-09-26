@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d657224736ff202fdd2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
+| ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d65083894705799a2eaa18?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
+| ↳ | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68d618d21f7fb2169ab16f6c?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
 Job ID : 250033](https://jobright.ai/jobs/info/68d6096e1f7fb2169ab15569?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
@@ -103,7 +106,6 @@ Job ID : 264139](https://jobright.ai/jobs/info/68d612482116ff37ee092481?utm_camp
 | ↳ | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d4777577769e778f509332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c3e77769e778f508e87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c2e8c62e63bc7fe92f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d467efffc1276de3fdaa92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68d465f577769e778f508a92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d463b277769e778f50878b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/689bd9affaa4e875e8263ecc?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 24 |
@@ -111,6 +113,7 @@ Job ID : 264139](https://jobright.ai/jobs/info/68d612482116ff37ee092481?utm_camp
 | **[City of Portland](https://www.portland.gov)** | **[Constituent and Policy Support Student Intern for Councilor Kanal](https://jobright.ai/jobs/info/68d44c9b8c62e63bc7fe7d95?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4482617554c2d9eef7cbe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4481a17554c2d9eef7c94?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
+| ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4461dffc1276de3fd9053?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d44444ffc1276de3fd8d92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d43f9017554c2d9eef73b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Winter Justice Undergraduate Internship](https://jobright.ai/jobs/info/68d59af11f7fb2169ab12464?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 24 |
@@ -126,8 +129,8 @@ Job ID : 264139](https://jobright.ai/jobs/info/68d612482116ff37ee092481?utm_camp
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
-| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d3ffce17554c2d9eef55bf?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Aide for EEO](https://jobright.ai/jobs/info/68d3f68817554c2d9eef5241?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 24 |
@@ -136,8 +139,10 @@ Job ID : 264139](https://jobright.ai/jobs/info/68d612482116ff37ee092481?utm_camp
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b740531ade4306aa6492ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 24 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3aea6952b4a32e23d8897?utm_campaign=1056&utm_source=git)** | Portland | DOJ | Legal | On Site | Sep 24 |
 | ↳ | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3adc78c62e63bc7fe40fe?utm_campaign=1056&utm_source=git)** | Salem | DOJ | Justice Building | On Site | Sep 24 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Population Health Intern, Spring 2026](https://jobright.ai/jobs/info/68d6569d4736ff202fdd2bda?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Sep 24 |
 | **[Oaks of Hope International](https://oaksofhopeinternational.org/)** | **[Oaks of Hope International Grant Writer Intern](https://jobright.ai/jobs/info/68d4a6af8c62e63bc7feb41c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Sep 24 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68d641384736ff202fdd19a8?utm_campaign=1056&utm_source=git)** | Shenandoah Junction, WV | On Site | Sep 23 |
+| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68d657cd4736ff202fdd2cfd?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/67500e74c215087b2ed1d4c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Humanitarian Affairs
 Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 23 |
@@ -160,9 +165,4 @@ Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_camp
 | **[UNICEF](https://agora.unicef.org/)** | **[Internships, Education Cannot Wait (ECW), Hosted Fund, New York, 6 months, REQ#584351](https://jobright.ai/jobs/info/68d30aab8c62e63bc7fdd2e7?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Sep 23 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/68d30591f0d9af73038de455?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
-| ↳ | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/68d3049717554c2d9eeed0fd?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
-| ↳ | **[Grants Resiliency and Master Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68d301f517554c2d9eeecd7e?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
-| **[Compeer Financial](https://compeer.com/)** | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d301698c62e63bc7fdcb01?utm_campaign=1056&utm_source=git)** | Naperville, IL | Hybrid | Sep 23 |
-| ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d301208c62e63bc7fdca9a?utm_campaign=1056&utm_source=git)** | Prairie du Sac, WI | Hybrid | Sep 23 |
-| ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2fbca8c62e63bc7fdc555?utm_campaign=1056&utm_source=git)** | Lakeville, MN | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
