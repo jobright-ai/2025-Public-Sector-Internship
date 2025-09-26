@@ -57,15 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68d618d21f7fb2169ab16f6c?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
 Job ID : 250033](https://jobright.ai/jobs/info/68d6096e1f7fb2169ab15569?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | ↳ | **[Political Affairs Intern: UNOCC Management Support
 Job ID : 256583](https://jobright.ai/jobs/info/68d607ff63d77d6f6f3f3e95?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/68d6073463d77d6f6f3f3dae?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
+| **[Centene Corporation](http://www.centene.com)** | **[Public Policy Intern (Graduate - Summer)](https://jobright.ai/jobs/info/68d63431ebcef82ef5cf7b1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS
 Job ID : 263154](https://jobright.ai/jobs/info/68d6014463d77d6f6f3f3b2e?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | ↳ | **[Political Affairs Intern
 Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
+| ↳ | **[Intern - Humanitarian Affairs
+Job ID : 249353](https://jobright.ai/jobs/info/68d610691f7fb2169ab159eb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
+| ↳ | **[Political Affairs Intern: Information analysis and data visualisation
+Job ID : 256641](https://jobright.ai/jobs/info/68d61a3b1f7fb2169ab17253?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
+| ↳ | **[Economic affairs Intern: Development Cooperation
+Job ID : 264139](https://jobright.ai/jobs/info/68d612482116ff37ee092481?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
+| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68d614502116ff37ee09297c?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Sep 25 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d5e66463d77d6f6f3f30fb?utm_campaign=1056&utm_source=git)** | DC Office | On Site | Sep 25 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d5e5141f7fb2169ab147c6?utm_campaign=1056&utm_source=git)** | NY Office | On Site | Sep 25 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Bachelor's Level Social Services Internships](https://jobright.ai/jobs/info/68d5e45b2116ff37ee091037?utm_campaign=1056&utm_source=git)** | Quincy, Ma | On Site | Sep 25 |
@@ -117,8 +126,8 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
+| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d3ffce17554c2d9eef55bf?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Aide for EEO](https://jobright.ai/jobs/info/68d3f68817554c2d9eef5241?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 24 |
@@ -128,6 +137,7 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[State of Oregon](https://www.oregon.gov)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3aea6952b4a32e23d8897?utm_campaign=1056&utm_source=git)** | Portland | DOJ | Legal | On Site | Sep 24 |
 | ↳ | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3adc78c62e63bc7fe40fe?utm_campaign=1056&utm_source=git)** | Salem | DOJ | Justice Building | On Site | Sep 24 |
 | **[Oaks of Hope International](https://oaksofhopeinternational.org/)** | **[Oaks of Hope International Grant Writer Intern](https://jobright.ai/jobs/info/68d4a6af8c62e63bc7feb41c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Sep 24 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68d641384736ff202fdd19a8?utm_campaign=1056&utm_source=git)** | Shenandoah Junction, WV | On Site | Sep 23 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/67500e74c215087b2ed1d4c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Humanitarian Affairs
 Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 23 |
@@ -155,11 +165,4 @@ Job ID : 264136](https://jobright.ai/jobs/info/68d4bb568c62e63bc7febf98?utm_camp
 | **[Compeer Financial](https://compeer.com/)** | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d301698c62e63bc7fdcb01?utm_campaign=1056&utm_source=git)** | Naperville, IL | Hybrid | Sep 23 |
 | ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d301208c62e63bc7fdca9a?utm_campaign=1056&utm_source=git)** | Prairie du Sac, WI | Hybrid | Sep 23 |
 | ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2fbca8c62e63bc7fdc555?utm_campaign=1056&utm_source=git)** | Lakeville, MN | Hybrid | Sep 23 |
-| ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2f9e5f0d9af73038ddacb?utm_campaign=1056&utm_source=git)** | Onalaska, WI | Hybrid | Sep 23 |
-| ↳ | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2f82c17554c2d9eeec5f8?utm_campaign=1056&utm_source=git)** | Sun Prairie, WI | Hybrid | Sep 23 |
-| **[Green Bay Packers](http://www.packers.com/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/68d2f7f117554c2d9eeec57a?utm_campaign=1056&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Sep 23 |
-| **[Compeer Financial](https://compeer.com/)** | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2f72217554c2d9eeec3bc?utm_campaign=1056&utm_source=git)** | Bloomington, IL | Hybrid | Sep 23 |
-| **[ReliefWeb](http://reliefweb.int/)** | **[Intern - Humanitarian Affairs](https://jobright.ai/jobs/info/68d2e6b4f0d9af73038dc9d6?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
-| **[Compeer Financial](https://compeer.com/)** | **[New Markets Sustainability Intern](https://jobright.ai/jobs/info/68d2dd80f0d9af73038dc3d0?utm_campaign=1056&utm_source=git)** | WI-Prairie du Sac | Hybrid | Sep 23 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Population Health Intern, Summer 2026](https://jobright.ai/jobs/info/68d2dcdb17554c2d9eeeaf7d?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
