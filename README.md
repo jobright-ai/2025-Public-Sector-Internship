@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Congressional Outreach Intern](https://jobright.ai/jobs/info/68d725a5d3fe025a3015f4f1?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
+| **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d71cee894705799a2f0c2a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
+| **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Intern - Business Development](https://jobright.ai/jobs/info/68d7132c894705799a2f0684?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
+| **[Vermont Legal Aid, Inc.](https://www.vtlegalaid.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d70e6d45853d0e39ccc90c?utm_campaign=1056&utm_source=git)** | Montpelier, VT | On Site | Sep 26 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d70bb5d3fe025a3015e748?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
+| **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70afdd3fe025a3015e67e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Government Relations](https://jobright.ai/jobs/info/68d7086145853d0e39ccc4e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68d70496d3fe025a3015e0a3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d70258d3fe025a3015dfa1?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 26 |
@@ -83,8 +89,6 @@ Job ID : 256583](https://jobright.ai/jobs/info/68d607ff63d77d6f6f3f3e95?utm_camp
 | **[Centene Corporation](http://www.centene.com)** | **[Public Policy Intern (Graduate - Summer)](https://jobright.ai/jobs/info/68d63431ebcef82ef5cf7b1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
 Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
-| ↳ | **[Intern - Humanitarian Affairs
-Job ID : 249353](https://jobright.ai/jobs/info/68d610691f7fb2169ab159eb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d5e66463d77d6f6f3f30fb?utm_campaign=1056&utm_source=git)** | DC Office | On Site | Sep 25 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d5e5141f7fb2169ab147c6?utm_campaign=1056&utm_source=git)** | NY Office | On Site | Sep 25 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Bachelor's Level Social Services Internships](https://jobright.ai/jobs/info/68d5e45b2116ff37ee091037?utm_campaign=1056&utm_source=git)** | Quincy, Ma | On Site | Sep 25 |
@@ -155,9 +159,4 @@ Job ID : 249353](https://jobright.ai/jobs/info/68d610691f7fb2169ab159eb?utm_camp
 | **[HII](https://hii.com)** | **[CORPORATE GOVERNMENT AFFAIRS INTERN](https://jobright.ai/jobs/info/68cd498e1ad6b16f028977f3?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 23 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34656f0d9af73038e0996?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Sep 23 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Land & Right Of Way](https://jobright.ai/jobs/info/68d33fd017554c2d9eeef08f?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Sep 23 |
-| **[PRAB, Inc.](https://www.prab.org/)** | **[Legislative & Advocacy Aide Intern](https://jobright.ai/jobs/info/68d46c7effc1276de3fdac9b?utm_campaign=1056&utm_source=git)** | East Brunswick, NJ | On Site | Sep 23 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68d3334c8c62e63bc7fde943?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 23 |
-| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - Public Policy (Medicaid) - Hybrid](https://jobright.ai/jobs/info/68d3332e8c62e63bc7fde91f?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 23 |
-| **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Health Networks & Government Programs Internship](https://jobright.ai/jobs/info/68d32df6f0d9af73038dfa3b?utm_campaign=1056&utm_source=git)** | Des Moines, IA | Hybrid | Sep 23 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Grant Administration Intern- Spring 2026](https://jobright.ai/jobs/info/68d328b38c62e63bc7fde3aa?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
