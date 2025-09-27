@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d7574a295f8e37655d53c8?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d73ac3894705799a2f17f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d72e93d3fe025a3015f6ae?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Congressional Outreach Intern](https://jobright.ai/jobs/info/68d725a5d3fe025a3015f4f1?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Clean City Community Engagement Intern](https://jobright.ai/jobs/info/68d6f773d3fe025a3015d799?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d6ee61894705799a2eede7?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
 | **[City of Deerfield Beach](https://deerfield-beach.com)** | **[Coastal and Sustainability Intern](https://jobright.ai/jobs/info/68d6ec0b894705799a2eed5a?utm_campaign=1056&utm_source=git)** | Deerfield Beach, FL | On Site | Sep 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6e9b545853d0e39ccaf09?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d6e6d5894705799a2ee9ee?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
 | **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
@@ -110,6 +111,7 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/68d56e7739247e3c807eb110?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 25 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68d55fe01f7fb2169ab0f6d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68b91c1c07090163b6ba7c43?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Sep 25 |
+| **[Inspire Greatness Within](https://igwinc.org)** | **[Social Work Intern / FALL 2025](https://jobright.ai/jobs/info/68d754c061a175619f8c8734?utm_campaign=1056&utm_source=git)** | Frankfort, IL | On Site | Sep 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d261879a9f9666253dbc3?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Sep 25 |
 | **[AmeriCorps](http://www.AmeriCorps.gov)** | **[Conservation Assistant - WNRCD/VHCB](https://jobright.ai/jobs/info/68d67740894705799a2ebbbe?utm_campaign=1056&utm_source=git)** | Brattleboro, VT | On Site | Sep 25 |
 | **[MoveSmarter](http://www.movesmarter.co)** | **[Grant Writing & Communications Intern (Remote)](https://jobright.ai/jobs/info/68d4c487ffc1276de3fdde25?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | Remote | Sep 24 |
@@ -143,8 +145,8 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
+| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Aide for EEO](https://jobright.ai/jobs/info/68d3f68817554c2d9eef5241?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 24 |
 | **[Oregon Department of Justice](https://www.doj.state.or.us)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3da578c62e63bc7fe4b24?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Sep 24 |
@@ -157,6 +159,4 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68d641384736ff202fdd19a8?utm_campaign=1056&utm_source=git)** | Shenandoah Junction, WV | On Site | Sep 23 |
 | ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68d657cd4736ff202fdd2cfd?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/67500e74c215087b2ed1d4c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 23 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - External Affairs Intern - Media Research Center](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eaa?utm_campaign=1056&utm_source=git)** | Virginia, United States | On Site | Sep 23 |
-| **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34d8c8c62e63bc7fdf95d?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
