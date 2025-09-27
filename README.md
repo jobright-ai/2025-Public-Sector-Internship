@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Congressional Outreach Intern](https://jobright.ai/jobs/info/68d77c767a37c712687cf22b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68d77c3c7a37c712687cf0a3?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d7574a295f8e37655d53c8?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d73ac3894705799a2f17f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d72e93d3fe025a3015f6ae?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
@@ -120,7 +122,8 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | ↳ | **[TCRP Youth Intern](https://jobright.ai/jobs/info/68d49e5f8c62e63bc7feb009?utm_campaign=1056&utm_source=git)** | Airway Heights, WA | On Site | Sep 24 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/68d48de38c62e63bc7fea627?utm_campaign=1056&utm_source=git)** | Canton, SD | On Site | Sep 24 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d48898ffc1276de3fdba5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| ↳ | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d4777577769e778f509332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
+| **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor TX LCDC INTERN -Substance Abuse](https://jobright.ai/jobs/info/68d7751e295f8e37655d9b2f?utm_campaign=1056&utm_source=git)** | Del Valle, TX | On Site | Sep 24 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d4777577769e778f509332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c3e77769e778f508e87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c2e8c62e63bc7fe92f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d467efffc1276de3fdaa92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
@@ -156,7 +159,4 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | ↳ | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3adc78c62e63bc7fe40fe?utm_campaign=1056&utm_source=git)** | Salem | DOJ | Justice Building | On Site | Sep 24 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Population Health Intern, Spring 2026](https://jobright.ai/jobs/info/68d6569d4736ff202fdd2bda?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Sep 24 |
 | **[Oaks of Hope International](https://oaksofhopeinternational.org/)** | **[Oaks of Hope International Grant Writer Intern](https://jobright.ai/jobs/info/68d4a6af8c62e63bc7feb41c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Sep 24 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68d641384736ff202fdd19a8?utm_campaign=1056&utm_source=git)** | Shenandoah Junction, WV | On Site | Sep 23 |
-| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68d657cd4736ff202fdd2cfd?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Sep 23 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/67500e74c215087b2ed1d4c8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
