@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d787d17a37c712687d0355?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Congressional Outreach Intern](https://jobright.ai/jobs/info/68d77c767a37c712687cf22b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68d77c3c7a37c712687cf0a3?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d7574a295f8e37655d53c8?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
@@ -148,8 +149,8 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
-| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4367a8c62e63bc7fe6b2e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
+| ↳ | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d4363e17554c2d9eef6cbc?utm_campaign=1056&utm_source=git)** | Remote - USA | Remote | Sep 24 |
 | **[Jackson](https://www.jackson.com)** | **[Corporate Philanthropy Intern - Lansing](https://jobright.ai/jobs/info/68b72bd3f4e41a61efd961bd?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 24 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Aide for EEO](https://jobright.ai/jobs/info/68d3f68817554c2d9eef5241?utm_campaign=1056&utm_source=git)** | All, MO | On Site | Sep 24 |
 | **[Oregon Department of Justice](https://www.doj.state.or.us)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3da578c62e63bc7fe4b24?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Sep 24 |
@@ -158,5 +159,4 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[State of Oregon](https://www.oregon.gov)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3aea6952b4a32e23d8897?utm_campaign=1056&utm_source=git)** | Portland | DOJ | Legal | On Site | Sep 24 |
 | ↳ | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3adc78c62e63bc7fe40fe?utm_campaign=1056&utm_source=git)** | Salem | DOJ | Justice Building | On Site | Sep 24 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Population Health Intern, Spring 2026](https://jobright.ai/jobs/info/68d6569d4736ff202fdd2bda?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Sep 24 |
-| **[Oaks of Hope International](https://oaksofhopeinternational.org/)** | **[Oaks of Hope International Grant Writer Intern](https://jobright.ai/jobs/info/68d4a6af8c62e63bc7feb41c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Remote | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
