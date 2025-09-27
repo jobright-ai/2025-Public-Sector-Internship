@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Public Information
+Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 27 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d787d17a37c712687d0355?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Congressional Outreach Intern](https://jobright.ai/jobs/info/68d77c767a37c712687cf22b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68d77c3c7a37c712687cf0a3?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 26 |
@@ -90,8 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Suicide Prevention Program Manager Psychologist](https://jobright.ai/jobs/info/68c8901995f5211cd2ce69d2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Sep 25 |
 | **[Las Vegas Metropolitan Police Department](http://www.lvmpd.com)** | **[LVMPD Intern - Detention Services Only](https://jobright.ai/jobs/info/68d618d21f7fb2169ab16f6c?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Sep 25 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern: UNOCC Management Support
-Job ID : 256583](https://jobright.ai/jobs/info/68d607ff63d77d6f6f3f3e95?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/68d6073463d77d6f6f3f3dae?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
 | **[Centene Corporation](http://www.centene.com)** | **[Public Policy Intern (Graduate - Summer)](https://jobright.ai/jobs/info/68d63431ebcef82ef5cf7b1c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
@@ -127,7 +127,6 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d4777577769e778f509332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c3e77769e778f508e87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c2e8c62e63bc7fe92f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d467efffc1276de3fdaa92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68d465f577769e778f508a92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d463b277769e778f50878b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/689bd9affaa4e875e8263ecc?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 24 |
@@ -135,6 +134,7 @@ Job ID : 263821](https://jobright.ai/jobs/info/68d600112116ff37ee091b6b?utm_camp
 | **[City of Portland](https://www.portland.gov)** | **[Constituent and Policy Support Student Intern for Councilor Kanal](https://jobright.ai/jobs/info/68d44c9b8c62e63bc7fe7d95?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4482617554c2d9eef7cbe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4481a17554c2d9eef7c94?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
+| ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4461dffc1276de3fd9053?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d44444ffc1276de3fd8d92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d43f9017554c2d9eef73b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Special Programs Team (Immediate Opening)](https://jobright.ai/jobs/info/68d437ce8c62e63bc7fe6deb?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Sep 24 |
