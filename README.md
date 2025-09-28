@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68d917de9a8e451a446a4404?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 28 |
+| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, Planning](https://jobright.ai/jobs/info/68d90906061b716fa2959dd6?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Sep 28 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[2026 Spring Government Affairs Internship](https://jobright.ai/jobs/info/68d8f3149a8e451a446a41c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d88352c9952514e1e95979?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 27 |
 | ↳ | **[Legislative Intern](https://jobright.ai/jobs/info/68d849c9295f8e37655e6b95?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 27 |
@@ -85,7 +87,7 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Miami Township, Clermont County](http://www.MiamiTwpOH.gov)** | **[Community Development Co-Op](https://jobright.ai/jobs/info/68d6ff99d3fe025a3015ddfb?utm_campaign=1056&utm_source=git)** | Milford, OH | On Site | Sep 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Clean City Community Engagement Intern](https://jobright.ai/jobs/info/68d6f773d3fe025a3015d799?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d6ee61894705799a2eede7?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6e9b545853d0e39ccaf09?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
 | **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e253d3fe025a3015c9be?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
@@ -139,7 +141,6 @@ Job ID : 263154](https://jobright.ai/jobs/info/68d8ae93ed09d95201eb5f95?utm_camp
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d4777577769e778f509332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c3e77769e778f508e87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c2e8c62e63bc7fe92f2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d467efffc1276de3fdaa92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Government Affairs (Summer 2026)](https://jobright.ai/jobs/info/68d465f577769e778f508a92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d463b277769e778f50878b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/689bd9affaa4e875e8263ecc?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Sep 24 |
@@ -148,6 +149,7 @@ Job ID : 263154](https://jobright.ai/jobs/info/68d8ae93ed09d95201eb5f95?utm_camp
 | **[City of Portland](https://www.portland.gov)** | **[Constituent and Policy Support Student Intern for Councilor Kanal](https://jobright.ai/jobs/info/68d44c9b8c62e63bc7fe7d95?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4482617554c2d9eef7cbe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4481a17554c2d9eef7c94?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
+| ↳ | **[Health Care Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4461dffc1276de3fd9053?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d44444ffc1276de3fd8d92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d43f9017554c2d9eef73b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Special Programs Team (Immediate Opening)](https://jobright.ai/jobs/info/68d437ce8c62e63bc7fe6deb?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Sep 24 |
@@ -159,6 +161,4 @@ Job ID : 263154](https://jobright.ai/jobs/info/68d8ae93ed09d95201eb5f95?utm_camp
 | **[Akin Gump Strauss Hauer & Feld LLP](https://www.akingump.com/)** | **[Public Law & Policy Intern](https://jobright.ai/jobs/info/68d42ef717554c2d9eef68ed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42eab8c62e63bc7fe6806?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Sep 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d42e5617554c2d9eef6876?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Sep 24 |
-| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
