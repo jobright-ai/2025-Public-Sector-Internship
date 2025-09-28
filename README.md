@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Partnership for Public Service](https://ourpublicservice.org/)** | **[2026 Spring Government Affairs Internship](https://jobright.ai/jobs/info/68d8f3149a8e451a446a41c3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d88352c9952514e1e95979?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 27 |
 | ↳ | **[Legislative Intern](https://jobright.ai/jobs/info/68d849c9295f8e37655e6b95?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 27 |
 | **[COUNTY OF BROWN](https://www.linkedin.com/company/56626944)** | **[Medical Examiner Intern (LTE)](https://jobright.ai/jobs/info/68d814217796a83635f0ecb5?utm_campaign=1056&utm_source=git)** | Green Bay, WI | On Site | Sep 27 |
@@ -84,9 +85,7 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Miami Township, Clermont County](http://www.MiamiTwpOH.gov)** | **[Community Development Co-Op](https://jobright.ai/jobs/info/68d6ff99d3fe025a3015ddfb?utm_campaign=1056&utm_source=git)** | Milford, OH | On Site | Sep 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Clean City Community Engagement Intern](https://jobright.ai/jobs/info/68d6f773d3fe025a3015d799?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sustainability and Communications & Public Affairs (MBA)](https://jobright.ai/jobs/info/68d6ee61894705799a2eede7?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 26 |
-| **[City of Deerfield Beach](https://deerfield-beach.com)** | **[Coastal and Sustainability Intern](https://jobright.ai/jobs/info/68d6ec0b894705799a2eed5a?utm_campaign=1056&utm_source=git)** | Deerfield Beach, FL | On Site | Sep 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
-| **[City of Norfolk, VA](https://norfolkdevelopment.com/)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d6e6d5894705799a2ee9ee?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
 | **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e253d3fe025a3015c9be?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
@@ -99,7 +98,11 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[City of Deerfield Beach](https://deerfield-beach.com)** | **[Coastal and Sustainability Intern](https://jobright.ai/jobs/info/68d7bd877a37c712687d4c40?utm_campaign=1056&utm_source=git)** | Deerfield Beach, FL | On Site | Sep 26 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d657224736ff202fdd2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d65083894705799a2eaa18?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| ↳ | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
+Job ID : 263821](https://jobright.ai/jobs/info/68d8eda89a8e451a446a4123?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 26 |
+| ↳ | **[Economic affairs Intern: Development Cooperation
+Job ID : 264139](https://jobright.ai/jobs/info/68d8edd19a8e451a446a416d?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 26 |
+| **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Suicide Prevention Program Manager Psychologist](https://jobright.ai/jobs/info/68c8901995f5211cd2ce69d2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Sep 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/68d6073463d77d6f6f3f3dae?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS
@@ -158,5 +161,4 @@ Job ID : 263154](https://jobright.ai/jobs/info/68d8ae93ed09d95201eb5f95?utm_camp
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d42e5617554c2d9eef6876?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Sep 24 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Child Welfare](https://jobright.ai/jobs/info/68d42da48c62e63bc7fe6715?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Sep 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d42d938c62e63bc7fe6709?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
-| **[Miami-Dade Beacon Council](https://www.beaconcouncil.com/)** | **[Beacon Economic Leaders Program - Internship](https://jobright.ai/jobs/info/68d415835ae5a90cfd483051?utm_campaign=1056&utm_source=git)** | Miami-FTL Area | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
