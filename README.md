@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asian Pacific American Institute for Congressional Studies (APAICS)](http://www.apaics.org)** | **[2026-27 APAICS Congressional Fellowship](https://jobright.ai/jobs/info/68dabde407c157682e56cf2b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 29 |
+| **[Baringa](http://www.baringa.com/)** | **[US Summer Internship 2026 - Energy Market Advisory](https://jobright.ai/jobs/info/68dab13d07c157682e56c6ee?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Sep 29 |
+| **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Community Impact](https://jobright.ai/jobs/info/68daabb407c157682e56c2df?utm_campaign=1056&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/68daa4756df7b8311bb107e8?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Sep 29 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68da9b980b832179ca4aeaf7?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c748027a?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 29 |
+| ↳ | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68da9b980b832179ca4aeaf7?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68da63fe0b832179ca4ad688?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Sep 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68da63f307c157682e56a0ab?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 29 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Economic Affairs
@@ -103,14 +107,13 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d71cee894705799a2f0c2a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Social Work Intern - Business Development](https://jobright.ai/jobs/info/68d7132c894705799a2f0684?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Sep 26 |
 | **[Vermont Legal Aid, Inc.](https://www.vtlegalaid.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d70e6d45853d0e39ccc90c?utm_campaign=1056&utm_source=git)** | Montpelier, VT | On Site | Sep 26 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68d70bb5d3fe025a3015e748?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
 | **[Citi](https://www.citi.com)** | **[Functions - Enterprise Services and Public Affairs, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70afdd3fe025a3015e67e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Government Relations](https://jobright.ai/jobs/info/68d7086145853d0e39ccc4e3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern - CPII - SouthCrest](https://jobright.ai/jobs/info/68d70496d3fe025a3015e0a3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Sep 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d70258d3fe025a3015dfa1?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 26 |
 | **[Miami Township, Clermont County](http://www.MiamiTwpOH.gov)** | **[Community Development Co-Op](https://jobright.ai/jobs/info/68d6ff99d3fe025a3015ddfb?utm_campaign=1056&utm_source=git)** | Milford, OH | On Site | Sep 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Clean City Community Engagement Intern](https://jobright.ai/jobs/info/68d6f773d3fe025a3015d799?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6e9b545853d0e39ccaf09?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
 | **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e253d3fe025a3015c9be?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
@@ -156,7 +159,4 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | ↳ | **[TCRP Youth Intern](https://jobright.ai/jobs/info/68d49e5f8c62e63bc7feb009?utm_campaign=1056&utm_source=git)** | Airway Heights, WA | On Site | Sep 24 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/68d48de38c62e63bc7fea627?utm_campaign=1056&utm_source=git)** | Canton, SD | On Site | Sep 24 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d48898ffc1276de3fdba5c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor TX LCDC INTERN -Substance Abuse](https://jobright.ai/jobs/info/68d7751e295f8e37655d9b2f?utm_campaign=1056&utm_source=git)** | Del Valle, TX | On Site | Sep 24 |
-| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Government Operations Intern Spring 2026](https://jobright.ai/jobs/info/68d4777577769e778f509332?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d46c3e77769e778f508e87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
