@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Economic Affairs
+Job ID : 264879](https://jobright.ai/jobs/info/68da490b6df7b8311bb0e5bd?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d9ce69022fc803b4877b39?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 28 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d9ce59022fc803b4877b2e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 28 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Fall 2025 Remote Internship at Refugee Advocacy Non-Profit (Multiple Departments)](https://jobright.ai/jobs/info/68d9bdff022fc803b4877a97?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68d7e65c7a37c712687d69da?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | Hybrid | Sep 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68d7c8617a37c712687d54c2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 27 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve 2026 Assistant Examiner Intern](https://jobright.ai/jobs/info/68bb320e5f3832749186cfef?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Sep 27 |
+| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68da4f200b832179ca4ad399?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Sep 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Public Information
 Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 27 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d787d17a37c712687d0355?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
@@ -99,7 +102,7 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d70258d3fe025a3015dfa1?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 26 |
 | **[Miami Township, Clermont County](http://www.MiamiTwpOH.gov)** | **[Community Development Co-Op](https://jobright.ai/jobs/info/68d6ff99d3fe025a3015ddfb?utm_campaign=1056&utm_source=git)** | Milford, OH | On Site | Sep 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Clean City Community Engagement Intern](https://jobright.ai/jobs/info/68d6f773d3fe025a3015d799?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6e9b545853d0e39ccaf09?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
 | **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e253d3fe025a3015c9be?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
@@ -113,6 +116,7 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d657224736ff202fdd2c57?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d65083894705799a2eaa18?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d65f1c4736ff202fdd3078?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/68c869aa983e6768bc54d10c?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Sep 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/68d6073463d77d6f6f3f3dae?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/68d5e66463d77d6f6f3f30fb?utm_campaign=1056&utm_source=git)** | DC Office | On Site | Sep 25 |
 | ↳ | **[Spring 2026 Communications and Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/68d5e5141f7fb2169ab147c6?utm_campaign=1056&utm_source=git)** | NY Office | On Site | Sep 25 |
@@ -155,7 +159,4 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[City of Portland](https://www.portland.gov)** | **[Constituent and Policy Support Student Intern for Councilor Kanal](https://jobright.ai/jobs/info/68d44c9b8c62e63bc7fe7d95?utm_campaign=1056&utm_source=git)** | Portland, OR | Hybrid | Sep 24 |
 | **[American Action Forum](https://www.americanactionforum.org)** | **[Technology and Innovation Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4482617554c2d9eef7cbe?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | ↳ | **[Trade Policy Internship - Spring 2026 - PAID](https://jobright.ai/jobs/info/68d4481a17554c2d9eef7c94?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| ↳ | **[Financial Services Policy Internship – Spring 2026 - PAID](https://jobright.ai/jobs/info/68d44444ffc1276de3fd8d92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 24 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Spring 2026 Payments System Intern](https://jobright.ai/jobs/info/68d43f9017554c2d9eef73b0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Special Programs Team (Immediate Opening)](https://jobright.ai/jobs/info/68d437ce8c62e63bc7fe6deb?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
