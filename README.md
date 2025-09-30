@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68db746b34f2c406da6d8463?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68db43b4e19b9e63ba209c20?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Sep 29 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/68db404e34f2c406da6d5a49?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Sep 29 |
 | **[Illinois Soybean Association](http://www.ilsoy.org)** | **[Government Relations Internship-Summer 2026-Bloomington](https://jobright.ai/jobs/info/68db2b18e9b48513789b2495?utm_campaign=1056&utm_source=git)** | Illinois Soybean Association-Bloomington | On Site | Sep 29 |
@@ -119,6 +120,7 @@ Job ID : 264879](https://jobright.ai/jobs/info/68da490b6df7b8311bb0e5bd?utm_camp
 Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Sep 27 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - SPRING 2026](https://jobright.ai/jobs/info/68d787d17a37c712687d0355?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Sep 26 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Congressional Outreach Intern](https://jobright.ai/jobs/info/68d77c767a37c712687cf22b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 26 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Public Affairs](https://jobright.ai/jobs/info/68ca3ffff16e3266d2825b84?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Sep 26 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68db47fae19b9e63ba209dad?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Sep 26 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d73ac3894705799a2f17f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d72e93d3fe025a3015f6ae?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 26 |
@@ -157,6 +159,4 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Winter Justice Undergraduate Internship](https://jobright.ai/jobs/info/68d5e3b72116ff37ee090f51?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/68d5d4921f7fb2169ab140e7?utm_campaign=1056&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Sep 25 |
 | **[World Vision](http://www.worldvision.org/)** | **[Fragile Context Programming and Peacebuilding Intern](https://jobright.ai/jobs/info/68d5c50363d77d6f6f3f2229?utm_campaign=1056&utm_source=git)** | Home Working, United States | Remote | Sep 25 |
-| **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68d5c0302116ff37ee090037?utm_campaign=1056&utm_source=git)** | Schaumburg, IL | Hybrid | Sep 25 |
-| **[Lillian's List](http://www.lillianslist.org)** | **[Political Fellowship](https://jobright.ai/jobs/info/68d58d8863d77d6f6f3effa5?utm_campaign=1056&utm_source=git)** | Cary, NC | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
