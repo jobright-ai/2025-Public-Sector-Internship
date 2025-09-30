@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc165897329f2f773228b8?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| **[Velocity Partners](www.velocity.inc)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68dc0f7397329f2f77322639?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 30 |
+| **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0cdad6470e72cf4d844a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
+| **[Americans for Prosperity](http://americansforprosperity.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0c4ad6470e72cf4d8330?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
+| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, Energy Planning & Decarbonization](https://jobright.ai/jobs/info/68dc0c3bd6470e72cf4d831a?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Sep 30 |
+| **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0a6197329f2f77322223?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Sep 30 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Spring 2026 Housing Intern](https://jobright.ai/jobs/info/68dbb19797329f2f7731b974?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Income Security Intern](https://jobright.ai/jobs/info/68dbbe76d6470e72cf4d2770?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Government Affairs Intern](https://jobright.ai/jobs/info/68dbe66f97329f2f7731fc5a?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Housing Intern](https://jobright.ai/jobs/info/68dbe8b8d6470e72cf4d6012?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Sep 24 |
+| **[SGA Marketing](https://www.sgamarketing.com/)** | **[Community Outreach Intern (Environmental Issues)](https://jobright.ai/jobs/info/68dc17be6f6c5c3fadf366cc?utm_campaign=1056&utm_source=git)** | Long Beach,CA,US | On Site | Sep 26 |
+| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Spring 2026 Housing Intern](https://jobright.ai/jobs/info/68dbe8b8d6470e72cf4d6012?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Sep 24 |
+| ↳ | **[Spring 2026 Housing Intern](https://jobright.ai/jobs/info/68dbb19797329f2f7731b974?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Hybrid | Sep 24 |
 | ↳ | **[Spring 2026 Health Policy Intern](https://jobright.ai/jobs/info/68dbc44297329f2f7731d908?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Sep 24 |
 | **[Port Canaveral](https://www.portcanaveral.com/)** | **[Intern Gov't & Strategic Com](https://jobright.ai/jobs/info/68dbbe756f6c5c3fadf30787?utm_campaign=1056&utm_source=git)** | Cape Canaveral, FL, US | On Site | Sep 17 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern I - City Manager's Office](https://jobright.ai/jobs/info/68dbc0e6d6470e72cf4d2ceb?utm_campaign=1056&utm_source=git)** | Englewood, Colorado, United States | On Site | Sep 12 |
