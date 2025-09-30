@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illinois Soybean Association](http://www.ilsoy.org)** | **[Government Relations Internship-Summer 2026-Bloomington](https://jobright.ai/jobs/info/68db2b18e9b48513789b2495?utm_campaign=1056&utm_source=git)** | Illinois Soybean Association-Bloomington | On Site | Sep 29 |
+| ↳ | **[Government Relations Internship-Summer 2026-Lombard](https://jobright.ai/jobs/info/68db2b0be9b48513789b2472?utm_campaign=1056&utm_source=git)** | Lombard, Illinois | On Site | Sep 29 |
+| ↳ | **[Government Relations Internship-Summer 2026-Lombard](https://jobright.ai/jobs/info/68db2ade0dffed6f83d2ce72?utm_campaign=1056&utm_source=git)** | Illinois Soybean Association-Lombard | On Site | Sep 29 |
+| ↳ | **[Government Relations Internship-Summer 2026-Bloomington](https://jobright.ai/jobs/info/68db29586df7b8311bb165c9?utm_campaign=1056&utm_source=git)** | Bloomington, IL | On Site | Sep 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68db141ae9b48513789b1bd3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Undergraduate Internship, NY](https://jobright.ai/jobs/info/68db0f426df7b8311bb15c40?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
-| ↳ | **[Spring 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/68db0f416df7b8311bb15c3c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
-| ↳ | **[Spring 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/68db0efe0dffed6f83d2c3d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Liberty and National Security Undergraduate Internship, DC](https://jobright.ai/jobs/info/68db0cebe9b48513789b1870?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[State of Utah](http://www.utah.gov/)** | **[Ryan White Part B Open Enrollment Intern](https://jobright.ai/jobs/info/68db081be9b48513789b14d8?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Sep 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68daf0296df7b8311bb14636?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Sep 29 |
@@ -89,7 +91,9 @@ Job ID : 264879](https://jobright.ai/jobs/info/68da490b6df7b8311bb0e5bd?utm_camp
 | ↳ | **[COMMUNITY CORRECTIONS OFFICER 2 - W. Vancouver Unit 377 (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68da8cc207c157682e56afe0?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Sep 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d9ce69022fc803b4877b39?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 28 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d9ce59022fc803b4877b2e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 28 |
-| ↳ | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68d96034061b716fa295a404?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/68daed460dffed6f83d2ac4b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
+| ↳ | **[Spring 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/68daefb46df7b8311bb14437?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68d96034061b716fa295a404?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d948779a8e451a446a482a?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68d945409a8e451a446a47cb?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Sustainability Fellow - Adjunct](https://jobright.ai/jobs/info/686b37c935584b65423f0564?utm_campaign=1056&utm_source=git)** | Durham, NH | On Site | Sep 28 |
@@ -126,7 +130,7 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/68d70258d3fe025a3015dfa1?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Sep 26 |
 | **[Miami Township, Clermont County](http://www.MiamiTwpOH.gov)** | **[Community Development Co-Op](https://jobright.ai/jobs/info/68d6ff99d3fe025a3015ddfb?utm_campaign=1056&utm_source=git)** | Milford, OH | On Site | Sep 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Clean City Community Engagement Intern](https://jobright.ai/jobs/info/68d6f773d3fe025a3015d799?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Sep 26 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6e9b545853d0e39ccaf09?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d6ea4ad3fe025a3015d07f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e39a894705799a2ee6f6?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
 | **[YMCA of Greater Grand Rapids](http://www.grymca.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/68d6e26bd3fe025a3015c9ee?utm_campaign=1056&utm_source=git)** | YMCA ASSOCIATION OFFICE | On Site | Sep 26 |
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d6e253d3fe025a3015c9be?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 26 |
@@ -155,8 +159,4 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Comcast](https://corporate.comcast.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68d5c0302116ff37ee090037?utm_campaign=1056&utm_source=git)** | Schaumburg, IL | Hybrid | Sep 25 |
 | **[Lillian's List](http://www.lillianslist.org)** | **[Political Fellowship](https://jobright.ai/jobs/info/68d58d8863d77d6f6f3effa5?utm_campaign=1056&utm_source=git)** | Cary, NC | Hybrid | Sep 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Associate Sustainability Analyst Intern](https://jobright.ai/jobs/info/68d58c6563d77d6f6f3efebe?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Sep 25 |
-| **[LawBhoomi](https://lawbhoomi.com/)** | **[Internship Opportunity at PayPal, India – Government Relations Associate: Apply Now!](https://jobright.ai/jobs/info/68d5800d63d77d6f6f3ef737?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Sep 25 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 25 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern  2025](https://jobright.ai/jobs/info/68d5778563d77d6f6f3eef23?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Sep 25 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Spring 2026](https://jobright.ai/jobs/info/68d5755d39247e3c807eb565?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
