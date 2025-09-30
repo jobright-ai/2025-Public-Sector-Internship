@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc165897329f2f773228b8?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Management Associate I - MTPD](https://jobright.ai/jobs/info/68dc323a66059a42a715c6ba?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| ↳ | **[Metro College Internship Program - Safety Data Analytics](https://jobright.ai/jobs/info/68dc31e7d6470e72cf4d963b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[City of Little Rock](http://www.littlerock.org)** | **[Police Department Intern (Unpaid Position)](https://jobright.ai/jobs/info/68dc269a97329f2f773230bf?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Sep 30 |
+| **[Massachusetts Department of Public Utilities](https://www.mass.gov/orgs/department-of-public-utilities)** | **[Intern - Siting Division - Dept. Public Utilities](https://jobright.ai/jobs/info/68dc265797329f2f77323032?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Sep 30 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc18b5d6470e72cf4d8a37?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fd?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc165897329f2f773228b8?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
 | **[Velocity Partners](www.velocity.inc)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68dc0f7397329f2f77322639?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 30 |
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0cdad6470e72cf4d844a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | **[Americans for Prosperity](http://americansforprosperity.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0c4ad6470e72cf4d8330?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
@@ -67,9 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0a6197329f2f77322223?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Sep 30 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[SGA Marketing](https://www.sgamarketing.com/)** | **[Community Outreach Intern (Environmental Issues)](https://jobright.ai/jobs/info/68dc17be6f6c5c3fadf366cc?utm_campaign=1056&utm_source=git)** | Long Beach,CA,US | On Site | Sep 26 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Spring 2026 Housing Intern](https://jobright.ai/jobs/info/68dbe8b8d6470e72cf4d6012?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Housing Intern](https://jobright.ai/jobs/info/68dbb19797329f2f7731b974?utm_campaign=1056&utm_source=git)** | United States-Remote, US | Hybrid | Sep 24 |
-| ↳ | **[Spring 2026 Health Policy Intern](https://jobright.ai/jobs/info/68dbc44297329f2f7731d908?utm_campaign=1056&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | Sep 24 |
 | **[Port Canaveral](https://www.portcanaveral.com/)** | **[Intern Gov't & Strategic Com](https://jobright.ai/jobs/info/68dbbe756f6c5c3fadf30787?utm_campaign=1056&utm_source=git)** | Cape Canaveral, FL, US | On Site | Sep 17 |
-| **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern I - City Manager's Office](https://jobright.ai/jobs/info/68dbc0e6d6470e72cf4d2ceb?utm_campaign=1056&utm_source=git)** | Englewood, Colorado, United States | On Site | Sep 12 |
+| **[Crowe](https://www.crowe.com/)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68cfd0cefb49c96ca6eabb67?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
