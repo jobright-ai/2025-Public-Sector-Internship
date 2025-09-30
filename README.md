@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68db141ae9b48513789b1bd3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 29 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Liberty and National Security Undergraduate Internship, NY](https://jobright.ai/jobs/info/68db0f426df7b8311bb15c40?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Spring 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/68db0f416df7b8311bb15c3c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Spring 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/68db0efe0dffed6f83d2c3d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Spring 2026 Liberty and National Security Undergraduate Internship, DC](https://jobright.ai/jobs/info/68db0cebe9b48513789b1870?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 29 |
+| **[State of Utah](http://www.utah.gov/)** | **[Ryan White Part B Open Enrollment Intern](https://jobright.ai/jobs/info/68db081be9b48513789b14d8?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Sep 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68daf0296df7b8311bb14636?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Sep 29 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/68daeff26df7b8311bb1452f?utm_campaign=1056&utm_source=git)** | Erie PA, 16502, 232 West 25th St | On Site | Sep 29 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/68daed3e0dffed6f83d2ac39?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
@@ -83,10 +89,7 @@ Job ID : 264879](https://jobright.ai/jobs/info/68da490b6df7b8311bb0e5bd?utm_camp
 | ↳ | **[COMMUNITY CORRECTIONS OFFICER 2 - W. Vancouver Unit 377 (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68da8cc207c157682e56afe0?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Sep 28 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d9ce69022fc803b4877b39?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 28 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/68d9ce59022fc803b4877b2e?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Sep 28 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/68daed460dffed6f83d2ac4b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
-| ↳ | **[Spring 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/68daefb46df7b8311bb14437?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 28 |
-| **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Fall 2025 Remote Internship at Refugee Advocacy Non-Profit (Multiple Departments)](https://jobright.ai/jobs/info/68d9bdff022fc803b4877a97?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68d96034061b716fa295a404?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
+| ↳ | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68d96034061b716fa295a404?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68d948779a8e451a446a482a?utm_campaign=1056&utm_source=git)** | Murray, KY | On Site | Sep 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Rainforest and Kiwi Protection in New Zealand](https://jobright.ai/jobs/info/68d945409a8e451a446a47cb?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Sustainability Fellow - Adjunct](https://jobright.ai/jobs/info/686b37c935584b65423f0564?utm_campaign=1056&utm_source=git)** | Durham, NH | On Site | Sep 28 |
@@ -156,7 +159,4 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/66c561eb60544c52d762dcd7?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Sep 25 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern  2025](https://jobright.ai/jobs/info/68d5778563d77d6f6f3eef23?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Sep 25 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Spring 2026](https://jobright.ai/jobs/info/68d5755d39247e3c807eb565?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 25 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Environment and Climate Change Project in Iceland](https://jobright.ai/jobs/info/68d56e7739247e3c807eb110?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Sep 25 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68b91c1c07090163b6ba7c43?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Sep 25 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Government Operations](https://jobright.ai/jobs/info/68cd82b51ad6b16f0289aab1?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
