@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Applied Technologies Center - Monroe Community College](https://jobright.ai/jobs/info/68db99f7e19b9e63ba20fda9?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68db746b34f2c406da6d8463?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Sep 29 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68db43b4e19b9e63ba209c20?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Sep 29 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/68db404e34f2c406da6d5a49?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Sep 29 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Government Relations Internship-Summer 2026-Bloomington](https://jobright.ai/jobs/info/68db29586df7b8311bb165c9?utm_campaign=1056&utm_source=git)** | Bloomington, IL | On Site | Sep 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia Program (Fall 2025)](https://jobright.ai/jobs/info/68db141ae9b48513789b1bd3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Winter Justice Undergraduate Internship](https://jobright.ai/jobs/info/68d5d69f1f7fb2169ab1418c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Spring 2026 Liberty and National Security Undergraduate Internship, NY](https://jobright.ai/jobs/info/68db0f426df7b8311bb15c40?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/68db0f416df7b8311bb15c3c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/68db0efe0dffed6f83d2c3d3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Liberty and National Security Undergraduate Internship, DC](https://jobright.ai/jobs/info/68db0cebe9b48513789b1870?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 29 |
@@ -157,6 +159,4 @@ Job ID : 264699](https://jobright.ai/jobs/info/68d7a6ef7a37c712687d37a0?utm_camp
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Bachelor's Level Social Services Internships](https://jobright.ai/jobs/info/68d5e45b2116ff37ee091037?utm_campaign=1056&utm_source=git)** | Quincy, Ma | On Site | Sep 25 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/68d5e42d63d77d6f6f3f2f1d?utm_campaign=1056&utm_source=git)** | DC Office | On Site | Sep 25 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Winter Justice Undergraduate Internship](https://jobright.ai/jobs/info/68d5e3b72116ff37ee090f51?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Sep 25 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/68d5d4921f7fb2169ab140e7?utm_campaign=1056&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Sep 25 |
-| **[World Vision](http://www.worldvision.org/)** | **[Fragile Context Programming and Peacebuilding Intern](https://jobright.ai/jobs/info/68d5c50363d77d6f6f3f2229?utm_campaign=1056&utm_source=git)** | Home Working, United States | Remote | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
