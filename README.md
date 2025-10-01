@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ECONOMIC AFFAIRS, I
+Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Oct 01 |
 | **[Business & Human Rights Resource Centre](http://business-humanrights.org)** | **[Research Intern for the Americas Program](https://jobright.ai/jobs/info/68dccd61accfd24b67e5a24d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68dc8eacddc10244dd676b4c?utm_campaign=1056&utm_source=git)** | Colora, MD | On Site | Sep 30 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8a12a125e75c422a19ec?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[Community Health and Well-Being â€“ Senior Services Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc8708accfd24b67e565aa?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
+| **[AmeriCorps](http://www.AmeriCorps.gov)** | **[Program Intern for Friends of Puerto Rico](https://jobright.ai/jobs/info/68dce1b6accfd24b67e5b566?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 30 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc7132a125e75c422a0d7e?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Public, Non-Profit, & Affordable Housing Finance](https://jobright.ai/jobs/info/68dc673eaccfd24b67e5521d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 30 |
@@ -89,5 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0a6197329f2f77322223?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Sep 30 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Intern - Siting Division - Dept. Public Utilities](https://jobright.ai/jobs/info/68dc6be5a125e75c422a0957?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Sep 30 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[Small Things Inc](http://www.smallthingsphilly.org)** | **[Communications & Volunteer Engagement Internship (Unpaid, Hybrid)](https://jobright.ai/jobs/info/68dcf5d4a125e75c422a7336?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 30 |
 | **[SGA Marketing](https://www.sgamarketing.com/)** | **[Community Outreach Intern (Environmental Issues)](https://jobright.ai/jobs/info/68dc17be6f6c5c3fadf366cc?utm_campaign=1056&utm_source=git)** | Long Beach,CA,US | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
