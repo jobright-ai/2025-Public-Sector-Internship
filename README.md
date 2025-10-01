@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Business & Human Rights Resource Centre](http://business-humanrights.org)** | **[Research Intern for the Americas Program](https://jobright.ai/jobs/info/68dccd61accfd24b67e5a24d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68dc8eacddc10244dd676b4c?utm_campaign=1056&utm_source=git)** | Colora, MD | On Site | Sep 30 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8b41a125e75c422a1c7a?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8a12a125e75c422a19ec?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[Community Health and Well-Being â€“ Senior Services Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc8708accfd24b67e565aa?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 30 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc7132a125e75c422a0d7e?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc18b5d6470e72cf4d8a37?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fd?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc165897329f2f773228b8?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | **[Velocity Partners](www.velocity.inc)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68dc0f7397329f2f77322639?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 30 |
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0cdad6470e72cf4d844a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | **[Americans for Prosperity](http://americansforprosperity.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0c4ad6470e72cf4d8330?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
@@ -88,6 +89,5 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0a6197329f2f77322223?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Sep 30 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Intern - Siting Division - Dept. Public Utilities](https://jobright.ai/jobs/info/68dc6be5a125e75c422a0957?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Sep 30 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
-| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Child and Family Services Internship (Spring 2026)](https://jobright.ai/jobs/info/68dc9469ddc10244dd677093?utm_campaign=1056&utm_source=git)** | Nebraska, United States | On Site | Sep 30 |
 | **[SGA Marketing](https://www.sgamarketing.com/)** | **[Community Outreach Intern (Environmental Issues)](https://jobright.ai/jobs/info/68dc17be6f6c5c3fadf366cc?utm_campaign=1056&utm_source=git)** | Long Beach,CA,US | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
