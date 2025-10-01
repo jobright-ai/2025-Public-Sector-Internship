@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wagner Engineering](www.wagnerengineerusa.com)** | **[Unpaid Internship: Data Ops Intern](https://jobright.ai/jobs/info/68dd6439a125e75c422aa62e?utm_campaign=1056&utm_source=git)** | Greater Chicago Area | On Site | Oct 01 |
+| **[Princess Cruises](http://www.princess.com)** | **[Public Affairs & Engagement - Summer 2026 Intern](https://jobright.ai/jobs/info/68dd5a4fa125e75c422a9f52?utm_campaign=1056&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 01 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68dd4c1844d32141e0bf5535?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Oct 01 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote](https://jobright.ai/jobs/info/68dd4548a125e75c422a9102?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Oct 01 |
 | ↳ | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68dd452844d32141e0bf50c8?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Oct 01 |
@@ -71,12 +73,14 @@ For a complete list, click the following sortable link below:
 Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Oct 01 |
 | **[Business & Human Rights Resource Centre](http://business-humanrights.org)** | **[Research Intern for the Americas Program](https://jobright.ai/jobs/info/68dccd61accfd24b67e5a24d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68dc8eacddc10244dd676b4c?utm_campaign=1056&utm_source=git)** | Colora, MD | On Site | Sep 30 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8a12a125e75c422a19ec?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8b41a125e75c422a1c7a?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[Community Health and Well-Being â€“ Senior Services Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc8708accfd24b67e565aa?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Program Intern for Friends of Puerto Rico](https://jobright.ai/jobs/info/68dce1b6accfd24b67e5b566?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[West Fargo Public Schools](http://www.west-fargo.k12.nd.us)** | **[Social Worker - Intern](https://jobright.ai/jobs/info/68dd11f644d32141e0bf3d1e?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Sep 30 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 30 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc7132a125e75c422a0d7e?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Climate Hazard Resilience Intern - OCR-2025-5i](https://jobright.ai/jobs/info/68dd575c44d32141e0bf5c1a?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
+| ↳ | **[Legislative Affairs Intern - LEGDC-2025-6i](https://jobright.ai/jobs/info/68dd5852ddc10244dd67e870?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68dd3b2ea125e75c422a8c1a?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Sep 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Public, Non-Profit, & Affordable Housing Finance](https://jobright.ai/jobs/info/68dc673eaccfd24b67e5521d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Sep 30 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc603faccfd24b67e54f8b?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
