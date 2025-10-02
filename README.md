@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/68ddd9c8a125e75c422af538?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
+| **[Public Counsel](https://publiccounsel.org)** | **[2026 Summer Intern - Community Development Project](https://jobright.ai/jobs/info/68ddd07844d32141e0bfaf7e?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
+| ↳ | **[2026 Summer Intern - Child, Youth & Family Advocacy Project](https://jobright.ai/jobs/info/68ddd01fd624072d9ab04cbd?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
+| ↳ | **[2026 Summer Intern - Immigrants' Rights Project](https://jobright.ai/jobs/info/68ddcff0ddc10244dd683da9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
+| **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/68ddcd0aa125e75c422af15e?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Oct 01 |
+| **[Safe Shores - The DC Children's Advocacy Center](https://safeshores.org)** | **[Client Advocacy Intern - Spring 2026](https://jobright.ai/jobs/info/68ddcc8c44d32141e0bfad42?utm_campaign=1056&utm_source=git)** | Safe Shores - The DC Children's Advocacy Center | On Site | Oct 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68ddb90fddc10244dd6834cf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68ddb67a44d32141e0bfa7f7?utm_campaign=1056&utm_source=git)** | Azusa, CA | Remote | Oct 01 |
 | **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern – Ohio State Highway Patrol Criminal Intelligence Unit](https://jobright.ai/jobs/info/68ddaccba125e75c422ae133?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Oct 01 |
@@ -100,6 +106,7 @@ Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_camp
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Program Intern for Friends of Puerto Rico](https://jobright.ai/jobs/info/68dce1b6accfd24b67e5b566?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[West Fargo Public Schools](http://www.west-fargo.k12.nd.us)** | **[Social Worker - Intern](https://jobright.ai/jobs/info/68dd11f644d32141e0bf3d1e?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Sep 30 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 30 |
+| **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/68ddd29ae967857477ae619b?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Sep 30 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc7132a125e75c422a0d7e?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Climate Hazard Resilience Intern - OCR-2025-5i](https://jobright.ai/jobs/info/68dd575c44d32141e0bf5c1a?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
 | ↳ | **[Legislative Affairs Intern - LEGDC-2025-6i](https://jobright.ai/jobs/info/68dd5852ddc10244dd67e870?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
@@ -122,8 +129,8 @@ Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_camp
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc18b5d6470e72cf4d8a37?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fd?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc165897329f2f773228b8?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | **[Velocity Partners](www.velocity.inc)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68dc0f7397329f2f77322639?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 30 |
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0cdad6470e72cf4d844a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | **[Americans for Prosperity](http://americansforprosperity.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0c4ad6470e72cf4d8330?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
