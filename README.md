@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Government Programs](https://jobright.ai/jobs/info/68de806ea125e75c422b4949?utm_campaign=1056&utm_source=git)** | Okemos, MI | Hybrid | Oct 02 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/68de740b09bda65a4b62aec6?utm_campaign=1056&utm_source=git)** | Des Moines, Iowa, United States | On Site | Oct 02 |
 | **[Merchant McIntyre & Associates, LLC](http://www.merchantmcintyre.com)** | **[Spring 2026 Government Relations Fellow (Graduate-Level Internship)](https://jobright.ai/jobs/info/68de3dd2a125e75c422b2b1a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 02 |
 | **[ACHIEVE](https://www.achieveny.org)** | **[Intern/Volunteer](https://jobright.ai/jobs/info/68de3d91a125e75c422b2a9f?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Oct 02 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship -  Behavioral Health](https://jobright.ai/jobs/info/68de2e4609bda65a4b6270c4?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 02 |
@@ -127,8 +129,8 @@ Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_camp
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5bf1accfd24b67e54b00?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5ba6accfd24b67e54a6c?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5b5dddc10244dd6748f1?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
+| **[Charlotte Hornets](https://hornets.nba.com)** | **[Community Impact Intern, Greensboro Swarm](https://jobright.ai/jobs/info/68dc4614accfd24b67e53b62?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Sep 30 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Community Affairs (Western PA) Undergraduate Intern](https://jobright.ai/jobs/info/68dd364cddc10244dd67d460?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Sep 30 |
-| **[Charlotte Hornets](https://hornets.nba.com)** | **[GSO Community Impact Intern](https://jobright.ai/jobs/info/68dc4614accfd24b67e53b62?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Sep 30 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Intern - Siting Division - Dept. Public Utilities](https://jobright.ai/jobs/info/68dc7c76accfd24b67e55c8f?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Sep 30 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Management Associate I - MTPD](https://jobright.ai/jobs/info/68dc323a66059a42a715c6ba?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | ↳ | **[Metro College Internship Program - Safety Data Analytics](https://jobright.ai/jobs/info/68dc31e7d6470e72cf4d963b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
@@ -137,8 +139,8 @@ Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_camp
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc18b5d6470e72cf4d8a37?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc1886d6470e72cf4d89fd?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc165897329f2f773228b8?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf36571?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc15b86f6c5c3fadf3656f?utm_campaign=1056&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
 | **[Velocity Partners](www.velocity.inc)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68dc0f7397329f2f77322639?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Sep 30 |
 | **[Stand Together](https://standtogether.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0cdad6470e72cf4d844a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | **[Americans for Prosperity](http://americansforprosperity.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68dc0c4ad6470e72cf4d8330?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
