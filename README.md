@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68ddb90fddc10244dd6834cf?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Public Policy/Political Science](https://jobright.ai/jobs/info/68ddb67a44d32141e0bfa7f7?utm_campaign=1056&utm_source=git)** | Azusa, CA | Remote | Oct 01 |
+| **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern – Ohio State Highway Patrol Criminal Intelligence Unit](https://jobright.ai/jobs/info/68ddaccba125e75c422ae133?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Oct 01 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Policy Intern - Goldwater Institute](https://jobright.ai/jobs/info/68dda8e244d32141e0bf9e75?utm_campaign=1056&utm_source=git)** | Arizona, United States | On Site | Oct 01 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68dd9f8ea125e75c422ad55f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Economic Affairs Intern
 Job ID : 265131](https://jobright.ai/jobs/info/68dd9ba8ddc10244dd681c92?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Oct 01 |
@@ -91,7 +95,7 @@ Job ID : 265131](https://jobright.ai/jobs/info/68dd9ba8ddc10244dd681c92?utm_camp
 Job ID : 265116](https://jobright.ai/jobs/info/68dcf255ddc10244dd67b87b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Oct 01 |
 | **[Business & Human Rights Resource Centre](http://business-humanrights.org)** | **[Research Intern for the Americas Program](https://jobright.ai/jobs/info/68dccd61accfd24b67e5a24d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68dc8eacddc10244dd676b4c?utm_campaign=1056&utm_source=git)** | Colora, MD | On Site | Sep 30 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8a12a125e75c422a19ec?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8b41a125e75c422a1c7a?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[Community Health and Well-Being â€“ Senior Services Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc8708accfd24b67e565aa?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Program Intern for Friends of Puerto Rico](https://jobright.ai/jobs/info/68dce1b6accfd24b67e5b566?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[West Fargo Public Schools](http://www.west-fargo.k12.nd.us)** | **[Social Worker - Intern](https://jobright.ai/jobs/info/68dd11f644d32141e0bf3d1e?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Sep 30 |
