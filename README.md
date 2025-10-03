@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Issue One](https://www.issueone.org/)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/68e01a7b1852e62f007e7364?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Oct 03 |
 | **[OSCE](https://savitashawls.com/)** | **[International Intern, Human Dimension](https://jobright.ai/jobs/info/68dfe803b99ec3563b0ca060?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Oct 03 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Healthcare Management Program (HMP) Internship](https://jobright.ai/jobs/info/68dfe21ef758fe1f97e477b4?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Oct 03 |
 | **[State of Arizona](https://az.gov/)** | **[Intern](https://jobright.ai/jobs/info/68dfb2645ab4977c2e956ec5?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 03 |
@@ -81,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/68deb06c09bda65a4b62ccd7?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 02 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Senior Psychologist (Service Chief) - Mental Health Associate Chief of Staff](https://jobright.ai/jobs/info/68deb2ac09bda65a4b62ce56?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Oct 02 |
 | **[Ohio Department of Public Safety](http://www.publicsafety.ohio.gov/)** | **[College Intern – Ohio State Highway Patrol Criminal Intelligence Unit](https://jobright.ai/jobs/info/68ddaccba125e75c422ae133?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Oct 02 |
-| **[State of Ohio](http://ohio.gov/)** | **[Judicial College Intern](https://jobright.ai/jobs/info/68dead3c44d32141e0c01818?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
-| ↳ | **[Judicial College Intern](https://jobright.ai/jobs/info/68deac32a125e75c422b5980?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
-| ↳ | **[Public Information Office Intern](https://jobright.ai/jobs/info/68dead5144d32141e0c0182e?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
+| **[State of Ohio](http://ohio.gov/)** | **[Judicial College Intern](https://jobright.ai/jobs/info/68deac32a125e75c422b5980?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
+| ↳ | **[Judicial College Intern](https://jobright.ai/jobs/info/68dead3c44d32141e0c01818?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
 | ↳ | **[Public Information Office Intern](https://jobright.ai/jobs/info/68dead7e09bda65a4b62cc46?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
+| ↳ | **[Public Information Office Intern](https://jobright.ai/jobs/info/68dead5144d32141e0c0182e?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/68deacc4a125e75c422b5b52?utm_campaign=1056&utm_source=git)** | New York | Remote | Oct 02 |
 | ↳ | **[KIP Spring 2026 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/68dea81f44d32141e0c014b9?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Oct 02 |
 | ↳ | **[KIP Spring 2026 - Student Fellow (Research and Analysis) - Empire Center for Public Policy](https://jobright.ai/jobs/info/68dea90ea125e75c422b58cb?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Oct 02 |
@@ -123,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68dd8b18a125e75c422abeaa?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Oct 01 |
 | **[Primerica](https://www.primerica.com)** | **[Climate Hazard Resilience Intern - OCR-2025-5i](https://jobright.ai/jobs/info/68dd86e744d32141e0bf792f?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 01 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Program Monitoring & Evaluation Intern](https://jobright.ai/jobs/info/68dd8330ddc10244dd680186?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 01 |
+| **[King County, WA](http://kingcounty.gov/)** | **[Best Starts for Kids Data Team Intern](https://jobright.ai/jobs/info/68e02886f758fe1f97e4a5f5?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Philanthropy and Partnerships Intern](https://jobright.ai/jobs/info/68dd7b7844d32141e0bf729b?utm_campaign=1056&utm_source=git)** | Little Rock, Arkansas | On Site | Oct 01 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Legislative Liaison - Intern](https://jobright.ai/jobs/info/68dd7b35ddc10244dd67fd97?utm_campaign=1056&utm_source=git)** | Georgia - Rockdale - Conyers | On Site | Oct 01 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Data Strategist Intern - Economic Mobility](https://jobright.ai/jobs/info/68dd7b2944d32141e0bf711f?utm_campaign=1056&utm_source=git)** | Chicago, Illinois | On Site | Oct 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc6020ddc10244dd674f2a?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc6019ddc10244dd674f19?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5bf1accfd24b67e54b00?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5ba6accfd24b67e54a6c?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5b5dddc10244dd6748f1?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
