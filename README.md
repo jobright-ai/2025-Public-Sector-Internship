@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Office of Safety, Policy & Promotion-SPP](https://jobright.ai/jobs/info/68df2648fe896042b0b7755d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68df06f66be63b6ec996978e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | **[Entryway](https://shelterstoshutters.org)** | **[Human Services & Case Management Intern](https://jobright.ai/jobs/info/68df0669fe896042b0b74276?utm_campaign=1056&utm_source=git)** | Vienna, VA | On Site | Oct 02 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2026 Summer Internship Program – Public Finance](https://jobright.ai/jobs/info/68def3af44d32141e0c0442d?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Oct 02 |
@@ -141,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[West Fargo Public Schools](http://www.west-fargo.k12.nd.us)** | **[Social Worker - Intern](https://jobright.ai/jobs/info/68dd11f644d32141e0bf3d1e?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Sep 30 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Sep 30 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/68ddd29ae967857477ae619b?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Sep 30 |
+| **[Connection Pointe Christian Church](http://www.connectionpointe.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/68df211d6be63b6ec996c597?utm_campaign=1056&utm_source=git)** | Brownsburg, IN, USA | On Site | Sep 30 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc7132a125e75c422a0d7e?utm_campaign=1056&utm_source=git)** | Buffalo, NY | On Site | Sep 30 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Climate Hazard Resilience Intern - OCR-2025-5i](https://jobright.ai/jobs/info/68dd575c44d32141e0bf5c1a?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
 | ↳ | **[Legislative Affairs Intern - LEGDC-2025-6i](https://jobright.ai/jobs/info/68dd5852ddc10244dd67e870?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://hornets.nba.com)** | **[Community Impact Intern, Greensboro Swarm](https://jobright.ai/jobs/info/68dc4614accfd24b67e53b62?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Sep 30 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Community Affairs (Western PA) Undergraduate Intern](https://jobright.ai/jobs/info/68dd364cddc10244dd67d460?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Sep 30 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Intern - Siting Division - Dept. Public Utilities](https://jobright.ai/jobs/info/68dc7c76accfd24b67e55c8f?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 South Station | On Site | Sep 30 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Management Associate I - MTPD](https://jobright.ai/jobs/info/68dc323a66059a42a715c6ba?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
-| ↳ | **[Metro College Internship Program - Safety Data Analytics](https://jobright.ai/jobs/info/68dc31e7d6470e72cf4d963b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
