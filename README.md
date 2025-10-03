@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wake County](https://www.wakegov.com)** | **[Child Welfare Continuous Quality Improvement Manager](https://jobright.ai/jobs/info/68df52ed6be63b6ec996ebff?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Oct 02 |
 | **[Nashville Tree Foundation](http://www.nashvilletreefoundation.org/)** | **[Forestry/Volunteer Coordinator Intern](https://jobright.ai/jobs/info/68df35ad5ab4977c2e951801?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Oct 02 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Office of Safety, Policy & Promotion-SPP](https://jobright.ai/jobs/info/68df2648fe896042b0b7755d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
 | **[IUCN World Commission on Environmental Law](https://www.iucn.org/commissions/world-commission-environmental-law)** | **[Intern, Climate Change](https://jobright.ai/jobs/info/68df06f66be63b6ec996978e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 02 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Senior Psychologist (Service Chief) - Mental Health Associate Chief of Staff](https://jobright.ai/jobs/info/68deb2ac09bda65a4b62ce56?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Oct 02 |
 | **[State of Ohio](http://ohio.gov/)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/68deb06c09bda65a4b62ccd7?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, International Engagement & Strategy - IF](https://jobright.ai/jobs/info/68deb03f09bda65a4b62ccb1?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Oct 02 |
-| **[State of Ohio](http://ohio.gov/)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/68deb01344d32141e0c019ef?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
+| **[State of Ohio](http://ohio.gov/)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/68dead7e09bda65a4b62cc46?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
 | ↳ | **[Public Information Office Intern](https://jobright.ai/jobs/info/68dead5144d32141e0c0182e?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
 | ↳ | **[Judicial College Intern](https://jobright.ai/jobs/info/68dead3c44d32141e0c01818?utm_campaign=1056&utm_source=git)** | Ohio Judicial Center65 South Front Street | On Site | Oct 02 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Development Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/68deacc4a125e75c422b5b52?utm_campaign=1056&utm_source=git)** | New York | Remote | Oct 02 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Allegheny County Department of Human Services Internship -  Analytics, Technology & Planning](https://jobright.ai/jobs/info/68de2d0d44d32141e0bfcf7a?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 02 |
 | ↳ | **[2026 Allegheny County Department of Human Services Internship -  Developmental Supports](https://jobright.ai/jobs/info/68de2cf044d32141e0bfcf13?utm_campaign=1056&utm_source=git)** | Greentree, Pennsylvania, United States | On Site | Oct 02 |
 | ↳ | **[2026 Allegheny County Department of Human Services Internship Program - Equity & Engagement](https://jobright.ai/jobs/info/68de2bfe09bda65a4b626381?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 02 |
+| **[Signorelli Company](https://www.signorellicompany.com/)** | **[Land Development Intern](https://jobright.ai/jobs/info/68df5e9c6be63b6ec996f613?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Oct 01 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Public Affairs & Engagement - Summer 2026 Intern](https://jobright.ai/jobs/info/68ddfba409bda65a4b625803?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 01 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Policy & Analytics Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68df3fda6be63b6ec996dbda?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/68ddd9c8a125e75c422af538?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Oct 01 |
@@ -138,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Business & Human Rights Resource Centre](http://business-humanrights.org)** | **[Research Intern for the Americas Program](https://jobright.ai/jobs/info/68dccd61accfd24b67e5a24d?utm_campaign=1056&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Connection Pointe Christian Church](http://www.connectionpointe.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/68df3fdb6be63b6ec996dbdc?utm_campaign=1056&utm_source=git)** | Brownsburg, IN | On Site | Sep 30 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/68dc8eacddc10244dd676b4c?utm_campaign=1056&utm_source=git)** | Colora, MD | On Site | Sep 30 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8a12a125e75c422a19ec?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Community Outreach & Engagement Intern](https://jobright.ai/jobs/info/68dc8b41a125e75c422a1c7a?utm_campaign=1056&utm_source=git)** | Dearborn, MI | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[Community Health and Well-Being â€“ Senior Services Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc8708accfd24b67e565aa?utm_campaign=1056&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Program Intern for Friends of Puerto Rico](https://jobright.ai/jobs/info/68dce1b6accfd24b67e5b566?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[West Fargo Public Schools](http://www.west-fargo.k12.nd.us)** | **[Social Worker - Intern](https://jobright.ai/jobs/info/68dd11f644d32141e0bf3d1e?utm_campaign=1056&utm_source=git)** | West Fargo, ND | On Site | Sep 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc6019ddc10244dd674f19?utm_campaign=1056&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5bf1accfd24b67e54b00?utm_campaign=1056&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5ba6accfd24b67e54a6c?utm_campaign=1056&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
-| ↳ | **[College Intern I - Summer 2026 - Records and Information Management](https://jobright.ai/jobs/info/68dc5b5dddc10244dd6748f1?utm_campaign=1056&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
-| **[Charlotte Hornets](https://hornets.nba.com)** | **[Community Impact Intern, Greensboro Swarm](https://jobright.ai/jobs/info/68dc4614accfd24b67e53b62?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
