@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic and Financial Power Internship Spring 2026](https://jobright.ai/jobs/info/68e227ab1852e62f007f66f1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68e1e8d71852e62f007f4477?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Oct 04 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/68e1e4d61852e62f007f412c?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/68e1a49db99ec3563b0d7d29?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
@@ -136,11 +137,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a8b99ec3563b0ce0c6?utm_campaign=1056&utm_source=git)** | Remote-VT | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a7f758fe1f97e4bc34?utm_campaign=1056&utm_source=git)** | Remote-CT | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a7f758fe1f97e4bc36?utm_campaign=1056&utm_source=git)** | Remote-GA | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a3b99ec3563b0ce0b6?utm_campaign=1056&utm_source=git)** | Remote-DC | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a3b99ec3563b0ce0b7?utm_campaign=1056&utm_source=git)** | Remote-NJ | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428f1852e62f007e9781?utm_campaign=1056&utm_source=git)** | Remote-SD | Remote | Oct 03 |
+| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a3b99ec3563b0ce0b6?utm_campaign=1056&utm_source=git)** | Remote-DC | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428f1852e62f007e9780?utm_campaign=1056&utm_source=git)** | Remote-PA | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428ff758fe1f97e4bc09?utm_campaign=1056&utm_source=git)** | Remote-RI | Remote | Oct 03 |
+| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428f1852e62f007e9781?utm_campaign=1056&utm_source=git)** | Remote-SD | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428cb99ec3563b0ce08d?utm_campaign=1056&utm_source=git)** | Remote-ND | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428cb99ec3563b0ce08c?utm_campaign=1056&utm_source=git)** | Remote-NY | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04287f758fe1f97e4bbfb?utm_campaign=1056&utm_source=git)** | Remote-AK | Remote | Oct 03 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04277b99ec3563b0ce069?utm_campaign=1056&utm_source=git)** | Remote-MS | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04260f758fe1f97e4bbc9?utm_campaign=1056&utm_source=git)** | Remote-IA | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0425f1852e62f007e96fc?utm_campaign=1056&utm_source=git)** | Remote-NM | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0425db99ec3563b0ce047?utm_campaign=1056&utm_source=git)** | Remote-MN | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0425db99ec3563b0ce046?utm_campaign=1056&utm_source=git)** | Remote-HI | Remote | Oct 03 |
+| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0425db99ec3563b0ce047?utm_campaign=1056&utm_source=git)** | Remote-MN | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04257f758fe1f97e4bbb8?utm_campaign=1056&utm_source=git)** | Remote-AZ | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04250b99ec3563b0ce02e?utm_campaign=1056&utm_source=git)** | Remote-TX | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e04234f758fe1f97e4bb6f?utm_campaign=1056&utm_source=git)** | Remote-NV | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042321852e62f007e9680?utm_campaign=1056&utm_source=git)** | Remote-WI | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042311852e62f007e967f?utm_campaign=1056&utm_source=git)** | Remote-UT | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0422fb99ec3563b0ce00e?utm_campaign=1056&utm_source=git)** | Remote-MO | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0422fb99ec3563b0ce00f?utm_campaign=1056&utm_source=git)** | Remote-WY | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
