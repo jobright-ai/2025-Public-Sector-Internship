@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Barron's Advisor Intern](https://jobright.ai/jobs/info/68e3fec6b99ec3563b0e4952?utm_campaign=1056&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68e3fb9f1852e62f007ffe1c?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 06 |
+| **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68e3ec2db99ec3563b0e3cef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
+| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Social Work Intern Manager](https://jobright.ai/jobs/info/68e3e6c6f758fe1f97e6195b?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 06 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68e3db6db99ec3563b0e3086?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 06 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Emerging Issues Policy - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b6975c25e576f7b29f9b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Intern- Policy Effectiveness and Assessment- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68ca64455f9f0336447dd1a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
@@ -71,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026, Government Affairs Internship, Office of Communications (Job ID 2025-3728)](https://jobright.ai/jobs/info/68e387deb99ec3563b0e11f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/68e371fa1852e62f007fbd85?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International’s U.S. Internship Program  (Summer 2026)](https://jobright.ai/jobs/info/68e0892ff758fe1f97e4df1f?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 05 |
-| **[State of Washington](http://access.wa.gov/)** | **[CORRECTIONS SPECIALIST 4 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e3a7461852e62f007fd2b7?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
-| ↳ | **[COMMUNITY CORRECTIONS OFFICER 2 - Thurston Co. Unit 601 (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e37efcb99ec3563b0e0c09?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
+| **[State of Washington](http://access.wa.gov/)** | **[COMMUNITY CORRECTIONS OFFICER 2 - Thurston Co. Unit 601 (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e37efcb99ec3563b0e0c09?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
+| ↳ | **[CORRECTIONS SPECIALIST 4 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e386c8f758fe1f97e5ef49?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68e2f28f1852e62f007f8b1b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 05 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/68e2d714f758fe1f97e5aedf?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 05 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Internship Spring 2026](https://jobright.ai/jobs/info/68e2d291b99ec3563b0dcf46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 05 |
@@ -105,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09c96b99ec3563b0d1510?utm_campaign=1056&utm_source=git)** | Nevada, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0952af758fe1f97e4eafb?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09523f758fe1f97e4eaeb?utm_campaign=1056&utm_source=git)** | Delaware, United States | Remote | Oct 03 |
+| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094fd1852e62f007ec684?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094fd1852e62f007ec685?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094d8f758fe1f97e4ea78?utm_campaign=1056&utm_source=git)** | Montana, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094cff758fe1f97e4ea62?utm_campaign=1056&utm_source=git)** | Iowa, United States | Remote | Oct 03 |
@@ -115,9 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0946bb99ec3563b0d0e98?utm_campaign=1056&utm_source=git)** | South Dakota, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09451b99ec3563b0d0e5f?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094201852e62f007ec4bf?utm_campaign=1056&utm_source=git)** | Michigan, United States | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0941ef758fe1f97e4e91f?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0941ab99ec3563b0d0e00?utm_campaign=1056&utm_source=git)** | Connecticut, United States | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093fd1852e62f007ec46c?utm_campaign=1056&utm_source=git)** | Greater Enid Area | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093d41852e62f007ec41d?utm_campaign=1056&utm_source=git)** | South Carolina, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093be1852e62f007ec3e6?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e093bbb99ec3563b0d0d5a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | Remote | Oct 03 |
@@ -146,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68e07bebb99ec3563b0cfced?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Oct 03 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68e07b22f758fe1f97e4d84f?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | Hybrid | Oct 03 |
 | **[EAC Network](https://eac-network.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68e07388f758fe1f97e4d494?utm_campaign=1056&utm_source=git)** | Garden City, NY, USA | Remote | Oct 03 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA/Legislative Affairs Intern](https://jobright.ai/jobs/info/68e071acb99ec3563b0cf849?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 03 |
 | **[Verizon](https://www.verizon.com)** | **[Responsible Business Strategic Alliances Summer 2026 Internship](https://jobright.ai/jobs/info/68e05940f758fe1f97e4ca1a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Costa Mesa, CA - Food and Agriculture Administration](https://jobright.ai/jobs/info/68e058ebf758fe1f97e4c9a6?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Policy Intern - Reason Foundation](https://jobright.ai/jobs/info/68e04ff61852e62f007ea0a5?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042c81852e62f007e981d?utm_campaign=1056&utm_source=git)** | Remote-MD | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042bcf758fe1f97e4bc58?utm_campaign=1056&utm_source=git)** | Remote-NH | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042b21852e62f007e97dc?utm_campaign=1056&utm_source=git)** | Remote-FL | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042adf758fe1f97e4bc3e?utm_campaign=1056&utm_source=git)** | Remote-TN | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042ac1852e62f007e97d4?utm_campaign=1056&utm_source=git)** | Remote-OR | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
