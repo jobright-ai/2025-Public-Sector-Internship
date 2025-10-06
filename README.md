@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Emerging Issues Policy - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b6975c25e576f7b29f9b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
+| ↳ | **[Summer 2026 Intern- Policy Effectiveness and Assessment- Division of Supervision & Regulation](https://jobright.ai/jobs/info/68ca64455f9f0336447dd1a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68e3b55df758fe1f97e5fe9a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Research Internship, Center for Economic Security and Opportunity, Economic Studies (Job ID 2025-3719)](https://jobright.ai/jobs/info/68e394f2b99ec3563b0e184a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
 | ↳ | **[Spring 2026, Research Internship, Center on Health Policy, Economic Studies (Job ID 2025-3721)](https://jobright.ai/jobs/info/68e392771852e62f007fcddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 06 |
 | ↳ | **[Spring 2026, Research Internship, China Center, Foreign Policy (Job ID 2026-3727)](https://jobright.ai/jobs/info/68e3926f1852e62f007fcdcd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042bcf758fe1f97e4bc58?utm_campaign=1056&utm_source=git)** | Remote-NH | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042b21852e62f007e97dc?utm_campaign=1056&utm_source=git)** | Remote-FL | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042adf758fe1f97e4bc3e?utm_campaign=1056&utm_source=git)** | Remote-TN | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042ac1852e62f007e97d4?utm_campaign=1056&utm_source=git)** | Remote-OR | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a8b99ec3563b0ce0c6?utm_campaign=1056&utm_source=git)** | Remote-VT | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a7f758fe1f97e4bc34?utm_campaign=1056&utm_source=git)** | Remote-CT | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
