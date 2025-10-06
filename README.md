@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Access Services](https://www.accessservices.org)** | **[Internship: Justice Related Services - Bucks County (Fall 2025)](https://jobright.ai/jobs/info/68e43275f758fe1f97e653d0?utm_campaign=1056&utm_source=git)** | Yardley, PA | On Site | Oct 06 |
+| ↳ | **[Internship: Justice Related Services - Bucks County (Fall 2025)](https://jobright.ai/jobs/info/68e43128f758fe1f97e651bf?utm_campaign=1056&utm_source=git)** | Bensalem, PA | On Site | Oct 06 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68e42f9db99ec3563b0e7228?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 06 |
+| **[Steptoe LLP](http://www.steptoe.com/)** | **[Spring GAPP Intern](https://jobright.ai/jobs/info/68e42af3b99ec3563b0e6ee2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Medical Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/68e429deb99ec3563b0e6d4d?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 06 |
+| ↳ | **[Health Equity Impact Intern - Summer 2026](https://jobright.ai/jobs/info/68e42159b99ec3563b0e666c?utm_campaign=1056&utm_source=git)** | United States | On Site | Oct 06 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68e41bbeb99ec3563b0e616c?utm_campaign=1056&utm_source=git)** | Des Moines, Iowa, United States | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Health Equity Impact Intern - Summer 2026](https://jobright.ai/jobs/info/68e41b0cb99ec3563b0e5f8c?utm_campaign=1056&utm_source=git)** | US - Remote | Hybrid | Oct 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Survivors of Torture Casework Intern– UNPAID](https://jobright.ai/jobs/info/68e41ae1f758fe1f97e63e9c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Oct 06 |
@@ -65,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68e3fb9f1852e62f007ffe1c?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 06 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Stanley A. Weiss Fellowship - Spring 2026](https://jobright.ai/jobs/info/68e3ec2db99ec3563b0e3cef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Social Work Intern Manager](https://jobright.ai/jobs/info/68e3e6c6f758fe1f97e6195b?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 06 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Emerging Issues Policy - Division of Supervision & Regulation](https://jobright.ai/jobs/info/68c7b6975c25e576f7b29f9b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68e3b55df758fe1f97e5fe9a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Research Internship, Center for Economic Security and Opportunity, Economic Studies (Job ID 2025-3719)](https://jobright.ai/jobs/info/68e394f2b99ec3563b0e184a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
 | ↳ | **[Spring 2026, Research Internship, Center on Health Policy, Economic Studies (Job ID 2025-3721)](https://jobright.ai/jobs/info/68e392771852e62f007fcddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 06 |
@@ -104,11 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Policy Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a3591852e62f007ed49e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 03 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship (Bachelor of Social Work) - Teen & Adult Services - Spring2026](https://jobright.ai/jobs/info/68e1ec601852e62f007f4643?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Oct 03 |
 | **[State of Utah](http://www.utah.gov/)** | **[2026 Legislative Session Internship – State Treasurer](https://jobright.ai/jobs/info/68e0a1bbb99ec3563b0d1919?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Oct 03 |
-| **[Centene Corporation](http://www.centene.com)** | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09e951852e62f007ed1af?utm_campaign=1056&utm_source=git)** | Providence County, RI | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09d671852e62f007ecee3?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Oct 03 |
+| **[Centene Corporation](http://www.centene.com)** | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e09d671852e62f007ecee3?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0952af758fe1f97e4eafb?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094fd1852e62f007ec685?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094fd1852e62f007ec684?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 03 |
+| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094fd1852e62f007ec685?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094cff758fe1f97e4ea62?utm_campaign=1056&utm_source=git)** | Iowa, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094caf758fe1f97e4ea54?utm_campaign=1056&utm_source=git)** | Mississippi, United States | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e094bd1852e62f007ec5fa?utm_campaign=1056&utm_source=git)** | Louisiana, United States | Remote | Oct 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042bcf758fe1f97e4bc58?utm_campaign=1056&utm_source=git)** | Remote-NH | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042b21852e62f007e97dc?utm_campaign=1056&utm_source=git)** | Remote-FL | Remote | Oct 03 |
 | ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042adf758fe1f97e4bc3e?utm_campaign=1056&utm_source=git)** | Remote-TN | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042ac1852e62f007e97d4?utm_campaign=1056&utm_source=git)** | Remote-OR | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a7f758fe1f97e4bc34?utm_campaign=1056&utm_source=git)** | Remote-CT | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e042a3b99ec3563b0ce0b7?utm_campaign=1056&utm_source=git)** | Remote-NJ | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428f1852e62f007e9781?utm_campaign=1056&utm_source=git)** | Remote-SD | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428ff758fe1f97e4bc09?utm_campaign=1056&utm_source=git)** | Remote-RI | Remote | Oct 03 |
-| ↳ | **[Community Impact Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68e0428cb99ec3563b0ce08c?utm_campaign=1056&utm_source=git)** | Remote-NY | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
