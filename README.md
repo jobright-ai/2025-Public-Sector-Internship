@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Philanthropy Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68e4eb7e1852e62f0080adeb?utm_campaign=1056&utm_source=git)** | Franklin, TN | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Tech Policy & Planning](https://jobright.ai/jobs/info/68e4cd46b99ec3563b0ee45e?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID 2026-3734)](https://jobright.ai/jobs/info/68e49ab7ae2b894b1d706e67?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 06 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Initiative On Holocaust Denial And Antisemitism - Hybrid Onsite](https://jobright.ai/jobs/info/68e49532ae2b894b1d706a97?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
@@ -145,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68e083d7f758fe1f97e4dced?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Oct 03 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68e07bebb99ec3563b0cfced?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Oct 03 |
 | **[EAC Network](https://eac-network.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68e07388f758fe1f97e4d494?utm_campaign=1056&utm_source=git)** | Garden City, NY, USA | Remote | Oct 03 |
+| **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/68e062111852e62f007ea905?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 03 |
 | **[Verizon](https://www.verizon.com)** | **[Responsible Business Strategic Alliances Summer 2026 Internship](https://jobright.ai/jobs/info/68e05940f758fe1f97e4ca1a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Costa Mesa, CA - Food and Agriculture Administration](https://jobright.ai/jobs/info/68e058ebf758fe1f97e4c9a6?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Policy Intern - Reason Foundation](https://jobright.ai/jobs/info/68e04ff61852e62f007ea0a5?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 03 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship Program - Equity & Engagement](https://jobright.ai/jobs/info/68e03519b99ec3563b0cd526?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | ↳ | **[2026 Allegheny County Department of Human Services Internship - Community Services](https://jobright.ai/jobs/info/68e0342db99ec3563b0cd3a9?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | ↳ | **[2026 Allegheny County Department of Human Services Internship - Behavioral Health](https://jobright.ai/jobs/info/68e03371f758fe1f97e4ac4e?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
-| **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/68e03340b99ec3563b0cd0e1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 03 |
 | **[Issue One](https://www.issueone.org/)** | **[Strategic Engagement Intern](https://jobright.ai/jobs/info/68e01a7b1852e62f007e7364?utm_campaign=1056&utm_source=git)** | WASHINGTON, District of Columbia, United States | Hybrid | Oct 03 |
-| **[OSCE](https://savitashawls.com/)** | **[International Intern, Human Dimension](https://jobright.ai/jobs/info/68dfe803b99ec3563b0ca060?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
