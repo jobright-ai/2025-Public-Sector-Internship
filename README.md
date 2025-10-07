@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veloso Justice Center](https://www.linkedin.com/company/104560358)** | **[Policy & Research Intern (UNPAID)](https://jobright.ai/jobs/info/68e5515cae2b894b1d70d4f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
+| **[Ali for Jersey City](ali2025.com)** | **[Field Intern – Mussab Ali for Mayor of Jersey City](https://jobright.ai/jobs/info/68e550e01852e62f0080e2f6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
+| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[(Auraria) Campus Police Officer Intern (Police Academy Sponsored)](https://jobright.ai/jobs/info/68e55049b99ec3563b0f2a6c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Oct 07 |
 | **[University of Michigan](https://www.umich.edu)** | **[Procurement Services Intern](https://jobright.ai/jobs/info/68e52aba1852e62f0080c5bb?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Oct 07 |
 | **[American Economic Liberties Project](https://www.economicliberties.us)** | **[Research Intern](https://jobright.ai/jobs/info/68e529ef1852e62f0080c464?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Undergraduate Internship- Detained Adult Program, Know Your Rights](https://jobright.ai/jobs/info/68e5291fb99ec3563b0f0a53?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
@@ -80,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Center for Community Uplift Research Internship, Brookings Metro (Job ID 2025-3738)](https://jobright.ai/jobs/info/68e49b0bb99ec3563b0ec35c?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Barron's Advisor Intern](https://jobright.ai/jobs/info/68e47ba1f758fe1f97e68bb9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Zipline](http://flyzipline.com)** | **[Public Affairs Internship Intern (Spring 2026)](https://jobright.ai/jobs/info/68e47774b99ec3563b0eaad5?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Oct 06 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68e47671b99ec3563b0ea9d1?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Oct 06 |
-| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68e473811852e62f008061af?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Oct 06 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68e473811852e62f008061af?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Oct 06 |
 | **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Planning)](https://jobright.ai/jobs/info/68e46e91f758fe1f97e68431?utm_campaign=1056&utm_source=git)** | Moreno Valley, CA | On Site | Oct 06 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68e45a9e1852e62f00805003?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 06 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[MENTAL HEALTH SPECIALIST, INTERN](https://jobright.ai/jobs/info/68e45482b99ec3563b0e93d0?utm_campaign=1056&utm_source=git)** | Moore Haven, FL | On Site | Oct 06 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68e083d7f758fe1f97e4dced?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Oct 03 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68e07bebb99ec3563b0cfced?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Oct 03 |
 | **[EAC Network](https://eac-network.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68e07388f758fe1f97e4d494?utm_campaign=1056&utm_source=git)** | Garden City, NY, USA | Remote | Oct 03 |
-| **[ASPCA](http://www.aspca.org/)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/68e062111852e62f007ea905?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 03 |
 | **[Verizon](https://www.verizon.com)** | **[Responsible Business Strategic Alliances Summer 2026 Internship](https://jobright.ai/jobs/info/68e05940f758fe1f97e4ca1a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Costa Mesa, CA - Food and Agriculture Administration](https://jobright.ai/jobs/info/68e058ebf758fe1f97e4c9a6?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Policy Intern - Reason Foundation](https://jobright.ai/jobs/info/68e04ff61852e62f007ea0a5?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 03 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/68e0431b1852e62f007e98a1?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
