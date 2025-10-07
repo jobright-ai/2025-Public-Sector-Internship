@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Public Policy & Public Health Internship](https://jobright.ai/jobs/info/68e58890ae2b894b1d710ab8?utm_campaign=1056&utm_source=git)** | Atlanta Metro | On Site | Oct 07 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Public Engagement Intern](https://jobright.ai/jobs/info/68e5764b1852e62f008103d4?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 07 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - Transportation Communications & Policy Intern (Summer 2026!)](https://jobright.ai/jobs/info/68e568d3b99ec3563b0f3f4c?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 07 |
-| ↳ | **[Masters - Transportation Communications &amp; Policy Intern (Summer 2026!)](https://jobright.ai/jobs/info/68e563151852e62f0080f284?utm_campaign=1056&utm_source=git)** | Washington - Bellevue | Hybrid | Oct 07 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Community Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5624bb99ec3563b0f38c4?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Oct 07 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - Transportation Communications & Policy Intern (Summer 2026!)](https://jobright.ai/jobs/info/68e560fbb99ec3563b0f3665?utm_campaign=1056&utm_source=git)** | Bellevue, WA | On Site | Oct 07 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - Transportation Communications &amp; Policy Intern (Summer 2026!)](https://jobright.ai/jobs/info/68e5618bae2b894b1d70e069?utm_campaign=1056&utm_source=git)** | Washington - Bellevue | Hybrid | Oct 07 |
+| ↳ | **[Masters - Transportation Communications & Policy Intern (Summer 2026!)](https://jobright.ai/jobs/info/68e560fbb99ec3563b0f3665?utm_campaign=1056&utm_source=git)** | Bellevue, WA | On Site | Oct 07 |
 | **[22nd Century Technologies Inc.](https://tscti.com/)** | **[Student Intern (Public Policy, Public Administration, Political Science, Business Administration)](https://jobright.ai/jobs/info/68e557711852e62f0080e858?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Oct 07 |
 | **[Veloso Justice Center](https://www.linkedin.com/company/104560358)** | **[Policy & Research Intern (UNPAID)](https://jobright.ai/jobs/info/68e5515cae2b894b1d70d4f9?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Ali for Jersey City](ali2025.com)** | **[Field Intern – Mussab Ali for Mayor of Jersey City](https://jobright.ai/jobs/info/68e550e01852e62f0080e2f6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68e473811852e62f008061af?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Oct 06 |
 | **[City of Moreno Valley](https://moval.gov)** | **[Intern II (Planning)](https://jobright.ai/jobs/info/68e46e91f758fe1f97e68431?utm_campaign=1056&utm_source=git)** | Moreno Valley, CA | On Site | Oct 06 |
 | **[State of Washington](http://access.wa.gov/)** | **[CORRECTIONS SPECIALIST 3 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e5592a1852e62f0080ea70?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 06 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68e45a9e1852e62f00805003?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 06 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[MENTAL HEALTH SPECIALIST, INTERN](https://jobright.ai/jobs/info/68e45482b99ec3563b0e93d0?utm_campaign=1056&utm_source=git)** | Moore Haven, FL | On Site | Oct 06 |
 | **[State of Utah](http://www.utah.gov/)** | **[2026 Legislative Session Internship – State Treasurer](https://jobright.ai/jobs/info/68e0a1bbb99ec3563b0d1919?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Oct 06 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Intern Administrative (Community Support Ripley House)](https://jobright.ai/jobs/info/68e440eff758fe1f97e661ad?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship (Bachelor of Social Work) - Teen & Adult Services - Spring2026](https://jobright.ai/jobs/info/68e1ec601852e62f007f4643?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Oct 03 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - Capital Planning](https://jobright.ai/jobs/info/68e08f79f758fe1f97e4e636?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68e084bcf758fe1f97e4ddb3?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Oct 03 |
-| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/68e07bebb99ec3563b0cfced?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
