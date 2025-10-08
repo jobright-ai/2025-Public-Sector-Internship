@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Government Affairs - Skillbridge Fellow](https://jobright.ai/jobs/info/68e6826eae2b894b1d71aeab?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 08 |
+| **[Velocity Government Relations](https://www.velocitygr.com/)** | **[Spring Government Relations Fellow](https://jobright.ai/jobs/info/68e67eb51852e62f0081b821?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68e679771852e62f0081b62d?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Oct 08 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Protective Services Unit – BDM](https://jobright.ai/jobs/info/68cd10eae23def7af55b497b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68e641f0ae2b894b1d719660?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - United Nations Sustainable Development Group System-Wide Evaluation Office
@@ -64,16 +67,16 @@ Job ID : 265472](https://jobright.ai/jobs/info/68e634a5ae2b894b1d719104?utm_camp
 | **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e623bfae2b894b1d718820?utm_campaign=1056&utm_source=git)** | Florida, United States | Hybrid | Oct 08 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e620a61852e62f008192fd?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e6182aae2b894b1d717cec?utm_campaign=1056&utm_source=git)** | East Lake-Orient Park, FL | Hybrid | Oct 08 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e610f71852e62f008181c6?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60d78ae2b894b1d716fe3?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60cc5e8daec61499a7be4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61214ae2b894b1d717431?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e610f71852e62f008181c6?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60a3f1852e62f00817992?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e608c9e8daec61499a7a3f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60793e8daec61499a782e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e63283e8daec61499a9f9e?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60274e8daec61499a748a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6015be8daec61499a72cc?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e605611852e62f0081761e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6055aae2b894b1d71672d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e627c81852e62f00819828?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e627d51852e62f00819836?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e641141852e62f0081a2e7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e62f0dae2b894b1d718dcf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61c47ae2b894b1d718009?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/68e5cc85ae2b894b1d713a44?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | ↳ | **[Mission Services Intern](https://jobright.ai/jobs/info/68e5caffe8daec61499a48cc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
@@ -155,7 +158,4 @@ Job ID : 265472](https://jobright.ai/jobs/info/68e634a5ae2b894b1d719104?utm_camp
 | ↳ | **[Spring 2026, Government Affairs Internship, Office of Communications (Job ID 2025-3728)](https://jobright.ai/jobs/info/68e387deb99ec3563b0e11f6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/68e371fa1852e62f007fbd85?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 06 |
 | **[State of Washington](http://access.wa.gov/)** | **[CORRECTIONS SPECIALIST 4 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e43fc81852e62f0080391b?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
-| **[PwC Experience Center Stockholm](https://digital.pwc.com/en-se.html)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e62aa6e8daec61499a9a10?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 05 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International’s U.S. Internship Program  (Summer 2026)](https://jobright.ai/jobs/info/68e0892ff758fe1f97e4df1f?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 05 |
-| **[State of Washington](http://access.wa.gov/)** | **[CORRECTIONS SPECIALIST 4 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e5dee9ae2b894b1d714880?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
