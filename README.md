@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/68e5cc85ae2b894b1d713a44?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| ↳ | **[Mission Services Intern](https://jobright.ai/jobs/info/68e5caffe8daec61499a48cc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68e5c9031852e62f008144d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68e5aaeae8daec61499a374a?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 07 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Section Chief - Impact Unit 6 Admin (South County Clinics)](https://jobright.ai/jobs/info/68e5a669e8daec61499a3507?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 07 |
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Intern (Human Rights Administration)](https://jobright.ai/jobs/info/68e5a5531852e62f008133be?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Oct 07 |
@@ -137,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Public Health Internship (Spring 2026)](https://jobright.ai/jobs/info/68e371fa1852e62f007fbd85?utm_campaign=1056&utm_source=git)** | Lincoln, NE | Hybrid | Oct 06 |
 | **[State of Washington](http://access.wa.gov/)** | **[CORRECTIONS SPECIALIST 4 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e43fc81852e62f0080391b?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International’s U.S. Internship Program  (Summer 2026)](https://jobright.ai/jobs/info/68e0892ff758fe1f97e4df1f?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 05 |
+| **[State of Washington](http://access.wa.gov/)** | **[CORRECTIONS SPECIALIST 4 - Graduated Reentry Screening Unit (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/68e5dee9ae2b894b1d714880?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Oct 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Fall 2025)](https://jobright.ai/jobs/info/68e2f28f1852e62f007f8b1b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 05 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/68e2d714f758fe1f97e5aedf?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 05 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Israel Program Research Internship Spring 2026](https://jobright.ai/jobs/info/68e2d291b99ec3563b0dcf46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e344b01852e62f007fa050?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 04 |
 | ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e33cbd1852e62f007f9be2?utm_campaign=1056&utm_source=git)** | Woburn, MA | On Site | Oct 04 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/68e1e4d61852e62f007f412c?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 04 |
-| **[Cradles to Crayons](http://www.cradlestocrayons.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e33db7f758fe1f97e5c2c0?utm_campaign=1056&utm_source=git)** | Chelsea, MA | On Site | Oct 04 |
-| **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/68e1a49db99ec3563b0d7d29?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
-| **[Link Logistics](https://www.linklogistics.com/)** | **[Sustainability Summer Intern](https://jobright.ai/jobs/info/68e18f3a1852e62f007f32a6?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 04 |
-| **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship - Developmental Supports](https://jobright.ai/jobs/info/68e18f26f758fe1f97e558f8?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
