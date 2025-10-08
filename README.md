@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61380e8daec61499a8322?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60cbbe8daec61499a7bcb?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60b7c1852e62f00817bd4?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e608c9e8daec61499a7a3f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6055aae2b894b1d71672d?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e605491852e62f008175f2?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e604f21852e62f0081755e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/68e5cc85ae2b894b1d713a44?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | ↳ | **[Mission Services Intern](https://jobright.ai/jobs/info/68e5caffe8daec61499a48cc?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Sanofi](https://www.sanofi.com)** | **[Policy and Federal Government Relationships Summer 2026 Intern](https://jobright.ai/jobs/info/68e5c9031852e62f008144d6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/68e2505df758fe1f97e5a0ae?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Economic and Financial Power Internship Spring 2026](https://jobright.ai/jobs/info/68e227ab1852e62f007f66f1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[Cradles to Crayons](http://www.cradlestocrayons.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e33c461852e62f007f9af5?utm_campaign=1056&utm_source=git)** | Natick, MA | On Site | Oct 04 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e348b61852e62f007fa264?utm_campaign=1056&utm_source=git)** | Malden, MA | On Site | Oct 04 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e336f4b99ec3563b0ddfc0?utm_campaign=1056&utm_source=git)** | Medford, MA | On Site | Oct 04 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e3489a1852e62f007fa24f?utm_campaign=1056&utm_source=git)** | Everett, MA | On Site | Oct 04 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e338df1852e62f007f9929?utm_campaign=1056&utm_source=git)** | Watertown, MA | On Site | Oct 04 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e344b01852e62f007fa050?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 04 |
-| ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/68e33cbd1852e62f007f9be2?utm_campaign=1056&utm_source=git)** | Woburn, MA | On Site | Oct 04 |
-| **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/68e1e4d61852e62f007f412c?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
