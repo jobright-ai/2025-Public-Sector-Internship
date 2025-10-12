@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eadf6176a1db7c5985c636?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 11 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Health Leadership & Wellness Internship](https://jobright.ai/jobs/info/68eacb682f64880ca0b5432a?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa63b8369791ef7822998?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa4782f64880ca0b53b48?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa4782f64880ca0b53b48?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e620a61852e62f008192fd?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e641141852e62f0081a2e7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[City of New York](http://www1.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/68ea53922f64880ca0b52046?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Oct 11 |
 | ↳ | **[Research and Policy Intern (Remedy and Reconstruction)](https://jobright.ai/jobs/info/68ea534b8369791ef7820dd6?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Oct 11 |
@@ -119,7 +119,7 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68e7e810c4895107182bf5cb?utm_campaign=1056&utm_source=git)** | US - WI - Madison | On Site | Oct 09 |
 | **[State of Ohio](http://ohio.gov/)** | **[2026 Spring College Internship](https://jobright.ai/jobs/info/68e6e6dae8daec61499b0606?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Oct 09 |
 | **[OSCE](https://savitashawls.com/)** | **[International Intern, Human Dimension](https://jobright.ai/jobs/info/68dfe803b99ec3563b0ca060?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Oct 09 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[International Advisor](https://jobright.ai/jobs/info/68e7cc3609580a2fe57efa1c?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 09 |
+| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[International Advisor](https://jobright.ai/jobs/info/68e7cc3609580a2fe57efa1c?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 09 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - Teen & Adult Services  (Spring 2026)](https://jobright.ai/jobs/info/68e8b21909580a2fe57faa3b?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Oct 08 |
 | ↳ | **[UNPAID Internship - Teen & Adult Services (Spring 2026)](https://jobright.ai/jobs/info/68e8b23acc49a84b7e109197?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Oct 08 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[Population Health + Wellness Intern](https://jobright.ai/jobs/info/68e72ceeae2b894b1d722061?utm_campaign=1056&utm_source=git)** | Phoenix, Arizona | On Site | Oct 08 |
@@ -158,5 +158,5 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e623bfae2b894b1d718820?utm_campaign=1056&utm_source=git)** | Florida, United States | Hybrid | Oct 08 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Mission:Dignity](https://jobright.ai/jobs/info/68eb825476a1db7c5986097a?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Oct 08 |
 | **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e6182aae2b894b1d717cec?utm_campaign=1056&utm_source=git)** | East Lake-Orient Park, FL | Hybrid | Oct 08 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61245e8daec61499a8147?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61380e8daec61499a8322?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
