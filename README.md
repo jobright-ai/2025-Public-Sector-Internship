@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eadf6176a1db7c5985c636?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 11 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Health Leadership & Wellness Internship](https://jobright.ai/jobs/info/68eacb682f64880ca0b5432a?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Oct 11 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68eab4592f64880ca0b53eca?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa63b8369791ef7822998?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 11 |
@@ -115,7 +116,6 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68e74b4bae2b894b1d723444?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Oct 08 |
 | **[Louisiana Public Health Institute](https://lphi.org)** | **[Family Health Intern](https://jobright.ai/jobs/info/68e7378f1852e62f008233bb?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Oct 08 |
 | **[City of Fishers](https://www.fishers.in.us/)** | **[Public Health Intern](https://jobright.ai/jobs/info/68e7d45909580a2fe57efefe?utm_campaign=1056&utm_source=git)** | Fishers, IN | On Site | Oct 08 |
-| **[Orlando Health](https://www.orlandohealth.com/)** | **[Intern - Orlando Health Foundation](https://jobright.ai/jobs/info/68e707b5e8daec61499b1851?utm_campaign=1056&utm_source=git)** | Orlando, Florida | On Site | Oct 08 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/68e707541852e62f0082155f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Federal Policy (Winter/Spring 2026)](https://jobright.ai/jobs/info/68e70081ae2b894b1d720538?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[American University](http://american.edu)** | **[Investigative Reporting Workshop Intern (Student)](https://jobright.ai/jobs/info/68e6ff7ae8daec61499b1329?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
@@ -147,16 +147,16 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[Crowe](https://www.crowe.com/)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68ce7de0fb49c96ca6ea0e8d?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Oct 08 |
 | **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e623bfae2b894b1d718820?utm_campaign=1056&utm_source=git)** | Florida, United States | Hybrid | Oct 08 |
 | ↳ | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e6182aae2b894b1d717cec?utm_campaign=1056&utm_source=git)** | East Lake-Orient Park, FL | Hybrid | Oct 08 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e613d7e8daec61499a83dc?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61380e8daec61499a8322?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e68774ae2b894b1d71aff5?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e608c9e8daec61499a7a3f?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e607b0e8daec61499a7851?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 07 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61308e8daec61499a8265?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e611fdae2b894b1d7173ef?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60cc5e8daec61499a7be4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60b7c1852e62f00817bd4?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6897ae8daec61499abfe8?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60a681852e62f008179dc?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60649ae2b894b1d71689e?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6055a1852e62f00817611?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e604f21852e62f0081755e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e642101852e62f0081a38a?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6427f1852e62f0081a3d1?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e687f2ae2b894b1d71b051?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61fa31852e62f00819188?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e627c81852e62f00819828?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e688b0ae2b894b1d71b0ff?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e641141852e62f0081a2e7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 07 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e63250e8daec61499a9f70?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
