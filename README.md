@@ -71,22 +71,16 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PUBLIC INFORMATION
 Job ID : 265678](https://jobright.ai/jobs/info/68ea23514ae33307d3ed98a9?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Oct 11 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/68e9eacdcfc08e4908913915?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Oct 10 |
-| **[The Borgen Project](http://borgenproject.org)** | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68eb24a02f64880ca0b55560?utm_campaign=1056&utm_source=git)** | Branchville, VA | On Site | Oct 10 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb23cc8369791ef7824308?utm_campaign=1056&utm_source=git)** | Ely, NV | On Site | Oct 10 |
-| ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68eb24d98369791ef78244f9?utm_campaign=1056&utm_source=git)** | Hope, KY | On Site | Oct 10 |
-| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68eb221c8369791ef7824005?utm_campaign=1056&utm_source=git)** | Salisbury, NC | On Site | Oct 10 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb24d98369791ef78244f8?utm_campaign=1056&utm_source=git)** | Wakefield, MA | On Site | Oct 10 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb23108369791ef78241b7?utm_campaign=1056&utm_source=git)** | Edinburgh, IN | On Site | Oct 10 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb232b8369791ef78241e6?utm_campaign=1056&utm_source=git)** | Dunfermline, IL | On Site | Oct 10 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb22c08369791ef782410a?utm_campaign=1056&utm_source=git)** | Manchester, NH | On Site | Oct 10 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Relations Intern](https://jobright.ai/jobs/info/68e9e47d54fbf903f6a7f4ea?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 10 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68eb229d8369791ef78240cf?utm_campaign=1056&utm_source=git)** | Limon, CO | On Site | Oct 10 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb24d98369791ef78244fa?utm_campaign=1056&utm_source=git)** | Newport, RI | On Site | Oct 10 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb237c8369791ef782426f?utm_campaign=1056&utm_source=git)** | Inverness, FL | On Site | Oct 10 |
-| ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68eb22068369791ef7823fcd?utm_campaign=1056&utm_source=git)** | Bruceton Mills, WV | On Site | Oct 10 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb23e72f64880ca0b55426?utm_campaign=1056&utm_source=git)** | Provo, UT | On Site | Oct 10 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb32092f64880ca0b55f93?utm_campaign=1056&utm_source=git)** | Portsmouth, VA | On Site | Oct 10 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb32592f64880ca0b56005?utm_campaign=1056&utm_source=git)** | Dunfermline, IL | On Site | Oct 10 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb33ad76a1db7c5985df37?utm_campaign=1056&utm_source=git)** | Hope, KY | On Site | Oct 10 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb320d76a1db7c5985dd63?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Oct 10 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb3f1b2f64880ca0b56460?utm_campaign=1056&utm_source=git)** | Ripon, CA | On Site | Oct 10 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eb335c76a1db7c5985dee3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Latino Economies Internship, Brookings Metro (Job ID 2025-3743)](https://jobright.ai/jobs/info/68eb2b6e76a1db7c5985d942?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68e9cd5acdf8d94b293a2783?utm_campaign=1056&utm_source=git)** | Fairfield, CT | On Site | Oct 10 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68eb21a58369791ef7823f19?utm_campaign=1056&utm_source=git)** | Roxbury, ME | On Site | Oct 10 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Research and Events Internship, AI and Emerging Technology, Executive Office (Job ID 2025-3746)](https://jobright.ai/jobs/info/68eb266276a1db7c5985d572?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern](https://jobright.ai/jobs/info/68e9c770cfc08e4908912e19?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 10 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68e084bcf758fe1f97e4ddb3?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Oct 10 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68e9c334cdf8d94b293a2303?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Oct 10 |
@@ -114,6 +108,7 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68e8b8d9c72beb74cb32200f?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 09 |
 | **[City of Overland Park](http://www.opkansas.org)** | **[Intern, Police](https://jobright.ai/jobs/info/68e893b909580a2fe57f94d7?utm_campaign=1056&utm_source=git)** | Overland Park, KS | On Site | Oct 09 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student Intern, Sanford School of Public Policy](https://jobright.ai/jobs/info/68e881aec72beb74cb31f6bf?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Oct 09 |
+| **[Opportunity Foundation of Central Oregon](https://www.opportunityfound.org)** | **[Nonprofit APM Intern](https://jobright.ai/jobs/info/68eb2b008369791ef78248ec?utm_campaign=1056&utm_source=git)** | Redmond, OR | On Site | Oct 09 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Planning & Community Development Graduate Interns](https://jobright.ai/jobs/info/68e875decc49a84b7e10654d?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Oct 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68e84430cc49a84b7e104875?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 09 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Research Intern, Democratizing Foreign Policy Program](https://jobright.ai/jobs/info/68e8422709580a2fe57f5eba?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Oct 09 |
@@ -159,4 +154,9 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68e679771852e62f0081b62d?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Oct 08 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Protective Services Unit – BDM](https://jobright.ai/jobs/info/68cd10eae23def7af55b497b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/68e641f0ae2b894b1d719660?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 08 |
+| **[Crowe](https://www.crowe.com/)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/68ce7de0fb49c96ca6ea0e8d?utm_campaign=1056&utm_source=git)** | Sacramento, CA | On Site | Oct 08 |
+| **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e623bfae2b894b1d718820?utm_campaign=1056&utm_source=git)** | Florida, United States | Hybrid | Oct 08 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e620a61852e62f008192fd?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 08 |
+| **[ConsciousAbraxas](https://www.consciousabraxas.com/)** | **[Grant Research and Acquisition Intern](https://jobright.ai/jobs/info/68e6182aae2b894b1d717cec?utm_campaign=1056&utm_source=git)** | East Lake-Orient Park, FL | Hybrid | Oct 08 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e613d7e8daec61499a83dc?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
