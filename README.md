@@ -62,8 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Equilibrium Press](equilibrium-press.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68ec9ee4c26b9574506f54ae?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 12 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Internship - Social Worker, Austin Development Services](https://jobright.ai/jobs/info/68ec91d81eecd439f43fa5da?utm_campaign=1056&utm_source=git)** | Permitting and Development Center (PDC) | On Site | Oct 12 |
 | **[World Relief](https://worldrelief.org/)** | **[Resettlement Team (PC) - Duke Internship/Work Study (Part-time) - 2025265](https://jobright.ai/jobs/info/68ec821fc26b9574506f2b01?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Oct 12 |
-| **[Town of Flower Mound](https://flower-mound.com)** | **[Parks and Recreation Intern](https://jobright.ai/jobs/info/68ec785ac26b9574506f237e?utm_campaign=1056&utm_source=git)** | Flower Mound, TX | On Site | Oct 12 |
-| **[Valorantum](valorantum.us)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68ec1ca076a1db7c59861e90?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[China Research Program Internship Spring 2026](https://jobright.ai/jobs/info/68ec130876a1db7c59861dd2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | ↳ | **[Turkey Program Internship Spring 2026](https://jobright.ai/jobs/info/68ec12472f64880ca0b59ee2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | ↳ | **[FDD Action Congressional Relations Internship Spring 2026](https://jobright.ai/jobs/info/68ec10fc2f64880ca0b59e6c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 12 |
@@ -160,4 +158,6 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
 Job ID : 264978](https://jobright.ai/jobs/info/68ec8ffc1eecd439f43f9f5f?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Oct 08 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Health Economics and Outcomes Research Field Intern - Summer 2026](https://jobright.ai/jobs/info/68e6c0a3e8daec61499ae43c?utm_campaign=1056&utm_source=git)** | US - Remote | Hybrid | Oct 08 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Policy Analyst-OSP](https://jobright.ai/jobs/info/68e6c015ae2b894b1d71d541?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
+| **[City of Boca Raton](http://www.myboca.us)** | **[College Student Intern - Police Services](https://jobright.ai/jobs/info/68e6be7fe8daec61499ae19e?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
