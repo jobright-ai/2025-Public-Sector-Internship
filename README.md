@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Windmoor Healthcare Of Clearwater](https://windmoor.com)** | **[INTERN - SOCIAL WORK (MSW/MA) - UNPAID](https://jobright.ai/jobs/info/68ecee5d81fdd1626d397ba0?utm_campaign=1056&utm_source=git)** | Clearwater, FL | On Site | Oct 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68ecdd6281fdd1626d3978d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
 | **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[GeoTech Center - Spring 2026 Young Global Professionals Program](https://jobright.ai/jobs/info/68ecd65981fdd1626d39755a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
 | ↳ | **[Economic Statecraft Initiative - Spring 2026 Young Global Professionals Program](https://jobright.ai/jobs/info/68ecd57981fdd1626d3974a2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
@@ -131,7 +132,7 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68e7e810c4895107182bf5cb?utm_campaign=1056&utm_source=git)** | US - WI - Madison | On Site | Oct 09 |
 | **[State of Ohio](http://ohio.gov/)** | **[2026 Spring College Internship](https://jobright.ai/jobs/info/68e6e6dae8daec61499b0606?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Oct 09 |
 | **[OSCE](https://savitashawls.com/)** | **[International Intern, Human Dimension](https://jobright.ai/jobs/info/68dfe803b99ec3563b0ca060?utm_campaign=1056&utm_source=git)** | Tippecanoe County, IN | On Site | Oct 09 |
-| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[International Advisor](https://jobright.ai/jobs/info/68e7cc3609580a2fe57efa1c?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 09 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[International Advisor](https://jobright.ai/jobs/info/68e7cc3609580a2fe57efa1c?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 09 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Specialty Human Services Claims Intern - Summer 2026](https://jobright.ai/jobs/info/68ec5ebbbb72c377a5512128?utm_campaign=1056&utm_source=git)** | Cincinnati, OH (USA) | On Site | Oct 09 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - Teen & Adult Services  (Spring 2026)](https://jobright.ai/jobs/info/68e8b21909580a2fe57faa3b?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Oct 08 |
 | ↳ | **[UNPAID Internship - Teen & Adult Services (Spring 2026)](https://jobright.ai/jobs/info/68e8b23acc49a84b7e109197?utm_campaign=1056&utm_source=git)** | Champaign, IL | On Site | Oct 08 |
@@ -158,5 +159,4 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[Cornerstone Government Affairs](http://cgagroup.com)** | **[Mississippi Legislative Intern](https://jobright.ai/jobs/info/68e6d6fcae2b894b1d71e995?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Oct 08 |
 | **[American University](http://american.edu)** | **[Investigative Reporting Workshop Intern (Student)](https://jobright.ai/jobs/info/68e6d0a91852e62f0081f08d?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | On Site | Oct 08 |
 | **[Wisconsin Farmers Union](http://wisconsinfarmersunion.com)** | **[Camp Intern](https://jobright.ai/jobs/info/68e6c73ce8daec61499ae8af?utm_campaign=1056&utm_source=git)** | Chippewa Falls, WI | On Site | Oct 08 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
