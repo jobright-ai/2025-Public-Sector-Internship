@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68ecdd6281fdd1626d3978d8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
+| **[Atlantic Council](http://www.atlanticcouncil.org/)** | **[GeoTech Center - Spring 2026 Young Global Professionals Program](https://jobright.ai/jobs/info/68ecd65981fdd1626d39755a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
+| ↳ | **[Economic Statecraft Initiative - Spring 2026 Young Global Professionals Program](https://jobright.ai/jobs/info/68ecd57981fdd1626d3974a2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
+| ↳ | **[Millennium Leadership Program - Spring 2026 Young Global Professionals Program](https://jobright.ai/jobs/info/68ecd5266335d33236123c84?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Corporate Affairs (Washington, DC)](https://jobright.ai/jobs/info/68eca475c26b9574506f5e12?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 13 |
 | ↳ | **[Summer 2026 Intern Program: Business, Communications, Public Policy Majors (Melville, NY)](https://jobright.ai/jobs/info/68eca3bdc26b9574506f5c07?utm_campaign=1056&utm_source=git)** | Melville, NY | On Site | Oct 13 |
 | **[Equilibrium Press](equilibrium-press.org)** | **[Policy Intern](https://jobright.ai/jobs/info/68ec9ee4c26b9574506f54ae?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 12 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61380e8daec61499a8322?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68eadf6176a1db7c5985c636?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 11 |
 | **[J Ellington Publishing LLC](https://www.ellingtonbooks.com/leadership)** | **[Health Leadership & Wellness Internship](https://jobright.ai/jobs/info/68eacb682f64880ca0b5432a?utm_campaign=1056&utm_source=git)** | Atlanta Metro | Remote | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa63b8369791ef7822998?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa4782f64880ca0b53b48?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eaa4782f64880ca0b53b48?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e620a61852e62f008192fd?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e641141852e62f0081a2e7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[City of New York](http://www1.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/68ea53922f64880ca0b52046?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Oct 11 |
 | ↳ | **[Research and Policy Intern (Remedy and Reconstruction)](https://jobright.ai/jobs/info/68ea534b8369791ef7820dd6?utm_campaign=1056&utm_source=git)** | New York City, NY | On Site | Oct 11 |
@@ -155,9 +159,4 @@ Job ID : 265532](https://jobright.ai/jobs/info/68e8f2580930fe0bc4621410?utm_camp
 | **[American University](http://american.edu)** | **[Investigative Reporting Workshop Intern (Student)](https://jobright.ai/jobs/info/68e6d0a91852e62f0081f08d?utm_campaign=1056&utm_source=git)** | Main Campus (Washington, DC) | On Site | Oct 08 |
 | **[Wisconsin Farmers Union](http://wisconsinfarmersunion.com)** | **[Camp Intern](https://jobright.ai/jobs/info/68e6c73ce8daec61499ae8af?utm_campaign=1056&utm_source=git)** | Chippewa Falls, WI | On Site | Oct 08 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Public Information Intern
-Job ID : 264978](https://jobright.ai/jobs/info/68ec8ffc1eecd439f43f9f5f?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Oct 08 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Health Economics and Outcomes Research Field Intern - Summer 2026](https://jobright.ai/jobs/info/68e6c0a3e8daec61499ae43c?utm_campaign=1056&utm_source=git)** | US - Remote | Hybrid | Oct 08 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Policy Analyst-OSP](https://jobright.ai/jobs/info/68e6c015ae2b894b1d71d541?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 08 |
-| **[City of Boca Raton](http://www.myboca.us)** | **[College Student Intern - Police Services](https://jobright.ai/jobs/info/68e6be7fe8daec61499ae19e?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
