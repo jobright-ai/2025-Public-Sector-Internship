@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/68ef0e7d230ae70a14c3f7a4?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Oct 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ef080f230ae70a14c3f32f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68ef07c2a1a1d02df61e84b9?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Office of Emergency Services (OES) Specialist - Intern](https://jobright.ai/jobs/info/68eef98d46e5b153e5a61a66?utm_campaign=1056&utm_source=git)** | Lakeport, CA | On Site | Oct 14 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[2026 ODNR Paid Summer Internship- Administration/Operations/Communication Majors- Columbus](https://jobright.ai/jobs/info/68eef55b46e5b153e5a617f2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 14 |
 | ↳ | **[2026 ODNR Paid Summer Internship- Administration/Operations/Communication Majors- Columbus](https://jobright.ai/jobs/info/68eef49e46e5b153e5a61607?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 14 |
@@ -149,13 +152,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cbc6335d332361262f8?utm_campaign=1056&utm_source=git)** | ND, Working at Home - North Dakota | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cb16335d332361262dc?utm_campaign=1056&utm_source=git)** | WV, Working at Home - W Virginia | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2ca36335d332361262c4?utm_campaign=1056&utm_source=git)** | MD, Working at Home - Maryland | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c966335d332361262a8?utm_campaign=1056&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c9670b66e2345d3b363?utm_campaign=1056&utm_source=git)** | MS, Working at Home - Mississippi | Remote | Oct 13 |
+| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c966335d332361262a8?utm_campaign=1056&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c7f6335d33236126266?utm_campaign=1056&utm_source=git)** | IA, Working at Home - Iowa | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c7070b66e2345d3b32d?utm_campaign=1056&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/68ed2c6d6335d33236126246?utm_campaign=1056&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c526335d332361261fd?utm_campaign=1056&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c496335d332361261e2?utm_campaign=1056&utm_source=git)** | ID, Working at Home - Idaho | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c3f6335d332361261cb?utm_campaign=1056&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c3e70b66e2345d3b2ef?utm_campaign=1056&utm_source=git)** | AZ, Working at Home - Arizona | Remote | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
