@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ETS](http://www.ets.org)** | **[Research & Policy Intern – Global Government and External Relations (GER)](https://jobright.ai/jobs/info/68eff465de50091dbfa5114b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 15 |
+| **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Intern](https://jobright.ai/jobs/info/68eff10cde50091dbfa50faf?utm_campaign=1056&utm_source=git)** | Denver, CO | Remote | Oct 15 |
 | **[Utah Senate](http://www.utahsenate.org/)** | **[Utah Senate Democrats Policy Intern](https://jobright.ai/jobs/info/68efdda89821486c423c7cfc?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 15 |
 | ↳ | **[Utah Senate Democrats Communications Intern](https://jobright.ai/jobs/info/68efdcc878ba1621431e0d89?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 15 |
 | **[HB Strategies](http://www.hbstrategies.us)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68efd94c9821486c423c7be1?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Oct 15 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeba6046e5b153e5a5ed73?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb9f2e0db92422580a729?utm_campaign=1056&utm_source=git)** | Culver City, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb8c2d078b81ad160e526?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Oct 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb882e0db92422580a2b3?utm_campaign=1056&utm_source=git)** | Encino, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb83fd078b81ad160e3b1?utm_campaign=1056&utm_source=git)** | Culver City, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb826d078b81ad160e38a?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb79ce0db924225809ff4?utm_campaign=1056&utm_source=git)** | Encino, CA | On Site | Oct 14 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Governance and Controls](https://jobright.ai/jobs/info/68ee9da9d078b81ad160c502?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
 | **[Entergy](https://www.entergy.com)** | **[Student, Intern, Economic Development, Summer 2026](https://jobright.ai/jobs/info/68ee9acd46e5b153e5a5cac2?utm_campaign=1056&utm_source=git)** | Beaumont, TX | Hybrid | Oct 14 |
 | **[ROSEN](https://www.rosen-group.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68ee9269e0db924225807ec5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 14 |
+| **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a337e51ab5f8579e8a3c89?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Oct 14 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Immunology Medical Affairs Program Management Summer Internship NonLDP Int](https://jobright.ai/jobs/info/68ee7f6746e5b153e5a5b075?utm_campaign=1056&utm_source=git)** | Horsham, PA | Hybrid | Oct 14 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Immunology Medical Affairs Program Management Summer Internship NonLDP Int](https://jobright.ai/jobs/info/68ee714946e5b153e5a5a8a7?utm_campaign=1056&utm_source=git)** | Horsham, Pennsylvania, United States of America | Hybrid | Oct 14 |
 | **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/68ef71a278ba1621431dee72?utm_campaign=1056&utm_source=git)** | New Orleans, Louisiana | On Site | Oct 14 |
@@ -125,28 +127,28 @@ For a complete list, click the following sortable link below:
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Grants and Research Development Intern: Co-op Model](https://jobright.ai/jobs/info/68ed4d2870b66e2345d3c44c?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Oct 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, EV Charging & Energy Public Policy (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ed3cf170b66e2345d3bcb9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2e1581fdd1626d399c16?utm_campaign=1056&utm_source=git)** | NC, Working at Home - N Carolina | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2deb81fdd1626d399bd6?utm_campaign=1056&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2deb81fdd1626d399bd8?utm_campaign=1056&utm_source=git)** | AL, Working at Home - Alabama | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2deb81fdd1626d399bd2?utm_campaign=1056&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Oct 13 |
+| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2deb81fdd1626d399bd6?utm_campaign=1056&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2dbc81fdd1626d399b82?utm_campaign=1056&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2dbc81fdd1626d399b80?utm_campaign=1056&utm_source=git)** | MO, Working at Home - Missouri | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2db581fdd1626d399b69?utm_campaign=1056&utm_source=git)** | GA, Working at Home - Georgia | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d9c81fdd1626d399b1a?utm_campaign=1056&utm_source=git)** | NE, Working at Home - Nebraska | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d9081fdd1626d399afd?utm_campaign=1056&utm_source=git)** | OK, Working at Home - Oklahoma | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d8481fdd1626d399ae5?utm_campaign=1056&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d8481fdd1626d399ae2?utm_campaign=1056&utm_source=git)** | RI, Working at Home - Rhode Island | Remote | Oct 13 |
+| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d8481fdd1626d399ae5?utm_campaign=1056&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d5481fdd1626d399a6f?utm_campaign=1056&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d4b81fdd1626d399a4c?utm_campaign=1056&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 13 |
+| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d4281fdd1626d399a34?utm_campaign=1056&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d4281fdd1626d399a33?utm_campaign=1056&utm_source=git)** | UT, Working at Home - Utah | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d4281fdd1626d399a35?utm_campaign=1056&utm_source=git)** | VT, Working at Home - Vermont | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d4281fdd1626d399a34?utm_campaign=1056&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d3381fdd1626d399a06?utm_campaign=1056&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d0e70b66e2345d3b439?utm_campaign=1056&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d0e70b66e2345d3b43a?utm_campaign=1056&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d0e70b66e2345d3b438?utm_campaign=1056&utm_source=git)** | SD, Working at Home-South Dakota | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2d0670b66e2345d3b42a?utm_campaign=1056&utm_source=git)** | IL, Working at Home - Illinois | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cfd70b66e2345d3b417?utm_campaign=1056&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cfd70b66e2345d3b416?utm_campaign=1056&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 13 |
+| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cfd70b66e2345d3b417?utm_campaign=1056&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cf26335d3323612639f?utm_campaign=1056&utm_source=git)** | LA, Working at Home - Louisiana | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2ced70b66e2345d3b3f8?utm_campaign=1056&utm_source=git)** | TN, Working at Home -Tennessee | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2ce86335d33236126382?utm_campaign=1056&utm_source=git)** | OR, Working at Home - Oregon | Remote | Oct 13 |
@@ -156,6 +158,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2cb16335d332361262dc?utm_campaign=1056&utm_source=git)** | WV, Working at Home - W Virginia | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2ca36335d332361262c4?utm_campaign=1056&utm_source=git)** | MD, Working at Home - Maryland | Remote | Oct 13 |
 | ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c9670b66e2345d3b363?utm_campaign=1056&utm_source=git)** | MS, Working at Home - Mississippi | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c966335d332361262a8?utm_campaign=1056&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/68ed2c7f6335d33236126266?utm_campaign=1056&utm_source=git)** | IA, Working at Home - Iowa | Remote | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
