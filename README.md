@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[City of Lauderhill](http://www.lauderhill-fl.gov)** | **[College Intern](https://jobright.ai/jobs/info/68f048f0e2767e5e924c51cb?utm_campaign=1056&utm_source=git)** | Lauderhill, FL | On Site | Oct 15 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Preservation](https://jobright.ai/jobs/info/68f0434d78ba1621431e402a?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 15 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f03526de50091dbfa53564?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Oct 15 |
+| **[City of Ventura](https://www.cityofventura.ca.gov)** | **[Management Intern (Public Works)](https://jobright.ai/jobs/info/68f0f5f2e6870116b1f5214a?utm_campaign=1056&utm_source=git)** | Ventura, CA | On Site | Oct 15 |
 | **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[OSAR - Substance Use Disorder (SUD) Counselor - Intern](https://jobright.ai/jobs/info/68f0373e9821486c423ca99c?utm_campaign=1056&utm_source=git)** | El Paso, TX | On Site | Oct 15 |
 | **[HP](http://www.hp.com)** | **[CHLI Global Leader Internship – HP Government Affairs & Global Recruiting, Inclusion & Culture](https://jobright.ai/jobs/info/68f02db178ba1621431e3058?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 15 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Intern, Policy, Research and Communications](https://jobright.ai/jobs/info/68f002cb78ba1621431e1aaf?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Oct 15 |
@@ -124,12 +125,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f079afa6b9004b5e320955?utm_campaign=1056&utm_source=git)** | Chichester, NY | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07a98a6b9004b5e320b25?utm_campaign=1056&utm_source=git)** | Peterborough, NH | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07c561f624a7ec1cf3774?utm_campaign=1056&utm_source=git)** | Wellsboro, PA | On Site | Oct 14 |
-| ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
 | ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
+| ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07aeba6b9004b5e320beb?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07a93a6b9004b5e320b14?utm_campaign=1056&utm_source=git)** | Newry, PA | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07c70a6b9004b5e320f5d?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Oct 14 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec92ba1eecd439f43fa924?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 14 |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International's Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68e9c83ccfc08e4908912f08?utm_campaign=1056&utm_source=git)** | Blue Bell, PA | On Site | Oct 14 |
+| ↳ | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec92ba1eecd439f43fa924?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 14 |
 | ↳ | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec9be7d4b0106e703ea8be?utm_campaign=1056&utm_source=git)** | Melville, NY | On Site | Oct 14 |
 | **[State of Ohio](http://ohio.gov/)** | **[2026 ODNR Paid Summer Internship- Administration/Operations/Communication Majors- Columbus](https://jobright.ai/jobs/info/68eef55b46e5b153e5a617f2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 14 |
 | ↳ | **[2026 ODNR Paid Summer Internship- Administration/Operations/Communication Majors- Columbus](https://jobright.ai/jobs/info/68eef49e46e5b153e5a61607?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 14 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb826d078b81ad160e38a?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb79ce0db924225809ff4?utm_campaign=1056&utm_source=git)** | Encino, CA | On Site | Oct 14 |
 | **[Experian](http://www.experianplc.com)** | **[Inclusion & Belonging Associate](https://jobright.ai/jobs/info/68eeb0ced078b81ad160dc07?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 14 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Governance and Controls](https://jobright.ai/jobs/info/68eea0c446e5b153e5a5d2ca?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
 | **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/68ee9e58d078b81ad160c637?utm_campaign=1056&utm_source=git)** | NOLA | On Site | Oct 14 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Governance and Controls](https://jobright.ai/jobs/info/68ee9da9d078b81ad160c502?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
 | **[Entergy](https://www.entergy.com)** | **[Student, Intern, Economic Development, Summer 2026](https://jobright.ai/jobs/info/68ee9acd46e5b153e5a5cac2?utm_campaign=1056&utm_source=git)** | Beaumont, TX | Hybrid | Oct 14 |
-| **[ROSEN](https://www.rosen-group.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68ee9269e0db924225807ec5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 14 |
-| **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a337e51ab5f8579e8a3c89?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
