@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oregon Department of Justice](https://www.doj.state.or.us)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3da578c62e63bc7fe4b24?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Oct 16 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Community Crisis Responder Intern - CARE](https://jobright.ai/jobs/info/68f0a6aceb273a32d976ab6c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 16 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68f09baeeb273a32d976a1e9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
 | ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68f09ba7eb273a32d976a1de?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[HB Strategies](http://www.hbstrategies.us)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68efd94c9821486c423c7be1?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Oct 15 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68efae0f9821486c423c6ac9?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 15 |
 | ↳ | **[Commodity Intern](https://jobright.ai/jobs/info/68efad2a9821486c423c6a09?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 15 |
+| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Health and Social Partnerships](https://jobright.ai/jobs/info/68f0cc2aef766b3f0fd05666?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sustainability Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68efc1939821486c423c71b0?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Oct 15 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f0944a1f624a7ec1cf43dd?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entergy](https://www.entergy.com)** | **[Student, Intern, Economic Development, Summer 2026](https://jobright.ai/jobs/info/68ee9acd46e5b153e5a5cac2?utm_campaign=1056&utm_source=git)** | Beaumont, TX | Hybrid | Oct 14 |
 | **[ROSEN](https://www.rosen-group.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68ee9269e0db924225807ec5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 14 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/68a337e51ab5f8579e8a3c89?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Oct 14 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Immunology Medical Affairs Program Management Summer Internship NonLDP Int](https://jobright.ai/jobs/info/68ee7f6746e5b153e5a5b075?utm_campaign=1056&utm_source=git)** | Horsham, PA | Hybrid | Oct 14 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Immunology Medical Affairs Program Management Summer Internship NonLDP Int](https://jobright.ai/jobs/info/68ee714946e5b153e5a5a8a7?utm_campaign=1056&utm_source=git)** | Horsham, Pennsylvania, United States of America | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
