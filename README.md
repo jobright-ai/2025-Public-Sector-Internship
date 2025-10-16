@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Various Programs (49769)](https://jobright.ai/jobs/info/68f14698e6870116b1f560ef?utm_campaign=1056&utm_source=git)** | Denver, CO, USA | On Site | Oct 16 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68f14439f462172a5a7d56b5?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
+| **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Intern - Fall/Spring 2025](https://jobright.ai/jobs/info/68f14347ef766b3f0fd0ae90?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 16 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government West Market– Campus 2025](https://jobright.ai/jobs/info/68f1414bf462172a5a7d5375?utm_campaign=1056&utm_source=git)** | US - CA, Sacramento | On Site | Oct 16 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68f14086ef766b3f0fd0a6c7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
+| **[Troutman Pepper](https://www.troutman.com/)** | **[Strategies Intern](https://jobright.ai/jobs/info/68f1326cf462172a5a7d4023?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Oct 16 |
+| **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Spring 2026 - Onsite)](https://jobright.ai/jobs/info/68f13244f462172a5a7d3fdd?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68f12f7fe6870116b1f5461f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Crop Insurance Internship](https://jobright.ai/jobs/info/68f12172ef766b3f0fd08d55?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f120d1e6870116b1f53dbe?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 16 |
 | **[Oregon Department of Justice](https://www.doj.state.or.us)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3da578c62e63bc7fe4b24?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Oct 16 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Community Crisis Responder Intern - CARE](https://jobright.ai/jobs/info/68f0a6aceb273a32d976ab6c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 16 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/68f09baeeb273a32d976a1e9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
-| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68f09ba7eb273a32d976a1de?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68f09ba7eb273a32d976a1de?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
 | **[American Cancer Society - Minnesota](http://www.cancer.org/minnesota)** | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68f0800e1f624a7ec1cf38f8?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 15 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Government Relations](https://jobright.ai/jobs/info/68f07f84a6b9004b5e320fbd?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 15 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68f0587f23b5702fba8ca2ad?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Oct 15 |
@@ -92,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commodity Intern](https://jobright.ai/jobs/info/68efad2a9821486c423c6a09?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 15 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Health and Social Partnerships](https://jobright.ai/jobs/info/68f0cc2aef766b3f0fd05666?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sustainability Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68efc1939821486c423c71b0?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Oct 15 |
+| **[City of Westfield, Indiana](http://www.westfield.in.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/68ef969f9821486c423c637a?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Oct 15 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f0944a1f624a7ec1cf43dd?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f09236eb273a32d97699a3?utm_campaign=1056&utm_source=git)** | Trent, TX | On Site | Oct 14 |
@@ -126,19 +133,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f079afa6b9004b5e320955?utm_campaign=1056&utm_source=git)** | Chichester, NY | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07a98a6b9004b5e320b25?utm_campaign=1056&utm_source=git)** | Peterborough, NH | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07c561f624a7ec1cf3774?utm_campaign=1056&utm_source=git)** | Wellsboro, PA | On Site | Oct 14 |
-| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
+| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07aeba6b9004b5e320beb?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07a93a6b9004b5e320b14?utm_campaign=1056&utm_source=git)** | Newry, PA | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07c70a6b9004b5e320f5d?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Oct 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International's Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68e9c83ccfc08e4908912f08?utm_campaign=1056&utm_source=git)** | Blue Bell, PA | On Site | Oct 14 |
-| ↳ | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec92ba1eecd439f43fa924?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 14 |
-| ↳ | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec9be7d4b0106e703ea8be?utm_campaign=1056&utm_source=git)** | Melville, NY | On Site | Oct 14 |
 | **[State of Ohio](http://ohio.gov/)** | **[2026 ODNR Paid Summer Internship- Administration/Operations/Communication Majors- Columbus](https://jobright.ai/jobs/info/68eef55b46e5b153e5a617f2?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 14 |
 | ↳ | **[2026 ODNR Paid Summer Internship- Administration/Operations/Communication Majors- Columbus](https://jobright.ai/jobs/info/68eef49e46e5b153e5a61607?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 14 |
 | ↳ | **[2026 ODNR Paid Summer Internship- Cultural History & Archives/Library- Columbus](https://jobright.ai/jobs/info/68eef418d078b81ad1610d44?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Oct 14 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Digital Opportunity Intern](https://jobright.ai/jobs/info/68eeefece0db92422580ca9c?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 14 |
-| **[City of Westfield, Indiana](http://www.westfield.in.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/68f03521de50091dbfa5355e?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Oct 14 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern 2026 - Reserve Bank Protection-RBOPS](https://jobright.ai/jobs/info/68eeeadad078b81ad16107c1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 14 |
 | **[Kidsave](https://www.kidsave.org)** | **[Programs Intern](https://jobright.ai/jobs/info/68eee7f146e5b153e5a60f0b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/68f0376f9821486c423ca9fb?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Oct 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/68eebab046e5b153e5a5ee57?utm_campaign=1056&utm_source=git)** | Newport Beach, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb9f2e0db92422580a729?utm_campaign=1056&utm_source=git)** | Culver City, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb826d078b81ad160e38a?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68eeb79ce0db924225809ff4?utm_campaign=1056&utm_source=git)** | Encino, CA | On Site | Oct 14 |
-| **[Experian](http://www.experianplc.com)** | **[Inclusion & Belonging Associate](https://jobright.ai/jobs/info/68eeb0ced078b81ad160dc07?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 14 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Governance and Controls](https://jobright.ai/jobs/info/68eea0c446e5b153e5a5d2ca?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
-| **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/68ee9e58d078b81ad160c637?utm_campaign=1056&utm_source=git)** | NOLA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
