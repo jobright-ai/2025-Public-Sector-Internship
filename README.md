@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Spring 2026 - Onsite)](https://jobright.ai/jobs/info/68f1f79ee6870116b1f5f235?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 17 |
 | **[MNS Engineers, Inc.](http://mnsengineers.com)** | **[Planning Intern 2026 (Hybrid / California)](https://jobright.ai/jobs/info/68f1be32ef766b3f0fd11a73?utm_campaign=1056&utm_source=git)** | California, CA | Hybrid | Oct 16 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/68f1b54af462172a5a7db96b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/68f1a4dbf462172a5a7dad28?utm_campaign=1056&utm_source=git)** | La Crosse, WI | On Site | Oct 16 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2026 Gastroenterology Medical Affairs Internship](https://jobright.ai/jobs/info/68f177e9f462172a5a7d8e30?utm_campaign=1056&utm_source=git)** | Horsham, PA | Hybrid | Oct 16 |
 | ↳ | **[Summer 2026 Gastroenterology Medical Affairs Internship](https://jobright.ai/jobs/info/68f1737fe6870116b1f592cc?utm_campaign=1056&utm_source=git)** | Horsham, Pennsylvania, United States of America | Hybrid | Oct 16 |
 | **[TYLin](http://www.tylin.com)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/68f164b5ef766b3f0fd0d2eb?utm_campaign=1056&utm_source=git)** | US | IL | Chicago - 8755 West Higgins Road | On Site | Oct 16 |
+| **[World Relief](https://worldrelief.org/)** | **[Resettlement Team (PC) - Duke Internship/Work Study (Part-time) - 2025265](https://jobright.ai/jobs/info/68ec821fc26b9574506f2b01?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Oct 16 |
 | **[Southwest Power Pool](https://spp.org)** | **[Summer 2026 External Affairs Intern](https://jobright.ai/jobs/info/68f15d3de6870116b1f57b67?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Oct 16 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68f14ad9ef766b3f0fd0b52a?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 16 |
 | **[National Conference of State Legislatures](http://www.ncsl.org/)** | **[Internship/Externship - Various Programs (49769)](https://jobright.ai/jobs/info/68f14698e6870116b1f560ef?utm_campaign=1056&utm_source=git)** | Denver, CO, USA | On Site | Oct 16 |
@@ -86,6 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/68f12f7fe6870116b1f5461f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Crop Insurance Internship](https://jobright.ai/jobs/info/68f12172ef766b3f0fd08d55?utm_campaign=1056&utm_source=git)** | East Lansing, MI | On Site | Oct 16 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f120d1e6870116b1f53dbe?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 16 |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/68f1fab4d2b6d776b59156b8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 16 |
+| ↳ | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[Oregon Department of Justice](https://www.doj.state.or.us)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/68d3da578c62e63bc7fe4b24?utm_campaign=1056&utm_source=git)** | Portland, OR | Remote | Oct 16 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Community Crisis Responder Intern - CARE](https://jobright.ai/jobs/info/68f0a6aceb273a32d976ab6c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 16 |
 | **[American Cancer Society - Minnesota](http://www.cancer.org/minnesota)** | **[Intern, Outreach & Advocacy - Bay Area, CA](https://jobright.ai/jobs/info/68f0800e1f624a7ec1cf38f8?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 15 |
@@ -115,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commodity Intern](https://jobright.ai/jobs/info/68efad2a9821486c423c6a09?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 15 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Health and Social Partnerships](https://jobright.ai/jobs/info/68f0cc2aef766b3f0fd05666?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sustainability Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68efc1939821486c423c71b0?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Oct 15 |
-| **[City of Westfield, Indiana](http://www.westfield.in.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/68ef969f9821486c423c637a?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Oct 15 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f0944a1f624a7ec1cf43dd?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f09236eb273a32d97699a3?utm_campaign=1056&utm_source=git)** | Trent, TX | On Site | Oct 14 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f079afa6b9004b5e320955?utm_campaign=1056&utm_source=git)** | Chichester, NY | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07a98a6b9004b5e320b25?utm_campaign=1056&utm_source=git)** | Peterborough, NH | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07c561f624a7ec1cf3774?utm_campaign=1056&utm_source=git)** | Wellsboro, PA | On Site | Oct 14 |
-| ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
 | ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
+| ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07aeba6b9004b5e320beb?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07a93a6b9004b5e320b14?utm_campaign=1056&utm_source=git)** | Newry, PA | On Site | Oct 14 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07c70a6b9004b5e320f5d?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Oct 14 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec92ba1eecd439f43fa924?utm_campaign=1056&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 14 |
-| ↳ | **[HUB International’s U.S. Internship Program (Summer 2026)](https://jobright.ai/jobs/info/68ec9be7d4b0106e703ea8be?utm_campaign=1056&utm_source=git)** | Melville, NY | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
