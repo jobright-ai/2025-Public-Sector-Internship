@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f079afa6b9004b5e320955?utm_campaign=1056&utm_source=git)** | Chichester, NY | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07a98a6b9004b5e320b25?utm_campaign=1056&utm_source=git)** | Peterborough, NH | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07c561f624a7ec1cf3774?utm_campaign=1056&utm_source=git)** | Wellsboro, PA | On Site | Oct 14 |
-| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
+| ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07aeba6b9004b5e320beb?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07a93a6b9004b5e320b14?utm_campaign=1056&utm_source=git)** | Newry, PA | On Site | Oct 14 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f07c70a6b9004b5e320f5d?utm_campaign=1056&utm_source=git)** | Bangor, ME | On Site | Oct 14 |
