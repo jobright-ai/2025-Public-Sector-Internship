@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commodity Intern](https://jobright.ai/jobs/info/68efad2a9821486c423c6a09?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 15 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Health and Social Partnerships](https://jobright.ai/jobs/info/68f0cc2aef766b3f0fd05666?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sustainability Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68efc1939821486c423c71b0?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Oct 15 |
+| **[City of Westfield, Indiana](http://www.westfield.in.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/68ef969f9821486c423c637a?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Oct 15 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f0944a1f624a7ec1cf43dd?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f09236eb273a32d97699a3?utm_campaign=1056&utm_source=git)** | Trent, TX | On Site | Oct 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07cd7eb273a32d9769102?utm_campaign=1056&utm_source=git)** | Leicester, NC | On Site | Oct 14 |
 | ↳ | **[COMMUNITY OUTREACH INTERN (PART-TIME)](https://jobright.ai/jobs/info/68f07b1da6b9004b5e320c55?utm_campaign=1056&utm_source=git)** | Coventry, RI | On Site | Oct 14 |
 | ↳ | **[Non-profit Community Internship](https://jobright.ai/jobs/info/68f07aeba6b9004b5e320beb?utm_campaign=1056&utm_source=git)** | LaFayette, NY | On Site | Oct 14 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f07a93a6b9004b5e320b14?utm_campaign=1056&utm_source=git)** | Newry, PA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
