@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 20 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[​​Public Health Policy Intern​](https://jobright.ai/jobs/info/68f659999a63986de757da3f?utm_campaign=1056&utm_source=git)** | Remote - US Home | Remote | Oct 20 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68f658fe9a63986de757d996?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 20 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[​​Public Health Policy Intern​](https://jobright.ai/jobs/info/68f6561a76a51a4307bd97c7?utm_campaign=1056&utm_source=git)** | Washington DC | Hybrid | Oct 20 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Oct 20 |
+| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 20 |
 | **[Careers at Council ](https://jobs.careersatcouncil.com.au/)** | **[Internal Engagement Officer](https://jobright.ai/jobs/info/68f6283f76a51a4307bd8748?utm_campaign=1056&utm_source=git)** | Orange, CA | Hybrid | Oct 20 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/68f603319a63986de757c140?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Oct 20 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of the Secretary](https://jobright.ai/jobs/info/68f288fe9a63986de75689bd?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 19 |
@@ -68,11 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Public Policy](https://jobright.ai/jobs/info/68bb46af6105227d118a4c49?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68f484389a63986de7575f1e?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 18 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f5c04976a51a4307bd5f90?utm_campaign=1056&utm_source=git)** | Kahului, HI | On Site | Oct 18 |
-| **[US Navy Chief Petty Officers Association](https://www.navychief.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f5c8de76a51a4307bd6184?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Ubiequity Partners LLC](https://www.linkedin.com/company/107998852)** | **[Special Projects Intern: Community Mobilization and Digital Strategy](https://jobright.ai/jobs/info/68f5c7ba76a51a4307bd613f?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Oct 18 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Undersea Programs Intern - Summer 2026](https://jobright.ai/jobs/info/68f4212e76a51a4307bd04ce?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
 | ↳ | **[Policy Intern 2026 Strategic Division](https://jobright.ai/jobs/info/68f4211b76a51a4307bd04ca?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
-| ↳ | **[Policy Intern (2026 Strategic Division)](https://jobright.ai/jobs/info/68f420a89a65fd3458589158?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
 | ↳ | **[Intern 2025 AUKUS - Programmatic](https://jobright.ai/jobs/info/68f4209c9a63986de7574441?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
 | ↳ | **[Submarine Programs Intern - Summer 2026](https://jobright.ai/jobs/info/68f420979a63986de7574440?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Oct 18 |
 | ↳ | **[Policy Intern 2026 Strategic Division](https://jobright.ai/jobs/info/68f40ba076a51a4307bd03ba?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia | On Site | Oct 18 |
@@ -91,7 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Republic Airways](http://www.rjet.com)** | **[Corporate & Community Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/68bbdf3f5f38327491873c6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
 | **[Southwire Company](http://southwire.com)** | **[Sustainability Project Intern](https://jobright.ai/jobs/info/68ca0a30f16e3266d2821fdb?utm_campaign=1056&utm_source=git)** | Huntersville, NC | Hybrid | Oct 18 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/68e88ea9c72beb74cb32017d?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Oct 18 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3861f76a51a4307bce7df?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Oct 18 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3863f9a63986de7572782?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3861f76a51a4307bce7df?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f386179a63986de757277d?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f3861276a51a4307bce7db?utm_campaign=1056&utm_source=git)** | Fayetteville, AR | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3860b76a51a4307bce7d8?utm_campaign=1056&utm_source=git)** | St Cloud, MN | On Site | Oct 18 |
@@ -103,17 +108,16 @@ For a complete list, click the following sortable link below:
 | **[Verizon](https://www.verizon.com)** | **[Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/68d71cee894705799a2f0c2a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 18 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f385af76a51a4307bce7be?utm_campaign=1056&utm_source=git)** | Albuquerque, NM | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f3859a9a63986de757275b?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f385889a63986de7572758?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f385729a63986de757274f?utm_campaign=1056&utm_source=git)** | Jonesboro, AR | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3857176a51a4307bce7b3?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3853f76a51a4307bce7a1?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f385359a63986de7572745?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f3850976a51a4307bce799?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f385089a63986de7572738?utm_campaign=1056&utm_source=git)** | Great Falls, MT | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f384e876a51a4307bce792?utm_campaign=1056&utm_source=git)** | Edmond, OK | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f384d09a63986de7572726?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f384d09a63986de7572725?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f384b29a63986de7572719?utm_campaign=1056&utm_source=git)** | Eugene, OR | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f384929a63986de7572711?utm_campaign=1056&utm_source=git)** | Dover, DE | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f384439a63986de7572705?utm_campaign=1056&utm_source=git)** | Greeley, CO | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f382e99a65fd345858743e?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f382069a65fd345858742b?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f381f29a65fd3458587428?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | On Site | Oct 18 |
@@ -124,37 +128,33 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f3804b9a65fd34585873d8?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f380409a65fd34585873d7?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f380409a65fd34585873d5?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f380369a65fd34585873d2?utm_campaign=1056&utm_source=git)** | Caldwell, ID | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37f5e9a65fd34585873b3?utm_campaign=1056&utm_source=git)** | Kalamazoo, MI | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37f3c9a65fd34585873af?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37f039a65fd34585873a6?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37e649a65fd345858739a?utm_campaign=1056&utm_source=git)** | Syracuse, NY | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37e639a65fd3458587399?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37e209a65fd3458587388?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37e469a65fd3458587390?utm_campaign=1056&utm_source=git)** | Knoxville, TN | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37e209a65fd3458587387?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Oct 18 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37e209a65fd3458587388?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37de59a65fd345858736d?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37de59a65fd345858736c?utm_campaign=1056&utm_source=git)** | West Lafayette, IN | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37da59a65fd3458587351?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37dcb9a65fd3458587360?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37d749a65fd3458587336?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f37d4b9a65fd345858731b?utm_campaign=1056&utm_source=git)** | Corvallis, OR | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f37d499a65fd345858731a?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45bdf76a51a4307bd0e80?utm_campaign=1056&utm_source=git)** | Huntington, WV | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45e499a63986de7574f86?utm_campaign=1056&utm_source=git)** | Poultney, VT | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45fbd9a63986de757507b?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45fe09a65fd3458589e1c?utm_campaign=1056&utm_source=git)** | Huntington, WV | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45c3976a51a4307bd0eea?utm_campaign=1056&utm_source=git)** | Grand Island, NE | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45f119a63986de757500c?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45b9176a51a4307bd0e31?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45f319a65fd3458589da6?utm_campaign=1056&utm_source=git)** | Smithfield, RI | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45aea76a51a4307bd0dbd?utm_campaign=1056&utm_source=git)** | Minot, ND | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45f319a65fd3458589da6?utm_campaign=1056&utm_source=git)** | Smithfield, RI | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45a4a76a51a4307bd0d61?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45c0576a51a4307bd0eb7?utm_campaign=1056&utm_source=git)** | Gambier, OH | On Site | Oct 18 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45f9c9a65fd3458589df5?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45bda76a51a4307bd0e78?utm_campaign=1056&utm_source=git)** | Castleton, VT | On Site | Oct 18 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45bca76a51a4307bd0e5d?utm_campaign=1056&utm_source=git)** | Williston, ND | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45e0a9a63986de7574f54?utm_campaign=1056&utm_source=git)** | Powell, WY | On Site | Oct 18 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45b7376a51a4307bd0e1d?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45c3a76a51a4307bd0eec?utm_campaign=1056&utm_source=git)** | Ellensburg, WA | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45aab76a51a4307bd0d9b?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Oct 18 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f45f779a63986de757504a?utm_campaign=1056&utm_source=git)** | Matoaca, VA | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45dc49a65fd3458589c9b?utm_campaign=1056&utm_source=git)** | Aberdeen, SD | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45fec9a65fd3458589e28?utm_campaign=1056&utm_source=git)** | Greenville, NC | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45a6276a51a4307bd0d72?utm_campaign=1056&utm_source=git)** | Wayne, NJ | On Site | Oct 18 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45de09a63986de7574f2f?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Oct 18 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f45e0a9a63986de7574f54?utm_campaign=1056&utm_source=git)** | Powell, WY | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
