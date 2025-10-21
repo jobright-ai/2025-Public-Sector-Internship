@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Oversight Project & Portfolio Mgmt., RBOPS](https://jobright.ai/jobs/info/68dacc4e6df7b8311bb12587?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
+| **[Long Duration Energy Storage Council (LDES Council)](https://www.ldescouncil.com/)** | **[Policy Intern – North America](https://jobright.ai/jobs/info/68f79070b0edcf159dc83864?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f77bf95dc1be60128137e0?utm_campaign=1056&utm_source=git)** | Fairbanks, AK | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f776dfec6dbe7073fc3513?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f776955dc1be6012812f0f?utm_campaign=1056&utm_source=git)** | Kingston, RI | On Site | Oct 21 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f76ff2b0edcf159dc7f1bc?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 21 |
 | **[State of Arizona](https://gaming.az.gov)** | **[PHOENIX VICTIM SERVICES INTERN/VOLUNTEER- SPRING 2026](https://jobright.ai/jobs/info/68f76fd5ec6dbe7073fc20f0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76f815dc1be6012811ae9?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76f05b0edcf159dc7f0a3?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76efcb0edcf159dc7f097?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76ec4ec6dbe7073fc1d42?utm_campaign=1056&utm_source=git)** | Moscow, ID | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76ebcb0edcf159dc7f059?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Oct 21 |
@@ -82,16 +83,19 @@ For a complete list, click the following sortable link below:
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/68ea01e1cfc08e490891462a?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78244ec6dbe7073fc4a66?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77d16b0edcf159dc81228?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781f3b0edcf159dc81d19?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7800aec6dbe7073fc47d6?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f783cdb0edcf159dc82229?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f782c5b0edcf159dc81fdc?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Oct 21 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f78417b0edcf159dc822cc?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f77ca05dc1be60128139fe?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781a0ec6dbe7073fc49e1?utm_campaign=1056&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f78417b0edcf159dc822cc?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c0a5dc1be6012813828?utm_campaign=1056&utm_source=git)** | Grand Island, NE | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781a0ec6dbe7073fc49e1?utm_campaign=1056&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c8eec6dbe7073fc3e65?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f790e3b0edcf159dc838b3?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78108ec6dbe7073fc493e?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77adb5dc1be6012813477?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Oct 21 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f78d8dec6dbe7073fc6014?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 21 |
 | **[State of Arizona](https://gaming.az.gov)** | **[TUCSON VICTIM SERVICES INTERN/VOLUNTEER- SPRING 2026](https://jobright.ai/jobs/info/68f78190ec6dbe7073fc49c6?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Oct 21 |
 | **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Spring 2026 Economic Justice Advocacy Intern](https://jobright.ai/jobs/info/68f74ea0b0edcf159dc79daa?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
 | ↳ | **[Spring 2026 Congressional Relations & Social Impact Intern](https://jobright.ai/jobs/info/68f74c57b0edcf159dc7974a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
@@ -133,13 +137,13 @@ For a complete list, click the following sortable link below:
 | **[Florida Institute of CPAs (FICPA)](https://www.ficpa.org)** | **[Legislative Affairs Intern (Part-time)](https://jobright.ai/jobs/info/68f689f79a65fd34585943f3?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Oct 20 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Division of Family Support](https://jobright.ai/jobs/info/68f2a1089a65fd345857e4aa?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Resilience Planner Intern](https://jobright.ai/jobs/info/68c7cd93369c3763c743c43e?utm_campaign=1056&utm_source=git)** | Fairfax, VA | On Site | Oct 20 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Department for Medicaid Services](https://jobright.ai/jobs/info/68f2a4e276a51a4307bc5ad5?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
-| ↳ | **[Team Kentucky Internship Program - General Government - Planning & Preparedness Branch](https://jobright.ai/jobs/info/68f6760e9a63986de757e8f7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Planning & Preparedness Branch](https://jobright.ai/jobs/info/68f6760e9a63986de757e8f7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | ↳ | **[Team Kentucky Internship Program - General Government - Division of Emergency Management](https://jobright.ai/jobs/info/68f6750f76a51a4307bda893?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | ↳ | **[Team Kentucky Internship Program - General Government - Division of Non-Advocacy](https://jobright.ai/jobs/info/68f294f69a63986de756910f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | ↳ | **[Team Kentucky Internship Program - General Government - Division of Accounting](https://jobright.ai/jobs/info/68f288c29a63986de7568996?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - State Policies Intern - Marijuana Policy Project](https://jobright.ai/jobs/info/68f674b79a65fd3458593692?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Oct 20 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Division of Advocacy](https://jobright.ai/jobs/info/68f29e3e9a63986de75696b1?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Department for Medicaid Services](https://jobright.ai/jobs/info/68f299f776a51a4307bc5320?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
+| ↳ | **[Team Kentucky Internship Program - General Government - Division of Advocacy](https://jobright.ai/jobs/info/68f29e3e9a63986de75696b1?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Maternal and Child Health Systems Intern](https://jobright.ai/jobs/info/68e696af1852e62f0081c4b9?utm_campaign=1056&utm_source=git)** | Greater Phoenix Area | Hybrid | Oct 20 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2bdbe76a51a4307bc7bfe?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 20 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Division of Internal Audit Admin](https://jobright.ai/jobs/info/68f28cc99a63986de7568bda?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 20 |
 | **[Careers at Council ](https://jobs.careersatcouncil.com.au/)** | **[Internal Engagement Officer](https://jobright.ai/jobs/info/68f6283f76a51a4307bd8748?utm_campaign=1056&utm_source=git)** | Orange, CA | Hybrid | Oct 20 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/68f603319a63986de757c140?utm_campaign=1056&utm_source=git)** | Becket, MA | On Site | Oct 20 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of the Secretary](https://jobright.ai/jobs/info/68f288fe9a63986de75689bd?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 19 |
-| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Policy & Analytics Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68f690429a65fd3458594947?utm_campaign=1056&utm_source=git)** | New York, New York | On Site | Oct 19 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 19 |
-| **[Gilbert, Arizona](http://www.gilbertaz.gov)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/68f6aacc9a65fd3458595de9?utm_campaign=1056&utm_source=git)** | Woodbridge, VA | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
