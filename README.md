@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/68ccc31fd99309000e5a2d12?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 22 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68f89a746de2db04dc3e0bdc?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Oct 22 |
+| **[Wisconsin Hospital Association](https://www.wha.org)** | **[Government Relations Internship](https://jobright.ai/jobs/info/68f8aa62a628d10664e85233?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 22 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f881cba628d10664e8375d?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 22 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f85092a628d10664e8198f?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 21 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c04b76a51a4307bc7e6c?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | Oct 21 |
@@ -118,16 +120,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76ebcb0edcf159dc7f059?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f76e90ec6dbe7073fc1c93?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 21 |
 | **[San Diego Padres](http://www.padres.com)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/68f76370b0edcf159dc7d33b?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77d16b0edcf159dc81228?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78244ec6dbe7073fc4a66?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 21 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78244ec6dbe7073fc4a66?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77d16b0edcf159dc81228?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781f3b0edcf159dc81d19?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7800aec6dbe7073fc47d6?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f782c5b0edcf159dc81fdc?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f783cdb0edcf159dc82229?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f77ca05dc1be60128139fe?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f78417b0edcf159dc822cc?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c0a5dc1be6012813828?utm_campaign=1056&utm_source=git)** | Grand Island, NE | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781a0ec6dbe7073fc49e1?utm_campaign=1056&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c0a5dc1be6012813828?utm_campaign=1056&utm_source=git)** | Grand Island, NE | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c8eec6dbe7073fc3e65?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f790e3b0edcf159dc838b3?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78108ec6dbe7073fc493e?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Local Government Intern - CIER-2025-6i](https://jobright.ai/jobs/info/68f7c7105dc1be601281b222?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 20 |
 | **[City of Grand Prairie](https://www.gptx.org/Home)** | **[Public Health and Environmental Quality High School Intern](https://jobright.ai/jobs/info/68f7fde7b0edcf159dc8d4e5?utm_campaign=1056&utm_source=git)** | Grand Prairie, TX | On Site | Oct 20 |
 | **[Family Focus](http://www.family-focus.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/68f815d3ec6dbe7073fd1060?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 20 |
-| **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice - Spring 26'](https://jobright.ai/jobs/info/68f6c7b89a65fd345859717a?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Oct 20 |
-| **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/68f6c5e69a65fd3458597146?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
