@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f881cba628d10664e8375d?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 22 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f85092a628d10664e8198f?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 21 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c04b76a51a4307bc7e6c?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | Oct 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Everglades Restoration Campaign Intern](https://jobright.ai/jobs/info/68f8688f6de2db04dc3dee58?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 21 |
@@ -85,12 +86,12 @@ For a complete list, click the following sortable link below:
 | **[Sierra Club](http://sierraclub.org)** | **[Everglades Restoration Campaign Intern](https://jobright.ai/jobs/info/68f7de69ec6dbe7073fcd5fe?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 21 |
 | **[National Institute for Civil Discourse](http://nicd.arizona.edu/)** | **[Congressional Engagement Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7d9f9b0edcf159dc8a59c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of the Secretary](https://jobright.ai/jobs/info/68f2d6369a65fd34585816a6?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
-| ↳ | **[Team Kentucky Internship Program - Economic Development - Research & Strategy Division](https://jobright.ai/jobs/info/68f7c79f5dc1be601281b372?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
 | ↳ | **[Team Kentucky Internship Program - Economic Development - Program Administration Division](https://jobright.ai/jobs/info/68f7cb4ab0edcf159dc89380?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
 | ↳ | **[Team Kentucky Internship Program-Cabinet for Economic Development-Research](https://jobright.ai/jobs/info/68f86fe36de2db04dc3df186?utm_campaign=1056&utm_source=git)** | Frankfort, KY, US | On Site | Oct 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Health & Wellness Intern - UNPAID](https://jobright.ai/jobs/info/68f7bfba5dc1be601281a98f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - State Policies Intern (PA) - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68f7bd48ec6dbe7073fca8fc?utm_campaign=1056&utm_source=git)** | Pennsylvania | Remote | Oct 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Health & Wellness Intern - UNPAID](https://jobright.ai/jobs/info/68f7bccfb0edcf159dc87cbd?utm_campaign=1056&utm_source=git)** | Atlanta, GA USA | On Site | Oct 21 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program-Cabinet for Economic Development-Research](https://jobright.ai/jobs/info/68f7c79f5dc1be601281b372?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68f7b60bb0edcf159dc873ac?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Ankura](https://ankura.com)** | **[Intern, McLarty Associates - Middle East and North Africa Practice](https://jobright.ai/jobs/info/68f7cef2ec6dbe7073fcc117?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Oct 21 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern, Oversight Project & Portfolio Mgmt., RBOPS](https://jobright.ai/jobs/info/68dacc4e6df7b8311bb12587?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
@@ -120,14 +121,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78244ec6dbe7073fc4a66?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781f3b0edcf159dc81d19?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7800aec6dbe7073fc47d6?utm_campaign=1056&utm_source=git)** | Providence, RI | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f782c5b0edcf159dc81fdc?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f783cdb0edcf159dc82229?utm_campaign=1056&utm_source=git)** | Cedar Falls, IA | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f782c5b0edcf159dc81fdc?utm_campaign=1056&utm_source=git)** | Willimantic, CT | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f77ca05dc1be60128139fe?utm_campaign=1056&utm_source=git)** | Muncie, IN | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f78417b0edcf159dc822cc?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781a0ec6dbe7073fc49e1?utm_campaign=1056&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c0a5dc1be6012813828?utm_campaign=1056&utm_source=git)** | Grand Island, NE | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c8eec6dbe7073fc3e65?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f781a0ec6dbe7073fc49e1?utm_campaign=1056&utm_source=git)** | Clemson, SC | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f790e3b0edcf159dc838b3?utm_campaign=1056&utm_source=git)** | Notre Dame, IN | On Site | Oct 21 |
+| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77c8eec6dbe7073fc3e65?utm_campaign=1056&utm_source=git)** | Flagstaff, AZ | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f78108ec6dbe7073fc493e?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77adb5dc1be6012813477?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f78d8dec6dbe7073fc6014?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Intern, Brazil and Southern Cone Practice - Spring 26'](https://jobright.ai/jobs/info/68f6c7b89a65fd345859717a?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Oct 20 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Team Roc (Philanthropy)](https://jobright.ai/jobs/info/68f6c5e69a65fd3458597146?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 20 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - State Policies Intern - Marijuana Policy Project](https://jobright.ai/jobs/info/68f6bb599a63986de7581c3a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 20 |
-| **[State of Utah](http://www.utah.gov/)** | **[Legislative Intern, State Auditor Appointed](https://jobright.ai/jobs/info/68f6b62576a51a4307bdd8bd?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
