@@ -72,7 +72,6 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | ↳ | **[Spring 2026 Unpaid Social Work Internship](https://jobright.ai/jobs/info/68f9286d6de2db04dc3e5e7c?utm_campaign=1056&utm_source=git)** | Osceola, IA | On Site | Oct 22 |
 | ↳ | **[Medicaid Policy Bureau Intern](https://jobright.ai/jobs/info/68f926cba628d10664e89ba3?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Governor](https://jobright.ai/jobs/info/68f91c52cadb2e5a06a613f1?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[AUKUS Program Intern (Non-STEM), Summer 2026](https://jobright.ai/jobs/info/68f91b52a628d10664e89555?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Oct 22 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Spring 2026 Unpaid Social Work Internship](https://jobright.ai/jobs/info/68f91b36a628d10664e8953d?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Oct 22 |
 | **[Centene Corporation](http://www.centene.com)** | **[Legislative & Government Affairs Intern (Undergraduate - Part Time)](https://jobright.ai/jobs/info/68f90168a628d10664e87b31?utm_campaign=1056&utm_source=git)** | Remote-TX | Remote | Oct 22 |
 | **[Ankura](https://ankura.com)** | **[Intern/Graduate Fellow, McLarty Associates - Africa Practice](https://jobright.ai/jobs/info/68f901056de2db04dc3e3fe4?utm_campaign=1056&utm_source=git)** | USA Washington DC 900 17th Street (McLarty) | On Site | Oct 22 |
@@ -153,9 +152,10 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f76ff2b0edcf159dc7f1bc?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 21 |
 | **[State of Arizona](https://gaming.az.gov)** | **[PHOENIX VICTIM SERVICES INTERN/VOLUNTEER- SPRING 2026](https://jobright.ai/jobs/info/68f76fd5ec6dbe7073fc20f0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76f815dc1be6012811ae9?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76f05b0edcf159dc7f0a3?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76efcb0edcf159dc7f097?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76ec4ec6dbe7073fc1d42?utm_campaign=1056&utm_source=git)** | Moscow, ID | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76ebcb0edcf159dc7f059?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f76e90ec6dbe7073fc1c93?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 21 |
+| **[San Diego Padres](http://www.padres.com)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/68f76370b0edcf159dc7d33b?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
+| **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77d16b0edcf159dc81228?utm_campaign=1056&utm_source=git)** | Monroe, LA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
