@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/68fa8592b2c86843bf20ea8b?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 23 |
+| ↳ | **[Spring 2026 Economic Empowerment Intern - UNPAID](https://jobright.ai/jobs/info/68fa8345b2c86843bf20e76f?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Student Intern for the Office of Government Relations](https://jobright.ai/jobs/info/68fa8087b2c86843bf20e490?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Oct 23 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/68fa7e53edd190144238d178?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Oct 23 |
+| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/68fa7574edd190144238cb46?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Oct 23 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, IPSP Department](https://jobright.ai/jobs/info/68bfc80d702aa35207aa9133?utm_campaign=1056&utm_source=git)** | United States | On Site | Oct 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/68fa610067272b29af72e799?utm_campaign=1056&utm_source=git)** | Miami, FL USA | On Site | Oct 23 |
 | ↳ | **[Spring 2026 Anti-Trafficking Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/68fa5e0eedd190144238b781?utm_campaign=1056&utm_source=git)** | Tallahassee, FL USA | On Site | Oct 23 |
@@ -131,7 +136,6 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | **[First Merchants Corporation](https://www.firstmerchants.com)** | **[Intern - Corporate Social Responsibility](https://jobright.ai/jobs/info/68f7e6815dc1be601281ddf5?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Oct 21 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Intern, Outreach & Advocacy - Antioch, CA](https://jobright.ai/jobs/info/68f7e353ec6dbe7073fcdaab?utm_campaign=1056&utm_source=git)** | Antioch, California | Hybrid | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Kentucky Real Estate Authority](https://jobright.ai/jobs/info/68f2d8349a63986de756cac7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
-| **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/68f8082db0edcf159dc8def0?utm_campaign=1056&utm_source=git)** | New Orleans, Louisiana | On Site | Oct 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Everglades Restoration Campaign Intern](https://jobright.ai/jobs/info/68f7de69ec6dbe7073fcd5fe?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 21 |
 | **[National Institute for Civil Discourse](http://nicd.arizona.edu/)** | **[Congressional Engagement Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7d9f9b0edcf159dc8a59c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of the Secretary](https://jobright.ai/jobs/info/68f2d6369a65fd34585816a6?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
@@ -154,8 +158,4 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7749eec6dbe7073fc2c20?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f774855dc1be6012812897?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7746c5dc1be6012812841?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Oct 21 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f772835dc1be60128121f6?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f770feec6dbe7073fc2241?utm_campaign=1056&utm_source=git)** | Poultney, VT | On Site | Oct 21 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f770f35dc1be6012811d72?utm_campaign=1056&utm_source=git)** | Chinle, AZ | On Site | Oct 21 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f770465dc1be6012811bda?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
