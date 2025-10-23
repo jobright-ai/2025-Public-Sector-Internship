@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68f9de338a7359609b8c7056?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 23 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/68f9d6267b89366816034870?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Oct 23 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Relations Intern](https://jobright.ai/jobs/info/68f9bd43cadb2e5a06a6765a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Oct 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c66c9a65fd3458580eca?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | Oct 22 |
@@ -148,14 +149,13 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7749eec6dbe7073fc2c20?utm_campaign=1056&utm_source=git)** | Newark, DE | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f774855dc1be6012812897?utm_campaign=1056&utm_source=git)** | Cedar City, UT | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f7746c5dc1be6012812841?utm_campaign=1056&utm_source=git)** | Fargo, ND | On Site | Oct 21 |
+| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f772835dc1be60128121f6?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f770feec6dbe7073fc2241?utm_campaign=1056&utm_source=git)** | Poultney, VT | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f770f35dc1be6012811d72?utm_campaign=1056&utm_source=git)** | Chinle, AZ | On Site | Oct 21 |
-| ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f770ebec6dbe7073fc2234?utm_campaign=1056&utm_source=git)** | Tacoma, WA | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f770465dc1be6012811bda?utm_campaign=1056&utm_source=git)** | Keene, NH | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f77025ec6dbe7073fc2140?utm_campaign=1056&utm_source=git)** | Caldwell, ID | On Site | Oct 21 |
 | ↳ | **[Nonprofit Leadership Internship](https://jobright.ai/jobs/info/68f76ff2b0edcf159dc7f1bc?utm_campaign=1056&utm_source=git)** | Baton Rouge, LA | On Site | Oct 21 |
 | **[State of Arizona](https://gaming.az.gov)** | **[PHOENIX VICTIM SERVICES INTERN/VOLUNTEER- SPRING 2026](https://jobright.ai/jobs/info/68f76fd5ec6dbe7073fc20f0?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Oct 21 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76f815dc1be6012811ae9?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Oct 21 |
 | ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76efcb0edcf159dc7f097?utm_campaign=1056&utm_source=git)** | Charleston, SC | On Site | Oct 21 |
-| ↳ | **[Political Affairs Internship](https://jobright.ai/jobs/info/68f76ec4ec6dbe7073fc1d42?utm_campaign=1056&utm_source=git)** | Moscow, ID | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
