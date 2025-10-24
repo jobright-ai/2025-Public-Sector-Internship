@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Medical Affairs](https://jobright.ai/jobs/info/68cbb2619e3a822f5d24aaf1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 24 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/68de9824a125e75c422b5309?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Russian Language Intern - Warfare, Irregular Threats, and Terrorism Program (Fall/Winter 2025)](https://jobright.ai/jobs/info/68fac09d67272b29af73349f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | ↳ | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68fabdbaedd19014423907c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/68fab2b0b2c86843bf211261?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 23 |
+| **[Common Cause Georgia](https://www.linkedin.com/company/6081765)** | **[Intern](https://jobright.ai/jobs/info/68fb6c8893c49825ab103184?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Safety Investigator-Investigations](https://jobright.ai/jobs/info/68dbe415d6470e72cf4d5a30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[NASHP | National Academy for State Health Policy](https://www.nashp.org/)** | **[Policy Intern - Cost, Coverage, & Value](https://jobright.ai/jobs/info/68fa93e467272b29af731424?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/68fa9353edd190144238e853?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 23 |
@@ -156,6 +158,4 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | **[Fort Lewis College](http://www.fortlewis.edu/)** | **[Police Officer Intern](https://jobright.ai/jobs/info/68f7f90bec6dbe7073fcf5fc?utm_campaign=1056&utm_source=git)** | Fort Lewis College, Durango Colorado | On Site | Oct 21 |
 | **[Primerica](https://www.primerica.com)** | **[Local Government Intern - CIER-2025-6i](https://jobright.ai/jobs/info/68f7f305b0edcf159dc8c786?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | **[Ankura](https://ankura.com)** | **[Intern, McLarty Associates - Middle East and North Africa Practice](https://jobright.ai/jobs/info/68f7ef46ec6dbe7073fcead5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Trees for Neighborhoods Intern](https://jobright.ai/jobs/info/68f7e9e4b0edcf159dc8bc17?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Oct 21 |
-| **[First Merchants Corporation](https://www.firstmerchants.com)** | **[Intern - Corporate Social Responsibility](https://jobright.ai/jobs/info/68f7e6815dc1be601281ddf5?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
