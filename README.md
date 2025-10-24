@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Housing & Communities Branch](https://jobright.ai/jobs/info/68fbbacc4129dd33cd13426c?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 24 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Research Intern - Urbanity Project - Mercatus Center](https://jobright.ai/jobs/info/68fbb7fdf55bb021a889bd44?utm_campaign=1056&utm_source=git)** | Virginia | On Site | Oct 24 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Medical Affairs](https://jobright.ai/jobs/info/68cbb2619e3a822f5d24aaf1?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 24 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/68fbaea793c49825ab104beb?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 24 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/68de9824a125e75c422b5309?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
@@ -68,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68fb2a349e8e925ac6c893df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[NASHP | National Academy for State Health Policy](https://www.nashp.org/)** | **[Policy Intern - Cost, Coverage, & Value](https://jobright.ai/jobs/info/68fb6efbf55bb021a8899dd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae9683c99cc1d96027641?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae8aa8d32c164778cc78a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/68fade598d32c164778cc164?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fad57c9e8e925ac6c86aea?utm_campaign=1056&utm_source=git)** | Girls Inc. - Washington D.C. Office | Hybrid | Oct 23 |
@@ -142,7 +145,6 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68f8c5266de2db04dc3e1e73?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/68ccc31fd99309000e5a2d12?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Oct 22 |
 | **[Wisconsin Hospital Association](https://www.wha.org)** | **[Government Relations Internship](https://jobright.ai/jobs/info/68f8aa62a628d10664e85233?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 22 |
-| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f881cba628d10664e8375d?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 22 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/68f85092a628d10664e8198f?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Oct 21 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c04b76a51a4307bc7e6c?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | Oct 21 |
 | **[Sierra Club](http://sierraclub.org)** | **[Everglades Restoration Campaign Intern](https://jobright.ai/jobs/info/68f8688f6de2db04dc3dee58?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 21 |
@@ -156,6 +158,4 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | **[CASA of Marion County, Oregon](http://www.casamarionor.org)** | **[Intern](https://jobright.ai/jobs/info/68f7fd9aec6dbe7073fcfc87?utm_campaign=1056&utm_source=git)** | Salem, OR | On Site | Oct 21 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Office of Economic Empowerment Intern / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f7f9b05dc1be601281f51b?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
 | **[Fort Lewis College](http://www.fortlewis.edu/)** | **[Police Officer Intern](https://jobright.ai/jobs/info/68f7f90bec6dbe7073fcf5fc?utm_campaign=1056&utm_source=git)** | Fort Lewis College, Durango Colorado | On Site | Oct 21 |
-| **[Primerica](https://www.primerica.com)** | **[Local Government Intern - CIER-2025-6i](https://jobright.ai/jobs/info/68f7f305b0edcf159dc8c786?utm_campaign=1056&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
-| **[Ankura](https://ankura.com)** | **[Intern, McLarty Associates - Middle East and North Africa Practice](https://jobright.ai/jobs/info/68f7ef46ec6dbe7073fcead5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
