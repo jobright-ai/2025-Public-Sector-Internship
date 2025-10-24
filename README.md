@@ -59,11 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68fb2a349e8e925ac6c893df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae8aa8d32c164778cc78a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae9683c99cc1d96027641?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/68fade598d32c164778cc164?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fad57c9e8e925ac6c86aea?utm_campaign=1056&utm_source=git)** | Girls Inc. - Washington D.C. Office | Hybrid | Oct 23 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern, Retail Payments- RBOPS](https://jobright.ai/jobs/info/68fac8d6b2c86843bf211e30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| **[Velos](https://velosteam.com)** | **[Government Relations Intern - Space & Defense](https://jobright.ai/jobs/info/68fb3fe5e154835f11efaf77?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Russian Language Intern - Warfare, Irregular Threats, and Terrorism Program (Fall/Winter 2025)](https://jobright.ai/jobs/info/68fac09d67272b29af73349f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | ↳ | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68fabdbaedd19014423907c7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/68fab2b0b2c86843bf211261?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 23 |
@@ -157,5 +158,4 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | **[Sierra Club](http://sierraclub.org)** | **[Everglades Restoration Campaign Intern](https://jobright.ai/jobs/info/68f7de69ec6dbe7073fcd5fe?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Oct 21 |
 | **[National Institute for Civil Discourse](http://nicd.arizona.edu/)** | **[Congressional Engagement Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7d9f9b0edcf159dc8a59c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | On Site | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of the Secretary](https://jobright.ai/jobs/info/68f2d6369a65fd34585816a6?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
-| ↳ | **[Team Kentucky Internship Program - Economic Development - Research & Strategy Division](https://jobright.ai/jobs/info/68f7c79f5dc1be601281b372?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
