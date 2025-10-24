@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fb4ebaf55bb021a88992ce?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68fb2a349e8e925ac6c893df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae9683c99cc1d96027641?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
@@ -91,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/68ddd9c8a125e75c422af538?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/68fa39ad7959161d33e60e91?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Communications & Public Affairs Intern - Fall 2025](https://jobright.ai/jobs/info/68f9de338a7359609b8c7056?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/68f9d5accadb2e5a06a67f98?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Oct 23 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/68f9d6267b89366816034870?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Oct 23 |
 | **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/68fa90ededd190144238e50a?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Oct 22 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Relations Intern](https://jobright.ai/jobs/info/68f9bd43cadb2e5a06a6765a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Oct 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c66c9a65fd3458580eca?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | Oct 22 |
@@ -106,7 +107,6 @@ Job ID : 250033](https://jobright.ai/jobs/info/68f94eeda628d10664e8bc82?utm_camp
 | **[Ankura](https://ankura.com)** | **[Intern/Graduate Fellow, McLarty Associates - Africa Practice](https://jobright.ai/jobs/info/68f93c386de2db04dc3e7071?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 22 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern-Public Affairs/Video & Communications](https://jobright.ai/jobs/info/68f92bf7a628d10664e89de7?utm_campaign=1056&utm_source=git)** | Topeka, KS | Hybrid | Oct 22 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Spring 2026 Unpaid Social Work Internship](https://jobright.ai/jobs/info/68f92b7c6de2db04dc3e6160?utm_campaign=1056&utm_source=git)** | Fort Dodge, IA | On Site | Oct 22 |
-| ↳ | **[Medicaid Policy Bureau Intern](https://jobright.ai/jobs/info/68f926cba628d10664e89ba3?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Governor](https://jobright.ai/jobs/info/68f91c52cadb2e5a06a613f1?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Spring 2026 Unpaid Social Work Internship](https://jobright.ai/jobs/info/68f91b36a628d10664e8953d?utm_campaign=1056&utm_source=git)** | Sioux City, IA | On Site | Oct 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Division of Emergency Management](https://jobright.ai/jobs/info/68f6750f76a51a4307bda893?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 22 |
