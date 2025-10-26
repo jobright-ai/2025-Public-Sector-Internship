@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/68fe52dae04ac838fb5b400c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 26 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68c49e57e471ef3ce16d7c9e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Oct 26 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/68fda9f70ab3b222462a3f4c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 25 |
 | **[Greater Nashville Regional Council](http://www.gnrc.org)** | **[Community and Regional Planning Intern](https://jobright.ai/jobs/info/68fd7f6be04ac838fb5af856?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/68fd5d110ab3b222462a1b5e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 25 |
 | ↳ | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68fd5046e04ac838fb5aeab4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 25 |
@@ -119,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[NASHP | National Academy for State Health Policy](https://www.nashp.org/)** | **[Policy Intern - Cost, Coverage, & Value](https://jobright.ai/jobs/info/68fb6efbf55bb021a8899dd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68dd8c26a125e75c422ac121?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 23 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae9683c99cc1d96027641?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae8aa8d32c164778cc78a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/68fade598d32c164778cc164?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fad57c9e8e925ac6c86aea?utm_campaign=1056&utm_source=git)** | Girls Inc. - Washington D.C. Office | Hybrid | Oct 23 |
