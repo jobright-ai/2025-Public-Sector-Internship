@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/68fda9f70ab3b222462a3f4c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 25 |
 | **[Greater Nashville Regional Council](http://www.gnrc.org)** | **[Community and Regional Planning Intern](https://jobright.ai/jobs/info/68fd7f6be04ac838fb5af856?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/68fd5d110ab3b222462a1b5e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 25 |
 | ↳ | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68fd5046e04ac838fb5aeab4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 25 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/68e0431b1852e62f007e98a1?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Oct 25 |
 | **[Gift of Life Donor Program](https://www.donors1.org/)** | **[Family Sppt Svcs Intern](https://jobright.ai/jobs/info/68f1e444e6870116b1f5e1dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Oct 25 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/68ce892afb49c96ca6ea15ac?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 25 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/68fcb35fe0c73b3a1118f02c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 25 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Oct 25 |
 | **[Larta Institute](http://www.larta.org)** | **[Intern, Community Programs](https://jobright.ai/jobs/info/68fca10fe0c73b3a1118e051?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, US | Hybrid | Oct 25 |
 | **[American Lung Association](https://www.lung.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68fcb4640ab3b2224629ec4e?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Remote | Oct 25 |
@@ -113,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/68de9824a125e75c422b5309?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/68cecf65846f0b04af67d25c?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Oct 24 |
+| **[Voters of Tomorrow NOVA](https://votersoftomorrow.org/about-us/)** | **[Vice Chairs](https://jobright.ai/jobs/info/68fcca210ab3b2224629f6ec?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 24 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68f18c46e6870116b1f5a52c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c2102d63b706703e1114fe?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Oct 24 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fb4ebaf55bb021a88992ce?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 24 |
@@ -120,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[NASHP | National Academy for State Health Policy](https://www.nashp.org/)** | **[Policy Intern - Cost, Coverage, & Value](https://jobright.ai/jobs/info/68fb6efbf55bb021a8899dd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68dd8c26a125e75c422ac121?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 23 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae9683c99cc1d96027641?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
+| ↳ | **[Health Policy Intern](https://jobright.ai/jobs/info/68fae8aa8d32c164778cc78a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/68fade598d32c164778cc164?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fad57c9e8e925ac6c86aea?utm_campaign=1056&utm_source=git)** | Girls Inc. - Washington D.C. Office | Hybrid | Oct 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/68f9d5accadb2e5a06a67f98?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Oct 23 |
 | **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/68fa90ededd190144238e50a?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Oct 22 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Oct 22 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Relations Intern](https://jobright.ai/jobs/info/68f9bd43cadb2e5a06a6765a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
