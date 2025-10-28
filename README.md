@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Tech Policy & Planning](https://jobright.ai/jobs/info/68fe13f50ab3b222462a6188?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
+| **[YMCA of the USA](http://www.ymca.net/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69007a06e0c73b3a111a5336?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Sheriff's Office](https://jobright.ai/jobs/info/69006f06e04ac838fb5c1dcd?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Government Markets Performance](https://jobright.ai/jobs/info/69006a4a0ab3b222462b44b6?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/69006d51e0c73b3a111a4bc1?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
+| ↳ | **[Summer Intern - Government Markets Performance](https://jobright.ai/jobs/info/69006a4a0ab3b222462b44b6?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Public Policy Intern (Global Public Policy)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690057cbe04ac838fb5c1906?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 27 |
 | **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69003ee1e0c73b3a111a3aa2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 27 |
 | **[Community Care Plan](http://ccpcares.org/)** | **[Community Engagement Intern-Members-Sunrise, Florida](https://jobright.ai/jobs/info/69003e94e0c73b3a111a3a84?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c2102d63b706703e1114fe?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Oct 24 |
 | **[Girls Inc.](http://www.girlsinc.org/)** | **[Spring 2026 Girls Inc. Public Policy Internship](https://jobright.ai/jobs/info/68fb4ebaf55bb021a88992ce?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68fb2a349e8e925ac6c893df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
-| **[NASHP | National Academy for State Health Policy](https://www.nashp.org/)** | **[Policy Intern - Cost, Coverage, & Value](https://jobright.ai/jobs/info/68fb6efbf55bb021a8899dd5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68dd8c26a125e75c422ac121?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Oct 23 |
-| **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
