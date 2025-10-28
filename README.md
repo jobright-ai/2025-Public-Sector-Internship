@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/6900d8c94539ea1f2141a0d6?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 28 |
+| **[UNDP Careers](https://www.undp.org)** | **[Donor Reporting and Liaison Intern (Home-based)](https://jobright.ai/jobs/info/6900d6b9f8ce7a040fdb9a57?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 28 |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Government Markets Performance](https://jobright.ai/jobs/info/6900d615f8ce7a040fdb9a14?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 28 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
 | **[Zipline](http://flyzipline.com)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/68e47774b99ec3563b0eaad5?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Oct 28 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sustainability Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68cf1dccfb49c96ca6ea5dae?utm_campaign=1056&utm_source=git)** | Shelton, CT | Hybrid | Oct 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/6900a870e04ac838fb5c3569?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
@@ -65,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Tech Policy & Planning](https://jobright.ai/jobs/info/68fe13f50ab3b222462a6188?utm_campaign=1056&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
 | **[YMCA of the USA](http://www.ymca.net/)** | **[Intern, Government Relations and Public Policy](https://jobright.ai/jobs/info/69007a06e0c73b3a111a5336?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Sheriff's Office](https://jobright.ai/jobs/info/69006f06e04ac838fb5c1dcd?utm_campaign=1056&utm_source=git)** | Spokane, WA | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Government Markets Performance](https://jobright.ai/jobs/info/69006a4a0ab3b222462b44b6?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Regulatory Performance Management](https://jobright.ai/jobs/info/69006d51e0c73b3a111a4bc1?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
+| ↳ | **[Summer Intern - Government Markets Performance](https://jobright.ai/jobs/info/69006a4a0ab3b222462b44b6?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Public Policy Intern (Global Public Policy)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690057cbe04ac838fb5c1906?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 27 |
 | **[Indiana Pacers](https://www.linkedin.com/company/4270094)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69003ee1e0c73b3a111a3aa2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 27 |
 | **[Community Care Plan](http://ccpcares.org/)** | **[Community Engagement Intern-Members-Sunrise, Florida](https://jobright.ai/jobs/info/69003e94e0c73b3a111a3a84?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 27 |
@@ -101,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68e679771852e62f0081b62d?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Oct 27 |
 | **[Ciena](http://www.ciena.com)** | **[Government Relations Intern (Spring 2026)](https://jobright.ai/jobs/info/68ffa7f40ab3b222462accfe?utm_campaign=1056&utm_source=git)** | Remote-US | Hybrid | Oct 27 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Communications and Public Affairs](https://jobright.ai/jobs/info/68ffb921e04ac838fb5bab4a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 27 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68ff5141e0c73b3a1119afac?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 27 |
 | **[City of Santa Rosa](http://srcity.org/)** | **[STUDENT - TOURIST DEVELOPMENT (WEST FLORIDA RAILROAD MUSEUM)](https://jobright.ai/jobs/info/68ffee6f0ab3b222462b02dd?utm_campaign=1056&utm_source=git)** | Milton, FL | On Site | Oct 26 |
 | **[FIVCO Area Development District](https://www.fivco.org)** | **[Intern](https://jobright.ai/jobs/info/68ffeb71e04ac838fb5bd58e?utm_campaign=1056&utm_source=git)** | Grayson, KY | On Site | Oct 26 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68c49e57e471ef3ce16d7c9e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Oct 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/68de9824a125e75c422b5309?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
-| **[Huntsman Corporation](https://www.huntsman.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/68cecf65846f0b04af67d25c?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Oct 24 |
-| **[Voters of Tomorrow NOVA](https://votersoftomorrow.org/about-us/)** | **[Vice Chairs](https://jobright.ai/jobs/info/68fcca210ab3b2224629f6ec?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 24 |
-| **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68f18c46e6870116b1f5a52c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 24 |
-| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c2102d63b706703e1114fe?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
