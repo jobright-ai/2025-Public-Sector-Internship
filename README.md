@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship/CO-OP (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690048f8e04ac838fb5c1124?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6901ac70f8ce7a040fdc1e50?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Oct 28 |
 | ↳ | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6901c1184539ea1f21422c82?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 28 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Community Outreach Intern (SAWC) - Summer 2026](https://jobright.ai/jobs/info/6901821cd5259a1b3cff591e?utm_campaign=1056&utm_source=git)** | Sealaska Corporation, One Sealaska Plaza, Juneau, Alaska, United States of America | Hybrid | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAMPBELL, COUNTY OF](https://campbellcountytn.gov)** | **[Intern - Local Government](https://jobright.ai/jobs/info/68fc8da2664c6f162a951f22?utm_campaign=1056&utm_source=git)** | Rustburg, VA, US | On Site | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c66c9a65fd3458580eca?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship Program - Spring 2026](https://jobright.ai/jobs/info/68fc327af55bb021a88a15e9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68fc07f393c49825ab108dc9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
