@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6901ac70f8ce7a040fdc1e50?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Oct 28 |
+| ↳ | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6901c1184539ea1f21422c82?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 28 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Community Outreach Intern (SAWC) - Summer 2026](https://jobright.ai/jobs/info/6901821cd5259a1b3cff591e?utm_campaign=1056&utm_source=git)** | Sealaska Corporation, One Sealaska Plaza, Juneau, Alaska, United States of America | Hybrid | Oct 28 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69017bfad5259a1b3cff5487?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 28 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Government and Industry Affairs Intern](https://jobright.ai/jobs/info/69017acf4539ea1f21420552?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Oct 28 |
@@ -138,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/68e679771852e62f0081b62d?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Oct 27 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Communications and Public Affairs](https://jobright.ai/jobs/info/68ffb921e04ac838fb5bab4a?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 27 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6900f7ee4539ea1f2141b1d3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 27 |
-| **[City of Santa Rosa](http://srcity.org/)** | **[STUDENT - TOURIST DEVELOPMENT (WEST FLORIDA RAILROAD MUSEUM)](https://jobright.ai/jobs/info/68ffee6f0ab3b222462b02dd?utm_campaign=1056&utm_source=git)** | Milton, FL | On Site | Oct 26 |
 | **[FIVCO Area Development District](https://www.fivco.org)** | **[Intern](https://jobright.ai/jobs/info/68ffeb71e04ac838fb5bd58e?utm_campaign=1056&utm_source=git)** | Grayson, KY | On Site | Oct 26 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68c49e57e471ef3ce16d7c9e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Oct 26 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Costa Mesa, CA - Food and Agriculture Administration](https://jobright.ai/jobs/info/68e058ebf758fe1f97e4c9a6?utm_campaign=1056&utm_source=git)** | Costa Mesa, CA | On Site | Oct 26 |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/6901b449d5259a1b3cff74db?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Oct 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/68fd5046e04ac838fb5aeab4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 25 |
 | **[Greater Nashville Regional Council](http://www.gnrc.org)** | **[Community and Regional Planning Intern](https://jobright.ai/jobs/info/68fd52c60ab3b222462a18d5?utm_campaign=1056&utm_source=git)** | Nashville, TN, US | On Site | Oct 25 |
 | **[Our Children's Trust](https://www.ourchildrenstrust.org)** | **[Spring 2026 Government Affairs Climate Intern](https://jobright.ai/jobs/info/68fd519e0ab3b222462a1803?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Remote | Oct 25 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[American Lung Association](https://www.lung.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/68fcb4640ab3b2224629ec4e?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Remote | Oct 25 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Public Policy & Commodity Division - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68fc5d7ef55bb021a88a33ff?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Oct 24 |
 | **[CAMPBELL, COUNTY OF](https://campbellcountytn.gov)** | **[Intern - Local Government](https://jobright.ai/jobs/info/68fc8da2664c6f162a951f22?utm_campaign=1056&utm_source=git)** | Rustburg, VA, US | On Site | Oct 24 |
+| **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c66c9a65fd3458580eca?utm_campaign=1056&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Mayor's Office Internship Program - Spring 2026](https://jobright.ai/jobs/info/68fc327af55bb021a88a15e9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68fc07f393c49825ab108dc9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
-| **[Save the Children US](http://savethechildren.org)** | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/68f2c0059a63986de756bdf7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
-| ↳ | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2bdbe76a51a4307bc7bfe?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
-| ↳ | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/68f2c04b76a51a4307bc7e6c?utm_campaign=1056&utm_source=git)** | Lexington, KY | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
