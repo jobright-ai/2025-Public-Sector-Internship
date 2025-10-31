@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69044b53ff462851feff4853?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6904469eff462851feff471d?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Oct 30 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Motorola Solutions Foundation - 2026 Summer Internship](https://jobright.ai/jobs/info/69041a2163502c0aded705e9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/690416f0ff462851feff29bd?utm_campaign=1056&utm_source=git)** | Bend, OR, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041445d64a22104aa96b60?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | Hybrid | Oct 30 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[West Valley Water District](https://www.wvwd.org)** | **[Public Outreach and Government Affairs Intern](https://jobright.ai/jobs/info/69041027d64a22104aa96891?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Oct 30 |
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69040eadff462851feff23a1?utm_campaign=1056&utm_source=git)** | Coeur d&apos;Alene, ID, US | Hybrid | Oct 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 30 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6903fee2d64a22104aa95cc9?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69041a62d64a22104aa96f11?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Oct 30 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/6903fb45d64a22104aa95904?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility Co-op](https://jobright.ai/jobs/info/6903dab063502c0aded6d73b?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Fiscal Policy Intern - Independence Institute](https://jobright.ai/jobs/info/69013c514539ea1f2141e585?utm_campaign=1056&utm_source=git)** | Colorado, United States | On Site | Oct 28 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Community Banking](https://jobright.ai/jobs/info/690138ee4539ea1f2141e183?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[State of Ohio](http://ohio.gov/)** | **[Parole Officer College Intern (20096941 and 20096942))](https://jobright.ai/jobs/info/69012ec8d5259a1b3cff2762?utm_campaign=1056&utm_source=git)** | DPCS Summit172 South Broadway Street | On Site | Oct 28 |
-| **[Issue One](https://www.issueone.org/)** | **[Policy Intern, Tech Reform](https://jobright.ai/jobs/info/690141c74539ea1f2141e94d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
-| **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69011cabf8ce7a040fdbc275?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 28 |
+| **[S&P Global](https://www.spglobal.com)** | **[IMPACT Internship Program (Early Careers)](https://jobright.ai/jobs/info/69012d2a4539ea1f2141d786?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
