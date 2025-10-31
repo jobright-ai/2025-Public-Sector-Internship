@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Georgia Trauma Commission Intern](https://jobright.ai/jobs/info/690504e7122e8474c78d5321?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Stratify Edge](stratifyedge.us)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/6904f44aff462851feff8fc1?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 31 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6904f2cfff462851feff8e97?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Oct 31 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/6904f217122e8474c78d4763?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 31 |
+| **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Global Oncology Early Patient Access Manager Intern](https://jobright.ai/jobs/info/6904fab0122e8474c78d4d47?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Oct 31 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/69047b3363502c0aded7336f?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/690179ced5259a1b3cff53b6?utm_campaign=1056&utm_source=git)** | Nashville, Tennessee | On Site | Oct 28 |
 | **[Women in Global Health](http://www.womeningh.org)** | **[Global Engagement & Advocacy Intern](https://jobright.ai/jobs/info/69018deaf8ce7a040fdc0c94?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Office of Safety, Policy & Promotion-SPP](https://jobright.ai/jobs/info/69016dd04539ea1f2141feea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 28 |
-| **[City of Westfield, Indiana](http://www.westfield.in.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/69016bb1f8ce7a040fdbf7fb?utm_campaign=1056&utm_source=git)** | Westfield, IN | On Site | Oct 28 |
-| **[Sanford Underground Research Facility](https://www.sanfordlab.org/)** | **[Summer 2026 Internship - Community Relations](https://jobright.ai/jobs/info/690166db4539ea1f2141fb8f?utm_campaign=1056&utm_source=git)** | Lead,SD,US | On Site | Oct 28 |
-| **[Search For Common Ground Nigeria](http://www.sfcg.org/Nigeria)** | **[Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/69016261d5259a1b3cff48e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
