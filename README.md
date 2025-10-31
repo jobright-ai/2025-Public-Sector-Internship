@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 31 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69044ed563502c0aded7246d?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Oct 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69044b53ff462851feff4853?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6904469eff462851feff471d?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Oct 30 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 30 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69041a62d64a22104aa96f11?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Oct 30 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Spring 2026](https://jobright.ai/jobs/info/6903fb45d64a22104aa95904?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Enterprise Project Management Branch](https://jobright.ai/jobs/info/68f2d6bb9a65fd3458581709?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Corporate Social Responsibility Co-op](https://jobright.ai/jobs/info/6903dab063502c0aded6d73b?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/6903d82bd64a22104aa93dd8?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Oct 30 |
 | **[UNDP Careers](https://www.undp.org)** | **[Donor Reporting and Liaison Intern (Home-based)](https://jobright.ai/jobs/info/6900d6b9f8ce7a040fdb9a57?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Issue One](https://www.issueone.org/)** | **[Policy Intern, Tech Reform](https://jobright.ai/jobs/info/690141c74539ea1f2141e94d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 28 |
 | **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69011cabf8ce7a040fdbc275?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 28 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/6901193c4539ea1f2141c6aa?utm_campaign=1056&utm_source=git)** | Garretson, SD | On Site | Oct 28 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Community Outreach Intern (SEAWC) - Summer 2026](https://jobright.ai/jobs/info/6901249e4539ea1f2141d066?utm_campaign=1056&utm_source=git)** | Juneau, AK | Remote | Oct 28 |
-| **[Olsson](https://www.olsson.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/6901120ff8ce7a040fdbbb6b?utm_campaign=1056&utm_source=git)** | Springfield, MO | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
