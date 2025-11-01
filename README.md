@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/690575edff462851feffda6e?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Oct 31 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/69056cca122e8474c78d8dd4?utm_campaign=1056&utm_source=git)** | Longwood, FL | Remote | Oct 31 |
+| **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/6905650a63502c0aded7ac96?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
 | **[SMUD](https://www.smud.org/en)** | **[Federal Affairs Intern - Year Round](https://jobright.ai/jobs/info/6905620e122e8474c78d89e0?utm_campaign=1056&utm_source=git)** | Sacramento, CA, US | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Grants Management Intern - Summer 2026](https://jobright.ai/jobs/info/690551faff462851feffcaf9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | ↳ | **[Chicago Commitment Intern - Summer 2026](https://jobright.ai/jobs/info/69054fd0122e8474c78d836d?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
@@ -85,17 +88,16 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 31 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 31 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/6904a819ff462851feff6ca5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
-| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Community Affairs (Buffalo, NY) Undergraduate Intern](https://jobright.ai/jobs/info/68dad9436df7b8311bb13048?utm_campaign=1056&utm_source=git)** | Buffalo-Niagara Area | On Site | Oct 31 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69044ed563502c0aded7246d?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Oct 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69044b53ff462851feff4853?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6904469eff462851feff471d?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Oct 30 |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Democracy Protection Intern](https://jobright.ai/jobs/info/6905786e63502c0aded7b56b?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Motorola Solutions Foundation - 2026 Summer Internship](https://jobright.ai/jobs/info/69041a2163502c0aded705e9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/690416f0ff462851feff29bd?utm_campaign=1056&utm_source=git)** | Bend, OR, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041445d64a22104aa96b60?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6904135ad64a22104aa96aa4?utm_campaign=1056&utm_source=git)** | Sandy, UT, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6904134763502c0aded70165?utm_campaign=1056&utm_source=git)** | Seattle, WA, US | Hybrid | Oct 30 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/690412d5d64a22104aa96a36?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Oct 30 |
-| **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041256ff462851feff2735?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | Oct 30 |
+| ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041256ff462851feff2735?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041135ff462851feff2612?utm_campaign=1056&utm_source=git)** | Mukilteo, WA, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69040eadff462851feff23a1?utm_campaign=1056&utm_source=git)** | Coeur d&apos;Alene, ID, US | Hybrid | Oct 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wake County](https://www.wakegov.com)** | **[Child Welfare Continuous Quality Improvement Manager](https://jobright.ai/jobs/info/69021a7b00a1816c41e9b28a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Oct 29 |
 | **[Sanford Underground Research Facility](https://www.sanfordlab.org/)** | **[Summer 2026 Internship - Community Relations](https://jobright.ai/jobs/info/6902392c00a1816c41e9bfa1?utm_campaign=1056&utm_source=git)** | Lead, SD | On Site | Oct 29 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Oct 29 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Community Outreach Intern (SAWC) - Summer 2026](https://jobright.ai/jobs/info/6901249e4539ea1f2141d066?utm_campaign=1056&utm_source=git)** | Juneau, AK | On Site | Oct 29 |
-| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Donor Reporting and Liaison Intern (Home-based)](https://jobright.ai/jobs/info/69021f9198707b2b0fe6c96e?utm_campaign=1056&utm_source=git)** | Home, KS | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
