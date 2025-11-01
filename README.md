@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/6906771b63502c0aded82599?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Nov 01 |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Staten Island Executive Healthcare Internship](https://jobright.ai/jobs/info/6906668e63502c0aded822aa?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Nov 01 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6905fdadff462851fe002272?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68e980060930fe0bc46267bd?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6905f56b122e8474c78dd5b5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Save the Children US](http://savethechildren.org)** | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6902919300a1816c41e9fc8f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 | ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/69028f8000a1816c41e9fb4c?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Peach Tree Advocacy General Administrative Intern](https://jobright.ai/jobs/info/69028f57ff462851fefe4b95?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Oct 29 |
-| **[Save the Children US](http://savethechildren.org)** | **[US Emergencies Intern (I&E)](https://jobright.ai/jobs/info/69028d9898707b2b0fe70ea4?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 29 |
-| **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/69028ba1ff462851fefe47ac?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
