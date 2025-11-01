@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Intern-渠道部实习生](https://jobright.ai/jobs/info/6905d1e963502c0aded7e535?utm_campaign=1056&utm_source=git)** | Location, WV | On Site | Nov 01 |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/6905b216ff462851fefff615?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 01 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | ↳ | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69058fe2ff462851feffe8f2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, US | On Site | Oct 31 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6902d55f98707b2b0fe730e0?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[National Milk Producers Federation](https://www.nmpf.org/)** | **[Intern for Summer 2026 - Paid Internship](https://jobright.ai/jobs/info/690519fcff462851feffa683?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Georgia Trauma Commission Intern](https://jobright.ai/jobs/info/690504e7122e8474c78d5321?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/690517a8122e8474c78d5e4d?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
 | **[Stratify Edge](stratifyedge.us)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/6904f44aff462851feff8fc1?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Oct 31 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/6904f217122e8474c78d4763?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nashville Soccer Club](https://www.nashvillesc.com/)** | **[Community Engagement Intern (Spring 2026)- COLLEGE CREDIT ONLY](https://jobright.ai/jobs/info/6903e04663502c0aded6dcd4?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/6902768700a1816c41e9e4fe?utm_campaign=1056&utm_source=git)** | Hartford, CT | On Site | Oct 29 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[IMPACT Internship Program (Early Careers) - S&P Global](https://jobright.ai/jobs/info/690264b2ff462851fefe28f7?utm_campaign=1056&utm_source=git)** | Greater Houston | On Site | Oct 29 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Public Policy Intern (D.C. or Charlotte, NC area)](https://jobright.ai/jobs/info/6902638898707b2b0fe6ed04?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Oct 29 |
-| ↳ | **[Public Policy Intern (D.C. or Charlotte, NC area)](https://jobright.ai/jobs/info/690261cbff462851fefe274e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
