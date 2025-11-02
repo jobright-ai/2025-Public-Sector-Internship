@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69069237ff462851fe004c7a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 01 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/6906771b63502c0aded82599?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Nov 01 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Staten Island Executive Healthcare Internship](https://jobright.ai/jobs/info/6906668e63502c0aded822aa?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Nov 01 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6905fdadff462851fe002272?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 01 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6905f3e0122e8474c78dd4b5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
 | ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6905f2d263502c0aded7f7a2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
 | ↳ | **[Russian Language Intern - Warfare, Irregular Threats, and Terrorism Program (Fall/Winter 2025)](https://jobright.ai/jobs/info/6905ebc8122e8474c78dd0a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6905fe9c122e8474c78dd9f3?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 01 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[Intern-渠道部实习生](https://jobright.ai/jobs/info/6905d1e963502c0aded7e535?utm_campaign=1056&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/6905b216ff462851fefff615?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 01 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/69047b3363502c0aded7336f?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Oct 31 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68efae0f9821486c423c6ac9?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 31 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Oct 31 |
-| **[Steptoe LLP](http://www.steptoe.com/)** | **[Spring GAPP Intern](https://jobright.ai/jobs/info/68e8cb552e74df3042370b9a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 31 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Oct 31 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 31 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 31 |
