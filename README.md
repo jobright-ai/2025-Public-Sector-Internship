@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6907414e63502c0aded8593c?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 02 |
+| ↳ | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69073eae122e8474c78e3530?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 02 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6907169b122e8474c78e27f6?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Nov 02 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69069237ff462851fe004c7a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 01 |
 | **[Arena](https://arena.run/)** | **[Democratic Party of Illinois: Winter Internship](https://jobright.ai/jobs/info/6906ce74ff462851fe00574b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Experian](http://www.experianplc.com)** | **[Inclusion & Belonging Associate](https://jobright.ai/jobs/info/6902ce9700a1816c41ea18fa?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Oct 29 |
 | **[American Physical Therapy Association (APTA)](https://www.apta.org)** | **[Harker Intern, Government Affairs](https://jobright.ai/jobs/info/6902c6cbff462851fefe651d?utm_campaign=1056&utm_source=git)** | Alexandria, VA, USA | On Site | Oct 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6902a46098707b2b0fe71d1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
-| ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6902a19998707b2b0fe71b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
-| **[Save the Children US](http://savethechildren.org)** | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6902919300a1816c41e9fc8f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
