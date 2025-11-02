@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITY OF OVIEDO](https://www.cityofoviedo.net)** | **[DEVELOPMENT SERVICES INTERN {FLSA: non-exempt; SHIFT: up to 20 hrs/week, Mon - Fri]](https://jobright.ai/jobs/info/6907a27eff462851fe00a5fc?utm_campaign=1056&utm_source=git)** | Oviedo, FL | On Site | Nov 02 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/69079f6a63502c0aded881aa?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68c789197d0db4114273d2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 02 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Oct 31 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 31 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 31 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/6904a819ff462851feff6ca5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Community Affairs (Central PA) Undergraduate Intern](https://jobright.ai/jobs/info/6905adc8122e8474c78dac3e?utm_campaign=1056&utm_source=git)** | Camp Hill, PA | On Site | Oct 30 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69044ed563502c0aded7246d?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Oct 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69044b53ff462851feff4853?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6902eb6800a1816c41ea29cf?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
 | **[West Valley Water District](https://www.wvwd.org)** | **[Public Outreach and Government Affairs Intern](https://jobright.ai/jobs/info/6905914fff462851feffea79?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Oct 29 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69058b02ff462851feffe7b6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern (paid) - Safety, Health, & Environmental - May 2026](https://jobright.ai/jobs/info/6902e06098707b2b0fe738ff?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
