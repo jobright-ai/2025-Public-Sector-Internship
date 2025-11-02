@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 02 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68c789197d0db4114273d2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 02 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687afd0ded63844c944a63c3?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Nov 02 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 02 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6907414e63502c0aded8593c?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 02 |
 | ↳ | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69073eae122e8474c78e3530?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 02 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6907169b122e8474c78e27f6?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Nov 02 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69069237ff462851fe004c7a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 01 |
 | **[Arena](https://arena.run/)** | **[Democratic Party of Illinois: Winter Internship](https://jobright.ai/jobs/info/6906ce74ff462851fe00574b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/6906771b63502c0aded82599?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Nov 01 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Staten Island Executive Healthcare Internship](https://jobright.ai/jobs/info/6906668e63502c0aded822aa?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Financial Management](https://jobright.ai/jobs/info/68ffb037e04ac838fb5ba66e?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 29 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6902eb6800a1816c41ea29cf?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
 | **[West Valley Water District](https://www.wvwd.org)** | **[Public Outreach and Government Affairs Intern](https://jobright.ai/jobs/info/6905914fff462851feffea79?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Oct 29 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69058b02ff462851feffe7b6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
