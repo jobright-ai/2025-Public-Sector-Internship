@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6907169b122e8474c78e27f6?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Nov 02 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69069237ff462851fe004c7a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 01 |
 | **[Arena](https://arena.run/)** | **[Democratic Party of Illinois: Winter Internship](https://jobright.ai/jobs/info/6906ce74ff462851fe00574b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Planning and Zoning](https://jobright.ai/jobs/info/6906771b63502c0aded82599?utm_campaign=1056&utm_source=git)** | Hamilton, OH | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6902a46098707b2b0fe71d1c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 | ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6902a19998707b2b0fe71b54?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
 | **[Save the Children US](http://savethechildren.org)** | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/6902919300a1816c41e9fc8f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 29 |
-| ↳ | **[Policy & Advocacy Intern (PAC)](https://jobright.ai/jobs/info/69028f8000a1816c41e9fb4c?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
