@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6908942bbcccf20de59d1e63?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/690893b24a1b456627af7405?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 03 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/69088a6fd046ab6061ccba62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Environmental Affairs Intern
+Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 02 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6907e147122e8474c78e73cf?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 02 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6907e142122e8474c78e73c1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6907e0f063502c0aded897a5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6905f2d263502c0aded7f7a2?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
 | ↳ | **[Russian Language Intern - Warfare, Irregular Threats, and Terrorism Program (Fall/Winter 2025)](https://jobright.ai/jobs/info/6905ebc8122e8474c78dd0a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 01 |
-| **[ABB](https://global.abb/group/en)** | **[Intern-渠道部实习生](https://jobright.ai/jobs/info/6905d1e963502c0aded7e535?utm_campaign=1056&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/6905b216ff462851fefff615?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 01 |
 | **[SBP](https://sbpusa.org/)** | **[SBP Nonprofit Development Intern](https://jobright.ai/jobs/info/6905e4a1ff462851fe001471?utm_campaign=1056&utm_source=git)** | New Orleans, Louisiana | On Site | Oct 31 |
@@ -101,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Oct 31 |
 | **[National Milk Producers Federation](https://www.nmpf.org/)** | **[Intern for Summer 2026 - Paid Internship](https://jobright.ai/jobs/info/690519fcff462851feffa683?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Georgia Trauma Commission Intern](https://jobright.ai/jobs/info/690504e7122e8474c78d5321?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/690517a8122e8474c78d5e4d?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/6904f217122e8474c78d4763?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Global Oncology Early Patient Access Manager Intern](https://jobright.ai/jobs/info/6904fab0122e8474c78d4d47?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
@@ -154,7 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/690328b998707b2b0fe75c06?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6903413cd64a22104aa8e639?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Oct 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Potts Court Watch Intern](https://jobright.ai/jobs/info/6902f85e98707b2b0fe74528?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Oct 29 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Financial Management](https://jobright.ai/jobs/info/68ffb037e04ac838fb5ba66e?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 29 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6902eb6800a1816c41ea29cf?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
-| **[West Valley Water District](https://www.wvwd.org)** | **[Public Outreach and Government Affairs Intern](https://jobright.ai/jobs/info/6905914fff462851feffea79?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
