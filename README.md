@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6907e147122e8474c78e73cf?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 02 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6907e142122e8474c78e73c1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 02 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6907e0f063502c0aded897a5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[IMPACT Internship Program (Early Careers) - S&P Global](https://jobright.ai/jobs/info/690264b2ff462851fefe28f7?utm_campaign=1056&utm_source=git)** | Greater Houston | On Site | Nov 02 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/6907b998122e8474c78e64e8?utm_campaign=1056&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
 | **[CITY OF OVIEDO](https://www.cityofoviedo.net)** | **[DEVELOPMENT SERVICES INTERN {FLSA: non-exempt; SHIFT: up to 20 hrs/week, Mon - Fri]](https://jobright.ai/jobs/info/6907a27eff462851fe00a5fc?utm_campaign=1056&utm_source=git)** | Oviedo, FL | On Site | Nov 02 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Legislative Intern (Spring 2026)](https://jobright.ai/jobs/info/69052e26ff462851feffb6b6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 31 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6905260a63502c0aded78b85?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Oct 31 |
-| **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6902d55f98707b2b0fe730e0?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[National Milk Producers Federation](https://www.nmpf.org/)** | **[Intern for Summer 2026 - Paid Internship](https://jobright.ai/jobs/info/690519fcff462851feffa683?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Georgia Trauma Commission Intern](https://jobright.ai/jobs/info/690504e7122e8474c78d5321?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/690328b998707b2b0fe75c06?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6903413cd64a22104aa8e639?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Oct 30 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Potts Court Watch Intern](https://jobright.ai/jobs/info/6902f85e98707b2b0fe74528?utm_campaign=1056&utm_source=git)** | Greensboro, NC | On Site | Oct 29 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Financial Management](https://jobright.ai/jobs/info/68ffb037e04ac838fb5ba66e?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Oct 29 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6902eb6800a1816c41ea29cf?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
