@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Nov 03 |
+| **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Corporate Affairs (Washington, DC)](https://jobright.ai/jobs/info/68eca475c26b9574506f5e12?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6908942bbcccf20de59d1e63?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/690893b24a1b456627af7405?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 03 |
@@ -76,10 +78,10 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 02 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ac211764c3d7411c2f64e?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 02 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Nov 02 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69073eae122e8474c78e3530?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 02 |
 | **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6907169b122e8474c78e27f6?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Nov 02 |
 | **[Arena](https://arena.run/)** | **[Democratic Party of Illinois: Winter Internship](https://jobright.ai/jobs/info/6906ce74ff462851fe00574b?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Staten Island Executive Healthcare Internship](https://jobright.ai/jobs/info/6906668e63502c0aded822aa?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Nov 01 |
+| **[State Street](http://www.statestreet.com)** | **[Technology Governance & Business Analysis, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6908b8cc4a1b456627af8771?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68e980060930fe0bc46267bd?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6905f544ff462851fe001ecd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
 | ↳ | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6905f3e0122e8474c78dd4b5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
@@ -156,6 +158,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Spring 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb11caefdec76df36b8794?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 30 |
 | **[Search for Common Ground Niger](https://www.sfcg.org/niger/)** | **[Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/6904b58aff462851feff70d9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Oct 30 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/690328b998707b2b0fe75c06?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
-| **[State of Illinois](https://www2.illinois.gov/)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6903413cd64a22104aa8e639?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
