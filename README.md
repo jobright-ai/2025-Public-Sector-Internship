@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/6908db7e4a1b456627af989b?utm_campaign=1056&utm_source=git)** | Washington D.C. | Hybrid | Nov 03 |
+| **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Business, Communications, Public Policy Majors (Melville, NY)](https://jobright.ai/jobs/info/68eca3bdc26b9574506f5c07?utm_campaign=1056&utm_source=git)** | Melville, NY | On Site | Nov 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Nov 03 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Corporate Affairs (Washington, DC)](https://jobright.ai/jobs/info/68eca475c26b9574506f5e12?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 03 |
@@ -65,8 +67,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/69088a6fd046ab6061ccba62?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Environmental Affairs Intern
 Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 02 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6907e147122e8474c78e73cf?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 02 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6907e142122e8474c78e73c1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6907e0f063502c0aded897a5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 02 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[IMPACT Internship Program (Early Careers) - S&P Global](https://jobright.ai/jobs/info/690264b2ff462851fefe28f7?utm_campaign=1056&utm_source=git)** | Greater Houston | On Site | Nov 02 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/6907b998122e8474c78e64e8?utm_campaign=1056&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
@@ -100,8 +100,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Grants Management Intern - Summer 2026](https://jobright.ai/jobs/info/690551faff462851feffcaf9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | ↳ | **[Chicago Commitment Intern - Summer 2026](https://jobright.ai/jobs/info/69054fd0122e8474c78d836d?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/690544dc63502c0aded7a068?utm_campaign=1056&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 31 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69053d3d122e8474c78d7c76?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
-| ↳ | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/69053cd0ff462851feffc293?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/69053cd0ff462851feffc293?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Chicago Commitment Intern - Summer 2026](https://jobright.ai/jobs/info/69053a8cff462851feffc027?utm_campaign=1056&utm_source=git)** | Chicago Office | Hybrid | Oct 31 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Legislative Intern (Spring 2026)](https://jobright.ai/jobs/info/69052e26ff462851feffb6b6?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 31 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6905260a63502c0aded78b85?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
@@ -158,4 +157,5 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Spring 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb11caefdec76df36b8794?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 30 |
 | **[Search for Common Ground Niger](https://www.sfcg.org/niger/)** | **[Global Affairs and Partnerships - Policy Intern](https://jobright.ai/jobs/info/6904b58aff462851feff70d9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Oct 30 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/690328b998707b2b0fe75c06?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
