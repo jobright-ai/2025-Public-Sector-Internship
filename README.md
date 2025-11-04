@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health & Medicine Policy Research Group](http://hmprg.org)** | **[Graduate-Level Health Equity Internship](https://jobright.ai/jobs/info/690a3718bcccf20de59dfe5d?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 04 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a1ba2d046ab6061cd9420?utm_campaign=1056&utm_source=git)** | New York | On Site | Nov 04 |
 | **[Together Women Rise](https://togetherwomenrise.org)** | **[Grants Program Intern](https://jobright.ai/jobs/info/690a15d94a1b456627b0434f?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Grants and Research Development Intern: Co-op Model](https://jobright.ai/jobs/info/68ed82bd81fdd1626d39d310?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Nov 04 |
+| **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/68ed82ad81fdd1626d39d304?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/690a028abcccf20de59de6ee?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Nov 04 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 04 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Republic Airways](http://www.rjet.com)** | **[Corporate & Community Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/68bbdf3f5f38327491873c6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 03 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Chronic Disease (Summer)](https://jobright.ai/jobs/info/6909526cd046ab6061cd4369?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 03 |
 | **[Insurance Agents & Brokers](https://www.iabforme.com)** | **[Government Affairs Spring Intern](https://jobright.ai/jobs/info/69094663bcccf20de59d98d7?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 03 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/690944204a1b456627afeb64?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 03 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Initiative on American Energy Security, Spring 2026](https://jobright.ai/jobs/info/690964d7bcccf20de59daa11?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
 | ↳ | **[Research Internship, Center for Strategy and American Statecraft, Spring 2026](https://jobright.ai/jobs/info/69096fb4d046ab6061cd544b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/69093dfad046ab6061cd35fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
@@ -156,6 +158,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69044ed563502c0aded7246d?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Oct 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69044b53ff462851feff4853?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Democracy Protection Intern](https://jobright.ai/jobs/info/6905786e63502c0aded7b56b?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 30 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Motorola Solutions Foundation - 2026 Summer Internship](https://jobright.ai/jobs/info/69041a2163502c0aded705e9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
-| **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/690416f0ff462851feff29bd?utm_campaign=1056&utm_source=git)** | Bend, OR, US | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
