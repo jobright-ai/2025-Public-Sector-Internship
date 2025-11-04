@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a1ba2d046ab6061cd9420?utm_campaign=1056&utm_source=git)** | New York | On Site | Nov 04 |
+| **[Together Women Rise](https://togetherwomenrise.org)** | **[Grants Program Intern](https://jobright.ai/jobs/info/690a15d94a1b456627b0434f?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/690a028abcccf20de59de6ee?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Nov 04 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 04 |
@@ -136,7 +138,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Oct 31 |
 | **[National Milk Producers Federation](https://www.nmpf.org/)** | **[Intern for Summer 2026 - Paid Internship](https://jobright.ai/jobs/info/690519fcff462851feffa683?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Georgia Trauma Commission Intern](https://jobright.ai/jobs/info/690504e7122e8474c78d5321?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/690517a8122e8474c78d5e4d?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/6904f217122e8474c78d4763?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Global Oncology Early Patient Access Manager Intern](https://jobright.ai/jobs/info/6904fab0122e8474c78d4d47?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
@@ -156,6 +158,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[Human Rights First](http://www.humanrightsfirst.org)** | **[Democracy Protection Intern](https://jobright.ai/jobs/info/6905786e63502c0aded7b56b?utm_campaign=1056&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Motorola Solutions Foundation - 2026 Summer Internship](https://jobright.ai/jobs/info/69041a2163502c0aded705e9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[Parametrix](https://www.parametrix.com/)** | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/690416f0ff462851feff29bd?utm_campaign=1056&utm_source=git)** | Bend, OR, US | Hybrid | Oct 30 |
-| ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041445d64a22104aa96b60?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | Hybrid | Oct 30 |
-| ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6904135ad64a22104aa96aa4?utm_campaign=1056&utm_source=git)** | Sandy, UT, US | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
