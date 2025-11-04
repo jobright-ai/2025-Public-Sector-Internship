@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909aa75bcccf20de59dd0c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Relations Intern](https://jobright.ai/jobs/info/69098c05d046ab6061cd680b?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Nov 03 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Public Policy & Advocacy Internship, Summer 2026](https://jobright.ai/jobs/info/690974714a1b456627b0091c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 03 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Insurance Agents & Brokers](https://www.iabforme.com)** | **[Government Affairs Spring Intern](https://jobright.ai/jobs/info/69094663bcccf20de59d98d7?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 03 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6909460dd046ab6061cd3ba8?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 03 |
 | ↳ | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/690944204a1b456627afeb64?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 03 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Center for Strategy and American Statecraft, Spring 2026](https://jobright.ai/jobs/info/69096fb4d046ab6061cd544b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
-| ↳ | **[Research Internship, Initiative on American Energy Security, Spring 2026](https://jobright.ai/jobs/info/690964d7bcccf20de59daa11?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
+| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Initiative on American Energy Security, Spring 2026](https://jobright.ai/jobs/info/690964d7bcccf20de59daa11?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
+| ↳ | **[Research Internship, Center for Strategy and American Statecraft, Spring 2026](https://jobright.ai/jobs/info/69096fb4d046ab6061cd544b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/69093dfad046ab6061cd35fd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69093c68d046ab6061cd345b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | ↳ | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69093b8ed046ab6061cd3388?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
@@ -134,7 +135,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Oct 31 |
 | **[National Milk Producers Federation](https://www.nmpf.org/)** | **[Intern for Summer 2026 - Paid Internship](https://jobright.ai/jobs/info/690519fcff462851feffa683?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Georgia Trauma Commission Intern](https://jobright.ai/jobs/info/690504e7122e8474c78d5321?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/690517a8122e8474c78d5e4d?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Policy & Advocacy Intern](https://jobright.ai/jobs/info/6904f217122e8474c78d4763?utm_campaign=1056&utm_source=git)** | Arlington, VA, US | Hybrid | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Global Oncology Early Patient Access Manager Intern](https://jobright.ai/jobs/info/6904fab0122e8474c78d4d47?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Oct 31 |
@@ -147,6 +148,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Oct 31 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 31 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 31 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Middle East Program (Spring 2026)](https://jobright.ai/jobs/info/6909aa324a1b456627b02605?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Community Affairs (Central PA) Undergraduate Intern](https://jobright.ai/jobs/info/6905adc8122e8474c78dac3e?utm_campaign=1056&utm_source=git)** | Camp Hill, PA | On Site | Oct 30 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/69044ed563502c0aded7246d?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Oct 30 |
 | **[Legal Services Corporation](https://www.lsc.gov/)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/69044b53ff462851feff4853?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Oct 30 |
@@ -156,6 +158,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041445d64a22104aa96b60?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6904135ad64a22104aa96aa4?utm_campaign=1056&utm_source=git)** | Sandy, UT, US | Hybrid | Oct 30 |
 | ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6904134763502c0aded70165?utm_campaign=1056&utm_source=git)** | Seattle, WA, US | Hybrid | Oct 30 |
-| ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041256ff462851feff2735?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, US | Hybrid | Oct 30 |
-| ↳ | **[Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/69041135ff462851feff2612?utm_campaign=1056&utm_source=git)** | Mukilteo, WA, US | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
