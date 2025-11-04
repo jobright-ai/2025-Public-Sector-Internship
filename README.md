@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Ohio State Highway Patrol  Policy and Accreditation](https://jobright.ai/jobs/info/690a6bdbd046ab6061cdc4b9?utm_campaign=1056&utm_source=git)** | Charles D Shipley Building1970 West Broad Street | On Site | Nov 04 |
+| **[Quail Run Behavioral Health](https://quailrunbehavioral.com)** | **[Intern - Masters in Social Work and Professional Counseling](https://jobright.ai/jobs/info/690a6991d046ab6061cdc1e2?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 04 |
+| **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[Olmstead Policy and Community Engagement Intern Spring 2026](https://jobright.ai/jobs/info/690a6954d046ab6061cdc18f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Nov 04 |
+| **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a68e0bcccf20de59e1dbb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 04 |
+| **[Rich Feuer Anderson](https://www.rfadc.com)** | **[Post-Grad Public Policy Intern](https://jobright.ai/jobs/info/690a68a6d046ab6061cdc0c3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 04 |
+| **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/690a71ebbcccf20de59e2483?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Nov 04 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Emergency Management Planning Internship](https://jobright.ai/jobs/info/690a4534d046ab6061cda993?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Nov 04 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Track Internship](https://jobright.ai/jobs/info/690a44ecbcccf20de59e0658?utm_campaign=1056&utm_source=git)** | Coral Gables, FL | On Site | Nov 04 |
 | **[Health & Medicine Policy Research Group](http://hmprg.org)** | **[Graduate-Level Health Equity Internship](https://jobright.ai/jobs/info/690a3718bcccf20de59dfe5d?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 04 |
@@ -152,10 +158,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/69047b3363502c0aded7336f?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Oct 31 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/68efae0f9821486c423c6ac9?utm_campaign=1056&utm_source=git)** | Louisville, KY | On Site | Oct 31 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Oct 31 |
-| **[West Valley Water District](https://www.wvwd.org)** | **[Public Outreach and Government Affairs Intern](https://jobright.ai/jobs/info/69075830122e8474c78e4028?utm_campaign=1056&utm_source=git)** | Rialto, CA | On Site | Oct 31 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Oct 31 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Oct 31 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Oct 31 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Middle East Program (Spring 2026)](https://jobright.ai/jobs/info/6909aa324a1b456627b02605?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
