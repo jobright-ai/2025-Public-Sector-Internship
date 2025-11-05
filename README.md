@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/690b6c0e221b890c277f4cec?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 05 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/690b58e5221b890c277f470d?utm_campaign=1056&utm_source=git)** | Chicago, IL | Remote | Nov 05 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Nov 05 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b740531ade4306aa6492ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 05 |
 | ↳ | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/68b73cec2124650c14020a1c?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 05 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Chronic Disease (Summer)](https://jobright.ai/jobs/info/6909526cd046ab6061cd4369?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 03 |
 | **[Information Technology Industry Council (ITI)](http://itic.org)** | **[Policy Intern, Public Sector (Part-Time)](https://jobright.ai/jobs/info/690a8f60d046ab6061cde274?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Insurance Agents & Brokers](https://www.iabforme.com)** | **[Government Affairs Spring Intern](https://jobright.ai/jobs/info/69094663bcccf20de59d98d7?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 03 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Center for Strategy and American Statecraft, Spring 2026](https://jobright.ai/jobs/info/69096fb4d046ab6061cd544b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
-| ↳ | **[Research Internship, Initiative on American Energy Security, Spring 2026](https://jobright.ai/jobs/info/690964d7bcccf20de59daa11?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
+| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Initiative on American Energy Security, Spring 2026](https://jobright.ai/jobs/info/690964d7bcccf20de59daa11?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
+| ↳ | **[Research Internship, Center for Strategy and American Statecraft, Spring 2026](https://jobright.ai/jobs/info/69096fb4d046ab6061cd544b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69093c68d046ab6061cd345b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | ↳ | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/69093b8ed046ab6061cd3388?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
-| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69058fe2ff462851feffe8f2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, US | On Site | Oct 31 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/690575edff462851feffda6e?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
