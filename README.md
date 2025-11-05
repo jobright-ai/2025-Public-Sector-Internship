@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern - Congressional Liaison Office - BDM](https://jobright.ai/jobs/info/690aee4dbcccf20de59e754b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/690acf2fd046ab6061ce08ea?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 04 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Public Affairs](https://jobright.ai/jobs/info/690ace6dbcccf20de59e64cf?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ | Hybrid | Nov 04 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Sustainability Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/690ac953bcccf20de59e609e?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Nov 04 |
@@ -98,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/690a0299d046ab6061cd8af0?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6909f9d3bcccf20de59de4ac?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
 | ↳ | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6909f57f4a1b456627b0399c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
-| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/6909ef82bcccf20de59de29c?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Nov 04 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909aa75bcccf20de59dd0c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 03 |
-| ↳ | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909c131bcccf20de59dd819?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 03 |
+| **[Massachusetts Institute of Technology](http://web.mit.edu)** | **[Research Policy Associate I](https://jobright.ai/jobs/info/690afa95d046ab6061ce1c40?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 03 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909c131bcccf20de59dd819?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 03 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Public Policy & Advocacy Internship, Summer 2026](https://jobright.ai/jobs/info/690974714a1b456627b0091c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 03 |
 | **[Republic Airways](http://www.rjet.com)** | **[Corporate & Community Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/68bbdf3f5f38327491873c6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 03 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Cancer Companions](http://www.cancer-companions.org)** | **[Christian Nonprofit Program Coordinator Part time](https://jobright.ai/jobs/info/6909275cd046ab6061cd2353?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 03 |
 | **[ClearPath](https://clearpath.org)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/69091e6ad046ab6061cd1a93?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 | **[Patient-Centered Outcomes Research Institute (PCORI)](http://pcori.org)** | **[Public Policy and Government Relations Intern](https://jobright.ai/jobs/info/690916a74a1b456627afc3fd?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Nov 03 |
-| **[Charles Group Consulting](https://www.charlesgroupconsulting.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6909332ad046ab6061cd2c56?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Scientific Engagement & Congresses/Global Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/690911044a1b456627afc05f?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | ↳ | **[Global Medical Affairs Oncology Governance Intern](https://jobright.ai/jobs/info/690910b9d046ab6061cd0e98?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | ↳ | **[GOMA Publications Systems and Operations Intern](https://jobright.ai/jobs/info/69090e6bbcccf20de59d68c2?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
@@ -151,11 +151,11 @@ Job ID : 265542](https://jobright.ai/jobs/info/69087e6cbcccf20de59d06c7?utm_camp
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 01 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 01 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
-| ↳ | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69058fe2ff462851feffe8f2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, US | On Site | Oct 31 |
+| **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69058fe2ff462851feffe8f2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, US | On Site | Oct 31 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/690575edff462851feffda6e?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Oct 31 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/69056cca122e8474c78d8dd4?utm_campaign=1056&utm_source=git)** | Longwood, FL | Remote | Oct 31 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/6905650a63502c0aded7ac96?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
 | **[SMUD](https://www.smud.org/en)** | **[Federal Affairs Intern - Year Round](https://jobright.ai/jobs/info/6905620e122e8474c78d89e0?utm_campaign=1056&utm_source=git)** | Sacramento, CA, US | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Grants Management Intern - Summer 2026](https://jobright.ai/jobs/info/690551faff462851feffcaf9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
-| ↳ | **[Chicago Commitment Intern - Summer 2026](https://jobright.ai/jobs/info/69054fd0122e8474c78d836d?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
