@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Nov 05 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b740531ade4306aa6492ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 05 |
+| ↳ | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/68b73cec2124650c14020a1c?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 05 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/690b0bb44a1b456627b0d63b?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/68f8a589a628d10664e84d17?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Nov 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34d8c8c62e63bc7fdf95d?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 05 |
+| ↳ | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34656f0d9af73038e0996?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Nov 05 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern - Congressional Liaison Office - BDM](https://jobright.ai/jobs/info/690aee4dbcccf20de59e754b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/690acf2fd046ab6061ce08ea?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 04 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Public Affairs](https://jobright.ai/jobs/info/690ace6dbcccf20de59e64cf?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ | Hybrid | Nov 04 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Public Policy & Advocacy Internship, Summer 2026](https://jobright.ai/jobs/info/690974714a1b456627b0091c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 03 |
 | **[Republic Airways](http://www.rjet.com)** | **[Corporate & Community Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/68bbdf3f5f38327491873c6a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 03 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Chronic Disease (Summer)](https://jobright.ai/jobs/info/6909526cd046ab6061cd4369?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 03 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Chronic Disease (Summer)](https://jobright.ai/jobs/info/6909526cd046ab6061cd4369?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 03 |
 | **[Information Technology Industry Council (ITI)](http://itic.org)** | **[Policy Intern, Public Sector (Part-Time)](https://jobright.ai/jobs/info/690a8f60d046ab6061cde274?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 | **[Insurance Agents & Brokers](https://www.iabforme.com)** | **[Government Affairs Spring Intern](https://jobright.ai/jobs/info/69094663bcccf20de59d98d7?utm_campaign=1056&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 03 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Center for Strategy and American Statecraft, Spring 2026](https://jobright.ai/jobs/info/69096fb4d046ab6061cd544b?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nestlé](https://www.nestle.com)** | **[Nutrition, Health and Wellness Intern](https://jobright.ai/jobs/info/68dee10ca125e75c422b79e8?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/69058fe2ff462851feffe8f2?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, US | On Site | Oct 31 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Health Equity Internship](https://jobright.ai/jobs/info/690575edff462851feffda6e?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Oct 31 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Tennessee Based Community Engagement Intern](https://jobright.ai/jobs/info/69056cca122e8474c78d8dd4?utm_campaign=1056&utm_source=git)** | Longwood, FL | Remote | Oct 31 |
-| **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/6905650a63502c0aded7ac96?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Oct 31 |
-| **[SMUD](https://www.smud.org/en)** | **[Federal Affairs Intern - Year Round](https://jobright.ai/jobs/info/6905620e122e8474c78d89e0?utm_campaign=1056&utm_source=git)** | Sacramento, CA, US | On Site | Oct 31 |
-| **[MacArthur Foundation](http://www.macfound.org)** | **[Grants Management Intern - Summer 2026](https://jobright.ai/jobs/info/690551faff462851feffcaf9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
