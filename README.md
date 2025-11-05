@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Immanuel](https://www.immanuel.com)** | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bc58a4a1b456627b1293a?utm_campaign=1056&utm_source=git)** | US-NE-Omaha | On Site | Nov 05 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bbb4ad046ab6061ce6f83?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
+| **[OGR](https://www.ogrwashington.com)** | **[Government Relations Intern - Spring 2026](https://jobright.ai/jobs/info/690bbafcd046ab6061ce6f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb91b4a1b456627b11fe0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
+| **[Investment Company Institute](http://www.ici.org)** | **[Government Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690bb7a1d046ab6061ce6bcc?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 05 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/690bb28e221b890c277f7135?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 05 |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Civil Programs](https://jobright.ai/jobs/info/690b9c28221b890c277f626f?utm_campaign=1056&utm_source=git)** | Columbus, MS | Hybrid | Nov 05 |
+| **[CSIS Economics Program and Scholl Chair](https://www.csis.org/programs/economics-program-and-scholl-chair-international-business)** | **[Intern - Economics Program](https://jobright.ai/jobs/info/690bbce44a1b456627b122c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/690b966a4a1b456627b10a6a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/690b8f9ad046ab6061ce534a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Justice Undergraduate Internship](https://jobright.ai/jobs/info/690b8c594a1b456627b10381?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 05 |
@@ -74,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34d8c8c62e63bc7fdf95d?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 05 |
 | ↳ | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34656f0d9af73038e0996?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Nov 05 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern - Congressional Liaison Office - BDM](https://jobright.ai/jobs/info/690aee4dbcccf20de59e754b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/690acf2fd046ab6061ce08ea?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 04 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Public Affairs](https://jobright.ai/jobs/info/690ace6dbcccf20de59e64cf?utm_campaign=1056&utm_source=git)** | South Plainfield, NJ | Hybrid | Nov 04 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Sustainability Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/690ac953bcccf20de59e609e?utm_campaign=1056&utm_source=git)** | Pittsburgh, PA | On Site | Nov 04 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Government Relations-Atlanta, GA](https://jobright.ai/jobs/info/690ac8734a1b456627b0b54a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68c789197d0db4114273d2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 02 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687afd0ded63844c944a63c3?utm_campaign=1056&utm_source=git)** | Englewood, CO | On Site | Nov 02 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 02 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ac211764c3d7411c2f64e?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 02 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687bc2122097a271a8987258?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Nov 02 |
-| **[Upbring](https://upbring.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6907169b122e8474c78e27f6?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Nov 02 |
-| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Staten Island Executive Healthcare Internship](https://jobright.ai/jobs/info/6906668e63502c0aded822aa?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Nov 01 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
