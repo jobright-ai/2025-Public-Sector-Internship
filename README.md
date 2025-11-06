@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern (unpaid)](https://jobright.ai/jobs/info/690bfb3dd046ab6061ce9bff?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[ESG Intern](https://jobright.ai/jobs/info/690be7744a1b456627b143e4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/690be211221b890c277f96cd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 05 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/690bdfeed046ab6061ce8ce3?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/690bdf47221b890c277f9425?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 05 |
@@ -67,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern   (unpaid)](https://jobright.ai/jobs/info/690bd47c4a1b456627b135e8?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
 | **[Immanuel](https://www.immanuel.com)** | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bcc9f221b890c277f86e1?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 05 |
 | ↳ | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bc58a4a1b456627b1293a?utm_campaign=1056&utm_source=git)** | US-NE-Omaha | On Site | Nov 05 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bbb4ad046ab6061ce6f83?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
 | **[OGR](https://www.ogrwashington.com)** | **[Government Relations Intern - Spring 2026](https://jobright.ai/jobs/info/690bbafcd046ab6061ce6f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb927221b890c277f74d2?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
-| ↳ | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb91b4a1b456627b11fe0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb91b4a1b456627b11fe0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Investment Company Institute](http://www.ici.org)** | **[Government Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690bb7a1d046ab6061ce6bcc?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 05 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/690bb28e221b890c277f7135?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 05 |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Civil Programs](https://jobright.ai/jobs/info/690b9c28221b890c277f626f?utm_campaign=1056&utm_source=git)** | Columbus, MS | Hybrid | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Medical Affairs Oncology Governance Intern](https://jobright.ai/jobs/info/6908f717bcccf20de59d55ff?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/6908db7e4a1b456627af989b?utm_campaign=1056&utm_source=git)** | Washington D.C. | Hybrid | Nov 03 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Business, Communications, Public Policy Majors (Melville, NY)](https://jobright.ai/jobs/info/68eca3bdc26b9574506f5c07?utm_campaign=1056&utm_source=git)** | Melville, NY | On Site | Nov 03 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Nov 03 |
-| **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Corporate Affairs (Washington, DC)](https://jobright.ai/jobs/info/68eca475c26b9574506f5e12?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
