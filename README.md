@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntsman Corporation](https://www.huntsman.com)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/690dda86d046ab6061cf9880?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Nov 07 |
+| ↳ | **[Government Affairs Internship](https://jobright.ai/jobs/info/690dc337221b890c27809744?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Nov 07 |
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/690da583221b890c278086b3?utm_campaign=1056&utm_source=git)** | Birmingham, AL | Hybrid | Nov 06 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/690d95cd44146d3b6ec4df4e?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 06 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/690d7afb4a1b456627b21b65?utm_campaign=1056&utm_source=git)** | US-GA-Kennesaw | On Site | Nov 06 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Investment Company Institute](http://www.ici.org)** | **[Global Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690c9caf4a1b456627b19bc4?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d261879a9f9666253dbc3?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 06 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/690cc576d046ab6061cef89e?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 06 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/690dd06144146d3b6ec4ffa2?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Nov 06 |
 | **[GlobalFoundries](https://gf.com/)** | **[Government Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/689f79f4b3e889632cf077d7?utm_campaign=1056&utm_source=git)** | Malta, NY | On Site | Nov 06 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c5a19d046ab6061cec8d3?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Nov 06 |
 | **[Girl Scouts of Hawaiʻi](http://www.gshawaii.org)** | **[Girl Scouts Membership Intern](https://jobright.ai/jobs/info/690c6d334a1b456627b183b5?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Grants and Research Development Intern: Co-op Model](https://jobright.ai/jobs/info/68ed82bd81fdd1626d39d310?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Nov 04 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/68ed82ad81fdd1626d39d304?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 04 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 04 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/689a284783d13d1f5b696733?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Nov 04 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/690a0299d046ab6061cd8af0?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
