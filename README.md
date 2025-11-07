@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/690d7afb4a1b456627b21b65?utm_campaign=1056&utm_source=git)** | US-GA-Kennesaw | On Site | Nov 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/690d676d4a1b456627b21072?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Nov 06 |
-| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d663d4a1b456627b21005?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 06 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d72494a1b456627b216b5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | ↳ | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d3fdc221b890c278051a4?utm_campaign=1056&utm_source=git)** | Southeast Medical Plaza 1 | On Site | Nov 06 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/690d2f8d4a1b456627b1eee7?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Compass Lexecon](http://www.compasslexecon.com)** | **[Compass Lexecon 2026 Summer Internship - ECC](https://jobright.ai/jobs/info/690d1bef4a1b456627b1ddca?utm_campaign=1056&utm_source=git)** | Boston200 State Street | On Site | Nov 06 |
@@ -100,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern   (unpaid)](https://jobright.ai/jobs/info/690bd47c4a1b456627b135e8?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
 | **[Immanuel](https://www.immanuel.com)** | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bcc9f221b890c277f86e1?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 05 |
 | ↳ | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bc58a4a1b456627b1293a?utm_campaign=1056&utm_source=git)** | US-NE-Omaha | On Site | Nov 05 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bbb4ad046ab6061ce6f83?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb927221b890c277f74d2?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
 | ↳ | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb91b4a1b456627b11fe0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Investment Company Institute](http://www.ici.org)** | **[Government Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690bb7a1d046ab6061ce6bcc?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 05 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/690bb28e221b890c277f7135?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909aa75bcccf20de59dd0c8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 | ↳ | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909c131bcccf20de59dd819?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 03 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Public Policy & Advocacy Internship, Summer 2026](https://jobright.ai/jobs/info/690974714a1b456627b0091c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 03 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Energy Security and Climate Change Program (Spring 2026)](https://jobright.ai/jobs/info/690c20ea4a1b456627b16678?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
