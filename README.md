@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TC Energy](https://www.tcenergy.com/)** | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/690e7a69d046ab6061cfe0e8?utm_campaign=1056&utm_source=git)** | Houston, Texas | Hybrid | Nov 07 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program- Department of Planning and Performance- Office of Energy and Environment](https://jobright.ai/jobs/info/690ea13c44146d3b6ec561a6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - ACL (Summer)](https://jobright.ai/jobs/info/690e9ae744146d3b6ec55d69?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Nov 07 |
+| ↳ | **[Intern - Economic Assistance (Spring)](https://jobright.ai/jobs/info/690e98ead046ab6061cff0df?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 07 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Policy & Advocacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e963a44146d3b6ec55a71?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/690e873cd046ab6061cfe8ed?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Nov 07 |
+| ↳ | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/690e7a69d046ab6061cfe0e8?utm_campaign=1056&utm_source=git)** | Houston, Texas | Hybrid | Nov 07 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/690e8e8d221b890c2780f486?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - NY](https://jobright.ai/jobs/info/690e6fcdd046ab6061cfd9db?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Research & Grants Administration-Remote](https://jobright.ai/jobs/info/690e651244146d3b6ec53ace?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Policy & Advocacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e6148d046ab6061cfce0e?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
@@ -139,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Asylum Seeker Program Support Intern   (unpaid)](https://jobright.ai/jobs/info/690bd47c4a1b456627b135e8?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
 | **[Immanuel](https://www.immanuel.com)** | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bcc9f221b890c277f86e1?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 05 |
 | ↳ | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bc58a4a1b456627b1293a?utm_campaign=1056&utm_source=git)** | US-NE-Omaha | On Site | Nov 05 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb927221b890c277f74d2?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bbb4ad046ab6061ce6f83?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
 | ↳ | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb91b4a1b456627b11fe0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Investment Company Institute](http://www.ici.org)** | **[Government Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690bb7a1d046ab6061ce6bcc?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 05 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/690bb28e221b890c277f7135?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Internship 2026 - Health Program](https://jobright.ai/jobs/info/68f3633c9a65fd3458586b58?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | ↳ | **[Spring 2026 Internship - Economic Policy Prog](https://jobright.ai/jobs/info/68f1fae3d2b6d776b5915731?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/690b6c0e221b890c277f4cec?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 05 |
-| **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sustainability Internship (Summer 2026)](https://jobright.ai/jobs/info/68d308818c62e63bc7fdd052?utm_campaign=1056&utm_source=git)** | Madison, WI | Hybrid | Nov 05 |
-| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b740531ade4306aa6492ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 05 |
-| ↳ | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/68b73cec2124650c14020a1c?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 05 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Social Determinants & Research Analytics Graduate Intern](https://jobright.ai/jobs/info/690b0bb44a1b456627b0d63b?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Nov 05 |
-| **[Charles River Associates](http://www.crai.com)** | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34d8c8c62e63bc7fdf95d?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Nov 05 |
-| ↳ | **[Analyst Intern (Labor & Employment practice) - Winter/Spring 2026](https://jobright.ai/jobs/info/68d34656f0d9af73038e0996?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
