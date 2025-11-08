@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/690ed0cb221b890c27811e33?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 07 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health-Nashville, TN](https://jobright.ai/jobs/info/690eaf42221b890c27810a86?utm_campaign=1056&utm_source=git)** | Nashville, TN | Hybrid | Nov 07 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea9b6221b890c27810716?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Nov 07 |
 | **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Spring Legislative Affairs Internship](https://jobright.ai/jobs/info/690ea737d046ab6061cffc34?utm_campaign=1056&utm_source=git)** | 1250 I or Remote | Remote | Nov 07 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - ACL (Summer)](https://jobright.ai/jobs/info/690e9ae744146d3b6ec55d69?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Nov 07 |
 | ↳ | **[Intern - Economic Assistance (Spring)](https://jobright.ai/jobs/info/690e98ead046ab6061cff0df?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Policy & Advocacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e963a44146d3b6ec55a71?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ebf58221b890c278114ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Nov 07 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/690e873cd046ab6061cfe8ed?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Nov 07 |
 | ↳ | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/690e7a69d046ab6061cfe0e8?utm_campaign=1056&utm_source=git)** | Houston, Texas | Hybrid | Nov 07 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/690e8e8d221b890c2780f486?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Immanuel](https://www.immanuel.com)** | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bcc9f221b890c277f86e1?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 05 |
 | ↳ | **[Intern- Advocacy & Government Relations](https://jobright.ai/jobs/info/690bc58a4a1b456627b1293a?utm_campaign=1056&utm_source=git)** | US-NE-Omaha | On Site | Nov 05 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bbb4ad046ab6061ce6f83?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Nov 05 |
-| ↳ | **[Administrative Intern, Workplace Violence Team](https://jobright.ai/jobs/info/690bb91b4a1b456627b11fe0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
-| **[Investment Company Institute](http://www.ici.org)** | **[Government Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690bb7a1d046ab6061ce6bcc?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
