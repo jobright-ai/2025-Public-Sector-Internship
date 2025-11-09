@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69107b14988c2b7b4ec51eb1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve 2026 Assistant Examiner Intern](https://jobright.ai/jobs/info/68bb320e5f3832749186cfef?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 09 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Public Policy](https://jobright.ai/jobs/info/68bb46af6105227d118a4c49?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Nov 09 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69101eae988c2b7b4ec5029e?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 08 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69101b7b988c2b7b4ec5027a?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Nov 08 |
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6910033fbb519377733ea2b6?utm_campaign=1056&utm_source=git)** | Huntsville, AL | Hybrid | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[IPP Intern January 2026](https://jobright.ai/jobs/info/690d0b5b4a1b456627b1cf69?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Remote | Nov 06 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/690cdd31d046ab6061cf018f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 06 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Health and Social Partnerships - R10667](https://jobright.ai/jobs/info/68f034fcde50091dbfa53527?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 06 |
-| **[OGR](https://www.ogrwashington.com)** | **[Government Relations Intern - Spring 2026](https://jobright.ai/jobs/info/690ce6a4d046ab6061cf050c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
-| **[Investment Company Institute](http://www.ici.org)** | **[Global Affairs Intern Summer 2026](https://jobright.ai/jobs/info/690c9caf4a1b456627b19bc4?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Nov 06 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/689d261879a9f9666253dbc3?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
