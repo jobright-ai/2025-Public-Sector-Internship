@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/6911fce3ea9ab01b82beee90?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Nov 10 |
+| ↳ | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/6911f930c98948514c477e79?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Nov 10 |
+| ↳ | **[Intern - Medical Affairs - Medical Communication](https://jobright.ai/jobs/info/6911f6bcc98948514c477dd5?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Medical Affairs](https://jobright.ai/jobs/info/6911c7b7df7e2373ba413d7b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Medical Affairs - Global HIV Medical Affairs](https://jobright.ai/jobs/info/6911c030988c2b7b4ec56888?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6911df30df7e2373ba41444b?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 10 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6911192d988c2b7b4ec5383b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
 | ↳ | **[Intern - Middle East Program (Spring 2026)](https://jobright.ai/jobs/info/69111656183be660d267abec?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
 | **[Strategic Political Management](https://www.strategic-political.com/)** | **[Intern - Political Operations](https://jobright.ai/jobs/info/6910d2d2bb519377733ed33f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 09 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6910d243988c2b7b4ec52ac3?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/69107fb6183be660d2679375?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69107b14988c2b7b4ec51eb1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 09 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/690da583221b890c278086b3?utm_campaign=1056&utm_source=git)** | Birmingham, AL | Hybrid | Nov 06 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/690d7afb4a1b456627b21b65?utm_campaign=1056&utm_source=git)** | US-GA-Kennesaw | On Site | Nov 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/690d676d4a1b456627b21072?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Nov 06 |
-| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d663d4a1b456627b21005?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health, CPR Focus-New Orleans, LA](https://jobright.ai/jobs/info/690d891344146d3b6ec4da57?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Nov 06 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d72494a1b456627b216b5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | **[Citizens Utility Board of Minnesota](http://cubminnesota.org/)** | **[Outreach Intern](https://jobright.ai/jobs/info/690d8e86221b890c278079cd?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Nov 06 |
-| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d3fdc221b890c278051a4?utm_campaign=1056&utm_source=git)** | Southeast Medical Plaza 1 | On Site | Nov 06 |
 | **[Center Road Solutions](http://www.centerroadsolutions.com)** | **[Advocacy and Engagement Internship](https://jobright.ai/jobs/info/690e2edd44146d3b6ec51ca1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/690d2f8d4a1b456627b1eee7?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Compass Lexecon](http://www.compasslexecon.com)** | **[Compass Lexecon 2026 Summer Internship - ECC](https://jobright.ai/jobs/info/690d1bef4a1b456627b1ddca?utm_campaign=1056&utm_source=git)** | Boston200 State Street | On Site | Nov 06 |
-| **[National Association of Counties](https://www.naco.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/690d3893d046ab6061cf45a4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
