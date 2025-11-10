@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/6911aec0bb519377733f0a49?utm_campaign=1056&utm_source=git)** | United States - California - Santa Monica | On Site | Nov 10 |
+| ↳ | **[Intern - Medical Affairs - Medical Communication](https://jobright.ai/jobs/info/6911a8aa183be660d267d14d?utm_campaign=1056&utm_source=git)** | United States - California - Santa Monica | Hybrid | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs and Legal (Government Affairs)](https://jobright.ai/jobs/info/69118153183be660d267c43e?utm_campaign=1056&utm_source=git)** | United States - District of Columbia - Washington | On Site | Nov 09 |
 | **[CSIS Economics Program and Scholl Chair](https://www.csis.org/programs/economics-program-and-scholl-chair-international-business)** | **[Research Intern - Economics Program and Scholl Chair (Spring 2026)](https://jobright.ai/jobs/info/69115772988c2b7b4ec540e1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 09 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/69113575bb519377733ee30b?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Japan Chair, Spring 2026](https://jobright.ai/jobs/info/690cf7a2221b890c27801599?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 06 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Parole Officer College Intern (20096943 and 20096944)](https://jobright.ai/jobs/info/690ce5aa221b890c27800be1?utm_campaign=1056&utm_source=git)** | DPCS Mahoning242 West Federal Street #401 | On Site | Nov 06 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/690cdd31d046ab6061cf018f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 06 |
-| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Health and Social Partnerships - R10667](https://jobright.ai/jobs/info/68f034fcde50091dbfa53527?utm_campaign=1056&utm_source=git)** | United States | Hybrid | Nov 06 |
-| **[OGR](https://www.ogrwashington.com)** | **[Government Relations Intern - Spring 2026](https://jobright.ai/jobs/info/690ce6a4d046ab6061cf050c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
