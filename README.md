@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/691222fbea9ab01b82befcfe?utm_campaign=1056&utm_source=git)** | Illiopolis, IL | Remote | Nov 10 |
+| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[CW - ACWIH intern](https://jobright.ai/jobs/info/69120b2fc98948514c478479?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Nov 10 |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Government Relations Session Intern - Spring](https://jobright.ai/jobs/info/69120ab3ea9ab01b82bef2cf?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 10 |
 | **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/6911fce3ea9ab01b82beee90?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Nov 10 |
 | ↳ | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/6911f930c98948514c477e79?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Nov 10 |
 | ↳ | **[Intern - Medical Affairs - Medical Communication](https://jobright.ai/jobs/info/6911f6bcc98948514c477dd5?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Nov 10 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/69121ec1ea9ab01b82befaf1?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Medical Affairs](https://jobright.ai/jobs/info/6911c7b7df7e2373ba413d7b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Medical Affairs - Global HIV Medical Affairs](https://jobright.ai/jobs/info/6911c030988c2b7b4ec56888?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6911df30df7e2373ba41444b?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 10 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/690da583221b890c278086b3?utm_campaign=1056&utm_source=git)** | Birmingham, AL | Hybrid | Nov 06 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/690d7afb4a1b456627b21b65?utm_campaign=1056&utm_source=git)** | US-GA-Kennesaw | On Site | Nov 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/690d676d4a1b456627b21072?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Nov 06 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d663d4a1b456627b21005?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Community Health, CPR Focus-New Orleans, LA](https://jobright.ai/jobs/info/690d891344146d3b6ec4da57?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Nov 06 |
-| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/690d72494a1b456627b216b5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 06 |
-| **[Citizens Utility Board of Minnesota](http://cubminnesota.org/)** | **[Outreach Intern](https://jobright.ai/jobs/info/690d8e86221b890c278079cd?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Nov 06 |
-| **[Center Road Solutions](http://www.centerroadsolutions.com)** | **[Advocacy and Engagement Internship](https://jobright.ai/jobs/info/690e2edd44146d3b6ec51ca1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 06 |
-| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/690d2f8d4a1b456627b1eee7?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 06 |
-| **[Compass Lexecon](http://www.compasslexecon.com)** | **[Compass Lexecon 2026 Summer Internship - ECC](https://jobright.ai/jobs/info/690d1bef4a1b456627b1ddca?utm_campaign=1056&utm_source=git)** | Boston200 State Street | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
