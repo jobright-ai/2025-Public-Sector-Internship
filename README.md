@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/6906dc9d122e8474c78e1438?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Nov 11 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 10 |
 | **[Coca-Cola Consolidated](http://www.CokeConsolidated.com)** | **[Government Relations Spring Intern](https://jobright.ai/jobs/info/6912bf19ea9ab01b82bf4afa?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Global Security Internships – Summer 2026](https://jobright.ai/jobs/info/6912ec0ad1047e3565d00589?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/690cdd31d046ab6061cf018f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69126871ea9ab01b82bf25c5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Nov 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69129a44d1047e3565cfdbbf?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 10 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69129521c98948514c47cb69?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
-| ↳ | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/6912cea9c98948514c47e309?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/6912cea9c98948514c47e309?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
+| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69129521c98948514c47cb69?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6912f8bbc98948514c47fd71?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | **[CSIS Economics Program and Scholl Chair](https://www.csis.org/programs/economics-program-and-scholl-chair-international-business)** | **[Research Intern - Economics Program (Spring 2026)](https://jobright.ai/jobs/info/691282a4ea9ab01b82bf338e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[Buncombe County Government](https://www.buncombecounty.org/)** | **[Planning Intern - Temporary](https://jobright.ai/jobs/info/6912bfeeea9ab01b82bf4b5c?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690e5cd644146d3b6ec535cd?utm_campaign=1056&utm_source=git)** | US-TX-Houston | On Site | Nov 07 |
 | ↳ | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690e579644146d3b6ec531ad?utm_campaign=1056&utm_source=git)** | US-ID-Meridian | On Site | Nov 07 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Policy + Data Analytics Internship (Spring 2026)](https://jobright.ai/jobs/info/690e4dbcd046ab6061cfc1e9?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 07 |
-| **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - NY](https://jobright.ai/jobs/info/690e65bf44146d3b6ec53ba4?utm_campaign=1056&utm_source=git)** | US-NY-New York | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
