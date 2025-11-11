@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HB Strategies](http://www.hbstrategies.us)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6913910a1465e02904e95941?utm_campaign=1056&utm_source=git)** | Topeka, KS | On Site | Nov 11 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691386951465e02904e95415?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 11 |
+| **[PhRMA](http://phrma.org/)** | **[Spring Internship – State Advocacy](https://jobright.ai/jobs/info/691391931465e02904e959a4?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Nov 11 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Right of Way)](https://jobright.ai/jobs/info/690c9bffd046ab6061cee9d8?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/68faee179e8e925ac6c87864?utm_campaign=1056&utm_source=git)** | Camp Hill, PA | On Site | Nov 11 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government West Market– Campus 2026](https://jobright.ai/jobs/info/691357b4d1047e3565d02934?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Nov 11 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Economic Assistance (Spring)](https://jobright.ai/jobs/info/690e98ead046ab6061cff0df?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 10 |
 | **[Strategic Political Management](https://www.strategic-political.com/)** | **[Intern - Political Operations](https://jobright.ai/jobs/info/6910d2d2bb519377733ed33f?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Nov 10 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125abbea9ab01b82bf1bf1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Nov 10 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/691222fbea9ab01b82befcfe?utm_campaign=1056&utm_source=git)** | Illiopolis, IL | Remote | Nov 10 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/69126067c98948514c47b22d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Nov 10 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[CW - ACWIH intern](https://jobright.ai/jobs/info/69120b2fc98948514c478479?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Nov 10 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Government Relations Session Intern - Spring](https://jobright.ai/jobs/info/69120ab3ea9ab01b82bef2cf?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/690e7a69d046ab6061cfe0e8?utm_campaign=1056&utm_source=git)** | Houston, Texas | Hybrid | Nov 07 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Research & Grants Administration-Remote](https://jobright.ai/jobs/info/690e651244146d3b6ec53ace?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Policy & Advocacy Intern - Summer 2026](https://jobright.ai/jobs/info/690e6148d046ab6061cfce0e?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690e5d91d046ab6061cfcb64?utm_campaign=1056&utm_source=git)** | US-VA-Reston | On Site | Nov 07 |
-| ↳ | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690e5cd644146d3b6ec535cd?utm_campaign=1056&utm_source=git)** | US-TX-Houston | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
