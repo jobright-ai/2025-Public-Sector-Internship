@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69141a22e344172248f76fa4?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6913cc7ee344172248f74414?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Brewers Community Foundation](https://jobright.ai/jobs/info/6913ca95d1047e3565d061ee?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Nov 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/6913c037e344172248f73d70?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
@@ -85,10 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/690cdd31d046ab6061cf018f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69126871ea9ab01b82bf25c5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Nov 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69129a44d1047e3565cfdbbf?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 10 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/6912cea9c98948514c47e309?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
-| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69129521c98948514c47cb69?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69129521c98948514c47cb69?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
+| ↳ | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/6912cea9c98948514c47e309?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6912f8bbc98948514c47fd71?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
-| **[CSIS Economics Program and Scholl Chair](https://www.csis.org/programs/economics-program-and-scholl-chair-international-business)** | **[Research Intern - Economics Program (Spring 2026)](https://jobright.ai/jobs/info/691282a4ea9ab01b82bf338e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[Buncombe County Government](https://www.buncombecounty.org/)** | **[Planning Intern - Temporary](https://jobright.ai/jobs/info/6912bfeeea9ab01b82bf4b5c?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Nov 10 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125af2c98948514c47ae36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/69125a5ec98948514c47adbf?utm_campaign=1056&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Medical Affairs - Medical Communication](https://jobright.ai/jobs/info/6911a8aa183be660d267d14d?utm_campaign=1056&utm_source=git)** | United States - California - Santa Monica | Hybrid | Nov 10 |
 | ↳ | **[Intern - Research - Medical Affairs](https://jobright.ai/jobs/info/6911cf2fdf7e2373ba413f72?utm_campaign=1056&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs and Legal (Government Affairs)](https://jobright.ai/jobs/info/69118153183be660d267c43e?utm_campaign=1056&utm_source=git)** | United States - District of Columbia - Washington | On Site | Nov 09 |
+| **[City of Pinole](http://www.ci.pinole.ca.us)** | **[Council Intern Volunteer](https://jobright.ai/jobs/info/691405bf1465e02904e997b0?utm_campaign=1056&utm_source=git)** | Pinole, CA | On Site | Nov 09 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Supervisor Social Work Intern Program](https://jobright.ai/jobs/info/69113575bb519377733ee30b?utm_campaign=1056&utm_source=git)** | Winston-Salem, NC | Hybrid | Nov 09 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/69126d85d1047e3565cfc8b7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 09 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner- Driehaus (4612-02)](https://jobright.ai/jobs/info/6912cd08c98948514c47e232?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea588221b890c2781039c?utm_campaign=1056&utm_source=git)** | Meridian, ID | On Site | Nov 07 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 07 |
 | ↳ | **[Legislative Intern](https://jobright.ai/jobs/info/690ea392d046ab6061cff9af?utm_campaign=1056&utm_source=git)** | Boise - Jefferson | On Site | Nov 07 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program- Department of Planning and Performance- Office of Energy and Environment](https://jobright.ai/jobs/info/690ea13c44146d3b6ec561a6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
