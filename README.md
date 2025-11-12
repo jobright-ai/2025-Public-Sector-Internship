@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worldwide Flight Services (WFS)](http://www.wfs.aero/)** | **[Intern](https://jobright.ai/jobs/info/6914503c6f36db06ef046c05?utm_campaign=1056&utm_source=git)** | Jamaica, NY | On Site | Nov 12 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/691451559c388539cbdeb97c?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Nov 11 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69141a22e344172248f76fa4?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6913cc7ee344172248f74414?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Brewers Community Foundation](https://jobright.ai/jobs/info/6913ca95d1047e3565d061ee?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea6e6221b890c2781049a?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 07 |
 | ↳ | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea588221b890c2781039c?utm_campaign=1056&utm_source=git)** | Meridian, ID | On Site | Nov 07 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 07 |
-| ↳ | **[Legislative Intern](https://jobright.ai/jobs/info/690ea392d046ab6061cff9af?utm_campaign=1056&utm_source=git)** | Boise - Jefferson | On Site | Nov 07 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program- Department of Planning and Performance- Office of Energy and Environment](https://jobright.ai/jobs/info/690ea13c44146d3b6ec561a6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
