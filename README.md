@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Food and Agriculture Intern (UNPAID)](https://jobright.ai/jobs/info/691617e6286ccf0a15132640?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 13 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/691615546f36db06ef052d18?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 13 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, FMI Oversight- RBOPS](https://jobright.ai/jobs/info/6915edc1286ccf0a15131688?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 13 |
+| **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Spring Intern](https://jobright.ai/jobs/info/69160acc286ccf0a1513216a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68f94607cadb2e5a06a634c3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6915e3db6f36db06ef051a61?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
-| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6915e41b286ccf0a151313c1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6915fbd66f36db06ef05224c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 13 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6915e41b286ccf0a151313c1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
+| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6915e3db6f36db06ef051a61?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6915db439c388539cbdf664b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Public Information Office](https://jobright.ai/jobs/info/6915f460286ccf0a1513193a?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Nov 13 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6915970d9c388539cbdf4977?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Charleston Metro Chamber of Commerce](https://www.charlestonchamber.org)** | **[Business Advocacy Intern](https://jobright.ai/jobs/info/6915195d6f36db06ef04ba98?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Nov 12 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/690b966a4a1b456627b10a6a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Spring 2026 Research Internship](https://jobright.ai/jobs/info/691527909c388539cbdf1048?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69152acd286ccf0a1512be61?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Medical Affairs](https://jobright.ai/jobs/info/691506966f36db06ef04adaf?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern - Fall 2025](https://jobright.ai/jobs/info/6915043b9c388539cbdef90c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Nov 12 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69150dbe9c388539cbdf010e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs and Legal (Government Affairs)](https://jobright.ai/jobs/info/69127baac98948514c47c213?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[U.S. Public Awareness/Land & Ops Services Intern](https://jobright.ai/jobs/info/69124b49c98948514c47a373?utm_campaign=1056&utm_source=git)** | Houston, TX | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/691279fdc98948514c47c14a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - ACL (Summer)](https://jobright.ai/jobs/info/690e9ae744146d3b6ec55d69?utm_campaign=1056&utm_source=git)** | Pierre, SD | On Site | Nov 10 |
-| **[National Wildlife Federation](http://nwf.org)** | **[DaRin Butz Foundation NWF Sea Turtle Intern, Escambia County](https://jobright.ai/jobs/info/69126fd0c98948514c47bca5?utm_campaign=1056&utm_source=git)** | Tampa, FL | On Site | Nov 10 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/68fade598d32c164778cc164?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
