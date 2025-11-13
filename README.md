@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68f94607cadb2e5a06a634c3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6915db439c388539cbdf664b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6915970d9c388539cbdf4977?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/69157699286ccf0a1512e89d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691575f46f36db06ef04ef70?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Jose Behavioral Health Hospital](https://www.sanjosebh.com)** | **[Now Hiring: Clinical Social Workers & Recent MSW Graduates + Offering MSW Internship Placements](https://jobright.ai/jobs/info/691254b5d1047e3565cfb655?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Economic Assistance (Spring)](https://jobright.ai/jobs/info/690e98ead046ab6061cff0df?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 10 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125abbea9ab01b82bf1bf1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Nov 10 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government -Governor](https://jobright.ai/jobs/info/6914db89286ccf0a15128d01?utm_campaign=1056&utm_source=git)** | Frankfort, KY, US | On Site | Nov 10 |
-| **[PhRMA](http://phrma.org/)** | **[Spring Internship – Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/69126067c98948514c47b22d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
