@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/69154ed69c388539cbdf2697?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 12 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Digital Health Record Internship](https://jobright.ai/jobs/info/69154c6d9c388539cbdf2507?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Nov 12 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern - Fall 2025](https://jobright.ai/jobs/info/69153a18286ccf0a1512c736?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Policyholder Experience Analytics Intern](https://jobright.ai/jobs/info/691532ab286ccf0a1512c270?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government -Governor](https://jobright.ai/jobs/info/691525bc6f36db06ef04c1c8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 12 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/690b8f9ad046ab6061ce534a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 12 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69126871ea9ab01b82bf25c5?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Nov 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69129a44d1047e3565cfdbbf?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 10 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/6912cea9c98948514c47e309?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
-| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6912f8bbc98948514c47fd71?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | **[Buncombe County Government](https://www.buncombecounty.org/)** | **[Planning Intern - Temporary](https://jobright.ai/jobs/info/6912bfeeea9ab01b82bf4b5c?utm_campaign=1056&utm_source=git)** | Asheville, NC | On Site | Nov 10 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125af2c98948514c47ae36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/69125a5ec98948514c47adbf?utm_campaign=1056&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government -Governor](https://jobright.ai/jobs/info/6914db89286ccf0a15128d01?utm_campaign=1056&utm_source=git)** | Frankfort, KY, US | On Site | Nov 10 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/69126067c98948514c47b22d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Nov 10 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[CW - ACWIH intern](https://jobright.ai/jobs/info/69120b2fc98948514c478479?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Nov 10 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Government Relations Session Intern - Spring](https://jobright.ai/jobs/info/69120ab3ea9ab01b82bef2cf?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 10 |
-| **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/691227e7c98948514c4790de?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
