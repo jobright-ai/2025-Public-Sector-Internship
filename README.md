@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6915970d9c388539cbdf4977?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/69157699286ccf0a1512e89d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691575f46f36db06ef04ef70?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 12 |
 | **[The 'Quin House](https://thequinhouse.com)** | **['Quin Impact Fund Intern](https://jobright.ai/jobs/info/69155e9e9c388539cbdf30c7?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 12 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6914ee3d286ccf0a151295f8?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 12 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8ffdbcadb2e5a06a5f8a4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fb83cadb2e5a06a5f22a?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
+| ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fed3cadb2e5a06a5f694?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
 | ↳ | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f90a73cadb2e5a06a60477?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/6914d9466f36db06ef049391?utm_campaign=1056&utm_source=git)** | Portage, Michigan | On Site | Nov 12 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Policy & Strategic Initiatives Intern (Employee/Employer Contract)](https://jobright.ai/jobs/info/6914d7b19c388539cbdedfc3?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Nov 12 |
@@ -111,8 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/69149cd1286ccf0a1512786e?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Nov 12 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 12 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Bias Response and Sanctuary Promise Volunteer and Intern Program (Unpaid)](https://jobright.ai/jobs/info/6914bdfd9c388539cbded67e?utm_campaign=1056&utm_source=git)** | Salem, OR | On Site | Nov 12 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6914badf6f36db06ef0487ba?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
-| ↳ | **[Russian Language Intern - Warfare, Irregular Threats, and Terrorism Program (Fall/Winter 2025)](https://jobright.ai/jobs/info/69148e4f6f36db06ef047c6b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Russian Language Intern - Warfare, Irregular Threats, and Terrorism Program (Fall/Winter 2025)](https://jobright.ai/jobs/info/69148e4f6f36db06ef047c6b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
 | ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/69147dba286ccf0a15127177?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
 | ↳ | **[Intern - Middle East Program (Spring 2026)](https://jobright.ai/jobs/info/69148b906f36db06ef047b87?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
 | **[Worldwide Flight Services (WFS)](http://www.wfs.aero/)** | **[Intern](https://jobright.ai/jobs/info/6914503c6f36db06ef046c05?utm_campaign=1056&utm_source=git)** | Jamaica, NY | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125abbea9ab01b82bf1bf1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | Hybrid | Nov 10 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government -Governor](https://jobright.ai/jobs/info/6914db89286ccf0a15128d01?utm_campaign=1056&utm_source=git)** | Frankfort, KY, US | On Site | Nov 10 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – Advocacy & Strategic Alliances](https://jobright.ai/jobs/info/69126067c98948514c47b22d?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Nov 10 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[CW - ACWIH intern](https://jobright.ai/jobs/info/69120b2fc98948514c478479?utm_campaign=1056&utm_source=git)** | UAMS | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
