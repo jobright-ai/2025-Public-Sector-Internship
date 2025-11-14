@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Lomita](http://www.lomita.com/cityhall/)** | **[Planning Intern (Part-Time)](https://jobright.ai/jobs/info/6916d2a79c388539cbdfee09?utm_campaign=1056&utm_source=git)** | Lomita, CA | On Site | Nov 13 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/6916d4d3286ccf0a15139a6c?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 13 |
 | **[Avasant](http://www.avasant.com)** | **[Presidential Intern](https://jobright.ai/jobs/info/69169b5a286ccf0a15137e04?utm_campaign=1056&utm_source=git)** | El Segundo, CA | On Site | Nov 13 |
 | **[City of Covington, Kentucky](http://www.covingtonky.gov)** | **[Public Administration Intern (44757)](https://jobright.ai/jobs/info/69169500286ccf0a15137a3e?utm_campaign=1056&utm_source=git)** | Covington, KY, USA | On Site | Nov 13 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Community Outreach](https://jobright.ai/jobs/info/69167aa99c388539cbdfbc02?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Nov 13 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[DGA Group](https://www.dentonsglobaladvisors.com)** | **[Intern – Complex Communications Advisory (DGA Group Internship Program - Spring 2026)](https://jobright.ai/jobs/info/69161db86f36db06ef0530a9?utm_campaign=1056&utm_source=git)** | New York, NY 10017, USA | Hybrid | Nov 13 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Spring Intern](https://jobright.ai/jobs/info/69160acc286ccf0a1513216a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68f94607cadb2e5a06a634c3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6915e3db6f36db06ef051a61?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
-| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6915e41b286ccf0a151313c1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6915e41b286ccf0a151313c1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
+| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6915e3db6f36db06ef051a61?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6915db439c388539cbdf664b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Public Information Office](https://jobright.ai/jobs/info/6915f460286ccf0a1513193a?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Nov 13 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6915970d9c388539cbdf4977?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Government Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/691528fc286ccf0a1512bcf8?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/6913cc7ee344172248f74414?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 11 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Brewers Community Foundation](https://jobright.ai/jobs/info/6913ca95d1047e3565d061ee?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Nov 11 |
-| **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Environmental and Government Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/6913b7c9d1047e3565d05824?utm_campaign=1056&utm_source=git)** | Boulder, CO | On Site | Nov 11 |
-| **[HB Strategies](http://www.hbstrategies.us)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6913910a1465e02904e95941?utm_campaign=1056&utm_source=git)** | Topeka, KS | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
