@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6918b3fe15b4156367183773?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 15 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/68e0431b1852e62f007e98a1?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
 | **[Gift of Life Donor Program](https://www.donors1.org/)** | **[Family Sppt Svcs Intern](https://jobright.ai/jobs/info/68f1e444e6870116b1f5e1dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 15 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Nov 15 |
@@ -116,8 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civilian Conservation Corps Intern - (Unpaid Internship)](https://jobright.ai/jobs/info/69167e106f36db06ef05716b?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | Nov 13 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Civilian Conservation Corps Intern - (Unpaid Internship)](https://jobright.ai/jobs/info/69167dbc9c388539cbdfbde0?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | Nov 13 |
 | **[Human Rights Foundation (HRF)](http://hrf.org)** | **[Oslo Freedom Forum Research Intern](https://jobright.ai/jobs/info/691661836f36db06ef055b3c?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services Intern ( IINE, Lowell, MA)](https://jobright.ai/jobs/info/69163ee59c388539cbdf90e3?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 13 |
-| ↳ | **[Shelter Services Intern (IINE Lowell, MA)](https://jobright.ai/jobs/info/69165e129c388539cbdfa610?utm_campaign=1056&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
+| **[International Institute of New England](https://iine.org/)** | **[Shelter Services Intern (IINE Lowell, MA)](https://jobright.ai/jobs/info/69165e129c388539cbdfa610?utm_campaign=1056&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Strategic Resilience (Tallahassee, FL)](https://jobright.ai/jobs/info/69163a676f36db06ef053ee5?utm_campaign=1056&utm_source=git)** | Tallahassee, FL (FL36) | Hybrid | Nov 13 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Relations Intern (Arlington, VA)](https://jobright.ai/jobs/info/691637b66f36db06ef053d59?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Food and Agriculture Intern (UNPAID)](https://jobright.ai/jobs/info/691617e6286ccf0a15132640?utm_campaign=1056&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 13 |
@@ -139,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2025 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/69156cdf286ccf0a1512e1ba?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Policyholder Experience Analytics Intern](https://jobright.ai/jobs/info/691532ab286ccf0a1512c270?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 12 |
 | **[International Institute of New England](https://iine.org/)** | **[Shelter Services Intern (IINE Lowell, MA)](https://jobright.ai/jobs/info/6916793c286ccf0a15136786?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 12 |
+| ↳ | **[Community Services Intern ( IINE, Lowell, MA)](https://jobright.ai/jobs/info/69164dae6f36db06ef054d21?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 12 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/690b8f9ad046ab6061ce534a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/69164149286ccf0a15133cf2?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 12 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Spring 2026 Political Internship](https://jobright.ai/jobs/info/69151c746f36db06ef04bcfb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6914e5069c388539cbdee575?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 12 |
 | **[Plains All American](https://www.plains.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69184ec445fb6f5ead8a470c?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 12 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/6905650a63502c0aded7ac96?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Nov 12 |
-| **[Forward Global](https://www.avisa-partners.com)** | **[2026 Spring Intern, Government Relations and Public Affairs](https://jobright.ai/jobs/info/6914fbd09c388539cbdef3c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
