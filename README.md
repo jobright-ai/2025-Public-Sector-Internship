@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quincy Institute](https://quincyinst.org/)** | **[Eurasia and Grand Strategy Program Intern](https://jobright.ai/jobs/info/6914f9d3286ccf0a15129dac?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Nov 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/691954babcdbf3560c9d4f00?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Chair on India and Emerging Asia Economics (Spring 2026)](https://jobright.ai/jobs/info/6918ff74bcdbf3560c9d402d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 15 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6918b3fe15b4156367183773?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 15 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[DGA Group](https://www.dentonsglobaladvisors.com)** | **[Intern – Complex Communications Advisory (DGA Group Internship Program - Spring 2026)](https://jobright.ai/jobs/info/69161db86f36db06ef0530a9?utm_campaign=1056&utm_source=git)** | New York, NY 10017, USA | Hybrid | Nov 13 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Federal Relations Spring Intern](https://jobright.ai/jobs/info/69160acc286ccf0a1513216a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/68f94607cadb2e5a06a634c3?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6915db439c388539cbdf664b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 13 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Public Information Office](https://jobright.ai/jobs/info/6915f460286ccf0a1513193a?utm_campaign=1056&utm_source=git)** | Orange, CA | On Site | Nov 13 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6915970d9c388539cbdf4977?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/69157699286ccf0a1512e89d?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6914e5069c388539cbdee575?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 12 |
 | **[Plains All American](https://www.plains.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69184ec445fb6f5ead8a470c?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 12 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/6905650a63502c0aded7ac96?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Nov 12 |
-| **[Quincy Institute](https://quincyinst.org/)** | **[Eurasia Program Intern](https://jobright.ai/jobs/info/6914f9d3286ccf0a15129dac?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Nov 12 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Medical Affairs](https://jobright.ai/jobs/info/6914d0119c388539cbdedccc?utm_campaign=1056&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 12 |
 | **[Medical Home Network](https://www.medicalhomenetwork.org/)** | **[Health Equity Intern](https://jobright.ai/jobs/info/6914f2086f36db06ef049ef7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f2056de2db04dc3e2cc0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
