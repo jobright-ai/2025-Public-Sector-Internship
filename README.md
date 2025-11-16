@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691a08c915b4156367187d76?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 16 |
+| **[Jersey Innovative Services](https://workingwithfamilies.com)** | **[$ PAID Internship in Social Work and Counseling masters level //// **New Jersey residents only**](https://jobright.ai/jobs/info/6919f78445fb6f5ead8aacab?utm_campaign=1056&utm_source=git)** | Toms River, NJ | On Site | Nov 16 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/68c49e57e471ef3ce16d7c9e?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Nov 16 |
 | **[Quincy Institute](https://quincyinst.org/)** | **[Eurasia and Grand Strategy Program Intern](https://jobright.ai/jobs/info/6914f9d3286ccf0a15129dac?utm_campaign=1056&utm_source=git)** | Remote or Washington, D.C. | Remote | Nov 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/691954babcdbf3560c9d4f00?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plains All American](https://www.plains.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69184ec445fb6f5ead8a470c?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 12 |
 | **[Lambda Legal](http://www.lambdalegal.org)** | **[Garner Morrison Movement Building Internship](https://jobright.ai/jobs/info/6905650a63502c0aded7ac96?utm_campaign=1056&utm_source=git)** | Decatur, GA | Hybrid | Nov 12 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Medical Affairs](https://jobright.ai/jobs/info/6914d0119c388539cbdedccc?utm_campaign=1056&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 12 |
-| **[Medical Home Network](https://www.medicalhomenetwork.org/)** | **[Health Equity Intern](https://jobright.ai/jobs/info/6914f2086f36db06ef049ef7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f2056de2db04dc3e2cc0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
