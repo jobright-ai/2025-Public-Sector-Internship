@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avōq](https://teamavoq.com)** | **[Government Relations Intern (Spring)](https://jobright.ai/jobs/info/691b549515b415636718e266?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 17 |
+| **[International Tax and Investment Center](https://www.iticnet.org)** | **[International Relations Intern](https://jobright.ai/jobs/info/691b44e615b415636718db74?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 17 |
 | **[Children's Trust of South Carolina](https://scchildren.org/)** | **[Lipscomb Assistant](https://jobright.ai/jobs/info/691b426f22a2cb4b9bd1109d?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina Metropolitan Area | Hybrid | Nov 17 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691b39a322a2cb4b9bd10d04?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 17 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/691b455615b415636718dba1?utm_campaign=1056&utm_source=git)** | Chicago, IL | Remote | Nov 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fiscal Policy Intern](https://jobright.ai/jobs/info/691b080422a2cb4b9bd0ff74?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-State House | Hybrid | Nov 17 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 16 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2026 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/691ab86345fb6f5ead8ad37a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Nov 16 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern - Fall 2025](https://jobright.ai/jobs/info/69153a18286ccf0a1512c736?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 12 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2025 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/69156cdf286ccf0a1512e1ba?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Policyholder Experience Analytics Intern](https://jobright.ai/jobs/info/691532ab286ccf0a1512c270?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 12 |
-| **[International Institute of New England](https://iine.org/)** | **[Shelter Services Intern (IINE Lowell, MA)](https://jobright.ai/jobs/info/6916793c286ccf0a15136786?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 12 |
-| ↳ | **[Community Services Intern ( IINE, Lowell, MA)](https://jobright.ai/jobs/info/69164dae6f36db06ef054d21?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 12 |
+| **[International Institute of New England](https://iine.org/)** | **[Community Services Intern ( IINE, Lowell, MA)](https://jobright.ai/jobs/info/69164dae6f36db06ef054d21?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 12 |
+| ↳ | **[Shelter Services Intern (IINE Lowell, MA)](https://jobright.ai/jobs/info/6916793c286ccf0a15136786?utm_campaign=1056&utm_source=git)** | Lowell, MA | On Site | Nov 12 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2026 Democracy Undergraduate Internship](https://jobright.ai/jobs/info/690b8f9ad046ab6061ce534a?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/69164149286ccf0a15133cf2?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 12 |
 | **[Charleston Metro Chamber of Commerce](https://www.charlestonchamber.org)** | **[Business Advocacy Intern](https://jobright.ai/jobs/info/6919293d15b41563671845d2?utm_campaign=1056&utm_source=git)** | North Charleston, SC, US | On Site | Nov 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Medical Affairs](https://jobright.ai/jobs/info/691506966f36db06ef04adaf?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Nov 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern - Fall 2025](https://jobright.ai/jobs/info/6915043b9c388539cbdef90c?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Nov 12 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Political Internship - DC](https://jobright.ai/jobs/info/69150dbe9c388539cbdf010e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/6916fd1fab115751cca3e2f6?utm_campaign=1056&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Nov 12 |
-| **[Medical Home Network](https://www.medicalhomenetwork.org/)** | **[Health Equity Intern](https://jobright.ai/jobs/info/6915047c286ccf0a1512a4f3?utm_campaign=1056&utm_source=git)** | 180 N Stetson Ave Ste 600-1, Chicago, IL 60601 | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
