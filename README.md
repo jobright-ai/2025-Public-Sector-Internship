@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/691aaad915b4156367189d6c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 16 |
+| ↳ | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691aa74745fb6f5ead8acb1f?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 16 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Affairs Intern](https://jobright.ai/jobs/info/691a6dcc45fb6f5ead8ab77e?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Nov 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Warfare, Irregular Threats, and Terrorism Program (Spring 2026)](https://jobright.ai/jobs/info/691a5168bcdbf3560c9d8223?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 16 |
 | ↳ | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/691a5108bcdbf3560c9d8219?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 16 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 14 |
 | ↳ | **[Team Kentucky Internship Program - Energy & Environment - Office of Communication](https://jobright.ai/jobs/info/68f2813c9a65fd345857d39e?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 14 |
 | **[McDermott Will & Schulte](http://www.mwe.com/)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68faf7fa9e8e925ac6c87f87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 14 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/69178b6b15b4156367178d85?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 14 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 14 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/68fb2a349e8e925ac6c893df?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 14 |
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/691227e7c98948514c4790de?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69183174bcdbf3560c9cf847?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Policyholder Experience Analytics Intern](https://jobright.ai/jobs/info/691530389c388539cbdf153a?utm_campaign=1056&utm_source=git)** | Remote (United States) | Remote | Nov 12 |
 | **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/691508f46f36db06ef04b00d?utm_campaign=1056&utm_source=git)** | College Park, MD | Remote | Nov 12 |
-| **[Plains All American](https://www.plains.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69184ec445fb6f5ead8a470c?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
