@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2026 Summer internship - Corporate Communications and Public Affairs](https://jobright.ai/jobs/info/691ae90bbcdbf3560c9dbb7e?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Hybrid | Nov 17 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Fiscal Policy Intern](https://jobright.ai/jobs/info/691b080422a2cb4b9bd0ff74?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-State House | Hybrid | Nov 17 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/691aaad915b4156367189d6c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 16 |
 | ↳ | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691aa74745fb6f5ead8acb1f?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medical Home Network](https://www.medicalhomenetwork.org/)** | **[Health Equity Intern](https://jobright.ai/jobs/info/6915047c286ccf0a1512a4f3?utm_campaign=1056&utm_source=git)** | 180 N Stetson Ave Ste 600-1, Chicago, IL 60601 | Hybrid | Nov 12 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69183174bcdbf3560c9cf847?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Policyholder Experience Analytics Intern](https://jobright.ai/jobs/info/691530389c388539cbdf153a?utm_campaign=1056&utm_source=git)** | Remote (United States) | Remote | Nov 12 |
-| **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/691508f46f36db06ef04b00d?utm_campaign=1056&utm_source=git)** | College Park, MD | Remote | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
