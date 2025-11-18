@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Corporate Responsibility & Sustainability](https://jobright.ai/jobs/info/6900343ee04ac838fb5c042e?utm_campaign=1056&utm_source=git)** | Chesterfield, MO | On Site | Nov 18 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | **[Zipline](http://flyzipline.com)** | **[Public Affairs Intern (Spring 2026)](https://jobright.ai/jobs/info/68e47774b99ec3563b0eaad5?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 18 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Casualty Claims Development Program](https://jobright.ai/jobs/info/68c786a6db52c07d2884b544?utm_campaign=1056&utm_source=git)** | Itasca, IL | On Site | Nov 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Public Policy Intern (Global Public Policy)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690057cbe04ac838fb5c1906?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Department of Military Affairs - Division of Emergency Management](https://jobright.ai/jobs/info/68f6750f76a51a4307bda893?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 18 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/691c712e22a2cb4b9bd1ac04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/691c715cff70244984167e5c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
+| ↳ | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/691c9e0622a2cb4b9bd1bc04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/691c7485ff70244984167f2d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/691c85f6bcdbf3560c9e7b21?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 18 |
 | **[State of Ohio](http://governor.ohio.gov)** | **[College Intern - Public Information Office - Summer 2026 (20057562)](https://jobright.ai/jobs/info/691c3c60bcdbf3560c9e657a?utm_campaign=1056&utm_source=git)** | District 6 HQ400 East William Street | On Site | Nov 18 |
@@ -76,8 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship-BSR: Policy & Analysis](https://jobright.ai/jobs/info/691bcc5f15b4156367192df3?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 17 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/691bf33bbcdbf3560c9e4484?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 17 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Oklahoma City - Regional Affairs Intern](https://jobright.ai/jobs/info/691bca17bcdbf3560c9e29cc?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 17 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Sustainability Service Intern](https://jobright.ai/jobs/info/691bf43522a2cb4b9bd17d81?utm_campaign=1056&utm_source=git)** | US-PA-Glenolden | On Site | Nov 17 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 17 |
+| ↳ | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 17 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/691be8ddbcdbf3560c9e3e30?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Nov 17 |
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/691c621322a2cb4b9bd1a7cf?utm_campaign=1056&utm_source=git)** | New York, NY; Boston, MA | On Site | Nov 17 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Community Crisis Responder Intern - CARE](https://jobright.ai/jobs/info/68f0a6aceb273a32d976ab6c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer Intern, Retail Payments- RBOPS](https://jobright.ai/jobs/info/68fac8d6b2c86843bf211e30?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 14 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Nov 14 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/68f18c46e6870116b1f5a52c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 14 |
-| **[Ameren](http://ameren.com)** | **[Sustainability, Community and Inclusive Engagement Intern](https://jobright.ai/jobs/info/68c2102d63b706703e1114fe?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Nov 14 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/69174fe7370fde633d07f195?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
