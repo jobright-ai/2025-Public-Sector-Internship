@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Public Information Office - Summer 2026 (20057562)](https://jobright.ai/jobs/info/691c3c60bcdbf3560c9e657a?utm_campaign=1056&utm_source=git)** | District 6 HQ400 East William Street | On Site | Nov 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691c078a22a2cb4b9bd18a5d?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 17 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/691bfdbc22a2cb4b9bd1848b?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Nov 17 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/691be41322a2cb4b9bd172df?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Nov 17 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement & Volunteer Program Intern (Spring 2026-Unpaid)](https://jobright.ai/jobs/info/691b8c31bcdbf3560c9dff8e?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Nov 17 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Summer 2026](https://jobright.ai/jobs/info/691b8f7915b415636719041c?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Nov 17 |
 | ↳ | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/691b855615b415636718fcc3?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Nov 17 |
-| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b881815b415636718fe86?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 17 |
-| ↳ | **[Intern – Social and Environmental Compliance Unit – Office of Audit and Investigations](https://jobright.ai/jobs/info/691b9d4cbcdbf3560c9e0c20?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 17 |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Intern – Social and Environmental Compliance Unit – Office of Audit and Investigations](https://jobright.ai/jobs/info/691b9d4cbcdbf3560c9e0c20?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 17 |
+| ↳ | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b881815b415636718fe86?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 17 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Records Management Program - OSEC](https://jobright.ai/jobs/info/691b940922a2cb4b9bd13d33?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 17 |
 | **[Avōq](https://teamavoq.com)** | **[Government Relations Intern (Spring)](https://jobright.ai/jobs/info/691b549515b415636718e266?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 17 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691b7e5615b415636718f81a?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/691939f215b41563671848ca?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 13 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Community Outreach](https://jobright.ai/jobs/info/69167aa99c388539cbdfbc02?utm_campaign=1056&utm_source=git)** | Tucson, AZ | On Site | Nov 13 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Young Invincibles MidWest Winter/Spring Intern](https://jobright.ai/jobs/info/6916ac366f36db06ef058e02?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/691a54f245fb6f5ead8ab5c6?utm_campaign=1056&utm_source=git)** | Florida (Remote) | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
