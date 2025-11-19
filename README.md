@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Durham County Government](http://www.dconc.gov)** | **[SOCIAL WORKER III - 40008626 (INTERN COORDINATOR)](https://jobright.ai/jobs/info/691d88f60b7dff7341504408?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Nov 19 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d3fd70b7dff7341501730?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Nov 18 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/691d1c37bcdbf3560c9ed453?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Nov 18 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[Intern, Office of Hillary R. Clinton (Unpaid/Academic Credit)](https://jobright.ai/jobs/info/691d1b15bcdbf3560c9ed33f?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Conseiller principal ou conseillère principale, Développement de la pratique, Investigation Menace interne, Sécurité de l’information-FR](https://jobright.ai/jobs/info/691d089122a2cb4b9bd2010e?utm_campaign=1056&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Political](https://jobright.ai/jobs/info/691cda90bcdbf3560c9ea73a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Immigration: Hemispheric Migration](https://jobright.ai/jobs/info/691cd915ff7024498416b0e6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Philanthropy: Social Innovation](https://jobright.ai/jobs/info/691cd1c9ff7024498416ab32?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Policy and Government Affairs: Sustainable Agriculture Policy](https://jobright.ai/jobs/info/691cd063ff7024498416aa03?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Chicago CRED: Policy](https://jobright.ai/jobs/info/691cd04f22a2cb4b9bd1d797?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | ↳ | **[Summer Intern, E Pluribus Unum: Policy & Government Relations](https://jobright.ai/jobs/info/691cced922a2cb4b9bd1d6c2?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 18 |
@@ -91,11 +91,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Policy and Government Affairs: Education Policy](https://jobright.ai/jobs/info/691d08dd22a2cb4b9bd2014f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[National Anti-Vivisection Society (NAVS)](http://www.navs.org)** | **[Public Policy and Program Support Intern](https://jobright.ai/jobs/info/691cc692bcdbf3560c9e9911?utm_campaign=1056&utm_source=git)** | Illinois, United States | Hybrid | Nov 18 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Cognitive Warfare Task Force Internship Spring 2026](https://jobright.ai/jobs/info/691ceab7ff7024498416bc6f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691cd83bff7024498416aff1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
+| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Philanthropy: Social Innovation](https://jobright.ai/jobs/info/691cd92a22a2cb4b9bd1de6d?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
+| ↳ | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691cd83bff7024498416aff1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Immigration: State Inclusion and Integration](https://jobright.ai/jobs/info/691cfa4f22a2cb4b9bd1f756?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
+| ↳ | **[Summer Intern, Political](https://jobright.ai/jobs/info/691cecfd22a2cb4b9bd1ed2e?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Policy and Government Affairs: Education Policy](https://jobright.ai/jobs/info/691ce81b22a2cb4b9bd1e897?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Sycamore & Oak: Community Engagement](https://jobright.ai/jobs/info/691cea2722a2cb4b9bd1eaa2?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Political](https://jobright.ai/jobs/info/691cecfd22a2cb4b9bd1ed2e?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | **[Stratify Edge](stratifyedge.us)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/691cd1cdbcdbf3560c9ea234?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 18 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government Cabinet - Governor](https://jobright.ai/jobs/info/691cc44222a2cb4b9bd1d03f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 18 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 18 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/691c715cff70244984167e5c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/691c7485ff70244984167f2d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
 | **[State of Ohio](http://governor.ohio.gov)** | **[College Intern - Public Information Office - Summer 2026 (20057562)](https://jobright.ai/jobs/info/691c3c60bcdbf3560c9e657a?utm_campaign=1056&utm_source=git)** | District 6 HQ400 East William Street | On Site | Nov 18 |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - Public Information Office - Summer 2026 (20057562)](https://jobright.ai/jobs/info/691d74a77481340785ed7dcc?utm_campaign=1056&utm_source=git)** | Delaware, OH | On Site | Nov 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691c078a22a2cb4b9bd18a5d?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 17 |
 | **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Intake Social Service Specialist 3 (SSS3) - Spokane Valley](https://jobright.ai/jobs/info/691d5d4dbcdbf3560c9f0495?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Nov 17 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/691bfdbc22a2cb4b9bd1848b?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Records Management Program - OSEC](https://jobright.ai/jobs/info/691b940922a2cb4b9bd13d33?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 17 |
 | **[Avōq](https://teamavoq.com)** | **[Government Relations Intern (Spring)](https://jobright.ai/jobs/info/691b549515b415636718e266?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 17 |
 | **[Courage to Caregivers, Inc.](https://couragetocaregivers.org)** | **[Nonprofit Management Internship (Unpaid)](https://jobright.ai/jobs/info/691b7578bcdbf3560c9df06b?utm_campaign=1056&utm_source=git)** | Chagrin Falls, OH | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - ALSAC Liaison Office (Memphis, TN)](https://jobright.ai/jobs/info/691b698115b415636718ed4b?utm_campaign=1056&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
-| **[Children's Trust of South Carolina](https://scchildren.org/)** | **[Lipscomb Assistant](https://jobright.ai/jobs/info/691b426f22a2cb4b9bd1109d?utm_campaign=1056&utm_source=git)** | Columbia, South Carolina Metropolitan Area | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
