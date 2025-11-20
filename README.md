@@ -94,8 +94,9 @@ For a complete list, click the following sortable link below:
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/691df10c3f782d2f1afaedfa?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Nov 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Nov 19 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Community Banking](https://jobright.ai/jobs/info/690d87d044146d3b6ec4d8c0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking Program Intern](https://jobright.ai/jobs/info/691dfdd83f782d2f1afaf6f0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
-| ↳ | **[Volunteer Income Tax Assistance (VITA) Intern](https://jobright.ai/jobs/info/691e0c993f782d2f1afb0311?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Volunteer Income Tax Assistance (VITA) Intern](https://jobright.ai/jobs/info/691e0c993f782d2f1afb0311?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
+| ↳ | **[Anti-Trafficking Program Intern](https://jobright.ai/jobs/info/691dfdd83f782d2f1afaf6f0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
+| ↳ | **[Immigration Program Intern](https://jobright.ai/jobs/info/691e17973f782d2f1afb0f7a?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69017bfad5259a1b3cff5487?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Nov 19 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/691e0441a49a885af9a23bae?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 19 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Nov 19 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Conseiller principal ou conseillère principale, Développement de la pratique, Investigation Menace interne, Sécurité de l’information-FR](https://jobright.ai/jobs/info/691d089122a2cb4b9bd2010e?utm_campaign=1056&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Political](https://jobright.ai/jobs/info/691cda90bcdbf3560c9ea73a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Immigration: Hemispheric Migration](https://jobright.ai/jobs/info/691cd915ff7024498416b0e6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Philanthropy: Social Innovation](https://jobright.ai/jobs/info/691cd1c9ff7024498416ab32?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Policy and Government Affairs: Sustainable Agriculture Policy](https://jobright.ai/jobs/info/691cd063ff7024498416aa03?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Chicago CRED: Policy](https://jobright.ai/jobs/info/691cd04f22a2cb4b9bd1d797?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | ↳ | **[Summer Intern, E Pluribus Unum: Policy & Government Relations](https://jobright.ai/jobs/info/691cced922a2cb4b9bd1d6c2?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 18 |
@@ -134,8 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691ce7b4ff7024498416b9cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Policy and Government Affairs: Education Policy](https://jobright.ai/jobs/info/691d08dd22a2cb4b9bd2014f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Innovation & Impact](https://jobright.ai/jobs/info/691ce34ebcdbf3560c9eadc7?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691cd83bff7024498416aff1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Immigration: State Inclusion and Integration](https://jobright.ai/jobs/info/691cfa4f22a2cb4b9bd1f756?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
+| ↳ | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691cd83bff7024498416aff1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
+| ↳ | **[Summer Intern, Philanthropy: Social Innovation](https://jobright.ai/jobs/info/691cd92a22a2cb4b9bd1de6d?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Policy and Government Affairs: Education Policy](https://jobright.ai/jobs/info/691ce81b22a2cb4b9bd1e897?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Sycamore & Oak: Community Engagement](https://jobright.ai/jobs/info/691cea2722a2cb4b9bd1eaa2?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Political](https://jobright.ai/jobs/info/691cecfd22a2cb4b9bd1ed2e?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) South Region](https://jobright.ai/jobs/info/691c078a22a2cb4b9bd18a5d?utm_campaign=1056&utm_source=git)** | Circleville, OH | On Site | Nov 17 |
 | **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Intake Social Service Specialist 3 (SSS3) - Spokane Valley](https://jobright.ai/jobs/info/691d5d4dbcdbf3560c9f0495?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | On Site | Nov 17 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legslative Affairs Intern (Volunteer)](https://jobright.ai/jobs/info/691bfdbc22a2cb4b9bd1848b?utm_campaign=1056&utm_source=git)** | Brighton, MI | On Site | Nov 17 |
-| **[State of Arkansas](https://portal.arkansas.gov/)** | **[PUBLIC SERVICE INTERN](https://jobright.ai/jobs/info/691be41322a2cb4b9bd172df?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
