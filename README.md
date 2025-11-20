@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts Life Sciences Center](http://www.masslifesciences.com)** | **[Part Time Internship - Economic Development & Partnerships](https://jobright.ai/jobs/info/691f89413f782d2f1afbd780?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Nov 20 |
+| **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 20 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Administration Intern - Summer 2026](https://jobright.ai/jobs/info/691f876ea49a885af9a31446?utm_campaign=1056&utm_source=git)** | West Des Moines, IA | On Site | Nov 20 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/691f7fce3f782d2f1afbd03a?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Young Invincibles - Midwest Winter/Spring Intern](https://jobright.ai/jobs/info/691f69c609cc522e87740d61?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/691f5cd609cc522e87740173?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 20 |
+| **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f7b90a49a885af9a309f1?utm_campaign=1056&utm_source=git)** | Alachua, FL | On Site | Nov 20 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR](https://jobright.ai/jobs/info/691f5b52a49a885af9a2ea71?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
 | **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f52ef09cc522e8773f94d?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
+| **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b9e1cbcdbf3560c9e0c8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691f63fc3f782d2f1afbb4df?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 20 |
 | **[Hannah News Service - Midwest, LLC](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/691f5dfe3f782d2f1afbafcb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
 | **[Organon](https://www.organon.com)** | **[Global Medical Affairs Strategy Intern](https://jobright.ai/jobs/info/691f404809cc522e8773eab4?utm_campaign=1056&utm_source=git)** | USA - Pennsylvania - Plymouth Meeting | Hybrid | Nov 20 |
+| **[Family Online Safety Institute](https://www.fosi.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/691f82e609cc522e8774253c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/691f5dbba49a885af9a2ec58?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | ↳ | **[Government Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/691f6bf1a49a885af9a2fa91?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Nov 20 |
 | **[Organon](https://www.organon.com)** | **[Global Medical Affairs Strategy Intern](https://jobright.ai/jobs/info/691f3e89a49a885af9a2d4ab?utm_campaign=1056&utm_source=git)** | USA - New Jersey - Jersey City | Hybrid | Nov 20 |
@@ -106,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[IARCA - Indiana Association of Resources and Child Advocacy](www.iarca.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/691f343ea49a885af9a2cfa3?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 19 |
 | **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Public Policy - Spring 2026](https://jobright.ai/jobs/info/691e48e909cc522e877388b4?utm_campaign=1056&utm_source=git)** | Devens, MA | On Site | Nov 19 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[OSM - Intern](https://jobright.ai/jobs/info/691e201d3f782d2f1afb151c?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Nov 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Government Affairs Internships – Summer 2026](https://jobright.ai/jobs/info/691e39d409cc522e87737d45?utm_campaign=1056&utm_source=git)** | Universal City, CA | On Site | Nov 19 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Economic Growth Intern](https://jobright.ai/jobs/info/691e1afea49a885af9a25085?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 19 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/691e11fe09cc522e87735af9?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 19 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[U of I Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/691e092e09cc522e877351eb?utm_campaign=1056&utm_source=git)** | Urbana, IL | On Site | Nov 19 |
@@ -139,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Conseiller principal ou conseillère principale, Développement de la pratique, Investigation Menace interne, Sécurité de l’information-FR](https://jobright.ai/jobs/info/691d089122a2cb4b9bd2010e?utm_campaign=1056&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Political](https://jobright.ai/jobs/info/691cda90bcdbf3560c9ea73a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Immigration: Hemispheric Migration](https://jobright.ai/jobs/info/691cd915ff7024498416b0e6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
+| ↳ | **[Summer Intern, Philanthropy: Social Innovation](https://jobright.ai/jobs/info/691cd1c9ff7024498416ab32?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Policy and Government Affairs: Sustainable Agriculture Policy](https://jobright.ai/jobs/info/691cd063ff7024498416aa03?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Chicago CRED: Policy](https://jobright.ai/jobs/info/691cd04f22a2cb4b9bd1d797?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | ↳ | **[Summer Intern, E Pluribus Unum: Policy & Government Relations](https://jobright.ai/jobs/info/691cced922a2cb4b9bd1d6c2?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Chicago CRED: Policy](https://jobright.ai/jobs/info/691cebc622a2cb4b9bd1ec29?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Immigration: State Inclusion and Integration](https://jobright.ai/jobs/info/691cfafd22a2cb4b9bd1f820?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, E Pluribus Unum: Policy & Government Relations](https://jobright.ai/jobs/info/691ce58122a2cb4b9bd1e61c?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Innovation & Impact](https://jobright.ai/jobs/info/691ceda1bcdbf3560c9eb4d9?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Community Health Intern](https://jobright.ai/jobs/info/691cc8fa22a2cb4b9bd1d322?utm_campaign=1056&utm_source=git)** | Intermountain Health Primary Childrens Hospital | On Site | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691ce7b4ff7024498416b9cf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Policy and Government Affairs: Education Policy](https://jobright.ai/jobs/info/691d08dd22a2cb4b9bd2014f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Policy and Government Affairs: Climate and Energy](https://jobright.ai/jobs/info/691cd83bff7024498416aff1?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Philanthropy: Social Innovation](https://jobright.ai/jobs/info/691cd92a22a2cb4b9bd1de6d?utm_campaign=1056&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Immigration: State Inclusion and Integration](https://jobright.ai/jobs/info/691cfa4f22a2cb4b9bd1f756?utm_campaign=1056&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
