@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/69047b3363502c0aded7336f?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Nov 21 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Nov 21 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69205dc2a49a885af9a3960a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 21 |
+| **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Nov 21 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Nov 21 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/692003143f782d2f1afc2273?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 20 |
+| **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/692079f93f782d2f1afc7b1f?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Nov 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692013e8a49a885af9a3689d?utm_campaign=1056&utm_source=git)** | Hybrid - Washington DC | On Site | Nov 20 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[Project Intern - National Outcomes Measure Scale (NOMS)](https://jobright.ai/jobs/info/691fe46809cc522e8774665c?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Nov 20 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/691fc16da49a885af9a33c21?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Nov 20 |
@@ -84,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/691f97323f782d2f1afbe5e1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f7b90a49a885af9a309f1?utm_campaign=1056&utm_source=git)** | Alachua, FL | On Site | Nov 20 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR](https://jobright.ai/jobs/info/691f5b52a49a885af9a2ea71?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
-| **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f5411a49a885af9a2e4e9?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
+| **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f52ef09cc522e8773f94d?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b9e1cbcdbf3560c9e0c8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691f63fc3f782d2f1afbb4df?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 20 |
 | **[Hannah News Service](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/691f5dfe3f782d2f1afbafcb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
@@ -137,9 +141,8 @@ For a complete list, click the following sortable link below:
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Grants Resiliency and Master Planning Intern – Spring 2026](https://jobright.ai/jobs/info/691df10c3f782d2f1afaedfa?utm_campaign=1056&utm_source=git)** | Tampa, FL | Hybrid | Nov 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Nov 19 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Community Banking](https://jobright.ai/jobs/info/690d87d044146d3b6ec4d8c0?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking Program Intern](https://jobright.ai/jobs/info/691dfdd83f782d2f1afaf6f0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
-| ↳ | **[Volunteer Income Tax Assistance (VITA) Intern](https://jobright.ai/jobs/info/691e0c993f782d2f1afb0311?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
-| ↳ | **[Immigration Program Intern](https://jobright.ai/jobs/info/691e17973f782d2f1afb0f7a?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Volunteer Income Tax Assistance (VITA) Intern](https://jobright.ai/jobs/info/691e0c993f782d2f1afb0311?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
+| ↳ | **[Anti-Trafficking Program Intern](https://jobright.ai/jobs/info/691dfdd83f782d2f1afaf6f0?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69017bfad5259a1b3cff5487?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Nov 19 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Water and Water Infrastructure Intern – Summer 2026](https://jobright.ai/jobs/info/691e0441a49a885af9a23bae?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 19 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Nov 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner- Driehaus (4621-02)](https://jobright.ai/jobs/info/691e500c3f782d2f1afb3af5?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Nov 18 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d0cc722a2cb4b9bd203c2?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Nov 18 |
 | ↳ | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d04bdbcdbf3560c9ec66d?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Sycamore & Oak: Community Engagement](https://jobright.ai/jobs/info/691ce0c522a2cb4b9bd1e28c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Political](https://jobright.ai/jobs/info/691ce2cbbcdbf3560c9ead71?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
-| **[Desjardins](https://www.desjardins.com)** | **[Conseiller principal ou conseillère principale, Développement de la pratique, Investigation Menace interne, Sécurité de l’information-FR](https://jobright.ai/jobs/info/691cf492bcdbf3560c9ebafc?utm_campaign=1056&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
