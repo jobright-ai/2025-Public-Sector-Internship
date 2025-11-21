@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Nov 21 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/692003143f782d2f1afc2273?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692013e8a49a885af9a3689d?utm_campaign=1056&utm_source=git)** | Hybrid - Washington DC | On Site | Nov 20 |
-| **[Massachusetts Life Sciences Center](http://www.masslifesciences.com)** | **[Part Time Internship - Economic Development & Partnerships](https://jobright.ai/jobs/info/691ffa373f782d2f1afc1e1b?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Nov 20 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[Project Intern - National Outcomes Measure Scale (NOMS)](https://jobright.ai/jobs/info/691fe46809cc522e8774665c?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Nov 20 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/691fc16da49a885af9a33c21?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Nov 20 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Summer 2026 Intern - Farm Worker Rights Division](https://jobright.ai/jobs/info/691fc04209cc522e8774509d?utm_campaign=1056&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 20 |
@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f91ce3f782d2f1afbe048?utm_campaign=1056&utm_source=git)** | US-NY-New York | On Site | Nov 20 |
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f91a109cc522e8774315c?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Nov 20 |
 | **[Lake Worth Beach](https://lakeworthbeachfl.gov)** | **[INTERN-PLAN ZONE PRESERVATION](https://jobright.ai/jobs/info/691f8ebca49a885af9a31b5d?utm_campaign=1056&utm_source=git)** | City of Lake Worth Beach Florida, Lake Worth, FL, US | On Site | Nov 20 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/691fb08ba49a885af9a33315?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
-| ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/691fb0a2a49a885af9a33326?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/691fb0a2a49a885af9a33326?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
+| ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/691fb08ba49a885af9a33315?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Administration Intern - Summer 2026](https://jobright.ai/jobs/info/691f876ea49a885af9a31446?utm_campaign=1056&utm_source=git)** | West Des Moines, IA | On Site | Nov 20 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/691f7fce3f782d2f1afbd03a?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
