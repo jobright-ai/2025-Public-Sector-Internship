@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy, Government Affairs](https://jobright.ai/jobs/info/692127ef00c9ee50eaecc4b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 21 |
+| **[CapMetro](https://capmetro.org)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/6921210000c9ee50eaecbf05?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 21 |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/69211d3a3f782d2f1afcf4bb?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 21 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/6921137000c9ee50eaecb853?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
 | ↳ | **[Editorial Internship, Public Affairs Department](https://jobright.ai/jobs/info/69211274a49a885af9a42a3f?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/6921120100c9ee50eaecb6d4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Nov 21 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Nov 21 |
-| **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/692112ad3f782d2f1afcee8e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Nov 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692013e8a49a885af9a3689d?utm_campaign=1056&utm_source=git)** | Hybrid - Washington DC | On Site | Nov 20 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[Project Intern - National Outcomes Measure Scale (NOMS)](https://jobright.ai/jobs/info/691fe46809cc522e8774665c?utm_campaign=1056&utm_source=git)** | Portland, OR | On Site | Nov 20 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Public Affairs & Communications](https://jobright.ai/jobs/info/691fc16da49a885af9a33c21?utm_campaign=1056&utm_source=git)** | The Woodlands, TX | On Site | Nov 20 |
@@ -130,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/691f97323f782d2f1afbe5e1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f7b90a49a885af9a309f1?utm_campaign=1056&utm_source=git)** | Alachua, FL | On Site | Nov 20 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR](https://jobright.ai/jobs/info/691f5b52a49a885af9a2ea71?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
-| **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f52ef09cc522e8773f94d?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
+| **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f5411a49a885af9a2e4e9?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b9e1cbcdbf3560c9e0c8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691f63fc3f782d2f1afbb4df?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 20 |
 | **[Hannah News Service](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/691f5dfe3f782d2f1afbafcb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern (Planning & Development) - (Non-Civil Service)](https://jobright.ai/jobs/info/691e60eca49a885af9a281ba?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Administrative and Editorial Support- Municipal Intern III](https://jobright.ai/jobs/info/691e7c123f782d2f1afb529b?utm_campaign=1056&utm_source=git)** | Norfolk, VA | On Site | Nov 19 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Community Crisis Responder Intern - CARE](https://jobright.ai/jobs/info/68f0a6aceb273a32d976ab6c?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Nov 19 |
-| **[Sierra Club](http://sierraclub.org)** | **[Outdoors Alliance for Kids Intern](https://jobright.ai/jobs/info/691e58d2a49a885af9a27e5b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 19 |
-| **[State of Arizona](https://az.gov/)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/691e582709cc522e8773932c?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
