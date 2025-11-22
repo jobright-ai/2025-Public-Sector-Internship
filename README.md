@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69219fc83f782d2f1afd331f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
+| **[City of New York](http://www1.nyc.gov)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921b3faa49a885af9a472be?utm_campaign=1056&utm_source=git)** | Long Island City, NY | On Site | Nov 22 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6905260a63502c0aded78b85?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6921a4cea49a885af9a47059?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
+| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69219fc83f782d2f1afd331f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6921b266a49a885af9a47249?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
 Job ID : 250033](https://jobright.ai/jobs/info/69218e38a49a885af9a46ab5?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
-| ↳ | **[Political Affairs Intern
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6921aa5ca49a885af9a470ed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
 Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
 | ↳ | **[Environmental Affairs Intern
 Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
@@ -71,8 +77,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy, Government Affairs](https://jobright.ai/jobs/info/692127ef00c9ee50eaecc4b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 21 |
 | **[CapMetro](https://capmetro.org)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/6921210000c9ee50eaecbf05?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 21 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/69211d3a3f782d2f1afcf4bb?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 21 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/6921137000c9ee50eaecb853?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
-| ↳ | **[Editorial Internship, Public Affairs Department](https://jobright.ai/jobs/info/69211274a49a885af9a42a3f?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
+| **[Hudson Institute](http://www.hudson.org/)** | **[Editorial Internship, Public Affairs Department](https://jobright.ai/jobs/info/69211274a49a885af9a42a3f?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/6921120100c9ee50eaecb6d4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
 | ↳ | **[Spring 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/692111253f782d2f1afcedad?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | On Site | Nov 21 |
 | ↳ | **[Spring 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6921102ca49a885af9a427a9?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
@@ -136,9 +141,8 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/691f7fce3f782d2f1afbd03a?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
 | **[Sierra Club](http://sierraclub.org)** | **[Outdoors Alliance for Kids Intern](https://jobright.ai/jobs/info/691fa424a49a885af9a32cc3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 20 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Young Invincibles - Midwest Winter/Spring Intern](https://jobright.ai/jobs/info/691f69c609cc522e87740d61?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/691f97323f782d2f1afbe5e1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR](https://jobright.ai/jobs/info/691f5b52a49a885af9a2ea71?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
-| **[Evergen](http://www.evergenbio.com)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f5411a49a885af9a2e4e9?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
+| **[Evergen](https://www.evergenbio.com/)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f52ef09cc522e8773f94d?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b9e1cbcdbf3560c9e0c8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691f63fc3f782d2f1afbb4df?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 20 |
 | **[Hannah News Service](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/691f5dfe3f782d2f1afbafcb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
@@ -156,8 +160,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 20 |
 | **[Hays County](http://hayscountytx.com)** | **[Elections Intern](https://jobright.ai/jobs/info/692139e93f782d2f1afd06c8?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Nov 19 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691e7dba09cc522e8773a5e1?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
-| **[Anew Climate](https://anewclimate.com/)** | **[Policy Intern](https://jobright.ai/jobs/info/691e711b3f782d2f1afb48e2?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 19 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
-| **[Organon](https://www.organon.com)** | **[Global Medical Affairs Strategy Intern](https://jobright.ai/jobs/info/691f94c5a49a885af9a3218a?utm_campaign=1056&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 19 |
-| **[City of Dallas](http://dallascityhall.com)** | **[Intern (Planning & Development) - (Non-Civil Service)](https://jobright.ai/jobs/info/691e60eca49a885af9a281ba?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
