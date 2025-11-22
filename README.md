@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Nov 22 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921c892a49a885af9a47939?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Nov 22 |
+| **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 22 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921b3faa49a885af9a472be?utm_campaign=1056&utm_source=git)** | Long Island City, NY | On Site | Nov 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Public Sector Advisory Intern](https://jobright.ai/jobs/info/6905260a63502c0aded78b85?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 22 |
@@ -121,6 +124,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Nov 21 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Nov 21 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - State Policies Intern - Marijuana Policy Project Foundation](https://jobright.ai/jobs/info/68f674b79a65fd3458593692?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Nov 21 |
 | **[Verizon](https://www.verizon.com)** | **[FCBA Public Policy Summer 2026 Internship](https://jobright.ai/jobs/info/692163743f782d2f1afd1cbe?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Hybrid | Nov 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692013e8a49a885af9a3689d?utm_campaign=1056&utm_source=git)** | Hybrid - Washington DC | On Site | Nov 20 |
 | **[Fulton County](http://www.fultoncountyga.gov)** | **[INTERN - CLERK OF SUPERIOR AND MAGISTRATE COURTS](https://jobright.ai/jobs/info/6921305d00c9ee50eaecc9c2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
@@ -156,8 +160,4 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/691f61883f782d2f1afbb334?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Nov 20 |
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/691f48e309cc522e8773f0e0?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Nov 20 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Appropriations Intern](https://jobright.ai/jobs/info/691f4e0409cc522e8773f53c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Sustainability and Environmental, Social, and Governance](https://jobright.ai/jobs/info/69074abfff462851fe008198?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 20 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 20 |
-| **[Hays County](http://hayscountytx.com)** | **[Elections Intern](https://jobright.ai/jobs/info/692139e93f782d2f1afd06c8?utm_campaign=1056&utm_source=git)** | San Marcos, TX | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Sustainability Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691e7dba09cc522e8773a5e1?utm_campaign=1056&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
