@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 23 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/69232ab97795cd460c83823f?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Nov 23 |
+| **[The Hub Project](https://thehubproject.org/)** | **[Economic Education Project Intern](https://jobright.ai/jobs/info/69232648c0cefa13343da429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 23 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68c789197d0db4114273d2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 23 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ac211764c3d7411c2f64e?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 23 |
+| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 23 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 23 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6922fd0a7795cd460c837d78?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/692300b138cd5478a8d55d66?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Business Graduate  Intern](https://jobright.ai/jobs/info/692200ccd1ec2c3565c466e9?utm_campaign=1056&utm_source=git)** | Texas, United States | On Site | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 22 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Nov 22 |
@@ -112,7 +115,7 @@ Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_camp
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920ef6100c9ee50eaec9857?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Nov 21 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e920a49a885af9a408a7?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 21 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e8c9a49a885af9a4086d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Nov 21 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6920c1b93f782d2f1afcb14b?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Nov 21 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6920c1a100c9ee50eaec796a?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/6920bd3200c9ee50eaec763a?utm_campaign=1056&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6920f9cc3f782d2f1afcdbe9?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | **[City of Jurupa Valley](https://www.jurupavalley.org/)** | **[ADMINISTRATIVE INTERN- COMMUNITY DEVELOPMENT](https://jobright.ai/jobs/info/6920ffde00c9ee50eaecaad1?utm_campaign=1056&utm_source=git)** | Jurupa Valley, CA | On Site | Nov 21 |
@@ -155,7 +158,4 @@ Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_camp
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Young Invincibles - Midwest Winter/Spring Intern](https://jobright.ai/jobs/info/691f69c609cc522e87740d61?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR](https://jobright.ai/jobs/info/691f5b52a49a885af9a2ea71?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
 | **[Evergen](https://www.evergenbio.com/)** | **[DE&I Intern](https://jobright.ai/jobs/info/691f5411a49a885af9a2e4e9?utm_campaign=1056&utm_source=git)** | Alachua, FL, US | On Site | Nov 20 |
-| **[UN Women](http://www.unwomen.org/en)** | **[UN Women, Security and Safety Communications Intern, New York](https://jobright.ai/jobs/info/691b9e1cbcdbf3560c9e0c8c?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 20 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/691f63fc3f782d2f1afbb4df?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 20 |
-| **[Hannah News Service](https://www.htsch.com/)** | **[Legislative Internship - Spring 2026](https://jobright.ai/jobs/info/691f5dfe3f782d2f1afbafcb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
