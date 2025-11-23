@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69223ff83f782d2f1afd4dad?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Policy and Program Support Intern](https://jobright.ai/jobs/info/692200ccd1ec2c3565c466e9?utm_campaign=1056&utm_source=git)** | Texas, United States | Remote | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
@@ -70,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6921a4cea49a885af9a47059?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69219fc83f782d2f1afd331f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 22 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - Policy Analysis, Strategic Planning, Innovation & Analytics (Information Management)
-Job ID : 250033](https://jobright.ai/jobs/info/69218e38a49a885af9a46ab5?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6921b266a49a885af9a47249?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6921aa5ca49a885af9a470ed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
 Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
@@ -91,6 +89,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Nov 21 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
+| **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/68f17d4ce6870116b1f59cde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219c77d1ec2c3565c454aa?utm_campaign=1056&utm_source=git)** | NY | On Site | Nov 21 |
 | ↳ | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219b7aa49a885af9a46eca?utm_campaign=1056&utm_source=git)** | White Plains | On Site | Nov 21 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/692207e4d1ec2c3565c467c3?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
@@ -110,7 +109,7 @@ Job ID : 265542](https://jobright.ai/jobs/info/6921928e3f782d2f1afd2fa3?utm_camp
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920ef6100c9ee50eaec9857?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Nov 21 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e920a49a885af9a408a7?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 21 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e8c9a49a885af9a4086d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Nov 21 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6920c1a100c9ee50eaec796a?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Nov 21 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Communications/Government Relations Intern](https://jobright.ai/jobs/info/6920c1b93f782d2f1afcb14b?utm_campaign=1056&utm_source=git)** | Georgia - Fulton | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/6920bd3200c9ee50eaec763a?utm_campaign=1056&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - UNPAID](https://jobright.ai/jobs/info/6920f9cc3f782d2f1afcdbe9?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Nov 21 |
 | **[City of Jurupa Valley](https://www.jurupavalley.org/)** | **[ADMINISTRATIVE INTERN- COMMUNITY DEVELOPMENT](https://jobright.ai/jobs/info/6920ffde00c9ee50eaecaad1?utm_campaign=1056&utm_source=git)** | Jurupa Valley, CA | On Site | Nov 21 |
