@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veriten](https://veriten.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69249887ec574f4265bb4c9d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 24 |
+| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/692495feec574f4265bb4b6c?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
+| **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs and Social Impact Internship](https://jobright.ai/jobs/info/692492b1ec574f4265bb495b?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924920cc0cefa13343df9b0?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 24 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69247c7eec574f4265bb3fbc?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 24 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 24 |
 | **[Larta Institute](http://www.larta.org)** | **[Intern, Community Programs](https://jobright.ai/jobs/info/692403cac0cefa13343dcab6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 23 |
@@ -88,8 +93,6 @@ Job ID : 250033](https://jobright.ai/jobs/info/6923eec9c0cefa13343dc447?utm_camp
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 22 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6921b266a49a885af9a47249?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6921aa5ca49a885af9a470ed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
-Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/6922c91138cd5478a8d5524c?utm_campaign=1056&utm_source=git)** | White Plains, NY | On Site | Nov 21 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Belonging & Equity Intern (Community & Societal Impact)](https://jobright.ai/jobs/info/69218861a49a885af9a468e7?utm_campaign=1056&utm_source=git)** | Nutley, NJ | Hybrid | Nov 21 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Quaker Engagement Intern](https://jobright.ai/jobs/info/69213d0c00c9ee50eaecd11f?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 21 |
@@ -106,8 +109,8 @@ Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_camp
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 | **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/68f17d4ce6870116b1f59cde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219b7aa49a885af9a46eca?utm_campaign=1056&utm_source=git)** | White Plains | On Site | Nov 21 |
-| ↳ | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219c77d1ec2c3565c454aa?utm_campaign=1056&utm_source=git)** | NY | On Site | Nov 21 |
+| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219c77d1ec2c3565c454aa?utm_campaign=1056&utm_source=git)** | NY | On Site | Nov 21 |
+| ↳ | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219b7aa49a885af9a46eca?utm_campaign=1056&utm_source=git)** | White Plains | On Site | Nov 21 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/692207e4d1ec2c3565c467c3?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
 | **[San Francisco Municipal Transportation Agency (SFMTA)](http://sfmta.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/6920fded3f782d2f1afce15c?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6920fab53f782d2f1afcdd38?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Nov 21 |
@@ -156,8 +159,4 @@ Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_camp
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Climate Center](https://jobright.ai/jobs/info/691fa3383f782d2f1afbedc3?utm_campaign=1056&utm_source=git)** | Reston, VA | Remote | Nov 20 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[Project Intern - National Outcomes Measure Scale (NOMS)](https://jobright.ai/jobs/info/691fa168a49a885af9a32aae?utm_campaign=1056&utm_source=git)** | US - OR - Portland | On Site | Nov 20 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Climate Center](https://jobright.ai/jobs/info/691f9d513f782d2f1afbe94e?utm_campaign=1056&utm_source=git)** | Reston, VA | Remote | Nov 20 |
-| **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f970609cc522e877436f4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f91a109cc522e8774315c?utm_campaign=1056&utm_source=git)** | US-DC-Washington | On Site | Nov 20 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 – 5381 Planning Intern (Level 2)](https://jobright.ai/jobs/info/691fb08ba49a885af9a33315?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
-| ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 – 5380 Planning Intern (Level 1)](https://jobright.ai/jobs/info/691fb0a2a49a885af9a33326?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
