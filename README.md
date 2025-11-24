@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 - 5381 Planning In](https://jobright.ai/jobs/info/6923d3fe7795cd460c8398d1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
+| ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 - 5380 Planning In](https://jobright.ai/jobs/info/6923d3027795cd460c839897?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 23 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Public Sector Strategy Intern](https://jobright.ai/jobs/info/69232ab97795cd460c83823f?utm_campaign=1056&utm_source=git)** | Illinois, United States | Remote | Nov 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Economic Education Project Intern](https://jobright.ai/jobs/info/69232648c0cefa13343da429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 23 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 23 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6922fd0a7795cd460c837d78?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/692300b138cd5478a8d55d66?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69223ff83f782d2f1afd4dad?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 22 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/6921a4cea49a885af9a47059?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69219fc83f782d2f1afd331f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 22 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6921b266a49a885af9a47249?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6921aa5ca49a885af9a470ed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Political Affairs Intern
 Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 22 |
@@ -156,6 +158,4 @@ Job ID : 265934](https://jobright.ai/jobs/info/692186eea49a885af9a4687b?utm_camp
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Administration Intern - Summer 2026](https://jobright.ai/jobs/info/691f876ea49a885af9a31446?utm_campaign=1056&utm_source=git)** | West Des Moines, IA | On Site | Nov 20 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[LEGISLATIVE INTERN](https://jobright.ai/jobs/info/691f7fce3f782d2f1afbd03a?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
 | **[Sierra Club](http://sierraclub.org)** | **[Outdoors Alliance for Kids Intern](https://jobright.ai/jobs/info/691fa424a49a885af9a32cc3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 20 |
-| **[Young Invincibles](https://www.younginvincibles.org)** | **[Young Invincibles - Midwest Winter/Spring Intern](https://jobright.ai/jobs/info/691f69c609cc522e87740d61?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 20 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR](https://jobright.ai/jobs/info/691f5b52a49a885af9a2ea71?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
