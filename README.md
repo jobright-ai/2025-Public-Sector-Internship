@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 25 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69255267d47de4798eccf47a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69255221f0beb0723261ce0f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 | **[EPCOR](http://www.epcor.com)** | **[Intern, Goverement Relations](https://jobright.ai/jobs/info/6925347327bf2f41a2c3d2f5?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Illinois Senate Republican Caucus](https://ilsenategop.org/)** | **[Senate District Office Internship](https://jobright.ai/jobs/info/6920e8e700c9ee50eaec9437?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Nov 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6920e6ee3f782d2f1afcca78?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Belonging & Equity Intern (Community & Societal Impact)](https://jobright.ai/jobs/info/6920e33d00c9ee50eaec9238?utm_campaign=1056&utm_source=git)** | Nutley, NJ | Hybrid | Nov 21 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Spring 2026 Strategy & Policy State Team Extern](https://jobright.ai/jobs/info/692033d73f782d2f1afc3803?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
