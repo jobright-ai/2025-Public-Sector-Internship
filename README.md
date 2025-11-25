@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/689a284783d13d1f5b696733?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Nov 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 25 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69255267d47de4798eccf47a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69255221f0beb0723261ce0f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 22 |
-| **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Nov 22 |
+| **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Nov 22 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921c892a49a885af9a47939?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Nov 22 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 22 |
 | **[City of New York](http://www1.nyc.gov)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921b3faa49a885af9a472be?utm_campaign=1056&utm_source=git)** | Long Island City, NY | On Site | Nov 22 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 | **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/68f17d4ce6870116b1f59cde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219b7aa49a885af9a46eca?utm_campaign=1056&utm_source=git)** | White Plains | On Site | Nov 21 |
-| ↳ | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219c77d1ec2c3565c454aa?utm_campaign=1056&utm_source=git)** | NY | On Site | Nov 21 |
+| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219c77d1ec2c3565c454aa?utm_campaign=1056&utm_source=git)** | NY | On Site | Nov 21 |
+| ↳ | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219b7aa49a885af9a46eca?utm_campaign=1056&utm_source=git)** | White Plains | On Site | Nov 21 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations](https://jobright.ai/jobs/info/692207e4d1ec2c3565c467c3?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
 | **[San Francisco Municipal Transportation Agency (SFMTA)](http://sfmta.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/6920fded3f782d2f1afce15c?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6920fab53f782d2f1afcdd38?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | Hybrid | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6920f3c1a49a885af9a41184?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Illinois Senate Republican Caucus](https://ilsenategop.org/)** | **[Senate District Office Internship](https://jobright.ai/jobs/info/6920e8e700c9ee50eaec9437?utm_campaign=1056&utm_source=git)** | Springfield, IL | On Site | Nov 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6920e6ee3f782d2f1afcca78?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Nov 21 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Belonging & Equity Intern (Community & Societal Impact)](https://jobright.ai/jobs/info/6920e33d00c9ee50eaec9238?utm_campaign=1056&utm_source=git)** | Nutley, NJ | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
