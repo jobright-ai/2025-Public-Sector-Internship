@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/692621b5d47de4798ecd4c50?utm_campaign=1056&utm_source=git)** | Brookhaven, GA | On Site | Nov 25 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TDA - FIN - Intern - Grants Office (58826)](https://jobright.ai/jobs/info/69262175d47de4798ecd4c31?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Nov 25 |
+| **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Internship - Local Government](https://jobright.ai/jobs/info/69261c2dd47de4798ecd4a34?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
+| **[Unicef CHAD](http://www.unicef.org/chad)** | **[Internal & External VA: Adolescent Development Officer (TVET), NOB, Temporary Appointment, Beirut, Lebanon, PN# 134900](https://jobright.ai/jobs/info/6926071c27bf2f41a2c428e2?utm_campaign=1056&utm_source=git)** | Lebanon, PA | On Site | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Construction - Greenfield](https://jobright.ai/jobs/info/6925f99e27bf2f41a2c420f7?utm_campaign=1056&utm_source=git)** | Greenfield, IN | On Site | Nov 25 |
 | **[Midpeninsula Regional Open Space District](https://www.openspace.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6925f998d47de4798ecd3201?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Legal Services](https://jobright.ai/jobs/info/6925f645f0beb07232620b1f?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
@@ -91,7 +95,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governor's Summer Intern - INDOT - Contract Administration](https://jobright.ai/jobs/info/6924f905c0cefa13343e4f99?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
 | ↳ | **[Governor's Summer Intern - INDOT - Permits](https://jobright.ai/jobs/info/6924f73e38cd5478a8d60c34?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
 | ↳ | **[Governor's Summer Intern - INDOT - Aviation](https://jobright.ai/jobs/info/6924f6ff38cd5478a8d60bd1?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
-| ↳ | **[Governor's Summer Intern - INDOT - Hydraulics](https://jobright.ai/jobs/info/6924f4a638cd5478a8d608c9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Advocacy Intern - Summer 2026](https://jobright.ai/jobs/info/69261798d47de4798ecd470e?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Hydraulics](https://jobright.ai/jobs/info/6924f4a638cd5478a8d608c9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/69260ab9d47de4798ecd3de4?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Nov 24 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Internship (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/6924f3d2c0cefa13343e4a1e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 24 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6924f3a3ec574f4265bb9ab2?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 24 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/6924ecc9ec574f4265bb930f?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Nov 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/6921aa5ca49a885af9a470ed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/6922c91138cd5478a8d5524c?utm_campaign=1056&utm_source=git)** | White Plains, NY | On Site | Nov 21 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Belonging & Equity Intern (Community & Societal Impact)](https://jobright.ai/jobs/info/69218861a49a885af9a468e7?utm_campaign=1056&utm_source=git)** | Nutley, NJ | Hybrid | Nov 21 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Quaker Engagement Intern](https://jobright.ai/jobs/info/69213d0c00c9ee50eaecd11f?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Nov 21 |
-| **[Clean Water Action](https://www.cleanwateraction.org)** | **[Clean Water Advocate Full Time/Part Time/Intern](https://jobright.ai/jobs/info/69212fe400c9ee50eaecc988?utm_campaign=1056&utm_source=git)** | Northampton, MA | Hybrid | Nov 21 |
-| **[Issue One](https://www.issueone.org/)** | **[Policy Intern, Tech Reform](https://jobright.ai/jobs/info/69212ef800c9ee50eaecc918?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
-| **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy, Government Affairs](https://jobright.ai/jobs/info/692127ef00c9ee50eaecc4b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 21 |
-| **[CapMetro](https://capmetro.org)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/6921210000c9ee50eaecbf05?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
