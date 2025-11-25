@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| ↳ | **[Governor's Summer Intern - INDOT - Public Realtions](https://jobright.ai/jobs/info/6924f96338cd5478a8d60e6a?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Nov 24 |
+| ↳ | **[Governor's Summer Intern - INDOT - Contract Administration](https://jobright.ai/jobs/info/6924f905c0cefa13343e4f99?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| ↳ | **[Governor's Summer Intern - INDOT - Permits](https://jobright.ai/jobs/info/6924f73e38cd5478a8d60c34?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| ↳ | **[Governor's Summer Intern - INDOT - Aviation](https://jobright.ai/jobs/info/6924f6ff38cd5478a8d60bd1?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| ↳ | **[Governor's Summer Intern - INDOT - Hydraulics](https://jobright.ai/jobs/info/6924f4a638cd5478a8d608c9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Internship (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/6924f3d2c0cefa13343e4a1e?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 24 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6924f3a3ec574f4265bb9ab2?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 24 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/6924ecc9ec574f4265bb930f?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 24 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6924e80f38cd5478a8d5fb0e?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Nov 24 |
 | ↳ | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6924e08eec574f4265bb8251?utm_campaign=1056&utm_source=git)** | Arlington, VA (VA31) | Hybrid | Nov 24 |
 | ↳ | **[2026 Summer Intern, Agriculture Program (Kansas City, MO)](https://jobright.ai/jobs/info/6924de69ec574f4265bb7fa0?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Nov 24 |
@@ -124,7 +133,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/692111253f782d2f1afcedad?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | On Site | Nov 21 |
 | ↳ | **[Spring 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6921102ca49a885af9a427a9?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Nov 21 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 | **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/68f17d4ce6870116b1f59cde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69219c77d1ec2c3565c454aa?utm_campaign=1056&utm_source=git)** | NY | On Site | Nov 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Nov 21 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Public Affairs](https://jobright.ai/jobs/info/69209b3ba49a885af9a3d3e1?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Nov 21 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/6903a9d2ff462851fefed422?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Nov 21 |
-| **[Elevate Government Affairs](https://www.elevatega.com)** | **[Paid Legislative Intern](https://jobright.ai/jobs/info/6920b6e83f782d2f1afca95d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Adult Protective Services Program](https://jobright.ai/jobs/info/6903ac2dff462851fefed62f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 21 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/69047b3363502c0aded7336f?utm_campaign=1056&utm_source=git)** | Gainesville, FL | Hybrid | Nov 21 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Motorola Solutions Foundation - 2026 Summer Internship](https://jobright.ai/jobs/info/69041a2163502c0aded705e9?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 21 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Nov 21 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/6920a03b00c9ee50eaec62f7?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 21 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Summer 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb1188efdec76df36b8700?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Nov 21 |
-| **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
