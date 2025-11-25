@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Construction - Greenfield](https://jobright.ai/jobs/info/6925f99e27bf2f41a2c420f7?utm_campaign=1056&utm_source=git)** | Greenfield, IN | On Site | Nov 25 |
+| **[Midpeninsula Regional Open Space District](https://www.openspace.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6925f998d47de4798ecd3201?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 25 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Legal Services](https://jobright.ai/jobs/info/6925f645f0beb07232620b1f?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
+| ↳ | **[Governor's Summer Intern - DOR - Communications](https://jobright.ai/jobs/info/6925f628f0beb07232620b08?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
+| ↳ | **[Governor's Summer Intern - INDOT - Technical Services](https://jobright.ai/jobs/info/6925f5c727bf2f41a2c41e93?utm_campaign=1056&utm_source=git)** | Crawfordsville, IN | On Site | Nov 25 |
+| ↳ | **[Governor's Summer Intern - INDOT - Construction](https://jobright.ai/jobs/info/6925f4e627bf2f41a2c41dfe?utm_campaign=1056&utm_source=git)** | Crawfordsville, IN | On Site | Nov 25 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/6925ecc6d47de4798ecd2dd9?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Nov 25 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6925e053f0beb0723261ff9c?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Nov 25 |
 | **[Patients For Affordable Drugs](http://www.patientsforaffordabledrugs.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6925d5c2d47de4798ecd1fe1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 25 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[GOMA Publications Systems and Operations Intern](https://jobright.ai/jobs/info/690d51c2221b890c27805cca?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
+| **[Plains All American](https://www.plains.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69184ec445fb6f5ead8a470c?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Nov 25 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692166d33f782d2f1afd1d3f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Scientific Engagement & Congresses/Global Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/6922887fc0cefa13343d82d3?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Issue One](https://www.issueone.org/)** | **[Policy Intern, Tech Reform](https://jobright.ai/jobs/info/69212ef800c9ee50eaecc918?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Public Policy, Government Affairs](https://jobright.ai/jobs/info/692127ef00c9ee50eaecc4b1?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 21 |
 | **[CapMetro](https://capmetro.org)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/6921210000c9ee50eaecbf05?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 21 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/69211d3a3f782d2f1afcf4bb?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Nov 21 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Editorial Internship, Public Affairs Department](https://jobright.ai/jobs/info/69211274a49a885af9a42a3f?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/6921120100c9ee50eaecb6d4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
-| ↳ | **[Spring 2026: Resettlement Administrative Intern (Unpaid)](https://jobright.ai/jobs/info/692111253f782d2f1afcedad?utm_campaign=1056&utm_source=git)** | San Diego, CA USA | On Site | Nov 21 |
-| ↳ | **[Spring 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6921102ca49a885af9a427a9?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Nov 21 |
-| **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
-| **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/68f17d4ce6870116b1f59cde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
