@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Nov 25 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/692656a7f0beb072326241c1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/69265444f0beb07232624017?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 23 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6922fd0a7795cd460c837d78?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/692300b138cd5478a8d55d66?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69223ff83f782d2f1afd4dad?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 22 |
