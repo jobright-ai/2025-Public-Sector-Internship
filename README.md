@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2026 – Open Space Planning & Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/6927737391ceeb2e8a53f5db?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
+| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Social Work Intern - Pueblo](https://jobright.ai/jobs/info/692762aa91ceeb2e8a53ea67?utm_campaign=1056&utm_source=git)** | Pueblo, Colorado, United States | On Site | Nov 26 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2026 – Open Space Planning & Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/69275b97d47de4798ecdbc4a?utm_campaign=1056&utm_source=git)** | 49 So. Van Ness Avenue, 12th Fl., San Francisco, CA, United States | Hybrid | Nov 26 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Social Work Intern - Colorado Springs](https://jobright.ai/jobs/info/69275450f0beb07232629147?utm_campaign=1056&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Nov 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/692750def0beb07232628e72?utm_campaign=1056&utm_source=git)** | Arlington, VA | Remote | Nov 26 |
 | **[YWCA Hartford Region](https://www.ywcahartford.org)** | **[Legislative Policy Intern](https://jobright.ai/jobs/info/692750c6d47de4798ecdb55c?utm_campaign=1056&utm_source=git)** | Hartford,CT,US | Hybrid | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hub Project](https://thehubproject.org/)** | **[Economic Education Project Intern](https://jobright.ai/jobs/info/69232648c0cefa13343da429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[PhD Intern, Policy Research & Analytics - Supervision & Regulation](https://jobright.ai/jobs/info/68c789197d0db4114273d2a7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 23 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ac211764c3d7411c2f64e?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Nov 23 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 23 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6922fd0a7795cd460c837d78?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
