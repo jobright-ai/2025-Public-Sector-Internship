@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Nov 25 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/692656a7f0beb072326241c1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/69265444f0beb07232624017?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - LaPorte](https://jobright.ai/jobs/info/6926513a27bf2f41a2c453c8?utm_campaign=1056&utm_source=git)** | La Porte, IN | Hybrid | Nov 25 |
@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 25 |
 | **[EPCOR](http://www.epcor.com)** | **[Intern, Goverement Relations](https://jobright.ai/jobs/info/6925347327bf2f41a2c3d2f5?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Nov 24 |
 | **[University of Houston](https://www.uh.edu)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/69252c4ed47de4798eccdcf1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 24 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69252917d47de4798eccda1a?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Nov 24 |
 | **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Provider Operations Services Summer 2026 Intern](https://jobright.ai/jobs/info/692525bf27bf2f41a2c3c74c?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Nov 24 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Nov 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Nov 22 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921c892a49a885af9a47939?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Nov 22 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 22 |
+| **[City of New York](http://www1.nyc.gov)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921b3faa49a885af9a472be?utm_campaign=1056&utm_source=git)** | Long Island City, NY | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
