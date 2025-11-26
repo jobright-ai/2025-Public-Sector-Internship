@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Social Work Intern - Colorado Springs](https://jobright.ai/jobs/info/69275450f0beb07232629147?utm_campaign=1056&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Nov 26 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/692750def0beb07232628e72?utm_campaign=1056&utm_source=git)** | Arlington, VA | Remote | Nov 26 |
+| **[YWCA Hartford Region](https://www.ywcahartford.org)** | **[Legislative Policy Intern](https://jobright.ai/jobs/info/692750c6d47de4798ecdb55c?utm_campaign=1056&utm_source=git)** | Hartford,CT,US | Hybrid | Nov 26 |
+| **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/690a9cfbbcccf20de59e4528?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Grants and Research Development Intern: Co-op Model](https://jobright.ai/jobs/info/68ed82bd81fdd1626d39d310?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Nov 26 |
 | **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/690a79d0d046ab6061cdd2d1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad6aeed63844c944a5a3b?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Nov 23 |
 | ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/687ad0aced63844c944a586c?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Nov 23 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6922fd0a7795cd460c837d78?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 23 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Fall 2025)](https://jobright.ai/jobs/info/692300b138cd5478a8d55d66?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69223ff83f782d2f1afd4dad?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
-| **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
