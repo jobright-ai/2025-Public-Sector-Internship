@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Grants and Research Development Intern: Co-op Model](https://jobright.ai/jobs/info/68ed82bd81fdd1626d39d310?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Nov 26 |
+| **[SKDK](http://skdknick.com)** | **[Spring 2026 Public Affairs Internship - DC](https://jobright.ai/jobs/info/690a79d0d046ab6061cdd2d1?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 26 |
+| **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a68e0bcccf20de59e1dbb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Nov 26 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Nov 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69223ff83f782d2f1afd4dad?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Nov 22 |
 | **[Mentor A Promise](https://mentorapromise.org/)** | **[Grants & Fundraising Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69223d5c3f782d2f1afd4d99?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 22 |
-| **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Nov 22 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6921c892a49a885af9a47939?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Nov 22 |
-| **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
