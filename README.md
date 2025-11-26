@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/692656a7f0beb072326241c1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/69265444f0beb07232624017?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - LaPorte](https://jobright.ai/jobs/info/6926513a27bf2f41a2c453c8?utm_campaign=1056&utm_source=git)** | La Porte, IN | Hybrid | Nov 25 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69264cddf0beb07232623d74?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Nov 25 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Government Relations Intern (Arlington, VA)](https://jobright.ai/jobs/info/692645fcf0beb072326239e5?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/692644a5d47de4798ecd603f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/6926357ed47de4798ecd58c7?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/692627ecf0beb07232622960?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 25 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 25 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 25 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/69255267d47de4798eccf47a?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
-| ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69255221f0beb0723261ce0f?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 | **[EPCOR](http://www.epcor.com)** | **[Intern, Goverement Relations](https://jobright.ai/jobs/info/6925347327bf2f41a2c3d2f5?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Nov 24 |
 | **[University of Houston](https://www.uh.edu)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/69252c4ed47de4798eccdcf1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 24 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69252917d47de4798eccda1a?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Nov 24 |
@@ -142,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Larta Institute](http://www.larta.org)** | **[Intern, Community Programs](https://jobright.ai/jobs/info/692403cac0cefa13343dcab6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 23 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 - 5381 Planning In](https://jobright.ai/jobs/info/6923d3fe7795cd460c8398d1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 - 5380 Planning In](https://jobright.ai/jobs/info/6923d3027795cd460c839897?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
+| **[Edwards Aquifer Authority](http://www.edwardsaquifer.org/)** | **[Intern, Communications & Development](https://jobright.ai/jobs/info/69266ce2f0beb07232624bfb?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Nov 23 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 23 |
 | **[County of El Dorado](https://edcgov.us/)** | **[Student Intern- Undergraduate (Extra Help) Sheriff](https://jobright.ai/jobs/info/6924e92938cd5478a8d5fcdb?utm_campaign=1056&utm_source=git)** | Placerville, CA | On Site | Nov 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Economic Education Project Intern](https://jobright.ai/jobs/info/69232648c0cefa13343da429?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 23 |
