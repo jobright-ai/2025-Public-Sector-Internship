@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6927dc24f0beb0723262e916?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 26 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/6927c955f0beb0723262df46?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/6927a8bfd47de4798ecdf5b6?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YPIP WIOA Intern (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69249b9cec574f4265bb4ea1?utm_campaign=1056&utm_source=git)** | 1510 W Lafayette Ave | On Site | Nov 24 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/692495feec574f4265bb4b6c?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs and Social Impact Internship](https://jobright.ai/jobs/info/692492b1ec574f4265bb495b?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924920cc0cefa13343df9b0?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
