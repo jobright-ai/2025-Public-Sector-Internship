@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/6927c955f0beb0723262df46?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/6927a8bfd47de4798ecdf5b6?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - Seymour](https://jobright.ai/jobs/info/692799b9d47de4798ecdeeb0?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Nov 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/68f28c1276a51a4307bc4a41?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 26 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Nov 25 |
+| **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Administrative & Communications Intern - Falcon Heights](https://jobright.ai/jobs/info/6927c8cef0beb0723262df0e?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Nov 25 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/692656a7f0beb072326241c1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/69265444f0beb07232624017?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
@@ -140,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Agriculture Program (Kansas City, MO)](https://jobright.ai/jobs/info/6924c1e238cd5478a8d5d5df?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Nov 24 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26010 Policy and Government Affairs Spring 2026 Undergraduate Intern](https://jobright.ai/jobs/info/6910097c183be660d2676e71?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924eb8a38cd5478a8d5ffa7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
+| **[StrategyCorp Inc.](https://strategycorp.com)** | **[Winter Intern - Government Relations](https://jobright.ai/jobs/info/6927b444d47de4798ecdfbd8?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
 | **[DotHouse Health](http://www.dothousehealth.org/)** | **[Volunteer/ Intern](https://jobright.ai/jobs/info/6924b49238cd5478a8d5cc8c?utm_campaign=1056&utm_source=git)** | Dorchester,MA,US | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e920a49a885af9a408a7?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[JDN Social Work Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/6924e680ec574f4265bb8bc0?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Nov 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Spring 2026 Government Relations Intern](https://jobright.ai/jobs/info/692495feec574f4265bb4b6c?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs and Social Impact Internship](https://jobright.ai/jobs/info/692492b1ec574f4265bb495b?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924920cc0cefa13343df9b0?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 24 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69247c7eec574f4265bb3fbc?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 24 |
-| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 24 |
-| **[Larta Institute](http://www.larta.org)** | **[Intern, Community Programs](https://jobright.ai/jobs/info/692403cac0cefa13343dcab6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
