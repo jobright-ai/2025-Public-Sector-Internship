@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Nov 27 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Convention & Event Services [CES] Dept.-Tourism and Hospitality, Non-Civil Service)](https://jobright.ai/jobs/info/69284de1d47de4798ece2605?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[ESG Intern](https://jobright.ai/jobs/info/690be7744a1b456627b143e4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Nov 27 |
@@ -69,8 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/6927a8bfd47de4798ecdf5b6?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - Seymour](https://jobright.ai/jobs/info/692799b9d47de4798ecdeeb0?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Nov 26 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/68f28c1276a51a4307bc4a41?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 26 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Nov 26 |
+| ↳ | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Nov 26 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/69278a87d47de4798ecde3b1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | ↳ | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/69278708f0beb0723262ba9a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/692781abf0beb0723262b4c0?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
