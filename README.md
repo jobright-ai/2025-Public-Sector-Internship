@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/6927a8bfd47de4798ecdf5b6?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - Seymour](https://jobright.ai/jobs/info/692799b9d47de4798ecdeeb0?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Nov 26 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/68f28c1276a51a4307bc4a41?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 26 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Nov 26 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/69278a87d47de4798ecde3b1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | ↳ | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/69278708f0beb0723262ba9a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/692781abf0beb0723262b4c0?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
@@ -142,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e090a49a885af9a4038e?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e8c9a49a885af9a4086d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Volunteer Income Tax Assistance (VITA) Intern - UNPAID](https://jobright.ai/jobs/info/69255d22d47de4798eccf7e4?utm_campaign=1056&utm_source=git)** | Richmond, VA USA | Hybrid | Nov 24 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/68f28c1276a51a4307bc4a41?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Emerging Mobility Division](https://jobright.ai/jobs/info/6924a5d8ec574f4265bb55e9?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920ef6100c9ee50eaec9857?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Nov 24 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Government Affairs](https://jobright.ai/jobs/info/69249d6538cd5478a8d5bdbe?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Nov 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69247c7eec574f4265bb3fbc?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 24 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Nov 24 |
 | **[Larta Institute](http://www.larta.org)** | **[Intern, Community Programs](https://jobright.ai/jobs/info/692403cac0cefa13343dcab6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 23 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 - 5381 Planning In](https://jobright.ai/jobs/info/6923d3fe7795cd460c8398d1?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
-| ↳ | **[San Francisco Municipal Transportation Agency Student Intern Program, Summer 2026 - 5380 Planning In](https://jobright.ai/jobs/info/6923d3027795cd460c839897?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
-| **[Edwards Aquifer Authority](http://www.edwardsaquifer.org/)** | **[Intern, Communications & Development](https://jobright.ai/jobs/info/69266ce2f0beb07232624bfb?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
