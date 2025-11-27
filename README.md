@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6928bb42f0beb07232631326?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 27 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/69288bd0d47de4798ece326e?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692885f691ceeb2e8a545c1c?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2026 – Open Space Planning & Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/6927737391ceeb2e8a53f5db?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Social Work Intern - Pueblo](https://jobright.ai/jobs/info/692762aa91ceeb2e8a53ea67?utm_campaign=1056&utm_source=git)** | Pueblo, Colorado, United States | On Site | Nov 26 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2026 – Open Space Planning & Project Management - Recreation & Park Dept. (5380)](https://jobright.ai/jobs/info/69275b97d47de4798ecdbc4a?utm_campaign=1056&utm_source=git)** | 49 So. Van Ness Avenue, 12th Fl., San Francisco, CA, United States | Hybrid | Nov 26 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/69247c7eec574f4265bb3fbc?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Spring Social Work Intern - Colorado Springs](https://jobright.ai/jobs/info/69275450f0beb07232629147?utm_campaign=1056&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Nov 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/692750def0beb07232628e72?utm_campaign=1056&utm_source=git)** | Arlington, VA | Remote | Nov 26 |
 | **[YWCA Hartford Region](https://www.ywcahartford.org)** | **[Legislative Policy Intern](https://jobright.ai/jobs/info/692750c6d47de4798ecdb55c?utm_campaign=1056&utm_source=git)** | Hartford,CT,US | Hybrid | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924eb8a38cd5478a8d5ffa7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[StrategyCorp Inc.](https://strategycorp.com)** | **[Winter Intern - Government Relations](https://jobright.ai/jobs/info/6927b444d47de4798ecdfbd8?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
 | **[DotHouse Health](http://www.dothousehealth.org/)** | **[Volunteer/ Intern](https://jobright.ai/jobs/info/6924b49238cd5478a8d5cc8c?utm_campaign=1056&utm_source=git)** | Dorchester,MA,US | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e920a49a885af9a408a7?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[JDN Social Work Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/6924e680ec574f4265bb8bc0?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
