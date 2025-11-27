@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
+| ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692885f691ceeb2e8a545c1c?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
+| ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692884c3f0beb07232630a3b?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Nov 27 |
 | **[City of Dallas](http://dallascityhall.com)** | **[Intern I (Convention & Event Services [CES] Dept.-Tourism and Hospitality, Non-Civil Service)](https://jobright.ai/jobs/info/69284de1d47de4798ece2605?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[ESG Intern](https://jobright.ai/jobs/info/690be7744a1b456627b143e4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 27 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/692627ecf0beb07232622960?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/6926226bd47de4798ecd4cca?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TDA - FIN - Intern - Grants Office (58826)](https://jobright.ai/jobs/info/69262175d47de4798ecd4c31?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Nov 25 |
-| **[City of Rochester, MN](https://www.rochestermn.gov)** | **[Internship - Local Government](https://jobright.ai/jobs/info/69261c2dd47de4798ecd4a34?utm_campaign=1056&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 | **[Unicef CHAD](http://www.unicef.org/chad)** | **[Internal & External VA: Adolescent Development Officer (TVET), NOB, Temporary Appointment, Beirut, Lebanon, PN# 134900](https://jobright.ai/jobs/info/6926071c27bf2f41a2c428e2?utm_campaign=1056&utm_source=git)** | Lebanon, PA | On Site | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Construction - Greenfield](https://jobright.ai/jobs/info/6925f99e27bf2f41a2c420f7?utm_campaign=1056&utm_source=git)** | Greenfield, IN | On Site | Nov 25 |
 | **[Midpeninsula Regional Open Space District](https://www.openspace.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6925f998d47de4798ecd3201?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DotHouse Health](http://www.dothousehealth.org/)** | **[Volunteer/ Intern](https://jobright.ai/jobs/info/6924b49238cd5478a8d5cc8c?utm_campaign=1056&utm_source=git)** | Dorchester,MA,US | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e920a49a885af9a408a7?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[JDN Social Work Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/6924e680ec574f4265bb8bc0?utm_campaign=1056&utm_source=git)** | Shaker Heights, OH | On Site | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e090a49a885af9a4038e?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
-| ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/6920e8c9a49a885af9a4086d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
