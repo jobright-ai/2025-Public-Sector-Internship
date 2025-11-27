@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/69288bd0d47de4798ece326e?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692885f691ceeb2e8a545c1c?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692884c3f0beb07232630a3b?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/691987cb15b4156367185ffe?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Nov 27 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Economics Writing and Analysis Internship](https://jobright.ai/jobs/info/68b740531ade4306aa6492ee?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Nov 27 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Health Economics Outcomes Research Summer Intern](https://jobright.ai/jobs/info/690bb28e221b890c277f7135?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Nov 27 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6927dc24f0beb0723262e916?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 26 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/6927c955f0beb0723262df46?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/6927a8bfd47de4798ecdf5b6?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
