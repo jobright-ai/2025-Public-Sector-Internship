@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6929290291ceeb2e8a547121?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 27 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6928bb42f0beb07232631326?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692885f691ceeb2e8a545c1c?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6927dc24f0beb0723262e916?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 26 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2025 (9920)](https://jobright.ai/jobs/info/6927c955f0beb0723262df46?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
-| **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/6927a8bfd47de4798ecdf5b6?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - Seymour](https://jobright.ai/jobs/info/692799b9d47de4798ecdeeb0?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Nov 26 |
 | ↳ | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Nov 26 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/69278a87d47de4798ecde3b1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
