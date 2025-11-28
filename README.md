@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Nov 28 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/691d52947481340785ed690a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
+| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/691ac83915b415636718a8ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Nov 28 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/69298fb566796e3028f8ca91?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6929290291ceeb2e8a547121?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 27 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6928bb42f0beb07232631326?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/69294998d78b2b1b420d38dc?utm_campaign=1056&utm_source=git)** | West Jordan,UT,US | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Nov 26 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Congressional & Government Affairs (Spring 2026)](https://jobright.ai/jobs/info/69278a87d47de4798ecde3b1?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
-| ↳ | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/69278708f0beb0723262ba9a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/692781abf0beb0723262b4c0?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[U.S. Policy & Advocacy, Spring 2026 Undergraduate Intern](https://jobright.ai/jobs/info/6927798ef0beb0723262a92d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Legal Policy Intern - Pacific Legal Foundation](https://jobright.ai/jobs/info/6927784ed47de4798ecdcfb6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Physical Society](http://www.aps.org/)** | **[Public Affairs Intern - Communicating Scientific Impacts](https://jobright.ai/jobs/info/6924c50eec574f4265bb6c9a?utm_campaign=1056&utm_source=git)** | College Park, MD | Remote | Nov 24 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Agriculture Program (Kansas City, MO)](https://jobright.ai/jobs/info/6924c1e238cd5478a8d5d5df?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Nov 24 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26010 Policy and Government Affairs Spring 2026 Undergraduate Intern](https://jobright.ai/jobs/info/6910097c183be660d2676e71?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
-| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924eb8a38cd5478a8d5ffa7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
-| **[StrategyCorp Inc.](https://strategycorp.com)** | **[Winter Intern - Government Relations](https://jobright.ai/jobs/info/6927b444d47de4798ecdfbd8?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
-| **[DotHouse Health](http://www.dothousehealth.org/)** | **[Volunteer/ Intern](https://jobright.ai/jobs/info/6924b49238cd5478a8d5cc8c?utm_campaign=1056&utm_source=git)** | Dorchester,MA,US | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
