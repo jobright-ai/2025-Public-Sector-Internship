@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/6903c4cc63502c0aded6c0c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 29 |
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/692aa11a66796e3028f8f4f6?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Nov 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692a24b466796e3028f8e6bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Nov 25 |
 | **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Administrative & Communications Intern - Falcon Heights](https://jobright.ai/jobs/info/6927c8cef0beb0723262df0e?utm_campaign=1056&utm_source=git)** | Minnesota, United States | On Site | Nov 25 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/692656a7f0beb072326241c1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/69265444f0beb07232624017?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - LaPorte](https://jobright.ai/jobs/info/6926513a27bf2f41a2c453c8?utm_campaign=1056&utm_source=git)** | La Porte, IN | Hybrid | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern, Agriculture Program (Kansas City, MO)](https://jobright.ai/jobs/info/6924de69ec574f4265bb7fa0?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Nov 24 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Government Affairs](https://jobright.ai/jobs/info/6924de39c0cefa13343e2f40?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
 | ↳ | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924dcf4ec574f4265bb7e8c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
-| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924d2e7ec574f4265bb779f?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
