@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 29 |
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/692aa11a66796e3028f8f4f6?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Nov 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692a24b466796e3028f8e6bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Strategy, Project Management & Change](https://jobright.ai/jobs/info/6929f644fa28370be2695d8a?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Government Affairs](https://jobright.ai/jobs/info/6924de39c0cefa13343e2f40?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
 | ↳ | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924dcf4ec574f4265bb7e8c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924d2e7ec574f4265bb779f?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6924d29cec574f4265bb7768?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
