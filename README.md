@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692b4f3afa28370be2698961?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 29 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea9b6221b890c27810716?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 29 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea588221b890c2781039c?utm_campaign=1056&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Regulatory Project Management & Strategic Planning (RPM&SP)](https://jobright.ai/jobs/info/690ec390d046ab6061d01028?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/692b2beefa28370be26985e7?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 29 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d73ac3894705799a2f17f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/692aa11a66796e3028f8f4f6?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Nov 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692a24b466796e3028f8e6bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Strategy, Project Management & Change](https://jobright.ai/jobs/info/6929f644fa28370be2695d8a?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6929daa1fa28370be269573b?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 28 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Nov 28 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/691d52947481340785ed690a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/691ac83915b415636718a8ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Nov 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 25 |
 | **[EPCOR](http://www.epcor.com)** | **[Intern, Goverement Relations](https://jobright.ai/jobs/info/6925347327bf2f41a2c3d2f5?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Nov 24 |
 | **[University of Houston](https://www.uh.edu)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/69252c4ed47de4798eccdcf1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 24 |
-| **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Provider Operations Services Summer 2026 Intern](https://jobright.ai/jobs/info/692525bf27bf2f41a2c3c74c?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Nov 24 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Nov 24 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
