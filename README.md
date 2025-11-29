@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/692aa11a66796e3028f8f4f6?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Nov 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692a24b466796e3028f8e6bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Strategy, Project Management & Change](https://jobright.ai/jobs/info/6929f644fa28370be2695d8a?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6929daa1fa28370be269573b?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924dcf4ec574f4265bb7e8c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 24 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924d2e7ec574f4265bb779f?utm_campaign=1056&utm_source=git)** | Chicago, IL, US | Hybrid | Nov 24 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6924d29cec574f4265bb7768?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Nov 24 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Government & Community Relations Intern](https://jobright.ai/jobs/info/6924c9dfc0cefa13343e1f02?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
