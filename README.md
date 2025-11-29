@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Regulatory Project Management & Strategic Planning (RPM&SP)](https://jobright.ai/jobs/info/690ec390d046ab6061d01028?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Nov 29 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/692b2beefa28370be26985e7?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Nov 29 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Government Relations](https://jobright.ai/jobs/info/68d73ac3894705799a2f17f0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Nov 29 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ebf58221b890c278114ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Nov 29 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/68f1b54af462172a5a7db96b?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Summer 2025)](https://jobright.ai/jobs/info/68bb41dc8043103d4f227383?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/691ff23809cc522e87746eed?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Provider Operations Services Summer 2026 Intern](https://jobright.ai/jobs/info/692525bf27bf2f41a2c3c74c?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Nov 24 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Nov 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Tax Policy](https://jobright.ai/jobs/info/692103203f782d2f1afce46b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
-| ↳ | **[Governor's Summer Intern - INDOT - Public Realtions](https://jobright.ai/jobs/info/6924f96338cd5478a8d60e6a?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Nov 24 |
-| ↳ | **[Governor's Summer Intern - INDOT - Contract Administration](https://jobright.ai/jobs/info/6924f905c0cefa13343e4f99?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
-| ↳ | **[Governor's Summer Intern - INDOT - Permits](https://jobright.ai/jobs/info/6924f73e38cd5478a8d60c34?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
-| ↳ | **[Governor's Summer Intern - INDOT - Aviation](https://jobright.ai/jobs/info/6924f6ff38cd5478a8d60bd1?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
-| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Advocacy Intern - Summer 2026](https://jobright.ai/jobs/info/69261798d47de4798ecd470e?utm_campaign=1056&utm_source=git)** | United States | Remote | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
