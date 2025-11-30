@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/692c289a66796e3028f929a9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
+| ↳ | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692c2835fa28370be269aba6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
+| ↳ | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/692c27b14c474121999cfbed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Public Policy](https://jobright.ai/jobs/info/6922c4b47795cd460c837159?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2026 - Open Space Planning & Project Ma](https://jobright.ai/jobs/info/692c18a34c474121999cfa85?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 30 |
 | **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Provider Operations Services Summer 2026 Intern](https://jobright.ai/jobs/info/692525bf27bf2f41a2c3c74c?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Nov 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/692b75c666796e3028f90a28?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692b4f3afa28370be2698961?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692166d33f782d2f1afd1d3f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Scientific Engagement & Congresses/Global Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/6922887fc0cefa13343d82d3?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | ↳ | **[Global Medical Affairs Oncology Governance Intern](https://jobright.ai/jobs/info/690910b9d046ab6061cd0e98?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6909c131bcccf20de59dd819?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/689a284783d13d1f5b696733?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Nov 25 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 25 |
-| **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 25 |
-| **[EPCOR](http://www.epcor.com)** | **[Intern, Goverement Relations](https://jobright.ai/jobs/info/6925347327bf2f41a2c3d2f5?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
