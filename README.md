@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/692b75c666796e3028f90a28?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692b4f3afa28370be2698961?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea9b6221b890c27810716?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803d8?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Nov 25 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69096cb1bcccf20de59db037?utm_campaign=1056&utm_source=git)** | Carnegie, PA | Hybrid | Nov 25 |
 | **[EPCOR](http://www.epcor.com)** | **[Intern, Goverement Relations](https://jobright.ai/jobs/info/6925347327bf2f41a2c3d2f5?utm_campaign=1056&utm_source=git)** | Glendale, AZ | On Site | Nov 24 |
-| **[University of Houston](https://www.uh.edu)** | **[Community Health Worker Intern](https://jobright.ai/jobs/info/69252c4ed47de4798eccdcf1?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
