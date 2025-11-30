@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692c840ffa28370be269b29b?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 30 |
+| **[Texas Department of Agriculture](https://www.texasagriculture.gov/)** | **[TDA - FIN - Intern - Grants Office (58826)](https://jobright.ai/jobs/info/692c74de4c474121999d01a3?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68d7e65c7a37c712687d69da?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | Hybrid | Nov 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Energy Policy](https://jobright.ai/jobs/info/68f2a1b59a65fd345857e58b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | ↳ | **[Team Kentucky Internship Program - Energy & Environment - Organic Branch](https://jobright.ai/jobs/info/68f29b4f9a63986de75694d3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/6925ecc6d47de4798ecd2dd9?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Nov 25 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6925e053f0beb0723261ff9c?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Nov 25 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 25 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[GOMA Publications Systems and Operations Intern](https://jobright.ai/jobs/info/690d51c2221b890c27805cca?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
