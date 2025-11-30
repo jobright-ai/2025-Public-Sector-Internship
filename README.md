@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EyeMed Vision Care](http://www.eyemed.com)** | **[EyeMed Provider Operations Services Summer 2026 Intern](https://jobright.ai/jobs/info/692525bf27bf2f41a2c3c74c?utm_campaign=1056&utm_source=git)** | Mason, OH | On Site | Nov 29 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/692b75c666796e3028f90a28?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 29 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692b4f3afa28370be2698961?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ea9b6221b890c27810716?utm_campaign=1056&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/6903c4cc63502c0aded6c0c2?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Nov 29 |
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/692aa11a66796e3028f8f4f6?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Nov 28 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692a24b466796e3028f8e6bc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 28 |
 | **[Ontario Energy Board](https://oeb.ca)** | **[Co-op Student, Strategy, Project Management & Change](https://jobright.ai/jobs/info/6929f644fa28370be2695d8a?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Nov 28 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/691d52947481340785ed690a?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
