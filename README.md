@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68d7e65c7a37c712687d69da?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | Hybrid | Nov 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Energy Policy](https://jobright.ai/jobs/info/68f2a1b59a65fd345857e58b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | ↳ | **[Team Kentucky Internship Program - Energy & Environment - Organic Branch](https://jobright.ai/jobs/info/68f29b4f9a63986de75694d3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/692c289a66796e3028f929a9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[GOMA Publications Systems and Operations Intern](https://jobright.ai/jobs/info/690d51c2221b890c27805cca?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Nov 25 |
-| **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692166d33f782d2f1afd1d3f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
