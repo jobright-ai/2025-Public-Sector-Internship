@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCWorks Commission-Workforce Policy/Performance Analysis Intern](https://jobright.ai/jobs/info/692d2df0fa28370be269c184?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[NC Senate Intern](https://jobright.ai/jobs/info/692d2b4e4c474121999d1162?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Boards and Commissions Intern](https://jobright.ai/jobs/info/692d2b0afa28370be269c14e?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Policy and Outreach Intern](https://jobright.ai/jobs/info/692d2af3fa28370be269c149?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Governor's Communication Intern](https://jobright.ai/jobs/info/692d2abdfa28370be269c139?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Energy & Infrastructure Intern](https://jobright.ai/jobs/info/692d290766796e3028f93e9b?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Governor's Office Legislative Affairs Intern](https://jobright.ai/jobs/info/692d28dd66796e3028f93e8e?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[TEACH Together Educating All Children In Hospitals](https://www.teach4kids.org/)** | **[Grant Research Intern](https://jobright.ai/jobs/info/692cc8ee66796e3028f935d2?utm_campaign=1056&utm_source=git)** | Staten Island, NY | On Site | Nov 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/692cc7bafa28370be269b857?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 30 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692c840ffa28370be269b29b?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 30 |
@@ -65,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Energy Policy](https://jobright.ai/jobs/info/68f2a1b59a65fd345857e58b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | ↳ | **[Team Kentucky Internship Program - Energy & Environment - Organic Branch](https://jobright.ai/jobs/info/68f29b4f9a63986de75694d3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/692c289a66796e3028f929a9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
-| ↳ | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692c2835fa28370be269aba6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
 | ↳ | **[Intern - Freeman Chair in China Studies (Spring 2026)](https://jobright.ai/jobs/info/692c27b14c474121999cfbed?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Nov 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Public Policy](https://jobright.ai/jobs/info/6922c4b47795cd460c837159?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Capital & Planning Division - Student Intern Program, Summer 2026 - Open Space Planning & Project Ma](https://jobright.ai/jobs/info/692c18a34c474121999cfa85?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Nov 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Construction - Greenfield](https://jobright.ai/jobs/info/6925f99e27bf2f41a2c420f7?utm_campaign=1056&utm_source=git)** | Greenfield, IN | On Site | Nov 25 |
 | **[Midpeninsula Regional Open Space District](https://www.openspace.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6925f998d47de4798ecd3201?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 25 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Legal Services](https://jobright.ai/jobs/info/6925f645f0beb07232620b1f?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
-| ↳ | **[Governor's Summer Intern - DOR - Communications](https://jobright.ai/jobs/info/6925f628f0beb07232620b08?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
-| ↳ | **[Governor's Summer Intern - INDOT - Technical Services](https://jobright.ai/jobs/info/6925f5c727bf2f41a2c41e93?utm_campaign=1056&utm_source=git)** | Crawfordsville, IN | On Site | Nov 25 |
-| ↳ | **[Governor's Summer Intern - INDOT - Construction](https://jobright.ai/jobs/info/6925f4e627bf2f41a2c41dfe?utm_campaign=1056&utm_source=git)** | Crawfordsville, IN | On Site | Nov 25 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/6925ecc6d47de4798ecd2dd9?utm_campaign=1056&utm_source=git)** | Arlington, Virginia | On Site | Nov 25 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6925e053f0beb0723261ff9c?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Nov 25 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Government Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1989d17554c2d9eedd27a?utm_campaign=1056&utm_source=git)** | Westfield Center, OH | Remote | Nov 25 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[GOMA Publications Systems and Operations Intern](https://jobright.ai/jobs/info/690d51c2221b890c27805cca?utm_campaign=1056&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
