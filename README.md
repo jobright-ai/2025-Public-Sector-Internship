@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/6911bcd4988c2b7b4ec56759?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 01 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692d7d0cfa28370be269d146?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
+| ↳ | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/692d7c0466796e3028f94e1d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve 2026 Assistant Examiner Intern](https://jobright.ai/jobs/info/68bb320e5f3832749186cfef?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 01 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Medical Affairs](https://jobright.ai/jobs/info/6911c7b7df7e2373ba413d7b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Digital Team Intern](https://jobright.ai/jobs/info/692d3aa1fa28370be269c28c?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[First Lady's Office Intern](https://jobright.ai/jobs/info/692d3a924c474121999d1297?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Governor's Office Policy Intern](https://jobright.ai/jobs/info/692d31624c474121999d11df?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Highway Patrol (Summer)](https://jobright.ai/jobs/info/692660f5d47de4798ecd6dc4?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/692656a7f0beb072326241c1?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/69265444f0beb07232624017?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - LaPorte](https://jobright.ai/jobs/info/6926513a27bf2f41a2c453c8?utm_campaign=1056&utm_source=git)** | La Porte, IN | Hybrid | Nov 25 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69264cddf0beb07232623d74?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Nov 25 |
-| **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/6926357ed47de4798ecd58c7?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/692627ecf0beb07232622960?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 25 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/6926226bd47de4798ecd4cca?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
