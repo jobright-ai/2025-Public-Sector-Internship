@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCWorks Commission-Workforce Policy/Performance Analysis Intern](https://jobright.ai/jobs/info/692d2df0fa28370be269c184?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Digital Team Intern](https://jobright.ai/jobs/info/692d3aa1fa28370be269c28c?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[First Lady's Office Intern](https://jobright.ai/jobs/info/692d3a924c474121999d1297?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Governor's Office Policy Intern](https://jobright.ai/jobs/info/692d31624c474121999d11df?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Governor's Constituent Engagement Intern](https://jobright.ai/jobs/info/692d2f2666796e3028f93efb?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[APNEP Communication and Outreach Intern](https://jobright.ai/jobs/info/692d2e7d4c474121999d11ab?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[NCWorks Commission-Workforce Policy/Performance Analysis Intern](https://jobright.ai/jobs/info/692d2df0fa28370be269c184?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[NC Senate Intern](https://jobright.ai/jobs/info/692d2b4e4c474121999d1162?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
 | ↳ | **[Boards and Commissions Intern](https://jobright.ai/jobs/info/692d2b0afa28370be269c14e?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Policy and Outreach Intern](https://jobright.ai/jobs/info/692d2af3fa28370be269c149?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burson](https://www.bursonglobal.com)** | **[Intern, Communications & Public Affairs](https://jobright.ai/jobs/info/6926357ed47de4798ecd58c7?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Engagement Associate Intern - New Civil Liberties Alliance](https://jobright.ai/jobs/info/692627ecf0beb07232622960?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Nov 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Consumer Affairs)](https://jobright.ai/jobs/info/6926226bd47de4798ecd4cca?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TDA - FIN - Intern - Grants Office (58826)](https://jobright.ai/jobs/info/69262175d47de4798ecd4c31?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | On Site | Nov 25 |
-| **[Unicef CHAD](http://www.unicef.org/chad)** | **[Internal & External VA: Adolescent Development Officer (TVET), NOB, Temporary Appointment, Beirut, Lebanon, PN# 134900](https://jobright.ai/jobs/info/6926071c27bf2f41a2c428e2?utm_campaign=1056&utm_source=git)** | Lebanon, PA | On Site | Nov 25 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Construction - Greenfield](https://jobright.ai/jobs/info/6925f99e27bf2f41a2c420f7?utm_campaign=1056&utm_source=git)** | Greenfield, IN | On Site | Nov 25 |
-| **[Midpeninsula Regional Open Space District](https://www.openspace.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6925f998d47de4798ecd3201?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 25 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DOR Legal Services](https://jobright.ai/jobs/info/6925f645f0beb07232620b1f?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
