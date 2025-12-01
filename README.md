@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 01 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/6911bcd4988c2b7b4ec56759?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/692d7d0cfa28370be269d146?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | ↳ | **[Intern - Global Health Policy Center (Spring 2026)](https://jobright.ai/jobs/info/692d7c0466796e3028f94e1d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governor's Office Legislative Affairs Intern](https://jobright.ai/jobs/info/692d28dd66796e3028f93e8e?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Nov 30 |
 | **[TEACH Together Educating All Children In Hospitals](https://www.teach4kids.org/)** | **[Grant Research Intern](https://jobright.ai/jobs/info/692cc8ee66796e3028f935d2?utm_campaign=1056&utm_source=git)** | Staten Island, NY | On Site | Nov 30 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/692cc7bafa28370be269b857?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Nov 30 |
 | **[City of West Jordan](https://www.westjordan.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/692c840ffa28370be269b29b?utm_campaign=1056&utm_source=git)** | West Jordan, UT | On Site | Nov 30 |
 | **[Texas Department of Agriculture](https://www.texasagriculture.gov/)** | **[TDA - FIN - Intern - Grants Office (58826)](https://jobright.ai/jobs/info/692c74de4c474121999d01a3?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/68d7e65c7a37c712687d69da?utm_campaign=1056&utm_source=git)** | West Palm Beach, FL | Hybrid | Nov 30 |
