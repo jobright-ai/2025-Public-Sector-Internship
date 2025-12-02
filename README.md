@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Knowledge](http://publicknowledge.org)** | **[Summer 2026 Sherwin Lee Siy Tech Policy Internship](https://jobright.ai/jobs/info/692eb4e5ef4b48533d140f4b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 02 |
 | **[Flagler County Sheriff's Office](http://flaglersheriff.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/692e619fef4b48533d13f515?utm_campaign=1056&utm_source=git)** | Bunnell, FL | On Site | Dec 01 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy & Communication Intern](https://jobright.ai/jobs/info/692e6941ef4b48533d13fb07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 01 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/692e47ce4c474121999d7f9c?utm_campaign=1056&utm_source=git)** | North Sioux City, SD | On Site | Dec 01 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e1f94ef4b48533d13cc97?utm_campaign=1056&utm_source=git)** | Oakton, VA | On Site | Dec 01 |
 | **[Wanner Associates](https://www.wannerassoc.com)** | **[Spring Semester Intern](https://jobright.ai/jobs/info/692e1953fa28370be26a13eb?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | On Site | Dec 01 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Digital Health Record Internship](https://jobright.ai/jobs/info/6922d1687795cd460c837405?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Dec 01 |
-| **[Global Strategy Group](http://globalstrategygroup.com)** | **[2026 Spring Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/692e07a7ef4b48533d13bcf5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/692e019c4c474121999d52d5?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Research & Evaluation Internship (Unpaid)](https://jobright.ai/jobs/info/692e7098ef4b48533d13fe0c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 01 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/692e25d4ef4b48533d13d087?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 01 |
@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/692e1af3fa28370be26a150d?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/692e200c4c474121999d65f0?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Dec 01 |
 | **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Home Energy Loan Program (HELP) Associate (Internship)](https://jobright.ai/jobs/info/692e2986ef4b48533d13d2e5?utm_campaign=1056&utm_source=git)** | Kingston, NY | Hybrid | Dec 01 |
-| ↳ | **[Community Engagement Coordinator (Internship)](https://jobright.ai/jobs/info/692e19d3fa28370be26a1452?utm_campaign=1056&utm_source=git)** | Poughkeepsie, NY | On Site | Dec 01 |
 | ↳ | **[Outreach Coordinator (Internship)](https://jobright.ai/jobs/info/692e1c664c474121999d647b?utm_campaign=1056&utm_source=git)** | Kingston, NY | On Site | Dec 01 |
+| ↳ | **[Community Engagement Coordinator (Internship)](https://jobright.ai/jobs/info/692e19d3fa28370be26a1452?utm_campaign=1056&utm_source=git)** | Poughkeepsie, NY | On Site | Dec 01 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Community Health Internship](https://jobright.ai/jobs/info/692deac666796e3028f97382?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Remote | Dec 01 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Dec 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
@@ -95,7 +95,8 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Dept of Children and Youth](https://jobright.ai/jobs/info/692dcef9fa28370be269e971?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/692de066fa28370be269f136?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 01 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 01 |
-| ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
+| **[Global Strategy Group](http://globalstrategygroup.com)** | **[2026 Spring Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/692db9d466796e3028f95d7b?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 01 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Policy and Advocacy Intern](https://jobright.ai/jobs/info/692df640ef4b48533d13b1a4?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Dec 01 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/6911bcd4988c2b7b4ec56759?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plains All American](https://www.plains.com)** | **[Emergency & Security Management Intern– [12-Month Opportunity]](https://jobright.ai/jobs/info/69184ec445fb6f5ead8a470c?utm_campaign=1056&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692885f691ceeb2e8a545c1c?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
-| **[J Street](https://jstreet.org/)** | **[Lonnie Dounn Congressional Fellowship](https://jobright.ai/jobs/info/68f17d4ce6870116b1f59cde?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
