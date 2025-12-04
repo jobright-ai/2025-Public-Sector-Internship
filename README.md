@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 04 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Medical Affairs - Global Medical Affairs Oncology](https://jobright.ai/jobs/info/691506966f36db06ef04adaf?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Dec 04 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/69313db3fa28370be26b7b57?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | ↳ | **[Outreach Intern](https://jobright.ai/jobs/info/693181e73b6d6f265f4ea9c4?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | **[Hennepin County](https://www.co.hennepin.mn.us)** | **[Internship: Bachelor and Master of Social Work](https://jobright.ai/jobs/info/6930fb6bfa28370be26b5d0a?utm_campaign=1056&utm_source=git)** | Hennepin County, MN | Hybrid | Dec 03 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government West Market– Campus 2026](https://jobright.ai/jobs/info/691357b4d1047e3565d02934?utm_campaign=1056&utm_source=git)** | California, United States | On Site | Dec 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69171c65370fde633d07d743?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs & Support Advisor](https://jobright.ai/jobs/info/69305c514c474121999e4fd7?utm_campaign=1056&utm_source=git)** | Kirksville, MO | On Site | Dec 03 |
+| **[City of Phoenix](https://www.phoenix.gov/)** | **[Administrative Intern - Aviation Department (Temporary Internship)](https://jobright.ai/jobs/info/692fab1fef4b48533d148003?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Dec 03 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Public Involvement Intern](https://jobright.ai/jobs/info/68faee179e8e925ac6c87864?utm_campaign=1056&utm_source=git)** | Camp Hill, PA | On Site | Dec 03 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Community Health and Well-Being – Senior Services Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69303c174c474121999e47d4?utm_campaign=1056&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69303a82fa28370be26af673?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 03 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e1f94ef4b48533d13cc97?utm_campaign=1056&utm_source=git)** | Oakton, VA | On Site | Dec 01 |
 | **[Wanner Associates](https://www.wannerassoc.com)** | **[Spring Semester Intern](https://jobright.ai/jobs/info/692e1953fa28370be26a13eb?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | On Site | Dec 01 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Digital Health Record Internship](https://jobright.ai/jobs/info/6922d1687795cd460c837405?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Dec 01 |
-| **[Global Strategy Group](http://globalstrategygroup.com)** | **[2026 Spring Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/692e07a7ef4b48533d13bcf5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/692e019c4c474121999d52d5?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Research & Evaluation Internship (Unpaid)](https://jobright.ai/jobs/info/692e7098ef4b48533d13fe0c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 01 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/692e25d4ef4b48533d13d087?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 01 |
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/692e1b68ef4b48533d13c98e?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Dec 01 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/692e1af3fa28370be26a150d?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/692e200c4c474121999d65f0?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Dec 01 |
-| **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Community Engagement Coordinator (Internship)](https://jobright.ai/jobs/info/692e19d3fa28370be26a1452?utm_campaign=1056&utm_source=git)** | Poughkeepsie, NY | On Site | Dec 01 |
-| ↳ | **[Outreach Coordinator (Internship)](https://jobright.ai/jobs/info/692e1c664c474121999d647b?utm_campaign=1056&utm_source=git)** | Kingston, NY | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
