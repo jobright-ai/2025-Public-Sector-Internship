@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Genome Editing Regulatory Policy Analyst Intern](https://jobright.ai/jobs/info/6931ad784c474121999f24c0?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Dec 04 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6931bac4fa28370be26bd9d6?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 04 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 04 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6931b3b6fa28370be26bd71f?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 04 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Medical Affairs - Global Medical Affairs Oncology](https://jobright.ai/jobs/info/691506966f36db06ef04adaf?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Dec 04 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/69313db3fa28370be26b7b57?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
 | ↳ | **[Outreach Intern](https://jobright.ai/jobs/info/693181e73b6d6f265f4ea9c4?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e1f94ef4b48533d13cc97?utm_campaign=1056&utm_source=git)** | Oakton, VA | On Site | Dec 01 |
 | **[Wanner Associates](https://www.wannerassoc.com)** | **[Spring Semester Intern](https://jobright.ai/jobs/info/692e1953fa28370be26a13eb?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | On Site | Dec 01 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Digital Health Record Internship](https://jobright.ai/jobs/info/6922d1687795cd460c837405?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Dec 01 |
+| **[Global Strategy Group](http://globalstrategygroup.com)** | **[2026 Spring Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/692e07a7ef4b48533d13bcf5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/692e019c4c474121999d52d5?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Research & Evaluation Internship (Unpaid)](https://jobright.ai/jobs/info/692e7098ef4b48533d13fe0c?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 01 |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/692e25d4ef4b48533d13d087?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 01 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship - Government Contracting Advisory](https://jobright.ai/jobs/info/692e1b68ef4b48533d13c98e?utm_campaign=1056&utm_source=git)** | Tysons Corner, VA | On Site | Dec 01 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/692e1af3fa28370be26a150d?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
-| **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/692e200c4c474121999d65f0?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
