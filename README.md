@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/6930ff7bef4b48533d15178f?utm_campaign=1056&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Dec 03 |
+| **[Hennepin County](https://www.co.hennepin.mn.us)** | **[Internship: Bachelor and Master of Social Work](https://jobright.ai/jobs/info/6930fb6bfa28370be26b5d0a?utm_campaign=1056&utm_source=git)** | Hennepin County, MN | Hybrid | Dec 03 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[United Mega Care & TPH Outreach Intern - The Potter's House](https://jobright.ai/jobs/info/6930e2314c474121999e9ed6?utm_campaign=1056&utm_source=git)** | United States | On Site | Dec 03 |
+| **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/6930fc3aef4b48533d151596?utm_campaign=1056&utm_source=git)** | Winnipeg, Canada | Hybrid | Dec 03 |
+| **[Burson](https://www.bursonglobal.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6930f243fa28370be26b5842?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 03 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/6930c5af4c474121999e8a7c?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 03 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6930f35aef4b48533d1510fd?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 03 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Public & Government Affairs](https://jobright.ai/jobs/info/6930cbdfef4b48533d14f45b?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Dec 03 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6930d801fa28370be26b4686?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 03 |
 | **[DevryBV Sustainable Strategies](https://www.devrybv.com/)** | **[Sustainability Intern (Summer 2026)](https://jobright.ai/jobs/info/69309d41fa28370be26b16fa?utm_campaign=1056&utm_source=git)** | Excelsior, MN | On Site | Dec 03 |
@@ -85,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/692ffa404c474121999e372c?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 03 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Public Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/69300433ef4b48533d14a028?utm_campaign=1056&utm_source=git)** | Falls Church, VA | Hybrid | Dec 02 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/692fd15bef4b48533d1490e8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 02 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Policy, Strategy & Research Unit Internship - Hourly - Albany](https://jobright.ai/jobs/info/692fc70afa28370be26ad74f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 02 |
+| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Policy, Strategy & Research Unit Internship - Hourly - Albany](https://jobright.ai/jobs/info/692fc1af4c474121999e24ed?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 02 |
 | ↳ | **[Policy, Strategy & Research Unit Internship - Hourly - New York](https://jobright.ai/jobs/info/693007e4ef4b48533d14a15e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[University of Utah](http://utah.edu)** | **[Policy Intern, Nucleus](https://jobright.ai/jobs/info/692fcfbdfa28370be26ada82?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | Dec 02 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Public Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/692f9ca8fa28370be26ac0cf?utm_campaign=1056&utm_source=git)** | Falls Church,VA,US | Hybrid | Dec 02 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/692e1af3fa28370be26a150d?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 01 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/692e200c4c474121999d65f0?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Dec 01 |
 | **[Mid-Hudson Energy Transition](https://www.mid-hudson.energy)** | **[Home Energy Loan Program (HELP) Associate (Internship)](https://jobright.ai/jobs/info/692e2986ef4b48533d13d2e5?utm_campaign=1056&utm_source=git)** | Kingston, NY | Hybrid | Dec 01 |
-| ↳ | **[Outreach Coordinator (Internship)](https://jobright.ai/jobs/info/692e1c664c474121999d647b?utm_campaign=1056&utm_source=git)** | Kingston, NY | On Site | Dec 01 |
 | ↳ | **[Community Engagement Coordinator (Internship)](https://jobright.ai/jobs/info/692e19d3fa28370be26a1452?utm_campaign=1056&utm_source=git)** | Poughkeepsie, NY | On Site | Dec 01 |
+| ↳ | **[Outreach Coordinator (Internship)](https://jobright.ai/jobs/info/692e1c664c474121999d647b?utm_campaign=1056&utm_source=git)** | Kingston, NY | On Site | Dec 01 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Community Health Internship](https://jobright.ai/jobs/info/692deac666796e3028f97382?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Remote | Dec 01 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Environmental - Vincennes](https://jobright.ai/jobs/info/6927955b91ceeb2e8a541666?utm_campaign=1056&utm_source=git)** | Vincennes, IN | On Site | Dec 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Home Health Program Management Internship](https://jobright.ai/jobs/info/692e0c88ef4b48533d13c094?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | Hybrid | Dec 01 |
 | ↳ | **[Metro Market Health Managment Internship](https://jobright.ai/jobs/info/692e0c9fef4b48533d13c0aa?utm_campaign=1056&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Dec 01 |
-| **[DAR PRO Solutions](https://www.darpro-solutions.com/)** | **[Environmental Affairs Intern](https://jobright.ai/jobs/info/692e17cd4c474121999d61b6?utm_campaign=1056&utm_source=git)** | Cold Spring,KY,US | On Site | Dec 01 |
-| **[LSG](https://locuststreet.com)** | **[Intern - Research & Insights](https://jobright.ai/jobs/info/692dfae8fa28370be269fead?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 01 |
-| **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e09004c474121999d57e3?utm_campaign=1056&utm_source=git)** | Oakton-VA | On Site | Dec 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/692e0eba4c474121999d5ab6?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Dec 01 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Technical Services - Seymour](https://jobright.ai/jobs/info/692799b9d47de4798ecdeeb0?utm_campaign=1056&utm_source=git)** | Seymour, IN | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
