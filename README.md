@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6932debea0dde7020e2e921b?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 05 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/6932dcada0dde7020e2e9142?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
+| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6932dc3ca0dde7020e2e9123?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Jim Dowe Public Media Internship](https://jobright.ai/jobs/info/6932af05f131d96e4845d8ca?utm_campaign=1056&utm_source=git)** | Lewiston, ME | On Site | Dec 05 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Communication](https://jobright.ai/jobs/info/68f2813c9a65fd345857d39e?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 04 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69325aeea0dde7020e2e613f?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 04 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/69322f65948dde73ff9063dd?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Dec 04 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Office of Policy](https://jobright.ai/jobs/info/69320b0cd0010831497beac9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Future Now](futurenow.org)** | **[The States Project Policy Internship](https://jobright.ai/jobs/info/69320953fa28370be26c10c1?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 04 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/693234b0d0010831497c09d0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - UTRGV Grant Funded (Immediate Opening)](https://jobright.ai/jobs/info/693204ced0010831497be431?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Dec 04 |
 | **[City of Boston](https://www.boston.gov/)** | **[Summer Fellow, Mayor's Office of New Urban Mechanics](https://jobright.ai/jobs/info/69325917764507023d1ad85b?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 04 |
 | **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6932192d4c474121999f6da8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/692ffa404c474121999e372c?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 03 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Public Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/69300433ef4b48533d14a028?utm_campaign=1056&utm_source=git)** | Falls Church, VA | Hybrid | Dec 02 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/692fd15bef4b48533d1490e8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 02 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Policy, Strategy & Research Unit Internship - Hourly - New York](https://jobright.ai/jobs/info/693007e4ef4b48533d14a15e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| ↳ | **[Policy, Strategy & Research Unit Internship - Hourly - Albany](https://jobright.ai/jobs/info/692fd389fa28370be26adbb1?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 02 |
+| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Policy, Strategy & Research Unit Internship - Hourly - Albany](https://jobright.ai/jobs/info/692fcb17ef4b48533d148ee5?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 02 |
+| ↳ | **[Policy, Strategy & Research Unit Internship - Hourly - New York](https://jobright.ai/jobs/info/693007e4ef4b48533d14a15e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[University of Utah](http://utah.edu)** | **[Policy Intern, Nucleus](https://jobright.ai/jobs/info/692fcfbdfa28370be26ada82?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | Dec 02 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[College Student Intern – Sustainability](https://jobright.ai/jobs/info/69312b24ef4b48533d152c8e?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Dec 02 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Public Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/692f9ca8fa28370be26ac0cf?utm_campaign=1056&utm_source=git)** | Falls Church,VA,US | Hybrid | Dec 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/692f987cfa28370be26abdf4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 02 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Government Relations (Spring 2026)](https://jobright.ai/jobs/info/692f86924c474121999e018c?utm_campaign=1056&utm_source=git)** | Canonsburg, PA | On Site | Dec 02 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Emergency Management Summer Intern](https://jobright.ai/jobs/info/692f4db14c474121999dd9cb?utm_campaign=1056&utm_source=git)** | Aiken, SC | On Site | Dec 02 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Advocacy Intern](https://jobright.ai/jobs/info/692f4c354c474121999dd930?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 02 |
-| **[Darling Ingredients](http://darlingii.com)** | **[Environmental Affairs Intern](https://jobright.ai/jobs/info/692f70434c474121999df074?utm_campaign=1056&utm_source=git)** | Newport, KY | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
