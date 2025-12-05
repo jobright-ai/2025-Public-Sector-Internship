@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - UTRGV Grant Funded (Immediate Opening)](https://jobright.ai/jobs/info/693204ced0010831497be431?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Dec 04 |
 | **[DT Midstream](https://dtmidstream.com/)** | **[Land Management Intern](https://jobright.ai/jobs/info/6931cd8bfa28370be26be336?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Government Relations & Advocacy Intern](https://jobright.ai/jobs/info/6931fb7cfa28370be26c022d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6931cc394c474121999f329e?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Dec 04 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Public Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/69300433ef4b48533d14a028?utm_campaign=1056&utm_source=git)** | Falls Church, VA | Hybrid | Dec 02 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/692fd15bef4b48533d1490e8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 02 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Policy, Strategy & Research Unit Internship - Hourly - New York](https://jobright.ai/jobs/info/693007e4ef4b48533d14a15e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| ↳ | **[Policy, Strategy & Research Unit Internship - Hourly - Albany](https://jobright.ai/jobs/info/692fd389fa28370be26adbb1?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 02 |
+| ↳ | **[Policy, Strategy & Research Unit Internship - Hourly - Albany](https://jobright.ai/jobs/info/692fe1fdef4b48533d14961f?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 02 |
 | **[University of Utah](http://utah.edu)** | **[Policy Intern, Nucleus](https://jobright.ai/jobs/info/692fcfbdfa28370be26ada82?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Remote | Dec 02 |
 | **[City of Boca Raton](http://www.myboca.us)** | **[College Student Intern – Sustainability](https://jobright.ai/jobs/info/69312b24ef4b48533d152c8e?utm_campaign=1056&utm_source=git)** | Boca Raton, FL | On Site | Dec 02 |
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Public Policy Intern (Spring 2026)](https://jobright.ai/jobs/info/692f9ca8fa28370be26ac0cf?utm_campaign=1056&utm_source=git)** | Falls Church,VA,US | Hybrid | Dec 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Policy & Communication Intern](https://jobright.ai/jobs/info/692e6941ef4b48533d13fb07?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 01 |
 | **[Ladse](https://www.ladse.org/)** | **[School Social Worker Intern - Emotional Disability Program ~ 2026-27](https://jobright.ai/jobs/info/692fd9a04c474121999e2d19?utm_campaign=1056&utm_source=git)** | La Grange, IL | On Site | Dec 01 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/692e47ce4c474121999d7f9c?utm_campaign=1056&utm_source=git)** | North Sioux City, SD | On Site | Dec 01 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Economics](https://jobright.ai/jobs/info/692e4440ef4b48533d13e276?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
