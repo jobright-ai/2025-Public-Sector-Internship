@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 06 |
+| **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Indigenous Relations](https://jobright.ai/jobs/info/69345642a0dde7020e2f5275?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | Hybrid | Dec 06 |
+| **[Susan G. Komen](http://www.komen.org)** | **[Public Health Intern (Remote)](https://jobright.ai/jobs/info/69183e2315b415636718043d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Remote | Dec 06 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/68e0431b1852e62f007e98a1?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 06 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69343cef764507023d1bc655?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 06 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 06 |
@@ -81,8 +84,8 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
 | ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 05 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Office of the Governor Intern](https://jobright.ai/jobs/info/6933ab25f131d96e48465bae?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/693386d7f131d96e484641a2?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
@@ -111,8 +114,8 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/69336612764507023d1b5367?utm_campaign=1056&utm_source=git)** | CA-Oakland-1970 Broadway | On Site | Dec 05 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/69337a9e764507023d1b620f?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 05 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69335da8764507023d1b4d3c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/69335aacf131d96e48462686?utm_campaign=1056&utm_source=git)** | FL-Miami Springs | On Site | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693358a7764507023d1b48ec?utm_campaign=1056&utm_source=git)** | NC-Wilmington-So College | On Site | Dec 05 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693358a7764507023d1b48ec?utm_campaign=1056&utm_source=git)** | NC-Wilmington-So College | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/69335aacf131d96e48462686?utm_campaign=1056&utm_source=git)** | FL-Miami Springs | On Site | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693353bba0dde7020e2ecacf?utm_campaign=1056&utm_source=git)** | Greater Wilmington Area | Hybrid | Dec 05 |
 | ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/69332370a0dde7020e2eac3f?utm_campaign=1056&utm_source=git)** | FL-Tallahassee | On Site | Dec 05 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Equity & Community Impact - Program Evaluation](https://jobright.ai/jobs/info/693347a3f131d96e4846168f?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 05 |
@@ -124,7 +127,6 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 05 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 05 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/693309a0a0dde7020e2ea0fd?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Nuclear Issues (Spring 2026)](https://jobright.ai/jobs/info/6932dcada0dde7020e2e9142?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6932dc3ca0dde7020e2e9123?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Communication](https://jobright.ai/jobs/info/68f2813c9a65fd345857d39e?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 04 |
@@ -156,6 +158,4 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[DT Midstream](https://dtmidstream.com/)** | **[Land Management Intern](https://jobright.ai/jobs/info/6931cd8bfa28370be26be336?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 04 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Government Relations & Advocacy Intern](https://jobright.ai/jobs/info/6931fb7cfa28370be26c022d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6931cc394c474121999f329e?utm_campaign=1056&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Dec 04 |
-| ↳ | **[Advocacy & Survivor Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6931f619d0010831497bd73e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
