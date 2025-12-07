@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gift of Life Donor Program](https://www.donors1.org/)** | **[Family Sppt Svcs Intern](https://jobright.ai/jobs/info/68f1e444e6870116b1f5e1dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 07 |
 | **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit Internship](https://jobright.ai/jobs/info/69353a21764507023d1bfa25?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Dec 07 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/693513d3f131d96e4846ccd6?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | ↳ | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/69351350a0dde7020e2f7510?utm_campaign=1056&utm_source=git)** | 1800 Parkway Place | On Site | Dec 06 |
@@ -88,8 +89,8 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 05 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Office of the Governor Intern](https://jobright.ai/jobs/info/6933ab25f131d96e48465bae?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
@@ -118,8 +119,8 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Congress Planning and Execution Intern](https://jobright.ai/jobs/info/6933694aa0dde7020e2eda34?utm_campaign=1056&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/69336612764507023d1b5367?utm_campaign=1056&utm_source=git)** | CA-Oakland-1970 Broadway | On Site | Dec 05 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69335da8764507023d1b4d3c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693358a7764507023d1b48ec?utm_campaign=1056&utm_source=git)** | NC-Wilmington-So College | On Site | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/69335aacf131d96e48462686?utm_campaign=1056&utm_source=git)** | FL-Miami Springs | On Site | Dec 05 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/69335aacf131d96e48462686?utm_campaign=1056&utm_source=git)** | FL-Miami Springs | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693358a7764507023d1b48ec?utm_campaign=1056&utm_source=git)** | NC-Wilmington-So College | On Site | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693353bba0dde7020e2ecacf?utm_campaign=1056&utm_source=git)** | Greater Wilmington Area | Hybrid | Dec 05 |
 | ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/69332370a0dde7020e2eac3f?utm_campaign=1056&utm_source=git)** | FL-Tallahassee | On Site | Dec 05 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Equity & Community Impact - Program Evaluation](https://jobright.ai/jobs/info/693347a3f131d96e4846168f?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 05 |
@@ -157,5 +158,4 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6932192d4c474121999f6da8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
 | **[DT Midstream](https://dtmidstream.com/)** | **[Land Management Intern - Houston, TX](https://jobright.ai/jobs/info/69321eb44c474121999f7255?utm_campaign=1056&utm_source=git)** | Houston, TX, US | Hybrid | Dec 04 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Government Relations & Advocacy Intern](https://jobright.ai/jobs/info/693225adfa28370be26c28ac?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
-| **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69321c91fa28370be26c20e9?utm_campaign=1056&utm_source=git)** | Princeton | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
