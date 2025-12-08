@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/693721391c1c2161c13f0cba?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 08 |
 | **[Centene Corporation](http://www.centene.com)** | **[Federal Affairs & Policy Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6936f6ffaabec14a727c320f?utm_campaign=1056&utm_source=git)** | Washington - 1150 Connecticut Ave N.W., Ste 1000 (Corporate) (10039) | On Site | Dec 08 |
+| **[Centerstone](https://centerstone.org/)** | **[Illinois Clinical Internship Program: Bachelors Level Social Work, Psychology and affiliated degrees](https://jobright.ai/jobs/info/69371a8fa0dde7020e2fefea?utm_campaign=1056&utm_source=git)** | Carbondale, IL | On Site | Dec 08 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6936e17baabec14a727c2b4e?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6936be62aabec14a727c2143?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6936b98a1c1c2161c13ee739?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Dec 08 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs - Washington D.C. (Spring)](https://jobright.ai/jobs/info/6936b1d444eb324fb785d075?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69369ee1a0dde7020e2fc9c6?utm_campaign=1056&utm_source=git)** | Becket, MA | Hybrid | Dec 08 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/693659dca0dde7020e2fb20e?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 07 |
 | **[Turtle Island Restoration Network (TIRN)](https://seaturtles.org)** | **[Gulf of Mexico Program Intern](https://jobright.ai/jobs/info/69361c71764507023d1c1986?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Dec 07 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6936fbea1c1c2161c13efd0a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 07 |
 | **[Keystone Contractors Association](http://www.keystonecontractors.com)** | **[KCA Semester College Internship](https://jobright.ai/jobs/info/6935b127f131d96e4846ed8e?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Dec 07 |
@@ -98,10 +99,10 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[State of Colorado](https://cjlc.colorado.gov/)** | **[Office of the Governor Intern.](https://jobright.ai/jobs/info/6933bfcaa0dde7020e2f173c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
 | ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 05 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Office of the Governor Intern](https://jobright.ai/jobs/info/6933ab25f131d96e48465bae?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/693386d7f131d96e484641a2?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
@@ -157,5 +158,4 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[Brownstein Hyatt Farber Schreck](http://www.bhfs.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/691227e7c98948514c4790de?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/69322985d0010831497c0362?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 04 |
 | **[City of Coppell](http://www.coppelltx.gov)** | **[FD- INTERN (EMERGENCY MANAGEMENT)](https://jobright.ai/jobs/info/6932b8f6a0dde7020e2e874d?utm_campaign=1056&utm_source=git)** | Coppell, TX | On Site | Dec 04 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6932511e764507023d1ad03f?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
