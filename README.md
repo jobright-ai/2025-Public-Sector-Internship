@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turtle Island Restoration Network (TIRN)](https://seaturtles.org)** | **[Gulf of Mexico Program Intern](https://jobright.ai/jobs/info/69361c71764507023d1c1986?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Dec 07 |
 | **[Keystone Contractors Association](http://www.keystonecontractors.com)** | **[KCA Semester College Internship](https://jobright.ai/jobs/info/6935b127f131d96e4846ed8e?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Dec 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/69358ee4764507023d1c0aa4?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 07 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69358c7df131d96e4846e8e3?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 07 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 06 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Emergency Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/692001ca3f782d2f1afc2100?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 06 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching (ACR) Intern](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 06 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/69342304a0dde7020e2f471a?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 06 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Public Information: Communications and Outreach - Visitors Services
 Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 06 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 05 |
@@ -90,10 +90,10 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Office of the Governor Intern.](https://jobright.ai/jobs/info/6933bfcaa0dde7020e2f173c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
-| ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
+| ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 05 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Office of the Governor Intern](https://jobright.ai/jobs/info/6933ab25f131d96e48465bae?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/693386d7f131d96e484641a2?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
@@ -151,8 +151,8 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[City of Coppell](http://www.coppelltx.gov)** | **[FD- INTERN (EMERGENCY MANAGEMENT)](https://jobright.ai/jobs/info/6932b8f6a0dde7020e2e874d?utm_campaign=1056&utm_source=git)** | Coppell, TX | On Site | Dec 04 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6932511e764507023d1ad03f?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Dec 04 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/693241dfa0dde7020e2e4cd2?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 04 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/69322f65948dde73ff9063dd?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Dec 04 |
-| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/69322fa1fa28370be26c2e49?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Dec 04 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/69322fa1fa28370be26c2e49?utm_campaign=1056&utm_source=git)** | Bellevue, NE | On Site | Dec 04 |
+| ↳ | **[Probation Undergraduate Intern](https://jobright.ai/jobs/info/69322f65948dde73ff9063dd?utm_campaign=1056&utm_source=git)** | Plattsmouth, NE | On Site | Dec 04 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Office of Policy](https://jobright.ai/jobs/info/69320b0cd0010831497beac9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Future Now](futurenow.org)** | **[The States Project Policy Internship](https://jobright.ai/jobs/info/69320953fa28370be26c10c1?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 04 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - UTRGV Grant Funded (Immediate Opening)](https://jobright.ai/jobs/info/693204ced0010831497be431?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Dec 04 |
