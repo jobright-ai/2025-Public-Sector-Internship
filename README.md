@@ -91,9 +91,9 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 05 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Office of the Governor Intern](https://jobright.ai/jobs/info/6933ab25f131d96e48465bae?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Public Policy Intern](https://jobright.ai/jobs/info/693386d7f131d96e484641a2?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
@@ -120,9 +120,8 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/69334db2a0dde7020e2ec632?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 05 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Congress Planning and Execution Intern](https://jobright.ai/jobs/info/6933694aa0dde7020e2eda34?utm_campaign=1056&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/69336612764507023d1b5367?utm_campaign=1056&utm_source=git)** | CA-Oakland-1970 Broadway | On Site | Dec 05 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69335da8764507023d1b4d3c?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/69335aacf131d96e48462686?utm_campaign=1056&utm_source=git)** | FL-Miami Springs | On Site | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693358a7764507023d1b48ec?utm_campaign=1056&utm_source=git)** | NC-Wilmington-So College | On Site | Dec 05 |
+| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/69335aacf131d96e48462686?utm_campaign=1056&utm_source=git)** | FL-Miami Springs | On Site | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/693353bba0dde7020e2ecacf?utm_campaign=1056&utm_source=git)** | Greater Wilmington Area | Hybrid | Dec 05 |
 | ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/69332370a0dde7020e2eac3f?utm_campaign=1056&utm_source=git)** | FL-Tallahassee | On Site | Dec 05 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Equity & Community Impact - Program Evaluation](https://jobright.ai/jobs/info/693347a3f131d96e4846168f?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 05 |
@@ -158,4 +157,5 @@ Job ID : 267501](https://jobright.ai/jobs/info/69342522764507023d1bc183?utm_camp
 | **[Future Now](futurenow.org)** | **[The States Project Policy Internship](https://jobright.ai/jobs/info/69320953fa28370be26c10c1?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 04 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Social Worker Intern - UTRGV Grant Funded (Immediate Opening)](https://jobright.ai/jobs/info/693204ced0010831497be431?utm_campaign=1056&utm_source=git)** | Weslaco, TX | On Site | Dec 04 |
 | **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6932192d4c474121999f6da8?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 04 |
+| **[DT Midstream](https://dtmidstream.com/)** | **[Land Management Intern - Houston, TX](https://jobright.ai/jobs/info/69321eb44c474121999f7255?utm_campaign=1056&utm_source=git)** | Houston, TX, US | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
