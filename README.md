@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tobii Dynavox®](http://www.tobiidynavox.com/)** | **[Policy and Contracting Intern](https://jobright.ai/jobs/info/69389377b95c305f206dc286?utm_campaign=1056&utm_source=git)** | Pittsburgh - Moon Township | On Site | Dec 09 |
+| **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Industry Outreach](https://jobright.ai/jobs/info/6938770db95c305f206dad18?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Communications](https://jobright.ai/jobs/info/693869e8b95c305f206d97be?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Industry Outreach](https://jobright.ai/jobs/info/69385b30a0dde7020e30e286?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69376ecc1c1c2161c13f4605?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e1f94ef4b48533d13cc97?utm_campaign=1056&utm_source=git)** | Oakton, VA | On Site | Dec 08 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/69376af71c1c2161c13f42bf?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 08 |
-| **[Centene Corporation](http://www.centene.com)** | **[Federal Affairs & Policy Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/693743201c1c2161c13f221e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 08 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Panasonic Foundation Intern (Spring 2026)](https://jobright.ai/jobs/info/69376e011c1c2161c13f4545?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Dec 08 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Nonprofit Administration Summer Intern](https://jobright.ai/jobs/info/69375da71c1c2161c13f365a?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Dec 08 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Government Relations (Spring 2026)](https://jobright.ai/jobs/info/692f86924c474121999e018c?utm_campaign=1056&utm_source=git)** | Canonsburg, PA | On Site | Dec 08 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 05 |
 | ↳ | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Dec 05 |
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/6933bbf7f131d96e48466a38?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Dec 05 |
-| **[Global Strategy Group](http://globalstrategygroup.com)** | **[2026 Spring Internship, Communications and Public Affairs](https://jobright.ai/jobs/info/692e07a7ef4b48533d13bcf5?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69339bfef131d96e48464d85?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[Discover Your Northwest](https://www.discovernw.org/)** | **[Grants Coordinator Intern](https://jobright.ai/jobs/info/6933c2de764507023d1b93bc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Office of the Governor Intern.](https://jobright.ai/jobs/info/6933bfcaa0dde7020e2f173c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
