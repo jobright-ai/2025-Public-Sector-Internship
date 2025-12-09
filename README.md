@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Industry Outreach](https://jobright.ai/jobs/info/69385b30a0dde7020e30e286?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
+| **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/6938568bb95c305f206d7d01?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 09 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/693846e4aabec14a727d24bf?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 09 |
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69203b65a49a885af9a379cb?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | ↳ | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/6930d724ef4b48533d14fcd8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Public Policy Intern (Global Public Policy)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690057cbe04ac838fb5c1906?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
@@ -114,9 +117,7 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Capital Programs](https://jobright.ai/jobs/info/69372d4e1c1c2161c13f1290?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Tennessee Chamber of Commerce & Industry](https://www.tnchamber.org/)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/69373bab1c1c2161c13f1c5e?utm_campaign=1056&utm_source=git)** | Nashville Metro | On Site | Dec 08 |
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 08 |
-| **[Centene Corporation](http://www.centene.com)** | **[Federal Affairs & Policy Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6936f6ffaabec14a727c320f?utm_campaign=1056&utm_source=git)** | Washington - 1150 Connecticut Ave N.W., Ste 1000 (Corporate) (10039) | On Site | Dec 08 |
 | **[Centerstone](https://centerstone.org/)** | **[Illinois Clinical Internship Program: Bachelors Level Social Work, Psychology and affiliated degrees](https://jobright.ai/jobs/info/693732741c1c2161c13f1601?utm_campaign=1056&utm_source=git)** | West Frankfort, IL | On Site | Dec 08 |
-| ↳ | **[Illinois Clinical Internship Program: Bachelors Level Social Work, Psychology and affiliated degrees](https://jobright.ai/jobs/info/69371a8fa0dde7020e2fefea?utm_campaign=1056&utm_source=git)** | Carbondale, IL | On Site | Dec 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6936be62aabec14a727c2143?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6936b98a1c1c2161c13ee739?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Dec 08 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs - Washington D.C. (Spring)](https://jobright.ai/jobs/info/6936b1d444eb324fb785d075?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Office of the Governor Intern.](https://jobright.ai/jobs/info/6933bfcaa0dde7020e2f173c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
-| ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b034764507023d1b855c?utm_campaign=1056&utm_source=git)** | Miami Springs, FL | Hybrid | Dec 05 |
+| ↳ | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/6933b10a764507023d1b85ea?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | ↳ | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933aa9da0dde7020e2f0565?utm_campaign=1056&utm_source=git)** | French Broad, NC | Hybrid | Dec 05 |
-| ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
