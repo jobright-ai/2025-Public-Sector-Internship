@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Remote | Dec 08 |
+| ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6937c6101c1c2161c13f971e?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Hybrid | Dec 08 |
+| **[Edelman](http://www.edelman.com)** | **[Intern, Public and Government Affairs](https://jobright.ai/jobs/info/6937c514a0dde7020e307bf8?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Dec 08 |
+| ↳ | **[Intern, Public and Government Affairs](https://jobright.ai/jobs/info/6937c3bc1c1c2161c13f9655?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6937acaaa0dde7020e305a8c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Dec 08 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 08 |
+| **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2025 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6937bcc9a0dde7020e307934?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 08 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69379387a0dde7020e30454a?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 08 |
 | **[RAINN](http://rainn.org)** | **[Public Policy Internship](https://jobright.ai/jobs/info/6937a94aa0dde7020e3054e4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship](https://jobright.ai/jobs/info/693777dfa0dde7020e30343a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
@@ -113,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Keystone Contractors Association](http://www.keystonecontractors.com)** | **[KCA Semester College Internship](https://jobright.ai/jobs/info/6935b127f131d96e4846ed8e?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Dec 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/69358ee4764507023d1c0aa4?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 07 |
 | **[Gift of Life Donor Program](https://www.donors1.org/)** | **[Family Sppt Svcs Intern](https://jobright.ai/jobs/info/68f1e444e6870116b1f5e1dc?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 07 |
-| **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit Internship](https://jobright.ai/jobs/info/69353a21764507023d1bfa25?utm_campaign=1056&utm_source=git)** | Cranston, RI | On Site | Dec 07 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/693513d3f131d96e4846ccd6?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 06 |
 | ↳ | **[Wellstar Foundation Intern](https://jobright.ai/jobs/info/69351350a0dde7020e2f7510?utm_campaign=1056&utm_source=git)** | 1800 Parkway Place | On Site | Dec 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6934c4b8f131d96e4846ba20?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - General Government - Enterprise Project Management Branch](https://jobright.ai/jobs/info/68f2d6bb9a65fd3458581709?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 05 |
 | **[State of Oregon](https://www.oregon.gov/deq/pages/index.aspx)** | **[Internship Opportunity Oregon House Republican Office](https://jobright.ai/jobs/info/6933786ea0dde7020e2ee556?utm_campaign=1056&utm_source=git)** | Salem, OR | On Site | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Federal Relations Intern](https://jobright.ai/jobs/info/693397f6764507023d1b72cd?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
-| ↳ | **[Policy, Economics, Regulatory Affairs Intern](https://jobright.ai/jobs/info/69339439764507023d1b6f4f?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Women & Youth Program Intern](https://jobright.ai/jobs/info/69339198a0dde7020e2ef3b3?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Dec 05 |
-| **[Larimer County Department of Health and Environment](http://www.larimer.gov/health)** | **[Human Services Intern](https://jobright.ai/jobs/info/6933b437f131d96e484661f3?utm_campaign=1056&utm_source=git)** | Larimer County, CO | On Site | Dec 05 |
-| **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/69336b2ba0dde7020e2edbe9?utm_campaign=1056&utm_source=git)** | Harlingen Campus | On Site | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/693362d0f131d96e48462bea?utm_campaign=1056&utm_source=git)** | NC-Durham-301 W Main | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
