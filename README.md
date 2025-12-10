@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e7b0ac80bb5492bc6200?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
+| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e36756b68f3dc4e737af?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Dec 10 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6939c1fb48a8ce22990dc9a2?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Supportive Services DuPage](https://jobright.ai/jobs/info/6939bf1a56b68f3dc4e721f1?utm_campaign=1056&utm_source=git)** | Wheaton, IL | On Site | Dec 10 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Corporate Affairs Intern (3 months internship)](https://jobright.ai/jobs/info/6939bdbe56b68f3dc4e71f58?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 10 |
+| **[Cintra, a Ferrovial company](https://www.cintra.es/es/)** | **[Corporate Affairs Intern (3 months internship)](https://jobright.ai/jobs/info/6939e88256b68f3dc4e73b43?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 10 |
+| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6939d54f48a8ce22990dd3f4?utm_campaign=1056&utm_source=git)** | Welch, MN 55089, USA | On Site | Dec 10 |
 | **[UNDP](http://www.undp.org)** | **[BCA-IEG Support Internship](https://jobright.ai/jobs/info/6939b4feac80bb5492bc2e83?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 10 |
 | **[EdTrust-West](http://edtrustwest.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6939ad3bac80bb5492bc2611?utm_campaign=1056&utm_source=git)** | Nashville, TN, US | Hybrid | Dec 10 |
 | **[City of Reading, PA](http://www.readingpa.gov)** | **[Mayor's Summer Intern](https://jobright.ai/jobs/info/6939aa4b56b68f3dc4e6ff48?utm_campaign=1056&utm_source=git)** | Reading, PA, US | On Site | Dec 10 |
@@ -83,8 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Dec 09 |
 | **[Stantec](http://www.stantec.com)** | **[Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69393e3b56b68f3dc4e6b6b0?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Dec 09 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
+| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6939cf31ac80bb5492bc5091?utm_campaign=1056&utm_source=git)** | Welch, MN | On Site | Dec 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e3aab95c305f206e2238?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e157aabec14a727dd254?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Stantec](http://www.stantec.com)** | **[Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/6938a3a3aabec14a727d8eab?utm_campaign=1056&utm_source=git)** | 70 NE Loop 410 Suite 1116, San Antonio, TX, 78216, US | On Site | Dec 09 |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/69389ecdaabec14a727d863d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6936be62aabec14a727c2143?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Carolina Population Center](https://www.cpc.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6936b98a1c1c2161c13ee739?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Dec 08 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Federal Affairs - Washington D.C. (Spring)](https://jobright.ai/jobs/info/6936b1d444eb324fb785d075?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69369ee1a0dde7020e2fc9c6?utm_campaign=1056&utm_source=git)** | Becket, MA | Hybrid | Dec 08 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Emergency Services Intern](https://jobright.ai/jobs/info/6937b5d2aabec14a727cc0d6?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Dec 07 |
-| **[Turtle Island Restoration Network (TIRN)](https://seaturtles.org)** | **[Gulf of Mexico Program Intern](https://jobright.ai/jobs/info/69361c71764507023d1c1986?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Dec 07 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6936fbea1c1c2161c13efd0a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
