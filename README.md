@@ -59,7 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tobii Dynavox®](http://www.tobiidynavox.com/)** | **[Policy and Contracting Intern](https://jobright.ai/jobs/info/69389377b95c305f206dc286?utm_campaign=1056&utm_source=git)** | Pittsburgh - Moon Township | On Site | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
+| **[Stantec](http://www.stantec.com)** | **[Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/6938a3a3aabec14a727d8eab?utm_campaign=1056&utm_source=git)** | 70 NE Loop 410 Suite 1116, San Antonio, TX, 78216, US | On Site | Dec 09 |
+| **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/69389ecdaabec14a727d863d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - Industry Outreach](https://jobright.ai/jobs/info/6938770db95c305f206dad18?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/69389c18b95c305f206dd001?utm_campaign=1056&utm_source=git)** | NC-Durham-301 W Main | On Site | Dec 09 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Communications](https://jobright.ai/jobs/info/693869e8b95c305f206d97be?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - Industry Outreach](https://jobright.ai/jobs/info/69385b30a0dde7020e30e286?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/6938568bb95c305f206d7d01?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69339bfef131d96e48464d85?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
 | **[Discover Your Northwest](https://www.discovernw.org/)** | **[Grants Coordinator Intern](https://jobright.ai/jobs/info/6933c2de764507023d1b93bc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Office of the Governor Intern.](https://jobright.ai/jobs/info/6933bfcaa0dde7020e2f173c?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
-| ↳ | **[Legislative Affairs Intern.](https://jobright.ai/jobs/info/6933bc1da0dde7020e2f15c5?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 05 |
-| **[API - American Petroleum Institute](http://www.api.org)** | **[Onshore and Offshore Access Intern](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef101?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 05 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6933b151f131d96e48465ff7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
