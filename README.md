@@ -58,11 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Relations Intern](https://jobright.ai/jobs/info/693909aa7548dd746be58aa4?utm_campaign=1056&utm_source=git)** | Detroit, MI | Remote | Dec 09 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Emergency Management Intern Day 8 Part Time](https://jobright.ai/jobs/info/6939155956b68f3dc4e692f2?utm_campaign=1056&utm_source=git)** | Danbury, CT | On Site | Dec 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/6938f5fcaabec14a727de638?utm_campaign=1056&utm_source=git)** | North Wales, PA | Hybrid | Dec 09 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Dec 09 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e3aab95c305f206e2238?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e157aabec14a727dd254?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
 | **[Tobii Dynavox®](http://www.tobiidynavox.com/)** | **[Policy and Contracting Intern](https://jobright.ai/jobs/info/6938c755aabec14a727daf3e?utm_campaign=1056&utm_source=git)** | Moon, PA | On Site | Dec 09 |
 | ↳ | **[Policy and Contracting Intern](https://jobright.ai/jobs/info/69389377b95c305f206dc286?utm_campaign=1056&utm_source=git)** | Pittsburgh - Moon Township | On Site | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6937c6101c1c2161c13f971e?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | Hybrid | Dec 08 |
 | **[Edelman](http://www.edelman.com)** | **[Intern, Public and Government Affairs](https://jobright.ai/jobs/info/6937c514a0dde7020e307bf8?utm_campaign=1056&utm_source=git)** | New York, New York, USA | On Site | Dec 08 |
 | ↳ | **[Intern, Public and Government Affairs](https://jobright.ai/jobs/info/6937c3bc1c1c2161c13f9655?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6937acaaa0dde7020e305a8c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Dec 08 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 08 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2025 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6937bcc9a0dde7020e307934?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 08 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69379387a0dde7020e30454a?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 08 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Policy Intern, Government Relations](https://jobright.ai/jobs/info/69375ba81c1c2161c13f3478?utm_campaign=1056&utm_source=git)** | DC, Washington, DC, US | Hybrid | Dec 08 |
 | **[City of Fort Collins](https://www.fcgov.com/)** | **[Intern - Wellness](https://jobright.ai/jobs/info/69376e551c1c2161c13f4593?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 08 |
 | **[Genmab](https://www.genmab.com)** | **[Evidence Generation Intern](https://jobright.ai/jobs/info/69376117a0dde7020e30219a?utm_campaign=1056&utm_source=git)** | Princeton | Hybrid | Dec 08 |
-| **[DT Midstream](https://dtmidstream.com/)** | **[Land Management Intern - Houston, TX](https://jobright.ai/jobs/info/693767d31c1c2161c13f3f72?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[International Government & External Affairs Intern](https://jobright.ai/jobs/info/69375d60a0dde7020e301e1d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Internship – FedEx Corporate Diplomacy Intern](https://jobright.ai/jobs/info/693760bda0dde7020e302164?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/693740d9a0dde7020e300840?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Dec 06 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 06 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Emergency Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/692001ca3f782d2f1afc2100?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 06 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching (ACR) Intern](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
