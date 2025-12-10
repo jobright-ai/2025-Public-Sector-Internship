@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Dec 09 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e3aab95c305f206e2238?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
 | **[Tobii Dynavox®](http://www.tobiidynavox.com/)** | **[Policy and Contracting Intern](https://jobright.ai/jobs/info/6938c755aabec14a727daf3e?utm_campaign=1056&utm_source=git)** | Moon, PA | On Site | Dec 09 |
 | ↳ | **[Policy and Contracting Intern](https://jobright.ai/jobs/info/69389377b95c305f206dc286?utm_campaign=1056&utm_source=git)** | Pittsburgh - Moon Township | On Site | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
@@ -89,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 08 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2025 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6937bcc9a0dde7020e307934?utm_campaign=1056&utm_source=git)** | Minneapolis, MN | On Site | Dec 08 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69379387a0dde7020e30454a?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 08 |
+| **[Centerstone](https://centerstone.org/)** | **[Illinois Clinical Internship Program: Bachelors Level Social Work, Psychology and affiliated degrees](https://jobright.ai/jobs/info/6938e482b95c305f206e2437?utm_campaign=1056&utm_source=git)** | West Frankfort, IL | On Site | Dec 08 |
 | **[RAINN](http://rainn.org)** | **[Public Policy Internship](https://jobright.ai/jobs/info/6937a94aa0dde7020e3054e4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship](https://jobright.ai/jobs/info/693777dfa0dde7020e30343a?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 08 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/69322985d0010831497c0362?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 06 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Emergency Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/692001ca3f782d2f1afc2100?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 06 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching (ACR) Intern](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 06 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 05 |
-| ↳ | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Dec 05 |
-| **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/6933bbf7f131d96e48466a38?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Dec 05 |
-| **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/69339bfef131d96e48464d85?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 05 |
-| **[Discover Your Northwest](https://www.discovernw.org/)** | **[Grants Coordinator Intern](https://jobright.ai/jobs/info/6933c2de764507023d1b93bc?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
