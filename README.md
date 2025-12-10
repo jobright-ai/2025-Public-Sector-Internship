@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Relations Intern](https://jobright.ai/jobs/info/693909aa7548dd746be58aa4?utm_campaign=1056&utm_source=git)** | Detroit, MI | Remote | Dec 09 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Affairs - Intern](https://jobright.ai/jobs/info/6938f5fcaabec14a727de638?utm_campaign=1056&utm_source=git)** | North Wales, PA | Hybrid | Dec 09 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Dec 09 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 06 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Indigenous Relations](https://jobright.ai/jobs/info/69345642a0dde7020e2f5275?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | Hybrid | Dec 06 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Public Health Intern (Remote)](https://jobright.ai/jobs/info/69183e2315b415636718043d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Remote | Dec 06 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Inclusive Research Coordinator Intern](https://jobright.ai/jobs/info/68e0431b1852e62f007e98a1?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 06 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 06 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6917e43415b415636717c83a?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | Dec 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Dec 06 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 06 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Emergency Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/692001ca3f782d2f1afc2100?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 06 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching (ACR) Intern](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
