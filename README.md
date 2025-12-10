@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Global Regulatory Policy - Grad Research Intern](https://jobright.ai/jobs/info/69398f1eac80bb5492bc189a?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Dec 10 |
+| **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/6939885148a8ce22990d974f?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 10 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 10 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Relations Intern](https://jobright.ai/jobs/info/693909aa7548dd746be58aa4?utm_campaign=1056&utm_source=git)** | Detroit, MI | Remote | Dec 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Indigenous Relations](https://jobright.ai/jobs/info/69345642a0dde7020e2f5275?utm_campaign=1056&utm_source=git)** | British Columbia, Canada | Hybrid | Dec 06 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Public Health Intern (Remote)](https://jobright.ai/jobs/info/69183e2315b415636718043d?utm_campaign=1056&utm_source=git)** | Raleigh, NC | Remote | Dec 06 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 06 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6917e43415b415636717c83a?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | Dec 06 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
