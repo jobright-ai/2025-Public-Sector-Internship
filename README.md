@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e7b0ac80bb5492bc6200?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
-| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e36756b68f3dc4e737af?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Dec 10 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e36756b68f3dc4e737af?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Dec 10 |
+| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e81b56b68f3dc4e73afe?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6939c1fb48a8ce22990dc9a2?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Supportive Services DuPage](https://jobright.ai/jobs/info/6939bf1a56b68f3dc4e721f1?utm_campaign=1056&utm_source=git)** | Wheaton, IL | On Site | Dec 10 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Corporate Affairs Intern (3 months internship)](https://jobright.ai/jobs/info/6939bdbe56b68f3dc4e71f58?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 10 |
@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
 | **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6939cf31ac80bb5492bc5091?utm_campaign=1056&utm_source=git)** | Welch, MN | On Site | Dec 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e157aabec14a727dd254?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e3aab95c305f206e2238?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Stantec](http://www.stantec.com)** | **[Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/6938a3a3aabec14a727d8eab?utm_campaign=1056&utm_source=git)** | 70 NE Loop 410 Suite 1116, San Antonio, TX, 78216, US | On Site | Dec 09 |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/69389ecdaabec14a727d863d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
