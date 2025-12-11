@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Community Banking](https://jobright.ai/jobs/info/693aed6a5f2c001987ece861?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 11 |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Volunteer Services Intern, One Year: on-site](https://jobright.ai/jobs/info/693aea50d4054a2bc024d68e?utm_campaign=1056&utm_source=git)** | Children's Scottish Rite Hospital | On Site | Dec 11 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/693ae908b309e3780086a3dc?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 11 |
 | **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/691e28aaa49a885af9a25a0c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 11 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 11 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/693ae4d6d4054a2bc024d595?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 11 |
@@ -83,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[BCA-IEG Support Internship](https://jobright.ai/jobs/info/693a12d256b68f3dc4e76f30?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 10 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/693a050aac80bb5492bc88ea?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 10 |
 | **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/693a0b2c56b68f3dc4e76aa3?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Dec 10 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e81b56b68f3dc4e73afe?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
-| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939f58656b68f3dc4e744c7?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania | Remote | Dec 10 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939f58656b68f3dc4e744c7?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania | Remote | Dec 10 |
 | ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e87eac80bb5492bc6283?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Dec 10 |
+| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e7b0ac80bb5492bc6200?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6939c1fb48a8ce22990dc9a2?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Supportive Services DuPage](https://jobright.ai/jobs/info/6939bf1a56b68f3dc4e721f1?utm_campaign=1056&utm_source=git)** | Wheaton, IL | On Site | Dec 10 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Corporate Affairs Intern (3 months internship)](https://jobright.ai/jobs/info/6939bdbe56b68f3dc4e71f58?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Dec 10 |
@@ -116,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
 | **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6939cf31ac80bb5492bc5091?utm_campaign=1056&utm_source=git)** | Welch, MN | On Site | Dec 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e157aabec14a727dd254?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e3aab95c305f206e2238?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Stantec](http://www.stantec.com)** | **[Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/6938a3a3aabec14a727d8eab?utm_campaign=1056&utm_source=git)** | 70 NE Loop 410 Suite 1116, San Antonio, TX, 78216, US | On Site | Dec 09 |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/69389ecdaabec14a727d863d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
@@ -127,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/6938568bb95c305f206d7d01?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 09 |
 | **[Northmarq](http://www.northmarq.com)** | **[National Development Services Internship](https://jobright.ai/jobs/info/69386d09a0dde7020e310217?utm_campaign=1056&utm_source=git)** | DFW Metroplex | On Site | Dec 09 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f33?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Dec 09 |
+| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/693aeceed4054a2bc024d9ab?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 09 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/693846e4aabec14a727d24bf?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 09 |
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69203b65a49a885af9a379cb?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | ↳ | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/6930d724ef4b48533d14fcd8?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bread for the World](https://www.bread.org/)** | **[Domestic Policy Intern, Government Relations](https://jobright.ai/jobs/info/69378e76aabec14a727c93fd?utm_campaign=1056&utm_source=git)** | DC, Washington, DC, US | Hybrid | Dec 08 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (NEXCOM HOSPITALITY GROUP)](https://jobright.ai/jobs/info/69378daa1c1c2161c13f5a8f?utm_campaign=1056&utm_source=git)** | United States-Virginia-Virginia Beach | Hybrid | Dec 08 |
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/693787f4aabec14a727c902d?utm_campaign=1056&utm_source=git)** | Houston, TX; Washington, DC | On Site | Dec 08 |
-| **[American Lung Association](http://www.lung.org)** | **[Intern, Public Policy & Advocacy](https://jobright.ai/jobs/info/69377bceaabec14a727c8883?utm_campaign=1056&utm_source=git)** | Mankato, MN | On Site | Dec 08 |
-| **[Calgary Zoo](https://www.calgaryzoo.com/)** | **[Wilder Canada Action Plan (WCAP) Intern](https://jobright.ai/jobs/info/69379106a0dde7020e30435e?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Dec 08 |
-| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6937750ba0dde7020e303206?utm_campaign=1056&utm_source=git)** | Greater Houston | On Site | Dec 08 |
-| **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e1f94ef4b48533d13cc97?utm_campaign=1056&utm_source=git)** | Oakton, VA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
