@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EdTrust-West](http://edtrustwest.org/)** | **[Intern](https://jobright.ai/jobs/info/693a4ba6ac80bb5492bccc45?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 10 |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/693a3ba356b68f3dc4e7930d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/693a3b15ac80bb5492bcbf99?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 10 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/693a258aac80bb5492bca992?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Dec 10 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[BCA-IEG Support Internship](https://jobright.ai/jobs/info/693a12d256b68f3dc4e76f30?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 10 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/693a050aac80bb5492bc88ea?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 10 |
 | **[Girl Scouts of Southeast Florida](http://www.gssef.org)** | **[Government and Nonprofit Internship Program](https://jobright.ai/jobs/info/693a0b2c56b68f3dc4e76aa3?utm_campaign=1056&utm_source=git)** | Lake Worth, FL | On Site | Dec 10 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e7b0ac80bb5492bc6200?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
-| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939f28948a8ce22990de687?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania | Remote | Dec 10 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/6939f58656b68f3dc4e744c7?utm_campaign=1056&utm_source=git)** | Pittsburgh, Pennsylvania | Remote | Dec 10 |
+| ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e7b0ac80bb5492bc6200?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | Remote | Dec 10 |
 | ↳ | **[Policy Team Intern](https://jobright.ai/jobs/info/6939e87eac80bb5492bc6283?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia | Remote | Dec 10 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6939c1fb48a8ce22990dc9a2?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 10 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Supportive Services DuPage](https://jobright.ai/jobs/info/6939bf1a56b68f3dc4e721f1?utm_campaign=1056&utm_source=git)** | Wheaton, IL | On Site | Dec 10 |
@@ -107,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 09 |
 | **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6939cf31ac80bb5492bc5091?utm_campaign=1056&utm_source=git)** | Welch, MN | On Site | Dec 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Finance Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6938da63aabec14a727dc69c?utm_campaign=1056&utm_source=git)** | WI-Milwaukee | On Site | Dec 09 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e157aabec14a727dd254?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Research and Policy (Data Analyst) Intern](https://jobright.ai/jobs/info/6938e3aab95c305f206e2238?utm_campaign=1056&utm_source=git)** | Georgia - Fulton - Atlanta | Hybrid | Dec 09 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 09 |
 | **[Stantec](http://www.stantec.com)** | **[Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/6938a3a3aabec14a727d8eab?utm_campaign=1056&utm_source=git)** | 70 NE Loop 410 Suite 1116, San Antonio, TX, 78216, US | On Site | Dec 09 |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/69389ecdaabec14a727d863d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 09 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[American Lung Association](http://www.lung.org)** | **[Intern, Public Policy & Advocacy](https://jobright.ai/jobs/info/69377bceaabec14a727c8883?utm_campaign=1056&utm_source=git)** | Mankato, MN | On Site | Dec 08 |
 | **[Calgary Zoo](https://www.calgaryzoo.com/)** | **[Wilder Canada Action Plan (WCAP) Intern](https://jobright.ai/jobs/info/69379106a0dde7020e30435e?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Dec 08 |
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6937750ba0dde7020e303206?utm_campaign=1056&utm_source=git)** | Greater Houston | On Site | Dec 08 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69376ecc1c1c2161c13f4605?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Intern Staff PT](https://jobright.ai/jobs/info/692e1f94ef4b48533d13cc97?utm_campaign=1056&utm_source=git)** | Oakton, VA | On Site | Dec 08 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Public Work & Prevailing Wage Enforcement Internship - Hourly - Albany](https://jobright.ai/jobs/info/69376af71c1c2161c13f42bf?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 08 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Panasonic Foundation Intern (Spring 2026)](https://jobright.ai/jobs/info/69376e011c1c2161c13f4545?utm_campaign=1056&utm_source=git)** | Newark, NJ | On Site | Dec 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of College Station](http://www.cstx.gov)** | **[Long Range Planning Intern](https://jobright.ai/jobs/info/69373b71a0dde7020e300432?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Dec 08 |
 | **[Robinhood](https://www.robinhood.com)** | **[International Government & External Affairs Intern](https://jobright.ai/jobs/info/69373b651c1c2161c13f1c18?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 08 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/693760cda0dde7020e30216d?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 08 |
-| **[Bread for the World](https://www.bread.org/)** | **[International Policy Research Intern](https://jobright.ai/jobs/info/69375ef9aabec14a727c71fa?utm_campaign=1056&utm_source=git)** | Washington, DC, US | Hybrid | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
