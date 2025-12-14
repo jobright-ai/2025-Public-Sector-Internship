@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Dec 14 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 14 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/693ea04150bbaf7650513aef?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 14 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Clerks Office](https://jobright.ai/jobs/info/693e8ef0aa598a08c3eed5c4?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Dec 14 |
@@ -105,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[APTIM](https://www.aptim.com/)** | **[Sustainability Solutions Intern (STRIVE Program)](https://jobright.ai/jobs/info/693c646849a7695fbd033265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 12 |
 | **[State of Indiana](https://www.in.gov)** | **[Govenor's Summer Intern - BMV Branch Operations](https://jobright.ai/jobs/info/693c60d7aa598a08c3ed47db?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4a9850bbaf76504f86ec?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4c2449a7695fbd030e13?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f970609cc522e877436f4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 12 |
@@ -147,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69017bfad5259a1b3cff5487?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Dec 11 |
 | **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/691e28aaa49a885af9a25a0c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 11 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 11 |
+| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2026 Glynn D. Key 1L Summer Fellowship (Paid)](https://jobright.ai/jobs/info/693a1aaa48a8ce22990e18d5?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Dec 11 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[Policy and Government Affairs Intern](https://jobright.ai/jobs/info/693a6fe356b68f3dc4e7ccea?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Dec 10 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Dec 10 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/693a3b15ac80bb5492bcbf99?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 10 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Clerk's Office](https://jobright.ai/jobs/info/693e2ca1aa598a08c3ee8761?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Dec 10 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – International Advocacy](https://jobright.ai/jobs/info/693ce2f0aa598a08c3eda8db?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 10 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/693a258aac80bb5492bca992?utm_campaign=1056&utm_source=git)** | Washington, US | On Site | Dec 10 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Research Intern](https://jobright.ai/jobs/info/68c7cc75369c3763c743c389?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Airport Parking Policy & Strategy](https://jobright.ai/jobs/info/693a1d8148a8ce22990e1a89?utm_campaign=1056&utm_source=git)** | New York, New York | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
