@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - Unpaid](https://jobright.ai/jobs/info/6895076773b3a600fe88479d?utm_campaign=1056&utm_source=git)** | Syracuse-Auburn Area | On Site | Dec 14 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 14 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/693ec592aa598a08c3eef3cd?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Dec 14 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Evidence & Outcomes Intern](https://jobright.ai/jobs/info/6921e0a2a49a885af9a47def?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 14 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/693ea04150bbaf7650513aef?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 14 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Clerks Office](https://jobright.ai/jobs/info/693e8ef0aa598a08c3eed5c4?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Dec 14 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Govenor's Summer Intern - BMV Communications](https://jobright.ai/jobs/info/693b78a9b309e37800872b95?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 11 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Submarine Program Intern - Winter 2026](https://jobright.ai/jobs/info/693b721bd4054a2bc0255d57?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 11 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Nonprofit Administration Summer Intern](https://jobright.ai/jobs/info/693b5c77d4054a2bc02553d5?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Dec 11 |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693b48115f2c001987ed4244?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 11 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Maternal and Child Health Systems Intern](https://jobright.ai/jobs/info/690e390a221b890c2780bd92?utm_campaign=1056&utm_source=git)** | Greater Phoenix Area | Hybrid | Dec 11 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Phoenix Regional Office](https://jobright.ai/jobs/info/693b289bb309e3780086e188?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Dec 11 |
 | **[Democratic National Committee](https://democrats.org/)** | **[State Coordinated Director Talent Bank](https://jobright.ai/jobs/info/693b411cb309e3780086f74e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 11 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2026 Glynn D. Key 1L Summer Fellowship (Paid)](https://jobright.ai/jobs/info/693a1aaa48a8ce22990e18d5?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Dec 11 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[Policy and Government Affairs Intern](https://jobright.ai/jobs/info/693a6fe356b68f3dc4e7ccea?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Dec 10 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Dec 10 |
-| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/693a3ba356b68f3dc4e7930d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/693a3b15ac80bb5492bcbf99?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 10 |
-| **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Clerk's Office](https://jobright.ai/jobs/info/693e2ca1aa598a08c3ee8761?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Dec 10 |
-| **[PhRMA](http://phrma.org/)** | **[Spring Internship – International Advocacy](https://jobright.ai/jobs/info/693ce2f0aa598a08c3eda8db?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
