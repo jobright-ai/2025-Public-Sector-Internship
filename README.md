@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Burleson](https://www.burlesontx.com)** | **[Intern - Office of Emergency Management](https://jobright.ai/jobs/info/693dcdd949a7695fbd043202?utm_campaign=1056&utm_source=git)** | Burleson, TX | On Site | Dec 13 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/693ded7f49a7695fbd044dec?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 13 |
 | **[Minnesota Center for Environmental Advocacy](https://www.mncenter.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/693da47850bbaf765050a516?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/693d8b4eaa598a08c3ee26b4?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
@@ -74,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Dec 13 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/693d5dec50bbaf765050685d?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 13 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Spring 2026)](https://jobright.ai/jobs/info/693d44f450bbaf7650506491?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 13 |
-| **[UPS](http://www.ups.com)** | **[Director, International Government Affairs](https://jobright.ai/jobs/info/693d21e0aa598a08c3eddd93?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
+| **[UPS](http://www.ups.com)** | **[Director, International Government Affairs](https://jobright.ai/jobs/info/693d222249a7695fbd03c734?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[American Physical Society](http://www.aps.org/)** | **[Public Affairs Intern - Communicating Scientific Impacts](https://jobright.ai/jobs/info/6924c50eec574f4265bb6c9a?utm_campaign=1056&utm_source=git)** | College Park, MD | Remote | Dec 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Emergency Management Program Supervisor](https://jobright.ai/jobs/info/693d1f5d50bbaf7650503e79?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Dec 13 |
 | **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/691508f46f36db06ef04b00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 12 |
