@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/69401a4749a7695fbd05aeec?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 15 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/693feeb349a7695fbd058c7a?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 15 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/694011f150bbaf7650522c20?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 15 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/691987cb15b4156367185ffe?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Dec 15 |
 | **[City of Markham](https://www.markham.ca)** | **[Summer Student Planner – Policy and Research](https://jobright.ai/jobs/info/693fd37750bbaf7650520710?utm_campaign=1056&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 15 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/6906dc9d122e8474c78e1438?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Dec 15 |
@@ -74,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Center for Environmental Advocacy](https://www.mncenter.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/693da47850bbaf765050a516?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/693d8b4eaa598a08c3ee26b4?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d85e449a7695fbd040f21?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
+| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d851750bbaf7650508701?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Global Regulatory Policy - Grad Research Intern](https://jobright.ai/jobs/info/693d82e5aa598a08c3ee254a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/6903a9d2ff462851fefed422?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Dec 13 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Dec 13 |
@@ -108,11 +110,10 @@ For a complete list, click the following sortable link below:
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Internship - Policy (Paid) - Temporary](https://jobright.ai/jobs/info/693c7ce6aa598a08c3ed55be?utm_campaign=1056&utm_source=git)** | Montpelier, VT | On Site | Dec 12 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Intern](https://jobright.ai/jobs/info/693c7241aa598a08c3ed4fe7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/693c6f8caa598a08c3ed4eb5?utm_campaign=1056&utm_source=git)** | Redwood City, California, United States | On Site | Dec 12 |
-| **[Westchester Medical Center Health Network](http://WMCHealth.org)** | **[Intern](https://jobright.ai/jobs/info/693c67e6aa598a08c3ed4a5f?utm_campaign=1056&utm_source=git)** | Valhalla, NY | On Site | Dec 12 |
 | **[APTIM](https://www.aptim.com/)** | **[Sustainability Solutions Intern (STRIVE Program)](https://jobright.ai/jobs/info/693c646849a7695fbd033265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 12 |
 | **[State of Indiana](https://www.in.gov)** | **[Govenor's Summer Intern - BMV Branch Operations](https://jobright.ai/jobs/info/693c60d7aa598a08c3ed47db?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4a9850bbaf76504f86ec?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4c2449a7695fbd030e13?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f970609cc522e877436f4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 12 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69017bfad5259a1b3cff5487?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Dec 11 |
 | **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/691e28aaa49a885af9a25a0c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 11 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 11 |
+| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2026 Glynn D. Key 1L Summer Fellowship (Paid)](https://jobright.ai/jobs/info/693a1aaa48a8ce22990e18d5?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Dec 11 |
 | **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[Policy and Government Affairs Intern](https://jobright.ai/jobs/info/693a6fe356b68f3dc4e7ccea?utm_campaign=1056&utm_source=git)** | Washington,DC,US | Hybrid | Dec 10 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Dec 10 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/693a3ba356b68f3dc4e7930d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 10 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Policy Team Intern](https://jobright.ai/jobs/info/693a3b15ac80bb5492bcbf99?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
