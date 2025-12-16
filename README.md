@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Education Association](http://www.nea.org)** | **[NEA Public Affairs Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/69419a6250bbaf765053693f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 16 |
+| **[Houston Endowment](https://www.houstonendowment.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69418e8150bbaf76505360ec?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/69416a5250bbaf7650534004?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Government Affairs](https://jobright.ai/jobs/info/6924de39c0cefa13343e2f40?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 16 |
-| ↳ | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924dcf4ec574f4265bb7e8c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 16 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/694184d4bdcf884a5add4555?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Dec 16 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/6924dcf4ec574f4265bb7e8c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 16 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 16 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs and Social Impact Internship](https://jobright.ai/jobs/info/692492b1ec574f4265bb495b?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Federal Planning Intern - Summer 2026](https://jobright.ai/jobs/info/694172f5bdcf884a5add3f08?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PennEnvironment](http://pennenvironment.org)** | **[Intern](https://jobright.ai/jobs/info/693c7241aa598a08c3ed4fe7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/693c6f8caa598a08c3ed4eb5?utm_campaign=1056&utm_source=git)** | Redwood City, California, United States | On Site | Dec 12 |
 | **[Center for New Liberalism](https://cnliberalism.org/)** | **[Advocacy & Digital Fellow](https://jobright.ai/jobs/info/69410e0d49a7695fbd0691ac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
-| **[APTIM](https://www.aptim.com/)** | **[Sustainability Solutions Intern (STRIVE Program)](https://jobright.ai/jobs/info/693c646849a7695fbd033265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4a9850bbaf76504f86ec?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
