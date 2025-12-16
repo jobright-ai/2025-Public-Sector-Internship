@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 16 |
+| **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs and Social Impact Internship](https://jobright.ai/jobs/info/692492b1ec574f4265bb495b?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 16 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69414ad714ee092a69ff7e89?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 16 |
+| **[Tri Delta](https://www.tridelta.org)** | **[Housing Intern](https://jobright.ai/jobs/info/694155be14ee092a69ff7fa4?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 16 |
 | **[AACI (Asian Americans for Community Involvement)](https://www.aaci.org)** | **[Intern (Advocacy, Health & Social Services)](https://jobright.ai/jobs/info/69412e01bdcf884a5add1898?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6940f3b149a7695fbd06862b?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 15 |
 | **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6940efc149a7695fbd06859a?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 15 |
@@ -111,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Center for Environmental Advocacy](https://www.mncenter.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/693da47850bbaf765050a516?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/693d8b4eaa598a08c3ee26b4?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d85e449a7695fbd040f21?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
+| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d893f50bbaf765050887b?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Global Regulatory Policy - Grad Research Intern](https://jobright.ai/jobs/info/693d82e5aa598a08c3ee254a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/6903a9d2ff462851fefed422?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Dec 13 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Dec 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f970609cc522e877436f4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 12 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Dec 12 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Spring 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb11caefdec76df36b8794?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Dec 12 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/690328b998707b2b0fe75c06?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Submarine Programs Intern - Winter 2026](https://jobright.ai/jobs/info/693c095549a7695fbd02e04e?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
