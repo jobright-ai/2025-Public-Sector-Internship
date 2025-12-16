@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AACI (Asian Americans for Community Involvement)](https://www.aaci.org)** | **[Intern (Advocacy, Health & Social Services)](https://jobright.ai/jobs/info/69412e01bdcf884a5add1898?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6940f3b149a7695fbd06862b?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 15 |
 | **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6940efc149a7695fbd06859a?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 15 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Federal Child Care Policy Intern](https://jobright.ai/jobs/info/6940e5b549a7695fbd0668e9?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 15 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Center for Environmental Advocacy](https://www.mncenter.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/693da47850bbaf765050a516?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/693d8b4eaa598a08c3ee26b4?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d8471aa598a08c3ee2593?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
+| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d85e449a7695fbd040f21?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Global Regulatory Policy - Grad Research Intern](https://jobright.ai/jobs/info/693d82e5aa598a08c3ee254a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/6903a9d2ff462851fefed422?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Dec 13 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Dec 13 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Dec 13 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/693d5dec50bbaf765050685d?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 13 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Social Work Program (Spring 2026)](https://jobright.ai/jobs/info/693d44f450bbaf7650506491?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 13 |
-| **[UPS](http://www.ups.com)** | **[Director, International Government Affairs](https://jobright.ai/jobs/info/693d222249a7695fbd03c734?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
+| **[UPS](http://www.ups.com)** | **[Director, International Government Affairs](https://jobright.ai/jobs/info/693d21e0aa598a08c3eddd93?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[American Physical Society](http://www.aps.org/)** | **[Public Affairs Intern - Communicating Scientific Impacts](https://jobright.ai/jobs/info/6924c50eec574f4265bb6c9a?utm_campaign=1056&utm_source=git)** | College Park, MD | Remote | Dec 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Emergency Management Program Supervisor](https://jobright.ai/jobs/info/693d1f5d50bbaf7650503e79?utm_campaign=1056&utm_source=git)** | Middletown, CT | On Site | Dec 13 |
 | **[American Physical Society](http://www.aps.org/)** | **[Science Policy Intern](https://jobright.ai/jobs/info/691508f46f36db06ef04b00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 12 |
@@ -148,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[APTIM](https://www.aptim.com/)** | **[Sustainability Solutions Intern (STRIVE Program)](https://jobright.ai/jobs/info/693c646849a7695fbd033265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Dec 12 |
 | **[State of Indiana](https://www.in.gov)** | **[Govenor's Summer Intern - BMV Branch Operations](https://jobright.ai/jobs/info/693c60d7aa598a08c3ed47db?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4c2449a7695fbd030e13?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c4a9850bbaf76504f86ec?utm_campaign=1056&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f970609cc522e877436f4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Communications Intern - Spring 2026 - Minneapolis Regional Office](https://jobright.ai/jobs/info/68cb11caefdec76df36b8794?utm_campaign=1056&utm_source=git)** | Plymouth, MN | On Site | Dec 12 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/690328b998707b2b0fe75c06?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Submarine Programs Intern - Winter 2026](https://jobright.ai/jobs/info/693c095549a7695fbd02e04e?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 12 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
