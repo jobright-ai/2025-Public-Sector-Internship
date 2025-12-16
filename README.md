@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - DNR - Outreach and Education](https://jobright.ai/jobs/info/6941b21714ee092a69ffd33e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| **[BBVA](https://bbva.csod.com)** | **[Houston Sustainability Hub Internship](https://jobright.ai/jobs/info/6941ac4614ee092a69ffd0df?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Public Affairs Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/69419a6250bbaf765053693f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 16 |
 | **[Houston Endowment](https://www.houstonendowment.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69418e8150bbaf76505360ec?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/69416a5250bbaf7650534004?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
@@ -120,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Center for Environmental Advocacy](https://www.mncenter.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/693da47850bbaf765050a516?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/693d8b4eaa598a08c3ee26b4?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d8471aa598a08c3ee2593?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
+| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d85e449a7695fbd040f21?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Global Regulatory Policy - Grad Research Intern](https://jobright.ai/jobs/info/693d82e5aa598a08c3ee254a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Public Policy Intern](https://jobright.ai/jobs/info/6903a9d2ff462851fefed422?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Dec 13 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/693c9d9350bbaf76504fe606?utm_campaign=1056&utm_source=git)** | Honolulu, HI | On Site | Dec 12 |
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Internship - Policy (Paid) - Temporary](https://jobright.ai/jobs/info/693c7ce6aa598a08c3ed55be?utm_campaign=1056&utm_source=git)** | Montpelier, VT | On Site | Dec 12 |
 | **[PennEnvironment](http://pennenvironment.org)** | **[Intern](https://jobright.ai/jobs/info/693c7241aa598a08c3ed4fe7?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/693c6f8caa598a08c3ed4eb5?utm_campaign=1056&utm_source=git)** | Redwood City, California, United States | On Site | Dec 12 |
-| **[Center for New Liberalism](https://cnliberalism.org/)** | **[Advocacy & Digital Fellow](https://jobright.ai/jobs/info/69410e0d49a7695fbd0691ac?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
