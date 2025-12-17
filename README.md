@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6943164094730b7398761903?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[F. M. Kirby Foundation, Inc.](https://www.fmkirbyfoundation.org)** | **[Summer Philanthropy Intern](https://jobright.ai/jobs/info/6942ead294730b739875ec59?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 17 |
 | **[Formosan Association for Public Affairs](https://fapa.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6942e443dd382f5f5668d8ff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/6942cdd550bbaf765054ad52?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Dec 17 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Antique Landfills](https://jobright.ai/jobs/info/6942054050bbaf765053d639?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Watershed Assessment and Planning](https://jobright.ai/jobs/info/694255f650bbaf7650544df4?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Watershed Planning and Restoration](https://jobright.ai/jobs/info/69423c7814ee092a69006bdc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/6943109350bbaf765054e860?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6941fab114ee092a69001aa3?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[City of Jurupa Valley](https://www.jurupavalley.org/)** | **[ADMINISTRATIVE INTERN- COMMUNITY DEVELOPMENT](https://jobright.ai/jobs/info/6942387ebdcf884a5ade0657?utm_campaign=1056&utm_source=git)** | Jurupa Valley, CA | On Site | Dec 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Vera Action](https://jobright.ai/jobs/info/6941f3f614ee092a69001207?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/69409361aa598a08c3f03f41?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Dec 15 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6940c1e3aa598a08c3f05aa3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 15 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Nonprofit Administration Summer Intern](https://jobright.ai/jobs/info/6940856d49a7695fbd0611d4?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Dec 15 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Opening Doors](https://jobright.ai/jobs/info/694084ca49a7695fbd06103f?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 15 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Document Specialist / International Advisor](https://jobright.ai/jobs/info/694074dd49a7695fbd05f51c?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
