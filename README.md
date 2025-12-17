@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs Internship](https://jobright.ai/jobs/info/69429f8f94730b739875b5f6?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 17 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/689a284783d13d1f5b696733?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Dec 17 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69264cddf0beb07232623d74?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Dec 17 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6942a4e994730b739875b760?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 17 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/69427ce050bbaf7650546d18?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Dec 17 |
 | ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6942718f50bbaf76505460c9?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Dec 17 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Solid Waste Permits](https://jobright.ai/jobs/info/69425decbdcf884a5ade4033?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| ↳ | **[Governor's Summer Intern - IDEM - Data Mining](https://jobright.ai/jobs/info/69425c8514ee092a6900a498?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Program Support](https://jobright.ai/jobs/info/694251df50bbaf7650544c23?utm_campaign=1056&utm_source=git)** | Brownstown, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Data Mining](https://jobright.ai/jobs/info/694250ba50bbaf7650544bbb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Pollution Prevention & Compliance Assistance](https://jobright.ai/jobs/info/69424fa650bbaf7650544b1b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Technology](https://jobright.ai/jobs/info/694266a8bdcf884a5ade43b5?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69425fbf14ee092a6900a5d8?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/693f77feaa598a08c3ef50db?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Dec 14 |
 | **[City of Huntsville](https://www.linkedin.com/company/100087)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/693fdfb849a7695fbd058ab0?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 14 |
-| **[WesleyLife](https://www.wesleylife.org)** | **[Philanthropy Internship](https://jobright.ai/jobs/info/693f573a49a7695fbd05185d?utm_campaign=1056&utm_source=git)** | Des Moines Metro | On Site | Dec 14 |
-| **[City of Burbank](http://www.burbankca.gov)** | **[Police Operations Intern](https://jobright.ai/jobs/info/694091b249a7695fbd062279?utm_campaign=1056&utm_source=git)** | Montrose, CO | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
