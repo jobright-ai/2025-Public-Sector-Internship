@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6942718f50bbaf76505460c9?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Dec 17 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Solid Waste Permits](https://jobright.ai/jobs/info/69425decbdcf884a5ade4033?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Data Mining](https://jobright.ai/jobs/info/69425c8514ee092a6900a498?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Program Support](https://jobright.ai/jobs/info/694251df50bbaf7650544c23?utm_campaign=1056&utm_source=git)** | Brownstown, IN | On Site | Dec 16 |
+| ↳ | **[Governor's Summer Intern - IDEM - Data Mining](https://jobright.ai/jobs/info/694250ba50bbaf7650544bbb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Pollution Prevention & Compliance Assistance](https://jobright.ai/jobs/info/69424fa650bbaf7650544b1b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| ↳ | **[Governor's Summer Intern - IDEM - Technology](https://jobright.ai/jobs/info/694266a8bdcf884a5ade43b5?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69425fbf14ee092a6900a5d8?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| ↳ | **[Governor's Summer Intern - IDEM - Lake Michigan Programs](https://jobright.ai/jobs/info/694265d5bdcf884a5ade4346?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Vera Action](https://jobright.ai/jobs/info/69425dee14ee092a6900a527?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 16 |
 | ↳ | **[Summer 2026 - Intern, Advocacy & Partnerships](https://jobright.ai/jobs/info/694254a350bbaf7650544d95?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 16 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Dec 16 |
@@ -78,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[City of Jurupa Valley](https://www.jurupavalley.org/)** | **[ADMINISTRATIVE INTERN- COMMUNITY DEVELOPMENT](https://jobright.ai/jobs/info/6942387ebdcf884a5ade0657?utm_campaign=1056&utm_source=git)** | Jurupa Valley, CA | On Site | Dec 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Vera Action](https://jobright.ai/jobs/info/6941f3f614ee092a69001207?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 16 |
 | ↳ | **[Summer 2026 - Intern, Advocacy & Partnerships](https://jobright.ai/jobs/info/6941ef2d50bbaf765053bdc7?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 16 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Air Permit Writer](https://jobright.ai/jobs/info/69420b1f50bbaf765053dc2d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69420aea14ee092a690027cb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69420aea14ee092a690027cb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| ↳ | **[Governor's Summer Intern - IDEM - Air Permit Writer](https://jobright.ai/jobs/info/69420ff414ee092a69002e46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6942102850bbaf765053e1fe?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 16 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/6942055814ee092a69002222?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 16 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69420e02bdcf884a5addc6d0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
 | **[City of Santa Clarita](https://www.santa-clarita.com/home)** | **[College Intern, City Clerks Office](https://jobright.ai/jobs/info/693e8ef0aa598a08c3eed5c4?utm_campaign=1056&utm_source=git)** | Santa Clarita, CA | On Site | Dec 14 |
 | **[Minnesota Center for Environmental Advocacy](https://www.mncenter.org)** | **[Legislative Intern](https://jobright.ai/jobs/info/693da47850bbaf765050a516?utm_campaign=1056&utm_source=git)** | St Paul, MN | Hybrid | Dec 13 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6921075e00c9ee50eaecae97?utm_campaign=1056&utm_source=git)** | Concord, NH | Hybrid | Dec 13 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/693d8b4eaa598a08c3ee26b4?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
-| **[Virtua Health](https://www.virtua.org/)** | **[Healthy Neighbor Program, Intern, Per Diem, Temporary](https://jobright.ai/jobs/info/693d851750bbaf7650508701?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
