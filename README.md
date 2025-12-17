@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F. M. Kirby Foundation, Inc.](https://www.fmkirbyfoundation.org)** | **[Summer Philanthropy Intern](https://jobright.ai/jobs/info/6942ead294730b739875ec59?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 17 |
+| **[Formosan Association for Public Affairs](https://fapa.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6942e443dd382f5f5668d8ff?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Vulnerability Governance Undergraduate Intern](https://jobright.ai/jobs/info/6942cdd550bbaf765054ad52?utm_campaign=1056&utm_source=git)** | Erie-Meadville Area | On Site | Dec 17 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/6942cd0f50bbaf765054acdd?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Dec 17 |
 | **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69353896a0dde7020e2f7ebc?utm_campaign=1056&utm_source=git)** | White Plains, NY | On Site | Dec 17 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Claims Administration Intern - Summer 2026](https://jobright.ai/jobs/info/6942ca9494730b739875d487?utm_campaign=1056&utm_source=git)** | West Des Moines, IA | On Site | Dec 17 |
+| **[Health Alliance Plan](https://www.hap.org)** | **[2026 College Intern - IT (in person Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6942d8b050bbaf765054b32b?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Dec 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Dec 17 |
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692166d33f782d2f1afd1d3f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
+| **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Dec 17 |
+| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Outreach Intern](https://jobright.ai/jobs/info/6942d0fe94730b739875da7e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs Internship](https://jobright.ai/jobs/info/69429f8f94730b739875b5f6?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 17 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Frisco, Public Works, Internship](https://jobright.ai/jobs/info/689a284783d13d1f5b696733?utm_campaign=1056&utm_source=git)** | Frisco, TX | On Site | Dec 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Nonprofit Administration Summer Intern](https://jobright.ai/jobs/info/6940856d49a7695fbd0611d4?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Dec 15 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Opening Doors](https://jobright.ai/jobs/info/694084ca49a7695fbd06103f?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 15 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Document Specialist / International Advisor](https://jobright.ai/jobs/info/694074dd49a7695fbd05f51c?utm_campaign=1056&utm_source=git)** | Lawrence, KS | On Site | Dec 15 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship-Government Relations/Outreach](https://jobright.ai/jobs/info/694086e349a7695fbd0614c4?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
-| **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69408ef9aa598a08c3f03c29?utm_campaign=1056&utm_source=git)** | CINCINNATI, OH - HEADQUARTERS | On Site | Dec 15 |
-| **[Dakota County](http://www.dakotacounty.us)** | **[Temporary Elections Lead (Internal Only)](https://jobright.ai/jobs/info/6940683650bbaf7650526ba5?utm_campaign=1056&utm_source=git)** | Hastings, MN | On Site | Dec 15 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Healthcare Administration](https://jobright.ai/jobs/info/694052e749a7695fbd05df34?utm_campaign=1056&utm_source=git)** | Little Rock | On Site | Dec 15 |
-| **[Vermont Natural Resources Council](https://vnrc.org)** | **[2026 Mollie Beattie Internship](https://jobright.ai/jobs/info/694075c8aa598a08c3f012f6?utm_campaign=1056&utm_source=git)** | Montpelier, VT | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
