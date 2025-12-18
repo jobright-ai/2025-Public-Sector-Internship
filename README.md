@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/690a9cfbbcccf20de59e4528?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a68e0bcccf20de59e1dbb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 18 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Dec 18 |
@@ -128,9 +129,9 @@ For a complete list, click the following sortable link below:
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6941fab114ee092a69001aa3?utm_campaign=1056&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Vera Action](https://jobright.ai/jobs/info/6941f3f614ee092a69001207?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 16 |
 | ↳ | **[Summer 2026 - Intern, Advocacy & Partnerships](https://jobright.ai/jobs/info/6941ef2d50bbaf765053bdc7?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 16 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69420aea14ee092a690027cb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Air Permit Writer](https://jobright.ai/jobs/info/69420b1f50bbaf765053dc2d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
+| ↳ | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69420aea14ee092a690027cb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Air Permit Writer](https://jobright.ai/jobs/info/69420ff414ee092a69002e46?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6942102850bbaf765053e1fe?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 16 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69420e02bdcf884a5addc6d0?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6941fa4814ee092a69001a6c?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Corporate Affairs](https://jobright.ai/jobs/info/69428d9294730b739875b21f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69414ad714ee092a69ff7e89?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 16 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924eb8a38cd5478a8d5ffa7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Dec 16 |
-| **[Tri Delta](https://www.tridelta.org)** | **[Housing Intern](https://jobright.ai/jobs/info/694155be14ee092a69ff7fa4?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
