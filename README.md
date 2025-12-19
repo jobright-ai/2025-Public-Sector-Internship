@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leadership Triangle](https://leadershiptriangle.com)** | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/694532f8d1953b5d11be2b15?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | Dec 19 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 19 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 19 |
+| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6945276ed1953b5d11be25ac?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 19 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Government & Community Relations Intern](https://jobright.ai/jobs/info/6945069e50bbaf76505713b7?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| **[Jacksonville Transportation Authority](https://www.jtafla.com/)** | **[Internship - Public Affairs Division](https://jobright.ai/jobs/info/690a53464a1b456627b063f0?utm_campaign=1056&utm_source=git)** | Jacksonville, FL | On Site | Dec 18 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Innovation and Data Intern (Administrative Intern) - Office of Innovation (Temporary Part-Time)](https://jobright.ai/jobs/info/6942436150bbaf76505425ad?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Dec 18 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International's Internship Program (Summer 2026)](https://jobright.ai/jobs/info/6944bd6ba7227b3ece666944?utm_campaign=1056&utm_source=git)** | Blue Bell, PA | On Site | Dec 18 |
 | **[American University](http://american.edu)** | **[Reilly Intern (Student)](https://jobright.ai/jobs/info/6944ac6d50bbaf765056c40c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 18 |
@@ -109,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Dec 18 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/6943cf2ddd382f5f5669f745?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 18 |
+| **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6940efc149a7695fbd06859a?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 18 |
 | **[Resources for the Future](http://www.rff.org/)** | **[2026 Summer Research Internship: Analysis of Fossil Fuel Community Support Programs](https://jobright.ai/jobs/info/6943a073dd382f5f5669bce7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Healthcare Administration](https://jobright.ai/jobs/info/6940a00c49a7695fbd062ba3?utm_campaign=1056&utm_source=git)** | Little Rock, AR | On Site | Dec 17 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26019 PSE Corporate Philanthropy Intern](https://jobright.ai/jobs/info/6944bee150bbaf765056d4bc?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/69427ce050bbaf7650546d18?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Dec 17 |
 | ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/6942718f50bbaf76505460c9?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Dec 17 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Solid Waste Permits](https://jobright.ai/jobs/info/69425decbdcf884a5ade4033?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Program Support](https://jobright.ai/jobs/info/694251df50bbaf7650544c23?utm_campaign=1056&utm_source=git)** | Brownstown, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Data Mining](https://jobright.ai/jobs/info/694250ba50bbaf7650544bbb?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Pollution Prevention & Compliance Assistance](https://jobright.ai/jobs/info/69424fa650bbaf7650544b1b?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Technology](https://jobright.ai/jobs/info/694266a8bdcf884a5ade43b5?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69425fbf14ee092a6900a5d8?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
-| ↳ | **[Governor's Summer Intern - IDEM - Lake Michigan Programs](https://jobright.ai/jobs/info/694265d5bdcf884a5ade4346?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
