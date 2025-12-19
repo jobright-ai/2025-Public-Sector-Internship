@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[State Program Manager(Bureau of Special Investigations)](https://jobright.ai/jobs/info/69446c8bdd382f5f566a8d3d?utm_campaign=1056&utm_source=git)** | Meriden, CT | On Site | Dec 18 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69446a1350bbaf76505667aa?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 18 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026: Government Security Intern (Onsite)](https://jobright.ai/jobs/info/6944637150bbaf765056607e?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 18 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Emergency Services Intern](https://jobright.ai/jobs/info/69447a7f94730b739877b4b9?utm_campaign=1056&utm_source=git)** | Auburn, AL | On Site | Dec 18 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[National Security Solutions (NSS) Internship – Subcontracts Intern](https://jobright.ai/jobs/info/69445807dd382f5f566a72af?utm_campaign=1056&utm_source=git)** | Chantilly, VA | On Site | Dec 18 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6944777150bbaf76505681e4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governor's Summer Intern - IDEM - Technology](https://jobright.ai/jobs/info/694266a8bdcf884a5ade43b5?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/69425fbf14ee092a6900a5d8?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Governor's Summer Intern - IDEM - Lake Michigan Programs](https://jobright.ai/jobs/info/694265d5bdcf884a5ade4346?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 16 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Vera Action](https://jobright.ai/jobs/info/69425dee14ee092a6900a527?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
