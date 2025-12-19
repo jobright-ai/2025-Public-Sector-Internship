@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/69458a5363141d18845517c6?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
+| **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6945819e9516540735379df5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 19 |
+| **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Intern, ANS](https://jobright.ai/jobs/info/6945808b63141d1884550f45?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Dec 19 |
+| **[Indiana University Foundation](https://iufoundation.iu.edunotes)** | **[Summer 2026 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/69457222d1953b5d11be6542?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Dec 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692884c3f0beb07232630a3b?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 19 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/694392d694730b739876c30a?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 19 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Federal and External Affairs, U.S. Climate Alliance](https://jobright.ai/jobs/info/69446a1350bbaf76505667aa?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Dec 18 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026: Government Security Intern (Onsite)](https://jobright.ai/jobs/info/6944637150bbaf765056607e?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 18 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
-| **[KBR, Inc.](https://www.kbr.com)** | **[National Security Solutions (NSS) Internship – Subcontracts Intern](https://jobright.ai/jobs/info/69445807dd382f5f566a72af?utm_campaign=1056&utm_source=git)** | Chantilly, VA | On Site | Dec 18 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6944777150bbaf76505681e4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 18 |
 | **[Johnson County Iowa](https://www.johnsoncountyiowa.gov)** | **[Elections Intern](https://jobright.ai/jobs/info/69445624dd382f5f566a70ea?utm_campaign=1056&utm_source=git)** | Iowa City, IA | On Site | Dec 18 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Internship – ICAO Gender Equality Programme](https://jobright.ai/jobs/info/6944552194730b7398777e36?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | Hybrid | Dec 18 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern - PIO](https://jobright.ai/jobs/info/694438d4dd382f5f566a4315?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Ross County | On Site | Dec 18 |
 | ↳ | **[College Intern - PIO](https://jobright.ai/jobs/info/6944386c94730b73987753da?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Ross County-Chillicothe | On Site | Dec 18 |
 | **[Harmony Biosciences](https://www.harmonybiosciences.com)** | **[Summer Intern - Medical Affairs](https://jobright.ai/jobs/info/694436a894730b7398775208?utm_campaign=1056&utm_source=git)** | Plymouth Meeting Office, Plymouth Meeting, PA, US | On Site | Dec 18 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Subcontracts Intern](https://jobright.ai/jobs/info/69442c8050bbaf76505622f7?utm_campaign=1056&utm_source=git)** | Chantilly, Virginia | On Site | Dec 18 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026: Government Security Intern (Onsite)](https://jobright.ai/jobs/info/694424b050bbaf7650561dc0?utm_campaign=1056&utm_source=git)** | MA105: BBN Headquarters 10 Moulton Street  , Cambridge, MA, 02138 USA | On Site | Dec 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Grants and Research Development Intern: Co-op Model](https://jobright.ai/jobs/info/68ed82bd81fdd1626d39d310?utm_campaign=1056&utm_source=git)** | Bentonville, AR | On Site | Dec 18 |
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/690a9cfbbcccf20de59e4528?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Dakota County](http://www.dakotacounty.us)** | **[Temporary Elections Lead (Internal Only)](https://jobright.ai/jobs/info/6943591a50bbaf76505538d1?utm_campaign=1056&utm_source=git)** | Dakota County, MN | On Site | Dec 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69434b67dd382f5f56694b39?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69432a7b94730b7398762baa?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 17 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69434ec8dd382f5f56694e5e?utm_campaign=1056&utm_source=git)** | Ashburn, Virginia | On Site | Dec 17 |
-| ↳ | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/6943542894730b7398766101?utm_campaign=1056&utm_source=git)** | Denver, Colorado | On Site | Dec 17 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/6943542894730b7398766101?utm_campaign=1056&utm_source=git)** | Denver, Colorado | On Site | Dec 17 |
+| ↳ | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69434ec8dd382f5f56694e5e?utm_campaign=1056&utm_source=git)** | Ashburn, Virginia | On Site | Dec 17 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Community Engagement](https://jobright.ai/jobs/info/69435401dd382f5f56695181?utm_campaign=1056&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 17 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Customer Segment Strategy (Policy, Evidence & Access Strategy)](https://jobright.ai/jobs/info/69433a2e50bbaf7650551787?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 17 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Farm Energy Intern - Unpaid Internship](https://jobright.ai/jobs/info/69432fc7dd382f5f56692061?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-225 Turnpike Road-Southborough | On Site | Dec 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692166d33f782d2f1afd1d3f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Dec 17 |
 | **[City of New York](http://www1.nyc.gov)** | **[Sustainability Outreach Intern](https://jobright.ai/jobs/info/6942d0fe94730b739875da7e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 17 |
-| **[Symetra](http://www.symetra.com)** | **[2026 Public Affairs Internship](https://jobright.ai/jobs/info/69429f8f94730b739875b5f6?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Public Policy](https://jobright.ai/jobs/info/690938f24a1b456627afe338?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
