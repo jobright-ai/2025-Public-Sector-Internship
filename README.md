@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/69458a5363141d18845517c6?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/6945a8a0951654073537c35d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/6945a7a7951654073537c24d?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 19 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a723d1953b5d11bea383?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
+| ↳ | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a1a563141d1884552e41?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/69459b6d63141d1884552922?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 19 |
+| **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Part-Time)](https://jobright.ai/jobs/info/694597ae63141d1884552420?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
+| ↳ | **[Spring 2025 Clinical Economics Intern (Full-Time)](https://jobright.ai/jobs/info/69459227d1953b5d11be8f19?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6945819e9516540735379df5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 19 |
 | **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Intern, ANS](https://jobright.ai/jobs/info/6945808b63141d1884550f45?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Dec 19 |
 | **[Indiana University Foundation](https://iufoundation.iu.edunotes)** | **[Summer 2026 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/69457222d1953b5d11be6542?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Dec 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 College Intern - IT (in person Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6943262250bbaf765054fe1c?utm_campaign=1056&utm_source=git)** | Troy, Michigan | On Site | Dec 17 |
 | **[F. M. Kirby Foundation, Inc.](https://www.fmkirbyfoundation.org)** | **[Summer Philanthropy Intern](https://jobright.ai/jobs/info/6942ead294730b739875ec59?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 17 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Healthcare Administration - Gannon University - Graduate Internship](https://jobright.ai/jobs/info/6942cd0f50bbaf765054acdd?utm_campaign=1056&utm_source=git)** | Erie, PA | On Site | Dec 17 |
-| **[Atlas Air](https://www.atlasairworldwide.com)** | **[Defense & Government Analyst SkillBridge Intern](https://jobright.ai/jobs/info/69353896a0dde7020e2f7ebc?utm_campaign=1056&utm_source=git)** | White Plains, NY | On Site | Dec 17 |
-| **[Health Alliance Plan](https://www.hap.org)** | **[2026 College Intern - IT (in person Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6942d8b050bbaf765054b32b?utm_campaign=1056&utm_source=git)** | Troy, MI | On Site | Dec 17 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6823669b1be4e839f7aa1d01?utm_campaign=1056&utm_source=git)** | Pasadena, CA | On Site | Dec 17 |
-| **[Coinbase](https://www.coinbase.com)** | **[Policy Intern](https://jobright.ai/jobs/info/692166d33f782d2f1afd1d3f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| **[CN](http://www.cn.ca)** | **[Intern, Security (Organizational Resilience)- EN](https://jobright.ai/jobs/info/69268d0227bf2f41a2c46f28?utm_campaign=1056&utm_source=git)** | Ontario, Canada | On Site | Dec 17 |
-| **[City of New York](http://www1.nyc.gov)** | **[Sustainability Outreach Intern](https://jobright.ai/jobs/info/6942d0fe94730b739875da7e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
