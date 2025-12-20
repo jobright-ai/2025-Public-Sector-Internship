@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6946d46c7d506e3808f23465?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 20 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Dec 20 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/6944e97f50bbaf765056f442?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/691ac83915b415636718a8ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[External Relations Intern](https://jobright.ai/jobs/info/690a9cfbbcccf20de59e4528?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a68e0bcccf20de59e1dbb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 18 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
-| **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
