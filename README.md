@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APTIM](https://www.aptim.com/)** | **[Sustainability Solutions Intern (STRIVE Program)](https://jobright.ai/jobs/info/693c646849a7695fbd033265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
+| **[City of Colleyville, TX](https://www.colleyville.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/6945fb0ad1953b5d11bf0976?utm_campaign=1056&utm_source=git)** | Colleyville, TX | On Site | Dec 19 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/6945fad1d1953b5d11bf08d1?utm_campaign=1056&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Dec 19 |
+| **[KBR, Inc.](https://www.kbr.com)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/6945eddc7d506e3808f12f72?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Dec 19 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Corp Social Responsibility](https://jobright.ai/jobs/info/6945eca97d506e3808f12ef7?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
+| **[Novogradac & Company LLP](https://www.novoco.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6945ea7663141d1884558623?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6945d2b163141d18845571d2?utm_campaign=1056&utm_source=git)** | Central Islip, NY | On Site | Dec 19 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Legislative Policy Intern.](https://jobright.ai/jobs/info/6945cd2563141d188455581b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Dec 19 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/6945c797951654073537e4a0?utm_campaign=1056&utm_source=git)** | Ann Arbor, Michigan | On Site | Dec 19 |
@@ -86,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/694392d694730b739876c30a?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Dec 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Dec 19 |
-| **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/694540be9516540735374f2a?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[DPI SAFE Home Program Management Intern](https://jobright.ai/jobs/info/694532f8d1953b5d11be2b15?utm_campaign=1056&utm_source=git)** | Durham, NC | Remote | Dec 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Dec 19 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Dec 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/694365f6dd382f5f56696ece?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Dec 17 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy)](https://jobright.ai/jobs/info/694362d050bbaf7650554950?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 17 |
 | ↳ | **[2026 Summer Intern - US Policy and Evidence](https://jobright.ai/jobs/info/6943612550bbaf7650554620?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| **[Dakota County](http://www.dakotacounty.us)** | **[Temporary Elections Lead (Internal Only)](https://jobright.ai/jobs/info/6943591a50bbaf76505538d1?utm_campaign=1056&utm_source=git)** | Dakota County, MN | On Site | Dec 17 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/69434b67dd382f5f56694b39?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 17 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Patient Strategy](https://jobright.ai/jobs/info/69432a7b94730b7398762baa?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 17 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69434ec8dd382f5f56694e5e?utm_campaign=1056&utm_source=git)** | Ashburn, Virginia | On Site | Dec 17 |
-| ↳ | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/6943542894730b7398766101?utm_campaign=1056&utm_source=git)** | Denver, Colorado | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
