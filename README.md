@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/6946d46c7d506e3808f23465?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 20 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Dec 20 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/6944e97f50bbaf765056f442?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/691ac83915b415636718a8ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Dec 20 |
@@ -90,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Delaware River Port Authority](http://drpa.org)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945b60b63141d1884554534?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/6945d8e795165407353809c4?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 19 |
 | **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945aa81951654073537c58b?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
-| ↳ | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945b72a951654073537d46a?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
+| ↳ | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a1a563141d1884552e41?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Part-Time)](https://jobright.ai/jobs/info/694597ae63141d1884552420?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/6945b2e3951654073537cdd6?utm_campaign=1056&utm_source=git)** | Cleveland, OH | Remote | Dec 19 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Full-Time)](https://jobright.ai/jobs/info/69459227d1953b5d11be8f19?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
@@ -98,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6945819e9516540735379df5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 19 |
 | **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Intern, ANS](https://jobright.ai/jobs/info/6945808b63141d1884550f45?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Dec 19 |
 | **[Indiana University Foundation](https://iufoundation.iu.edunotes)** | **[Summer 2026 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/69457222d1953b5d11be6542?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Dec 19 |
-| **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/69288606f0beb07232630aae?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
-| ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692884c3f0beb07232630a3b?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 19 |
+| **[CN](http://www.cn.ca)** | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/692884c3f0beb07232630a3b?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 19 |
 | ↳ | **[Intern, Public Affairs - Indigenous- EN](https://jobright.ai/jobs/info/694392d694730b739876c30a?utm_campaign=1056&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Dec 19 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Dec 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Dec 18 |
+| **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6940efc149a7695fbd06859a?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 18 |
+| **[Resources for the Future](http://www.rff.org/)** | **[2026 Summer Research Internship: Analysis of Fossil Fuel Community Support Programs](https://jobright.ai/jobs/info/6943a073dd382f5f5669bce7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
