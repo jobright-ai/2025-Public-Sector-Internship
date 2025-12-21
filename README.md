@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Dec 21 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6947c77b63141d1884578f4c?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 21 |
 | **[Strategic Political Management](https://www.strategic-political.com/)** | **[Intern - Political Operations](https://jobright.ai/jobs/info/69478451d1953b5d11c093aa?utm_campaign=1056&utm_source=git)** | Dallas, TX | Hybrid | Dec 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/69477d807d506e3808f2bf4b?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 20 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Dec 20 |
@@ -89,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Civil Policy Intern](https://jobright.ai/jobs/info/6945b654d1953b5d11beb4e3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Delaware River Port Authority](http://drpa.org)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945b60b63141d1884554534?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/6945d8e795165407353809c4?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 19 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945aa81951654073537c58b?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/6945a8a0951654073537c35d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
-| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a723d1953b5d11bea383?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
-| ↳ | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a1a563141d1884552e41?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945b72a951654073537d46a?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Part-Time)](https://jobright.ai/jobs/info/694597ae63141d1884552420?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/6945b2e3951654073537cdd6?utm_campaign=1056&utm_source=git)** | Cleveland, OH | Remote | Dec 19 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Full-Time)](https://jobright.ai/jobs/info/69459227d1953b5d11be8f19?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Research Internship - NYC](https://jobright.ai/jobs/info/690a68e0bcccf20de59e1dbb?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Dec 18 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 | **[NAACP Legal Defense and Education Fund, Inc.](http://www.naacpldf.org)** | **[Intern, Policy](https://jobright.ai/jobs/info/690a9278d046ab6061cde438?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Governance Intern](https://jobright.ai/jobs/info/68d19859cece431f8b585981?utm_campaign=1056&utm_source=git)** | Carlisle, PA | Hybrid | Dec 18 |
-| **[First Student](http://www.firststudentinc.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6940efc149a7695fbd06859a?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
