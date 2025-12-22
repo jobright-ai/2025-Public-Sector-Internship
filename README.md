@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
+| **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | ↳ | **[Governor's Summer Intern - MPH Communications](https://jobright.ai/jobs/info/694990be7d506e3808f4b6a0?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Oral Health Intern](https://jobright.ai/jobs/info/69498f42d1953b5d11c28d36?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 22 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governor's Summer Intern - IDEM - Groundwater](https://jobright.ai/jobs/info/69498c3c63141d188459236a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/69498c127d506e3808f4ae80?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Dec 22 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/6949a7ae63141d1884594687?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694981d363141d1884591823?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 22 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy and Research Intern (HBCU Promise)Intern](https://jobright.ai/jobs/info/6938e3c7a0dde7020e318398?utm_campaign=1056&utm_source=git)** | Triangle Area | On Site | Dec 22 |
 | ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6944777150bbaf76505681e4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 22 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69492c4063141d188458d9af?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/69322985d0010831497c0362?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 21 |
-| **[ZobeLab](http://www.ZobeLab.com)** | **[Grant Specialist Internship](https://jobright.ai/jobs/info/6948d7da63141d1884588aed?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 21 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/6948aa9363141d1884584f00?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69489c11d1953b5d11c1ab02?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
 | **[City of Lenexa](https://www.lenexa.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69499ac163141d18845938a4?utm_campaign=1056&utm_source=git)** | Lenexa, KS | On Site | Dec 21 |
@@ -130,12 +132,12 @@ For a complete list, click the following sortable link below:
 | **[Delaware River Port Authority](http://drpa.org)** | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945ba3063141d18845548cb?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Civil Policy Intern](https://jobright.ai/jobs/info/6945b654d1953b5d11beb4e3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Delaware River Port Authority](http://drpa.org)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945b60b63141d1884554534?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/6945a8a0951654073537c35d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
-| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a723d1953b5d11bea383?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
-| ↳ | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945b72a951654073537d46a?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Government Relations & Community Relations Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945aa81951654073537c58b?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
+| ↳ | **[Summer Grants Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945a1a563141d1884552e41?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Part-Time)](https://jobright.ai/jobs/info/694597ae63141d1884552420?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/6948fa5a7d506e3808f43411?utm_campaign=1056&utm_source=git)** | Cleveland, OH | Remote | Dec 19 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Spring 2025 Clinical Economics Intern (Full-Time)](https://jobright.ai/jobs/info/69459227d1953b5d11be8f19?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Dec 19 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/69458a5363141d18845517c6?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/6945819e9516540735379df5?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Dec 19 |
 | **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Intern, ANS](https://jobright.ai/jobs/info/6945808b63141d1884550f45?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Dec 19 |
 | **[Indiana University Foundation](https://iufoundation.iu.edunotes)** | **[Summer 2026 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/69457222d1953b5d11be6542?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Reilly Intern (Student)](https://jobright.ai/jobs/info/6944ac6d50bbaf765056c40c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 18 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Summer 2026 Government Relations Intern](https://jobright.ai/jobs/info/6944ab8ca7227b3ece6657d0?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Dec 18 |
 | ↳ | **[Summer 2026 Communications & Public Affairs Intern (NYC)](https://jobright.ai/jobs/info/6944aa0b94730b739877edfb?utm_campaign=1056&utm_source=git)** | New York,NY,US | On Site | Dec 18 |
-| ↳ | **[Summer 2026 Communications & Public Affairs Intern (DC)](https://jobright.ai/jobs/info/6944a7cf50bbaf765056c029?utm_campaign=1056&utm_source=git)** | Washington,DC,US | On Site | Dec 18 |
-| **[DPR Construction](http://www.dpr.com)** | **[GSR Coordinator Intern](https://jobright.ai/jobs/info/6944a4f994730b739877eb48?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
