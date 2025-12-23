@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/694b0b7c1224705e90021e5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 23 |
+| **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/693249df764507023d1acaa9?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
+| **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Private Philanthropy](https://jobright.ai/jobs/info/694b00e43019f50a4fe6084d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
+| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Data Strategist Intern - Economic Mobility](https://jobright.ai/jobs/info/694b0c951224705e90021f3f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/694acfad1224705e9001f7b0?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 23 |
 | **[Plains All American](https://www.plains.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694ac8c83019f50a4fe5d4d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694ae1371224705e9002037f?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 23 |
@@ -111,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 22 |
 | **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Board Intern](https://jobright.ai/jobs/info/6949909a7d506e3808f4b66c?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Dec 22 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/694962637d506e3808f48c51?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Graduate Internship](https://jobright.ai/jobs/info/69498b287d506e3808f4ad16?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
 | **[Champaign Park District](https://champaignparks.com)** | **[CU Special Recreation Intern (Unpaid)](https://jobright.ai/jobs/info/6949941d7d506e3808f4ba68?utm_campaign=1056&utm_source=git)** | CUSR Center - Champaign, IL 61821 | On Site | Dec 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Energy Policy](https://jobright.ai/jobs/info/68f2a1b59a65fd345857e58b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
@@ -141,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Dec 21 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6947eb50d1953b5d11c10535?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 21 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Campus Parking Enforcement Officer (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/6947c77b63141d1884578f4c?utm_campaign=1056&utm_source=git)** | Jacksonville, AL | On Site | Dec 21 |
+| **[City of Colleyville, TX](https://www.colleyville.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/694afd793019f50a4fe60516?utm_campaign=1056&utm_source=git)** | Colleyville, TX | On Site | Dec 20 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Dec 20 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Communications & Public Affairs Intern](https://jobright.ai/jobs/info/691ac83915b415636718a8ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Dec 20 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/6946773763141d1884563b72?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | ↳ | **[Summer 2026 India Program Intern](https://jobright.ai/jobs/info/69460d1263141d188455bbc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[WesleyLife](https://www.wesleylife.org)** | **[Philanthropy Internship](https://jobright.ai/jobs/info/693f573a49a7695fbd05185d?utm_campaign=1056&utm_source=git)** | Des Moines Metro | On Site | Dec 19 |
-| **[APTIM](https://www.aptim.com/)** | **[Sustainability Solutions Intern (STRIVE Program)](https://jobright.ai/jobs/info/693c646849a7695fbd033265?utm_campaign=1056&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
-| **[KBR, Inc.](https://www.kbr.com)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/6945eddc7d506e3808f12f72?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Dec 19 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Corp Social Responsibility](https://jobright.ai/jobs/info/6945eca97d506e3808f12ef7?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
-| **[Novogradac & Company LLP](https://www.novoco.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6945ea7663141d1884558623?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/6946ae9cd1953b5d11bfdfa4?utm_campaign=1056&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
