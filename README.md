@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/694acfad1224705e9001f7b0?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 23 |
+| **[Plains All American](https://www.plains.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694ac8c83019f50a4fe5d4d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/68be647fc4c5904ff60061e0?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 23 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/694a0bfc7d506e3808f537a6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental Justice Advocacy](https://jobright.ai/jobs/info/6949feafc6f0e2546ceedb66?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 22 |
-| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fdc07d506e3808f5118c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
+| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fbc4c6f0e2546ceed430?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Community Reinvestment Act Summer Intern](https://jobright.ai/jobs/info/694a0b18c6f0e2546ceefca5?utm_campaign=1056&utm_source=git)** | Norwood, MA, United States | On Site | Dec 22 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/69492c4063141d188458d9af?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Organic Branch](https://jobright.ai/jobs/info/694a49693019f50a4fe5700c?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Cabinet for Health & Family Services / Dept for Behav Health, Dev & Int Disab](https://jobright.ai/jobs/info/69322985d0010831497c0362?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 21 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Clinicial Social Work Intern Estero FL](https://jobright.ai/jobs/info/694a0d52c6f0e2546cef0174?utm_campaign=1056&utm_source=git)** | Estero, FL | Hybrid | Dec 21 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/6948aa9363141d1884584f00?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
 | ↳ | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/69489c11d1953b5d11c1ab02?utm_campaign=1056&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
 | **[City of Lenexa](https://www.lenexa.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69499ac163141d18845938a4?utm_campaign=1056&utm_source=git)** | Lenexa, KS | On Site | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[National Security Solutions (NSS) - Government Property Specialist Internship](https://jobright.ai/jobs/info/6945eddc7d506e3808f12f72?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | On Site | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Corp Social Responsibility](https://jobright.ai/jobs/info/6945eca97d506e3808f12ef7?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
 | **[Novogradac & Company LLP](https://www.novoco.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6945ea7663141d1884558623?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/6946ae9cd1953b5d11bfdfa4?utm_campaign=1056&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
