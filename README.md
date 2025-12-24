@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cobb County Government](https://www.cobbcounty.org/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/694b9d1a5d73121134702f7d?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694b7e3a5d731211347012a3?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/6947be477d506e3808f31e99?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Junior Analyst, Public Policy (Municipal Relations)](https://jobright.ai/jobs/info/694b71305d731211346ff7d3?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/694b7249d64ebf28d8212558?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
@@ -101,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/694a04bec6f0e2546ceeec57?utm_campaign=1056&utm_source=git)** | California - San Francisco | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Recycling & Education/Outreach](https://jobright.ai/jobs/info/694a0671c6f0e2546ceef10e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | ↳ | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
-| ↳ | **[Governor's Summer Intern - IDEM - Data Operations](https://jobright.ai/jobs/info/6949ff5063141d188459890c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
+| ↳ | **[Governor's Summer Intern - IDEM - Data Operations](https://jobright.ai/jobs/info/694a103063141d188459b65d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Land Rights Management Power](https://jobright.ai/jobs/info/694a097363141d188459a45d?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Dec 22 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fd9ec6f0e2546ceed8ca?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Planning Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/694a07637d506e3808f52c42?utm_campaign=1056&utm_source=git)** | Administration Center | On Site | Dec 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Legislative Intern](https://jobright.ai/jobs/info/690ea4d1221b890c27810333?utm_campaign=1056&utm_source=git)** | Boise, ID | On Site | Dec 21 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[City Council Policy Internship](https://jobright.ai/jobs/info/694b6be11a572a617dddbd24?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | **[City of Colleyville, TX](https://www.colleyville.com)** | **[Economic Development Intern](https://jobright.ai/jobs/info/694afd793019f50a4fe60516?utm_campaign=1056&utm_source=git)** | Colleyville, TX | On Site | Dec 20 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/6929c0d066796e3028f8d06a?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
