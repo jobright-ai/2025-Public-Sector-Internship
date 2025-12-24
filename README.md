@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PFM](https://www.pfm.com/)** | **[Intern](https://jobright.ai/jobs/info/694b2a164b53a1551f94e9c0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/694b0b7c1224705e90021e5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 23 |
 | **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/693249df764507023d1acaa9?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Private Philanthropy](https://jobright.ai/jobs/info/694b00e43019f50a4fe6084d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Climate Change and Sustainability Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694b1cc83019f50a4fe63549?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
+| **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694b111f4b53a1551f94c446?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Data Strategist Intern - Economic Mobility](https://jobright.ai/jobs/info/694b0c951224705e90021f3f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/694acfad1224705e9001f7b0?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 23 |
 | **[Plains All American](https://www.plains.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694ac8c83019f50a4fe5d4d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
-| **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/694a86ff1224705e9001af58?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 23 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/694a6ba43019f50a4fe587eb?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 23 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/694a1f27c6f0e2546cef2ad8?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Dec 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern (CM Rob Saka)](https://jobright.ai/jobs/info/694a011cc6f0e2546ceee255?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Dec 22 |
@@ -94,13 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/694a0bfc7d506e3808f537a6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental Justice Advocacy](https://jobright.ai/jobs/info/6949feafc6f0e2546ceedb66?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 22 |
-| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fdc07d506e3808f5118c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
+| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fbc4c6f0e2546ceed430?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Community Reinvestment Act Summer Intern](https://jobright.ai/jobs/info/694a0b18c6f0e2546ceefca5?utm_campaign=1056&utm_source=git)** | Norwood, MA, United States | On Site | Dec 22 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | Remote | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | ↳ | **[Governor's Summer Intern - MPH Communications](https://jobright.ai/jobs/info/694990be7d506e3808f4b6a0?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
@@ -115,7 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 22 |
 | **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Board Intern](https://jobright.ai/jobs/info/6949909a7d506e3808f4b66c?utm_campaign=1056&utm_source=git)** | Milwaukee, WI | On Site | Dec 22 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/694962637d506e3808f48c51?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/69498fa6d1953b5d11c28dfa?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
+| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Graduate Internship](https://jobright.ai/jobs/info/69498b287d506e3808f4ad16?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
 | **[Champaign Park District](https://champaignparks.com)** | **[CU Special Recreation Intern (Unpaid)](https://jobright.ai/jobs/info/6949941d7d506e3808f4ba68?utm_campaign=1056&utm_source=git)** | CUSR Center - Champaign, IL 61821 | On Site | Dec 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Energy Resources & Land Conservation Intern](https://jobright.ai/jobs/info/69461b237d506e3808f16dfc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH COORDINATOR](https://jobright.ai/jobs/info/69461a74d1953b5d11bf3718?utm_campaign=1056&utm_source=git)** | Durham, NC | On Site | Dec 19 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| ↳ | **[Summer 2026 India Program Intern](https://jobright.ai/jobs/info/69460d1263141d188455bbc3?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| **[WesleyLife](https://www.wesleylife.org)** | **[Philanthropy Internship](https://jobright.ai/jobs/info/693f573a49a7695fbd05185d?utm_campaign=1056&utm_source=git)** | Des Moines Metro | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
