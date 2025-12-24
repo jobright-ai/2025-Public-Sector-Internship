@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694c23d51a572a617dde6e3b?utm_campaign=1056&utm_source=git)** | Lancaster, OH | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694bf1135d73121134707407?utm_campaign=1056&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Dec 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694be5b81a572a617dde2ccb?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Dec 24 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/694a0bfc7d506e3808f537a6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental Justice Advocacy](https://jobright.ai/jobs/info/6949feafc6f0e2546ceedb66?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 22 |
-| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fbc4c6f0e2546ceed430?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
+| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fdc07d506e3808f5118c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Community Reinvestment Act Summer Intern](https://jobright.ai/jobs/info/694a0b18c6f0e2546ceefca5?utm_campaign=1056&utm_source=git)** | Norwood, MA, United States | On Site | Dec 22 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69340030a0dde7020e2f3b1f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/690ebf58221b890c278114ad?utm_campaign=1056&utm_source=git)** | Reston, VA | On Site | Dec 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803df?utm_campaign=1056&utm_source=git)** | New Haven, CT | On Site | Dec 21 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Community Planning Intern](https://jobright.ai/jobs/info/691ff23809cc522e87746eed?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
