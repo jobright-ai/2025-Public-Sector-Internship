@@ -146,8 +146,8 @@ Job ID : 269827](https://jobright.ai/jobs/info/694c62f11a572a617ddea0dd?utm_camp
 | ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6944777150bbaf76505681e4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 22 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 22 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/694962637d506e3808f48c51?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Graduate Internship](https://jobright.ai/jobs/info/69498b287d506e3808f4ad16?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
 | **[Champaign Park District](https://champaignparks.com)** | **[CU Special Recreation Intern (Unpaid)](https://jobright.ai/jobs/info/6949941d7d506e3808f4ba68?utm_campaign=1056&utm_source=git)** | CUSR Center - Champaign, IL 61821 | On Site | Dec 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Energy Policy](https://jobright.ai/jobs/info/68f2a1b59a65fd345857e58b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
