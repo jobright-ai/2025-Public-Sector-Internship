@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Department of Environmental Management](http://www.in.gov/idem)** | **[Governor's Summer Intern - IDEM - Recycling & Education Outreach](https://jobright.ai/jobs/info/694dae1df5bef51c96eb36d3?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Dec 25 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government West Market– Campus 2026](https://jobright.ai/jobs/info/6933cc73f131d96e48467462?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Dec 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6930f243fa28370be26b5842?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 25 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Youth Development Center](https://jobright.ai/jobs/info/694a2dd67d506e3808f57a6c?utm_campaign=1056&utm_source=git)** | Crittenden, KY | On Site | Dec 25 |
@@ -81,7 +82,6 @@ Job ID : 269827](https://jobright.ai/jobs/info/694c62f11a572a617ddea0dd?utm_camp
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/692fd15bef4b48533d1490e8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125af2c98948514c47ae36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 24 |
-| **[Cobb County Government](https://www.cobbcounty.org/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/694b9d1a5d73121134702f7d?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/6947be477d506e3808f31e99?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Junior Analyst, Public Policy (Municipal Relations)](https://jobright.ai/jobs/info/694b71305d731211346ff7d3?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/694b7249d64ebf28d8212558?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
@@ -133,8 +133,7 @@ Job ID : 269827](https://jobright.ai/jobs/info/694c62f11a572a617ddea0dd?utm_camp
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | Remote | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | ↳ | **[Governor's Summer Intern - MPH Communications](https://jobright.ai/jobs/info/694990be7d506e3808f4b6a0?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
@@ -147,6 +146,7 @@ Job ID : 269827](https://jobright.ai/jobs/info/694c62f11a572a617ddea0dd?utm_camp
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 22 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/694962637d506e3808f48c51?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 22 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69498fa6d1953b5d11c28dfa?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Graduate Internship](https://jobright.ai/jobs/info/69498b287d506e3808f4ad16?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
 | **[Champaign Park District](https://champaignparks.com)** | **[CU Special Recreation Intern (Unpaid)](https://jobright.ai/jobs/info/6949941d7d506e3808f4ba68?utm_campaign=1056&utm_source=git)** | CUSR Center - Champaign, IL 61821 | On Site | Dec 22 |
