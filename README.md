@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/694edd6fa2668b7f54522277?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/6949fd087d506e3808f50f0b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694ec2ba29655e4dd6586560?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 26 |
 | **[COUNTY OF BROWN](https://www.linkedin.com/company/56626944)** | **[Medical Examiner Intern (LTE)](https://jobright.ai/jobs/info/694ebe38a2668b7f54521aeb?utm_campaign=1056&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69325aeea0dde7020e2e613f?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
@@ -127,8 +129,7 @@ For a complete list, click the following sortable link below:
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Philanthropy Donor Relations](https://jobright.ai/jobs/info/6949fecb7d506e3808f514b0?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/6949e00c63141d1884597004?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6949de65d1953b5d11c2d67b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/6949fd087d506e3808f50f0b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
-| ↳ | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/694a0a62c6f0e2546ceefb6f?utm_campaign=1056&utm_source=git)** | California - San Francisco | On Site | Dec 22 |
+| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/694a0a62c6f0e2546ceefb6f?utm_campaign=1056&utm_source=git)** | California - San Francisco | On Site | Dec 22 |
 | **[Cincinnati Symphony Orchestra](http://www.cincinnatisymphony.org/)** | **[Philanthropy & Administrative Intern - Cincinnati Opera](https://jobright.ai/jobs/info/694a115563141d188459b95a?utm_campaign=1056&utm_source=git)** | Cincinnati,OH,US | On Site | Dec 22 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/694a04bec6f0e2546ceeec57?utm_campaign=1056&utm_source=git)** | California - San Francisco | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Recycling & Education/Outreach](https://jobright.ai/jobs/info/694a0671c6f0e2546ceef10e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
@@ -145,8 +146,7 @@ For a complete list, click the following sortable link below:
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | Remote | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Communications](https://jobright.ai/jobs/info/694990be7d506e3808f4b6a0?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Indiana University Foundation](https://iufoundation.iu.edunotes)** | **[Summer 2026 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/694a089bc6f0e2546ceef71b?utm_campaign=1056&utm_source=git)** | 1500 E State Rd 46 Bypass, Bloomington, IN 47408, USA | On Site | Dec 22 |
