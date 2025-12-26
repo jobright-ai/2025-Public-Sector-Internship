@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69325aeea0dde7020e2e613f?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/693241dfa0dde7020e2e4cd2?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 26 |
 | ↳ | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6931f619d0010831497bd73e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 26 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/694e78c0ce13cd105656cfa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69323669948dde73ff9068f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 26 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694e91d6a2668b7f5451f76b?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Communication](https://jobright.ai/jobs/info/693b9cec50bbaf76504f053b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 25 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/694dbeb8f5bef51c96eb421c?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/694dbcb8d4a7df7a0672bd5a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 25 |
@@ -130,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/694a04bec6f0e2546ceeec57?utm_campaign=1056&utm_source=git)** | California - San Francisco | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Recycling & Education/Outreach](https://jobright.ai/jobs/info/694a0671c6f0e2546ceef10e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | ↳ | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
-| ↳ | **[Governor's Summer Intern - IDEM - Data Operations](https://jobright.ai/jobs/info/694a103063141d188459b65d?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
+| ↳ | **[Governor's Summer Intern - IDEM - Data Operations](https://jobright.ai/jobs/info/6949ff5063141d188459890c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Land Rights Management Power](https://jobright.ai/jobs/info/694a097363141d188459a45d?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Dec 22 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fd9ec6f0e2546ceed8ca?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Planning Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/694a07637d506e3808f52c42?utm_campaign=1056&utm_source=git)** | Administration Center | On Site | Dec 22 |
@@ -142,8 +144,7 @@ For a complete list, click the following sortable link below:
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6949f41963141d18845977ac?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Dec 22 |
 | ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | Remote | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Communications](https://jobright.ai/jobs/info/694990be7d506e3808f4b6a0?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Indiana University Foundation](https://iufoundation.iu.edunotes)** | **[Summer 2026 Daniel C. Smith Philanthropy and Fundraising Internship Program](https://jobright.ai/jobs/info/694a089bc6f0e2546ceef71b?utm_campaign=1056&utm_source=git)** | 1500 E State Rd 46 Bypass, Bloomington, IN 47408, USA | On Site | Dec 22 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deposit Raising Outreach Intern](https://jobright.ai/jobs/info/6944777150bbaf76505681e4?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 22 |
 | ↳ | **[CRL Policy Research Intern](https://jobright.ai/jobs/info/6933b16cf131d96e48466013?utm_campaign=1056&utm_source=git)** | Oakland, CA | On Site | Dec 22 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Crisis IHBT Intern (Fall 2026)](https://jobright.ai/jobs/info/694962637d506e3808f48c51?utm_campaign=1056&utm_source=git)** | Cleveland, OH | On Site | Dec 22 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694996357d506e3808f4bd52?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | On Site | Dec 22 |
-| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Graduate Internship](https://jobright.ai/jobs/info/69498b287d506e3808f4ad16?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
+| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/69498cc663141d1884592471?utm_campaign=1056&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| ↳ | **[Community Development Intern](https://jobright.ai/jobs/info/69498fa6d1953b5d11c28dfa?utm_campaign=1056&utm_source=git)** | West Monroe, LA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
