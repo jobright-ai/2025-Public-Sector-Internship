@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Immanuel Cares Global](www.immanuelcaresglobal.org)** | **[Outreach Liaison Intern](https://jobright.ai/jobs/info/694f073e29655e4dd658943e?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Dec 26 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/694f0156a2668b7f54524a08?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694f002cce13cd10565743b3?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efb65ce13cd10565742ad?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
+| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efb65ce13cd10565742ad?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 26 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/694e78c0ce13cd105656cfa8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69323669948dde73ff9068f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 26 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694e91d6a2668b7f5451f76b?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Office of Communication](https://jobright.ai/jobs/info/693b9cec50bbaf76504f053b?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/694dbcb8d4a7df7a0672bd5a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 25 |
 | ↳ | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/694dbc6f29655e4dd6579df5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | **[Indianapolis Colts](http://www.colts.com)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6949a65bd1953b5d11c2acab?utm_campaign=1056&utm_source=git)** | Indiana Farm Bureau Football Center, 7001 W 56th St, Indianapolis, Indiana, United States of America | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Dec 22 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Oral Health Intern](https://jobright.ai/jobs/info/694eedefa2668b7f54522b10?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
