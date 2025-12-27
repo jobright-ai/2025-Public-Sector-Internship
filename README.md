@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694f8f3ca2668b7f5452baf3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 26 |
 | **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Immanuel Cares Global](www.immanuelcaresglobal.org)** | **[Outreach Liaison Intern](https://jobright.ai/jobs/info/694f073e29655e4dd658943e?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Dec 26 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Organic Branch](https://jobright.ai/jobs/info/694f7986a2668b7f5452b0e7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/694a1f27c6f0e2546cef2ad8?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Dec 22 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/694b79065d731211347000cd?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Dec 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern (CM Rob Saka)](https://jobright.ai/jobs/info/694a011cc6f0e2546ceee255?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Dec 22 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/694a0bfc7d506e3808f537a6?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Dec 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Permits](https://jobright.ai/jobs/info/69420b08bdcf884a5addc410?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Grassroots Organizer Internship: Environmental Justice Advocacy](https://jobright.ai/jobs/info/6949feafc6f0e2546ceedb66?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 22 |
-| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fbc4c6f0e2546ceed430?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Community Reinvestment Act Summer Intern](https://jobright.ai/jobs/info/694a0b18c6f0e2546ceefca5?utm_campaign=1056&utm_source=git)** | Norwood, MA, United States | On Site | Dec 22 |
-| **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 22 |
+| **[CIBC](https://www.cibc.com)** | **[Summer 2026 Intern Risk, Governance, & Data](https://jobright.ai/jobs/info/6949fdc07d506e3808f5118c?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
