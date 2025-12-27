@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 27 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694fdb72a2668b7f5452f471?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
 | **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/694fd232ce13cd105657e3a2?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d9c19d4a7df7a06729d30?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d5dd3d4a7df7a06727c03?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 27 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Congress Planning and Execution Intern](https://jobright.ai/jobs/info/69338488f131d96e4846400c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 27 |
+| **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/6933bbf7f131d96e48466a38?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Dec 27 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 27 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69338384a0dde7020e2eebb4?utm_campaign=1056&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/694fd130a2668b7f5452ed78?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Community Health - Coastal Region](https://jobright.ai/jobs/info/6949e6d263141d188459710d?utm_campaign=1056&utm_source=git)** | Belfast, ME | On Site | Dec 22 |
 | **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[Grant Writing Internship Summer 2026 - YMCA of the North Shore](https://jobright.ai/jobs/info/694a17ea7d506e3808f54d86?utm_campaign=1056&utm_source=git)** | YMCA of the North Shore Association - Beverly, MA 01915 | On Site | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Philanthropy Donor Relations](https://jobright.ai/jobs/info/6949fecb7d506e3808f514b0?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 22 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Wetlands and Stormwater](https://jobright.ai/jobs/info/6949e00c63141d1884597004?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6949de65d1953b5d11c2d67b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
-| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/694a0a62c6f0e2546ceefb6f?utm_campaign=1056&utm_source=git)** | California - San Francisco | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
