@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 28 |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Dec 28 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching (ACR) Intern](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6950979429655e4dd659cbc0?utm_campaign=1056&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6950611529655e4dd659972e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69504f18a2668b7f54534c52?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 27 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694fdb72a2668b7f5452f471?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d1e3e29655e4dd6573206?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/694d405cf5bef51c96eae77e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 25 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Race, Equity, & Inclusion](https://jobright.ai/jobs/info/694cc944d4a7df7a06721688?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Community Impact Intern - The Toro Company](https://jobright.ai/jobs/info/694c96b3d64ebf28d82214cd?utm_campaign=1056&utm_source=git)** | Bloomington, MN | On Site | Dec 24 |
-| **[The City of Lake Forest](https://www.cityoflakeforest.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/694c93b65d7312113470e96d?utm_campaign=1056&utm_source=git)** | Lake Forest, CA | On Site | Dec 24 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Race, Equity, & Inclusion](https://jobright.ai/jobs/info/694c863b1a572a617ddeac12?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 24 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PUBLIC INFORMATION Job ID : 269827](https://jobright.ai/jobs/info/694c62f11a572a617ddea0dd?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Policy Communications (Corporate Communications)](https://jobright.ai/jobs/info/694a1193c6f0e2546cef0f19?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 22 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Community Reinvestment Act Summer Intern](https://jobright.ai/jobs/info/694a164dc6f0e2546cef1a3a?utm_campaign=1056&utm_source=git)** | Norwood, MA | On Site | Dec 22 |
 | **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 Real Estate & Finance](https://jobright.ai/jobs/info/694a140c7d506e3808f54c27?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Dec 22 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Community Health - Coastal Region](https://jobright.ai/jobs/info/6949e6d263141d188459710d?utm_campaign=1056&utm_source=git)** | Belfast, ME | On Site | Dec 22 |
-| **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[Grant Writing Internship Summer 2026 - YMCA of the North Shore](https://jobright.ai/jobs/info/694a17ea7d506e3808f54d86?utm_campaign=1056&utm_source=git)** | YMCA of the North Shore Association - Beverly, MA 01915 | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
