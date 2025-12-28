@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6950979429655e4dd659cbc0?utm_campaign=1056&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6950611529655e4dd659972e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 27 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694be5b81a572a617dde2ccb?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Dec 24 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/692fd15bef4b48533d1490e8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125af2c98948514c47ae36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 24 |
 | **[Sauk County](https://www.co.sauk.wi.us/)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/694e3046d4a7df7a06730ecf?utm_campaign=1056&utm_source=git)** | Baraboo, WI | On Site | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/6947be477d506e3808f31e99?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Junior Analyst, Public Policy (Municipal Relations)](https://jobright.ai/jobs/info/694b71305d731211346ff7d3?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 23 |
