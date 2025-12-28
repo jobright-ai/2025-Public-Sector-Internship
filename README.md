@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Push Digital Group](https://pushdigitalgroup.com)** | **[Public Affairs Internship](https://jobright.ai/jobs/info/6951433da2668b7f54540ad7?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia | On Site | Dec 28 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69513aa7ce13cd10565901bc?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 28 |
+| **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 28 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Dec 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/695124b2ce13cd105658dd92?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 28 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6917e43415b415636717c83a?utm_campaign=1056&utm_source=git)** | Howell, MI | On Site | Dec 28 |
@@ -66,10 +69,10 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6950979429655e4dd659cbc0?utm_campaign=1056&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6950611529655e4dd659972e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69504f18a2668b7f54534c52?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 27 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694fdb72a2668b7f5452f471?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d1e3e29655e4dd6573206?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803dd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Organic Branch](https://jobright.ai/jobs/info/694f7986a2668b7f5452b0e7?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Communications & Public Affairs Intern](https://jobright.ai/jobs/info/694a1f27c6f0e2546cef2ad8?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Dec 22 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/694b79065d731211347000cd?utm_campaign=1056&utm_source=git)** | Charlotte, NC | Hybrid | Dec 22 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[City Council Work Study Intern (CM Rob Saka)](https://jobright.ai/jobs/info/694a011cc6f0e2546ceee255?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Dec 22 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Philanthropy Services](https://jobright.ai/jobs/info/6949fd8a7d506e3808f510d4?utm_campaign=1056&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
