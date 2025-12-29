@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6952d5745bb7de448ef5e69d?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Nonprofit Public Health Internship - Administrator / project coordinator](https://jobright.ai/jobs/info/6952ca5e5bb7de448ef5df60?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 29 |
+| **[Sarasota County Government](https://www.scgov.net/)** | **[Park Planner Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6952c0545bb7de448ef5da6a?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
+| **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 | **[Shepherd's Table](http://www.shepherdstable.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6952abd7f1f8465b79e9f866?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 29 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Parks & Recreation Specialist Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/695288ce5bb7de448ef5abd5?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695242c7f1f8465b79e9975e?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
@@ -99,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69338384a0dde7020e2eebb4?utm_campaign=1056&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/694fd130a2668b7f5452ed78?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694f8f3ca2668b7f5452baf3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 26 |
-| **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/694f0156a2668b7f54524a08?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Minot](www.minotnd.gov/jobs)** | **[SUMMER AIRPORT INTERNSHIP](https://jobright.ai/jobs/info/694b48251224705e900270f5?utm_campaign=1056&utm_source=git)** | Minot, ND, US | On Site | Dec 23 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/694b352b4b53a1551f94ee14?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Dec 23 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Insurance & Financial Services Intern](https://jobright.ai/jobs/info/694b34e11224705e90024ea1?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Dec 23 |
-| **[Municipality of Clarington](https://www.clarington.net/)** | **[Student, Parks & Planning Development](https://jobright.ai/jobs/info/694b2bce4b53a1551f94eaab?utm_campaign=1056&utm_source=git)** | Bowmanville, Ontario, Canada | Hybrid | Dec 23 |
-| **[PFM](https://www.pfm.com/)** | **[Intern](https://jobright.ai/jobs/info/694b2a164b53a1551f94e9c0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 23 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/694b3a0f4b53a1551f94f05b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
