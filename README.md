@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shepherd's Table](http://www.shepherdstable.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6952abd7f1f8465b79e9f866?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 29 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Parks & Recreation Specialist Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/695288ce5bb7de448ef5abd5?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695242c7f1f8465b79e9975e?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
 | ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b0935649778e200e7b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -141,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Strategas Policy (Summer 2026)](https://jobright.ai/jobs/info/694c37a61a572a617dde7228?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Dec 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Groundwater](https://jobright.ai/jobs/info/69498c3c63141d188459236a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
+| **[Cobb County Government](https://www.cobbcounty.org/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6952a86ff1f8465b79e9ed07?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694bf1135d73121134707407?utm_campaign=1056&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Dec 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694be5b81a572a617dde2ccb?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Dec 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Municipality of Clarington](https://www.clarington.net/)** | **[Student, Parks & Planning Development](https://jobright.ai/jobs/info/694b2bce4b53a1551f94eaab?utm_campaign=1056&utm_source=git)** | Bowmanville, Ontario, Canada | Hybrid | Dec 23 |
 | **[PFM](https://www.pfm.com/)** | **[Intern](https://jobright.ai/jobs/info/694b2a164b53a1551f94e9c0?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/694b3a0f4b53a1551f94f05b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 23 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/694b0b7c1224705e90021e5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 23 |
-| **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Private Philanthropy](https://jobright.ai/jobs/info/694b00e43019f50a4fe6084d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
