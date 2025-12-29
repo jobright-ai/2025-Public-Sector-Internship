@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
+| ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6952d5745bb7de448ef5e69d?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Nonprofit Public Health Internship - Administrator / project coordinator](https://jobright.ai/jobs/info/6952ca5e5bb7de448ef5df60?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Park Planner Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6952c0545bb7de448ef5da6a?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 27 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/694fdb72a2668b7f5452f471?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 27 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d1e3e29655e4dd6573206?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/694b7249d64ebf28d8212558?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[City of Minot](www.minotnd.gov/jobs)** | **[SUMMER AIRPORT INTERNSHIP](https://jobright.ai/jobs/info/694b48251224705e900270f5?utm_campaign=1056&utm_source=git)** | Minot, ND, US | On Site | Dec 23 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/694b352b4b53a1551f94ee14?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Dec 23 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Insurance & Financial Services Intern](https://jobright.ai/jobs/info/694b34e11224705e90024ea1?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
