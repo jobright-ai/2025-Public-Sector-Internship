@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sarasota County Government](https://www.scgov.net/)** | **[Parks & Recreation Specialist Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/695288ce5bb7de448ef5abd5?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695242c7f1f8465b79e9975e?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
 | ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b0935649778e200e7b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952423cf1f8465b79e99701?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/694b3a0f4b53a1551f94f05b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/694b0b7c1224705e90021e5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 23 |
 | **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Private Philanthropy](https://jobright.ai/jobs/info/694b00e43019f50a4fe6084d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Climate Change and Sustainability Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694b1cc83019f50a4fe63549?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
