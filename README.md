@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/6951b502a2668b7f54545034?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Public Affairs Internship](https://jobright.ai/jobs/info/6951433da2668b7f54540ad7?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia | On Site | Dec 28 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69513aa7ce13cd10565901bc?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 28 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 28 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 27 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69338384a0dde7020e2eebb4?utm_campaign=1056&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/694fd130a2668b7f5452ed78?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
-| **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/694f9d30ce13cd105657b94b?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 27 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694f8f3ca2668b7f5452baf3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 26 |
 | **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
