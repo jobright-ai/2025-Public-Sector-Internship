@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952242e29655e4dd65af2ee?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69522223ce13cd105659a6e3?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69521626a2668b7f5454acb6?utm_campaign=1056&utm_source=git)** | Montréal, Québec | Hybrid | Dec 28 |
 | ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695215c229655e4dd65aeec8?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695214f1ce13cd105659a2d0?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d1e3e29655e4dd6573206?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d9c19d4a7df7a06729d30?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d5dd3d4a7df7a06727c03?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 27 |
-| **[Immanuel Cares Global](www.immanuelcaresglobal.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/694f073e29655e4dd658943e?utm_campaign=1056&utm_source=git)** | Bronx, NY | Remote | Dec 27 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Congress Planning and Execution Intern](https://jobright.ai/jobs/info/69338488f131d96e4846400c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 27 |
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/6933bbf7f131d96e48466a38?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Dec 27 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 27 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694f8f3ca2668b7f5452baf3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 26 |
 | **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
+| **[Immanuel Cares Global](www.immanuelcaresglobal.org)** | **[Outreach Liaison Intern](https://jobright.ai/jobs/info/694f073e29655e4dd658943e?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Dec 26 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/694f0156a2668b7f54524a08?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efb65ce13cd10565742ad?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Climate Change and Sustainability Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694b1cc83019f50a4fe63549?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694b111f4b53a1551f94c446?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Data Strategist Intern - Economic Mobility](https://jobright.ai/jobs/info/694b0c951224705e90021f3f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Community Relations and Foundation Intern - Summer 2026](https://jobright.ai/jobs/info/694acfad1224705e9001f7b0?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Dec 23 |
-| **[Plains All American](https://www.plains.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694ac8c83019f50a4fe5d4d5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
