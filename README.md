@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952242e29655e4dd65af2ee?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695242c7f1f8465b79e9975e?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
+| ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b0935649778e200e7b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952423cf1f8465b79e99701?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952348ff1f8465b79e9941e?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952242e29655e4dd65af2ee?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69522223ce13cd105659a6e3?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69521626a2668b7f5454acb6?utm_campaign=1056&utm_source=git)** | Montréal, Québec | Hybrid | Dec 28 |
 | ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695215c229655e4dd65aeec8?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
@@ -132,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[The City of Lake Forest](https://www.cityoflakeforest.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/695211c8ce13cd105659a160?utm_campaign=1056&utm_source=git)** | Lake Forest, CA | On Site | Dec 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Community Impact Intern - The Toro Company](https://jobright.ai/jobs/info/694c96b3d64ebf28d82214cd?utm_campaign=1056&utm_source=git)** | Bloomington, MN | On Site | Dec 24 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Race, Equity, & Inclusion](https://jobright.ai/jobs/info/694c863b1a572a617ddeac12?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 24 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PUBLIC INFORMATION Job ID : 269827](https://jobright.ai/jobs/info/694c62f11a572a617ddea0dd?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694c5ba1d64ebf28d821fe62?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 24 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/694b3a0f4b53a1551f94f05b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/694b0b7c1224705e90021e5b?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | On Site | Dec 23 |
 | **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Private Philanthropy](https://jobright.ai/jobs/info/694b00e43019f50a4fe6084d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Climate Change and Sustainability Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694b1cc83019f50a4fe63549?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
-| **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/694b111f4b53a1551f94c446?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 23 |
-| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Data Strategist Intern - Economic Mobility](https://jobright.ai/jobs/info/694b0c951224705e90021f3f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
