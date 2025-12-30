@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forbright Bank](https://www.congressionalbank.com/)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/6954004ef1f8465b79eb217a?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Dec 30 |
 | **[Genmab](https://www.genmab.com)** | **[Evidence Generation Intern](https://jobright.ai/jobs/info/694aea6f1224705e900206a1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Race, Equity, & Inclusion](https://jobright.ai/jobs/info/694c863b1a572a617ddeac12?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694c5ba1d64ebf28d821fe62?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 24 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
