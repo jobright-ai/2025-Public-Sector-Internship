@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Dec 30 |
+| **[Genmab](https://www.genmab.com)** | **[Evidence Generation Intern](https://jobright.ai/jobs/info/694aea6f1224705e900206a1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 30 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69379387a0dde7020e30454a?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 30 |
+| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 30 |
+| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6937750ba0dde7020e303206?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Dec 30 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Dec 30 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/6953a5255bb7de448ef6b810?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Race, Equity, & Inclusion](https://jobright.ai/jobs/info/694c863b1a572a617ddeac12?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 24 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - MPH Data Science](https://jobright.ai/jobs/info/694992ded1953b5d11c293ac?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694c5ba1d64ebf28d821fe62?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 24 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Kentucky Public Pensions Authority - Office of Investments](https://jobright.ai/jobs/info/68f2d31a76a51a4307bc89e2?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Strategas Policy (Summer 2026)](https://jobright.ai/jobs/info/694c37a61a572a617dde7228?utm_campaign=1056&utm_source=git)** | DC-Washington | On Site | Dec 24 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Groundwater](https://jobright.ai/jobs/info/69498c3c63141d188459236a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
-| **[Cobb County Government](https://www.cobbcounty.org/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6952a86ff1f8465b79e9ed07?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 24 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694bf1135d73121134707407?utm_campaign=1056&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Dec 24 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
