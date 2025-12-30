@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Womennovator (Global Incubator for Women) Gvriksh Foundation](https://womennovators.com/)** | **[Community Leadership Program cum Internship](https://jobright.ai/jobs/info/69530e16935649778e20cdc8?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6952d5745bb7de448ef5e69d?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Junior Analyst, Public Policy (Municipal Relations)](https://jobright.ai/jobs/info/694b71305d731211346ff7d3?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/694b7249d64ebf28d8212558?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[City of Minot](www.minotnd.gov/jobs)** | **[SUMMER AIRPORT INTERNSHIP](https://jobright.ai/jobs/info/694b48251224705e900270f5?utm_campaign=1056&utm_source=git)** | Minot, ND, US | On Site | Dec 23 |
-| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/694b352b4b53a1551f94ee14?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
