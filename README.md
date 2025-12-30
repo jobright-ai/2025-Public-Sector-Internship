@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d1e3e29655e4dd6573206?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d9c19d4a7df7a06729d30?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d5dd3d4a7df7a06727c03?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Dec 27 |
-| **[Immanuel Cares Global](www.immanuelcaresglobal.org)** | **[Outreach Intern](https://jobright.ai/jobs/info/694f073e29655e4dd658943e?utm_campaign=1056&utm_source=git)** | Bronx, NY | Remote | Dec 27 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Congress Planning and Execution Intern](https://jobright.ai/jobs/info/69338488f131d96e4846400c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 27 |
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/6933bbf7f131d96e48466a38?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Dec 27 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Junior Analyst, Public Policy (Municipal Relations)](https://jobright.ai/jobs/info/694b71305d731211346ff7d3?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/694b7249d64ebf28d8212558?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[City of Minot](www.minotnd.gov/jobs)** | **[SUMMER AIRPORT INTERNSHIP](https://jobright.ai/jobs/info/694b48251224705e900270f5?utm_campaign=1056&utm_source=git)** | Minot, ND, US | On Site | Dec 23 |
+| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Global Medical Affairs](https://jobright.ai/jobs/info/694b352b4b53a1551f94ee14?utm_campaign=1056&utm_source=git)** | Newton, MA | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
