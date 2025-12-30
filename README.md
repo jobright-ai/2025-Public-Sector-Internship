@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Dec 30 |
+| **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/6953a5255bb7de448ef6b810?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 29 |
 | **[Impending Bloom](http://impendingbloom-beta.co/)** | **[Impending Bloom Spring 2026 Sustainability Fellowship Program (Remote)](https://jobright.ai/jobs/info/69534b64935649778e210a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 29 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/695343e6f1f8465b79ea9084?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cobb County Government](https://www.cobbcounty.org/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6952a86ff1f8465b79e9ed07?utm_campaign=1056&utm_source=git)** | Marietta, GA | On Site | Dec 24 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694bf1135d73121134707407?utm_campaign=1056&utm_source=git)** | Los Angeles & Washington D.C. (preferred) Remote considered (required locations listed in JD) | Remote | Dec 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803de?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Internship - Summer 2026](https://jobright.ai/jobs/info/694be5b81a572a617dde2ccb?utm_campaign=1056&utm_source=git)** | Fully Remote | Remote | Dec 24 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Energy & Environment - Division of Conservation](https://jobright.ai/jobs/info/692fd15bef4b48533d1490e8?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
