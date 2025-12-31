@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/6954ee24aa05c26e7aaf5b2e?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 31 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125af2c98948514c47ae36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/6954ac17f1f8465b79ebd514?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/694224bbbdcf884a5addee90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 | **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Team Kentucky Internship Program - Justice & Public Safety - Youth Development Center](https://jobright.ai/jobs/info/6954b316aa05c26e7aaf40f9?utm_campaign=1056&utm_source=git)** | Crittenden, KY | On Site | Dec 25 |
 | **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/693249df764507023d1acaa9?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/694dbc6f29655e4dd6579df5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 25 |
-| **[Indiana Department of Environmental Management](http://www.in.gov/idem)** | **[Governor's Summer Intern - IDEM - Recycling & Education Outreach](https://jobright.ai/jobs/info/694dae1df5bef51c96eb36d3?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Dec 25 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government West Market– Campus 2026](https://jobright.ai/jobs/info/6933cc73f131d96e48467462?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
