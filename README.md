@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f33?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Dec 31 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Building Security Summer Internship Program](https://jobright.ai/jobs/info/68f2b67d9a63986de756b33e?utm_campaign=1056&utm_source=git)** | Pontiac, MI | On Site | Dec 31 |
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/6930d724ef4b48533d14fcd8?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 31 |
 | ↳ | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69203b65a49a885af9a379cb?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Dec 31 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 31 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Oklahoma City - Regional Affairs Intern](https://jobright.ai/jobs/info/691bca17bcdbf3560c9e29cc?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 31 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/6954ee24aa05c26e7aaf5b2e?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 31 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Public Affairs Intern](https://jobright.ai/jobs/info/69125af2c98948514c47ae36?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/6954ac17f1f8465b79ebd514?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/694224bbbdcf884a5addee90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 | **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[International Sustainable Development - Resource Centre, Geneva](https://www.sdgcentre.net/)** | **[Pacific Islands Investment Forum - Grants - Program and Research Assistant](https://jobright.ai/jobs/info/69543ea0aa05c26e7aaeafd8?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Dec 30 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Adult Intern for Religious Life and Spiritual Care](https://jobright.ai/jobs/info/69543e935bb7de448ef7238d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/695436435bb7de448ef71f31?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
-| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6954344b5bb7de448ef71e39?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
 | **[Forbright Bank](https://www.congressionalbank.com/)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/6954004ef1f8465b79eb217a?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
 | ↳ | **[Intern, Community Impact](https://jobright.ai/jobs/info/6953f8bff1f8465b79eb200c?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
