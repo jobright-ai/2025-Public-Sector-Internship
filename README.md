@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/695464b8aa05c26e7aaedc26?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Dec 30 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69542dbcaa05c26e7aaea0ac?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern – State and Local Government West Market– Campus 2026](https://jobright.ai/jobs/info/6933cc73f131d96e48467462?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Dec 25 |
 | **[Burson](https://www.bursonglobal.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6930f243fa28370be26b5842?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 25 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69171c65370fde633d07d743?utm_campaign=1056&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 25 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6943aa8e50bbaf765055a7cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
