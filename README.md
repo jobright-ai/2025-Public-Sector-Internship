@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/6954ac17f1f8465b79ebd514?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/694224bbbdcf884a5addee90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 | **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
+| **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/695591b9f1f8465b79ec88f4?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Dec 30 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69542dbcaa05c26e7aaea0ac?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Dec 30 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/69544182f1f8465b79eb6768?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/693241dfa0dde7020e2e4cd2?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 26 |
 | ↳ | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6931f619d0010831497bd73e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Office of Public Affairs](https://jobright.ai/jobs/info/68f28af276a51a4307bc499f?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
