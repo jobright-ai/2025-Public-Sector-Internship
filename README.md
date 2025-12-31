@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/695464b8aa05c26e7aaedc26?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Dec 30 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69542dbcaa05c26e7aaea0ac?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Dec 30 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/69544182f1f8465b79eb6768?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Dec 30 |
 | **[International Sustainable Development - Resource Centre, Geneva](https://www.sdgcentre.net/)** | **[Pacific Islands Investment Forum - Grants - Program and Research Assistant](https://jobright.ai/jobs/info/69543ea0aa05c26e7aaeafd8?utm_campaign=1056&utm_source=git)** | LA Metro Area | Hybrid | Dec 30 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 29 |
 | **[Impending Bloom](http://impendingbloom-beta.co/)** | **[Impending Bloom Spring 2026 Sustainability Fellowship Program (Remote)](https://jobright.ai/jobs/info/69534b64935649778e210a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 29 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/695343e6f1f8465b79ea9084?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 29 |
-| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/695341f6f1f8465b79ea8f97?utm_campaign=1056&utm_source=git)** | Culver City - CA - 600 Corporate Pointe | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Dec 28 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Dec 28 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Ranching (ACR) Intern](https://jobright.ai/jobs/info/6933cd09a0dde7020e2f1ddb?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 28 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 28 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6950979429655e4dd659cbc0?utm_campaign=1056&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69534468f1f8465b79ea90b4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6950611529655e4dd659972e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
