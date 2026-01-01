@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Advocacy & Resource - Unpaid Intern](https://jobright.ai/jobs/info/6933bbf7f131d96e48466a38?utm_campaign=1056&utm_source=git)** | Harlingen, TX | On Site | Dec 27 |
 | **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Dec 27 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69338384a0dde7020e2eebb4?utm_campaign=1056&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/694fd130a2668b7f5452ed78?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 27 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694f8f3ca2668b7f5452baf3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 26 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/694f0156a2668b7f54524a08?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
+| ↳ | **[Intern, State Community Organizer, Georgia State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef7bda2668b7f54524787?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
