@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6956e97ff1f8465b79edd0d5?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
+| ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6956e774aa05c26e7ab11b70?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6956a401f1f8465b79ed8b4d?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 01 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69542dbcaa05c26e7aaea0ac?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Dec 30 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/69544182f1f8465b79eb6768?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Dec 30 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Adult Intern for Religious Life and Spiritual Care](https://jobright.ai/jobs/info/69543e935bb7de448ef7238d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/695436435bb7de448ef71f31?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
 | **[Forbright Bank](https://www.congressionalbank.com/)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/6954004ef1f8465b79eb217a?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
 | ↳ | **[Intern, Community Impact](https://jobright.ai/jobs/info/6953f8bff1f8465b79eb200c?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
-| ↳ | **[Intern, State Community Organizer, Georgia State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef7bda2668b7f54524787?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
