@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/69555e43f1f8465b79ec6dfe?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[201003-009:Summer Intern, Emergency Management](https://jobright.ai/jobs/info/69555bb09f1b381eb26eaba0?utm_campaign=1056&utm_source=git)** | 301 Bryant Street, N. W, Washington, DC, 20001, US | Hybrid | Dec 31 |
 | ↳ | **[103000-064:Summer Intern, Community Engagement](https://jobright.ai/jobs/info/695559afaa05c26e7aafadd8?utm_campaign=1056&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69325aeea0dde7020e2e613f?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/693241dfa0dde7020e2e4cd2?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 26 |
 | ↳ | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 26 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Advocacy & Survivor Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/6931f619d0010831497bd73e?utm_campaign=1056&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
