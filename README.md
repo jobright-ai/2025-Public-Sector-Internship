@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
+| **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/695661ab9f1b381eb26f98e4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 01 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 01 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/6956480e9f1b381eb26f733a?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Jan 01 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/695343e6f1f8465b79ea9084?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bfeef1f8465b79ecab45?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bf969f1b381eb26ef2d6?utm_campaign=1056&utm_source=git)** | Buffalo, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | ↳ | **[Intern, State Community Organizer, Mississippi State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef2f4ce13cd1056572c1c?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694eedb0a2668b7f54522af7?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 26 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/694edd6fa2668b7f54522277?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/6949fd087d506e3808f50f0b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
