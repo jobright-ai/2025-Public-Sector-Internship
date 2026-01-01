@@ -62,9 +62,6 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bfeef1f8465b79ecab45?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bf969f1b381eb26ef2d6?utm_campaign=1056&utm_source=git)** | Buffalo, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Forest Legacy Program Intern](https://jobright.ai/jobs/info/6955c81e9f1b381eb26ef579?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
-| ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6955cfb7f1f8465b79ecb14c?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
-| ↳ | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6955c9c09f1b381eb26ef65e?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
 | **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Internship](https://jobright.ai/jobs/info/6955bf73aa05c26e7aaff71c?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Dec 31 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/69555e43f1f8465b79ec6dfe?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[201003-009:Summer Intern, Emergency Management](https://jobright.ai/jobs/info/69555bb09f1b381eb26eaba0?utm_campaign=1056&utm_source=git)** | 301 Bryant Street, N. W, Washington, DC, 20001, US | Hybrid | Dec 31 |
@@ -86,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/69544182f1f8465b79eb6768?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Dec 30 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Adult Intern for Religious Life and Spiritual Care](https://jobright.ai/jobs/info/69543e935bb7de448ef7238d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/695436435bb7de448ef71f31?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6954344b5bb7de448ef71e39?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
 | **[Forbright Bank](https://www.congressionalbank.com/)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/6954004ef1f8465b79eb217a?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
 | ↳ | **[Intern, Community Impact](https://jobright.ai/jobs/info/6953f8bff1f8465b79eb200c?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | ↳ | **[Intern, State Community Organizer, Mississippi State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef2f4ce13cd1056572c1c?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694eedb0a2668b7f54522af7?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 26 |
+| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/694edd6fa2668b7f54522277?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/6949fd087d506e3808f50f0b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
