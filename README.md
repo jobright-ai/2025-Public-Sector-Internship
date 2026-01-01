@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6955d183f1f8465b79ecb468?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6955c491f1f8465b79ecad08?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Dec 31 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 01 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 01 |
+| **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/6956480e9f1b381eb26f733a?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Jan 01 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/695343e6f1f8465b79ea9084?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bfeef1f8465b79ecab45?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bf969f1b381eb26ef2d6?utm_campaign=1056&utm_source=git)** | Buffalo, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/6953a5255bb7de448ef6b810?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 29 |
 | **[Impending Bloom](http://impendingbloom-beta.co/)** | **[Impending Bloom Spring 2026 Sustainability Fellowship Program (Remote)](https://jobright.ai/jobs/info/69534b64935649778e210a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 29 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/695343e6f1f8465b79ea9084?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 29 |
 | **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6955f36faa05c26e7ab02f6a?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694eedb0a2668b7f54522af7?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 26 |
 | **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/694edd6fa2668b7f54522277?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/6949fd087d506e3808f50f0b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694ec2ba29655e4dd6586560?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
