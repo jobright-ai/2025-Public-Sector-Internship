@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6955d183f1f8465b79ecb468?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6955c491f1f8465b79ecad08?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Dec 31 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bfeef1f8465b79ecab45?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
+| ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bf969f1b381eb26ef2d6?utm_campaign=1056&utm_source=git)** | Buffalo, NY | Hybrid | Dec 31 |
+| ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
+| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Forest Legacy Program Intern](https://jobright.ai/jobs/info/6955c81e9f1b381eb26ef579?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
+| ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6955cfb7f1f8465b79ecb14c?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
+| ↳ | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6955c9c09f1b381eb26ef65e?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
+| **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Internship](https://jobright.ai/jobs/info/6955bf73aa05c26e7aaff71c?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Dec 31 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/69555e43f1f8465b79ec6dfe?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[201003-009:Summer Intern, Emergency Management](https://jobright.ai/jobs/info/69555bb09f1b381eb26eaba0?utm_campaign=1056&utm_source=git)** | 301 Bryant Street, N. W, Washington, DC, 20001, US | Hybrid | Dec 31 |
 | ↳ | **[103000-064:Summer Intern, Community Engagement](https://jobright.ai/jobs/info/695559afaa05c26e7aafadd8?utm_campaign=1056&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | ↳ | **[Intern, State Community Organizer, Mississippi State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef2f4ce13cd1056572c1c?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694eedb0a2668b7f54522af7?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 26 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/694edd6fa2668b7f54522277?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Climate Resiliency and Planning Intern (Summer 2026!)](https://jobright.ai/jobs/info/6949fd087d506e3808f50f0b?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern (Social Work, Counseling) Central Region](https://jobright.ai/jobs/info/694ec2ba29655e4dd6586560?utm_campaign=1056&utm_source=git)** | Athens, OH | On Site | Dec 26 |
-| **[COUNTY OF BROWN](https://www.linkedin.com/company/56626944)** | **[Medical Examiner Intern (LTE)](https://jobright.ai/jobs/info/694ebe38a2668b7f54521aeb?utm_campaign=1056&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
-| **[Cherokee Federal](https://cherokee-federal.com)** | **[Cherokee Federal 2026 Summer Internship](https://jobright.ai/jobs/info/68dc78baaccfd24b67e55b52?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Dec 26 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/69325aeea0dde7020e2e613f?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy and Communications Intern](https://jobright.ai/jobs/info/693241dfa0dde7020e2e4cd2?utm_campaign=1056&utm_source=git)** | Richmond, VA | Hybrid | Dec 26 |
-| ↳ | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
