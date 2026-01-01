@@ -62,8 +62,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bfeef1f8465b79ecab45?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955bf969f1b381eb26ef2d6?utm_campaign=1056&utm_source=git)** | Buffalo, NY | Hybrid | Dec 31 |
 | ↳ | **[Office of General Council Intern](https://jobright.ai/jobs/info/6955b473aa05c26e7aaff3d4?utm_campaign=1056&utm_source=git)** | Melville, NY | Hybrid | Dec 31 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6955cfb7f1f8465b79ecb14c?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
-| ↳ | **[CSFS Forest Legacy Program Intern](https://jobright.ai/jobs/info/6955c81e9f1b381eb26ef579?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
+| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Forest Legacy Program Intern](https://jobright.ai/jobs/info/6955c81e9f1b381eb26ef579?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
+| ↳ | **[CSFS Durango Field Office Intern](https://jobright.ai/jobs/info/6955cfb7f1f8465b79ecb14c?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
 | ↳ | **[CSFS La Veta Field Office Intern](https://jobright.ai/jobs/info/6955c9c09f1b381eb26ef65e?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | On Site | Dec 31 |
 | **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Internship](https://jobright.ai/jobs/info/6955bf73aa05c26e7aaff71c?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Dec 31 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/69555e43f1f8465b79ec6dfe?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Dec 31 |
@@ -100,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 29 |
 | **[Impending Bloom](http://impendingbloom-beta.co/)** | **[Impending Bloom Spring 2026 Sustainability Fellowship Program (Remote)](https://jobright.ai/jobs/info/69534b64935649778e210a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 29 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Safety and Emergency Management Intern](https://jobright.ai/jobs/info/695343e6f1f8465b79ea9084?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Dec 29 |
+| **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6955f36faa05c26e7ab02f6a?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | ↳ | **[Intern, State Community Organizer, Mississippi State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef2f4ce13cd1056572c1c?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694eedb0a2668b7f54522af7?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 26 |
-| **[National Immigration Law Center](http://www.nilc.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/694edd6fa2668b7f54522277?utm_campaign=1056&utm_source=git)** | United States | Remote | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
