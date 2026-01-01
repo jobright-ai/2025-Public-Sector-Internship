@@ -59,7 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 01 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d3fd70b7dff7341501730?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/695661ab9f1b381eb26f98e4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jan 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 01 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 01 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/6956480e9f1b381eb26f733a?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Jan 01 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/69544182f1f8465b79eb6768?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Dec 30 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Adult Intern for Religious Life and Spiritual Care](https://jobright.ai/jobs/info/69543e935bb7de448ef7238d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/695436435bb7de448ef71f31?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
-| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6954344b5bb7de448ef71e39?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
 | **[Forbright Bank](https://www.congressionalbank.com/)** | **[Intern, Community Impact](https://jobright.ai/jobs/info/6954004ef1f8465b79eb217a?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
 | ↳ | **[Intern, Community Impact](https://jobright.ai/jobs/info/6953f8bff1f8465b79eb200c?utm_campaign=1056&utm_source=git)** | Chevy Chase, MD | On Site | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | ↳ | **[Intern, State Community Organizer, Georgia State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef7bda2668b7f54524787?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
-| ↳ | **[Intern, State Community Organizer, Mississippi State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef2f4ce13cd1056572c1c?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694eedb0a2668b7f54522af7?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
