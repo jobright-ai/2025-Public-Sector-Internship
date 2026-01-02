@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Corporate Affairs and Patient Advocacy Intern - Undergraduate](https://jobright.ai/jobs/info/693b4cbdd4054a2bc0253c66?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69578629aa05c26e7ab18273?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | ↳ | **[Climate, Health and Equity Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69578299f1f8465b79ee3817?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957297af1f8465b79edf96f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Contract Strategy Implementation (Channel & Contract Management)](https://jobright.ai/jobs/info/694f8f3ca2668b7f5452baf3?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Dec 26 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/694f0156a2668b7f54524a08?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
