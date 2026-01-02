@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Health Association](https://www.apha.org)** | **[Affiliate Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69580f739f1b381eb270fa24?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
+| ↳ | **[Climate, Health and Equity Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/695807ecaa05c26e7ab1f653?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Office of Policy](https://jobright.ai/jobs/info/6957ea9caa05c26e7ab1d44b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jan 02 |
 | **[TriHealth](http://www.trihealth.com)** | **[Bethesda Foundation Intern](https://jobright.ai/jobs/info/6957ea95aa05c26e7ab1d447?utm_campaign=1056&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Jan 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6957d9e5aa05c26e7ab1cff0?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
 | **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/695591b9f1f8465b79ec88f4?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Dec 30 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69542dbcaa05c26e7aaea0ac?utm_campaign=1056&utm_source=git)** | Boston | Hybrid | Dec 30 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/69544182f1f8465b79eb6768?utm_campaign=1056&utm_source=git)** | Sandy, UT | On Site | Dec 30 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Adult Intern for Religious Life and Spiritual Care](https://jobright.ai/jobs/info/69543e935bb7de448ef7238d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/6953a5255bb7de448ef6b810?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Government and Community Relations](https://jobright.ai/jobs/info/691e6f7109cc522e87739a06?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Dec 29 |
 | **[Impending Bloom](http://impendingbloom-beta.co/)** | **[Impending Bloom Spring 2026 Sustainability Fellowship Program (Remote)](https://jobright.ai/jobs/info/69534b64935649778e210a6f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 29 |
-| **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6955f36faa05c26e7ab02f6a?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
