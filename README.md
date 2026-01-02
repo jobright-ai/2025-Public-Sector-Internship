@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69578629aa05c26e7ab18273?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
+| ↳ | **[Climate, Health and Equity Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69578299f1f8465b79ee3817?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957297af1f8465b79edf96f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957156a9f1b381eb2701f8e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6956f78d9f1b381eb2701bb0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 31 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Oklahoma City - Regional Affairs Intern](https://jobright.ai/jobs/info/691bca17bcdbf3560c9e29cc?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 31 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Paid COH Intern (Grade 5)](https://jobright.ai/jobs/info/6954ee24aa05c26e7aaf5b2e?utm_campaign=1056&utm_source=git)** | Huntsville, AL | On Site | Dec 31 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/695780429f1b381eb2707d9c?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/6954ac17f1f8465b79ebd514?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/694224bbbdcf884a5addee90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 | **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Dec 30 |
 | **[Genmab](https://www.genmab.com)** | **[Evidence Generation Intern](https://jobright.ai/jobs/info/694aea6f1224705e900206a1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 30 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/69379387a0dde7020e30454a?utm_campaign=1056&utm_source=git)** | Valparaiso, IN | On Site | Dec 30 |
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 30 |
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6937750ba0dde7020e303206?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Dec 30 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Community Engagement Strategy & Research Intern](https://jobright.ai/jobs/info/694f2eb9ce13cd1056576527?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/694f0156a2668b7f54524a08?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
-| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efb65ce13cd10565742ad?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
-| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
