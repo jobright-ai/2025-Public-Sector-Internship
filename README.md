@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - Office of Policy](https://jobright.ai/jobs/info/6957ea9caa05c26e7ab1d44b?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jan 02 |
+| **[TriHealth](http://www.trihealth.com)** | **[Bethesda Foundation Intern](https://jobright.ai/jobs/info/6957ea95aa05c26e7ab1d447?utm_campaign=1056&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Jan 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/6957d9e5aa05c26e7ab1cff0?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/69017bfad5259a1b3cff5487?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jan 02 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 02 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/691e28aaa49a885af9a25a0c?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 02 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Phoenix Regional Office](https://jobright.ai/jobs/info/693b289bb309e3780086e188?utm_campaign=1056&utm_source=git)** | Scottsdale, AZ | On Site | Jan 02 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6957bd489f1b381eb270b2d3?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 02 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6957be46f1f8465b79ee6b34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
-| ↳ | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6957bd919f1b381eb270b2d9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6957bd919f1b381eb270b2d9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
+| ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6957be46f1f8465b79ee6b34?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6957c1719f1b381eb270c53f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Corporate Affairs and Patient Advocacy Intern - Undergraduate](https://jobright.ai/jobs/info/693b4cbdd4054a2bc0253c66?utm_campaign=1056&utm_source=git)** | Wilmington, DE | On Site | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[Public Health Policy Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69578629aa05c26e7ab18273?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Dec 27 |
 | **[National Education Association](http://www.nea.org)** | **[Education Policy Intern, (Winter/Spring 2025)](https://jobright.ai/jobs/info/68c799d7c96a22563ecf2f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Global Patient Engagement (Durham, NC)](https://jobright.ai/jobs/info/68fadffa3c99cc1d96027151?utm_campaign=1056&utm_source=git)** | Triangle Area | Hybrid | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d1e3e29655e4dd6573206?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
-| ↳ | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694d9c19d4a7df7a06729d30?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
