@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HB Strategies](http://www.hbstrategies.us)** | **[Legislative Intern](https://jobright.ai/jobs/info/6958667baa05c26e7ab23f66?utm_campaign=1056&utm_source=git)** | OKC Metro Area | On Site | Jan 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/695852759f1b381eb27139bf?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/695851f49f1b381eb271398a?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/695850d99f1b381eb27138f3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6951d2d429655e4dd65aafb8?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Dec 28 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Public Affairs Internship](https://jobright.ai/jobs/info/6951433da2668b7f54540ad7?utm_campaign=1056&utm_source=git)** | Alexandria, Virginia | On Site | Dec 28 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Dec 28 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
