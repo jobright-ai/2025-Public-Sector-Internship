@@ -57,10 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ohio History Connection](https://www.ohiohistory.org/)** | **[Spring 2026 Community Engagement Department Internship](https://jobright.ai/jobs/info/695971549f1b381eb2723721?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6959405aaa05c26e7ab30f6a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/695931459f1b381eb2720f3d?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Infection Prevention & Control Co-Op](https://jobright.ai/jobs/info/695730679f1b381eb2704459?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 03 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Resilience Intern (Graduate Student)](https://jobright.ai/jobs/info/694b80731a572a617ddde957?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 03 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952423cf1f8465b79e99701?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952348ff1f8465b79e9941e?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952242e29655e4dd65af2ee?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69522223ce13cd105659a6e3?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 28 |
+| **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69521626a2668b7f5454acb6?utm_campaign=1056&utm_source=git)** | Montréal, Québec | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
