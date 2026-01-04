@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/695a78c4aa05c26e7ab414e3?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 04 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Jan 04 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/695a53e59f1b381eb272f58f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69599e5ef1f8465b79f00ef6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 03 |
-| **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6959405aaa05c26e7ab30f6a?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 03 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Resilience Intern (Graduate Student)](https://jobright.ai/jobs/info/694b80731a572a617ddde957?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 03 |
@@ -110,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d3fd70b7dff7341501730?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69569e979f1b381eb26fd188?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Jan 01 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69569e979f1b381eb26fd188?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Jan 01 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jan 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 01 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 01 |
