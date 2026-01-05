@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Low Cost IT](http://www.lowcostit.com.au)** | **[Intern, Global Health](https://jobright.ai/jobs/info/695bfcde22c9dc0d3d53e173?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 05 |
+| **[ASTM International](http://www.astm.org)** | **[Intern, U.S Public Policy](https://jobright.ai/jobs/info/695bfc83f1f8465b79f20a3a?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, US | Hybrid | Jan 05 |
+| ↳ | **[Intern, European Public Policy](https://jobright.ai/jobs/info/695bfa92aa05c26e7ab54fa3?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, US | Remote | Jan 05 |
 | **[Anne Arundel County Office of Personnel](http://www.aacounty.org/departments/personnel/employment-information/index.html)** | **[Public Works Recycling Internship](https://jobright.ai/jobs/info/695bf2baf1f8465b79f1fcc3?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Jan 05 |
 | ↳ | **[Nonprofit Center Internship](https://jobright.ai/jobs/info/695beb5022c9dc0d3d53bcad?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Jan 05 |
 | **[Boys & Girls Clubs of America](http://www.bgca.org/)** | **[Government Relations & Advocacy Intern](https://jobright.ai/jobs/info/695be3e1f1f8465b79f1e2d6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
-| **[Lifestyle Communities](http://lifestylecommunities.com)** | **[Association Coordinator Intern](https://jobright.ai/jobs/info/695be06df1f8465b79f1e186?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 05 |
+| **[Anne Arundel County Office of Personnel](http://www.aacounty.org/departments/personnel/employment-information/index.html)** | **[Social Services Internships](https://jobright.ai/jobs/info/695bfbbdf1f8465b79f209c0?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Jan 05 |
+| **[Lifestyle Communities](http://lifestylecommunities.com)** | **[Association Coordinator Intern](https://jobright.ai/jobs/info/695bd951aa05c26e7ab524de?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 05 |
 | **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Public Law & Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695bd8f0f1f8465b79f1dd64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/695bc90eaa05c26e7ab51e53?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
 | **[NEST4US](https://nest4us.org/)** | **[NEST4US Impact Intern](https://jobright.ai/jobs/info/695bc6f9aa05c26e7ab51d7d?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jan 05 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Oklahoma City - Regional Affairs Intern](https://jobright.ai/jobs/info/691bca17bcdbf3560c9e29cc?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 31 |
 | **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/6959f9b49f1b381eb272ac53?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/694224bbbdcf884a5addee90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 30 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/695b385e9f1b381eb2739589?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
 | **[Land Trust Alliance](http://www.landtrustalliance.org)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6954780caa05c26e7aaee82f?utm_campaign=1056&utm_source=git)** | Alliance Headquarters - Washington, DC 20005 | Hybrid | Dec 30 |
 | **[Habitat for Humanity of Omaha](https://habitatomaha.org)** | **[Targeted Community Outreach Intern](https://jobright.ai/jobs/info/695591b9f1f8465b79ec88f4?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Dec 30 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Dec 30 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[Adult Intern for Religious Life and Spiritual Care](https://jobright.ai/jobs/info/69543e935bb7de448ef7238d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
