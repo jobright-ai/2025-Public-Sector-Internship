@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Kenosha](https://www.kenosha.org)** | **[Clerical Intern-Public Works](https://jobright.ai/jobs/info/695b0548aa05c26e7ab45f35?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Jan 04 |
+| **[Center for Digital Governmtent](http://www.govtech.com/cdg/)** | **[Nonprofit Center Internship](https://jobright.ai/jobs/info/695b79b7f1f8465b79f18294?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Jan 04 |
+| ↳ | **[Social Services Internships](https://jobright.ai/jobs/info/695b88639f1b381eb273ed2b?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Jan 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/695a78c4aa05c26e7ab414e3?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 04 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Jan 03 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c9b6b50bbaf76504fe419?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/6959146a9f1b381eb271f061?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 03 |
+| **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/695b723eaa05c26e7ab4c655?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[Affiliate Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6959d94a9f1b381eb272853d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
 | **[HB Strategies](http://www.hbstrategies.us)** | **[Legislative Intern](https://jobright.ai/jobs/info/6958667baa05c26e7ab23f66?utm_campaign=1056&utm_source=git)** | OKC Metro Area | On Site | Jan 02 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/695850d99f1b381eb27138f3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
@@ -145,12 +148,9 @@ For a complete list, click the following sortable link below:
 | **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 30 |
 | **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6937750ba0dde7020e303206?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Dec 30 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Dec 30 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services & Resettlement Intern- Boston, MA](https://jobright.ai/jobs/info/6953a5255bb7de448ef6b810?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6959e7d0aa05c26e7ab3871b?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6952d5745bb7de448ef5e69d?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
-| **[Sarasota County Government](https://www.scgov.net/)** | **[Park Planner Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6952c0545bb7de448ef5da6a?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
-| **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
