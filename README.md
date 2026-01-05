@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 05 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/695ba354f396ad6ddab14d9e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 05 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/695ba2cef396ad6ddab14d6d?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 05 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/695ba0eef396ad6ddab14d1f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 05 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Medical Affairs - Global Medical Affairs Oncology](https://jobright.ai/jobs/info/695b9170f1f8465b79f1a6e0?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Research - Medical Affairs](https://jobright.ai/jobs/info/695b8d81f1f8465b79f1a12f?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Corporate Affairs and Legal (Government Affairs)](https://jobright.ai/jobs/info/695b8d69f1f8465b79f1a11b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/695b8d31aa05c26e7ab4e8ad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 05 |
 | **[City of Kenosha](https://www.kenosha.org)** | **[Clerical Intern-Public Works](https://jobright.ai/jobs/info/695b0548aa05c26e7ab45f35?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Jan 04 |
 | **[Center for Digital Governmtent](http://www.govtech.com/cdg/)** | **[Nonprofit Center Internship](https://jobright.ai/jobs/info/695b79b7f1f8465b79f18294?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Jan 04 |
 | ↳ | **[Social Services Internships](https://jobright.ai/jobs/info/695b88639f1b381eb273ed2b?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Jan 04 |
@@ -66,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Clinical Social Work Intern - Fee For Service](https://jobright.ai/jobs/info/6904f1adff462851feff8df8?utm_campaign=1056&utm_source=git)** | Maitland, FL | Hybrid | Jan 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/695a5747aa05c26e7ab3ef5a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/695a53e59f1b381eb272f58f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Jan 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69599e5ef1f8465b79f00ef6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 03 |
@@ -110,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Read Better Be Better](http://www.readbetterbebetter.org)** | **[Nonprofit Program Intern](https://jobright.ai/jobs/info/695b2c6b9f1b381eb273913e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957297af1f8465b79edf96f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957156a9f1b381eb2701f8e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
-| **[City of Kenosha](https://www.kenosha.org)** | **[Clerical Intern-Public Works](https://jobright.ai/jobs/info/695847d6aa05c26e7ab233de?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Jan 01 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6956f78d9f1b381eb2701bb0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 01 |
@@ -151,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6959e7d0aa05c26e7ab3871b?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
-| ↳ | **[Ascend Intern - City Planning](https://jobright.ai/jobs/info/6952e170f1f8465b79ea2969?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
-| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6952d5745bb7de448ef5e69d?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
