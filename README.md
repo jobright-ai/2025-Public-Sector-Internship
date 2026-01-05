@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Kenosha](https://www.kenosha.org)** | **[Clerical Intern-Public Works](https://jobright.ai/jobs/info/695b0548aa05c26e7ab45f35?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Jan 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/695a78c4aa05c26e7ab414e3?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 04 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Renewing American Innovation Project (Spring 2026)](https://jobright.ai/jobs/info/695a5747aa05c26e7ab3ef5a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
 | **[Genmab](https://www.genmab.com)** | **[US Medical Affairs, Solid Tumor Strategy Intern](https://jobright.ai/jobs/info/69210173a49a885af9a41f8c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/695a53e59f1b381eb272f58f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 04 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[Waco, Public Works, Internship](https://jobright.ai/jobs/info/68e8ffaf65768b6412b17ce4?utm_campaign=1056&utm_source=git)** | Waco, TX | On Site | Jan 04 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69599e5ef1f8465b79f00ef6?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 03 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
@@ -153,7 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Park Planner Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6952c0545bb7de448ef5da6a?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
 | **[MBTA](http://mbta.com)** | **[Policy & Strategic Planning (PSP) Intern (Graduate Students)](https://jobright.ai/jobs/info/694c86195d7312113470e241?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Dec 29 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Parks & Recreation Specialist Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/695288ce5bb7de448ef5abd5?utm_campaign=1056&utm_source=git)** | Twin Lakes Park | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695242c7f1f8465b79e9975e?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
-| ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b0935649778e200e7b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952423cf1f8465b79e99701?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
