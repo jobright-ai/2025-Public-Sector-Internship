@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lifestyle Communities](http://lifestylecommunities.com)** | **[Association Coordinator Intern](https://jobright.ai/jobs/info/695bd951aa05c26e7ab524de?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 05 |
+| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Public Law & Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695bd8f0f1f8465b79f1dd64?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/695bc90eaa05c26e7ab51e53?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
+| **[NEST4US](https://nest4us.org/)** | **[NEST4US Impact Intern](https://jobright.ai/jobs/info/695bc6f9aa05c26e7ab51d7d?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Remote | Jan 05 |
+| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Medical Affairs - Medical Communication](https://jobright.ai/jobs/info/695bc52ff1f8465b79f1d491?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Jan 05 |
+| ↳ | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/695bc500f1f8465b79f1d3d8?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Jan 05 |
 | **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Jan 05 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 05 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Petroleum](https://jobright.ai/jobs/info/694a01897d506e3808f51cfc?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Dec 30 |
-| **[Genmab](https://www.genmab.com)** | **[Evidence Generation Intern](https://jobright.ai/jobs/info/694aea6f1224705e900206a1?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Dec 30 |
-| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Dec 30 |
-| **[Arnold Ventures](https://www.arnoldventures.org/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6937750ba0dde7020e303206?utm_campaign=1056&utm_source=git)** | Greater Houston | Hybrid | Dec 30 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Dec 30 |
-| **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6959e7d0aa05c26e7ab3871b?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
-| **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
