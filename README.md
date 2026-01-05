@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCain Foods](http://www.mccain.com)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Jan 05 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 05 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6905042b63502c0aded772f6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 05 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/695ba354f396ad6ddab14d9e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 05 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/695ba2cef396ad6ddab14d6d?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 05 |
@@ -117,12 +119,11 @@ For a complete list, click the following sortable link below:
 | **[Read Better Be Better](http://www.readbetterbebetter.org)** | **[Nonprofit Program Intern](https://jobright.ai/jobs/info/695b2c6b9f1b381eb273913e?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957297af1f8465b79edf96f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern: Medical Affairs Department](https://jobright.ai/jobs/info/6957156a9f1b381eb2701f8e?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6956f78d9f1b381eb2701bb0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/693a44cc56b68f3dc4e79c38?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d3fd70b7dff7341501730?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69569e979f1b381eb26fd188?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Jan 01 |
-| **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring/Summer Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring (possibly going into Summer) Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jan 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government and Public Affairs](https://jobright.ai/jobs/info/68ce3950b2a74e1837ee09ea?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 01 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | Hybrid | Dec 30 |
 | **[State of Washington](http://access.wa.gov/)** | **[Health Care Program Specialist (HCPS/DLS) – Internal Only](https://jobright.ai/jobs/info/6959e7d0aa05c26e7ab3871b?utm_campaign=1056&utm_source=git)** | Walla Walla, WA | Hybrid | Dec 29 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[Residential Treatment and Recreation Internship - Adult Services](https://jobright.ai/jobs/info/69544071aa05c26e7aaeb895?utm_campaign=1056&utm_source=git)** | Barnstable County, MA | On Site | Dec 29 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - CommuniTree Assistance](https://jobright.ai/jobs/info/6952e3895bb7de448ef5f377?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
