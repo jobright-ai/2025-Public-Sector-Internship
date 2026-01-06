@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Economic & Planning Systems, Inc.](http://www.epsys.com)** | **[Summer 2026 Internship - Denver, CO](https://jobright.ai/jobs/info/695cb7e1f1f8465b79f2e3dd?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Humanitarian Paid Intern](https://jobright.ai/jobs/info/695c8d879a87b95a9397e17b?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 05 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Humanitarian Paid Intern](https://jobright.ai/jobs/info/695cb6b5f1f8465b79f2e31c?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 05 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/695c6b6f5e4962051b59875b?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 05 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/695c612322c9dc0d3d545bf8?utm_campaign=1056&utm_source=git)** | Oneonta, NY | On Site | Jan 05 |
 | **[Rincon Consultants](http://www.rinconconsultants.com/)** | **[Climate Intern](https://jobright.ai/jobs/info/695c83309a87b95a9397d3b2?utm_campaign=1056&utm_source=git)** | Ventura, CA | Hybrid | Jan 05 |
@@ -76,10 +78,9 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c3463f1f8465b79f23f11?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, European Public Policy](https://jobright.ai/jobs/info/695c32b7f1f8465b79f23dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 05 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/695c4d9122c9dc0d3d5439da?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 05 |
-| **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Philanthropy Project Intern](https://jobright.ai/jobs/info/695c4ecc22c9dc0d3d543d70?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[The Children's Care Network Intern](https://jobright.ai/jobs/info/695c506e22c9dc0d3d544212?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 05 |
 | **[Washington Lawyers'​ Committee for Civil Rights and Urban Affairs](https://www.washlaw.org/)** | **[Prisoners' Rights Internship (Spring, Non-Legal)](https://jobright.ai/jobs/info/695c4926f1f8465b79f25c6e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 05 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/695c164ef1f8465b79f22151?utm_campaign=1056&utm_source=git)** | Detroit Metro | Hybrid | Jan 05 |
+| **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Philanthropy Project Intern](https://jobright.ai/jobs/info/695c1903f1f8465b79f22417?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Global Health](https://jobright.ai/jobs/info/695c1270aa05c26e7ab56310?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jan 05 |
 | **[Low Cost IT](http://www.lowcostit.com.au)** | **[Intern, Global Health](https://jobright.ai/jobs/info/695bfcde22c9dc0d3d53e173?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c26a8aa05c26e7ab57914?utm_campaign=1056&utm_source=git)** | New York, NY HQ USA | Remote | Jan 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern (Graduate Student)](https://jobright.ai/jobs/info/693a6326ac80bb5492bcef73?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | On Site | Jan 01 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Sustainability Analyst Intern - Master's Degree](https://jobright.ai/jobs/info/691d3fd70b7dff7341501730?utm_campaign=1056&utm_source=git)** | Santa Clara, CA | On Site | Jan 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69569e979f1b381eb26fd188?utm_campaign=1056&utm_source=git)** | North Liberty, Iowa | On Site | Jan 01 |
-| **[More Gardens! Fund](http://moregardens.org)** | **[NYC Grants Assistant Internship Spring (possibly going into Summer) Unpaid - Environmental Art Nonprofit](https://jobright.ai/jobs/info/69566c27f1f8465b79ed658d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
