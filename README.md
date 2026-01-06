@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c3463f1f8465b79f23f11?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 05 |
+| **[ASTM International](http://www.astm.org)** | **[Intern, European Public Policy](https://jobright.ai/jobs/info/695c32b7f1f8465b79f23dd4?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 05 |
 | **[SFMOMA San Francisco Museum of Modern Art](https://www.sfmoma.org)** | **[Philanthropy Project Intern](https://jobright.ai/jobs/info/695c1903f1f8465b79f22417?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 05 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/695c164ef1f8465b79f22151?utm_campaign=1056&utm_source=git)** | Detroit Metro | Hybrid | Jan 05 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Global Health](https://jobright.ai/jobs/info/695c1270aa05c26e7ab56310?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jan 05 |
 | **[Low Cost IT](http://www.lowcostit.com.au)** | **[Intern, Global Health](https://jobright.ai/jobs/info/695bfcde22c9dc0d3d53e173?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 05 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c26a8aa05c26e7ab57914?utm_campaign=1056&utm_source=git)** | New York, NY HQ USA | Remote | Jan 05 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, U.S Public Policy](https://jobright.ai/jobs/info/695bfc83f1f8465b79f20a3a?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, US | Hybrid | Jan 05 |
 | ↳ | **[Intern, European Public Policy](https://jobright.ai/jobs/info/695bfa92aa05c26e7ab54fa3?utm_campaign=1056&utm_source=git)** | WASHINGTON, DC, US | Remote | Jan 05 |
 | **[Anne Arundel County Office of Personnel](http://www.aacounty.org/departments/personnel/employment-information/index.html)** | **[Public Works Recycling Internship](https://jobright.ai/jobs/info/695bf2baf1f8465b79f1fcc3?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Jan 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/6930d724ef4b48533d14fcd8?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Dec 31 |
 | ↳ | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69203b65a49a885af9a379cb?utm_campaign=1056&utm_source=git)** | Boston, MA | Remote | Dec 31 |
 | **[Brunswick Group](http://www.brunswickgroup.com)** | **[Washington DC Summer Internship 2026](https://jobright.ai/jobs/info/69388f94aabec14a727d7058?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 31 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Oklahoma City - Regional Affairs Intern](https://jobright.ai/jobs/info/691bca17bcdbf3560c9e29cc?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Dec 31 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/6959f9b49f1b381eb272ac53?utm_campaign=1056&utm_source=git)** | Florida, United States | Remote | Dec 30 |
-| **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/694224bbbdcf884a5addee90?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
