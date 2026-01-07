@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwin Elements](https://www.westwinelements.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/695e2b7a26f1314697ad10c3?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | Hybrid | Jan 06 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - OED - Policy](https://jobright.ai/jobs/info/695e054752ab763cd7ea7119?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 06 |
 | ↳ | **[Governor's Summer Intern - OED - Communications](https://jobright.ai/jobs/info/695e037152ab763cd7ea6ff1?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Internship (Bay Area)](https://jobright.ai/jobs/info/695de8a34b7a590c5b954f7d?utm_campaign=1056&utm_source=git)** | Walnut Creek, CA | On Site | Jan 06 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/695e0ff332718e2b8ddc046b?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 06 |
 | **[CN](http://www.cn.ca)** | **[Intern, Government Affairs (Canada)- EN](https://jobright.ai/jobs/info/695dfe9532718e2b8ddbf6cf?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 06 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[2026 Summer Intern-Medicare Advantage](https://jobright.ai/jobs/info/695dcec716906f25775f8e09?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 06 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Graduate Internship](https://jobright.ai/jobs/info/6959dfd2aa05c26e7ab382ce?utm_campaign=1056&utm_source=git)** | NYC Metro Area | Hybrid | Jan 06 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Summer 2026 - Claims Business/Health Administration (Hybrid/Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695dbdfff1f8465b79f403f7?utm_campaign=1056&utm_source=git)** | Troy, Michigan | Hybrid | Jan 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Community & Citizenship Internship (Bay Area)](https://jobright.ai/jobs/info/695dbd44efe5dd5cbd3d9362?utm_campaign=1056&utm_source=git)** | Walnut Creek, CA, US | On Site | Jan 06 |
 | **[Economic & Planning Systems, Inc.](http://www.epsys.com)** | **[Economics, Land Use, and Urban Planning Internship EEPIC](https://jobright.ai/jobs/info/695dbcf5fbd62a0a65666d87?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
-| **[JTC Group](https://www.jtcgroup.com)** | **[Junior Intern - SDTC Administration](https://jobright.ai/jobs/info/695dd32ae4cdbb1454cfc741?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 06 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/695da56cf5f3c43f38e28aa9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 College Intern - IT (in person Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695dd2a6924bd9135dd45837?utm_campaign=1056&utm_source=git)** | Troy, Michigan | On Site | Jan 06 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Medical Affairs - Global Medical Affairs Oncology](https://jobright.ai/jobs/info/695b9170f1f8465b79f1a6e0?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - Corporate Affairs and Legal (Government Affairs)](https://jobright.ai/jobs/info/695b8d69f1f8465b79f1a11b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - Corporate Affairs and Legal - Government Affairs](https://jobright.ai/jobs/info/695b8d31aa05c26e7ab4e8ad?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 05 |
+| **[Center for Digital Governmtent](http://www.govtech.com/cdg/)** | **[Social Services Internships](https://jobright.ai/jobs/info/695e24a926f1314697ad0267?utm_campaign=1056&utm_source=git)** | Annapolis, MD | On Site | Jan 05 |
 | **[Center for Digital Governmtent](http://www.govtech.com/cdg/)** | **[Nonprofit Center Internship](https://jobright.ai/jobs/info/695b79b7f1f8465b79f18294?utm_campaign=1056&utm_source=git)** | Annapolis, MD | Hybrid | Jan 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 04 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Infection Prevention & Control Co-Op](https://jobright.ai/jobs/info/695dd32b89be3415c7462b37?utm_campaign=1056&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 03 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
-| **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/695939629f1b381eb27210a4?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/693ce1a950bbaf765050096a?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
