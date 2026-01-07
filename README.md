@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/695da56cf5f3c43f38e28aa9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 06 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e461911852e62f00805254?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6942226814ee092a69004d8c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 06 |
 | **[San Francisco Municipal Transportation Agency (SFMTA)](http://sfmta.com/)** | **[Planning Intern Level 1](https://jobright.ai/jobs/info/695d918ef1f8465b79f3d63b?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 06 |
 | **[Dayforce](https://www.dayforce.com)** | **[Sustainability Intern 4 months - Summer 2026](https://jobright.ai/jobs/info/695d8ffff5f3c43f38e271fc?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Jan 06 |
 | **[TD](https://www.td.com)** | **[Governance & Control Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695d8ef9f1f8465b79f3cfbf?utm_campaign=1056&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 06 |
 | **[City of Kenosha](https://www.kenosha.org)** | **[Clerical Intern-Public Works](https://jobright.ai/jobs/info/695d95d8f5f3c43f38e27bb1?utm_campaign=1056&utm_source=git)** | Kenosha, WI | On Site | Jan 06 |
+| **[Break Blue Strategies](https://www.breakbluestrategies.com/)** | **[Consutling Intern](https://jobright.ai/jobs/info/695d9e0af1f8465b79f3e664?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jan 06 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '25 Intern - Sustainability](https://jobright.ai/jobs/info/695d6c1ffbd62a0a65660261?utm_campaign=1056&utm_source=git)** | New York, New York, United States | On Site | Jan 06 |
 | ↳ | **[Summer '25 Intern - Sustainability](https://jobright.ai/jobs/info/695d6bc9f1f8465b79f39696?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern Summer 2026 - Claims Business/Health Administration (Hybrid/Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/695d864bf5f3c43f38e25d7b?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Medical Affairs Intern - Summer 2026](https://jobright.ai/jobs/info/68faecda3c99cc1d960277ab?utm_campaign=1056&utm_source=git)** | Madison, WI | On Site | Jan 03 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer – GRM, Financial Crimes Governance Intern (4 Months)](https://jobright.ai/jobs/info/693c9b6b50bbaf76504fe419?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/695b723eaa05c26e7ab4c655?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 02 |
-| **[American Public Health Association](https://www.apha.org)** | **[Affiliate Affairs Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/6959d94a9f1b381eb272853d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
-| **[HB Strategies](http://www.hbstrategies.us)** | **[Legislative Intern](https://jobright.ai/jobs/info/6958667baa05c26e7ab23f66?utm_campaign=1056&utm_source=git)** | OKC Metro Area | On Site | Jan 02 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/695850d99f1b381eb27138f3?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
