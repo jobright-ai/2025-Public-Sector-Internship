@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Public Health Association](https://www.apha.org)** | **[Environmental Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/696099687ebc25398eb67baa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/696086f7a112b402660f3b8a?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
 | **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Restoration Finance and Analysis Intern](https://jobright.ai/jobs/info/69607d19a1bbea1d9a7b4f68?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/696079afa1bbea1d9a7b4de6?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 08 |
-| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
+| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Climate - Summer 2026](https://jobright.ai/jobs/info/696096dca1bbea1d9a7b5c61?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
+| ↳ | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696088afa1bbea1d9a7b55b7?utm_campaign=1056&utm_source=git)** | Washington Highlands, MD | On Site | Jan 08 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/696064aca112b402660f2736?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 08 |
 | **[Humane World for Animals](http://www.humanesociety.org)** | **[Intern, State Affairs - Pennsylvania](https://jobright.ai/jobs/info/696060eea1bbea1d9a7b3b6a?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, USA | Remote | Jan 08 |
@@ -143,18 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Michigan Association of Secondary School Principals (MASSP)](https://massp.com/)** | **[Government Relations & Communications Intern (MASA)](https://jobright.ai/jobs/info/695eef9108ab990f282a405d?utm_campaign=1056&utm_source=git)** | Greater Lansing | Hybrid | Jan 07 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
 | **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/695bc500f1f8465b79f1d3d8?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Jan 07 |
-| **[CNIB](http://www.cnib.ca/)** | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee85108ab990f282a38d5?utm_campaign=1056&utm_source=git)** | New Westminster, BC, CA | Remote | Jan 07 |
+| **[CNIB](http://www.cnib.ca/)** | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee7000badca5763af64e9?utm_campaign=1056&utm_source=git)** | Edmonton, AB, CA | Remote | Jan 07 |
 | ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee7e70badca5763af65e4?utm_campaign=1056&utm_source=git)** | Kelowna, BC, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee505a112b402660da144?utm_campaign=1056&utm_source=git)** | Toronto, ON, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee7000badca5763af64e9?utm_campaign=1056&utm_source=git)** | Edmonton, AB, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee51e08ab990f282a3617?utm_campaign=1056&utm_source=git)** | Winnipeg, MB, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695eeac5a112b402660da7cc?utm_campaign=1056&utm_source=git)** | Calgary, AB, CA | Remote | Jan 07 |
 | ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695eea35a112b402660da70c?utm_campaign=1056&utm_source=git)** | Charlottetown, PE, CA | Remote | Jan 07 |
+| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee51e08ab990f282a3617?utm_campaign=1056&utm_source=git)** | Winnipeg, MB, CA | Remote | Jan 07 |
+| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee505a112b402660da144?utm_campaign=1056&utm_source=git)** | Toronto, ON, CA | Remote | Jan 07 |
+| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee85108ab990f282a38d5?utm_campaign=1056&utm_source=git)** | New Westminster, BC, CA | Remote | Jan 07 |
 | ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695eeb6da112b402660da8d5?utm_campaign=1056&utm_source=git)** | Victoria, BC, CA | Remote | Jan 07 |
+| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695eeac5a112b402660da7cc?utm_campaign=1056&utm_source=git)** | Calgary, AB, CA | Remote | Jan 07 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Intern - Public Affairs and Corporate Communications](https://jobright.ai/jobs/info/695eb80408ab990f282a0274?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 07 |
 | **[JTC Group](https://www.jtcgroup.com)** | **[Junior Intern - SDTC Administration](https://jobright.ai/jobs/info/69601905a112b402660ecdad?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 07 |
 | **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Community Outreach Spring Internship](https://jobright.ai/jobs/info/695ee38e08ab990f282a33b0?utm_campaign=1056&utm_source=git)** | High Point, NC | On Site | Jan 07 |
 | **[New Jersey Conservation Foundation](https://www.njconservation.org/)** | **[Internship - "Deer New Jersey" Project](https://jobright.ai/jobs/info/695ee1570badca5763af5c8b?utm_campaign=1056&utm_source=git)** | Far Hills, New Jersey, United States | Hybrid | Jan 07 |
-| **[Robinhood](https://www.robinhood.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/695ea626a112b402660d4f97?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 07 |
-| **[Global Partners LP](http://www.globalp.com)** | **[Corporate Citizenship Intern](https://jobright.ai/jobs/info/695ea1e608ab990f2829e0be?utm_campaign=1056&utm_source=git)** | Waltham, MA - Corporate Headquarters | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
