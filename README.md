@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Brampton](http://www.brampton.ca)** | **[Intern, Economic Development, Innovation & Tech](https://jobright.ai/jobs/info/69611c19e7ed9a5731b9d298?utm_campaign=1056&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 09 |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Global Medical Affairs - Oncology Intern](https://jobright.ai/jobs/info/69611bf4a112b402660fa760?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 09 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs & Support Advisor](https://jobright.ai/jobs/info/69611afce7ed9a5731b9d1fb?utm_campaign=1056&utm_source=git)** | Kirksville, MO | On Site | Jan 09 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Medical Affairs - Summer 2026](https://jobright.ai/jobs/info/6944961bdd382f5f566abb42?utm_campaign=1056&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
+| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696125c7e7ed9a5731b9ee5d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6960eecba112b402660f8071?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 09 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/693cac8b50bbaf76504feed0?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 09 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 09 |
+| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Medical Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/6944961e50bbaf7650569f77?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 09 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 09 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 09 |
 | **[Georg Fischer](http://www.georgfischer.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6960f272f3f4cd132505f751?utm_campaign=1056&utm_source=git)** | Apple Valley, MN | Hybrid | Jan 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Volunteer Engagement and Giving Intern - Summer 2026](https://jobright.ai/jobs/info/695f0664a112b402660dbda8?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 07 |
 | **[Michigan Association of Secondary School Principals (MASSP)](https://massp.com/)** | **[Government Relations & Communications Intern (MASA)](https://jobright.ai/jobs/info/695eef9108ab990f282a405d?utm_campaign=1056&utm_source=git)** | Greater Lansing | Hybrid | Jan 07 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 07 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Healthcare/Government Programs](https://jobright.ai/jobs/info/695ec40b0badca5763af3a5a?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jan 07 |
-| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Medical Affairs - Health Economics & Outcomes Research](https://jobright.ai/jobs/info/695bc500f1f8465b79f1d3d8?utm_campaign=1056&utm_source=git)** | Santa Monica, CA | On Site | Jan 07 |
-| **[CNIB](http://www.cnib.ca/)** | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee7e70badca5763af65e4?utm_campaign=1056&utm_source=git)** | Kelowna, BC, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee51e08ab990f282a3617?utm_campaign=1056&utm_source=git)** | Winnipeg, MB, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695eeac5a112b402660da7cc?utm_campaign=1056&utm_source=git)** | Calgary, AB, CA | Remote | Jan 07 |
-| ↳ | **[Intern, Global Development & Research](https://jobright.ai/jobs/info/695ee505a112b402660da144?utm_campaign=1056&utm_source=git)** | Toronto, ON, CA | Remote | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
