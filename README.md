@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/6962a98d2cbf4e44756c8e91?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | ↳ | **[Summer 2026 India Program Intern](https://jobright.ai/jobs/info/695a1f36f1f8465b79f0714a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | ↳ | **[Summer 2026 Energy Resources & Land Conservation Intern](https://jobright.ai/jobs/info/695a0b2aaa05c26e7ab3ac26?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Spring Internship](https://jobright.ai/jobs/info/6961bb85a112b40266104c47?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Jan 09 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Future Ready® Intern(8-12 months)](https://jobright.ai/jobs/info/69618d75f3f4cd1325069cf3?utm_campaign=1056&utm_source=git)** | 2611 Queensview Drive, Ottawa, ON, K2B 8K2, CA | On Site | Jan 09 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Health Chronic Disease Internship](https://jobright.ai/jobs/info/69618988f3f4cd1325069879?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Jan 09 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6961a492a112b402661037fb?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 09 |
 | **[Eagle River Coalition](https://erwc.org/)** | **[Water Conservation & Watershed Health Summer Internship](https://jobright.ai/jobs/info/696184a0e7ed9a5731ba552d?utm_campaign=1056&utm_source=git)** | Avon, CO | On Site | Jan 09 |
 | **[OKC Fair Park & The Oklahoma State Fair](https://okstatefair.com/)** | **[Agribusiness Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/69617b15f3f4cd1325067538?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, Oklahoma City, OK, US | On Site | Jan 09 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6924eb8a38cd5478a8d5ffa7?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
