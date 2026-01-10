@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/6962a98d2cbf4e44756c8e91?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Summer 2026)](https://jobright.ai/jobs/info/6962ca07a112b40266111be0?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
+| ↳ | **[Medicaid Policy Internship (Summer 2026)](https://jobright.ai/jobs/info/6962c65c2cbf4e44756caedf?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | ↳ | **[Summer 2026 India Program Intern](https://jobright.ai/jobs/info/695a1f36f1f8465b79f0714a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | ↳ | **[Summer 2026 Energy Resources & Land Conservation Intern](https://jobright.ai/jobs/info/695a0b2aaa05c26e7ab3ac26?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/69612fbbf3f4cd1325062b51?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
 | **[City of Brampton](http://www.brampton.ca)** | **[Intern, Economic Development, Innovation & Tech](https://jobright.ai/jobs/info/69611c19e7ed9a5731b9d298?utm_campaign=1056&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 09 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Global Medical Affairs - Oncology Intern](https://jobright.ai/jobs/info/69611bf4a112b402660fa760?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 09 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs & Support Advisor](https://jobright.ai/jobs/info/69611afce7ed9a5731b9d1fb?utm_campaign=1056&utm_source=git)** | Kirksville, MO | On Site | Jan 09 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jan 09 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69613827f3f4cd13250633e4?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 09 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/693cac8b50bbaf76504feed0?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 09 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Medical Affairs, Global Rare Diseases - Summer 2026](https://jobright.ai/jobs/info/6944961e50bbaf7650569f77?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 09 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Government Relations Intern - Spring 2026 - Atlanta Regional Office](https://jobright.ai/jobs/info/6927b088f0beb0723262d276?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 09 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Government Relations Intern Summer 2026](https://jobright.ai/jobs/info/691aa2ee45fb6f5ead8ac994?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 09 |
 | **[Georg Fischer](http://www.georgfischer.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6960f272f3f4cd132505f751?utm_campaign=1056&utm_source=git)** | Apple Valley, MN | Hybrid | Jan 09 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Operations](https://jobright.ai/jobs/info/6960d3efa112b402660f734e?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jan 09 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Advanced Energy United](https://advancedenergyunited.org)** | **[MidAtlantic Internship - Summer 2026](https://jobright.ai/jobs/info/69605390a112b402660f1930?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs (Global Policy)](https://jobright.ai/jobs/info/6960538a7ebc25398eb650f7?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 08 |
-| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/6960750aa1bbea1d9a7b4ba1?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
+| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Climate - Summer 2026](https://jobright.ai/jobs/info/696071437ebc25398eb66795?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
