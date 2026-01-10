@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69623b0825e18715077f1735?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 10 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/6945a8a0951654073537c35d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jan 10 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 09 |
 | ↳ | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e069e7ed9a5731baa66a?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 09 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Advocacy](https://jobright.ai/jobs/info/6961d342e7ed9a5731baa09a?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Jan 09 |
@@ -94,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[VA250 Commission](https://va250.org/)** | **[Economic Competitiveness Intern](https://jobright.ai/jobs/info/69617408f3f4cd1325066c26?utm_campaign=1056&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
 | **[Plains All American](https://www.plains.com)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/693249df764507023d1acaa9?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 09 |
 | **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/696163b2f3f4cd1325065bd2?utm_campaign=1056&utm_source=git)** | Holly Springs, NC | On Site | Jan 09 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/696195a8e7ed9a5731ba7082?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 09 |
+| **[Monsieur Zaher Nourredine &Saginaw County Community Mental Health](https://www.linkedin.com/company/54651514)** | **[Student/Intern](https://jobright.ai/jobs/info/69622c4fa112b402661097c3?utm_campaign=1056&utm_source=git)** | Saginaw, MI, US | On Site | Jan 09 |
 | **[Dwellworks](http://www.dwellworks.com)** | **[Environmental, Social, Governance (ESG) Intern](https://jobright.ai/jobs/info/69615fc6f3f4cd13250657d7?utm_campaign=1056&utm_source=git)** | Cleveland, Ohio, United States | Hybrid | Jan 09 |
 | **[Saginaw County Community Mental Health Authority](https://www.sccmha.org/)** | **[Student/Intern](https://jobright.ai/jobs/info/69618262f3f4cd1325067f01?utm_campaign=1056&utm_source=git)** | Saginaw, MI, US | On Site | Jan 09 |
 | **[FUJIFILM Holdings America Corporation](http://www.fujifilmusa.com/index.html)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/69615ac9a112b402660fde76?utm_campaign=1056&utm_source=git)** | US-NC-Holly Springs | On Site | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Energy United](https://advancedenergyunited.org)** | **[Federal Priorities Internship - Summer 2026](https://jobright.ai/jobs/info/69605107a1bbea1d9a7b2fb0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | ↳ | **[Policy West Internship - Summer 2026](https://jobright.ai/jobs/info/69605091a112b402660f17b9?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[OKC Fairgrounds & The Oklahoma State Fair](https://okstatefair.com/)** | **[Agribusiness Assistant / Intern - 2026 OK State Fair](https://jobright.ai/jobs/info/6961837ee7ed9a5731ba51bb?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jan 08 |
-| **[Humane World for Animals Canada](https://www.humaneworld.org/ca)** | **[Intern, State Affairs - Pennsylvania](https://jobright.ai/jobs/info/69604a30a1bbea1d9a7b2dc9?utm_campaign=1056&utm_source=git)** | Pennsylvania, United States | Remote | Jan 08 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/69606a24a1bbea1d9a7b443b?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 08 |
-| **[Advanced Energy United](https://advancedenergyunited.org)** | **[Clean Energy Regulatory Analysis Internship - Summer 2026](https://jobright.ai/jobs/info/6960693a7ebc25398eb662ca?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
