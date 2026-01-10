@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
+| ↳ | **[Summer 2026 India Program Intern](https://jobright.ai/jobs/info/695a1f36f1f8465b79f0714a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
+| ↳ | **[Summer 2026 Energy Resources & Land Conservation Intern](https://jobright.ai/jobs/info/695a0b2aaa05c26e7ab3ac26?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Solid Waste Advisory Intern](https://jobright.ai/jobs/info/695a24c8f1f8465b79f0732b?utm_campaign=1056&utm_source=git)** | Kennesaw, GA | On Site | Jan 10 |
 | **[Accenture](https://www.accenture.com)** | **[Infrastructure & Capital Projects – Intern, ANS](https://jobright.ai/jobs/info/6945808b63141d1884550f45?utm_campaign=1056&utm_source=git)** | Orlando, FL | Hybrid | Jan 10 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Corp Social Responsibility](https://jobright.ai/jobs/info/6945eca97d506e3808f12ef7?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69501c1f29655e4dd6596e68?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69623b0825e18715077f1735?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 10 |
+| **[Turning Point Action](https://www.tpaction.com)** | **[Chase the Vote Intern](https://jobright.ai/jobs/info/6962611425e18715077f448d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/6945a8a0951654073537c35d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jan 10 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Advanced Energy United](https://advancedenergyunited.org)** | **[MidAtlantic Internship - Summer 2026](https://jobright.ai/jobs/info/69605390a112b402660f1930?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs (Global Policy)](https://jobright.ai/jobs/info/6960538a7ebc25398eb650f7?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 08 |
-| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Climate - Summer 2026](https://jobright.ai/jobs/info/696071437ebc25398eb66795?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
-| ↳ | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/6960750aa1bbea1d9a7b4ba1?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
-| **[Advanced Energy United](https://advancedenergyunited.org)** | **[Enabling Building Electrification Internship - Summer 2026](https://jobright.ai/jobs/info/696051c57ebc25398eb65039?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
-| **[Sault Area Hospital](http://www.sah.on.ca)** | **[Research Intern – Research Office – Sault Area Hospital – Temporary Full Time](https://jobright.ai/jobs/info/6960518e7ebc25398eb6501f?utm_campaign=1056&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | Jan 08 |
-| **[Advanced Energy United](https://advancedenergyunited.org)** | **[Federal Priorities Internship - Summer 2026](https://jobright.ai/jobs/info/69605107a1bbea1d9a7b2fb0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
