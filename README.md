@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Solutions Operations & Communications (Access Solutions & Patient Support)](https://jobright.ai/jobs/info/69630de5a112b402661144fb?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Jan 10 |
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/6962eb942cbf4e44756cb35b?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Jan 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6962d7c3a112b40266111e07?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 10 |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/6962a98d2cbf4e44756c8e91?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 10 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health and Human Services, Federal Health Advisory - Campus 2026](https://jobright.ai/jobs/info/6961ac77a112b40266103df6?utm_campaign=1056&utm_source=git)** | US - GA, Atlanta | On Site | Jan 09 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - Environmental Remediation](https://jobright.ai/jobs/info/6961a5a1f3f4cd132506ae48?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 09 |
 | **[Turning Point Action](https://www.tpaction.com)** | **[Chase the Vote Intern](https://jobright.ai/jobs/info/6961bd15f3f4cd132506c393?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 09 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/696198d2f3f4cd132506a6a8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[Town of Palm Beach](http://fl-palmbeach.civicplus.com/)** | **[Public Administration Intern - Spring Internship](https://jobright.ai/jobs/info/6961bb85a112b40266104c47?utm_campaign=1056&utm_source=git)** | Palm Beach, FL | On Site | Jan 09 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Future Ready® Intern(8-12 months)](https://jobright.ai/jobs/info/69618d75f3f4cd1325069cf3?utm_campaign=1056&utm_source=git)** | 2611 Queensview Drive, Ottawa, ON, K2B 8K2, CA | On Site | Jan 09 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Health Chronic Disease Internship](https://jobright.ai/jobs/info/69618988f3f4cd1325069879?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | Hybrid | Jan 09 |
