@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Government Operations Intern Summer 2026](https://jobright.ai/jobs/info/68bb2fda5f3832749186cc7a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Global Medical Affairs - Oncology Intern](https://jobright.ai/jobs/info/696373c6a112b40266119b00?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 11 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Solutions Operations & Communications (Access Solutions & Patient Support)](https://jobright.ai/jobs/info/6963595525e18715077fedd8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 11 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Solutions Operations & Communications (Access Solutions & Patient Support)](https://jobright.ai/jobs/info/69630de5a112b402661144fb?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Farm Practices Intern](https://jobright.ai/jobs/info/6960581ba1bbea1d9a7b3454?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Jan 08 |
 | **[Advanced Energy United](https://advancedenergyunited.org)** | **[MISO & SPP Wholesale Markets Internship - Summer 2026](https://jobright.ai/jobs/info/69605602a1bbea1d9a7b3261?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/696055c87ebc25398eb65218?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 08 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
