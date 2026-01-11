@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/6963fe8f2cbf4e44756d9c11?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 11 |
+| ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/6963fe3625e1871507807eff?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Data Governance Intern](https://jobright.ai/jobs/info/6963dcc725e18715078072ca?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 11 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6963d831a112b4026611f6fe?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/6963d06c25e1871507805968?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Public Health Association](https://www.apha.org)** | **[Environmental Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69605bfca1bbea1d9a7b37e2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 08 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Graduate Student)](https://jobright.ai/jobs/info/6960586ca112b402660f1d23?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Remote | Jan 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Government Afairs](https://jobright.ai/jobs/info/6960583f7ebc25398eb6544c?utm_campaign=1056&utm_source=git)** | Poway California | On Site | Jan 08 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Farm Practices Intern](https://jobright.ai/jobs/info/6960581ba1bbea1d9a7b3454?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Jan 08 |
-| **[Advanced Energy United](https://advancedenergyunited.org)** | **[MISO & SPP Wholesale Markets Internship - Summer 2026](https://jobright.ai/jobs/info/69605602a1bbea1d9a7b3261?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
