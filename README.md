@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Global Medical Affairs - Oncology Intern](https://jobright.ai/jobs/info/696373c6a112b40266119b00?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 11 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Solutions Operations & Communications (Access Solutions & Patient Support)](https://jobright.ai/jobs/info/6963595525e18715077fedd8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 11 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Solutions Operations & Communications (Access Solutions & Patient Support)](https://jobright.ai/jobs/info/69630de5a112b402661144fb?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Jan 10 |
 | **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/6962eb942cbf4e44756cb35b?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Jan 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6962d7c3a112b40266111e07?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Farm Practices Intern](https://jobright.ai/jobs/info/6960581ba1bbea1d9a7b3454?utm_campaign=1056&utm_source=git)** | Kansas City, KS | On Site | Jan 08 |
 | **[Advanced Energy United](https://advancedenergyunited.org)** | **[MISO & SPP Wholesale Markets Internship - Summer 2026](https://jobright.ai/jobs/info/69605602a1bbea1d9a7b3261?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/696055c87ebc25398eb65218?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 08 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
-| **[Advanced Energy United](https://advancedenergyunited.org)** | **[MidAtlantic Internship - Summer 2026](https://jobright.ai/jobs/info/69605390a112b402660f1930?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
