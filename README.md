@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Water Conservation District](https://www.unitedwater.org)** | **[Public Outreach and External Affairs Intern](https://jobright.ai/jobs/info/6962eb942cbf4e44756cb35b?utm_campaign=1056&utm_source=git)** | Oxnard, CA | On Site | Jan 10 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6962d7c3a112b40266111e07?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 10 |
 | **[MDRC](http://www.mdrc.org/)** | **[2025-08i: Paid Evidence to Practice Intern](https://jobright.ai/jobs/info/6962a98d2cbf4e44756c8e91?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Summer 2026)](https://jobright.ai/jobs/info/6962ca07a112b40266111be0?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/696055c87ebc25398eb65218?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 08 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/696053fa7ebc25398eb65121?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Advanced Energy United](https://advancedenergyunited.org)** | **[MidAtlantic Internship - Summer 2026](https://jobright.ai/jobs/info/69605390a112b402660f1930?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Government & Public Affairs (Global Policy)](https://jobright.ai/jobs/info/6960538a7ebc25398eb650f7?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
