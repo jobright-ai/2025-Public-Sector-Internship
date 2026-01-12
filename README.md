@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA Legislative Intern](https://jobright.ai/jobs/info/69648bd825e187150780eeb6?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Jan 11 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Power](https://jobright.ai/jobs/info/696465042cbf4e44756de80f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | ↳ | **[Summer Intern, US Program and Policy](https://jobright.ai/jobs/info/6964637825e187150780c929?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | ↳ | **[Intern, Health Initiative](https://jobright.ai/jobs/info/69645fa42cbf4e44756de54e?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Data Governance Intern](https://jobright.ai/jobs/info/6963dcc725e18715078072ca?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 11 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6963d831a112b4026611f6fe?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/6963d06c25e1871507805968?utm_campaign=1056&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
+| **[Robinhood](https://www.robinhood.com)** | **[Government Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/695ea626a112b402660d4f97?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Government Operations Intern Summer 2026](https://jobright.ai/jobs/info/68bb2fda5f3832749186cc7a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Global Medical Affairs - Oncology Intern](https://jobright.ai/jobs/info/696373c6a112b40266119b00?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 11 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Access Solutions Operations & Communications (Access Solutions & Patient Support)](https://jobright.ai/jobs/info/6963595525e18715077fedd8?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Operations](https://jobright.ai/jobs/info/6960d3efa112b402660f734e?utm_campaign=1056&utm_source=git)** | St Louis, MO | On Site | Jan 09 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Public Policy Intern, NA](https://jobright.ai/jobs/info/69621acca112b4026610845d?utm_campaign=1056&utm_source=git)** | Denver, CO | On Site | Jan 08 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Operations Services](https://jobright.ai/jobs/info/6940ab3849a7695fbd0631a1?utm_campaign=1056&utm_source=git)** | San Mateo, CA | On Site | Jan 08 |
-| **[American Public Health Association](https://www.apha.org)** | **[Environmental Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/696099687ebc25398eb67baa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
-| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/696086f7a112b402660f3b8a?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
