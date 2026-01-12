@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Philanthropy Donor Relations](https://jobright.ai/jobs/info/696446c2a112b40266124079?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Jan 11 |
+| ↳ | **[Intern - Community Health - Coastal Region](https://jobright.ai/jobs/info/696444462cbf4e44756dc269?utm_campaign=1056&utm_source=git)** | Belfast, ME | On Site | Jan 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69642db625e187150780a14e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 11 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/696426582cbf4e44756dbde7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/6963fe8f2cbf4e44756d9c11?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 11 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Corp Social Responsibility](https://jobright.ai/jobs/info/6945eca97d506e3808f12ef7?utm_campaign=1056&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Federal Legislative Intern](https://jobright.ai/jobs/info/69501c1f29655e4dd6596e68?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/69623b0825e18715077f1735?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 10 |
-| **[Turning Point Action](https://www.tpaction.com)** | **[Chase the Vote Intern](https://jobright.ai/jobs/info/6962611425e18715077f448d?utm_campaign=1056&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Corporate Sustainability](https://jobright.ai/jobs/info/6945a8a0951654073537c35d?utm_campaign=1056&utm_source=git)** | San Jose, CA | On Site | Jan 10 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69445bd9dd382f5f566a7565?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Policy Research (Summer 2026)](https://jobright.ai/jobs/info/6961e270f3f4cd132506db4e?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Climate - Summer 2026](https://jobright.ai/jobs/info/696096dca1bbea1d9a7b5c61?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | ↳ | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696088afa1bbea1d9a7b55b7?utm_campaign=1056&utm_source=git)** | Washington Highlands, MD | On Site | Jan 08 |
-| **[Humane World for Animals](http://www.humanesociety.org)** | **[Intern, State Affairs - Pennsylvania](https://jobright.ai/jobs/info/696060eea1bbea1d9a7b3b6a?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, USA | Remote | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
