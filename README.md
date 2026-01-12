@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Power](https://jobright.ai/jobs/info/696465042cbf4e44756de80f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| ↳ | **[Summer Intern, US Program and Policy](https://jobright.ai/jobs/info/6964637825e187150780c929?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| ↳ | **[Intern, Health Initiative](https://jobright.ai/jobs/info/69645fa42cbf4e44756de54e?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
+| ↳ | **[Intern, Food Initiative](https://jobright.ai/jobs/info/69645f9125e187150780c700?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Philanthropy Donor Relations](https://jobright.ai/jobs/info/696446c2a112b40266124079?utm_campaign=1056&utm_source=git)** | Portland, ME | Hybrid | Jan 11 |
 | ↳ | **[Intern - Community Health - Coastal Region](https://jobright.ai/jobs/info/696444462cbf4e44756dc269?utm_campaign=1056&utm_source=git)** | Belfast, ME | On Site | Jan 11 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69642db625e187150780a14e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Operations Services](https://jobright.ai/jobs/info/6940ab3849a7695fbd0631a1?utm_campaign=1056&utm_source=git)** | San Mateo, CA | On Site | Jan 08 |
 | **[American Public Health Association](https://www.apha.org)** | **[Environmental Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/696099687ebc25398eb67baa?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/696086f7a112b402660f3b8a?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
-| **[World Resources Institute](http://www.wri.org/global-advisory-council)** | **[Restoration Finance and Analysis Intern](https://jobright.ai/jobs/info/69607d19a1bbea1d9a7b4f68?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 08 |
-| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Climate - Summer 2026](https://jobright.ai/jobs/info/696096dca1bbea1d9a7b5c61?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
-| ↳ | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
-| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696088afa1bbea1d9a7b55b7?utm_campaign=1056&utm_source=git)** | Washington Highlands, MD | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
