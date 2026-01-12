@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/69642db625e187150780a14e?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 11 |
+| ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/696426582cbf4e44756dbde7?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 11 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/6963fe8f2cbf4e44756d9c11?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 11 |
 | ↳ | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/6963fe3625e1871507807eff?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Data Governance Intern](https://jobright.ai/jobs/info/6963dcc725e18715078072ca?utm_campaign=1056&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 08 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696088afa1bbea1d9a7b55b7?utm_campaign=1056&utm_source=git)** | Washington Highlands, MD | On Site | Jan 08 |
 | **[Humane World for Animals](http://www.humanesociety.org)** | **[Intern, State Affairs - Pennsylvania](https://jobright.ai/jobs/info/696060eea1bbea1d9a7b3b6a?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, USA | Remote | Jan 08 |
-| **[American Public Health Association](https://www.apha.org)** | **[Environmental Health Internship: 2026 summer term (June 1 - Aug. 15)](https://jobright.ai/jobs/info/69605bfca1bbea1d9a7b37e2?utm_campaign=1056&utm_source=git)** | US-DC-Washington | Hybrid | Jan 08 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach Intern (Graduate Student)](https://jobright.ai/jobs/info/6960586ca112b402660f1d23?utm_campaign=1056&utm_source=git)** | New Brunswick, NJ | Remote | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
