@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696125c7e7ed9a5731b9ee5d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 12 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast FGA Legislative Intern](https://jobright.ai/jobs/info/69648bd825e187150780eeb6?utm_campaign=1056&utm_source=git)** | DC - Washington, 300 New Jersey Ave Nw | On Site | Jan 11 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Power](https://jobright.ai/jobs/info/696465042cbf4e44756de80f?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | ↳ | **[Summer Intern, US Program and Policy](https://jobright.ai/jobs/info/6964637825e187150780c929?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 11 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69613827f3f4cd13250633e4?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 09 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Medical Affairs - Summer 2026](https://jobright.ai/jobs/info/6944961bdd382f5f566abb42?utm_campaign=1056&utm_source=git)** | Cary, NC | Hybrid | Jan 09 |
-| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Appropriations)](https://jobright.ai/jobs/info/696125c7e7ed9a5731b9ee5d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 09 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6960eecba112b402660f8071?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 09 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - US Government](https://jobright.ai/jobs/info/693cac8b50bbaf76504feed0?utm_campaign=1056&utm_source=git)** | Honolulu, HI | Hybrid | Jan 09 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Research Outreach Intern](https://jobright.ai/jobs/info/6933f012f131d96e48468846?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 09 |
