@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Public Affairs, Communications & Sustainability (PACS) Intern](https://jobright.ai/jobs/info/696533e82cbf4e44756eabf9?utm_campaign=1056&utm_source=git)** | US - GA - Atlanta | On Site | Jan 12 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Opening Doors](https://jobright.ai/jobs/info/6965267e6d52670c5c3de681?utm_campaign=1056&utm_source=git)** | Brooklyn, New York | Hybrid | Jan 12 |
+| **[Men's Health Network](http://www.menshealthnetwork.org)** | **[Nonprofit Advocacy Internship](https://jobright.ai/jobs/info/696526272cbf4e44756e91c7?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Jan 12 |
+| **[Grifols](http://www.grifols.com)** | **[Intern - Medical Affairs](https://jobright.ai/jobs/info/696525fe2cbf4e44756e912a?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Jan 12 |
+| **[Everytown for Gun Safety](https://www.everytown.org/)** | **[Political Intern](https://jobright.ai/jobs/info/69652498a112b4026612f0c3?utm_campaign=1056&utm_source=git)** | New York, New York, NY, US | Hybrid | Jan 12 |
+| ↳ | **[Political Intern](https://jobright.ai/jobs/info/6965246e2cbf4e44756e8be6?utm_campaign=1056&utm_source=git)** | DC Office, Washington, DC, US | Hybrid | Jan 12 |
+| **[State of Michigan](https://michigancountymap.com/)** | **[Intern (Student Assistant)](https://jobright.ai/jobs/info/69651b8fa112b4026612eaf9?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Jan 12 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy- Violence Prevention Program](https://jobright.ai/jobs/info/696519e92cbf4e44756e858d?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 12 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/696517be6d52670c5c3dd617?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 12 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Housing Initiative Program) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/696511062cbf4e44756e8109?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Jan 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/69617074a112b402660ff365?utm_campaign=1056&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[2026 Glynn D. Key 1L Summer Fellowship (Paid)](https://jobright.ai/jobs/info/693a1aaa48a8ce22990e18d5?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | Hybrid | Jan 09 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy Development](https://jobright.ai/jobs/info/696165f9f3f4cd1325065e5d?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Veterans Affairs, Federal Health Advisory - Campus 2026](https://jobright.ai/jobs/info/6961624ae7ed9a5731ba28be?utm_campaign=1056&utm_source=git)** | US - VA, McLean | On Site | Jan 09 |
-| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Global Medical Affairs - Oncology Intern](https://jobright.ai/jobs/info/6961377aa112b402660fbfc3?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 09 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/69612fbbf3f4cd1325062b51?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
-| **[City of Brampton](http://www.brampton.ca)** | **[Intern, Economic Development, Innovation & Tech](https://jobright.ai/jobs/info/69611c19e7ed9a5731b9d298?utm_campaign=1056&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 09 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jan 09 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[GreenState Insurance Intern](https://jobright.ai/jobs/info/69613827f3f4cd13250633e4?utm_campaign=1056&utm_source=git)** | North Liberty, IA | On Site | Jan 09 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Health Economics and Outcomes Research (HEOR) Intern (PhD)](https://jobright.ai/jobs/info/690c1297221b890c277fb330?utm_campaign=1056&utm_source=git)** | Mettawa, IL | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
