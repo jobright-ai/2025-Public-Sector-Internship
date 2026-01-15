@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6968a7e7639b452fb57e6e0a?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 14 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69687d43639b452fb57e2c3a?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Jan 14 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Housing and Urban Development](https://jobright.ai/jobs/info/69687a4d639b452fb57e2790?utm_campaign=1056&utm_source=git)** | Reston, VA | Remote | Jan 14 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern Jan 2026](https://jobright.ai/jobs/info/696878a7f25a38006696e822?utm_campaign=1056&utm_source=git)** | Hancock, WI, US, 54943 | On Site | Jan 14 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6968a0fff25a3800669726fc?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 14 |
 | **[Township of Upper St. Clair](https://www.twpusc.org/)** | **[Internship - Local Government Administration](https://jobright.ai/jobs/info/6968493df25a38006696afe2?utm_campaign=1056&utm_source=git)** | Upper St. Clair, Pennsylvania, United States | On Site | Jan 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Deputy Director, International Student Services](https://jobright.ai/jobs/info/69688c18639b452fb57e43de?utm_campaign=1056&utm_source=git)** | West Lafayette, IN | On Site | Jan 14 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Intern](https://jobright.ai/jobs/info/6968827bf25a38006696f759?utm_campaign=1056&utm_source=git)** | Searcy, AR | On Site | Jan 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69667a237a34f5392054f209?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
 | **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Jan 13 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Equitable Foundation, Social Impact](https://jobright.ai/jobs/info/6960e527a112b402660f7df4?utm_campaign=1056&utm_source=git)** | Syracuse, NY | Hybrid | Jan 13 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a3feb187e565c6bfa493e?utm_campaign=1056&utm_source=git)** | Fort Worth, TX | Remote | Jan 13 |
-| **[New York Power Authority](http://www.nypa.gov)** | **[Canals Public Engagement, Developmental Intern](https://jobright.ai/jobs/info/694a42f431c12007d3b904d3?utm_campaign=1056&utm_source=git)** | Albany, NY | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
