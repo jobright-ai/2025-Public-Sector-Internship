@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6968e2e6639b452fb57eb0e4?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 15 |
 | **[City of Baldwin Park](https://www.baldwinpark.com/)** | **[Intern (Housing)](https://jobright.ai/jobs/info/6968c6101703f05405aa9e3d?utm_campaign=1056&utm_source=git)** | Baldwin Park, CA | On Site | Jan 14 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6968a7e7639b452fb57e6e0a?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 14 |
@@ -71,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Deputy Director, International Student Services](https://jobright.ai/jobs/info/69688c18639b452fb57e43de?utm_campaign=1056&utm_source=git)** | West Lafayette, IN | On Site | Jan 14 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Intern](https://jobright.ai/jobs/info/6968827bf25a38006696f759?utm_campaign=1056&utm_source=git)** | Searcy, AR | On Site | Jan 14 |
 | **[Sanford Underground Research Facility](https://www.sanfordlab.org/)** | **[Summer 2026 Internship - Community Relations](https://jobright.ai/jobs/info/69688971639b452fb57e3fd6?utm_campaign=1056&utm_source=git)** | Lead, SD | On Site | Jan 14 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Public Health Preparedness & Response (Summer)](https://jobright.ai/jobs/info/696867bf1703f05405aa1b20?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 14 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6968722bf25a38006696e002?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 14 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Public Health Preparedness & Response (Summer)](https://jobright.ai/jobs/info/696867bf1703f05405aa1b20?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 14 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Leadership Support Intern – National Pastoral Migratoria](https://jobright.ai/jobs/info/69685e201703f05405aa100f?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 14 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/696864b6639b452fb57e0998?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | ↳ | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/696877d41703f05405aa30e8?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Climate Change and Sustainability Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694b1cc83019f50a4fe63549?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/696805e0f25a380066965af4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
 | ↳ | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/6967d2131703f05405a972ee?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 14 |
+| **[State of Florida](http://www.myflorida.com)** | **[GOVERNMENT ANALYST I - 42002823 (FOR INTERNAL AGENCY EMPLOYEES ONLY)](https://jobright.ai/jobs/info/6968e5fd639b452fb57eb4fa?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | On Site | Jan 14 |
 | **[Charlotte Area Transit System](http://ridetransit.org)** | **[4 Yr Undergrad Intern I - Risk , Safety, and Health](https://jobright.ai/jobs/info/69675e831703f05405a90983?utm_campaign=1056&utm_source=git)** | CLT Center | On Site | Jan 14 |
 | **[Uponor](https://www.uponor.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6967e6bbf25a38006696407a?utm_campaign=1056&utm_source=git)** | Apple Valley, MN | Hybrid | Jan 14 |
 | **[TriHealth](http://www.trihealth.com)** | **[Bethesda Foundation Intern](https://jobright.ai/jobs/info/69583803aa05c26e7ab21cf7?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jan 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69667a237a34f5392054f209?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Jan 13 |
-| **[Origin Bank](https://www.origin.bank/en/)** | **[Community Development Intern](https://jobright.ai/jobs/info/694a45e1187e565c6bfa4e01?utm_campaign=1056&utm_source=git)** | Dallas, TX | Remote | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
