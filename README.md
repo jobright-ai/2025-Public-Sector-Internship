@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/6968ffb0639b452fb57ecb2a?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 15 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6943aa8e50bbaf765055a7cb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 15 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/696909b2639b452fb57ed348?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 15 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6968e2e6639b452fb57eb0e4?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 15 |
 | **[City of Baldwin Park](https://www.baldwinpark.com/)** | **[Intern (Housing)](https://jobright.ai/jobs/info/6968c6101703f05405aa9e3d?utm_campaign=1056&utm_source=git)** | Baldwin Park, CA | On Site | Jan 14 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - VA Community Care Analyst](https://jobright.ai/jobs/info/6904f9e6ff462851feff92e6?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Brampton](http://www.brampton.ca)** | **[Intern, Economic Development, Innovation & Tech](https://jobright.ai/jobs/info/69611c19e7ed9a5731b9d298?utm_campaign=1056&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 13 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/69170837bcdbf3560c9c4468?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Violence Prevention Intern (Summer 2026)](https://jobright.ai/jobs/info/69674a6bf25a38006695ad85?utm_campaign=1056&utm_source=git)** | Mecklenburg County, NC | On Site | Jan 13 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c7480246?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69667a237a34f5392054f209?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
-| **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Government Markets Intern - Summer 2026](https://jobright.ai/jobs/info/6949f4b763141d1884597800?utm_campaign=1056&utm_source=git)** | Fargo, ND | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
