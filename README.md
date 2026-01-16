@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696a2e43db26b618950d50b0?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 16 |
+| **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69323669948dde73ff9068f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/696a10c55fc8624185391964?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Jan 15 |
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/696a144d5fc8624185391ab2?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 15 |
 | ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/696a150e5fc8624185391b12?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 15 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 13 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy, Analysis, and Research](https://jobright.ai/jobs/info/6966fae2639b452fb57c89c4?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/696730381703f05405a8e2a5?utm_campaign=1056&utm_source=git)** | US-CA-San Francisco | Hybrid | Jan 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/6966d955b098f4515f4e30c6?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
-| ↳ | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6966d920b098f4515f4e3054?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6966d920b098f4515f4e3054?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/69670829639b452fb57c9b85?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jan 13 |
 | **[South Carolina Department of Transportation](http://www.scdot.org)** | **[Minority and Small Business Affairs Summer Intern (12601001)](https://jobright.ai/jobs/info/69670929639b452fb57c9d46?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Jan 13 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[U.S. Federal Affairs Supply Chain Summer Intern](https://jobright.ai/jobs/info/696708e0639b452fb57c9ca4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
 | ↳ | **[U.S. Federal Affairs Supply Chain Summer Intern](https://jobright.ai/jobs/info/6966cac75ad3a93f8232298a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States of America | Hybrid | Jan 13 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Fall Advocacy Intern](https://jobright.ai/jobs/info/6966ca645ad3a93f823228a5?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Jan 13 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6966e8365ad3a93f82325427?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
