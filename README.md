@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/696a10c55fc8624185391964?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Jan 15 |
+| ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/696a144d5fc8624185391ab2?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 15 |
+| ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/696a150e5fc8624185391b12?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 15 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Jan 15 |
 | **[Disability:IN](https://disabilityin.org)** | **[Research and Policy Intern](https://jobright.ai/jobs/info/6969cbd71703f05405abd55a?utm_campaign=1056&utm_source=git)** | US | Hybrid | Jan 15 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Environmental/Sustainability](https://jobright.ai/jobs/info/6969ecae1703f05405abf535?utm_campaign=1056&utm_source=git)** | Florham Park, NJ | On Site | Jan 15 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern (Right-of-Way Acquisition), District Temporary](https://jobright.ai/jobs/info/696993eb1703f05405ab9431?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Intern, Genitourinary & Gynecological Oncology](https://jobright.ai/jobs/info/69696b081703f05405ab4b71?utm_campaign=1056&utm_source=git)** | US - Gaithersburg - MD | Hybrid | Jan 15 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship – Health Equity](https://jobright.ai/jobs/info/69696f351703f05405ab534e?utm_campaign=1056&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Jan 15 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69697450639b452fb57f546c?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 15 |
 | **[I Am Boundless](https://iamboundless.org/)** | **[Governmental Affairs Internship](https://jobright.ai/jobs/info/69697347f25a38006698173a?utm_campaign=1056&utm_source=git)** | Columbus, OH, US | Hybrid | Jan 15 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legislative Services Internship (Summer 2026/Academic Year 2026-2027)](https://jobright.ai/jobs/info/69698921639b452fb57f6585?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 15 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69699257f25a380066984cfe?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jan 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[U.S. Federal Affairs Supply Chain Summer Intern](https://jobright.ai/jobs/info/6966cac75ad3a93f8232298a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States of America | Hybrid | Jan 13 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Fall Advocacy Intern](https://jobright.ai/jobs/info/6966ca645ad3a93f823228a5?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Jan 13 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6966e8365ad3a93f82325427?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 13 |
-| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6966e99ca112b4026614f99c?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
-| ↳ | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/6966fc5ea1358766808441bb?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
