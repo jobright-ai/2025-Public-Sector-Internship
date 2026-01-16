@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WATCH CDC](http://www.watchcdc.org)** | **[Program and Community Engagement Intern](https://jobright.ai/jobs/info/696a9583350cf4380311853c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Jan 16 |
+| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Race & Ethnicity, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a947d350cf43803118401?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
+| **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - City Manager's Office](https://jobright.ai/jobs/info/696a93a95fc8624185398c1a?utm_campaign=1056&utm_source=git)** | Englewood, Colorado, United States | On Site | Jan 16 |
+| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, U. S. Politics, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a8f8fdb26b618950db793?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
+| ↳ | **[Undergraduate Intern, Social & Demographic Trends, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a8e6f5fc86241853986cc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
+| **[The Center for Election Innovation & Research](https://electioninnovation.org)** | **[Research Intern (Summer 2026)](https://jobright.ai/jobs/info/696a8523350cf438031174df?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696a7dcfdb26b618950dabc8?utm_campaign=1056&utm_source=git)** | Troy, Michigan, US | Hybrid | Jan 16 |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7d8edb26b618950dab89?utm_campaign=1056&utm_source=git)** | Picabo, Idaho | On Site | Jan 16 |
+| ↳ | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7ac5350cf43803116f98?utm_campaign=1056&utm_source=git)** | Hailey, Idaho | On Site | Jan 16 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Holland & Knight LLP](http://www.hklaw.com)** | **[Intern - Public Policy & Regulation Group](https://jobright.ai/jobs/info/696a7751350cf43803116d2e?utm_campaign=1056&utm_source=git)** | Austin | On Site | Jan 16 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/69674a151703f05405a8f8ce?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 13 |
 | **[Hamilton County Clerk of Courts](http://www.courtclerk.org/)** | **[Summer Internship](https://jobright.ai/jobs/info/6969ebd61703f05405abf48e?utm_campaign=1056&utm_source=git)** | Cincinnati, OH | On Site | Jan 13 |
 | **[State of Utah](http://www.utah.gov/)** | **[Public Administration Intern](https://jobright.ai/jobs/info/696737a71703f05405a8ef90?utm_campaign=1056&utm_source=git)** | Salt Lake County, UT | On Site | Jan 13 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Georgia State Office (Summer 2026)](https://jobright.ai/jobs/info/694ef7bda2668b7f54524787?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 13 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy, Analysis, and Research](https://jobright.ai/jobs/info/69671c98639b452fb57cbaad?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 13 |
-| **[The Nature Conservancy](http://www.nature.org)** | **[Mukwonago Agricultural Stewardship Intern](https://jobright.ai/jobs/info/696724ba1703f05405a8ceb4?utm_campaign=1056&utm_source=git)** | East Troy, WI | On Site | Jan 13 |
-| **[NAMI Chicago](https://www.namichicago.org)** | **[MSW intern](https://jobright.ai/jobs/info/696722bdf25a38006695805f?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 13 |
-| **[Starfish Family Services](https://www.starfishfamilyservices.org/)** | **[Public Policy and Advocacy Intern](https://jobright.ai/jobs/info/69672fc4639b452fb57cda54?utm_campaign=1056&utm_source=git)** | Hiveley Corp - Inkster, MI 48141 | On Site | Jan 13 |
-| **[NAMI Chicago](https://www.namichicago.org)** | **[MSW intern](https://jobright.ai/jobs/info/696713d16f782b4e8d52c7ca?utm_campaign=1056&utm_source=git)** | Chicago | Hybrid | Jan 13 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Policy, Analysis, and Research](https://jobright.ai/jobs/info/6967169e639b452fb57cb17b?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
-| **[Kairos Power](https://kairospower.com/)** | **[Government Affairs Internship](https://jobright.ai/jobs/info/69670c736f782b4e8d52bcda?utm_campaign=1056&utm_source=git)** | Alameda, CA | On Site | Jan 13 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Policy, Analysis, and Research](https://jobright.ai/jobs/info/6966fae2639b452fb57c89c4?utm_campaign=1056&utm_source=git)** | Albany, NY, US | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
