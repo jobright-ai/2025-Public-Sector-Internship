@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/695a2e51f1f8465b79f079b2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Jan 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696a2e43db26b618950d50b0?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 16 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69323669948dde73ff9068f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 16 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/696a47c6350cf43803113990?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/696a10c55fc8624185391964?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Jan 15 |
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/696a144d5fc8624185391ab2?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 15 |
 | ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/696a150e5fc8624185391b12?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6966d920b098f4515f4e3054?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Advocacy Intern](https://jobright.ai/jobs/info/69670829639b452fb57c9b85?utm_campaign=1056&utm_source=git)** | Louisville, KY | Hybrid | Jan 13 |
 | **[South Carolina Department of Transportation](http://www.scdot.org)** | **[Minority and Small Business Affairs Summer Intern (12601001)](https://jobright.ai/jobs/info/69670929639b452fb57c9d46?utm_campaign=1056&utm_source=git)** | Columbia, SC | On Site | Jan 13 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[U.S. Federal Affairs Supply Chain Summer Intern](https://jobright.ai/jobs/info/696708e0639b452fb57c9ca4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 13 |
-| ↳ | **[U.S. Federal Affairs Supply Chain Summer Intern](https://jobright.ai/jobs/info/6966cac75ad3a93f8232298a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States of America | Hybrid | Jan 13 |
-| **[EveryMind.](https://www.every-mind.org)** | **[Fall Advocacy Intern](https://jobright.ai/jobs/info/6966ca645ad3a93f823228a5?utm_campaign=1056&utm_source=git)** | Rockville, MD | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
