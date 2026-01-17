@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Issue Advocacy & Alliances (US External Affairs)](https://jobright.ai/jobs/info/696affe05fc86241853a4850?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, CSR Grants](https://jobright.ai/jobs/info/696af748db26b618950e687b?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, USA | On Site | Jan 16 |
+| **[First Capital REIT](https://fcr.ca/)** | **[Environmental Social and Governance (ESG) Intern (Summer 2026)](https://jobright.ai/jobs/info/696af4c65fc86241853a3a67?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Subcontracts Intern](https://jobright.ai/jobs/info/696ae7f8350cf438031217cb?utm_campaign=1056&utm_source=git)** | Chantilly, VA | On Site | Jan 16 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/696ac78edb26b618950e108a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[External and Government Affairs Intern – Summer 2026 – 4 Months 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/696a9fe25fc862418539993e?utm_campaign=1056&utm_source=git)** | Mississauga, Ontario - Canada | Hybrid | Jan 16 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a9f8ddb26b618950dc7a3?utm_campaign=1056&utm_source=git)** | Hailey, ID | On Site | Jan 16 |
 | **[City of College Station](http://www.cstx.gov)** | **[(E3) Economic Development Intern](https://jobright.ai/jobs/info/696a9bc95fc8624185399650?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Jan 16 |
-| ↳ | **[(E3) Long Range Planning Intern](https://jobright.ai/jobs/info/696a9860350cf4380311891b?utm_campaign=1056&utm_source=git)** | College Station, TX | On Site | Jan 16 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsPolitical Data Intern - Fall/Spring 2026](https://jobright.ai/jobs/info/696a98265fc86241853991f6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[Environmental Social and Governance (ESG) Intern (Summer 2026)](https://jobright.ai/jobs/info/696a97715fc8624185399113?utm_campaign=1056&utm_source=git)** | Toronto, ON | On Site | Jan 16 |
 | **[WATCH CDC](http://www.watchcdc.org)** | **[Program and Community Engagement Intern](https://jobright.ai/jobs/info/696a9583350cf4380311853c?utm_campaign=1056&utm_source=git)** | Waltham, MA | On Site | Jan 16 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7d8edb26b618950dab89?utm_campaign=1056&utm_source=git)** | Picabo, Idaho | On Site | Jan 16 |
 | ↳ | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7ac5350cf43803116f98?utm_campaign=1056&utm_source=git)** | Hailey, Idaho | On Site | Jan 16 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Summer 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/696a98db5fc86241853992d9?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Jan 16 |
-| ↳ | **[Summer 2026 Unpaid Social Work Internship (Clinton)](https://jobright.ai/jobs/info/696a992f350cf43803118a34?utm_campaign=1056&utm_source=git)** | Clinton, IA | On Site | Jan 16 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Summer 2026 Unpaid Social Work Internship (Clinton)](https://jobright.ai/jobs/info/696a992f350cf43803118a34?utm_campaign=1056&utm_source=git)** | Clinton, IA | On Site | Jan 16 |
+| ↳ | **[Summer 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/696a98db5fc86241853992d9?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Jan 16 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship – Health Equity](https://jobright.ai/jobs/info/696a75da350cf43803116c7d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/695a2e51f1f8465b79f079b2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Jan 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6961b6faa112b4026610477d?utm_campaign=1056&utm_source=git)** | Alexandria, VA | Hybrid | Jan 14 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Registered Clinical Social Work Intern (RCSWI) - Remote](https://jobright.ai/jobs/info/69683a99f25a38006696a074?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 14 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Intern](https://jobright.ai/jobs/info/6968269d639b452fb57db788?utm_campaign=1056&utm_source=git)** | Searcy, AR | On Site | Jan 14 |
-| **[American Water](http://amwater.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/691abc3915b415636718a414?utm_campaign=1056&utm_source=git)** | Scranton, PA | Hybrid | Jan 14 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/696866f6639b452fb57e0c85?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
