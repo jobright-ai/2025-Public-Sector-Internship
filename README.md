@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efb65ce13cd10565742ad?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 17 |
+| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
+| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
+| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 17 |
+| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69338384a0dde7020e2eebb4?utm_campaign=1056&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
 | **[University of Utah](http://utah.edu)** | **[Policy Intern, Nucleus](https://jobright.ai/jobs/info/696b4cda350cf43803129ca9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 17 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Health Promotion Intern](https://jobright.ai/jobs/info/696b45c05fc86241853a9cdb?utm_campaign=1056&utm_source=git)** | Health Plan of San Mateo, 701 Gateway Blvd., South San Francisco, California, United States of America | Hybrid | Jan 17 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Office of Policy, Planning and Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/696b352bdb26b618950ebb52?utm_campaign=1056&utm_source=git)** | Wake County, NC | Hybrid | Jan 16 |
@@ -107,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship – Health Equity](https://jobright.ai/jobs/info/696a75da350cf43803116c7d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/695a2e51f1f8465b79f079b2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Jan 16 |
 | **[Canadian Security Intelligence Service (CSIS) | Service canadien du renseignement de sécurité (SCRS)](https://www.canada.ca/csisjobs)** | **[Co-op: Communications](https://jobright.ai/jobs/info/696a62b05fc8624185395427?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 16 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696a2e43db26b618950d50b0?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 16 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69323669948dde73ff9068f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/696a47c6350cf43803113990?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/696a10c55fc8624185391964?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Jan 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6968a7e7639b452fb57e6e0a?utm_campaign=1056&utm_source=git)** | Washington, United States | On Site | Jan 14 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Community Outreach Internship - Operation Smile ILC](https://jobright.ai/jobs/info/69687d43639b452fb57e2c3a?utm_campaign=1056&utm_source=git)** | Virginia Beach, VA | On Site | Jan 14 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Housing and Urban Development](https://jobright.ai/jobs/info/69687a4d639b452fb57e2790?utm_campaign=1056&utm_source=git)** | Reston, VA | Remote | Jan 14 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Agricultural Field Representative Intern Jan 2026](https://jobright.ai/jobs/info/696878a7f25a38006696e822?utm_campaign=1056&utm_source=git)** | Hancock, WI, US, 54943 | On Site | Jan 14 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6968ac9e639b452fb57e72bd?utm_campaign=1056&utm_source=git)** | MTI - WASHINGTON  DC - 25 Mass - Office | On Site | Jan 14 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Agriculture Program (Kansas City, MO)](https://jobright.ai/jobs/info/6968af8c1703f05405aa829f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Jan 14 |
-| ↳ | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6968a0fff25a3800669726fc?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 14 |
-| ↳ | **[2026 Summer Internship, Energy and Climate Planning](https://jobright.ai/jobs/info/6968ac0e1703f05405aa7f11?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Jan 14 |
-| **[Township of Upper St. Clair](https://www.twpusc.org/)** | **[Internship - Local Government Administration](https://jobright.ai/jobs/info/6968493df25a38006696afe2?utm_campaign=1056&utm_source=git)** | Upper St. Clair, Pennsylvania, United States | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
