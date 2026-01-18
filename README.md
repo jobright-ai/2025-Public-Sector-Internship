@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/696c0ef1350cf43803134312?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jan 17 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696c65b15fc86241853b9b65?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Jan 17 |
 | ↳ | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 17 |
@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 17 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696b91e9db26b618950f1f33?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Dairy Relations](https://jobright.ai/jobs/info/69338384a0dde7020e2eebb4?utm_campaign=1056&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/696b8459350cf4380312e3c8?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
@@ -119,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7d8edb26b618950dab89?utm_campaign=1056&utm_source=git)** | Picabo, Idaho | On Site | Jan 16 |
 | ↳ | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7ac5350cf43803116f98?utm_campaign=1056&utm_source=git)** | Hailey, Idaho | On Site | Jan 16 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Summer 2026 Unpaid Social Work Internship (Clinton)](https://jobright.ai/jobs/info/696a992f350cf43803118a34?utm_campaign=1056&utm_source=git)** | Clinton, IA | On Site | Jan 16 |
-| ↳ | **[Summer 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/696a98db5fc86241853992d9?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Jan 16 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Summer 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/696a98db5fc86241853992d9?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Jan 16 |
+| ↳ | **[Summer 2026 Unpaid Social Work Internship (Clinton)](https://jobright.ai/jobs/info/696a992f350cf43803118a34?utm_campaign=1056&utm_source=git)** | Clinton, IA | On Site | Jan 16 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship – Health Equity](https://jobright.ai/jobs/info/696a75da350cf43803116c7d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/695a2e51f1f8465b79f079b2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Jan 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/6969c0e51703f05405abbe8a?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Jan 15 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/69694c6f1703f05405ab24ec?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 15 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (MI/MN/WI)](https://jobright.ai/jobs/info/69692537639b452fb57ef18a?utm_campaign=1056&utm_source=git)** | Michigan Remote Office (MI99) | Remote | Jan 15 |
+| ↳ | **[2026 Summer Intern, Energy Analyst (MI/MN/WI)](https://jobright.ai/jobs/info/696922d41703f05405aafe04?utm_campaign=1056&utm_source=git)** | Nationwide Remote Office (US99) | Remote | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
