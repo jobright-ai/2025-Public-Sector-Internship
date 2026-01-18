@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/696c0ef1350cf43803134312?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Jan 17 |
 | ↳ | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/6969c0e51703f05405abbe8a?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Jan 15 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Intern, Center for Injury Prevention and Policy](https://jobright.ai/jobs/info/69694c6f1703f05405ab24ec?utm_campaign=1056&utm_source=git)** | Baltimore, MD | On Site | Jan 15 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (MI/MN/WI)](https://jobright.ai/jobs/info/69692537639b452fb57ef18a?utm_campaign=1056&utm_source=git)** | Michigan Remote Office (MI99) | Remote | Jan 15 |
-| ↳ | **[2026 Summer Intern, Energy Analyst (MI/MN/WI)](https://jobright.ai/jobs/info/696922d41703f05405aafe04?utm_campaign=1056&utm_source=git)** | Nationwide Remote Office (US99) | Remote | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
