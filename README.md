@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/6961c511e7ed9a5731ba977f?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Jan 18 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 18 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Jan 18 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696c65b15fc86241853b9b65?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Jan 17 |
 | ↳ | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 17 |
@@ -96,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/696ae87e350cf43803121911?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 16 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696ab23e350cf4380311b2e7?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 16 |
+| ↳ | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aaf22db26b618950de0e6?utm_campaign=1056&utm_source=git)** | 50 W Town St50 West Town Street | On Site | Jan 16 |
 | **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Future Ready® Intern(8-12 months)](https://jobright.ai/jobs/info/696aae675fc862418539b0f4?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 16 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aadb45fc862418539ae0f?utm_campaign=1056&utm_source=git)** | 50 W Town St50 West Town Street | On Site | Jan 16 |
-| ↳ | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aad54db26b618950ddc61?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aad54db26b618950ddc61?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/696aaaf95fc862418539a49d?utm_campaign=1056&utm_source=git)** | Roanoke, Virginia | Hybrid | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Issue Advocacy & Alliances (US External Affairs)](https://jobright.ai/jobs/info/696ac6d3db26b618950e0f26?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Jan 16 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696aa7bd350cf43803119685?utm_campaign=1056&utm_source=git)** | Picabo, ID | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 15 |
 | **[I Am Boundless](https://iamboundless.org/)** | **[Governmental Affairs Internship](https://jobright.ai/jobs/info/69696f011703f05405ab5302?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Jan 15 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (MI/MN/WI)](https://jobright.ai/jobs/info/69692f14639b452fb57eff17?utm_campaign=1056&utm_source=git)** | Lansing, MI | Hybrid | Jan 15 |
-| **[City of Boerne](http://boerne-tx.gov)** | **[City Internship](https://jobright.ai/jobs/info/6969c0e51703f05405abbe8a?utm_campaign=1056&utm_source=git)** | Boerne, TX | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
