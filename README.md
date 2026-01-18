@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I - Risk , Safety, and Health](https://jobright.ai/jobs/info/696d3b6cdb26b61895104fa7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696d100e5fc86241853c1d22?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 18 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/6961c511e7ed9a5731ba977f?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
@@ -98,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/696ae87e350cf43803121911?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696ab5ec350cf4380311bc31?utm_campaign=1056&utm_source=git)** | Troy, MI | Hybrid | Jan 16 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696ab23e350cf4380311b2e7?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 16 |
-| ↳ | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aaf22db26b618950de0e6?utm_campaign=1056&utm_source=git)** | 50 W Town St50 West Town Street | On Site | Jan 16 |
 | **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Future Ready® Intern(8-12 months)](https://jobright.ai/jobs/info/696aae675fc862418539b0f4?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 16 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aad54db26b618950ddc61?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aadb45fc862418539ae0f?utm_campaign=1056&utm_source=git)** | 50 W Town St50 West Town Street | On Site | Jan 16 |
+| ↳ | **[2026 Summer College Intern - Division of Environmental and Financial Assistance](https://jobright.ai/jobs/info/696aad54db26b618950ddc61?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/696aaaf95fc862418539a49d?utm_campaign=1056&utm_source=git)** | Roanoke, Virginia | Hybrid | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Issue Advocacy & Alliances (US External Affairs)](https://jobright.ai/jobs/info/696ac6d3db26b618950e0f26?utm_campaign=1056&utm_source=git)** | Washington DC | On Site | Jan 16 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696aa7bd350cf43803119685?utm_campaign=1056&utm_source=git)** | Picabo, ID | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Legislative Services Internship (Summer 2026/Academic Year 2026-2027)](https://jobright.ai/jobs/info/69698921639b452fb57f6585?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 15 |
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/69699257f25a380066984cfe?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jan 15 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 15 |
-| **[I Am Boundless](https://iamboundless.org/)** | **[Governmental Affairs Internship](https://jobright.ai/jobs/info/69696f011703f05405ab5302?utm_campaign=1056&utm_source=git)** | Columbus, OH | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
