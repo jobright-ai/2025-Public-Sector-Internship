@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b0935649778e200e7b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 19 |
+| **[TD](https://www.td.com)** | **[Sustainability Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952423cf1f8465b79e99701?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
+| ↳ | **[SICA Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695242c7f1f8465b79e9975e?utm_campaign=1056&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 19 |
+| ↳ | **[Governance and Control Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242b0935649778e200e7b?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - State Government Affairs](https://jobright.ai/jobs/info/696e1ad5db26b618951103f6?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jan 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/696e106d5fc86241853cd909?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 19 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - State Government Affairs](https://jobright.ai/jobs/info/696e00c1350cf4380314d38e?utm_campaign=1056&utm_source=git)** | Tempe, AZ, US | Hybrid | Jan 19 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7d8edb26b618950dab89?utm_campaign=1056&utm_source=git)** | Picabo, Idaho | On Site | Jan 16 |
 | ↳ | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7ac5350cf43803116f98?utm_campaign=1056&utm_source=git)** | Hailey, Idaho | On Site | Jan 16 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 16 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Summer 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/696a98db5fc86241853992d9?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Jan 16 |
-| ↳ | **[Summer 2026 Unpaid Social Work Internship (Clinton)](https://jobright.ai/jobs/info/696a992f350cf43803118a34?utm_campaign=1056&utm_source=git)** | Clinton, IA | On Site | Jan 16 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Summer 2026 Unpaid Social Work Internship (Clinton)](https://jobright.ai/jobs/info/696a992f350cf43803118a34?utm_campaign=1056&utm_source=git)** | Clinton, IA | On Site | Jan 16 |
+| ↳ | **[Summer 2026 Unpaid Social Work Internship (Dubuque)](https://jobright.ai/jobs/info/696a98db5fc86241853992d9?utm_campaign=1056&utm_source=git)** | Dubuque, IA | On Site | Jan 16 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 16 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship – Health Equity](https://jobright.ai/jobs/info/696a75da350cf43803116c7d?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Community Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/695a2e51f1f8465b79f079b2?utm_campaign=1056&utm_source=git)** | North Carolina, United States | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pembina Institute](https://www.pembina.org)** | **[Transportation Policy Internship (Hybrid)](https://jobright.ai/jobs/info/696a7449db26b618950da535?utm_campaign=1056&utm_source=git)** | Greater Calgary Metropolitan Area | Hybrid | Jan 15 |
 | **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern (Right-of-Way Acquisition), District Temporary](https://jobright.ai/jobs/info/69699d8af25a3800669856a2?utm_campaign=1056&utm_source=git)** | US-CA-Los Angeles | Hybrid | Jan 15 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Medical Affairs Intern, Genitourinary & Gynecological Oncology](https://jobright.ai/jobs/info/6969a9171703f05405aba73a?utm_campaign=1056&utm_source=git)** | Gaithersburg, Maryland, United States of America | Hybrid | Jan 15 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jan 15 |
-| **[Larimer County Department of Health and Environment](http://www.larimer.gov/health)** | **[Public Health Intern - Chronic Disease Prevention](https://jobright.ai/jobs/info/6969d1811703f05405abe063?utm_campaign=1056&utm_source=git)** | Spruce, CO | Hybrid | Jan 15 |
-| **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern (Right-of-Way Acquisition), District Temporary](https://jobright.ai/jobs/info/696993eb1703f05405ab9431?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
