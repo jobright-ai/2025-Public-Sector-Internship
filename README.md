@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Halff](https://www.halff.com/)** | **[Intern, Planning](https://jobright.ai/jobs/info/696e89c35fc86241853d4219?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jan 19 |
+| **[TMX Group](http://www.tmx.com)** | **[Vote Processing, Student Intern (Summer 2026)](https://jobright.ai/jobs/info/696e94685fc86241853d4e74?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
+| **[Halff](https://www.halff.com/)** | **[Intern, Planning](https://jobright.ai/jobs/info/696e8db9350cf438031543fd?utm_campaign=1056&utm_source=git)** | San Antonio, TX 78216, USA | On Site | Jan 19 |
+| ↳ | **[Intern, Planning](https://jobright.ai/jobs/info/696e89c35fc86241853d4219?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jan 19 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Summer Internship with the Office of Research & Statistics](https://jobright.ai/jobs/info/696e84df5fc86241853d3d0f?utm_campaign=1056&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jan 19 |
 | **[Sauk County](https://www.co.sauk.wi.us/)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/696e66c9350cf43803152ef3?utm_campaign=1056&utm_source=git)** | Baraboo, WI | On Site | Jan 19 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 19 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[State Policy Intern](https://jobright.ai/jobs/info/696dc52b350cf43803149acd?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia | On Site | Jan 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696db786350cf4380314932e?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 18 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Economic Development](https://jobright.ai/jobs/info/696e00ebdb26b6189510fc64?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
+| ↳ | **[2026 Summer Intern - Procurement](https://jobright.ai/jobs/info/696e9f76db26b61895118a83?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I - Risk , Safety, and Health](https://jobright.ai/jobs/info/696d3b6cdb26b61895104fa7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/6961c511e7ed9a5731ba977f?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Urban League](https://nul.org/)** | **[UPS - National Urban League - Business Executive Exchange Program (BEEP) 2026 Summer Internship Program](https://jobright.ai/jobs/info/6969f08e639b452fb57fe9a0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jan 15 |
-| **[National Urban League](https://nul.org/)** | **[UPS - National Urban League - Business Executive Exchange Program (BEEP) 2026 Summer Internship Program](https://jobright.ai/jobs/info/696996861703f05405ab9677?utm_campaign=1056&utm_source=git)** | US-GA-Atlanta | On Site | Jan 15 |
-| **[City Of Chanhassen](http://www.ci.chanhassen.mn.us)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/696abc635fc862418539cff1?utm_campaign=1056&utm_source=git)** | Chanhassen, MN | On Site | Jan 15 |
-| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Mobility Unlimited Hub - Summer 2026](https://jobright.ai/jobs/info/6969b8a41703f05405abb311?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
