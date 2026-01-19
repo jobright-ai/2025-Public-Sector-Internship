@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Procurement](https://jobright.ai/jobs/info/696dd299db26b6189510caf5?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[State Policy Intern](https://jobright.ai/jobs/info/696dc52b350cf43803149acd?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia | On Site | Jan 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696db786350cf4380314932e?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 18 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/696d61b25fc86241853c4447?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I - Risk , Safety, and Health](https://jobright.ai/jobs/info/696d3b6cdb26b61895104fa7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696d100e5fc86241853c1d22?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 18 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/6961c511e7ed9a5731ba977f?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Jan 18 |
