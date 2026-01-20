@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MassHousing](https://www.masshousing.com)** | **[Summer Intern: Community Climate Bank](https://jobright.ai/jobs/info/696fa14b3ed06875134a8aa4?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Medicaid Policy Internship (Summer 2026)](https://jobright.ai/jobs/info/69682508639b452fb57db361?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
+| **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jan 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/696f75630f4e0f657ea3b949?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/696a10c55fc8624185391964?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Jan 15 |
 | ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/696a144d5fc8624185391ab2?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 15 |
 | ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/696a150e5fc8624185391b12?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 15 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Emergency Management Summer Intern](https://jobright.ai/jobs/info/692f4db14c474121999dd9cb?utm_campaign=1056&utm_source=git)** | Aiken, SC | On Site | Jan 15 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6969dfdb1703f05405abecaa?utm_campaign=1056&utm_source=git)** | Edmond, OK | Hybrid | Jan 15 |
-| **[Disability:IN](https://disabilityin.org)** | **[Research and Policy Intern](https://jobright.ai/jobs/info/6969cbd71703f05405abd55a?utm_campaign=1056&utm_source=git)** | US | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
