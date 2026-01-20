@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Jan 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696f0edd0f4e0f657ea38068?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 19 |
 | **[Council for Quality Growth](http://www.councilforqualitygrowth.org)** | **[Policy Intern](https://jobright.ai/jobs/info/696f04a382817106e97623f1?utm_campaign=1056&utm_source=git)** | Sandy Springs, GA | On Site | Jan 19 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Public Affairs & Communications (Summer 2026)](https://jobright.ai/jobs/info/696efdf59c3c52633455b114?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Environmental/Sustainability](https://jobright.ai/jobs/info/6969ecae1703f05405abf535?utm_campaign=1056&utm_source=git)** | Florham Park, NJ | On Site | Jan 15 |
 | **[National Urban League](https://nul.org/)** | **[UPS - National Urban League - Business Executive Exchange Program (BEEP) 2026 Summer Internship Program](https://jobright.ai/jobs/info/6969f08e639b452fb57fe9a0?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Philanthropy - Summer 2026](https://jobright.ai/jobs/info/696094b6a112b402660f425d?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
