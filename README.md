@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Environmental Justice & Toxics Use Reduction Intern](https://jobright.ai/jobs/info/696fbe9b0f4e0f657ea40fa0?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Jan 20 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Environmental Justice & Toxics Use Reduction Intern](https://jobright.ai/jobs/info/696fb8933ed06875134aabcc?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Jan 20 |
+| **[Stantec](http://www.stantec.com)** | **[Public Policy and Engagement Intern - Water (Summer 2026)](https://jobright.ai/jobs/info/696fb2d50f4e0f657ea3fc8d?utm_campaign=1056&utm_source=git)** | 3301 C Street Suite 1900, Sacramento, CA, 95816, US | On Site | Jan 20 |
+| **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/696fabfd0f4e0f657ea3f509?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
+| **[MassHousing](https://www.masshousing.com)** | **[Summer Intern: Strategic Community Investments](https://jobright.ai/jobs/info/696fa5f582817106e976ab06?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
+| **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/696fbda13ed06875134ab10b?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Jan 20 |
 | **[MassHousing](https://www.masshousing.com)** | **[Summer Intern: Community Climate Bank](https://jobright.ai/jobs/info/696fa14b3ed06875134a8aa4?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Medicaid Policy Internship (Summer 2026)](https://jobright.ai/jobs/info/69682508639b452fb57db361?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
@@ -69,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, Public Affairs & Communications (Summer 2026)](https://jobright.ai/jobs/info/696efdf59c3c52633455b114?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Public Policy Internship - Summer 2026](https://jobright.ai/jobs/info/696ecf68db26b6189511e5f5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/696ebf23db26b6189511d317?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 19 |
-| **[Odfjell Terminals US](https://www.odfjell.com/terminals)** | **[Intern OUSA](https://jobright.ai/jobs/info/696eb321350cf43803158b77?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 19 |
 | **[TMX Group](http://www.tmx.com)** | **[Vote Processing, Student Intern (Summer 2026)](https://jobright.ai/jobs/info/696e94685fc86241853d4e74?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning](https://jobright.ai/jobs/info/696e8db9350cf438031543fd?utm_campaign=1056&utm_source=git)** | San Antonio, TX 78216, USA | On Site | Jan 19 |
 | ↳ | **[Intern, Planning](https://jobright.ai/jobs/info/696e89c35fc86241853d4219?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jan 19 |
@@ -89,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Environmental Policy/Public Policy](https://jobright.ai/jobs/info/693430a3f131d96e48469ea0?utm_campaign=1056&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec71f846f0b04af67ce42?utm_campaign=1056&utm_source=git)** | Berkeley, CA | On Site | Jan 18 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Emergency Management)](https://jobright.ai/jobs/info/690ccccf221b890c278001ef?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 18 |
-| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c50619c96a22563ece60f7?utm_campaign=1056&utm_source=git)** | Jackson, MS | On Site | Jan 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6933e013764507023d1ba666?utm_campaign=1056&utm_source=git)** | Burlington, VT | Hybrid | Jan 17 |
 | ↳ | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/6933d8c2764507023d1ba0d4?utm_campaign=1056&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research US Government Intern](https://jobright.ai/jobs/info/694cd274f5bef51c96ea9efc?utm_campaign=1056&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 17 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Intern, Genitourinary & Gynecological Oncology](https://jobright.ai/jobs/info/696aacbedb26b618950ddad1?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 16 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, U. S. Politics, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a8f8fdb26b618950db793?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | ↳ | **[Undergraduate Intern, Social & Demographic Trends, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a8e6f5fc86241853986cc?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Atlanta Regional Commission](https://atlantaregional.org)** | **[INTERN - Community Engagement Program Assistant](https://jobright.ai/jobs/info/696aa9225fc862418539a0cb?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Public Policy Intern- Summer 2026](https://jobright.ai/jobs/info/696a7dcfdb26b618950dabc8?utm_campaign=1056&utm_source=git)** | Troy, Michigan, US | Hybrid | Jan 16 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7d8edb26b618950dab89?utm_campaign=1056&utm_source=git)** | Picabo, Idaho | On Site | Jan 16 |
 | ↳ | **[Silver Creek Preserve Intern](https://jobright.ai/jobs/info/696a7ac5350cf43803116f98?utm_campaign=1056&utm_source=git)** | Hailey, Idaho | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Security Intelligence Service (CSIS) | Service canadien du renseignement de sécurité (SCRS)](https://www.canada.ca/csisjobs)** | **[Co-op: Communications](https://jobright.ai/jobs/info/696a62b05fc8624185395427?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 16 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Solid Tumors](https://jobright.ai/jobs/info/69323669948dde73ff9068f5?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 16 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Americas Program (Spring 2026)](https://jobright.ai/jobs/info/696a47c6350cf43803113990?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 16 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[2026 - Field Representative Intern - Manito, IL](https://jobright.ai/jobs/info/696a10c55fc8624185391964?utm_campaign=1056&utm_source=git)** | Manito, IL | On Site | Jan 15 |
-| ↳ | **[2026 Field Representative Intern - Cumberland, WI](https://jobright.ai/jobs/info/696a144d5fc8624185391ab2?utm_campaign=1056&utm_source=git)** | Cumberland, WI | On Site | Jan 15 |
-| ↳ | **[2026 - Field Representative Intern - Hancock, WI](https://jobright.ai/jobs/info/696a150e5fc8624185391b12?utm_campaign=1056&utm_source=git)** | Hancock, WI | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
