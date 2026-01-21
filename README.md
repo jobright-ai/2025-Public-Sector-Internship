@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Economic Development](https://jobright.ai/jobs/info/6970eed9333b6343a14d60c4?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | Hybrid | Jan 21 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/6970b91151f726477182f584?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/6970b75f51f726477182f559?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 21 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/6970b5e6333b6343a14d2f82?utm_campaign=1056&utm_source=git)** | Virginia, United States | Remote | Jan 21 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Policy Analyst-OSP](https://jobright.ai/jobs/info/696febc50f4e0f657ea4339e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Summer 2026 - Health Services Administration/Public Health (Hybrid - Detroit, MI) - Mosaic CIN](https://jobright.ai/jobs/info/696fe6003ed06875134acfae?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Jan 20 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/697001323ed06875134b016d?utm_campaign=1056&utm_source=git)** | Roanoke, VA | Remote | Jan 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Residential and Consumer Lending](https://jobright.ai/jobs/info/696fc9db3ed06875134ab782?utm_campaign=1056&utm_source=git)** | CT Southington | On Site | Jan 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c3463f1f8465b79f23f11?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696fd6f00f4e0f657ea41c78?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
