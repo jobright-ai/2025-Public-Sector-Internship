@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/6970831451f726477182cafe?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/697088d451f726477182cf53?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Jan 21 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/697085f8333b6343a14d07a1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| ↳ | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/6970831451f726477182cafe?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/69708144587dfa0bb55e1c67?utm_campaign=1056&utm_source=git)** | Hollabaugh Recreation Center | On Site | Jan 20 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/69707edc587dfa0bb55e1adc?utm_campaign=1056&utm_source=git)** | USA - Remote, VA | Remote | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/69706fd6333b6343a14cfcd3?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Jan 20 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026, Research Internship, China Center, Foreign Policy (Job ID: 2026-3790)](https://jobright.ai/jobs/info/69706a17333b6343a14cfa34?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
 | ↳ | **[Summer 2026, Research Internship, Center on Economic Security and Opportunity, Economic Studies (Job ID 2025-3769)](https://jobright.ai/jobs/info/697069a051f726477182c09a?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Opening Doors](https://jobright.ai/jobs/info/697082bd587dfa0bb55e1d76?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
+| ↳ | **[Summer 2026 - Intern, Vera Action](https://jobright.ai/jobs/info/69708d0751f726477182d07e?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69707b0a51f726477182c69b?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, Advocacy & Partnerships](https://jobright.ai/jobs/info/6970765e333b6343a14cfe6e?utm_campaign=1056&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efb65ce13cd10565742ad?utm_campaign=1056&utm_source=git)** | New Orleans, LA | Hybrid | Jan 20 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Lone Mountain Strategies](lonemountainstrategies.com)** | **[Political Outreach Intern (Commission-Based) — Conservative / GOP-Aligned](https://jobright.ai/jobs/info/697022243ed06875134b2091?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - CRA / FRB](https://jobright.ai/jobs/info/69701b110f4e0f657ea4745c?utm_campaign=1056&utm_source=git)** | NY WP Hamilton | Hybrid | Jan 20 |
 | **[City of Wauwatosa](https://www.wauwatosa.net)** | **[Health Department Intern](https://jobright.ai/jobs/info/6970391751f72647718269c6?utm_campaign=1056&utm_source=git)** | Wauwatosa, WI | On Site | Jan 20 |
-| **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[SBA Political Internship](https://jobright.ai/jobs/info/697016ad82817106e977316e?utm_campaign=1056&utm_source=git)** | Arlington, VA | On Site | Jan 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6970150f82817106e977304f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Hillsborough County](https://hcfl.gov)** | **[CTRS Internship- Recreation Leader](https://jobright.ai/jobs/info/69700c1a3ed06875134b0a18?utm_campaign=1056&utm_source=git)** | 6105 E Sligh Ave, Tampa, FL, 33617, US | On Site | Jan 20 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69700bac82817106e97727e6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Congress Planning and Execution Intern](https://jobright.ai/jobs/info/69338488f131d96e4846400c?utm_campaign=1056&utm_source=git)** | Princeton, NJ | Hybrid | Jan 17 |
 | **[York Region (The Regional Municipality of York)](https://www.york.ca/)** | **[Planning/Economic Assistant - Employment Survey/Field Collection - Summer Student/Co-op](https://jobright.ai/jobs/info/696b7c31db26b618950efe8e?utm_campaign=1056&utm_source=git)** | Newmarket, Ontario, Canada | Hybrid | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 17 |
-| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 17 |
-| ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
