@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Office of the Secretary](https://jobright.ai/jobs/info/69711e02333b6343a14d92a3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jan 21 |
+| **[Ferrovial](http://www.ferrovial.com/en)** | **[Energy Internship Program](https://jobright.ai/jobs/info/69711300587dfa0bb55ea514?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697107b5587dfa0bb55e9591?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (907-00001)111 E 17th Street | Hybrid | Jan 21 |
 | ↳ | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697105f2333b6343a14d8455?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 21 |
 | **[Penn State University](http://psu.edu)** | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69710200587dfa0bb55e8208?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Jan 21 |
+| ↳ | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69711a2751f72647718353e3?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Jan 21 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Sustainability Reporting](https://jobright.ai/jobs/info/69710fc3587dfa0bb55ea297?utm_campaign=1056&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 21 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6970f36551f7264771832775?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f33?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jan 21 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/697043c9587dfa0bb55dc4d8?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Jan 20 |
 | **[Town of Barnstable](http://www.townofbarnstable.us)** | **[SEAS Communications Intern, DPW Administration](https://jobright.ai/jobs/info/6970140c3ed06875134b12d4?utm_campaign=1056&utm_source=git)** | Hyannis, MA | On Site | Jan 20 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Policy Analyst-OSP](https://jobright.ai/jobs/info/696febc50f4e0f657ea4339e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/69710629333b6343a14d8491?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Jan 20 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Summer 2026 - Health Services Administration/Public Health (Hybrid - Detroit, MI) - Mosaic CIN](https://jobright.ai/jobs/info/696fe6003ed06875134acfae?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Jan 20 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Residential and Consumer Lending](https://jobright.ai/jobs/info/696fc9db3ed06875134ab782?utm_campaign=1056&utm_source=git)** | CT Southington | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sauk County](https://www.co.sauk.wi.us/)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/696e66c9350cf43803152ef3?utm_campaign=1056&utm_source=git)** | Baraboo, WI | On Site | Jan 19 |
 | **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 19 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - State Government Affairs](https://jobright.ai/jobs/info/696e1ad5db26b618951103f6?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jan 19 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Project on Prosperity and Development and the Sustainable Development and Resilience Initiative (Spring 2026)](https://jobright.ai/jobs/info/696e106d5fc86241853cd909?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 19 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - State Government Affairs](https://jobright.ai/jobs/info/696e00c1350cf4380314d38e?utm_campaign=1056&utm_source=git)** | Tempe, AZ, US | Hybrid | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
