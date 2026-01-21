@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn State University](http://psu.edu)** | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69710200587dfa0bb55e8208?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Jan 21 |
+| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6970f36551f7264771832775?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 21 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/681a1ec6c31ca09040d98f33?utm_campaign=1056&utm_source=git)** | Princeton, NJ | On Site | Jan 21 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Economic Development](https://jobright.ai/jobs/info/6970eed9333b6343a14d60c4?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | Hybrid | Jan 21 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/6970b91151f726477182f584?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/6970b75f51f726477182f559?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 21 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[City of Wauwatosa](https://www.wauwatosa.net)** | **[Health Department Intern](https://jobright.ai/jobs/info/6970391751f72647718269c6?utm_campaign=1056&utm_source=git)** | Wauwatosa, WI | On Site | Jan 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6970150f82817106e977304f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Hillsborough County](https://hillsborougharts.org/)** | **[CTRS Internship- Recreation Leader](https://jobright.ai/jobs/info/69700c1a3ed06875134b0a18?utm_campaign=1056&utm_source=git)** | 6105 E Sligh Ave, Tampa, FL, 33617, US | On Site | Jan 20 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69700bac82817106e97727e6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/697002863ed06875134b02cc?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jan 20 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Emergency Management Summer Intern](https://jobright.ai/jobs/info/692f4db14c474121999dd9cb?utm_campaign=1056&utm_source=git)** | Aiken, SC | On Site | Jan 20 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Social, Cultural, and Constitutional Studies (Law, Politics, and Elections)](https://jobright.ai/jobs/info/69700f980f4e0f657ea46b6e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Subcontracts Intern](https://jobright.ai/jobs/info/696ae7f8350cf438031217cb?utm_campaign=1056&utm_source=git)** | Chantilly, VA | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[State Policy Intern](https://jobright.ai/jobs/info/696dc52b350cf43803149acd?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia | On Site | Jan 18 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Procurement](https://jobright.ai/jobs/info/696e9f76db26b61895118a83?utm_campaign=1056&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
-| **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I - Risk , Safety, and Health](https://jobright.ai/jobs/info/696d3b6cdb26b61895104fa7?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/6961c511e7ed9a5731ba977f?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
