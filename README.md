@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provincial Health Services Authority](http://www.phsa.ca)** | **[Research Intern, Clinical Trials & Research - BC Cancer - Prince George](https://jobright.ai/jobs/info/69712da1587dfa0bb55eb5e4?utm_campaign=1056&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Jan 21 |
+| **[Start Early](https://www.startearly.org/)** | **[Illinois Policy Intern](https://jobright.ai/jobs/info/69711fe7587dfa0bb55eab5d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Office of the Secretary](https://jobright.ai/jobs/info/69711e02333b6343a14d92a3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jan 21 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Energy Internship Program](https://jobright.ai/jobs/info/69711300587dfa0bb55ea514?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697107b5587dfa0bb55e9591?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (907-00001)111 E 17th Street | Hybrid | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Planning](https://jobright.ai/jobs/info/696e89c35fc86241853d4219?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Jan 19 |
 | **[State Bar of California](http://calbar.ca.gov)** | **[Summer Internship with the Office of Research & Statistics](https://jobright.ai/jobs/info/696e84df5fc86241853d3d0f?utm_campaign=1056&utm_source=git)** | 180 Howard Street, San Francisco, CA, 94105, US | Hybrid | Jan 19 |
 | **[Sauk County](https://www.co.sauk.wi.us/)** | **[Planning & Zoning Intern](https://jobright.ai/jobs/info/696e66c9350cf43803152ef3?utm_campaign=1056&utm_source=git)** | Baraboo, WI | On Site | Jan 19 |
-| **[AARP](http://www.aarp.org)** | **[Legislative Intern (Graduate Student)](https://jobright.ai/jobs/info/6917ca71bcdbf3560c9cb6ce?utm_campaign=1056&utm_source=git)** | Albany, NY | Hybrid | Jan 19 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - State Government Affairs](https://jobright.ai/jobs/info/696e1ad5db26b618951103f6?utm_campaign=1056&utm_source=git)** | Tempe, AZ | Hybrid | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
