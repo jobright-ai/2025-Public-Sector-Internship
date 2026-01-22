@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/69719b3c333b6343a14e34ad?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6971880751f726477183e394?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Jan 21 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Jan 21 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/69718662587dfa0bb55f3863?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 21 |
@@ -65,7 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2026 Intern, U.S. Public Affairs Intern](https://jobright.ai/jobs/info/697179a251f726477183d56b?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6971796d587dfa0bb55f2b29?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[Optum](https://www.optum.com/)** | **[MPP Internship - Boulder, CO](https://jobright.ai/jobs/info/6971769451f726477183d32f?utm_campaign=1056&utm_source=git)** | Boulder, CO | Hybrid | Jan 21 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern- EN](https://jobright.ai/jobs/info/69719574333b6343a14e2fd7?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Digital Health Literacy & Policy Hub](https://digitalhealth-hub.com/)** | **[Intern](https://jobright.ai/jobs/info/69716f27587dfa0bb55f0da4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Landslide Political](http://www.landslidepolitical.com)** | **[Research Intern](https://jobright.ai/jobs/info/6971913f587dfa0bb55f41ca?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, Utah, United States | Hybrid | Jan 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69716985587dfa0bb55f09dc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Jan 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69718c8951f726477183e805?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69718aee51f726477183e64e?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Residential and Consumer Lending](https://jobright.ai/jobs/info/696fc9db3ed06875134ab782?utm_campaign=1056&utm_source=git)** | CT Southington | On Site | Jan 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c3463f1f8465b79f23f11?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696fd6f00f4e0f657ea41c78?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
-| **[Town of Barnstable](http://www.townofbarnstable.us)** | **[SEAS Communications Intern, DPW Administration](https://jobright.ai/jobs/info/696fd6880f4e0f657ea41bf5?utm_campaign=1056&utm_source=git)** | Hyannis, MA | On Site | Jan 20 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - IDEM - State Cleanup Program Learning and Development](https://jobright.ai/jobs/info/696fd62f82817106e976da3c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
-| **[Electrify America](https://www.electrifyamerica.com)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/696fcdea3ed06875134aba1e?utm_campaign=1056&utm_source=git)** | Reston, VA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
