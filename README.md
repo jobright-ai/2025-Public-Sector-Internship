@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Central Florida](https://www.ucf.edu)** | **[International Travel Safety Coordinator](https://jobright.ai/jobs/info/6971ab99333b6343a14e4bbe?utm_campaign=1056&utm_source=git)** | Greater Orlando | On Site | Jan 21 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jan 21 |
 | **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/69719b3c333b6343a14e34ad?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6971880751f726477183e394?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Jan 21 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Jan 21 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Resource Partnerships and Grants Intern](https://jobright.ai/jobs/info/69703dc351f7264771826eca?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | ↳ | **[Energy Bill Assistance Business Process Improvement Graduate Intern](https://jobright.ai/jobs/info/69703d6c587dfa0bb55dc069?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | ↳ | **[Utility Urban & Community Forestry Policy & Program Management Graduate Intern](https://jobright.ai/jobs/info/69703d43587dfa0bb55dc03a?utm_campaign=1056&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern- Health Analytics Data Governance](https://jobright.ai/jobs/info/6971a3cd333b6343a14e3d91?utm_campaign=1056&utm_source=git)** | Roanoke, VA | On Site | Jan 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Intern - Residential and Consumer Lending](https://jobright.ai/jobs/info/697032f5587dfa0bb55db604?utm_campaign=1056&utm_source=git)** | Southington, CT | On Site | Jan 20 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Licensed Clinical Social Worker (LCSW) OR LSW Clinical Intern](https://jobright.ai/jobs/info/6970597a333b6343a14cd18c?utm_campaign=1056&utm_source=git)** | Reno, NV | On Site | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Strategy](https://jobright.ai/jobs/info/69704b8b51f7264771828272?utm_campaign=1056&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Policy Analyst-OSP](https://jobright.ai/jobs/info/696febc50f4e0f657ea4339e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Summer 2026 - Health Services Administration/Public Health (Hybrid - Detroit, MI) - Mosaic CIN](https://jobright.ai/jobs/info/696fe6003ed06875134acfae?utm_campaign=1056&utm_source=git)** | Detroit, MI | Hybrid | Jan 20 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Intern - Residential and Consumer Lending](https://jobright.ai/jobs/info/696fc9db3ed06875134ab782?utm_campaign=1056&utm_source=git)** | CT Southington | On Site | Jan 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c3463f1f8465b79f23f11?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 20 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Religion, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696fd6f00f4e0f657ea41c78?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
