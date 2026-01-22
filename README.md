@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/695a10a0f1f8465b79f06524?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Jan 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jan 22 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69720e82cda45e695358403d?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 22 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 22 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern - Systems & Capital Planning](https://jobright.ai/jobs/info/69704b6451f726477182824c?utm_campaign=1056&utm_source=git)** | Houston, TX, US | On Site | Jan 20 |
 | **[Lone Mountain Strategies](lonemountainstrategies.com)** | **[Political Outreach Intern (Commission-Based) — Conservative / GOP-Aligned](https://jobright.ai/jobs/info/697022243ed06875134b2091?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - CRA / FRB](https://jobright.ai/jobs/info/69701b110f4e0f657ea4745c?utm_campaign=1056&utm_source=git)** | NY WP Hamilton | Hybrid | Jan 20 |
-| **[City of Wauwatosa](https://www.wauwatosa.net)** | **[Health Department Intern](https://jobright.ai/jobs/info/6970391751f72647718269c6?utm_campaign=1056&utm_source=git)** | Wauwatosa, WI | On Site | Jan 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6970150f82817106e977304f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Hillsborough County](https://hillsborougharts.org/)** | **[CTRS Internship- Recreation Leader](https://jobright.ai/jobs/info/69700c1a3ed06875134b0a18?utm_campaign=1056&utm_source=git)** | 6105 E Sligh Ave, Tampa, FL, 33617, US | On Site | Jan 20 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/697002863ed06875134b02cc?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jan 20 |
