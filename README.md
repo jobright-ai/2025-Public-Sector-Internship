@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Philanthropy Intern](https://jobright.ai/jobs/info/697279dc584a1c1ef6fd744c?utm_campaign=1056&utm_source=git)** | Boothbay,ME,US | On Site | Jan 22 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697268c29b83b424830e5e1a?utm_campaign=1056&utm_source=git)** | Anaheim Hills, California | Hybrid | Jan 22 |
 | ↳ | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972680c9b83b424830e5d95?utm_campaign=1056&utm_source=git)** | Irvine, California | Hybrid | Jan 22 |
 | **[Town of Mount Pleasant](https://www.tompsc.com)** | **[Intern - General Government](https://jobright.ai/jobs/info/69723ad94ccbf64f8df22d1c?utm_campaign=1056&utm_source=git)** | Mt Pleasant, SC, USA | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6970150f82817106e977304f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Hillsborough County](https://hillsborougharts.org/)** | **[CTRS Internship- Recreation Leader](https://jobright.ai/jobs/info/69700c1a3ed06875134b0a18?utm_campaign=1056&utm_source=git)** | 6105 E Sligh Ave, Tampa, FL, 33617, US | On Site | Jan 20 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/697002863ed06875134b02cc?utm_campaign=1056&utm_source=git)** | Miami, FL | On Site | Jan 20 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Emergency Management Summer Intern](https://jobright.ai/jobs/info/692f4db14c474121999dd9cb?utm_campaign=1056&utm_source=git)** | Aiken, SC | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
