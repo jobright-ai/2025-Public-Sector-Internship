@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jan 22 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69720e82cda45e695358403d?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 22 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Medical Affairs Strategy](https://jobright.ai/jobs/info/691ccd0cbcdbf3560c9e9e1c?utm_campaign=1056&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 22 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971672e333b6343a14deff4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/6971665b333b6343a14def3c?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 21 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Downtown Resource Center Intern](https://jobright.ai/jobs/info/6971775e333b6343a14e12a0?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Downtown Resource Center Intern](https://jobright.ai/jobs/info/6971775e333b6343a14e12a0?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | ↳ | **[Environmental Policy & Planning Intern](https://jobright.ai/jobs/info/69717789333b6343a14e12b6?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy) Technical Institute](https://jobright.ai/jobs/info/69714a4451f7264771838e29?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Jan 21 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Social, Cultural, and Constitutional Studies (Law, Politics, and Elections)](https://jobright.ai/jobs/info/69700f980f4e0f657ea46b6e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[Brentwood Water & Wastewater](http://www.brentwoodindustries.com)** | **[Internship – Community Impact Intern](https://jobright.ai/jobs/info/696ff2dd82817106e976fdb3?utm_campaign=1056&utm_source=git)** | Reading, PA, US | On Site | Jan 20 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[OB Focused Licensed Clinical Social Worker/Registered Clinical Social Worker Intern](https://jobright.ai/jobs/info/697043c9587dfa0bb55dc4d8?utm_campaign=1056&utm_source=git)** | Melbourne, FL | On Site | Jan 20 |
-| **[Town of Barnstable](http://www.townofbarnstable.us)** | **[SEAS Communications Intern, DPW Administration](https://jobright.ai/jobs/info/6970140c3ed06875134b12d4?utm_campaign=1056&utm_source=git)** | Hyannis, MA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
