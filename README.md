@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy) Technical Institute](https://jobright.ai/jobs/info/69714a4451f7264771838e29?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Jan 21 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 21 |
 | **[Community Partners of South Florida](https://www.cp-cto.org/)** | **[Housing Services Intern (Unpaid)](https://jobright.ai/jobs/info/69714779333b6343a14dc47a?utm_campaign=1056&utm_source=git)** | Riviera Beach, FL, US | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/69714095587dfa0bb55ecc02?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 21 |
+| **[Dallas College](https://www.dcccd.edu)** | **[Community Service FWS Intern](https://jobright.ai/jobs/info/69715f2651f726477183ac7d?utm_campaign=1056&utm_source=git)** | Cedar Valley Campus | On Site | Jan 21 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy) Technical Institute](https://jobright.ai/jobs/info/69715c71333b6343a14de745?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Freshwater Ecosystems Policy Intern](https://jobright.ai/jobs/info/6960e501a112b402660f7dce?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Summer 2026)](https://jobright.ai/jobs/info/69714f16587dfa0bb55eedf9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - CRA / FRB](https://jobright.ai/jobs/info/69713018587dfa0bb55eb8bf?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jan 20 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/696f75630f4e0f657ea3b949?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[HIAS](http://hias.org/)** | **[Asylee Outreach Project Intern](https://jobright.ai/jobs/info/69332addf131d96e484604e6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | Hybrid | Jan 20 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/696f0edd0f4e0f657ea38068?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 19 |
-| **[Council for Quality Growth](http://www.councilforqualitygrowth.org)** | **[Policy Intern](https://jobright.ai/jobs/info/696f04a382817106e97623f1?utm_campaign=1056&utm_source=git)** | Sandy Springs, GA | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
