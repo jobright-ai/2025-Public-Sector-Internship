@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Digital Health Literacy & Policy Hub](https://digitalhealth-hub.com/)** | **[Intern](https://jobright.ai/jobs/info/69716f27587dfa0bb55f0da4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 21 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69716985587dfa0bb55f09dc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Jan 21 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/697167b251f726477183b296?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 21 |
+| **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971672e333b6343a14deff4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
+| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/6971665b333b6343a14def3c?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 21 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy) Technical Institute](https://jobright.ai/jobs/info/69714a4451f7264771838e29?utm_campaign=1056&utm_source=git)** | South San Francisco | On Site | Jan 21 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 21 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Summer 2026)](https://jobright.ai/jobs/info/69714f16587dfa0bb55eedf9?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - CRA / FRB](https://jobright.ai/jobs/info/69713018587dfa0bb55eb8bf?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Jan 21 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Energy Internship Program](https://jobright.ai/jobs/info/69712e4e333b6343a14d9f5a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 21 |
-| **[Provincial Health Services Authority](http://www.phsa.ca)** | **[Research Intern, Clinical Trials & Research - BC Cancer - Prince George](https://jobright.ai/jobs/info/69712da1587dfa0bb55eb5e4?utm_campaign=1056&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Jan 21 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, U.S. Public Affairs Intern](https://jobright.ai/jobs/info/69714d9d333b6343a14dd238?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 21 |
 | **[Start Early](https://www.startearly.org/)** | **[Illinois Policy Intern](https://jobright.ai/jobs/info/69711fe7587dfa0bb55eab5d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Office of the Secretary](https://jobright.ai/jobs/info/69711e02333b6343a14d92a3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Government Affairs](https://jobright.ai/jobs/info/696fbda13ed06875134ab10b?utm_campaign=1056&utm_source=git)** | Silver Spring, MD | On Site | Jan 20 |
 | **[MassHousing](https://www.masshousing.com)** | **[Summer Intern: Community Climate Bank](https://jobright.ai/jobs/info/696fa14b3ed06875134a8aa4?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Medicaid Policy Internship (Summer 2026)](https://jobright.ai/jobs/info/69682508639b452fb57db361?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
-| **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6937d21eaabec14a727cd64a?utm_campaign=1056&utm_source=git)** | Pasadena, CA | Hybrid | Jan 20 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Japan Chair (Spring 2026)](https://jobright.ai/jobs/info/696f75630f4e0f657ea3b949?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
-| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6937ddcfa0dde7020e3086bd?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
