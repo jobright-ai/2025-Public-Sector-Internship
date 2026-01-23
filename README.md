@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694efa2dce13cd105657424c?utm_campaign=1056&utm_source=git)** | Miami, FL | Hybrid | Jan 21 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 21 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 21 |
+| **[Okta for Developers](https://developer.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69733a04bc8e722e7b180f89?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/697088d451f726477182cf53?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Jan 21 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/697085f8333b6343a14d07a1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
-| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/69708144587dfa0bb55e1c67?utm_campaign=1056&utm_source=git)** | Hollabaugh Recreation Center | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
