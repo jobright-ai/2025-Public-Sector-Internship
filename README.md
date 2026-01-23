@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[PhD Internship](https://jobright.ai/jobs/info/6973dd5237785856350dae68?utm_campaign=1056&utm_source=git)** | Ottawa (Downtown), ON, CA | Hybrid | Jan 23 |
+| **[Michigan Moves Coalition](https://www.mimovesmonth.com/)** | **[Resource Development & Evaluation Intern](https://jobright.ai/jobs/info/6973e0a6206da320f49dd966?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 23 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern (Bronx and Queens locations)](https://jobright.ai/jobs/info/6973ab91bc8e722e7b187864?utm_campaign=1056&utm_source=git)** | Bronx - 384 E 149th Street, Bronx, NY 10455, Bronx, NY, US | On Site | Jan 23 |
 | **[Lake George Land Conservancy](https://www.lglc.org/)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6973a673206da320f49daba5?utm_campaign=1056&utm_source=git)** | Lake George, NY | On Site | Jan 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6973ae3537785856350d8942?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jan 23 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972d19a0488fd59f7d5c932?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/697384da37785856350d5b9e?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[UNDP](http://www.undp.org)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972c2054ccbf64f8df2cd57?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef8d829655e4dd65890f5?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Omaha - Regional Affairs Intern](https://jobright.ai/jobs/info/691bd4bd15b41563671933ba?utm_campaign=1056&utm_source=git)** | Omaha, NE | On Site | Jan 21 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574408?utm_campaign=1056&utm_source=git)** | Atlanta, GA | Hybrid | Jan 21 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Oklahoma City - Regional Affairs Intern](https://jobright.ai/jobs/info/691bca17bcdbf3560c9e29cc?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
