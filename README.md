@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Health Promotion Intern](https://jobright.ai/jobs/info/6972f76f1790715e866be5d9?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
+| ↳ | **[Health Analytics & Policy Intern](https://jobright.ai/jobs/info/69730ca31790715e866c0bfd?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
+| **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach (Rogers Park)](https://jobright.ai/jobs/info/69730d10694e99351d146309?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Grant Administration Intern- Summer 2026](https://jobright.ai/jobs/info/6972e4140488fd59f7d5e156?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Forestry Assistant](https://jobright.ai/jobs/info/6972e3ee0488fd59f7d5e122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern  - Global Trade Analytics Intern -Hybrid - MA/VA](https://jobright.ai/jobs/info/6972e29798522904c697b641?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 22 |
@@ -65,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972d19a0488fd59f7d5c932?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[UNDP](http://www.undp.org)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972c2054ccbf64f8df2cd57?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/6972e81d98522904c697ba81?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Summer 2026)](https://jobright.ai/jobs/info/6971fecb47b64f4e963e3cb6?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971e400b707bf728a4b80a6?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/6973109e1790715e866c1494?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Travel Safety Coordinator](https://jobright.ai/jobs/info/6971ab99333b6343a14e4bbe?utm_campaign=1056&utm_source=git)** | Greater Orlando | On Site | Jan 21 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/6972f3e1206da320f49ce97a?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef719a2668b7f54524759?utm_campaign=1056&utm_source=git)** | Jackson, MS | Hybrid | Jan 21 |
 | ↳ | **[Intern, Political Campaigns (Summer 2026)](https://jobright.ai/jobs/info/694ef91629655e4dd6589105?utm_campaign=1056&utm_source=git)** | Montgomery, AL | Hybrid | Jan 21 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/697088d451f726477182cf53?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Jan 21 |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/697085f8333b6343a14d07a1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
-| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/69708144587dfa0bb55e1c67?utm_campaign=1056&utm_source=git)** | Hollabaugh Recreation Center | On Site | Jan 20 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/69707edc587dfa0bb55e1adc?utm_campaign=1056&utm_source=git)** | USA - Remote, VA | Remote | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
