@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship](https://jobright.ai/jobs/info/6972b1004ccbf64f8df2bc85?utm_campaign=1056&utm_source=git)** | West Fargo - ND - 3220 4th St E Ste 201 | On Site | Jan 22 |
 | **[Ohio Attorney General's Office](https://www.ohioattorneygeneral.gov)** | **[College Intern](https://jobright.ai/jobs/info/69729eba9b83b424830ea111?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/69729576584a1c1ef6fd9611?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
 | **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69728fb39b83b424830e80ea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 22 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69727fc34ccbf64f8df2727a?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jan 22 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Spring 2026 DNC Civic Engagement & Voter Protection Internship](https://jobright.ai/jobs/info/6972a0669b83b424830ea4d5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 22 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Philanthropy Intern](https://jobright.ai/jobs/info/697279dc584a1c1ef6fd744c?utm_campaign=1056&utm_source=git)** | Boothbay,ME,US | On Site | Jan 22 |
+| **[Middle East Institute](http://www.mei.edu)** | **[Intern: Policy Center (Summer 2026)](https://jobright.ai/jobs/info/6972ae6f584a1c1ef6fdc104?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 22 |
 | **[Indivisible Project](https://indivisible.org/)** | **[Funding Programs Senior Associate](https://jobright.ai/jobs/info/69729cbf9b83b424830e9cc9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697268c29b83b424830e5e1a?utm_campaign=1056&utm_source=git)** | Anaheim Hills, California | Hybrid | Jan 22 |
 | **[Henry County Government](https://www.henrycountyga.gov/)** | **[TRANSPORTATION PLANNING INTERN](https://jobright.ai/jobs/info/697286d54ccbf64f8df27976?utm_campaign=1056&utm_source=git)** | McDonough, GA | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Federal Policy (Summer 2026)](https://jobright.ai/jobs/info/69704c12333b6343a14cbb54?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | ↳ | **[Intern, Federal Policy (Summer 2026)](https://jobright.ai/jobs/info/697048db333b6343a14cb89a?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 20 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Strategy](https://jobright.ai/jobs/info/69706376587dfa0bb55e077d?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| ↳ | **[College Intern - Systems & Capital Planning](https://jobright.ai/jobs/info/6970638f333b6343a14ceeae?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Energy Markets and Carbon Policy Graduate Intern](https://jobright.ai/jobs/info/69703df351f7264771826ef3?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
