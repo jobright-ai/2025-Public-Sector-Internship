@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Grant Administration Intern- Summer 2026](https://jobright.ai/jobs/info/6972e4140488fd59f7d5e156?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
+| **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Forestry Assistant](https://jobright.ai/jobs/info/6972e3ee0488fd59f7d5e122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern  - Global Trade Analytics Intern -Hybrid - MA/VA](https://jobright.ai/jobs/info/6972e29798522904c697b641?utm_campaign=1056&utm_source=git)** | Arlington, VA | Hybrid | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972d19a0488fd59f7d5c932?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
+| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[UNDP](http://www.undp.org)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972c2054ccbf64f8df2cd57?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 22 |
+| **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/6972e81d98522904c697ba81?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/6972dd0d1d55d64a20533eec?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Jan 22 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Intern - Human Services (Winter/Summer 2026)](https://jobright.ai/jobs/info/6972e00298522904c697b390?utm_campaign=1056&utm_source=git)** | Redford, MI | On Site | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Law and Policy Intern, Vera Louisiana](https://jobright.ai/jobs/info/69706fd6333b6343a14cfcd3?utm_campaign=1056&utm_source=git)** | New Orleans, LA | On Site | Jan 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, American Congress & Government Internship, Governance Studies (Job ID 2026-3786)](https://jobright.ai/jobs/info/69706f6a333b6343a14cfca0?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | ↳ | **[Summer 2026, Research Internship, The Hamilton Project, Economic Studies (Job ID 2025-3768)](https://jobright.ai/jobs/info/69706d9d51f726477182c237?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
-| ↳ | **[Summer 2026, Communications Internship, Governance Studies (Job ID 2026-3788)](https://jobright.ai/jobs/info/69706d58587dfa0bb55e145d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
-| ↳ | **[Summer 2026, Research Internship, Center on Health Policy, Economic Studies (Job ID 2026-3777)](https://jobright.ai/jobs/info/69706cbb333b6343a14cfb20?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
-| ↳ | **[Summer 2026, Center for Technology Innovation Internship, Governance Studies (Job ID 2026-3793)](https://jobright.ai/jobs/info/69706c72587dfa0bb55e13d7?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
-| ↳ | **[Summer 2026, Talbott Center Research and Events Internship, Foreign Policy (Job ID 2026-3789)](https://jobright.ai/jobs/info/69706bb9587dfa0bb55e1390?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 20 |
-| ↳ | **[Summer 2026, Center for Effective Public Management Internship, Governance Studies (Job ID 2026-3787)](https://jobright.ai/jobs/info/69706b7e587dfa0bb55e137a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
