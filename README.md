@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/695b723eaa05c26e7ab4c655?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
 | **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Health Promotion Intern](https://jobright.ai/jobs/info/6972f76f1790715e866be5d9?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
 | ↳ | **[Health Analytics & Policy Intern](https://jobright.ai/jobs/info/69730ca31790715e866c0bfd?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/6972c44a9b83b424830ecbb1?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 22 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972c21f9b83b424830ec971?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 22 |
 | **[Ohio Attorney General's Office](https://www.ohioattorneygeneral.gov)** | **[College Intern](https://jobright.ai/jobs/info/69729eba9b83b424830ea111?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/69729576584a1c1ef6fd9611?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/69729576584a1c1ef6fd9611?utm_campaign=1056&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 22 |
 | **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/69728fb39b83b424830e80ea?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 22 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Public Affairs & Access: Evidence for Access (Policy, Evidence & Access Strategy) Technical Institute](https://jobright.ai/jobs/info/697288a2584a1c1ef6fd83f2?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | On Site | Jan 22 |
 | **[Landslide Political](http://www.landslidepolitical.com)** | **[Research Intern](https://jobright.ai/jobs/info/6972a2144ccbf64f8df2aa79?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 22 |
@@ -123,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971672e333b6343a14deff4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/6971665b333b6343a14def3c?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 21 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Downtown Resource Center Intern](https://jobright.ai/jobs/info/6971775e333b6343a14e12a0?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Downtown Resource Center Intern](https://jobright.ai/jobs/info/6971775e333b6343a14e12a0?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | ↳ | **[Environmental Policy & Planning Intern](https://jobright.ai/jobs/info/69717789333b6343a14e12b6?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Jan 21 |
 | **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 21 |
 | **[Community Partners of South Florida](https://www.cp-cto.org/)** | **[Housing Services Intern (Unpaid)](https://jobright.ai/jobs/info/69714779333b6343a14dc47a?utm_campaign=1056&utm_source=git)** | Riviera Beach, FL, US | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Okta for Developers](https://developer.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69733a04bc8e722e7b180f89?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Public Policy Launch Intern (Remote)](https://jobright.ai/jobs/info/697088d451f726477182cf53?utm_campaign=1056&utm_source=git)** | USA - Remote | Remote | Jan 21 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OUTREACH AND ADVOCACY](https://jobright.ai/jobs/info/697085f8333b6343a14d07a1?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
-| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/69708144587dfa0bb55e1c67?utm_campaign=1056&utm_source=git)** | Hollabaugh Recreation Center | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
