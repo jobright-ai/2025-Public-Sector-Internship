@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6974a854206da320f49ee0e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69748f0c37785856350eac68?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Public Health](https://jobright.ai/jobs/info/6974817cbc8e722e7b199089?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/697494ddbc8e722e7b19ae30?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/697384da37785856350d5b9e?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Landslide Political](http://www.landslidepolitical.com)** | **[Research Intern](https://jobright.ai/jobs/info/6971913f587dfa0bb55f41ca?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, Utah, United States | Hybrid | Jan 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69716985587dfa0bb55f09dc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Jan 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69718c8951f726477183e805?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jan 21 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
-| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
