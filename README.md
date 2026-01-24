@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/6974283737785856350e2222?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Right of Way)- SUMMER 2026](https://jobright.ai/jobs/info/6974208d37785856350e19d5?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
 | **[City of Bloomington, IN](http://bloomington.in.gov)** | **[Summer Parks and Recreation Intern](https://jobright.ai/jobs/info/6974160437785856350df92d?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Jan 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69740dbf37785856350df3bb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PhD Internship](https://jobright.ai/jobs/info/6973dd5237785856350dae68?utm_campaign=1056&utm_source=git)** | Ottawa (Downtown), ON, CA | Hybrid | Jan 23 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern (Bronx and Queens locations)](https://jobright.ai/jobs/info/6973ff12206da320f49e0ee1?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Jan 23 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/69742cf1bc8e722e7b19230b?utm_campaign=1056&utm_source=git)** | 05555 - Casa del Mundo Office (Denver HQ) | Hybrid | Jan 23 |
 | **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Health Policy Advocacy](https://jobright.ai/jobs/info/6973f0de37785856350dc3b1?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/69656ece6d52670c5c3e4de4?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
 | ↳ | **[Legislative Services Internship (Summer 2026/Academic Year 2026-2027)](https://jobright.ai/jobs/info/6965b52b2cbf4e44756f61e5?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69717ace51f726477183d6b7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69716985587dfa0bb55f09dc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Jan 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69718c8951f726477183e805?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jan 21 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
-| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
+| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971672e333b6343a14deff4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/6971665b333b6343a14def3c?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 21 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - CRA / FRB](https://jobright.ai/jobs/info/69713018587dfa0bb55eb8bf?utm_campaign=1056&utm_source=git)** | White Plains, NY | Hybrid | Jan 21 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[Energy Internship Program](https://jobright.ai/jobs/info/69712e4e333b6343a14d9f5a?utm_campaign=1056&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, U.S. Public Affairs Intern](https://jobright.ai/jobs/info/69714d9d333b6343a14dd238?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 21 |
-| **[Start Early](https://www.startearly.org/)** | **[Illinois Policy Intern](https://jobright.ai/jobs/info/69711fe7587dfa0bb55eab5d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Office of the Secretary](https://jobright.ai/jobs/info/69711e02333b6343a14d92a3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
