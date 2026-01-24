@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (Kansas City, MO)](https://jobright.ai/jobs/info/6973ffbd206da320f49e0f8f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Jan 23 |
 | **[CITY OF GALVESTON](https://galvestontx.gov)** | **[Internship- Coastal Reources](https://jobright.ai/jobs/info/6973f5f337785856350dd36f?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Jan 23 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[PhD Internship](https://jobright.ai/jobs/info/6973f07d206da320f49dea4f?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
 | ↳ | **[PhD Internship](https://jobright.ai/jobs/info/6973dd5237785856350dae68?utm_campaign=1056&utm_source=git)** | Ottawa (Downtown), ON, CA | Hybrid | Jan 23 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 23 |
+| **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern (Bronx and Queens locations)](https://jobright.ai/jobs/info/6973ff12206da320f49e0ee1?utm_campaign=1056&utm_source=git)** | Bronx, NY | On Site | Jan 23 |
 | **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Health Policy Advocacy](https://jobright.ai/jobs/info/6973f0de37785856350dc3b1?utm_campaign=1056&utm_source=git)** | DC-Baltimore Area | Hybrid | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/69656ece6d52670c5c3e4de4?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
 | ↳ | **[Legislative Services Internship (Summer 2026/Academic Year 2026-2027)](https://jobright.ai/jobs/info/6965b52b2cbf4e44756f61e5?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 23 |
@@ -84,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972d19a0488fd59f7d5c932?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/697384da37785856350d5b9e?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[UNDP](http://www.undp.org)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972c2054ccbf64f8df2cd57?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 22 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69717ace51f726477183d6b7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69716985587dfa0bb55f09dc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Jan 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69718c8951f726477183e805?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jan 21 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
-| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
+| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
 | **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971672e333b6343a14deff4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/6971665b333b6343a14def3c?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 21 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69710200587dfa0bb55e8208?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Jan 21 |
 | ↳ | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69711a2751f72647718353e3?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Jan 21 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Sustainability Reporting](https://jobright.ai/jobs/info/69710fc3587dfa0bb55ea297?utm_campaign=1056&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 21 |
-| **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6970f36551f7264771832775?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 21 |
-| **[City of Sanford, NC](https://www.sanfordnc.net)** | **[Intern: College/University Student - Must be a current FULL-TIME College Student.](https://jobright.ai/jobs/info/6971ce2cb707bf728a4b5b13?utm_campaign=1056&utm_source=git)** | Sanford, FL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
