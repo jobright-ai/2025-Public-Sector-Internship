@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/693ce1a950bbaf765050096a?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Government Affairs Intern; Washington, DC Office](https://jobright.ai/jobs/info/693ca39749a7695fbd0370a8?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6974b4ccbc8e722e7b19b66c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern – Health Equity (Per Diem/Onsite)](https://jobright.ai/jobs/info/6971a64251f7264771840249?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026, Transportation Policy Research Internship, Brookings Metro (Job ID 2026-3806)](https://jobright.ai/jobs/info/69746209bc8e722e7b19746f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | ↳ | **[Summer 2026, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID 2026-3803)](https://jobright.ai/jobs/info/697459d437785856350e73d7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Government Affairs Internship - Summer 2026](https://jobright.ai/jobs/info/697450e1bc8e722e7b196030?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Jan 23 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Jan 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Energy Resources & Land Conservation Intern](https://jobright.ai/jobs/info/695a0b2aaa05c26e7ab3ac26?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/6974283737785856350e2222?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
