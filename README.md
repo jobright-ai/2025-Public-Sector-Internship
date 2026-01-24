@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Right of Way)- SUMMER 2026](https://jobright.ai/jobs/info/6974208d37785856350e19d5?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
+| **[City of Bloomington, IN](http://bloomington.in.gov)** | **[Summer Parks and Recreation Intern](https://jobright.ai/jobs/info/6974160437785856350df92d?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Jan 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69740dbf37785856350df3bb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (Kansas City, MO)](https://jobright.ai/jobs/info/6973ffbd206da320f49e0f8f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Jan 23 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6974178ebc8e722e7b18fb8b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[CITY OF GALVESTON](https://galvestontx.gov)** | **[Internship- Coastal Reources](https://jobright.ai/jobs/info/6973f5f337785856350dd36f?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Jan 23 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69741447bc8e722e7b18f476?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[PhD Internship](https://jobright.ai/jobs/info/6973f07d206da320f49dea4f?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
@@ -88,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972d19a0488fd59f7d5c932?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/697384da37785856350d5b9e?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[UNDP](http://www.undp.org)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6972c2054ccbf64f8df2cd57?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, U.S. Public Affairs Intern](https://jobright.ai/jobs/info/69714d9d333b6343a14dd238?utm_campaign=1056&utm_source=git)** | Boston, MA | Hybrid | Jan 21 |
 | **[Start Early](https://www.startearly.org/)** | **[Illinois Policy Intern](https://jobright.ai/jobs/info/69711fe7587dfa0bb55eab5d?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Office of the Secretary](https://jobright.ai/jobs/info/69711e02333b6343a14d92a3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jan 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697107b5587dfa0bb55e9591?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (907-00001)111 E 17th Street | Hybrid | Jan 21 |
-| ↳ | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697105f2333b6343a14d8455?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 21 |
-| **[Penn State University](http://psu.edu)** | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69710200587dfa0bb55e8208?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
