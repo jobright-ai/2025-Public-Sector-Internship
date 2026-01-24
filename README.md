@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/69740dbf37785856350df3bb?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (Kansas City, MO)](https://jobright.ai/jobs/info/6973ffbd206da320f49e0f8f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Jan 23 |
 | **[CITY OF GALVESTON](https://galvestontx.gov)** | **[Internship- Coastal Reources](https://jobright.ai/jobs/info/6973f5f337785856350dd36f?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Jan 23 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69741447bc8e722e7b18f476?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[PhD Internship](https://jobright.ai/jobs/info/6973f07d206da320f49dea4f?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
 | ↳ | **[PhD Internship](https://jobright.ai/jobs/info/6973dd5237785856350dae68?utm_campaign=1056&utm_source=git)** | Ottawa (Downtown), ON, CA | Hybrid | Jan 23 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697107b5587dfa0bb55e9591?utm_campaign=1056&utm_source=git)** | Lyndon B Johnson Building (907-00001)111 E 17th Street | Hybrid | Jan 21 |
 | ↳ | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/697105f2333b6343a14d8455?utm_campaign=1056&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 21 |
 | **[Penn State University](http://psu.edu)** | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69710200587dfa0bb55e8208?utm_campaign=1056&utm_source=git)** | Penn State Harrisburg | Hybrid | Jan 21 |
-| ↳ | **[Lower Susquehanna Watershed Program Intern](https://jobright.ai/jobs/info/69711a2751f72647718353e3?utm_campaign=1056&utm_source=git)** | Harrisburg, PA | Hybrid | Jan 21 |
-| **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Sustainability Reporting](https://jobright.ai/jobs/info/69710fc3587dfa0bb55ea297?utm_campaign=1056&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
