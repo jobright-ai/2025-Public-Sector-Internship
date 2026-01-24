@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69748f0c37785856350eac68?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Public Health](https://jobright.ai/jobs/info/6974817cbc8e722e7b199089?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 24 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/697494ddbc8e722e7b19ae30?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[City of Dunedin](https://www.dunedingov.com/)** | **[City Manager's Office Internship - Public Administration & Sustainability](https://jobright.ai/jobs/info/69746e3737785856350e8589?utm_campaign=1056&utm_source=git)** | Dunedin, FL | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Infrastructure Workforce Internship, Brookings Metro (Job ID 2026-3805)](https://jobright.ai/jobs/info/69746d4abc8e722e7b197f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | ↳ | **[Summer 2026, Native American and Indigenous Economies Internship, Brookings Metro (Job ID 2026-3808)](https://jobright.ai/jobs/info/69746aae206da320f49eaac4?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69718c8951f726477183e805?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
 | ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
-| **[CLEAR](http://www.clearme.com)** | **[Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971672e333b6343a14deff4?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 21 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/6971665b333b6343a14def3c?utm_campaign=1056&utm_source=git)** | Remote (US) | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
