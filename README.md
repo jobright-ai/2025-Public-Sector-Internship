@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Landslide Political](http://www.landslidepolitical.com)** | **[Research Intern](https://jobright.ai/jobs/info/6971913f587dfa0bb55f41ca?utm_campaign=1056&utm_source=git)** | SALT LAKE CITY, Utah, United States | Hybrid | Jan 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Community Engagement Intern - Winter 2026](https://jobright.ai/jobs/info/69716985587dfa0bb55f09dc?utm_campaign=1056&utm_source=git)** | Los Angeles, CA USA | Hybrid | Jan 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/69718c8951f726477183e805?utm_campaign=1056&utm_source=git)** | Washington, US | Hybrid | Jan 21 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
-| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6973804ebc8e722e7b18575a?utm_campaign=1056&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
+| ↳ | **[External Affairs Intern](https://jobright.ai/jobs/info/69737c2a206da320f49d7f5e?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
