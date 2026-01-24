@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID 2026-3803)](https://jobright.ai/jobs/info/697459d437785856350e73d7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Applied Research Internship, Brookings Metro (Job ID 2026-3804)](https://jobright.ai/jobs/info/697468d7bc8e722e7b197e3a?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
+| ↳ | **[Summer 2026, Transportation Policy Research Internship, Brookings Metro (Job ID 2026-3806)](https://jobright.ai/jobs/info/69746209bc8e722e7b19746f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
+| ↳ | **[Summer 2026, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID 2026-3803)](https://jobright.ai/jobs/info/697459d437785856350e73d7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Government Affairs Internship - Summer 2026](https://jobright.ai/jobs/info/697450e1bc8e722e7b196030?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Jan 23 |
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 Global Forest Policy Intern](https://jobright.ai/jobs/info/694610d763141d188455c00d?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Jan 23 |
@@ -97,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/697384da37785856350d5b9e?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCNG Public Affairs Intern (Summer 2026)](https://jobright.ai/jobs/info/6971563a333b6343a14ddfe9?utm_campaign=1056&utm_source=git)** | Wake County, NC | On Site | Jan 21 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Downtown Resource Center Intern](https://jobright.ai/jobs/info/6971775e333b6343a14e12a0?utm_campaign=1056&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | ↳ | **[Environmental Policy & Planning Intern](https://jobright.ai/jobs/info/69717789333b6343a14e12b6?utm_campaign=1056&utm_source=git)** | Ames, IA | On Site | Jan 21 |
-| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[SECU Public Fellows Internship 2026](https://jobright.ai/jobs/info/69697b08639b452fb57f5ac2?utm_campaign=1056&utm_source=git)** | Fayetteville, NC | On Site | Jan 21 |
-| **[Community Partners of South Florida](https://www.cp-cto.org/)** | **[Housing Services Intern (Unpaid)](https://jobright.ai/jobs/info/69714779333b6343a14dc47a?utm_campaign=1056&utm_source=git)** | Riviera Beach, FL, US | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
