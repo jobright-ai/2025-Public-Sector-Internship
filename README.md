@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Philanthropy Intern](https://jobright.ai/jobs/info/697679be206da320f4a03895?utm_campaign=1056&utm_source=git)** | Boothbay, ME | On Site | Jan 25 |
 | **[National Alliance on Ending Health Disparities](http://naehd.org)** | **[Membership & Advocacy Intern](https://jobright.ai/jobs/info/697665b0206da320f4a03069?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 25 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern- City of Bloomington (Jan/Feb 2025 – May 2025)](https://jobright.ai/jobs/info/69761cff206da320f4a00afc?utm_campaign=1056&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Jan 25 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6976028b206da320f49fea82?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 25 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/6972dd0d1d55d64a20533eec?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/6973109e1790715e866c1494?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Travel Safety Coordinator](https://jobright.ai/jobs/info/6971ab99333b6343a14e4bbe?utm_campaign=1056&utm_source=git)** | Greater Orlando | On Site | Jan 21 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
