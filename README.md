@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern- City of Bloomington (Jan/Feb 2025 – May 2025)](https://jobright.ai/jobs/info/69761cff206da320f4a00afc?utm_campaign=1056&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Jan 25 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6976028b206da320f49fea82?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 25 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 25 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69759cb7bc8e722e7b1a6276?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69583f32aa05c26e7ab22e72?utm_campaign=1056&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6974a854206da320f49ee0e5?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - WIC Public Health, Summer 2026](https://jobright.ai/jobs/info/69748f0c37785856350eac68?utm_campaign=1056&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Public Health](https://jobright.ai/jobs/info/6974817cbc8e722e7b199089?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 24 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Summer Internship with the Office of Research & Statistics](https://jobright.ai/jobs/info/6975a37237785856350f8c02?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/697494ddbc8e722e7b19ae30?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Infrastructure Workforce Internship, Brookings Metro (Job ID 2026-3805)](https://jobright.ai/jobs/info/69746d4abc8e722e7b197f46?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Summer 2026)](https://jobright.ai/jobs/info/6971fecb47b64f4e963e3cb6?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971e400b707bf728a4b80a6?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
-| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
+| **[Okta](http://www.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69717ace51f726477183d6b7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/6973109e1790715e866c1494?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Travel Safety Coordinator](https://jobright.ai/jobs/info/6971ab99333b6343a14e4bbe?utm_campaign=1056&utm_source=git)** | Greater Orlando | On Site | Jan 21 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/6972f3e1206da320f49ce97a?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6974399fbc8e722e7b193100?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Jan 21 |
-| **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/697448ae37785856350e3df3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
