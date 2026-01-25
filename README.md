@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6976028b206da320f49fea82?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 25 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 25 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69759cb7bc8e722e7b1a6276?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
 | ↳ | **[Legislative Relations Intern](https://jobright.ai/jobs/info/69758550bc8e722e7b1a528c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/697558d1206da320f49f5ab6?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Jan 24 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (Kansas City, MO)](https://jobright.ai/jobs/info/6973ffbd206da320f49e0f8f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Jan 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6974178ebc8e722e7b18fb8b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[CITY OF GALVESTON](https://galvestontx.gov)** | **[Internship- Coastal Reources](https://jobright.ai/jobs/info/6973f5f337785856350dd36f?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Jan 23 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69741447bc8e722e7b18f476?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[PhD Internship](https://jobright.ai/jobs/info/6973f07d206da320f49dea4f?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
 | ↳ | **[PhD Internship](https://jobright.ai/jobs/info/6973dd5237785856350dae68?utm_campaign=1056&utm_source=git)** | Ottawa (Downtown), ON, CA | Hybrid | Jan 23 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 23 |
@@ -120,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/6972dd0d1d55d64a20533eec?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/6972f3e1206da320f49ce97a?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6974399fbc8e722e7b193100?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Jan 21 |
 | **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/697448ae37785856350e3df3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
