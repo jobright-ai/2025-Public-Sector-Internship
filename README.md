@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Relations Intern](https://jobright.ai/jobs/info/69758550bc8e722e7b1a528c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Jan 24 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69759cb7bc8e722e7b1a6276?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
+| ↳ | **[Legislative Relations Intern](https://jobright.ai/jobs/info/69758550bc8e722e7b1a528c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/697558d1206da320f49f5ab6?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Jan 24 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69754d8037785856350f330c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 24 |
 | **[Pottawattamie County, Iowa](https://pottcounty-ia.gov)** | **[Seasonal Park Ranger/Intern - Arrowhead](https://jobright.ai/jobs/info/6975313837785856350f2f51?utm_campaign=1056&utm_source=git)** | Council Bluffs, IA | On Site | Jan 24 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Carolina Public Humanities](http://humanities.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6973f7fdbc8e722e7b18de76?utm_campaign=1056&utm_source=git)** | North Carolina, US | On Site | Jan 22 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Health Promotion Intern](https://jobright.ai/jobs/info/6972f76f1790715e866be5d9?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
 | ↳ | **[Health Analytics & Policy Intern](https://jobright.ai/jobs/info/69730ca31790715e866c0bfd?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
+| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6975985dbc8e722e7b1a5e2d?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach (Rogers Park)](https://jobright.ai/jobs/info/69730d10694e99351d146309?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Grant Administration Intern- Summer 2026](https://jobright.ai/jobs/info/6972e4140488fd59f7d5e156?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Forestry Assistant](https://jobright.ai/jobs/info/6972e3ee0488fd59f7d5e122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
@@ -117,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[City of Doral](https://www.cityofdoral.com)** | **[Unpaid Intern (Mayor & Council)](https://jobright.ai/jobs/info/697384da37785856350d5b9e?utm_campaign=1056&utm_source=git)** | Doral, FL | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jan 21 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[State Energy Conservation Office Summer Intern](https://jobright.ai/jobs/info/6972f3e1206da320f49ce97a?utm_campaign=1056&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6974399fbc8e722e7b193100?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Jan 21 |
-| **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/697448ae37785856350e3df3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
