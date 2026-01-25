@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Relations Intern](https://jobright.ai/jobs/info/69758550bc8e722e7b1a528c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/697558d1206da320f49f5ab6?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Jan 24 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69754d8037785856350f330c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 24 |
 | **[Pottawattamie County, Iowa](https://pottcounty-ia.gov)** | **[Seasonal Park Ranger/Intern - Arrowhead](https://jobright.ai/jobs/info/6975313837785856350f2f51?utm_campaign=1056&utm_source=git)** | Council Bluffs, IA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Greenacres](http://www.greenacresfl.gov)** | **[Development and Neighborhood Services Intern](https://jobright.ai/jobs/info/6974399fbc8e722e7b193100?utm_campaign=1056&utm_source=git)** | Greenacres, FL | On Site | Jan 21 |
 | **[San Diego Association of Governments (SANDAG)](http://sandag.org)** | **[Public Information Office Intern](https://jobright.ai/jobs/info/697448ae37785856350e3df3?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6971868b587dfa0bb55f387d?utm_campaign=1056&utm_source=git)** | Bristol, CT | On Site | Jan 21 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Medical Affairs Intern (Remote)](https://jobright.ai/jobs/info/69718662587dfa0bb55f3863?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
