@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/69769f4fbc8e722e7b1b2288?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 25 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69769c4fbc8e722e7b1b222a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 25 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Philanthropy Intern](https://jobright.ai/jobs/info/697679be206da320f4a03895?utm_campaign=1056&utm_source=git)** | Boothbay, ME | On Site | Jan 25 |
 | **[National Alliance on Ending Health Disparities](http://naehd.org)** | **[Membership & Advocacy Intern](https://jobright.ai/jobs/info/697665b0206da320f4a03069?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 25 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern- City of Bloomington (Jan/Feb 2025 – May 2025)](https://jobright.ai/jobs/info/69761cff206da320f4a00afc?utm_campaign=1056&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Jan 25 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6976028b206da320f49fea82?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 25 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 25 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Government Relations Intern (Volunteer)](https://jobright.ai/jobs/info/69759cb7bc8e722e7b1a6276?utm_campaign=1056&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
 | ↳ | **[Legislative Relations Intern](https://jobright.ai/jobs/info/69758550bc8e722e7b1a528c?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69717ace51f726477183d6b7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/6973109e1790715e866c1494?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[International Travel Safety Coordinator](https://jobright.ai/jobs/info/6971ab99333b6343a14e4bbe?utm_campaign=1056&utm_source=git)** | Greater Orlando | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
