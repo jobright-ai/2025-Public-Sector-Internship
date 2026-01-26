@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Summer 2026)](https://jobright.ai/jobs/info/6971fecb47b64f4e963e3cb6?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971e400b707bf728a4b80a6?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
-| **[Okta](http://www.okta.com)** | **[TDI Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69717ace51f726477183d6b7?utm_campaign=1056&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
+| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/6973109e1790715e866c1494?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Travel Safety Coordinator](https://jobright.ai/jobs/info/6971ab99333b6343a14e4bbe?utm_campaign=1056&utm_source=git)** | Greater Orlando | On Site | Jan 21 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, NCSA Cabinet Member](https://jobright.ai/jobs/info/6971ab8d333b6343a14e4b7a?utm_campaign=1056&utm_source=git)** | Sarasota, FL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
