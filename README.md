@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vosyn](https://vosyn.ai)** | **[ESG & CSR - Master’s Level Internship](https://jobright.ai/jobs/info/69777a1f88e2b47213bb57f3?utm_campaign=1056&utm_source=git)** | Etobicoke, CA | Remote | Jan 26 |
+| **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Jan 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6977539cfdeb8243a27a1ac4?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Program Intern - Summer 2026](https://jobright.ai/jobs/info/695a10a0f1f8465b79f06524?utm_campaign=1056&utm_source=git)** | Alexandria, VA | On Site | Jan 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient- Baltimore Washington) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/68cc24c8128dc347fd91fe8c?utm_campaign=1056&utm_source=git)** | Elkridge, MD | On Site | Jan 22 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
-| ↳ | **[Intern, State Community Organizer, Alabama State Office (Summer 2026)](https://jobright.ai/jobs/info/6971fecb47b64f4e963e3cb6?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971e400b707bf728a4b80a6?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
