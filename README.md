@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6977539cfdeb8243a27a1ac4?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 26 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Summer 2026 E2 Diversity in Clean Energy Advocacy Intern](https://jobright.ai/jobs/info/69774eaf52f3c27ec643465c?utm_campaign=1056&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 26 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
 | **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/6972dd0d1d55d64a20533eec?utm_campaign=1056&utm_source=git)** | Dearborn, MI, US | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | ↳ | **[Intern, State Community Organizer, Alabama State Office (Summer 2026)](https://jobright.ai/jobs/info/6971fecb47b64f4e963e3cb6?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6971e400b707bf728a4b80a6?utm_campaign=1056&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
-| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6971da11b707bf728a4b63f9?utm_campaign=1056&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
