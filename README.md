@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Jan 26 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Great Lakes Advisors](https://jobright.ai/jobs/info/697823b5fdeb8243a27b1817?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 26 |
 | **[Larimer County](https://www.larimer.gov)** | **[Public Health Intern Temp](https://jobright.ai/jobs/info/69781a64fdeb8243a27b0de7?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | Hybrid | Jan 26 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Philanthropy Intern](https://jobright.ai/jobs/info/697679be206da320f4a03895?utm_campaign=1056&utm_source=git)** | Boothbay, ME | On Site | Jan 25 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern- City of Bloomington (Jan/Feb 2025 – May 2025)](https://jobright.ai/jobs/info/69761cff206da320f4a00afc?utm_campaign=1056&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Jan 25 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Towson) 2025-2026 Social Work BSW Fieldwork](https://jobright.ai/jobs/info/683e58095a1270a094763e1e?utm_campaign=1056&utm_source=git)** | Towson, MD | On Site | Jan 25 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Public Health](https://jobright.ai/jobs/info/69782ec639f7f96cc6d07656?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Involvement Intern - Summer 2026](https://jobright.ai/jobs/info/697558d1206da320f49f5ab6?utm_campaign=1056&utm_source=git)** | North Charleston, SC | On Site | Jan 24 |
 | **[Pottawattamie County, Iowa](https://pottcounty-ia.gov)** | **[Seasonal Park Ranger/Intern - Arrowhead](https://jobright.ai/jobs/info/6975313837785856350f2f51?utm_campaign=1056&utm_source=git)** | Council Bluffs, IA | On Site | Jan 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 24 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026, Transportation Policy Research Internship, Brookings Metro (Job ID 2026-3806)](https://jobright.ai/jobs/info/69746209bc8e722e7b19746f?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | ↳ | **[Summer 2026, Research & Project Coordination Internship, Center for Sustainable Development, Global Economy and Development (Job ID 2026-3803)](https://jobright.ai/jobs/info/697459d437785856350e73d7?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Government Affairs Internship - Summer 2026](https://jobright.ai/jobs/info/697450e1bc8e722e7b196030?utm_campaign=1056&utm_source=git)** | Camden, NJ | On Site | Jan 23 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/6974283737785856350e2222?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Right of Way)- SUMMER 2026](https://jobright.ai/jobs/info/6974208d37785856350e19d5?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
 | **[City of Bloomington, IN](http://bloomington.in.gov)** | **[Summer Parks and Recreation Intern](https://jobright.ai/jobs/info/6974160437785856350df92d?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Jan 23 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6972fc4f694e99351d144234?utm_campaign=1056&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - GIS - Geospatial Data Science](https://jobright.ai/jobs/info/696ae5325fc86241853a192c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
 | **[Alliance for Justice](http://www.afj.org)** | **[2026 Outreach and Membership Summer Intern](https://jobright.ai/jobs/info/6972f56a206da320f49ceccd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 22 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/6972f950694e99351d144049?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS-CAN OC Grant Intern](https://jobright.ai/jobs/info/697300b4694e99351d1445d5?utm_campaign=1056&utm_source=git)** | Irvine, CA | Hybrid | Jan 22 |
 | **[City of Garland](https://www.garlandtx.gov/)** | **[TEMP - Parks and Recreation Intern](https://jobright.ai/jobs/info/6972ec7898522904c697bdac?utm_campaign=1056&utm_source=git)** | Garland, TX | On Site | Jan 22 |
-| **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Public Sector Relations (Internship)](https://jobright.ai/jobs/info/6972c1774ccbf64f8df2cccc?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
