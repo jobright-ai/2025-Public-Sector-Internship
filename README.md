@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Public Policy Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/69786fa688e2b47213bc9591?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern- Public Policy & Government Relations](https://jobright.ai/jobs/info/697838c588e2b47213bc40cd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - State Health, State & Local Government - Campus 2026](https://jobright.ai/jobs/info/6978364888e2b47213bc3ceb?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6975985dbc8e722e7b1a5e2d?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach (Rogers Park)](https://jobright.ai/jobs/info/69730d10694e99351d146309?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Grant Administration Intern- Summer 2026](https://jobright.ai/jobs/info/6972e4140488fd59f7d5e156?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
-| **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[COOP Student, Forestry Assistant](https://jobright.ai/jobs/info/6972e3ee0488fd59f7d5e122?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
