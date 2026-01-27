@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6978a35239f7f96cc6d10735?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/6978a13d39f7f96cc6d106b5?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jan 27 |
+| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/6978a0f839f7f96cc6d1067a?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Jan 27 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/69656ece6d52670c5c3e4de4?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Public Health](https://jobright.ai/jobs/info/6978945b52f3c27ec644eb65?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 26 |
 | **[City of Emeryville](http://www.emeryville.org)** | **[Economic Development & Housing Intern](https://jobright.ai/jobs/info/69787bec88e2b47213bca092?utm_campaign=1056&utm_source=git)** | Emeryville, CA | On Site | Jan 26 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Public Policy Intern - Summer Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/69786fa688e2b47213bc9591?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern- Public Policy & Government Relations](https://jobright.ai/jobs/info/697838c588e2b47213bc40cd?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
@@ -97,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Environmental Justice Intern (Unpaid)](https://jobright.ai/jobs/info/6977dc0388e2b47213bbd722?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Jan 26 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Environmental Justice Intern (Unpaid)](https://jobright.ai/jobs/info/6977d161fdeb8243a27abfb8?utm_campaign=1056&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Jan 26 |
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
-| **[Vosyn](https://vosyn.ai)** | **[ESG & CSR - Master’s Level Internship](https://jobright.ai/jobs/info/69777a1f88e2b47213bb57f3?utm_campaign=1056&utm_source=git)** | Etobicoke, CA | Remote | Jan 26 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Jan 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carolina Public Humanities](http://humanities.unc.edu)** | **[GFRP FERN Intern](https://jobright.ai/jobs/info/6973f7fdbc8e722e7b18de76?utm_campaign=1056&utm_source=git)** | North Carolina, US | On Site | Jan 22 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[Health Promotion Intern](https://jobright.ai/jobs/info/6972f76f1790715e866be5d9?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
 | ↳ | **[Health Analytics & Policy Intern](https://jobright.ai/jobs/info/69730ca31790715e866c0bfd?utm_campaign=1056&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 22 |
-| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Intern - UN System Affairs](https://jobright.ai/jobs/info/6975985dbc8e722e7b1a5e2d?utm_campaign=1056&utm_source=git)** | Utica-Rome Area | On Site | Jan 22 |
-| **[Trilogy](https://www.trilogyinc.org/)** | **[Internship - Outreach (Rogers Park)](https://jobright.ai/jobs/info/69730d10694e99351d146309?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Grant Administration Intern- Summer 2026](https://jobright.ai/jobs/info/6972e4140488fd59f7d5e156?utm_campaign=1056&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
