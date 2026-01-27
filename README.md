@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Alliance to End Sexual Violence, Inc.](http://www.endsexualviolenceCT.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6978f50e39f7f96cc6d14897?utm_campaign=1056&utm_source=git)** | East Hartford, CT | On Site | Jan 27 |
 | **[UNDP](http://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e4d739f7f96cc6d13ad6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
-| **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/6978e3e288e2b47213bcf90c?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e33e88e2b47213bcf8bd?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6978a6b952f3c27ec644ef87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6978a63a52f3c27ec644ef7b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
@@ -142,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong CTA Board Office Intern](https://jobright.ai/jobs/info/6974283737785856350e2222?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 23 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Right of Way)- SUMMER 2026](https://jobright.ai/jobs/info/6974208d37785856350e19d5?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
 | **[City of Bloomington, IN](http://bloomington.in.gov)** | **[Summer Parks and Recreation Intern](https://jobright.ai/jobs/info/6974160437785856350df92d?utm_campaign=1056&utm_source=git)** | Bloomington, IN | On Site | Jan 23 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (Kansas City, MO)](https://jobright.ai/jobs/info/6973ffbd206da320f49e0f8f?utm_campaign=1056&utm_source=git)** | Kansas City, MO | Hybrid | Jan 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Intern (Non-Exempt)](https://jobright.ai/jobs/info/6974178ebc8e722e7b18fb8b?utm_campaign=1056&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[CITY OF GALVESTON](https://galvestontx.gov)** | **[Internship- Coastal Reources](https://jobright.ai/jobs/info/6973f5f337785856350dd36f?utm_campaign=1056&utm_source=git)** | Galveston, TX | On Site | Jan 23 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[PhD Internship](https://jobright.ai/jobs/info/6973f07d206da320f49dea4f?utm_campaign=1056&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6973712b37785856350d502d?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jan 23 |
 | **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 23 |
 | **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/695b723eaa05c26e7ab4c655?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
+| **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
