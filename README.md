@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6978a35239f7f96cc6d10735?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| **[Wallace Design Collective](https://wallace.design/)** | **[Civil Summer Internship](https://jobright.ai/jobs/info/6978a13d39f7f96cc6d106b5?utm_campaign=1056&utm_source=git)** | Tulsa, OK | On Site | Jan 27 |
-| ↳ | **[Civil Summer Internship](https://jobright.ai/jobs/info/6978a0f839f7f96cc6d1067a?utm_campaign=1056&utm_source=git)** | Rogers, AR | On Site | Jan 27 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6978a6b952f3c27ec644ef87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6978a63a52f3c27ec644ef7b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| ↳ | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6978a49439f7f96cc6d1075b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
+| ↳ | **[Intern - Economics Program and Scholl Chair in International Business (Spring 2026)](https://jobright.ai/jobs/info/6978a35239f7f96cc6d10735?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Child and Family Services Policy & Legislative Internship (Summer 2026)](https://jobright.ai/jobs/info/69656ece6d52670c5c3e4de4?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Public Health](https://jobright.ai/jobs/info/6978945b52f3c27ec644eb65?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD | On Site | Jan 26 |
 | **[City of Emeryville](http://www.emeryville.org)** | **[Economic Development & Housing Intern](https://jobright.ai/jobs/info/69787bec88e2b47213bca092?utm_campaign=1056&utm_source=git)** | Emeryville, CA | On Site | Jan 26 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Policy & Innovation Intern](https://jobright.ai/jobs/info/6970066682817106e97723e5?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 26 |
-| **[City of Emeryville](http://www.emeryville.org)** | **[Economic Development & Housing Intern](https://jobright.ai/jobs/info/6977d6f252f3c27ec643fcba?utm_campaign=1056&utm_source=git)** | Emeryville, CA | On Site | Jan 25 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Korea Chair (Spring 2026)](https://jobright.ai/jobs/info/69769c4fbc8e722e7b1b222a?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 25 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Philanthropy Intern](https://jobright.ai/jobs/info/697679be206da320f4a03895?utm_campaign=1056&utm_source=git)** | Boothbay, ME | On Site | Jan 25 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Data & CRM Spring Intern- City of Bloomington (Jan/Feb 2025 – May 2025)](https://jobright.ai/jobs/info/69761cff206da320f4a00afc?utm_campaign=1056&utm_source=git)** | Other, UNAVAILABLE, US | On Site | Jan 25 |
