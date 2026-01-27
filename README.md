@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Action Forum](https://www.americanactionforum.org)** | **[Trade Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791b4788e2b47213bd365f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[UNDP](http://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e4d739f7f96cc6d13ad6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
+| **[American Action Forum](https://www.americanactionforum.org)** | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791ceb39f7f96cc6d17a77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Connecticut Alliance to End Sexual Violence, Inc.](http://www.endsexualviolenceCT.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6978f50e39f7f96cc6d14897?utm_campaign=1056&utm_source=git)** | East Hartford, CT | On Site | Jan 27 |
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – Public Affairs](https://jobright.ai/jobs/info/69790d8f52f3c27ec6455587?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jan 27 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Government Relations Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6979088d39f7f96cc6d160a9?utm_campaign=1056&utm_source=git)** | 1455 Pennsylvania Ave NW, Washington, DC, 20004, US | Hybrid | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Moves Coalition](https://www.mimovesmonth.com/)** | **[Resource Development & Evaluation Intern](https://jobright.ai/jobs/info/6973e0a6206da320f49dd966?utm_campaign=1056&utm_source=git)** | Washington, DC | Remote | Jan 23 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[PAL Intern (Bronx and Queens locations)](https://jobright.ai/jobs/info/6973ab91bc8e722e7b187864?utm_campaign=1056&utm_source=git)** | Bronx - 384 E 149th Street, Bronx, NY 10455, Bronx, NY, US | On Site | Jan 23 |
 | **[Lake George Land Conservancy](https://www.lglc.org/)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6973a673206da320f49daba5?utm_campaign=1056&utm_source=git)** | Lake George, NY | On Site | Jan 23 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6973ae3537785856350d8942?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jan 23 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6973712b37785856350d502d?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
