@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Connecticut Alliance to End Sexual Violence, Inc.](http://www.endsexualviolenceCT.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6978f50e39f7f96cc6d14897?utm_campaign=1056&utm_source=git)** | East Hartford, CT | On Site | Jan 27 |
 | **[UNDP](http://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e4d739f7f96cc6d13ad6?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
+| **[Connecticut Alliance to End Sexual Violence, Inc.](http://www.endsexualviolenceCT.org)** | **[Policy Intern](https://jobright.ai/jobs/info/6978f50e39f7f96cc6d14897?utm_campaign=1056&utm_source=git)** | East Hartford, CT | On Site | Jan 27 |
+| **[PhRMA](http://phrma.org/)** | **[Summer Internship – Public Affairs](https://jobright.ai/jobs/info/69790d8f52f3c27ec6455587?utm_campaign=1056&utm_source=git)** | Washington, DC, US | On Site | Jan 27 |
+| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Government Relations Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6979088d39f7f96cc6d160a9?utm_campaign=1056&utm_source=git)** | 1455 Pennsylvania Ave NW, Washington, DC, 20004, US | Hybrid | Jan 27 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Red Line Extension Community Outreach Support Intern](https://jobright.ai/jobs/info/69790c3052f3c27ec645546f?utm_campaign=1056&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 27 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e33e88e2b47213bcf8bd?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6978a6b952f3c27ec644ef87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6978a63a52f3c27ec644ef7b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lake George Land Conservancy](https://www.lglc.org/)** | **[Stewardship Intern](https://jobright.ai/jobs/info/6973a673206da320f49daba5?utm_campaign=1056&utm_source=git)** | Lake George, NY | On Site | Jan 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Intern, Bureau of Equitable Health Systems](https://jobright.ai/jobs/info/6973ae3537785856350d8942?utm_campaign=1056&utm_source=git)** | Queens, NY | On Site | Jan 23 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/6973712b37785856350d502d?utm_campaign=1056&utm_source=git)** | Nashville, TN | On Site | Jan 23 |
-| **[AARP](http://www.aarp.org)** | **[Outreach, Engagement and Communications Intern](https://jobright.ai/jobs/info/693bd37f49a7695fbd02b718?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 23 |
-| **[State of Missouri](http://mo.gov)** | **[Office of Equal Opportunity Intern](https://jobright.ai/jobs/info/695b723eaa05c26e7ab4c655?utm_campaign=1056&utm_source=git)** | Jefferson City, MO | On Site | Jan 23 |
-| **[A Healthier Democracy](https://ahealthierdemocracy.org)** | **[Healthy Democracy Campaign Intern](https://jobright.ai/jobs/info/6967010ca1358766808445ce?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
