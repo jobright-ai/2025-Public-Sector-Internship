@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marathon Pipe Line Public Engagement (Summer 2026)](https://jobright.ai/jobs/info/69798cdfd7df290257fbe561?utm_campaign=1056&utm_source=git)** | Findlay, OH | On Site | Jan 27 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Nonprofit Administration Summer Intern](https://jobright.ai/jobs/info/697987320791bc1d72303724?utm_campaign=1056&utm_source=git)** | Raleigh, NC | On Site | Jan 27 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Emergency Preparedness Center](https://jobright.ai/jobs/info/6978393539f7f96cc6d08437?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 27 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Summer 2026, Intern- Communications &  Public Affairs](https://jobright.ai/jobs/info/69797859ca92cf0d6a829b04?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Interpretation Intern - ONSITE - Denali National Park and Preserve](https://jobright.ai/jobs/info/69796b6439f7f96cc6d1f4a3?utm_campaign=1056&utm_source=git)** | Denali Park, Alaska, United States | On Site | Jan 27 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Red Line Extension Community Outreach Support Intern](https://jobright.ai/jobs/info/6979273c39f7f96cc6d188d5?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/69792eaf52f3c27ec6457712?utm_campaign=1056&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Jan 27 |
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/6979257088e2b47213bd42e9?utm_campaign=1056&utm_source=git)** | MIDDLETOWN,RI,US | On Site | Jan 27 |
-| **[American Action Forum](https://www.americanactionforum.org)** | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791ceb39f7f96cc6d17a77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792b8888e2b47213bd4955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[American Action Forum](https://www.americanactionforum.org)** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792b8888e2b47213bd4955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| ↳ | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791ceb39f7f96cc6d17a77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/697927bb52f3c27ec6456f11?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Jan 27 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69792e6e88e2b47213bd4d9f?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Jan 27 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Substance Use Intern](https://jobright.ai/jobs/info/697925cc52f3c27ec6456cba?utm_campaign=1056&utm_source=git)** | New Rochelle, NY, USA | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Battelle](http://www.battelle.org)** | **[Policy Intern (Summer 2026)](https://jobright.ai/jobs/info/695ec85d08ab990f282a1369?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Agricultural Water Strategy Internship](https://jobright.ai/jobs/info/69052263122e8474c78d6825?utm_campaign=1056&utm_source=git)** | Burley, ID | On Site | Jan 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Federal Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6905a64dff462851fefff259?utm_campaign=1056&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
-| **[Vosyn](https://vosyn.ai)** | **[ESG & CSR - Master’s Level Internship](https://jobright.ai/jobs/info/69793b2b88e2b47213bd65b9?utm_campaign=1056&utm_source=git)** | Etobicoke, CA | Remote | Jan 26 |
-| **[Capstone](https://capstonedc.com)** | **[2026 Summer Policy & Investment Internship - PATHWAY](https://jobright.ai/jobs/info/6903ca77d64a22104aa93263?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
