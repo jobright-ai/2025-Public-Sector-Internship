@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Endowment](https://www.houstonendowment.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69418e8150bbaf76505360ec?utm_campaign=1056&utm_source=git)** | Houston, TX | On Site | Jan 28 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Policy Intern](https://jobright.ai/jobs/info/69264cddf0beb07232623d74?utm_campaign=1056&utm_source=git)** | San Diego, CA | Hybrid | Jan 28 |
+| **[CAIR Sacramento Valley/Central California](cairsvcc.org)** | **[Internship](https://jobright.ai/jobs/info/697a0abba5b9804527dfe269?utm_campaign=1056&utm_source=git)** | California, United States | Hybrid | Jan 28 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[2026 Summer Intern-Medicare Advantage](https://jobright.ai/jobs/info/695dcec716906f25775f8e09?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 28 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/6979c4b6d7df290257fc30d6?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | On Site | Jan 28 |
 | **[Town of Chapel Hill, NC](https://www.townofchapelhill.org)** | **[Transportation Planning Intern - Program Support](https://jobright.ai/jobs/info/6979be39ca92cf0d6a830250?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PhRMA](http://phrma.org/)** | **[Summer Internship – State Advocacy](https://jobright.ai/jobs/info/69792f7152f3c27ec645782e?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 26 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Program Oversight and Communications](https://jobright.ai/jobs/info/6977ecd752f3c27ec6441b0c?utm_campaign=1056&utm_source=git)** | Detroit, MI | On Site | Jan 26 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Public Affairs and Media](https://jobright.ai/jobs/info/6977ee6c52f3c27ec6441e66?utm_campaign=1056&utm_source=git)** | Arlington, TX | On Site | Jan 26 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Legislative Services Internship (Summer 2026/Academic Year 2026-2027)](https://jobright.ai/jobs/info/6978e0e152f3c27ec645210e?utm_campaign=1056&utm_source=git)** | Lincoln, NE | On Site | Jan 26 |
-| **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Public Affairs and Media](https://jobright.ai/jobs/info/6977c0d3fdeb8243a27aad22?utm_campaign=1056&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
