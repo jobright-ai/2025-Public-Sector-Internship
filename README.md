@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Environment for the Americas](http://www.environmentamericas.org)** | **[Interpretation Intern - ONSITE - Denali National Park and Preserve](https://jobright.ai/jobs/info/69796b6439f7f96cc6d1f4a3?utm_campaign=1056&utm_source=git)** | Denali Park, Alaska, United States | On Site | Jan 27 |
+| **[University of Portland](http://www.up.edu)** | **[CSWS Refugee Services Intern - Catholic Charities of Oregon](https://jobright.ai/jobs/info/697968e939f7f96cc6d1f237?utm_campaign=1056&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 27 |
+| **[Town of Chapel Hill, NC](https://www.townofchapelhill.org)** | **[Vision Zero Intern - Program Support](https://jobright.ai/jobs/info/6979665539f7f96cc6d1ef8f?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC | On Site | Jan 27 |
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Intelligence Project (Summer 2026)](https://jobright.ai/jobs/info/697951f439f7f96cc6d1c9af?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697965ea52f3c27ec645dc20?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayor's Office](https://jobright.ai/jobs/info/697942e252f3c27ec6459f78?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jan 27 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/69795c5f88e2b47213bd90af?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jan 27 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Sustainability](https://jobright.ai/jobs/info/695d6bc9f1f8465b79f39696?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Renewables Intern](https://jobright.ai/jobs/info/6973109e1790715e866c1494?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 24 |
 | **[Pottawattamie County, Iowa](https://pottcounty-ia.gov)** | **[Seasonal Park Ranger/Intern - Arrowhead](https://jobright.ai/jobs/info/6975313837785856350f2f51?utm_campaign=1056&utm_source=git)** | Council Bluffs, IA | On Site | Jan 24 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68cc302b128dc347fd9207fa?utm_campaign=1056&utm_source=git)** | Stanford, CA | On Site | Jan 24 |
-| **[SKDK](http://skdknick.com)** | **[General Intern Application](https://jobright.ai/jobs/info/69634cd02cbf4e44756d0436?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 24 |
-| ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 24 |
-| **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/693ce1a950bbaf765050096a?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
