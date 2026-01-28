@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TC Energy](https://www.tcenergy.com/)** | **[External Relations Intern](https://jobright.ai/jobs/info/697a58c9a5b9804527e029c3?utm_campaign=1056&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 28 |
+| ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/697a5582b4589b4ee87c9fbe?utm_campaign=1056&utm_source=git)** | Remote Work Ontario | Remote | Jan 28 |
 | **[Valero](http://www.valero.com)** | **[Engagement and Public Policy Intern - (Summer 2026)](https://jobright.ai/jobs/info/697a4130b4589b4ee87c80d6?utm_campaign=1056&utm_source=git)** | US-TX-San Antonio | On Site | Jan 28 |
 | **[Business Executives for National Security (BENS)](http://www.bens.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/697a3e89b4589b4ee87c797f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 28 |
+| **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Emergency Preparedness](https://jobright.ai/jobs/info/697a58b2a5b9804527e029ad?utm_campaign=1056&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | Jan 28 |
 | **[Nautilus Solar Energy, LLC](http://www.nautilussolar.com)** | **[MA/ Origination Intern](https://jobright.ai/jobs/info/697a4016b4589b4ee87c7df4?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Public Affairs Intern, Center for Communications, Counter Disinformation Strategy Department (Winter/Spring 2025)](https://jobright.ai/jobs/info/69419a6250bbaf765053693f?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: NGO Management Volunteer Internship (online and in-person) in Peru](https://jobright.ai/jobs/info/68235e4eb8c92c2c14744653?utm_campaign=1056&utm_source=git)** | Cambridge, MA | On Site | Jan 28 |
@@ -92,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Marathon Pipe Line Public Engagement (Summer 2026)](https://jobright.ai/jobs/info/69797cc30791bc1d723023e1?utm_campaign=1056&utm_source=git)** | Findlay, Ohio | On Site | Jan 27 |
 | **[Docusign](http://www.docusign.com)** | **[Corporate Affairs Intern](https://jobright.ai/jobs/info/697980580791bc1d723028ec?utm_campaign=1056&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Intelligence Project (Summer 2026)](https://jobright.ai/jobs/info/697951f439f7f96cc6d1c9af?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
-| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
-| ↳ | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/697973a70791bc1d72301be1?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jan 27 |
+| **[NV5](http://www.nv5.com)** | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/697973a70791bc1d72301be1?utm_campaign=1056&utm_source=git)** | Providence, RI, US | On Site | Jan 27 |
+| ↳ | **[Mike Guerard Energy Fellow - Intern](https://jobright.ai/jobs/info/69797ec89c90a224ecc33c9d?utm_campaign=1056&utm_source=git)** | US-RI-Providence | On Site | Jan 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Communications and Operations Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697965ea52f3c27ec645dc20?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayor's Office](https://jobright.ai/jobs/info/697942e252f3c27ec6459f78?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jan 27 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/69795c5f88e2b47213bd90af?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Independence, Ohio, USA](http://www.independenceohio.org)** | **[Summer Intern: Community Services {Internship} (Job ID: 17-2026-02)](https://jobright.ai/jobs/info/6979c3a60791bc1d72308a94?utm_campaign=1056&utm_source=git)** | 6363 Selig Drive, Independence, OH, USA | On Site | Jan 26 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Intern, Swimming and Diving](https://jobright.ai/jobs/info/6977ff4d88e2b47213bc0b44?utm_campaign=1056&utm_source=git)** | AUSTIN, TX | On Site | Jan 26 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern- Public Policy & Government Relations](https://jobright.ai/jobs/info/6977fd6b52f3c27ec6443707?utm_campaign=1056&utm_source=git)** | Washington, DC 20001 | Hybrid | Jan 26 |
-| **[Larimer County Department of Health and Environment](http://www.larimer.gov/health)** | **[Public Health Intern Temp](https://jobright.ai/jobs/info/6977fc8a88e2b47213bc095f?utm_campaign=1056&utm_source=git)** | Spruce, CO | Hybrid | Jan 26 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern- Office of the Secretary](https://jobright.ai/jobs/info/69711e02333b6343a14d92a3?utm_campaign=1056&utm_source=git)** | Frankfort, KY | On Site | Jan 26 |
-| **[American Lung Association](http://www.lung.org)** | **[Intern, Advocacy and Public Policy](https://jobright.ai/jobs/info/69781558fdeb8243a27b0b41?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
