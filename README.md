@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Culligan International](http://www.culligan.com/)** | **[Intern, ESG](https://jobright.ai/jobs/info/695d7c82f5f3c43f38e249a6?utm_campaign=1056&utm_source=git)** | Rosemont, IL | On Site | Jan 27 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Intelligence Project (Summer 2026)](https://jobright.ai/jobs/info/697951f439f7f96cc6d1c9af?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Community Outreach Internship - Mayor's Office](https://jobright.ai/jobs/info/697942e252f3c27ec6459f78?utm_campaign=1056&utm_source=git)** | SLC Metro Area | On Site | Jan 27 |
+| **[Central Bank](https://www.centralbank.net/)** | **[Consumer Banking Intern](https://jobright.ai/jobs/info/69795c5f88e2b47213bd90af?utm_campaign=1056&utm_source=git)** | Columbia, MO | On Site | Jan 27 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Sustainability](https://jobright.ai/jobs/info/695d6bc9f1f8465b79f39696?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/6979338639f7f96cc6d19979?utm_campaign=1056&utm_source=git)** | Charlottesville, VA | On Site | Jan 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6979317f88e2b47213bd508e?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
@@ -100,11 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - State Health, State & Local Government - Campus 2026](https://jobright.ai/jobs/info/6978364888e2b47213bc3ceb?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Occupational Health Intern](https://jobright.ai/jobs/info/69423164bdcf884a5ade031f?utm_campaign=1056&utm_source=git)** | Tarrytown, NY | On Site | Jan 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, State Community Organizer, Alabama State Office (Summer 2026)](https://jobright.ai/jobs/info/6971fecb47b64f4e963e3cb6?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 26 |
-| ↳ | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 26 |
+| **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 26 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Program Management - Civil Rights Memorial Center (Summer 2026)](https://jobright.ai/jobs/info/697200d847b64f4e963e3d30?utm_campaign=1056&utm_source=git)** | Montgomery, AL | On Site | Jan 26 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Great Lakes Advisors](https://jobright.ai/jobs/info/697823b5fdeb8243a27b1817?utm_campaign=1056&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[AARP](http://www.aarp.org)** | **[Community and Volunteer Outreach Intern](https://jobright.ai/jobs/info/6931e71ed0010831497bcc44?utm_campaign=1056&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 26 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Emergency Preparedness Center](https://jobright.ai/jobs/info/6978393539f7f96cc6d08437?utm_campaign=1056&utm_source=git)** | Richmond, VA | On Site | Jan 26 |
-| **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator & Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 26 |
 | **[Larimer County](https://www.larimer.gov)** | **[Public Health Intern Temp](https://jobright.ai/jobs/info/69781a64fdeb8243a27b0de7?utm_campaign=1056&utm_source=git)** | Fort Collins, CO | Hybrid | Jan 26 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Government Affairs](https://jobright.ai/jobs/info/6978369588e2b47213bc3d68?utm_campaign=1056&utm_source=git)** | Lansing, MI | On Site | Jan 26 |
 | **[Nevada Contractors Association](http://www.nvcontractors.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/697812effdeb8243a27b0902?utm_campaign=1056&utm_source=git)** | Las Vegas, NV | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[General Intern Application](https://jobright.ai/jobs/info/691f885b09cc522e87742905?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 24 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Sustainability/Environmental, Social, and Corporate Governance (ESG)](https://jobright.ai/jobs/info/693ce1a950bbaf765050096a?utm_campaign=1056&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Business Services ADA Projects](https://jobright.ai/jobs/info/68cc6484128dc347fd92435b?utm_campaign=1056&utm_source=git)** | Seattle, WA | Hybrid | Jan 24 |
-| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Government Affairs Intern; Washington, DC Office](https://jobright.ai/jobs/info/693ca39749a7695fbd0370a8?utm_campaign=1056&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Community Health Worker (CHW) Field Placement](https://jobright.ai/jobs/info/6974b4ccbc8e722e7b19b66c?utm_campaign=1056&utm_source=git)** | Nelsonville, OH | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
