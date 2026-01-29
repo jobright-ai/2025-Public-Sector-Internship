@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition & Planning Intern](https://jobright.ai/jobs/info/697ace368dbbf73badc81c15?utm_campaign=1056&utm_source=git)** | Plano, TX | On Site | Jan 28 |
 | **[City of Pompano Beach](https://pompanobeachfl.gov)** | **[Public Policy and Administration Intern #2026-PT14](https://jobright.ai/jobs/info/697abb45f6fc293b0a2cb70e?utm_campaign=1056&utm_source=git)** | Pompano Beach, FL | On Site | Jan 28 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[HSPRS Caseworker Assistant Intern](https://jobright.ai/jobs/info/695c3463f1f8465b79f23f11?utm_campaign=1056&utm_source=git)** | New York, NY | On Site | Jan 28 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[North America Public Affairs, Communications, and Sustainability Intern](https://jobright.ai/jobs/info/697acd9c8dbbf73badc81ba2?utm_campaign=1056&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[External Relations Intern](https://jobright.ai/jobs/info/697aa96af6fc293b0a2c93a8?utm_campaign=1056&utm_source=git)** | Ontario, Canada | Hybrid | Jan 28 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/697aa601f6fc293b0a2c8eab?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Economic Security and Technology Department (Spring 2026)](https://jobright.ai/jobs/info/697aa4b88dbbf73badc7e115?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Red Line Extension Community Outreach Support Intern](https://jobright.ai/jobs/info/6979273c39f7f96cc6d188d5?utm_campaign=1056&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Internship - Office of Transportation and Infrastructure Systems](https://jobright.ai/jobs/info/69792eaf52f3c27ec6457712?utm_campaign=1056&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Jan 27 |
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Grants Intern](https://jobright.ai/jobs/info/6979257088e2b47213bd42e9?utm_campaign=1056&utm_source=git)** | MIDDLETOWN,RI,US | On Site | Jan 27 |
-| **[American Action Forum](https://www.americanactionforum.org)** | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791ceb39f7f96cc6d17a77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792b8888e2b47213bd4955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[American Action Forum](https://www.americanactionforum.org)** | **[Regulatory Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69792b8888e2b47213bd4955?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| ↳ | **[Health Care Policy Internship - Summer 2026 - PAID](https://jobright.ai/jobs/info/69791ceb39f7f96cc6d17a77?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/697927bb52f3c27ec6456f11?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Jan 27 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Community Engagement](https://jobright.ai/jobs/info/69792e6e88e2b47213bd4d9f?utm_campaign=1056&utm_source=git)** | Charlottesville, Virginia, United States | On Site | Jan 27 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Substance Use Intern](https://jobright.ai/jobs/info/697925cc52f3c27ec6456cba?utm_campaign=1056&utm_source=git)** | New Rochelle, NY, USA | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Policy and Advocacy Intern – Climate and Security Risk (Remote/office based)](https://jobright.ai/jobs/info/6978e33e88e2b47213bcf8bd?utm_campaign=1056&utm_source=git)** | New York, United States | Remote | Jan 27 |
 | **[PIM Brands](https://pimbrands.com)** | **[Event Coordinator/Policy Researcher Intern](https://jobright.ai/jobs/info/69783ce939f7f96cc6d089be?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Southeast Asia (Spring 2026)](https://jobright.ai/jobs/info/6978a6b952f3c27ec644ef87?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Intern - Critical Minerals Security Program (Spring 2026)](https://jobright.ai/jobs/info/6978a63a52f3c27ec644ef7b?utm_campaign=1056&utm_source=git)** | Washington, DC | On Site | Jan 27 |
-| ↳ | **[Intern - Europe, Russia, and Eurasia Program (Spring 2026)](https://jobright.ai/jobs/info/6978a49439f7f96cc6d1075b?utm_campaign=1056&utm_source=git)** | Washington, DC | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
