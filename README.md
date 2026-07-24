@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StrategyCorp](https://strategycorp.com)** | **[Intern - StrategyCorp Institute of Public Policy and Economy](https://jobright.ai/jobs/info/6a57b16aa791c6211bf00477?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Jul 24 |
+| **[SIFMA](http://www.sifma.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6a6360298d53603449602075?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Fall 2026 Mayor's Office Internship Program - Office of the Mayor](https://jobright.ai/jobs/info/6a6365908d53603449602229?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 24 |
-| **[SIFMA](http://www.sifma.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6a636121e8d8d22e329287a8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 24 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 24 |
 | ↳ | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a53f34c8576ec69c015178d?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States of America | On Site | Jul 24 |
@@ -78,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning Intern (Paid)](https://jobright.ai/jobs/info/6a62880cf805ef6ff42337f8?utm_campaign=1056&utm_source=git)** | West Covina, CA, United States | On Site | Jul 23 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base](https://jobright.ai/jobs/info/6a5a559e63a8f619507c6582?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Infrastructure Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4fe297397d8d353c28cfa0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 23 |
-| **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/6a62740bc28982326de96c35?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 23 |
+| **[Equitas Health](https://www.equitashealth.com)** | **[Legislative Affairs Intern](https://jobright.ai/jobs/info/6a62740b07e15f1ab0e46594?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 23 |
 | **[National Foreign Trade Council](http://www.nftc.org)** | **[Internship](https://jobright.ai/jobs/info/6a61ef91ab9bd4676324dd6d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 23 |
 | **[The State University of New York](https://www.suny.edu)** | **[Foster Youth Internship](https://jobright.ai/jobs/info/6a3adbe21232144fb1570733?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Jul 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment 2026 Fall Intern - Unpaid](https://jobright.ai/jobs/info/6a626042846162391c9357a8?utm_campaign=1056&utm_source=git)** | Louisville, KY, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Military Strategy & US Defense Budget](https://jobright.ai/jobs/info/6a5db2e33ac7627fe900d80e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 21 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2026 Fall Internship Application](https://jobright.ai/jobs/info/6a5ff518f68dd368023e9ca9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 21 |
-| **[Forward Montana](http://forwardmontana.org)** | **[2026 Community Organizing Internship](https://jobright.ai/jobs/info/6a5fed856e0c3c7c7d3d9ea9?utm_campaign=1056&utm_source=git)** | Billings, MT, United States | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
