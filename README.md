@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 24 |
-| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 24 |
-| ↳ | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a53f34c8576ec69c015178d?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States of America | On Site | Jul 24 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 24 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a53f34c8576ec69c015178d?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States of America | On Site | Jul 24 |
+| ↳ | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 24 |
 | **[Partners In Health](http://www.pih.org/)** | **[Community Health Systems Intern](https://jobright.ai/jobs/info/6a5ad11a856af468ab009a66?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 24 |
 | **[Forest Hill Church](http://foresthill.org)** | **[Fort Mill Next Gen Intern](https://jobright.ai/jobs/info/6a5e80b567b2850e77df1806?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Jul 23 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Near-Peer Community Engagement Intern](https://jobright.ai/jobs/info/6a503bc2fc327f422fef8497?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Utilization Management and Special Investigation Unit](https://jobright.ai/jobs/info/6a60b15acf6cf477a0561bf1?utm_campaign=1056&utm_source=git)** | Okemos, MI, United States | Hybrid | Jul 22 |
 | **[Dewey Square Group](http://deweysquare.com)** | **[Grassroots Intern](https://jobright.ai/jobs/info/6a60c70de3f5ff347d7c58ae?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 22 |
 | **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a58048b9f1f56462cf6804a?utm_campaign=1056&utm_source=git)** | Greenville, SC, United States | On Site | Jul 22 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 22 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 22 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 22 |
+| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Hospital Inpatient-Baltimore Washington ) 2026-2027 Social Work MSW Fieldwork](https://jobright.ai/jobs/info/6998cb75ce78e77b4fdd5cef?utm_campaign=1056&utm_source=git)** | Elkridge, Maryland, United States | On Site | Jul 22 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a60981dcf6cf477a05615b2?utm_campaign=1056&utm_source=git)** | Florida, United States | On Site | Jul 22 |
 | **[American Public Health Association](https://www.apha.org)** | **[Alliance for the Public's Health Internship: 2026 fall term](https://jobright.ai/jobs/info/6a60980e2a30b856378747ac?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 22 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-17i – Economic Analysis Intern](https://jobright.ai/jobs/info/6a4d61da35e45603c4bb3a03?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 21 |
 | **[Forward Montana](http://forwardmontana.org)** | **[2026 Community Organizing Internship](https://jobright.ai/jobs/info/6a5fed856e0c3c7c7d3d9ea9?utm_campaign=1056&utm_source=git)** | Billings, MT, United States | Hybrid | Jul 21 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Indigenous Intern, Mortgage Services](https://jobright.ai/jobs/info/6a6016f8f68dd368023ea62e?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 21 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Office of the Governor Intern (Fall 2026).](https://jobright.ai/jobs/info/6a601e0d33ef5c58b4001d49?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
+| **[State of Colorado](https://dpo.colorado.gov/)** | **[Office of the Governor Intern (Fall 2026).](https://jobright.ai/jobs/info/6a601e0d33ef5c58b4001d49?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
