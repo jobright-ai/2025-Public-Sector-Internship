@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Board Program Director](https://jobright.ai/jobs/info/6a59eb13856af468ab005b47?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Project on Nuclear Issues (Fall 2026)](https://jobright.ai/jobs/info/6a5a06143ac7627fe9001d55?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Jul 26 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 26 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Board Advocacy Director](https://jobright.ai/jobs/info/6a59e9a0856af468ab0059ed?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a51d4fd57513b72e0c68a14?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Remote | Jul 26 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center for Technology, Science, and Energy, Technology Policy](https://jobright.ai/jobs/info/6a57db2668d16a30e2410073?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
@@ -119,13 +120,13 @@ For a complete list, click the following sortable link below:
 | **[Partners In Health](http://www.pih.org/)** | **[Community Health Systems Intern](https://jobright.ai/jobs/info/6a5ae30e4da96a42cfd97ebc?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 24 |
 | **[Meridian International Center](http://www.meridian.org)** | **[Intern, Center for Corporate Diplomacy](https://jobright.ai/jobs/info/6a637d310c8e2b4f36dce260?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 24 |
 | **[Zeichner Risk Analytics (ZRA)](https://www.zra.com/)** | **[Cybersecurity Policy Intern (Graduate)](https://jobright.ai/jobs/info/6a637b9d0c8e2b4f36dce1ea?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | Hybrid | Jul 24 |
-| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a553569f2c46727285f09b2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 24 |
-| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5faa1c33ef5c58b4fff4b4?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 24 |
+| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5faa1c33ef5c58b4fff4b4?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 24 |
+| ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a553569f2c46727285f09b2?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Jul 24 |
 | ↳ | **[Community Impact Intern](https://jobright.ai/jobs/info/6a5686fdf7517b519ad56577?utm_campaign=1056&utm_source=git)** | 1. 1620 N Signal Dr, Liberty Lake, WA 99019, USA | On Site | Jul 24 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Intern - StrategyCorp Institute of Public Policy and Economy](https://jobright.ai/jobs/info/6a57b16aa791c6211bf00477?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Jul 24 |
-| **[SIFMA](http://www.sifma.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6a636121e8d8d22e329287a8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
-| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 24 |
-| ↳ | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a53f34c8576ec69c015178d?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States of America | On Site | Jul 24 |
+| **[SIFMA](http://www.sifma.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6a6360298d53603449602075?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a53f34c8576ec69c015178d?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States of America | On Site | Jul 24 |
+| ↳ | **[Community Affairs Intern](https://jobright.ai/jobs/info/6a2b3111d3ec8317fe1478ea?utm_campaign=1056&utm_source=git)** | Austin, Texas, US | Hybrid | Jul 24 |
 | **[Forest Hill Church](http://foresthill.org)** | **[Fort Mill Next Gen Intern](https://jobright.ai/jobs/info/6a5e80b567b2850e77df1806?utm_campaign=1056&utm_source=git)** | Fort Mill, SC, United States | On Site | Jul 23 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Near-Peer Community Engagement Intern](https://jobright.ai/jobs/info/6a503bc2fc327f422fef8497?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Indigenous Intern, Mortgage Services](https://jobright.ai/jobs/info/6a62e3f8185082502f48440c?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAMI North Texas](http://naminorthtexas.org)** | **[Community Engagement & Program Support Intern](https://jobright.ai/jobs/info/6a62577607e15f1ab0e459ea?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 23 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Democracy Program](https://jobright.ai/jobs/info/6a620f37ab14335fc0f1b638?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 23 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[MPS Intern](https://jobright.ai/jobs/info/6a4582f13dbab558e29a183f?utm_campaign=1056&utm_source=git)** | Charleston, SC, United States | On Site | Jul 23 |
-| **[Evergreen Strategy Group](https://www.evergreenstrategygroup.com)** | **[2026 Fall Intern](https://jobright.ai/jobs/info/6a5e2acb27bf767ea68f50b8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
