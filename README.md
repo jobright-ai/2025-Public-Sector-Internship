@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CLIA | Cruise Lines International Association](http://www.cruising.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a69196b3b549b0b531d3ebd?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
+| **[Smart Growth America](https://smartgrowthamerica.org)** | **[Housing Advocacy Intern](https://jobright.ai/jobs/info/6a69179605bae84301b5a7ab?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
+| **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Public Policy (Winter 2027)](https://jobright.ai/jobs/info/6a6913a6ceb2691dfb207354?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
+| **[World Learning](http://www.worldlearning.org)** | **[IVLP Intern](https://jobright.ai/jobs/info/6a6910ce05bae84301b5a42c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
+| **[State of Utah](http://www.utah.gov/)** | **[GIS Intern - Community & Economic Development](https://jobright.ai/jobs/info/6a69106c05bae84301b5a3fd?utm_campaign=1056&utm_source=git)** | Cottonwood Heights, UT, United States | On Site | Jul 28 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Communications and Knowledge Management Intern (Home-based)](https://jobright.ai/jobs/info/6a6908a836d36c1ff2997b52?utm_campaign=1056&utm_source=git)** | Kansas, United States | Remote | Jul 28 |
 | **[University of Virginia](https://parking.virginia.edu/)** | **[Federal Work-Study (FWS) Internship Program: Student Employment Intern](https://jobright.ai/jobs/info/6a69079a3b549b0b531d373e?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 28 |
 | **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a68f17436d36c1ff29971fc?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
@@ -96,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[BHcare](https://bhcare.org)** | **[INTERN-UCDVS/COURT/FJC](https://jobright.ai/jobs/info/6a56aaa510c4d945d864b3ae?utm_campaign=1056&utm_source=git)** | New Haven, CT, United States | On Site | Jul 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a684515d31a503dccb3b0ad?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 27 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a520c19d007ee02d95f5c53?utm_campaign=1056&utm_source=git)** | Beaumont, TX, United States | On Site | Jul 27 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 27 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 27 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/6a6812012bf1fb2b71928478?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/6a681187872eb74f9eadc46d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Campaign Intern, Economic Education Project](https://jobright.ai/jobs/info/6a557e46268af95237bec0a2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
@@ -104,10 +109,10 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern I/II - City Manager's Office](https://jobright.ai/jobs/info/6a680646d0fb4c3df393fd38?utm_campaign=1056&utm_source=git)** | Hemet, CA, United States | On Site | Jul 27 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 | ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67cb4f5d2a117fb9ced570?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67d08f2bda4d2842855ddf?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d088d0fb4c3df393edb6?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67cb4f5d2a117fb9ced570?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d088d0fb4c3df393edb6?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67cb533b5e6b116a550a8d?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67d08c5d2a117fb9ced64c?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | **[National Housing Trust](https://www.nationalhousingtrust.org)** | **[Community Outreach & Impact (COI) Intern](https://jobright.ai/jobs/info/6a6908ac05bae84301b5a0ea?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA, United States | On Site | Jul 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SIFMA](http://www.sifma.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6a671d6e2bf1fb2b719242dd?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Energy and Climate Policy](https://jobright.ai/jobs/info/6a4bdeaf5d7b097d2df3e908?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[Fall Internship](https://jobright.ai/jobs/info/6a1d7c6c9111f771d1a18e09?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
-| **[Human Rights First](http://www.humanrightsfirst.org)** | **[Non-Legal Intern - Fall 2026](https://jobright.ai/jobs/info/6a4ed3bb9469c0662034cd0f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 26 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-18i – Grant Research Intern](https://jobright.ai/jobs/info/6a4d61dad27b2c4dda9b754c?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 26 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Grant Writer Volunteer/Intern](https://jobright.ai/jobs/info/6a54a8a1a79e4e4bbb372814?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
-| **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Public Policy & Stakeholder Engagement Intern](https://jobright.ai/jobs/info/6a5e1e66270e3033b045bffd?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 26 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a5f628c33ef5c58b4ffdb2e?utm_campaign=1056&utm_source=git)** | AK, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
