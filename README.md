@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment 2026 Fall Intern - Unpaid](https://jobright.ai/jobs/info/6a626042846162391c9357a8?utm_campaign=1056&utm_source=git)** | Louisville, KY, United States | On Site | Jul 29 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a55d0812ce8bf79a13a166d?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/6a6987dc12e2925ae3f9a933?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Jul 28 |
 | **[FWD.us](http://www.fwd.us)** | **[External Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a59444e856af468ab002e49?utm_campaign=1056&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jul 28 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[University of Virginia](https://parking.virginia.edu/)** | **[Federal Work-Study (FWS) Internship Program: Student Employment Intern](https://jobright.ai/jobs/info/6a69079a3b549b0b531d373e?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 28 |
 | **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a68f17436d36c1ff29971fc?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6900d75d01972698ee5d85?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
-| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jul 28 |
-| ↳ | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a58048b9f1f56462cf6804a?utm_campaign=1056&utm_source=git)** | Greenville, SC, United States | On Site | Jul 28 |
+| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a58048b9f1f56462cf6804a?utm_campaign=1056&utm_source=git)** | Greenville, SC, United States | On Site | Jul 28 |
+| ↳ | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jul 28 |
 | **[Right On Crime](https://rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/6a566bc5efb06a45240d5c40?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 28 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner- Driehaus (4853-02)](https://jobright.ai/jobs/info/6a5669db53b3962b910b016d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 28 |
 | **[Monument Advocacy](http://www.monumentadvocacy.com/)** | **[Digital and Public Affairs Intern](https://jobright.ai/jobs/info/6a68f43336d36c1ff2997301?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/6a68af6e0478407443699122?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jul 28 |
 | **[City of New York](https://www.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/6a57898df7517b519ad5acb4?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Alternatives For Girls](https://alternativesforgirls.org)** | **[Intern](https://jobright.ai/jobs/info/6a689f2e7926035e09586001?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | On Site | Jul 28 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 28 |
-| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 28 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 28 |
+| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 28 |
 | **[Youth Guidance](https://www.youth-guidance.org/)** | **[Youth Guidance DC - Intern (3355)](https://jobright.ai/jobs/info/6a686bdca6b8730e3b123bb4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[PRAB, Inc.](https://www.prab.org/)** | **[Legislative & Advocacy Aide Intern](https://jobright.ai/jobs/info/6a55d0b72ce8bf79a13a1709?utm_campaign=1056&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 28 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall NYNJ Regional Operations Team Intern](https://jobright.ai/jobs/info/6a67c5df2bf1fb2b71926fb7?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
@@ -109,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[BHcare](https://bhcare.org)** | **[INTERN-UCDVS/COURT/FJC](https://jobright.ai/jobs/info/6a56aaa510c4d945d864b3ae?utm_campaign=1056&utm_source=git)** | New Haven, CT, United States | On Site | Jul 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a684515d31a503dccb3b0ad?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 27 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a520c19d007ee02d95f5c53?utm_campaign=1056&utm_source=git)** | Beaumont, TX, United States | On Site | Jul 27 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 27 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 27 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/6a6812012bf1fb2b71928478?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/6a681187872eb74f9eadc46d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Campaign Intern, Economic Education Project](https://jobright.ai/jobs/info/6a557e46268af95237bec0a2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[Intern, OBU, Lanzhou/Changchun](https://jobright.ai/jobs/info/6a6790862bf1fb2b71925ce1?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a67ac2b3b5e6b116a5500bf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | **[ACLU of North Carolina](https://www.acluofnorthcarolina.org)** | **[ACLU-NC Development Intern](https://jobright.ai/jobs/info/6a6784d05d2a117fb9cebc07?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 27 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a59daaa4da96a42cfd92b5b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
