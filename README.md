@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
+| **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
+| ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
+| **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6a2b2819d76667a2abe013?utm_campaign=1056&utm_source=git)** | Tennessee, United States | Hybrid | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MSW Social Work Intern](https://jobright.ai/jobs/info/6a6a2aa719d76667a2abdfde?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | On Site | Jul 29 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 29 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications, Digital Accessibility & Multimedia Intern](https://jobright.ai/jobs/info/6a69c7d619d76667a2abc47d?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 28 |
 | **[City of New York](https://www.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/6a57898df7517b519ad5acb4?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Alternatives For Girls](https://alternativesforgirls.org)** | **[Intern](https://jobright.ai/jobs/info/6a689f2e7926035e09586001?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | On Site | Jul 28 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 28 |
-| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 28 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 28 |
+| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 28 |
 | **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Research Intern](https://jobright.ai/jobs/info/6a69c79316c69119640fafad?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 28 |
 | **[Youth Guidance](https://www.youth-guidance.org/)** | **[Youth Guidance DC - Intern (3355)](https://jobright.ai/jobs/info/6a686bdca6b8730e3b123bb4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[PRAB, Inc.](https://www.prab.org/)** | **[Legislative & Advocacy Aide Intern](https://jobright.ai/jobs/info/6a55d0b72ce8bf79a13a1709?utm_campaign=1056&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 28 |
@@ -124,11 +127,11 @@ For a complete list, click the following sortable link below:
 | **[The Hub Project](https://thehubproject.org/)** | **[Campaign Intern, Economic Education Project](https://jobright.ai/jobs/info/6a557e46268af95237bec0a2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Resource Development and Grants Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f3433ef5c58b4ffe317?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern I/II - City Manager's Office](https://jobright.ai/jobs/info/6a680646d0fb4c3df393fd38?utm_campaign=1056&utm_source=git)** | Hemet, CA, United States | On Site | Jul 27 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
-| ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 | ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67d08f2bda4d2842855ddf?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d088d0fb4c3df393edb6?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67cb533b5e6b116a550a8d?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67d08c5d2a117fb9ced64c?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | **[National Housing Trust](https://www.nationalhousingtrust.org)** | **[Community Outreach & Impact (COI) Intern](https://jobright.ai/jobs/info/6a6908ac05bae84301b5a0ea?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA, United States | On Site | Jul 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[One Knoxville SC](https://oneknoxsc.com/)** | **[One Knox Collective Operations Intern](https://jobright.ai/jobs/info/6a681e56fef68f206c37082c?utm_campaign=1056&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 27 |
 | **[City of College Station](http://www.cstx.gov)** | **[Planning and Development Intern](https://jobright.ai/jobs/info/6a68044c872eb74f9eadc1fa?utm_campaign=1056&utm_source=git)** | College Station-Bryan Area, Texas, United States | On Site | Jul 27 |
 | **[ETS](http://www.ets.org)** | **[Research & Policy Intern (Fall) – Global Government and External Relations (GER)](https://jobright.ai/jobs/info/6a6804022bda4d2842856ced?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Working Waterfront Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ac502bf1fb2b71926710?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
-| ↳ | **[Energy Policy Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ac4a5d2a117fb9cecb7a?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
-| ↳ | **[Resilient Coasts Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ac412bda4d284285532c?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
