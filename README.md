@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/6a6987dc12e2925ae3f9a933?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Jul 28 |
+| **[FWD.us](http://www.fwd.us)** | **[External Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a59444e856af468ab002e49?utm_campaign=1056&utm_source=git)** | Los Angeles, California, United States | Hybrid | Jul 28 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67cb4f5d2a117fb9ced570?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a5bac343ac7627fe9008de5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
@@ -113,11 +115,11 @@ For a complete list, click the following sortable link below:
 | **[The Hub Project](https://thehubproject.org/)** | **[Campaign Intern, Economic Education Project](https://jobright.ai/jobs/info/6a557e46268af95237bec0a2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Resource Development and Grants Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f3433ef5c58b4ffe317?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern I/II - City Manager's Office](https://jobright.ai/jobs/info/6a680646d0fb4c3df393fd38?utm_campaign=1056&utm_source=git)** | Hemet, CA, United States | On Site | Jul 27 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
-| ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 | ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67d08f2bda4d2842855ddf?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d088d0fb4c3df393edb6?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67cb533b5e6b116a550a8d?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67d08c5d2a117fb9ced64c?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | **[National Housing Trust](https://www.nationalhousingtrust.org)** | **[Community Outreach & Impact (COI) Intern](https://jobright.ai/jobs/info/6a6908ac05bae84301b5a0ea?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA, United States | On Site | Jul 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a67ac2b3b5e6b116a5500bf?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | **[ACLU of North Carolina](https://www.acluofnorthcarolina.org)** | **[ACLU-NC Development Intern](https://jobright.ai/jobs/info/6a6784d05d2a117fb9cebc07?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 27 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Economic Policy](https://jobright.ai/jobs/info/6a59daaa4da96a42cfd92b5b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Grant Manager](https://jobright.ai/jobs/info/6a59e9dc856af468ab005a33?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[BowerGroupAsia](https://bowergroupasia.com/)** | **[Intern (Research) - Washington, DC, Fall 2026](https://jobright.ai/jobs/info/6a676e7d2bf1fb2b719250a4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
