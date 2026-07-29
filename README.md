@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Social Work Intern - Data and Quality Improvement- Unpaid](https://jobright.ai/jobs/info/6a6a124dc63ba56308f510d1?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | On Site | Jul 29 |
 | **[Greif](http://greif.com)** | **[2026 Foundations Intern](https://jobright.ai/jobs/info/6a6a05bc0b42f866b6196475?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 29 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/6a554bdbae07d60a8d01044d?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[City of Covington, Kentucky](https://thecovky.gov)** | **[Public Administration Intern (48470)](https://jobright.ai/jobs/info/6a69f62d19d76667a2abceae?utm_campaign=1056&utm_source=git)** | Covington, KY, United States | On Site | Jul 29 |
 | **[Wisconsin Foundation and Alumni Association](https://www.uwalumni.com/)** | **[Alumni Advocacy Intern](https://jobright.ai/jobs/info/6a69e79816c69119640fb780?utm_campaign=1056&utm_source=git)** | Madison, WI, United States | Hybrid | Jul 29 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a63b7158d53603449603dc1?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Jul 29 |
-| **[World Relief](https://worldrelief.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a1c5fd22b206f3955ebcd1a?utm_campaign=1056&utm_source=git)** | Greenville, SC | On Site | Jul 29 |
-| ↳ | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/6a58048b9f1f56462cf6804a?utm_campaign=1056&utm_source=git)** | Greenville, SC, United States | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Economic Empowerment 2026 Fall Intern - Unpaid](https://jobright.ai/jobs/info/6a626042846162391c9357a8?utm_campaign=1056&utm_source=git)** | Louisville, KY, United States | On Site | Jul 29 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a55d0812ce8bf79a13a166d?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern-Council](https://jobright.ai/jobs/info/6a6987dc12e2925ae3f9a933?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Jul 28 |
@@ -117,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[BHcare](https://bhcare.org)** | **[INTERN-UCDVS/COURT/FJC](https://jobright.ai/jobs/info/6a56aaa510c4d945d864b3ae?utm_campaign=1056&utm_source=git)** | New Haven, CT, United States | On Site | Jul 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a684515d31a503dccb3b0ad?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 27 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a520c19d007ee02d95f5c53?utm_campaign=1056&utm_source=git)** | Beaumont, TX, United States | On Site | Jul 27 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 27 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 27 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/6a6812012bf1fb2b71928478?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | ↳ | **[Youth Activism Remote Internship](https://jobright.ai/jobs/info/6a681187872eb74f9eadc46d?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Campaign Intern, Economic Education Project](https://jobright.ai/jobs/info/6a557e46268af95237bec0a2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
@@ -126,10 +125,10 @@ For a complete list, click the following sortable link below:
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 | ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67d08f2bda4d2842855ddf?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d088d0fb4c3df393edb6?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67d08c5d2a117fb9ced64c?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67cb533b5e6b116a550a8d?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
+| ↳ | **[Fall Regional Program and Operations Intern](https://jobright.ai/jobs/info/6a67d08c5d2a117fb9ced64c?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 27 |
 | **[National Housing Trust](https://www.nationalhousingtrust.org)** | **[Community Outreach & Impact (COI) Intern](https://jobright.ai/jobs/info/6a6908ac05bae84301b5a0ea?utm_campaign=1056&utm_source=git)** | Fredericksburg, VA, United States | On Site | Jul 27 |
 | **[City of Zephyrhills](https://ci.zephyrhills.fl.us/)** | **[Public Information Officer Intern](https://jobright.ai/jobs/info/6a6908543b549b0b531d376b?utm_campaign=1056&utm_source=git)** | Zephyrhills, FL, United States | On Site | Jul 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/6a58f6c93ac7627fe9ffc779?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy Policy Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ac4a5d2a117fb9cecb7a?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
 | ↳ | **[Resilient Coasts Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ac412bda4d284285532c?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Working Waterfront Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67ab012bda4d284285527c?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
+| ↳ | **[Energy Policy Intern - Fall 2026 - UNPAID](https://jobright.ai/jobs/info/6a67aaee3b5e6b116a550017?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
