@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a5138a0ae4052672fe97f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
+| **[City of North Las Vegas](https://www.cityofnorthlasvegas.com)** | **[City Clerk Intern (Fall)](https://jobright.ai/jobs/info/6a6bcd4bca1f9338465fc760?utm_campaign=1056&utm_source=git)** | North Las Vegas, NV, United States | On Site | Jul 30 |
+| **[ICCU](https://iccu.com)** | **[Community Development Intern - Treasure Valley](https://jobright.ai/jobs/info/6a6bcaf557120971bf3a8dbb?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | On Site | Jul 30 |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a531d52e726ec56126a5c0a?utm_campaign=1056&utm_source=git)** | Longview, TX, United States | On Site | Jul 30 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a5bb02b63a8f619507cbcf9?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
 | **[ACLU of Georgia](https://www.acluga.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6bb799c00ae03109f859ac?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 30 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6bb369acb0a61f9dbc25c9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
@@ -131,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a55d67914f1040fa611ce2f?utm_campaign=1056&utm_source=git)** | Amarillo, TX, United States | On Site | Jul 28 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Economic Growth Intern](https://jobright.ai/jobs/info/6a569c4bf7517b519ad56d59?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[Jersey Cares](https://www.jerseycares.org)** | **[External Affairs Intern](https://jobright.ai/jobs/info/6a69426805bae84301b5b467?utm_campaign=1056&utm_source=git)** | Livingston, NJ, United States | On Site | Jul 28 |
+| **[World Learning](http://www.worldlearning.org)** | **[IVLP Intern](https://jobright.ai/jobs/info/6a6bd00457120971bf3a8f13?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[Second Baptist School](http://www.secondbaptistschool.org)** | **[Ministry Intern](https://jobright.ai/jobs/info/6a6928fb36d36c1ff299879d?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | On Site | Jul 28 |
 | **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Public Policy (Winter 2027)](https://jobright.ai/jobs/info/6a6913a6ceb2691dfb207354?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Communications and Knowledge Management Intern (Home-based)](https://jobright.ai/jobs/info/6a6908a836d36c1ff2997b52?utm_campaign=1056&utm_source=git)** | Kansas, United States | Remote | Jul 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall San Diego Regional Intern](https://jobright.ai/jobs/info/6a68c79005bae84301b584f8?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 28 |
 | ↳ | **[Fall NYNJ Regional Operations Intern](https://jobright.ai/jobs/info/6a68c3287926035e09586d94?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
 | **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6a55b90f2ce8bf79a139ff6d?utm_campaign=1056&utm_source=git)** | Las Cruces, NM, United States | On Site | Jul 28 |
-| **[Vannevar](https://www.vannevarlabs.com)** | **[Public Policy & Community Affairs Intern](https://jobright.ai/jobs/info/6a4bd1ed5d7b097d2df3e45b?utm_campaign=1056&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Jul 28 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Washington DC/DMV Organizing Intern](https://jobright.ai/jobs/info/6a68b2797926035e095866e6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/6a68af6e0478407443699122?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jul 28 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications, Digital Accessibility & Multimedia Intern](https://jobright.ai/jobs/info/6a69c7d619d76667a2abc47d?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 28 |
-| **[City of New York](https://www.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/6a57898df7517b519ad5acb4?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
