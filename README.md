@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner Reece (4469-02)](https://jobright.ai/jobs/info/6a5a0b063ac7627fe9001fcf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a6acf8532f9300c3a3dab7c?utm_campaign=1056&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 29 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | Alabama, United States | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1f85c7e2d715ebaed51?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 29 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6a2b2819d76667a2abe013?utm_campaign=1056&utm_source=git)** | Tennessee, United States | Hybrid | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MSW Social Work Intern](https://jobright.ai/jobs/info/6a6a2aa719d76667a2abdfde?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | On Site | Jul 29 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 29 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[The Hub Project](https://thehubproject.org/)** | **[Campaign Intern, Economic Education Project](https://jobright.ai/jobs/info/6a557e46268af95237bec0a2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Resource Development and Grants Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f3433ef5c58b4ffe317?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 27 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern I/II - City Manager's Office](https://jobright.ai/jobs/info/6a680646d0fb4c3df393fd38?utm_campaign=1056&utm_source=git)** | Hemet, CA, United States | On Site | Jul 27 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
-| ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c0d73b5e6b116a550638?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
+| ↳ | **[Fall National Affairs Intern](https://jobright.ai/jobs/info/6a67c5e3d0fb4c3df393eb37?utm_campaign=1056&utm_source=git)** | Washington, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall Desert Intern](https://jobright.ai/jobs/info/6a67d08f2bda4d2842855ddf?utm_campaign=1056&utm_source=git)** | Las Vegas, NV, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d088d0fb4c3df393edb6?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
 | ↳ | **[Fall International Affairs Intern](https://jobright.ai/jobs/info/6a67d6f72bf1fb2b719273a0?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J Street](https://jstreet.org/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a4526ca4f64ba41dcb4c73e?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 27 |
 | **[ACLU of Georgia](https://www.acluga.org)** | **[Policy Internship](https://jobright.ai/jobs/info/6a67df445d2a117fb9cedc3c?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 27 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Fall Midwest Intern](https://jobright.ai/jobs/info/6a67d6df2bf1fb2b71927395?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 27 |
-| **[Environmental Defense Fund](https://www.edf.org/)** | **[Federal Affairs FEMA Reform Intern](https://jobright.ai/jobs/info/6a67b3af872eb74f9eada88b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
