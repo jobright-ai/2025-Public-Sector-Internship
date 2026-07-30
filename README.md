@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a5bb02b63a8f619507cbcf9?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
+| **[ACLU of Georgia](https://www.acluga.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6bb799c00ae03109f859ac?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 30 |
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6bb369acb0a61f9dbc25c9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
 | ↳ | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6badbfc00ae03109f854c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
 | ↳ | **[Community Engagement Intern, CMO](https://jobright.ai/jobs/info/6a6baa7432f9300c3a3e02f6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 30 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6a6a6f1219d76667a2abfbb0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Democratic Socialists of America](https://dsausa.org)** | **[YDSA Intern](https://jobright.ai/jobs/info/6a6a834c48355b3f12bf17f4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, TX, United States | On Site | Jul 29 |
-| **[Democratic Socialists of America](https://dsausa.org)** | **[YDSA Intern](https://jobright.ai/jobs/info/6a6a7bb316c69119640fe9c3?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Grant Research & Writing Intern](https://jobright.ai/jobs/info/6a6aa2f716c69119640ff458?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jul 29 |
 | **[Women Unlimited! San Antonio](https://www.womenunlimitedsa.com/)** | **[Grant Research and Fundraising Intern](https://jobright.ai/jobs/info/6a6a72db48355b3f12bf112c?utm_campaign=1056&utm_source=git)** | San Antonio, TX, United States | Hybrid | Jul 29 |
 | **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Grant Research & Writing Intern](https://jobright.ai/jobs/info/6a6a722cc63ba56308f5352f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
@@ -109,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6a2b2819d76667a2abe013?utm_campaign=1056&utm_source=git)** | Tennessee, United States | Hybrid | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MSW Social Work Intern](https://jobright.ai/jobs/info/6a6a2aa719d76667a2abdfde?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | On Site | Jul 29 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Grant Writing Internship](https://jobright.ai/jobs/info/6a68af6e0478407443699122?utm_campaign=1056&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jul 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications, Digital Accessibility & Multimedia Intern](https://jobright.ai/jobs/info/6a69c7d619d76667a2abc47d?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 28 |
 | **[City of New York](https://www.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/6a57898df7517b519ad5acb4?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
-| **[Alternatives For Girls](https://alternativesforgirls.org)** | **[Intern](https://jobright.ai/jobs/info/6a689f2e7926035e09586001?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
