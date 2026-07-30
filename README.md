@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6bb369acb0a61f9dbc25c9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
+| ↳ | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6badbfc00ae03109f854c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
+| ↳ | **[Community Engagement Intern, CMO](https://jobright.ai/jobs/info/6a6baa7432f9300c3a3e02f6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 30 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a6ba745c00ae03109f85348?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6ba4b45c54bc4752cea2fa?utm_campaign=1056&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[FWD.us](http://www.fwd.us)** | **[Criminal Justice Reform and Crimmigration Research Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6b9fa4ca1f9338465fb80b?utm_campaign=1056&utm_source=git)** | Oakland, CA, United States | Hybrid | Jul 30 |
 | **[Actum](https://actumllc.com)** | **[Junior Associate](https://jobright.ai/jobs/info/6a6b9f065c54bc4752cea14e?utm_campaign=1056&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications, Digital Accessibility & Multimedia Intern](https://jobright.ai/jobs/info/6a69c7d619d76667a2abc47d?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 28 |
 | **[City of New York](https://www.nyc.gov)** | **[Research and Policy Intern (Thriving and Economic Stability)](https://jobright.ai/jobs/info/6a57898df7517b519ad5acb4?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Alternatives For Girls](https://alternativesforgirls.org)** | **[Intern](https://jobright.ai/jobs/info/6a689f2e7926035e09586001?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | On Site | Jul 28 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Jul 28 |
-| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Jul 28 |
-| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Research Intern](https://jobright.ai/jobs/info/6a69c79316c69119640fafad?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 28 |
-| **[Youth Guidance](https://www.youth-guidance.org/)** | **[Youth Guidance DC - Intern (3355)](https://jobright.ai/jobs/info/6a686bdca6b8730e3b123bb4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
