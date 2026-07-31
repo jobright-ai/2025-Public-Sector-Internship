@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a6cbee857120971bf3acdc6?utm_campaign=1056&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 31 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Congressional Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a5a062cc8e3a473cb8a97e4?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Jul 31 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2026 Strategy & Policy State Team Intern](https://jobright.ai/jobs/info/6a501ac0397d8d353c28de20?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 31 |
 | **[America's Poison Centers](https://aapcc.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a6ca4f757120971bf3ac4c3?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Jul 31 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 31 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Center on Sexual Exploitation](https://endsexualexploitation.org/)** | **[Internship: Public Policy (Winter 2027)](https://jobright.ai/jobs/info/6a6913a6ceb2691dfb207354?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Communications and Knowledge Management Intern (Home-based)](https://jobright.ai/jobs/info/6a6908a836d36c1ff2997b52?utm_campaign=1056&utm_source=git)** | Kansas, United States | Remote | Jul 28 |
 | **[University of Virginia](https://parking.virginia.edu/)** | **[Federal Work-Study (FWS) Internship Program: Student Employment Intern](https://jobright.ai/jobs/info/6a69079a3b549b0b531d373e?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 28 |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6900d75d01972698ee5d85?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
