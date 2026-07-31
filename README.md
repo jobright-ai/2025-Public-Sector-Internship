@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/6a5518a9268af95237be93c3?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jul 30 |
 | **[Any Baby Can](http://www.anybabycan.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a4e9ba215b4965afd583fe9?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 30 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[SIFMA](http://www.sifma.org/)** | **[Intern, Advocacy](https://jobright.ai/jobs/info/6a6af4ed57120971bf3a3e0d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a5219408576ec69c014a6b8?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Jul 29 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner Reece (4469-02)](https://jobright.ai/jobs/info/6a5a0b063ac7627fe9001fcf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 29 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a6acf8532f9300c3a3dab7c?utm_campaign=1056&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6c015c57120971bf3aa009?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Jul 29 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | Alabama, United States | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1f85c7e2d715ebaed51?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 29 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6a2b2819d76667a2abe013?utm_campaign=1056&utm_source=git)** | Tennessee, United States | Hybrid | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MSW Social Work Intern](https://jobright.ai/jobs/info/6a6a2aa719d76667a2abdfde?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | On Site | Jul 29 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Farnham Family Services](https://www.farnhaminc.org)** | **[Prevention Paid Intern](https://jobright.ai/jobs/info/6a68de37ceb2691dfb205da2?utm_campaign=1056&utm_source=git)** | Mexico, NY, United States | On Site | Jul 28 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6b133dacb0a61f9dbbe8f5?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Jul 28 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Planning Intern](https://jobright.ai/jobs/info/6a68dd3405bae84301b58f67?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 28 |
-| **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Administration Internship, North America Copyright](https://jobright.ai/jobs/info/6a68d877ceb2691dfb205936?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
