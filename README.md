@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6a6bec80c00ae03109f869b8?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
+| **[U.S. Energy](https://www.us-energy.com/)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6be5fb5c54bc4752ceb90a?utm_campaign=1056&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a5204fbae4052672fe9d3b4?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 30 |
 | **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a5138a0ae4052672fe97f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
 | **[City of North Las Vegas](https://www.cityofnorthlasvegas.com)** | **[City Clerk Intern (Fall)](https://jobright.ai/jobs/info/6a6bcd4bca1f9338465fc760?utm_campaign=1056&utm_source=git)** | North Las Vegas, NV, United States | On Site | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omnicom Public Relations](https://teamoprg.com)** | **[Public Affairs Intern-1](https://jobright.ai/jobs/info/6a563528e9b77f668bd61daf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/6a68cb5a3b549b0b531d1d61?utm_campaign=1056&utm_source=git)** | Delaware, OH, United States | On Site | Jul 28 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall NYNJ Regional Operations Intern](https://jobright.ai/jobs/info/6a68c7a23b549b0b531d1c47?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
-| ↳ | **[Fall San Diego Regional Intern](https://jobright.ai/jobs/info/6a68c79005bae84301b584f8?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 28 |
-| ↳ | **[Fall NYNJ Regional Operations Intern](https://jobright.ai/jobs/info/6a68c3287926035e09586d94?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
