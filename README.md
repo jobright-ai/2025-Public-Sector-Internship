@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/6a5518a9268af95237be93c3?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jul 30 |
+| **[Any Baby Can](http://www.anybabycan.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a4e9ba215b4965afd583fe9?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 30 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6a6bec80c00ae03109f869b8?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[U.S. Energy](https://www.us-energy.com/)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6be5fb5c54bc4752ceb90a?utm_campaign=1056&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a5204fbae4052672fe9d3b4?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 30 |
@@ -102,8 +104,10 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a5219408576ec69c014a6b8?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Jul 29 |
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner Reece (4469-02)](https://jobright.ai/jobs/info/6a5a0b063ac7627fe9001fcf?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 29 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Public Affairs Summer Internship - Early Careers](https://jobright.ai/jobs/info/6a6acf8532f9300c3a3dab7c?utm_campaign=1056&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 29 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6c015c57120971bf3aa009?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Jul 29 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51e37357513b72e0c6983b?utm_campaign=1056&utm_source=git)** | Alabama, United States | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1f85c7e2d715ebaed51?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 29 |
+| **[Coca-Cola Consolidated](http://www.cokeconsolidated.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a32158d35e80310003aaa53?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jul 29 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Government Affairs & Policy Intern](https://jobright.ai/jobs/info/6a6a6f1219d76667a2abfbb0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Democratic Socialists of America](https://dsausa.org)** | **[YDSA Intern](https://jobright.ai/jobs/info/6a6a834c48355b3f12bf17f4?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, TX, United States | On Site | Jul 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6b133dacb0a61f9dbbe8f5?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Jul 28 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Planning Intern](https://jobright.ai/jobs/info/6a68dd3405bae84301b58f67?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 28 |
 | **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Administration Internship, North America Copyright](https://jobright.ai/jobs/info/6a68d877ceb2691dfb205936?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
-| **[Charlottesville-UVA-Albemarle Emergency Communications Center](www.cua911.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/6a68d6caceb2691dfb205870?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 28 |
-| **[Omnicom Public Relations](https://teamoprg.com)** | **[Public Affairs Intern-1](https://jobright.ai/jobs/info/6a563528e9b77f668bd61daf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/6a68cb5a3b549b0b531d1d61?utm_campaign=1056&utm_source=git)** | Delaware, OH, United States | On Site | Jul 28 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Fall NYNJ Regional Operations Intern](https://jobright.ai/jobs/info/6a68c7a23b549b0b531d1c47?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
