@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Melanson](https://www.melansoncpas.com)** | **[Intern - Governmental Audit - Summer](https://jobright.ai/jobs/info/6a59d25ec8e3a473cb8a8768?utm_campaign=1056&utm_source=git)** | Merrimack, NH, United States | On Site | Jul 31 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
+| **[Frederick County Government, Maryland](https://www.frederickcountymd.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c63abc00ae03109f88b29?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/6a5518a9268af95237be93c3?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jul 30 |
 | **[Any Baby Can](http://www.anybabycan.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a4e9ba215b4965afd583fe9?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 30 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6a6bec80c00ae03109f869b8?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Intern to Commissioner- Driehaus (4853-02)](https://jobright.ai/jobs/info/6a5669db53b3962b910b016d?utm_campaign=1056&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 28 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a5138b102522b5b722e8842?utm_campaign=1056&utm_source=git)** | Donna, Texas, United States | On Site | Jul 28 |
 | **[DiasporaDNA Story Center](https://www.diasporadna.org/)** | **[Programs & Events Intern](https://jobright.ai/jobs/info/6a69044eceb2691dfb206ce2?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 28 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning Intern - Andover](https://jobright.ai/jobs/info/6a68e778ceb2691dfb206190?utm_campaign=1056&utm_source=git)** | Andover, Minnesota, United States | On Site | Jul 28 |
-| **[Farnham Family Services](https://www.farnhaminc.org)** | **[Prevention Paid Intern](https://jobright.ai/jobs/info/6a68de37ceb2691dfb205da2?utm_campaign=1056&utm_source=git)** | Mexico, NY, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
