@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a5204fbae4052672fe9d3b4?utm_campaign=1056&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 30 |
 | **[Center for a New American Security (CNAS)](http://www.cnas.org)** | **[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://jobright.ai/jobs/info/6a5138a0ae4052672fe97f1c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
 | **[City of North Las Vegas](https://www.cityofnorthlasvegas.com)** | **[City Clerk Intern (Fall)](https://jobright.ai/jobs/info/6a6bcd4bca1f9338465fc760?utm_campaign=1056&utm_source=git)** | North Las Vegas, NV, United States | On Site | Jul 30 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern - Treasure Valley](https://jobright.ai/jobs/info/6a6bcaf557120971bf3a8dbb?utm_campaign=1056&utm_source=git)** | Boise, ID, United States | On Site | Jul 30 |
@@ -114,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6a2b2819d76667a2abe013?utm_campaign=1056&utm_source=git)** | Tennessee, United States | Hybrid | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MSW Social Work Intern](https://jobright.ai/jobs/info/6a6a2aa719d76667a2abdfde?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | On Site | Jul 29 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall NYNJ Regional Operations Intern](https://jobright.ai/jobs/info/6a68c7a23b549b0b531d1c47?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
 | ↳ | **[Fall San Diego Regional Intern](https://jobright.ai/jobs/info/6a68c79005bae84301b584f8?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 28 |
 | ↳ | **[Fall NYNJ Regional Operations Intern](https://jobright.ai/jobs/info/6a68c3287926035e09586d94?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
-| **[Southwest Coalition, Inc.](https://swc.inc)** | **[Her Care Connection Intern](https://jobright.ai/jobs/info/6a55b90f2ce8bf79a139ff6d?utm_campaign=1056&utm_source=git)** | Las Cruces, NM, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
