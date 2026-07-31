@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring 2026 Internship - Housing](https://jobright.ai/jobs/info/6a5518a9268af95237be93c3?utm_campaign=1056&utm_source=git)** | Washington | On Site | Jul 30 |
 | **[Any Baby Can](http://www.anybabycan.org/)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a4e9ba215b4965afd583fe9?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 30 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6a6bec80c00ae03109f869b8?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a6ba745c00ae03109f85348?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6ba4b45c54bc4752cea2fa?utm_campaign=1056&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[FWD.us](http://www.fwd.us)** | **[Criminal Justice Reform and Crimmigration Research Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6b9fa4ca1f9338465fb80b?utm_campaign=1056&utm_source=git)** | Oakland, CA, United States | Hybrid | Jul 30 |
-| **[Actum](https://actumllc.com)** | **[Junior Associate](https://jobright.ai/jobs/info/6a6b9f065c54bc4752cea14e?utm_campaign=1056&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 30 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Michigan Organizing Intern](https://jobright.ai/jobs/info/6a5ad0c43ac7627fe9005248?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | Hybrid | Jul 30 |
 | **[McDermott Will & Schulte](https://www.mcdermottlaw.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a546e108ef95364ead958fb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a32f3b8f6b55d12c7916bf6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
@@ -121,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 29 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6a2b2819d76667a2abe013?utm_campaign=1056&utm_source=git)** | Tennessee, United States | Hybrid | Jul 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MSW Social Work Intern](https://jobright.ai/jobs/info/6a6a2aa719d76667a2abdfde?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | On Site | Jul 29 |
 | **[Push Digital Group](https://pushdigitalgroup.com)** | **[Drive Public Affairs Internship (Fall 2026)](https://jobright.ai/jobs/info/6a4507b88206850566059f01?utm_campaign=1056&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 29 |
