@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. AutoForce](https://www.usautoforce.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6ba4b45c54bc4752cea2fa?utm_campaign=1056&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[FWD.us](http://www.fwd.us)** | **[Criminal Justice Reform and Crimmigration Research Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6b9fa4ca1f9338465fb80b?utm_campaign=1056&utm_source=git)** | Oakland, CA, United States | Hybrid | Jul 30 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Michigan Organizing Intern](https://jobright.ai/jobs/info/6a5ad0c43ac7627fe9005248?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | Hybrid | Jul 30 |
-| **[McDermott Will & Schulte](https://www.mcdermottlaw.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a546e108ef95364ead958fb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
 | **[McDermott+](https://www.mcdermottplus.com)** | **[Health Policy Intern](https://jobright.ai/jobs/info/6a32f3b8f6b55d12c7916bf6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MAYOR’S OFFICE INTERNSHIP](https://jobright.ai/jobs/info/6a6b8a5cc00ae03109f8495a?utm_campaign=1056&utm_source=git)** | Chapel Hill, NC, United States | On Site | Jul 30 |
 | ↳ | **[Urban Government Intern I - Limited Service](https://jobright.ai/jobs/info/6a6b8a495c54bc4752ce99c1?utm_campaign=1056&utm_source=git)** | Detroit, MI, United States | On Site | Jul 30 |
@@ -100,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[ACORE](https://www.acore.org)** | **[ACORE Policy Intern](https://jobright.ai/jobs/info/6a6b272e32f9300c3a3dd67c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Jul 30 |
 | **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Policy Intern](https://jobright.ai/jobs/info/6a6b25e532f9300c3a3dd448?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Abortion Campaign Intern](https://jobright.ai/jobs/info/6a6b24db32f9300c3a3dd2af?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
+| ↳ | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/6a6c51385c54bc4752ced658?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Intern - StrategyCorp Institute of Public Policy and Economy](https://jobright.ai/jobs/info/6a6b23b2c00ae03109f821b0?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Jul 30 |
 | **[TruBlue of Phoenix and Scottsdale](https://www.trublueally.com)** | **[Research & Operations Intern / Senior Fall Risk Initiative](https://jobright.ai/jobs/info/6a59aab83ac7627fe9000463?utm_campaign=1056&utm_source=git)** | Flower Mound, TX, United States | On Site | Jul 30 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Coalition Defense of Taiwan](https://jobright.ai/jobs/info/6a57284221f64463ad3581ad?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
