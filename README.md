@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6e4750cd3bac13d3706f53?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Aug 01 |
+| **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Internship Enrolled Social Work Student - Adult Division](https://jobright.ai/jobs/info/6a6e5ef841b41d325296b676?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Aug 01 |
+| ↳ | **[Internship (Undergrad/ High School) - Public Defender (Fall)](https://jobright.ai/jobs/info/6a6e4750cd3bac13d3706f53?utm_campaign=1056&utm_source=git)** | Nashville, TN, United States | On Site | Aug 01 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Health Program](https://jobright.ai/jobs/info/6a5bafdac8e3a473cb8b0a8f?utm_campaign=1056&utm_source=git)** | Washington | On Site | Aug 01 |
 | **[Landrum & Brown](https://www.landrumbrown.com/en)** | **[Aviation Planning Intern](https://jobright.ai/jobs/info/69fc1c7da5949019c55b326e?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[City of Belmont, NC](https://cityofbelmont.org)** | **[Planning Intern](https://jobright.ai/jobs/info/6a5256c6d007ee02d95f7258?utm_campaign=1056&utm_source=git)** | Belmont, NC, United States | On Site | Aug 01 |
@@ -95,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[DOW SkillBridge International Affairs and Trade Policy Internship](https://jobright.ai/jobs/info/6a5ddd0427bf767ea68f3289?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 31 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women: Intern, Coordination Support, Office of the Deputy Executive Director (DEDO), New York, United States of America](https://jobright.ai/jobs/info/6a6a5aecc63ba56308f52b93?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 | ↳ | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a52f28693c23e7fb7a18f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
-| **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
