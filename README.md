@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Survey Center on American Life](https://jobright.ai/jobs/info/6a51d81f8d7d3e6cf1cc3b29?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 31 |
+| **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6a6cf3fa5c54bc4752cf050b?utm_campaign=1056&utm_source=git)** | Loveland, CO, United States | On Site | Jul 31 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[2026 Publicis Media Fall Internship - Chicago (Part-Time)](https://jobright.ai/jobs/info/6a5e459067b2850e77df00f8?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jul 31 |
-| ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a57705ea791c6211befe430?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
+| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a568bc053b3962b910b0f4f?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
+| ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jul 31 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Mayor's Office](https://jobright.ai/jobs/info/6a6d141c57120971bf3aee7e?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Jul 31 |
 | ↳ | **[Hourly Planning Intern](https://jobright.ai/jobs/info/6a6d1404acb0a61f9dbc8d12?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 31 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Human Services Intern](https://jobright.ai/jobs/info/6a6cf8435c54bc4752cf0643?utm_campaign=1056&utm_source=git)** | Beaufort, SC, United States | On Site | Jul 31 |
 | ↳ | **[Capitol Office Intern - Office of Senator Dahle (Sacramento, CA)](https://jobright.ai/jobs/info/6a6cf7d8acb0a61f9dbc82d1?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 31 |
 | **[Shionogi Canada Inc.](https://www.linkedin.com/company/65460243)** | **[Medical Affairs Intern– Shionogi Canada Inc.](https://jobright.ai/jobs/info/6a6cf6cf32f9300c3a3e645f?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 31 |
-| **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6a6cf3fa5c54bc4752cf050b?utm_campaign=1056&utm_source=git)** | Loveland, CO, United States | On Site | Jul 31 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[Zero Emmissions Paid Intern / Hybrid in Elizabeth, NJ](https://jobright.ai/jobs/info/6a6cf3d5ca1f933846601ab2?utm_campaign=1056&utm_source=git)** | Elizabeth, NJ, United States | Hybrid | Jul 31 |
 | **[Dauphin County Library System](http://www.dcls.org)** | **[Social Work Intern](https://jobright.ai/jobs/info/6a6cecbb5c54bc4752cf021d?utm_campaign=1056&utm_source=git)** | Harrisburg, PA, United States | On Site | Jul 31 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Campaign Finance Intern (Volunteer)](https://jobright.ai/jobs/info/6a6ce7c5acb0a61f9dbc7cfd?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 31 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Federal Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/6a4cb28d0209ea6fd684ff6e?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 31 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greif](http://greif.com)** | **[2026 Foundations Intern](https://jobright.ai/jobs/info/6a6a05bc0b42f866b6196475?utm_campaign=1056&utm_source=git)** | Delaware, United States | On Site | Jul 29 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Program Development Intern](https://jobright.ai/jobs/info/6a554bdbae07d60a8d01044d?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[City of Covington, Kentucky](https://thecovky.gov)** | **[Public Administration Intern (48470)](https://jobright.ai/jobs/info/6a69f62d19d76667a2abceae?utm_campaign=1056&utm_source=git)** | Covington, KY, United States | On Site | Jul 29 |
-| **[Wisconsin Foundation and Alumni Association](https://www.uwalumni.com/)** | **[Alumni Advocacy Intern](https://jobright.ai/jobs/info/6a69e79816c69119640fb780?utm_campaign=1056&utm_source=git)** | Madison, WI, United States | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
