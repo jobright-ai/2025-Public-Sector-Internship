@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
 | **[America's Poison Centers](https://aapcc.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a6fa232f5953013637f65af?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/6a6c51385c54bc4752ced658?utm_campaign=1056&utm_source=git)** | DC | Hybrid | Aug 02 |
 | **[United Way of Summit & Medina](https://www.uwsummit.org/)** | **[Social Work Intern, 2-1-1](https://jobright.ai/jobs/info/6a5c587ac8e3a473cb8b224a?utm_campaign=1056&utm_source=git)** | Akron, OH, United States | On Site | Aug 01 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[DOW SkillBridge International Affairs and Trade Policy Internship](https://jobright.ai/jobs/info/6a5ddd0427bf767ea68f3289?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 31 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government &amp; Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6c153732f9300c3a3e2512?utm_campaign=1056&utm_source=git)** | Bronx Zoo, New York, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP](http://www.undp.org)** | **[UN Women: Intern, Coordination Support, Office of the Deputy Executive Director (DEDO), New York, United States of America](https://jobright.ai/jobs/info/6a6a5db00b42f866b6198458?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Public Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a67af01d0fb4c3df393e3a1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women: Intern, Coordination Support, Office of the Deputy Executive Director (DEDO), New York, United States of America](https://jobright.ai/jobs/info/6a6a5aecc63ba56308f52b93?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Metrea](https://www.metrea.aero)** | **[Strategic Relations Intern](https://jobright.ai/jobs/info/6a6a55e819d76667a2abf0c7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
