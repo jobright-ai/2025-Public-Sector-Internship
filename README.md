@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma Department of Human Services](https://oklahoma.gov/okdhs.html)** | **[Child Welfare Intern - Fall '26](https://jobright.ai/jobs/info/6a6fc058f5953013637f67b5?utm_campaign=1056&utm_source=git)** | Anytown, OK, United States | On Site | Aug 02 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
 | **[America's Poison Centers](https://aapcc.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a6fa232f5953013637f65af?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Polling and Outreach Intern](https://jobright.ai/jobs/info/6a6c51385c54bc4752ced658?utm_campaign=1056&utm_source=git)** | DC | Hybrid | Aug 02 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Survey Center on American Life](https://jobright.ai/jobs/info/6a51d81f8d7d3e6cf1cc3b29?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Jul 31 |
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6a6cf3fa5c54bc4752cf050b?utm_campaign=1056&utm_source=git)** | Loveland, CO, United States | On Site | Jul 31 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[2026 Publicis Media Fall Internship - Chicago (Part-Time)](https://jobright.ai/jobs/info/6a5e459067b2850e77df00f8?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a57705ea791c6211befe430?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
+| **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a568bc053b3962b910b0f4f?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
 | ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jul 31 |
 | ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Mayor's Office](https://jobright.ai/jobs/info/6a6d141c57120971bf3aee7e?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Public Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a637b19d76667a2abf582?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[UNDP](http://www.undp.org)** | **[UN Women: Intern, Coordination Support, Office of the Deputy Executive Director (DEDO), New York, United States of America](https://jobright.ai/jobs/info/6a6a5db00b42f866b6198458?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Public Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a67af01d0fb4c3df393e3a1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[UN Women](http://www.unwomen.org/en)** | **[UN Women: Intern, Coordination Support, Office of the Deputy Executive Director (DEDO), New York, United States of America](https://jobright.ai/jobs/info/6a6a5aecc63ba56308f52b93?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
