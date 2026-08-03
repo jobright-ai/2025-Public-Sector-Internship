@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Care Administrators Association® (HCAA)](https://www.hcaa.org/)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6a6fe5dcf5953013637f6c93?utm_campaign=1056&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 02 |
 | **[Oklahoma Department of Human Services](https://oklahoma.gov/okdhs.html)** | **[Child Welfare Intern - Fall '26](https://jobright.ai/jobs/info/6a6fc058f5953013637f67b5?utm_campaign=1056&utm_source=git)** | Anytown, OK, United States | On Site | Aug 02 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
 | **[America's Poison Centers](https://aapcc.org)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a6fa232f5953013637f65af?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Grant Research & Writing Intern](https://jobright.ai/jobs/info/6a6a722cc63ba56308f5352f?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 29 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Public Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a637b19d76667a2abf582?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[UNDP](http://www.undp.org)** | **[UN Women: Intern, Coordination Support, Office of the Deputy Executive Director (DEDO), New York, United States of America](https://jobright.ai/jobs/info/6a6a5db00b42f866b6198458?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Public Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a67af01d0fb4c3df393e3a1?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
