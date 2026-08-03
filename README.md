@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a702926160eda5948e8d7c2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 02 |
 | **[GCSAA](https://www.gcsaa.org/)** | **[Government Affairs Special Projects Intern](https://jobright.ai/jobs/info/6a5f89ed8c7fd835513b9820?utm_campaign=1056&utm_source=git)** | Lawrence, KS, United States | On Site | Aug 02 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Community Impact and Engagement Intern](https://jobright.ai/jobs/info/6a5d7066856af468ab010fc9?utm_campaign=1056&utm_source=git)** | Woodland Hills, CA, United States | On Site | Aug 02 |
 | **[CARE](http://www.care.org/)** | **[INTERN, CARBON FINANCING](https://jobright.ai/jobs/info/6a5d6e37c8e3a473cb8b434a?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 02 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6a6cf3fa5c54bc4752cf050b?utm_campaign=1056&utm_source=git)** | Loveland, CO, United States | On Site | Jul 31 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[2026 Publicis Media Fall Internship - Chicago (Part-Time)](https://jobright.ai/jobs/info/6a5e459067b2850e77df00f8?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Jul 31 |
+| ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a57705ea791c6211befe430?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
 | ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jul 31 |
-| ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a568bc053b3962b910b0f4f?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Mayor's Office](https://jobright.ai/jobs/info/6a6d141c57120971bf3aee7e?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Jul 31 |
 | ↳ | **[Hourly Planning Intern](https://jobright.ai/jobs/info/6a6d1404acb0a61f9dbc8d12?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 31 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Community Services & Resettlement Internship](https://jobright.ai/jobs/info/6a6d024632f9300c3a3e682d?utm_campaign=1056&utm_source=git)** | Manchester, NH, United States | Hybrid | Jul 31 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Westwin Elements](https://www.westwinelements.com/)** | **[DOW SkillBridge International Affairs and Trade Policy Internship](https://jobright.ai/jobs/info/6a5ddd0427bf767ea68f3289?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 31 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Corrections Analyst (Spring)](https://jobright.ai/jobs/info/6a6c2bf5ca1f9338465fe266?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 30 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a52fa5c8ef95364ead908ec?utm_campaign=1056&utm_source=git)** | Midland, TX, United States | On Site | Jul 30 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Union Undergraduate Year-Round - Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a6c25555c54bc4752cecb07?utm_campaign=1056&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a6c2507ca1f9338465fe0cf?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
 | **[Frederick County Government, Maryland](https://www.frederickcountymd.gov)** | **[Internship- Civic Engagement](https://jobright.ai/jobs/info/6a700b1041b41d325296dbea?utm_campaign=1056&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Asylum Seekers and Families Program Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1f85c7e2d715ebaed51?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 29 |
 | **[Coca-Cola Consolidated](http://www.cokeconsolidated.com)** | **[Government Relations Intern](https://jobright.ai/jobs/info/6a32158d35e80310003aaa53?utm_campaign=1056&utm_source=git)** | Columbus, OH | On Site | Jul 29 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/6a519da3bf63b66c7997a867?utm_campaign=1056&utm_source=git)** | Lufkin, TX, United States | On Site | Jul 29 |
-| **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Grant Research & Writing Intern](https://jobright.ai/jobs/info/6a6aa2f716c69119640ff458?utm_campaign=1056&utm_source=git)** | Canada | Remote | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
