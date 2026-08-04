@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Community & Indigenous Relations Intern (September 2026)](https://jobright.ai/jobs/info/6a5504c0ae07d60a8d00e4f5?utm_campaign=1056&utm_source=git)** | Burnaby, BC, Canada | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69c8faa683ea553769fedd77?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | ↳ | **[AMS Public Policy Project Intern (Global Public Policy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b00b3aa0c479643ab30f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 04 |
 | **[Family Care Health Centers](https://familycarehealthcenters.org/)** | **[BEHAVIORAL HEALTH ADMIN INTERN](https://jobright.ai/jobs/info/6a71006fee751e0c79341f92?utm_campaign=1056&utm_source=git)** | University City, Missouri, United States | On Site | Aug 04 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a7183859a0ca4480c7d476a?utm_campaign=1056&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a51d984bf63b66c7997ddfb?utm_campaign=1056&utm_source=git)** | Fort Bragg, NC, United States | On Site | Aug 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern (Graduate)](https://jobright.ai/jobs/info/6a7179049a0ca4480c7d4613?utm_campaign=1056&utm_source=git)** | Chula Vista, CA, United States | On Site | Aug 03 |
-| **[Boeing](https://www.boeing.com)** | **[Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability](https://jobright.ai/jobs/info/6a70fa4c9a0ca4480c7d23c1?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 03 |
+| **[Boeing](https://www.boeing.com)** | **[Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability](https://jobright.ai/jobs/info/6a70fa4a71acd469eeda0e9c?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 03 |
 | **[Greater Des Moines Partnership](https://www.dsmpartnership.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a70c9a8cb96192a36845990?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 03 |
 | **[Provo City](http://www.provo.org/)** | **[Mayor's Office Intern](https://jobright.ai/jobs/info/6a712e6302d93145bf88e90f?utm_campaign=1056&utm_source=git)** | Provo, UT, United States | On Site | Aug 03 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a71191ccb96192a36847a1c?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 03 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6a6cf3fa5c54bc4752cf050b?utm_campaign=1056&utm_source=git)** | Loveland, CO, United States | On Site | Jul 31 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[2026 Publicis Media Fall Internship - Chicago (Part-Time)](https://jobright.ai/jobs/info/6a5e459067b2850e77df00f8?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a57705ea791c6211befe430?utm_campaign=1056&utm_source=git)** | Portland,Maine,United States | Hybrid | Jul 31 |
-| ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Jul 31 |
 | ↳ | **[Communications, Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a39ad72649fdf1629302626?utm_campaign=1056&utm_source=git)** | Portland, Maine, United States | Hybrid | Jul 31 |
+| ↳ | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Mayor's Office](https://jobright.ai/jobs/info/6a6d141c57120971bf3aee7e?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Jul 31 |
 | ↳ | **[Hourly Planning Intern](https://jobright.ai/jobs/info/6a6d1404acb0a61f9dbc8d12?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 31 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Public Health (Fall 2026)](https://jobright.ai/jobs/info/6a7106b1cb96192a36847541?utm_campaign=1056&utm_source=git)** | Oklahoma, United States | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CALSTART](http://www.calstart.org)** | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6bb369acb0a61f9dbc25c9?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
 | ↳ | **[Policy Development & Support Intern](https://jobright.ai/jobs/info/6a6badbfc00ae03109f854c6?utm_campaign=1056&utm_source=git)** | United States | Remote | Jul 30 |
 | ↳ | **[Community Engagement Intern, CMO](https://jobright.ai/jobs/info/6a6baa7432f9300c3a3e02f6?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 30 |
-| **[U.S. AutoForce](https://www.usautoforce.com)** | **[Energy Services Intern - U.S. Energy](https://jobright.ai/jobs/info/6a6ba4b45c54bc4752cea2fa?utm_campaign=1056&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
