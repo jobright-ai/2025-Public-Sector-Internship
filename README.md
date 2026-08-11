@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Social Work Intern, Unpaid](https://jobright.ai/jobs/info/6a7a83bfb17cba5690367747?utm_campaign=1056&utm_source=git)** | Vienna, VA, United States | Remote | Aug 10 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Internship - MCEB](https://jobright.ai/jobs/info/6a7a79e8ab1385611f8ff52e?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Paid BOS Legislative Intern/YAC Coordinator - 4th District (La Quinta)](https://jobright.ai/jobs/info/6a7a34fdbb6ca93ae561a738?utm_campaign=1056&utm_source=git)** | La Quinta | On Site | Aug 10 |
 | **[EPCOR](http://www.epcor.com)** | **[Intern, Government Relations](https://jobright.ai/jobs/info/6a7a4b3f9ee17f276dbf26c9?utm_campaign=1056&utm_source=git)** | Glendale, AZ, United States | On Site | Aug 10 |
@@ -139,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[The Ruth Project](http://ruthproj.org)** | **[Legislative and Organizing Intern - New Jersey](https://jobright.ai/jobs/info/6a74db31bb6ca93ae560c4e2?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Hybrid | Aug 06 |
 | **[PhRMA](http://phrma.org/)** | **[Fall Internship, International Advocacy](https://jobright.ai/jobs/info/6a57d1e6efb06a45240dd6ed?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 06 |
 | **[Citymeals on Wheels](https://www.citymeals.org/)** | **[Policy and Advocacy Internship](https://jobright.ai/jobs/info/6a74e18920b26a6e93f49739?utm_campaign=1056&utm_source=git)** | Manhattan, NY, United States | Hybrid | Aug 06 |
-| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7218ad71acd469eeda5ee1?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72182bee751e0c79346c87?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
+| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72182bee751e0c79346c87?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72ed885049141ad172bddf?utm_campaign=1056&utm_source=git)** | Northern Utah, United States | Hybrid | Aug 06 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Northern Utah, United States | Hybrid | Aug 06 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7218ad71acd469eeda5ee1?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6a74bef520b26a6e93f48ad0?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 06 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72166471acd469eeda5dce?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 06 |
 | **[PhRMA](http://phrma.org/)** | **[Fall Internship, Public Affairs](https://jobright.ai/jobs/info/6a57d1cde9b77f668bd6b009?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://dss.sd.gov)** | **[Legislative Intern (Spring)](https://jobright.ai/jobs/info/6a7388541ce9647cdbca8bb5?utm_campaign=1056&utm_source=git)** | Pierre, SD, United States | On Site | Aug 05 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator Durazo (Los Angeles, CA)](https://jobright.ai/jobs/info/6a73d5b11ce9647cdbcaa4cd?utm_campaign=1056&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 05 |
 | **[State of Florida](http://www.myflorida.com)** | **[DOT INTERN - D5 - 55950052](https://jobright.ai/jobs/info/6a74b4e1bb6ca93ae560b613?utm_campaign=1056&utm_source=git)** | DeLand, FL, United States | On Site | Aug 05 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Defense Policy Intern (Volunteer)](https://jobright.ai/jobs/info/6a73d1028cd88e7ccbf5a8f5?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States | Remote | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
