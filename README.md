@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
+| **[New York State Office of Mental Health](https://omh.ny.gov)** | **[School Aid Intern](https://jobright.ai/jobs/info/6a7b40213b399d106e4d531a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Procurement Internship](https://jobright.ai/jobs/info/6a71f7dfcb96192a3684b1a4?utm_campaign=1056&utm_source=git)** | Solon, OH, United States | Hybrid | Aug 11 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a7b1bdeecf5194164fbbffa?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6c015c57120971bf3aa009?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Aug 07 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a76549dbb6ca93ae56121b5?utm_campaign=1056&utm_source=git)** | Spokane, WA, United States | On Site | Aug 07 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Community Services Internship](https://jobright.ai/jobs/info/6a638f63979290281c702b1c?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Aug 07 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 07 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a6eb9dff5953013637f53cc?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 07 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://jobright.ai/jobs/info/6a724d5345b6af1c30dbdde6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 07 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Public Services Student Intern (Plan II Majors Only)](https://jobright.ai/jobs/info/6a60ed80ab9bd4676324922b?utm_campaign=1056&utm_source=git)** | UT Main Campus, United States | On Site | Aug 07 |
 | **[City of Rochester, Michigan](http://rochestermi.org)** | **[City Council Intern](https://jobright.ai/jobs/info/6a76dce54817aa43070497c1?utm_campaign=1056&utm_source=git)** | Rochester, MI, United States | On Site | Aug 07 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/6a75192337da8525e8cdc6d2?utm_campaign=1056&utm_source=git)** | Pico Rivera, CA, United States | On Site | Aug 06 |
 | **[Tanager](https://tanagerplace.org)** | **[Philanthropy Internship](https://jobright.ai/jobs/info/6a7510e27b3417772ade34e9?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Aug 06 |
 | **[City of La Porte](http://www.laportetx.gov/)** | **[Fall Internship - Office of Emergency Management](https://jobright.ai/jobs/info/6a74f42120b26a6e93f49ec2?utm_campaign=1056&utm_source=git)** | La Porte, TX, United States | On Site | Aug 06 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern (Volunteer)](https://jobright.ai/jobs/info/6a75100cb17cba569035936f?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Aug 06 |
 | **[Clean Tomorrow](https://cleantomorrow.org)** | **[Innovation Analyst (Part-Time Intern)](https://jobright.ai/jobs/info/6a74ef9120b26a6e93f49c5e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Remote | Aug 06 |
 | **[Aquia Group](www.aquiagroup.com)** | **[Technology & AI Policy Internship](https://jobright.ai/jobs/info/6a74eeecbb6ca93ae560cc3a?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 06 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[PhRMA](http://phrma.org/)** | **[Fall Internship, International Advocacy](https://jobright.ai/jobs/info/6a57d1e6efb06a45240dd6ed?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 06 |
 | **[Citymeals on Wheels](https://www.citymeals.org/)** | **[Policy and Advocacy Internship](https://jobright.ai/jobs/info/6a74e18920b26a6e93f49739?utm_campaign=1056&utm_source=git)** | Manhattan, NY, United States | Hybrid | Aug 06 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72ed885049141ad172bddf?utm_campaign=1056&utm_source=git)** | Northern Utah, United States | Hybrid | Aug 06 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72182bee751e0c79346c87?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7218ad71acd469eeda5ee1?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Northern Utah, United States | Hybrid | Aug 06 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7218ad71acd469eeda5ee1?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72182bee751e0c79346c87?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 06 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6a74bef520b26a6e93f48ad0?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 06 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72166471acd469eeda5dce?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
