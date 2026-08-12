@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a7bad5cecfd29770753a7fa?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 11 |
+| **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a7b8a263b399d106e4d745d?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | Remote | Aug 11 |
 | **[Right On Crime](https://rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/6a566bc5efb06a45240d5c40?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 11 |
 | **[Impact Public Affairs (Canada)](https://www.impactcanada.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a7b8c3e77e6b569c61c17bc?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 11 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 11 |
-| **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a7b8a263b399d106e4d745d?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | Remote | Aug 11 |
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[Renewable Energy Policy Intern](https://jobright.ai/jobs/info/6a7b8a203b399d106e4d7458?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 11 |
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/6a7b651177e6b569c61c0303?utm_campaign=1056&utm_source=git)** | Greenville, SC, United States | Hybrid | Aug 11 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[School Aid Intern](https://jobright.ai/jobs/info/6a7b40213b399d106e4d531a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Procurement Internship](https://jobright.ai/jobs/info/6a71f7dfcb96192a3684b1a4?utm_campaign=1056&utm_source=git)** | Solon, OH, United States | Hybrid | Aug 11 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a7b1bdeecf5194164fbbffa?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Sustainability Intern - Fall 2026](https://jobright.ai/jobs/info/6a7662b14817aa4307048391?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 07 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[PAID Fall/Winter 2026 Grassroots Organizer Internship: Community Health and Corporate Accountability](https://jobright.ai/jobs/info/6a76426eb17cba569035d5b9?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 07 |
 | ↳ | **[Environmental Organizer Full Time/Part Time/Internship](https://jobright.ai/jobs/info/6a7653ebb17cba569035dc61?utm_campaign=1056&utm_source=git)** | Northampton, MA, United States | On Site | Aug 07 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6af5a232f9300c3a3dbf03?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Aug 07 |
-| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6c015c57120971bf3aa009?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Aug 07 |
+| **[AARP](http://www.aarp.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6c015c57120971bf3aa009?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Aug 07 |
+| ↳ | **[Advocacy Intern](https://jobright.ai/jobs/info/6a6af5a232f9300c3a3dbf03?utm_campaign=1056&utm_source=git)** | Franklin, TN, United States | Hybrid | Aug 07 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a76549dbb6ca93ae56121b5?utm_campaign=1056&utm_source=git)** | Spokane, WA, United States | On Site | Aug 07 |
 | **[International Institute of New England](https://iine.org/)** | **[Fall 2026 Community Services Internship](https://jobright.ai/jobs/info/6a638f63979290281c702b1c?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Aug 07 |
 | **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a6eb9dff5953013637f53cc?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Year-Round Graduate Intern - Public Information Outreach - Division of Board Members](https://jobright.ai/jobs/info/6a74ffb17b3417772ade2d51?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/6a75192337da8525e8cdc6d2?utm_campaign=1056&utm_source=git)** | Pico Rivera, CA, United States | On Site | Aug 06 |
 | **[Tanager](https://tanagerplace.org)** | **[Philanthropy Internship](https://jobright.ai/jobs/info/6a7510e27b3417772ade34e9?utm_campaign=1056&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Aug 06 |
-| **[City of La Porte](http://www.laportetx.gov/)** | **[Fall Internship - Office of Emergency Management](https://jobright.ai/jobs/info/6a74f42120b26a6e93f49ec2?utm_campaign=1056&utm_source=git)** | La Porte, TX, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
