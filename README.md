@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Kentucky](https://www.uky.edu)** | **[Undergraduate Communications Intern - EPIC/CAER](https://jobright.ai/jobs/info/6a7ded4de51a1e18a240afe5?utm_campaign=1056&utm_source=git)** | Lexington metropolitan area, United States | On Site | Aug 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Medical Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a61394ad51f6101c8fba5f4?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Aug 13 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2026 Fall Internship Application](https://jobright.ai/jobs/info/6a5ff518f68dd368023e9ca9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 12 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Indigenous Intern, Mortgage Services](https://jobright.ai/jobs/info/6a6016f8f68dd368023ea62e?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[Renewable Energy Policy Intern](https://jobright.ai/jobs/info/6a7b8a203b399d106e4d7458?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 12 |
-| **[NSF](http://www.nsf.org)** | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7be383b933773d16be9766?utm_campaign=1056&utm_source=git)** | Ontario, Canada | Hybrid | Aug 11 |
-| ↳ | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd2c7ecfd29770753afc1?utm_campaign=1056&utm_source=git)** | Guelph, ON, Canada | Hybrid | Aug 11 |
+| **[NSF](http://www.nsf.org)** | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd2c7ecfd29770753afc1?utm_campaign=1056&utm_source=git)** | Guelph, ON, Canada | Hybrid | Aug 11 |
+| ↳ | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd1b6b933773d16be9589?utm_campaign=1056&utm_source=git)** | Ontario, Canada | Hybrid | Aug 11 |
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[School Aid Intern](https://jobright.ai/jobs/info/6a7b40213b399d106e4d531a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Procurement Internship](https://jobright.ai/jobs/info/6a71f7dfcb96192a3684b1a4?utm_campaign=1056&utm_source=git)** | Solon, OH, United States | Hybrid | Aug 11 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a7b1bdeecf5194164fbbffa?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Biasly](https://www.biasly.com/verify-your-email/?email=)** | **[Political Science Internship at Biasly](https://jobright.ai/jobs/info/6a7c2fa8dc3dff2d1c0c6350?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 08 |
 | **[Orleans Public Defenders](https://opdla.org/)** | **[Social Work Internship Program (Spring, 2027)](https://jobright.ai/jobs/info/6a780294b17cba56903610f4?utm_campaign=1056&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 08 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
-| ↳ | **[Fall 2026 - Public Affairs Internship, New York](https://jobright.ai/jobs/info/6a5a7b6d4da96a42cfd9636b?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
