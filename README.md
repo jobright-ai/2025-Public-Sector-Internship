@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Government & Community Affairs Intern - Fall 2026](https://jobright.ai/jobs/info/6a6790115d2a117fb9cec12e?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6a7ce33a83621355407ac849?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator McNerney (Stockton. CA)](https://jobright.ai/jobs/info/6a7d020783621355407ad232?utm_campaign=1056&utm_source=git)** | Stockton, CA, United States | On Site | Aug 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orleans Public Defenders](https://opdla.org/)** | **[Social Work Internship Program (Spring, 2027)](https://jobright.ai/jobs/info/6a780294b17cba56903610f4?utm_campaign=1056&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 08 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5a823bc8e3a473cb8ac21b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
 | ↳ | **[Fall 2026 - Public Affairs Internship, New York](https://jobright.ai/jobs/info/6a5a7b6d4da96a42cfd9636b?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
-| ↳ | **[Fall 2026 - Public Affairs Internship, Washington DC](https://jobright.ai/jobs/info/6a5ae4f463a8f619507c8f99?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
