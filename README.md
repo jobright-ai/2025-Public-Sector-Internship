@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator McNerney (Stockton. CA)](https://jobright.ai/jobs/info/6a7d020783621355407ad232?utm_campaign=1056&utm_source=git)** | Stockton, CA, United States | On Site | Aug 12 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Division of Safety & Health Internship - Hourly - Utica](https://jobright.ai/jobs/info/6a7cf44ea346cb6c8d5f10fa?utm_campaign=1056&utm_source=git)** | Utica, NY, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a7ce65a77d5f033c4b915e5?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6a7ce33a83621355407ac849?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
-| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8ac1ecfd297707539d36?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
+| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8eb2ecfd297707539fcb?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 11 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7cd97c83621355407ac3f0?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MikeWorldWide](http://www.mww.com)** | **[Fall Intern: Government Relations & Public Affairs](https://jobright.ai/jobs/info/6a7737c867a1ad0bc53cc238?utm_campaign=1056&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship Masters Level 2026- 2027 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f238?utm_campaign=1056&utm_source=git)** | Gaithersburg, MD | On Site | Aug 08 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Healthcare Core - Internship](https://jobright.ai/jobs/info/6a761d807b3417772ade6cbf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 08 |
-| **[Karp Strategies](https://www.karpstrategies.com/)** | **[Graduate Analyst - Paid Intern / Fall 2026](https://jobright.ai/jobs/info/6a6a509119d76667a2abeeab?utm_campaign=1056&utm_source=git)** | New York, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
