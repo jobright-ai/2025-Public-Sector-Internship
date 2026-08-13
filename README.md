@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly Housing Authority Intern](https://jobright.ai/jobs/info/6a7e377d19ce4e6e9d93212c?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Aug 13 |
 | **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7e1967ad9ff00c26ba9d42?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Aug 13 |
 | **[Hathaway Strategies](https://www.hathawaystrategies.com/)** | **[Intern](https://jobright.ai/jobs/info/6a7e13e619ce4e6e9d931332?utm_campaign=1056&utm_source=git)** | Greater Indianapolis | On Site | Aug 13 |
 | **[Akin Gump Strauss Hauer & Feld LLP](https://www.akingump.com/)** | **[Practice Management Intern (Public Law & Policy)](https://jobright.ai/jobs/info/6a6b81b932f9300c3a3df4c6?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7ccedddc3dff2d1c0c92c4?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Aug 12 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Junior Policy Analyst (Internship)](https://jobright.ai/jobs/info/6a7b8e70ecf5194164fbf038?utm_campaign=1056&utm_source=git)** | Dartmouth, NS, Canada | On Site | Aug 12 |
 | **[Teacher Retirement System of Texas](https://www.trs.texas.gov/Pages/Homepage.aspx)** | **[Culture and Experience (CX) Engagement Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7cbc7e77d5f033c4b904fb?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 12 |
-| **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Partnerships & Community Outreach Intern](https://jobright.ai/jobs/info/6a7cbc55dc3dff2d1c0c8c8d?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Public Sector Workforce Programs Intern](https://jobright.ai/jobs/info/6a7cbb3da346cb6c8d5efbb0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 12 |
 | ↳ | **[Fall 2026 Leadership and Program Delivery Intern](https://jobright.ai/jobs/info/6a7cbb38dc3dff2d1c0c8beb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 12 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Operations and Engagement Intern - Tanner Foundation (Days) (Part-Time)](https://jobright.ai/jobs/info/6a7c7bbc7c52154b59f5a21d?utm_campaign=1056&utm_source=git)** | Carrollton, GA, United States | On Site | Aug 12 |
