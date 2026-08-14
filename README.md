@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a5204fbae4052672fe9d3b4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6a7e040fe2030208f2766f45?utm_campaign=1056&utm_source=git)** | Concord, NH, United States | Hybrid | Aug 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly Housing Authority Intern](https://jobright.ai/jobs/info/6a7e377d19ce4e6e9d93212c?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Aug 13 |
 | **[Panasonic Appliances Refrigeration Systems de México S. A. de C. V.](https://www.hussmann.com/en)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7e1967ad9ff00c26ba9d42?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | Hybrid | Aug 13 |
@@ -123,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 11 |
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Aug 11 |
-| **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
-| ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
+| **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
+| ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[School Aid Intern](https://jobright.ai/jobs/info/6a7b40213b399d106e4d531a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Procurement Internship](https://jobright.ai/jobs/info/6a71f7dfcb96192a3684b1a4?utm_campaign=1056&utm_source=git)** | Solon, OH, United States | Hybrid | Aug 11 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a7b1bdeecf5194164fbbffa?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Convention of States](http://conventionofstates.com)** | **[Emerging Leaders Program Internship 2027-2028 (Waitlist)](https://jobright.ai/jobs/info/6a79f44367a1ad0bc53d0adf?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[PCEF Capacity Building and Community Grants Program Internship (Community Service Aide II)](https://jobright.ai/jobs/info/6a79854967a1ad0bc53cf0cd?utm_campaign=1056&utm_source=git)** | Portland, OR, United States | Hybrid | Aug 10 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Fall 2026 Partnerships & Organizing Internship/Practicum](https://jobright.ai/jobs/info/6a76de5dbb6ca93ae5613bcf?utm_campaign=1056&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 09 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[MC Planning Board Intern II](https://jobright.ai/jobs/info/6a78d32f4817aa430704c1d8?utm_campaign=1056&utm_source=git)** | Wheaton, MD, United States | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
