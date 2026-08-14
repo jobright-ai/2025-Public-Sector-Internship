@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ventureLAB](http://www.venturelab.ca/)** | **[Government & External Relations Intern (With Allowance)](https://jobright.ai/jobs/info/6a7e979ee51a1e18a240e6ce?utm_campaign=1056&utm_source=git)** | Markham, ON, Canada | On Site | Aug 13 |
 | **[California Ocean Science Trust](https://www.oceansciencetrust.org)** | **[Creating a Land Acknowledgement Statement and Exploring Ocean Policy as an OST Intern](https://jobright.ai/jobs/info/6a7e8168e51a1e18a240e416?utm_campaign=1056&utm_source=git)** | Indiana, United States | On Site | Aug 13 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[CDC Toxicosurveillance and Environmental Health Fellowship](https://jobright.ai/jobs/info/6a7e74c7e51a1e18a240e19f?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 13 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Economic Policy Project](https://jobright.ai/jobs/info/6a5204fbae4052672fe9d3b4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Circuit Court Casework Services](https://jobright.ai/jobs/info/6a7e9b3bad9ff00c26bab6fd?utm_campaign=1056&utm_source=git)** | Pontiac, MI, United States | On Site | Aug 13 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7e74a9e51a1e18a240e199?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | On Site | Aug 13 |
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Communications Intern](https://jobright.ai/jobs/info/6a7e040fe2030208f2766f45?utm_campaign=1056&utm_source=git)** | Concord, NH, United States | Hybrid | Aug 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Hourly Housing Authority Intern](https://jobright.ai/jobs/info/6a7e377d19ce4e6e9d93212c?utm_campaign=1056&utm_source=git)** | Iowa City, IA, United States | On Site | Aug 13 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 12 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Indigenous Intern, Mortgage Services](https://jobright.ai/jobs/info/6a6016f8f68dd368023ea62e?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[Renewable Energy Policy Intern](https://jobright.ai/jobs/info/6a7b8a203b399d106e4d7458?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 12 |
-| **[NSF](http://www.nsf.org)** | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd1b6b933773d16be9589?utm_campaign=1056&utm_source=git)** | Ontario, Canada | Hybrid | Aug 11 |
-| ↳ | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd2c7ecfd29770753afc1?utm_campaign=1056&utm_source=git)** | Guelph, ON, Canada | Hybrid | Aug 11 |
+| **[NSF](http://www.nsf.org)** | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd2c7ecfd29770753afc1?utm_campaign=1056&utm_source=git)** | Guelph, ON, Canada | Hybrid | Aug 11 |
+| ↳ | **[Supply Chain Food Safety Intern](https://jobright.ai/jobs/info/6a7bd1b6b933773d16be9589?utm_campaign=1056&utm_source=git)** | Ontario, Canada | Hybrid | Aug 11 |
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a39ad7e6484fb75f2b33244?utm_campaign=1056&utm_source=git)** | Charleston, WV, United States | Hybrid | Aug 11 |
 | **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Procurement Internship](https://jobright.ai/jobs/info/6a71f7dfcb96192a3684b1a4?utm_campaign=1056&utm_source=git)** | Solon, OH, United States | Hybrid | Aug 11 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a7b1bdeecf5194164fbbffa?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Legislative Planning Intern - Planning and Development](https://jobright.ai/jobs/info/6a7a1b6c67a1ad0bc53d19b1?utm_campaign=1056&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 10 |
 | **[ACLU of North Carolina](https://www.acluofnorthcarolina.org)** | **[ACLU-NC Development Intern](https://jobright.ai/jobs/info/6a6784d05d2a117fb9cebc07?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 10 |
 | **[SEMI](http://semi.org/)** | **[Intern, Public Policy & Advocacy](https://jobright.ai/jobs/info/6a7a5d31bb6ca93ae561b715?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 10 |
-| **[Charlottesville-UVA-Albemarle Emergency Communications Center](www.cua911.gov)** | **[Planning Intern](https://jobright.ai/jobs/info/6a68d6caceb2691dfb205870?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Aug 10 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Economic Development Summer Internship 2026-2027](https://jobright.ai/jobs/info/6a79fd19ab1385611f8fca52?utm_campaign=1056&utm_source=git)** | High Springs, FL, United States | Hybrid | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
