@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a7f8e4b19ce4e6e9d9392b5?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a7fa96de51a1e18a2414e07?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
+| **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a75f57db17cba569035bdac?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Aug 14 |
 | **[JFSA Cleveland](https://www.jfsa-cleveland.org)** | **[Strengthening Families Paid Intern](https://jobright.ai/jobs/info/6a7f80fae2030208f276ee31?utm_campaign=1056&utm_source=git)** | Pepper Pike, OH, United States | On Site | Aug 14 |
+| **[Kearney & Company](http://www.kearneyco.com)** | **[Spring 2027 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/6a7a3615a26ccc369f83d1e0?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Christopher Street Project](https://christopherstreetproject.org)** | **[Fall Internship](https://jobright.ai/jobs/info/6a7f7af3ad9ff00c26bae755?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Meet Minneapolis](http://www.minneapolis.org)** | **[Equity & Community Impact Intern](https://jobright.ai/jobs/info/6a7f7444e2030208f276e389?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 14 |
 | **[Hemophilia of Georgia](https://www.hog.org/)** | **[Intern- Data Evaluation – Health Policy](https://jobright.ai/jobs/info/6a7f647fe51a1e18a24122fa?utm_campaign=1056&utm_source=git)** | Sandy Springs, GA, United States | Hybrid | Aug 14 |
@@ -126,8 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Bread for the World](https://www.bread.org/)** | **[International Policy Research Intern](https://jobright.ai/jobs/info/6a7cd73277d5f033c4b90e1d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 | **[CARE](http://www.care.org/)** | **[INTERN, CLIMATE ADAPTATION KNOWLEDGE MANAGEMENT](https://jobright.ai/jobs/info/6a7c85f4dc3dff2d1c0c709b?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 12 |
 | **[Bread for the World](https://www.bread.org/)** | **[International Policy Intern, Government Relations](https://jobright.ai/jobs/info/6a7cd77e83621355407ac2ae?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
-| **[Delta Air Lines](https://www.delta.com)** | **[Intern, Government Affairs (Summer 2027)](https://jobright.ai/jobs/info/6a5fbe898c7fd835513badb9?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
-| ↳ | **[Intern, Government Affairs (Spring 2027)](https://jobright.ai/jobs/info/6a5fbdfb8c7fd835513bad73?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[Public Service Aide - Associate to Professionals - SFPUC Internship, 2026 (9922)](https://jobright.ai/jobs/info/6a0c46e3a235d749afa8b1d6?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 12 |
 | ↳ | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/69ef8e2016b2612c2a12a36f?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 12 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Indigenous Intern, Mortgage Services](https://jobright.ai/jobs/info/6a6016f8f68dd368023ea62e?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 12 |
