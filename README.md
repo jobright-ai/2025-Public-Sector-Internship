@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a80e012e51a1e18a241ad76?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Community Development Intern – Athletic Pride Alliance](https://jobright.ai/jobs/info/6a80b59ead9ff00c26bb33e1?utm_campaign=1056&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 15 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/6a7e29a20cd4a0703257e426?utm_campaign=1056&utm_source=git)** | Lehi, UT, United States | On Site | Aug 15 |
-| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a8099d7e51a1e18a2419c2b?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[Doers Network](www.doersnetwork.org)** | **[UTAH RESIDENTS ONLY- Internship (Remote, Part-time)](https://jobright.ai/jobs/info/6a808cf8927c79391ad110f6?utm_campaign=1056&utm_source=git)** | Utah, United States | Remote | Aug 15 |
 | **[Meet Minneapolis](http://www.minneapolis.org)** | **[Equity & Community Impact Intern](https://jobright.ai/jobs/info/6a7f7444e2030208f276e389?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 15 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a8046a0e2030208f2773e45?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 15 |
@@ -143,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
-| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8eb2ecfd297707539fcb?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
+| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8ac1ecfd297707539d36?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7cd97c83621355407ac3f0?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Aug 11 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a7bad5cecfd29770753a7fa?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 11 |
