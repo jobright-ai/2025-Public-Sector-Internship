@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a7fef8619ce4e6e9d93c312?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a800242e51a1e18a241743e?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 14 |
+| **[City of Evanston](http://cityofevanston.org)** | **[EPLAN Intern (Assistant)](https://jobright.ai/jobs/info/6a8002ba927c79391ad0e783?utm_campaign=1056&utm_source=git)** | Evanston, IL, United States | Hybrid | Aug 14 |
 | **[STCU](https://stcu.org/)** | **[Community Impact Intern](https://jobright.ai/jobs/info/6a75f57db17cba569035bdac?utm_campaign=1056&utm_source=git)** | Liberty Lake, WA, United States | On Site | Aug 14 |
 | **[JFSA Cleveland](https://www.jfsa-cleveland.org)** | **[Strengthening Families Paid Intern](https://jobright.ai/jobs/info/6a7f80fae2030208f276ee31?utm_campaign=1056&utm_source=git)** | Pepper Pike, OH, United States | On Site | Aug 14 |
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Spring 2027 Internship Program - Kearney Technology Group Internship](https://jobright.ai/jobs/info/6a7a3615a26ccc369f83d1e0?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 14 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
-| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8ac1ecfd297707539d36?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
+| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8eb2ecfd297707539fcb?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7cd97c83621355407ac3f0?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Aug 11 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a7bad5cecfd29770753a7fa?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 11 |
@@ -143,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 | **[Nestlé](https://www.nestle.com)** | **[2027 Procurement Internship](https://jobright.ai/jobs/info/6a71f7dfcb96192a3684b1a4?utm_campaign=1056&utm_source=git)** | Solon, OH, United States | Hybrid | Aug 11 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analytics Grad Intern](https://jobright.ai/jobs/info/6a7b1bdeecf5194164fbbffa?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Grants Project Intern](https://jobright.ai/jobs/info/6a7b1943b933773d16be53e3?utm_campaign=1056&utm_source=git)** | Middletown, RI, United States | Hybrid | Aug 11 |
 | **[Milwaukee County](http://city.milwaukee.gov/DCD)** | **[County Board Intern](https://jobright.ai/jobs/info/6a7b2d99bc05d77f2bddd538?utm_campaign=1056&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 10 |
 | **[Visionary Solutions of Virginia](https://www.visionarysolutions.online/)** | **[Remote Social Work Intern, Unpaid](https://jobright.ai/jobs/info/6a7a83bfb17cba5690367747?utm_campaign=1056&utm_source=git)** | Vienna, VA, United States | Remote | Aug 10 |
-| **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Education and Arts Intern](https://jobright.ai/jobs/info/6a7b40213b399d106e4d531a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
