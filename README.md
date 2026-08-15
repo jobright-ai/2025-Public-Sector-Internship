@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/6a7e29a20cd4a0703257e426?utm_campaign=1056&utm_source=git)** | Lehi, UT, United States | On Site | Aug 15 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a8099d7e51a1e18a2419c2b?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[Doers Network](www.doersnetwork.org)** | **[UTAH RESIDENTS ONLY- Internship (Remote, Part-time)](https://jobright.ai/jobs/info/6a808cf8927c79391ad110f6?utm_campaign=1056&utm_source=git)** | Utah, United States | Remote | Aug 15 |
 | **[Meet Minneapolis](http://www.minneapolis.org)** | **[Equity & Community Impact Intern](https://jobright.ai/jobs/info/6a7f7444e2030208f276e389?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 15 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
 | **[Avports](https://avports.com)** | **[Aviation Administration Intern](https://jobright.ai/jobs/info/6a7eab7419ce4e6e9d9340eb?utm_campaign=1056&utm_source=git)** | Farmingdale, NY, United States | On Site | Aug 13 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
-| **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/6a7e29a20cd4a0703257e426?utm_campaign=1056&utm_source=git)** | Lehi, UT, United States | On Site | Aug 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6a7ce33a83621355407ac849?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator McNerney (Stockton. CA)](https://jobright.ai/jobs/info/6a7d020783621355407ad232?utm_campaign=1056&utm_source=git)** | Stockton, CA, United States | On Site | Aug 12 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Division of Safety & Health Internship - Hourly - Albany](https://jobright.ai/jobs/info/6a7d10b2d77e8156a8e35b9e?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 12 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
 | ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
