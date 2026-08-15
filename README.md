@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a80629ce51a1e18a2418e9f?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
+| **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a806ca519ce4e6e9d93e65f?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a8046a0e2030208f2773e45?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 15 |
 | **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2027 Internship Program - Civil Liberties, Privacy and Transparency Program - Entry - Maryland](https://jobright.ai/jobs/info/6a802b0fb56bea5779c11942?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
 | ↳ | **[NSA Summer 2027 Internship Program -Summer Strategic Communications Intern Program - Entry - Maryland](https://jobright.ai/jobs/info/6a802ae4e2030208f277381e?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
 | **[Family Counseling Clinics](https://fccinc.org)** | **[INTERN - (Ripley County Youth STAR) (PRN)](https://jobright.ai/jobs/info/6a7e16ae19ce4e6e9d931489?utm_campaign=1056&utm_source=git)** | Doniphan, MO, United States | On Site | Aug 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Medical Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a61394ad51f6101c8fba5f4?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Aug 13 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
+| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
 | **[Avports](https://avports.com)** | **[Aviation Administration Intern](https://jobright.ai/jobs/info/6a7eab7419ce4e6e9d9340eb?utm_campaign=1056&utm_source=git)** | Farmingdale, NY, United States | On Site | Aug 13 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/6a7e29a20cd4a0703257e426?utm_campaign=1056&utm_source=git)** | Lehi, UT, United States | On Site | Aug 12 |
