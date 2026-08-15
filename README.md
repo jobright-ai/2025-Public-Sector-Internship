@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a80414ce2030208f2773cc3?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | On Site | Aug 15 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a80314be51a1e18a24182b2?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 15 |
 | **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2027 Internship Program - Civil Liberties, Privacy and Transparency Program - Entry - Maryland](https://jobright.ai/jobs/info/6a802b0fb56bea5779c11942?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
 | ↳ | **[NSA Summer 2027 Internship Program -Summer Strategic Communications Intern Program - Entry - Maryland](https://jobright.ai/jobs/info/6a802ae4e2030208f277381e?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[ACLU of Texas](https://www.aclutx.org)** | **[Intern: Policy & Advocacy Team](https://jobright.ai/jobs/info/6a694cee36d36c1ff29993ff?utm_campaign=1056&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
-| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8ac1ecfd297707539d36?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
+| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8eb2ecfd297707539fcb?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7cd97c83621355407ac3f0?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Aug 11 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a7bad5cecfd29770753a7fa?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 11 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Impact Public Affairs (Canada)](https://www.impactcanada.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a7b8c3e77e6b569c61c17bc?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 11 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 11 |
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
-| **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
-| ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
+| **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
+| ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 11 |
 | ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 11 |
 | **[BBYO](https://www.bbyo.org)** | **[International Convention Planning Intern](https://jobright.ai/jobs/info/6a427de21cc9cc2b12febc21?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Earnscliffe](http://earnscliffe.ca)** | **[Intern, Public Affairs](https://jobright.ai/jobs/info/6a7b386abc05d77f2bddd9a4?utm_campaign=1056&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 11 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Services Support Intern](https://jobright.ai/jobs/info/6a5e2d72f3674a0545d275be?utm_campaign=1056&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 11 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Internship - Refugee Program for Initial Resettlement](https://jobright.ai/jobs/info/6a7a30c4a26ccc369f83cf8c?utm_campaign=1056&utm_source=git)** | Bridgeport, CT, United States | On Site | Aug 11 |
-| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Grants Project Intern](https://jobright.ai/jobs/info/6a7b1943b933773d16be53e3?utm_campaign=1056&utm_source=git)** | Middletown, RI, United States | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
