@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a81e6b9e2030208f277c570?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | On Site | Aug 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 16 |
 | ↳ | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a51d4fd57513b72e0c68a14?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Remote | Aug 16 |
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Community Development Intern – Athletic Pride Alliance](https://jobright.ai/jobs/info/6a80b59ead9ff00c26bb33e1?utm_campaign=1056&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 15 |
@@ -145,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[Renewable Energy Policy Intern](https://jobright.ai/jobs/info/6a7b8a203b399d106e4d7458?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 12 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
-| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8eb2ecfd297707539fcb?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
+| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8ac1ecfd297707539d36?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 | **[AIAA](http://www.aiaa.org/)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a7cd97c83621355407ac3f0?utm_campaign=1056&utm_source=git)** | Reston, VA, United States | Hybrid | Aug 11 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a7bad5cecfd29770753a7fa?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
 | ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
-| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Public Health Preparedness and Response  (Fall)](https://jobright.ai/jobs/info/6a81de9c19ce4e6e9d9461c0?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
