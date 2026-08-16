@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a81e6b9e2030208f277c570?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | On Site | Aug 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 16 |
 | ↳ | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a51d4fd57513b72e0c68a14?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Remote | Aug 16 |
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Community Development Intern – Athletic Pride Alliance](https://jobright.ai/jobs/info/6a80b59ead9ff00c26bb33e1?utm_campaign=1056&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 15 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Impact Public Affairs (Canada)](https://www.impactcanada.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a7b8c3e77e6b569c61c17bc?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 11 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 11 |
 | **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
-| **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
-| ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
+| **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa93b399d106e4d5ec3?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
+| ↳ | **[Strategic Operations & Public Service Intern](https://jobright.ai/jobs/info/6a7b5aa5b933773d16be6c9a?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 11 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Public Health Preparedness and Response  (Fall)](https://jobright.ai/jobs/info/6a81de9c19ce4e6e9d9461c0?utm_campaign=1056&utm_source=git)** | Sioux Falls, SD, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
