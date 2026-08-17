@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sep-Dec 2026) - HALO USA](https://jobright.ai/jobs/info/6a82e9291081a745e970be4c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
+| **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a82e7e9379c304e892f3dd5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Community Impact Fall 2026 Internship](https://jobright.ai/jobs/info/6a821269ad9ff00c26bb839e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/6a58f6c93ac7627fe9ffc779?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 16 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Preferred Communities Medicaid Research & Health Systems Impact Intern (unpaid)](https://jobright.ai/jobs/info/6a10ebf212f8b43cf3987f5f?utm_campaign=1056&utm_source=git)** | New York, NY | Remote | Aug 16 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
 | **[Family Counseling Clinics](https://fccinc.org)** | **[INTERN - (Ripley County Youth STAR) (PRN)](https://jobright.ai/jobs/info/6a7e16ae19ce4e6e9d931489?utm_campaign=1056&utm_source=git)** | Doniphan, MO, United States | On Site | Aug 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Medical Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a61394ad51f6101c8fba5f4?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Aug 13 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
+| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
 | **[Avports](https://avports.com)** | **[Aviation Administration Intern](https://jobright.ai/jobs/info/6a7eab7419ce4e6e9d9340eb?utm_campaign=1056&utm_source=git)** | Farmingdale, NY, United States | On Site | Aug 13 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6a7ce33a83621355407ac849?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Community Outreach and Advocacy Intern](https://jobright.ai/jobs/info/6a7b8a263b399d106e4d745d?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | Remote | Aug 11 |
 | **[Right On Crime](https://rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/6a566bc5efb06a45240d5c40?utm_campaign=1056&utm_source=git)** | Austin, Texas, United States | Hybrid | Aug 11 |
 | **[Impact Public Affairs (Canada)](https://www.impactcanada.com)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a7b8c3e77e6b569c61c17bc?utm_campaign=1056&utm_source=git)** | Ottawa, ON, Canada | On Site | Aug 11 |
-| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 11 |
-| **[Institute for Global Affairs at Eurasia Group](https://instituteforglobalaffairs.org/)** | **[Research & Communications Intern](https://jobright.ai/jobs/info/6a7b6d1becfd297707538ced?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
