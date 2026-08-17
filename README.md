@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sep-Dec 2026) - HALO USA](https://jobright.ai/jobs/info/6a82f3823eeac101cfa9c9c4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Capitol Office Intern - Office of Senator Arreguin (Sacramento, CA)](https://jobright.ai/jobs/info/6a8353499b859b227766e0e7?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 17 |
 | **[The Common Good](http://thecommongood.net)** | **[Public Policy Fall 2026 Internship - unpaid](https://jobright.ai/jobs/info/6a8343723eeac101cfa9ea52?utm_campaign=1056&utm_source=git)** | New York, NY, United States | Hybrid | Aug 17 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Fall 2026 Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/6a830f8d1081a745e970c957?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 17 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Intern II - GIS](https://jobright.ai/jobs/info/6a831b153eeac101cfa9d6e3?utm_campaign=1056&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 17 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a82e9291081a745e970be4c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a82e7e9379c304e892f3dd5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
-| **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sep-Dec 2026) - HALO USA](https://jobright.ai/jobs/info/6a82f3823eeac101cfa9c9c4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a7f3ee4e2030208f276caac?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI, United States | Hybrid | Aug 16 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Community Impact Fall 2026 Internship](https://jobright.ai/jobs/info/6a821269ad9ff00c26bb839e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/6a58f6c93ac7627fe9ffc779?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 16 |
