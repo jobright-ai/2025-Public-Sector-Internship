@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Credits & Incentives (Winter 2027) GTA Office](https://jobright.ai/jobs/info/6a83196c9b859b227766c6e4?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Sustainability Intern](https://jobright.ai/jobs/info/6a831b173eeac101cfa9d6e7?utm_campaign=1056&utm_source=git)** | Pittsboro, NC, United States | Hybrid | Aug 17 |
 | ↳ | **[Administrative Intern II - GIS](https://jobright.ai/jobs/info/6a831b153eeac101cfa9d6e3?utm_campaign=1056&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 17 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a82e9291081a745e970be4c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a82e7e9379c304e892f3dd5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sep-Dec 2026) - HALO USA](https://jobright.ai/jobs/info/6a82f3823eeac101cfa9c9c4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 16 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Fall 2026 Internship - Human and Civil Rights (Center for Racial and Social Justice)](https://jobright.ai/jobs/info/6a830f8d1081a745e970c957?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 16 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Credits & Incentives (Winter 2027) GTA Office](https://jobright.ai/jobs/info/6a83196c9b859b227766c6e4?utm_campaign=1056&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a7f3ee4e2030208f276caac?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI, United States | Hybrid | Aug 16 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Community Impact Fall 2026 Internship](https://jobright.ai/jobs/info/6a821269ad9ff00c26bb839e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/6a58f6c93ac7627fe9ffc779?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 16 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[Renewable Energy Policy Intern](https://jobright.ai/jobs/info/6a7b8a203b399d106e4d7458?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 12 |
 | **[Chicago Fire FC](https://www.chicagofirefc.com/)** | **[Community Relations & Foundation Intern](https://jobright.ai/jobs/info/6a6d52eeba7efe79c2f6942b?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
 | **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - General Planning](https://jobright.ai/jobs/info/6a7b12193b399d106e4d4324?utm_campaign=1056&utm_source=git)** | Manhattan, KS, United States | On Site | Aug 11 |
-| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8eb2ecfd297707539fcb?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
+| **[The Centers](https://thecentersohio.org/)** | **[Heights Suburban Collaborative Intern](https://jobright.ai/jobs/info/6a7b8ac1ecfd297707539d36?utm_campaign=1056&utm_source=git)** | Cleveland Heights, OH, United States | On Site | Aug 11 |
 | **[The Boston Foundation](http://www.tbf.org)** | **[Community Impact Intern, Latino Equity Fund](https://jobright.ai/jobs/info/6a7b78a5b933773d16be7964?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
