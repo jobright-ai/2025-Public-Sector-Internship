@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72185445b6af1c30dbc91f?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Aug 18 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 18 |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a84a7ebe12474455273bb28?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 18 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 18 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6af5b4c00ae03109f810b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a845ebae459fa3baa85de5e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
 | ↳ | **[Collective Bargaining and Member Advocacy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a845ea8e124744552739cea?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6a7ce33a83621355407ac849?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[District Office Intern - Office of Senator McNerney (Stockton. CA)](https://jobright.ai/jobs/info/6a7d020783621355407ad232?utm_campaign=1056&utm_source=git)** | Stockton, CA, United States | On Site | Aug 12 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Division of Safety & Health Internship - Hourly - Albany](https://jobright.ai/jobs/info/6a7d10b2d77e8156a8e35b9e?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 12 |
-| ↳ | **[Division of Safety & Health Internship - Hourly - Utica](https://jobright.ai/jobs/info/6a7cf44ea346cb6c8d5f10fa?utm_campaign=1056&utm_source=git)** | Utica, NY, United States | On Site | Aug 12 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Public Affairs Undergraduate Intern](https://jobright.ai/jobs/info/6a7ce65a77d5f033c4b915e5?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
-| **[Bose McKinney & Evans LLP](http://boselaw.com)** | **[State Government Relations Intern](https://jobright.ai/jobs/info/6a7cdd33dc3dff2d1c0c98af?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 12 |
-| **[Velos](https://velosteam.com)** | **[Association Intern - National Security Space](https://jobright.ai/jobs/info/6a7cd9dfd77e8156a8e34a2d?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
