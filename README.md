@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Part-Time Limited Duration](https://jobright.ai/jobs/info/6a84c10e7b33d72276258092?utm_campaign=1056&utm_source=git)** | Clermont, FL, United States | On Site | Aug 18 |
+| **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/6a84bff47b33d7227625802a?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Aug 18 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Legislative Planning Intern - Planning and Development](https://jobright.ai/jobs/info/6a84b45b7b33d72276257a3a?utm_campaign=1056&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Aug 18 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 18 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72185445b6af1c30dbc91f?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Aug 18 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 18 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Legislative Intern](https://jobright.ai/jobs/info/6a84a7ebe12474455273bb28?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family Counseling Clinics](https://fccinc.org)** | **[INTERN - (Ripley County Youth STAR) (PRN)](https://jobright.ai/jobs/info/6a7e16ae19ce4e6e9d931489?utm_campaign=1056&utm_source=git)** | Doniphan, MO, United States | On Site | Aug 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Medical Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a61394ad51f6101c8fba5f4?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Aug 13 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
-| **[Avports](https://avports.com)** | **[Aviation Administration Intern](https://jobright.ai/jobs/info/6a7eab7419ce4e6e9d9340eb?utm_campaign=1056&utm_source=git)** | Farmingdale, NY, United States | On Site | Aug 13 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
