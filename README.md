@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/69fe202ff363bc4dc339baf4?utm_campaign=1056&utm_source=git)** | Boulder, CO, US | On Site | Aug 17 |
+| ↳ | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a51177578e364789ca58ac8?utm_campaign=1056&utm_source=git)** | Boulder, CO, United States | Remote | Aug 17 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Planning Intern / Fort Lauderdale, FL](https://jobright.ai/jobs/info/6a836e4f379c304e892f7255?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 17 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a83d43e2dbaf907b076ab02?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | On Site | Aug 17 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Congressional Affairs Fall Intern 2026](https://jobright.ai/jobs/info/6a8374121081a745e970f5d1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
 | **[Family Counseling Clinics](https://fccinc.org)** | **[INTERN - (Ripley County Youth STAR) (PRN)](https://jobright.ai/jobs/info/6a7e16ae19ce4e6e9d931489?utm_campaign=1056&utm_source=git)** | Doniphan, MO, United States | On Site | Aug 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Intern, Medical Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a61394ad51f6101c8fba5f4?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Aug 13 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
-| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/696135f9a112b402660fbf08?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 13 |
+| ↳ | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/6a537ead8576ec69c014febb?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 13 |
 | **[Avports](https://avports.com)** | **[Aviation Administration Intern](https://jobright.ai/jobs/info/6a7eab7419ce4e6e9d9340eb?utm_campaign=1056&utm_source=git)** | Farmingdale, NY, United States | On Site | Aug 13 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 12 |
 | **[Sierra Club](http://sierraclub.org)** | **[Climate Intern](https://jobright.ai/jobs/info/6a7ce33a83621355407ac849?utm_campaign=1056&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Public Sector Workforce Programs Intern](https://jobright.ai/jobs/info/6a7cbb3da346cb6c8d5efbb0?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 12 |
 | ↳ | **[Fall 2026 Leadership and Program Delivery Intern](https://jobright.ai/jobs/info/6a7cbb38dc3dff2d1c0c8beb?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 12 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Operations and Engagement Intern - Tanner Foundation (Days) (Part-Time)](https://jobright.ai/jobs/info/6a7c7bbc7c52154b59f5a21d?utm_campaign=1056&utm_source=git)** | Carrollton, GA, United States | On Site | Aug 12 |
-| **[MITRE](http://www.mitre.org)** | **[Political Science & Legal Studies Intern](https://jobright.ai/jobs/info/6a7c8fc8d77e8156a8e32872?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 12 |
-| **[SAVE - Suicide Awareness Voices of Education](https://save.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a7c9c6a83621355407aa84c?utm_campaign=1056&utm_source=git)** | Bloomington, MN, United States | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
