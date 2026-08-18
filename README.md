@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMEG](http://www.imegcorp.com/)** | **[Planning Intern / Fort Lauderdale, FL](https://jobright.ai/jobs/info/6a836e4f379c304e892f7255?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 17 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Government Contracts Intern (Fall 2026)](https://jobright.ai/jobs/info/6a83d43e2dbaf907b076ab02?utm_campaign=1056&utm_source=git)** | Newark, NJ, United States | On Site | Aug 17 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Congressional Affairs Fall Intern 2026](https://jobright.ai/jobs/info/6a8374121081a745e970f5d1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
 | ↳ | **[Manufacturing, Trade, and International Affairs Policy Intern Fall 2026](https://jobright.ai/jobs/info/6a8374022dbaf907b0768daf?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 17 |
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern (Sep-Dec 2026) - HALO USA](https://jobright.ai/jobs/info/6a82f3823eeac101cfa9c9c4?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[The HALO Trust](https://halotrust.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a82e9291081a745e970be4c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 17 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Community Outreach Program Internship](https://jobright.ai/jobs/info/6a82e7e9379c304e892f3dd5?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern – Socio-Economic Impacts](https://jobright.ai/jobs/info/6a838bfa9b859b227766fa55?utm_campaign=1056&utm_source=git)** | Boulder, CO, United States | Remote | Aug 16 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Planning Intern / Fort Lauderdale, FL](https://jobright.ai/jobs/info/6a836e4f379c304e892f7255?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a7f3ee4e2030208f276caac?utm_campaign=1056&utm_source=git)** | Ann Arbor, MI, United States | Hybrid | Aug 16 |
 | **[D.C. United](http://dcunited.com)** | **[Intern- Community Impact Fall 2026 Internship](https://jobright.ai/jobs/info/6a821269ad9ff00c26bb839e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Public Service Aide - Assistant to Professionals - SFPUC Internship, 2026 (9920)](https://jobright.ai/jobs/info/6a58f6c93ac7627fe9ffc779?utm_campaign=1056&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tanner Health](http://www.tanner.org/)** | **[Operations and Engagement Intern - Tanner Foundation (Days) (Part-Time)](https://jobright.ai/jobs/info/6a7c7bbc7c52154b59f5a21d?utm_campaign=1056&utm_source=git)** | Carrollton, GA, United States | On Site | Aug 12 |
 | **[MITRE](http://www.mitre.org)** | **[Political Science & Legal Studies Intern](https://jobright.ai/jobs/info/6a7c8fc8d77e8156a8e32872?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 12 |
 | **[SAVE - Suicide Awareness Voices of Education](https://save.org)** | **[Advocacy Intern](https://jobright.ai/jobs/info/6a7c9c6a83621355407aa84c?utm_campaign=1056&utm_source=git)** | Bloomington, MN, United States | Hybrid | Aug 12 |
-| **[Bread for the World](https://www.bread.org/)** | **[International Policy Research Intern](https://jobright.ai/jobs/info/6a7cd73277d5f033c4b90e1d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
