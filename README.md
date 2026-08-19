@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Trustee Chair in Chinese Business and Economics (Fall 2026)](https://jobright.ai/jobs/info/6a852a98e459fa3baa861e12?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Aug 18 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Internship Program](https://jobright.ai/jobs/info/6a85046fd34f700f87fbbd62?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship - MCEB](https://jobright.ai/jobs/info/6a7e5444ad9ff00c26baa9e2?utm_campaign=1056&utm_source=git)** | IN, United States | On Site | Aug 18 |
 | **[MITRE](http://www.mitre.org)** | **[Political Science & Legal Studies Intern](https://jobright.ai/jobs/info/6a7c8fc8d77e8156a8e32872?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 18 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2027 Internship Program - The Office of the Inspector General - Entry- Maryland](https://jobright.ai/jobs/info/6a807b36927c79391ad10e38?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
 | ↳ | **[NSA Summer 2027 Internship Program -Summer Strategic Communications Intern Program - Entry - Maryland](https://jobright.ai/jobs/info/6a802ae4e2030208f277381e?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
 | **[Vosyn](https://vosyn.ai)** | **[ESG & CSR - Master’s Level Internship](https://jobright.ai/jobs/info/6a6d9247ca1f933846603f7c?utm_campaign=1056&utm_source=git)** | Etobicoke, CA | Remote | Aug 14 |
-| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6a7de9150cd4a0703257c758?utm_campaign=1056&utm_source=git)** | Albany, NY, United States | On Site | Aug 14 |
 | **[City of Evanston](http://cityofevanston.org)** | **[EPLAN Intern (Assistant)](https://jobright.ai/jobs/info/6a8002ba927c79391ad0e783?utm_campaign=1056&utm_source=git)** | Evanston, IL, United States | Hybrid | Aug 14 |
 | **[CNSS • National Security Systems](http://www.cnss.gov)** | **[NSA Summer 2027 Internship Program - Business Management & Acquisition - Entry - Maryland](https://jobright.ai/jobs/info/6a80973719ce4e6e9d93f00a?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 14 |
 | ↳ | **[NSA Summer 2027 Internship Program -Summer Strategic Communications Intern Program - Entry - Maryland](https://jobright.ai/jobs/info/6a80975cb56bea5779c137bd?utm_campaign=1056&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 14 |
