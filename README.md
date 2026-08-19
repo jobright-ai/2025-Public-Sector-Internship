@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[Political Science & Legal Studies Intern](https://jobright.ai/jobs/info/6a7c8fc8d77e8156a8e32872?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 18 |
+| **[PRAB, Inc.](https://www.prab.org/)** | **[Public Policy and Advocacy Intern](https://jobright.ai/jobs/info/6a55d0b72ce8bf79a13a1709?utm_campaign=1056&utm_source=git)** | East Brunswick, NJ, United States | On Site | Aug 18 |
 | **[State of Florida](http://www.myflorida.com)** | **[DOT INTERN - D2 - 55990816 Job Details / State of Florida](https://jobright.ai/jobs/info/6a84c863e12474455273ca75?utm_campaign=1056&utm_source=git)** | Lake City, FL, United States | On Site | Aug 18 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Fall Center for Behavioral Health and Wellness Intern](https://jobright.ai/jobs/info/6a84c751e459fa3baa860b89?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | On Site | Aug 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Part-Time Limited Duration](https://jobright.ai/jobs/info/6a84c10e7b33d72276258092?utm_campaign=1056&utm_source=git)** | Clermont, FL, United States | On Site | Aug 18 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 18 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72185445b6af1c30dbc91f?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Aug 18 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 18 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 18 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 18 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 18 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6af5b4c00ae03109f810b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a845ebae459fa3baa85de5e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
 | ↳ | **[Collective Bargaining and Member Advocacy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a845ea8e124744552739cea?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Association of Equipment Manufacturers (AEM)](http://aem.org)** | **[Public Affairs Intern](https://jobright.ai/jobs/info/6a7df895e51a1e18a240b40e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[Troutman Pepper Locke LLP](https://www.troutmansanders.com)** | **[Strategies Intern](https://jobright.ai/jobs/info/6a7dd19fb56bea5779c01dc9?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 13 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Community Outreach and Administrative Intern](https://jobright.ai/jobs/info/69acaa7f142d5b4265fdf203?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
-| **[Family Counseling Clinics](https://fccinc.org)** | **[INTERN - (Ripley County Youth STAR) (PRN)](https://jobright.ai/jobs/info/6a7e16ae19ce4e6e9d931489?utm_campaign=1056&utm_source=git)** | Doniphan, MO, United States | On Site | Aug 13 |
-| **[axogen](http://www.axogeninc.com)** | **[Intern, Medical Affairs (Fall 2026)](https://jobright.ai/jobs/info/6a61394ad51f6101c8fba5f4?utm_campaign=1056&utm_source=git)** | Tampa, FL, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
