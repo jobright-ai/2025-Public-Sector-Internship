@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 19 |
-| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 19 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 19 |
+| ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ea21127bf767ea68f7fe2?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Aug 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning & Sustainability Intern](https://jobright.ai/jobs/info/6a853fe9d34f700f87fbc5cb?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Aug 18 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/6a84bff47b33d7227625802a?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Aug 18 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 18 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72185445b6af1c30dbc91f?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Aug 18 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 18 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 18 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 18 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 18 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6b133dacb0a61f9dbbe8f5?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Aug 18 |
 | ↳ | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6af5b4c00ae03109f810b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a845ebae459fa3baa85de5e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
