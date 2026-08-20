@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Part Time Administrative Intern II - Public Utilities](https://jobright.ai/jobs/info/6a86ad0ccc81eb647e9f3230?utm_campaign=1056&utm_source=git)** | Anaheim, CA, United States | On Site | Aug 20 |
 | **[State of Florida](http://www.myflorida.com)** | **[DOT INTERN - D5 - 55950052 Job Details / State of Florida](https://jobright.ai/jobs/info/6a868892d34f700f87fc1db3?utm_campaign=1056&utm_source=git)** | Deland, FL, United States | On Site | Aug 19 |
 | **[WCA: Wisconsin Counties Association](https://www.wicounties.org)** | **[Sheriff’s Office Intern](https://jobright.ai/jobs/info/6a8680114afae74a08344e6e?utm_campaign=1056&utm_source=git)** | Dodge, NE, United States | On Site | Aug 19 |
 | **[Government of Nova Scotia](https://www.novascotia.ca)** | **[Junior Policy Analyst (Internship) Job Details / The Government of Nova Scotia](https://jobright.ai/jobs/info/6a8652b64afae74a083448c8?utm_campaign=1056&utm_source=git)** | Dartmouth, NS, Canada | On Site | Aug 19 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Education Policy and Disability Rights & Inclusion Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8626a9cc81eb647e9f1be2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | ↳ | **[Campaigns & Elections/Strategic Federal Partnerships Internship (Fall 2026)](https://jobright.ai/jobs/info/6a8626a3cc81eb647e9f1be1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Federal Planning Internship - Fall 2026](https://jobright.ai/jobs/info/6a85ef584afae74a083423e6?utm_campaign=1056&utm_source=git)** | Moon Township, PA, United States | Hybrid | Aug 19 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a72bfb6e2b7476e7b2146a2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 19 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 19 |
 | **[SMUD](https://www.smud.org/en)** | **[Economic Development and Partnerships Intern: Year-Round](https://jobright.ai/jobs/info/6a862d9c4afae74a08343ec1?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 19 |
 | **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[Intern](https://jobright.ai/jobs/info/6a862d2c74e02153f145af3b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | **[ETS](http://www.ets.org)** | **[Research & Policy Intern (Fall) – Global Government and External Relations (GER)](https://jobright.ai/jobs/info/6a6804022bda4d2842856ced?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
@@ -93,6 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/69697e991703f05405ab6a8f?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229 | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ea21127bf767ea68f7fe2?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Aug 19 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations, Fall 2026](https://jobright.ai/jobs/info/6a85cef674e02153f14586ce?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
+| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 19 |
+| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 19 |
 | **[City of South Salt Lake](https://sslc.com/)** | **[Neighborhoods Planning Intern](https://jobright.ai/jobs/info/6a8624164afae74a08343bf9?utm_campaign=1056&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning & Sustainability Intern](https://jobright.ai/jobs/info/6a853fe9d34f700f87fbc5cb?utm_campaign=1056&utm_source=git)** | Eau Claire, WI, United States | On Site | Aug 18 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Community Outreach Internship](https://jobright.ai/jobs/info/6a84bff47b33d7227625802a?utm_campaign=1056&utm_source=git)** | Santa Ana, CA, United States | On Site | Aug 18 |
@@ -110,8 +113,6 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Spring 2027)](https://jobright.ai/jobs/info/6a7cc479dc3dff2d1c0c9019?utm_campaign=1056&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 18 |
 | **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72185445b6af1c30dbc91f?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Aug 18 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 18 |
-| **[Amazon](https://amazon.com)** | **[Public Policy Intern](https://jobright.ai/jobs/info/6a1b0c099111f771d1a0f95c?utm_campaign=1056&utm_source=git)** | Arlington, Virginia, USA | On Site | Aug 18 |
-| ↳ | **[Public Policy Intern](https://jobright.ai/jobs/info/6a5afcad4da96a42cfd98a91?utm_campaign=1056&utm_source=git)** | Arlington, VA, United States | On Site | Aug 18 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6b133dacb0a61f9dbbe8f5?utm_campaign=1056&utm_source=git)** | Georgia, United States | Hybrid | Aug 18 |
 | ↳ | **[Advocacy, Outreach and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6a6af5b4c00ae03109f810b2?utm_campaign=1056&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Workforce Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a845ebae459fa3baa85de5e?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Athletic Pride Gear](http://www.athleticprideshop.com)** | **[Community Development Intern – Athletic Pride Alliance](https://jobright.ai/jobs/info/6a80b59ead9ff00c26bb33e1?utm_campaign=1056&utm_source=git)** | Mesa, AZ, United States | Remote | Aug 15 |
 | **[Lehi City](https://www.lehi-ut.gov/)** | **[Parks Internship](https://jobright.ai/jobs/info/6a7e29a20cd4a0703257e426?utm_campaign=1056&utm_source=git)** | Lehi, UT, United States | On Site | Aug 15 |
 | **[Doers Network](www.doersnetwork.org)** | **[UTAH RESIDENTS ONLY- Internship (Remote, Part-time)](https://jobright.ai/jobs/info/6a808cf8927c79391ad110f6?utm_campaign=1056&utm_source=git)** | Utah, United States | Remote | Aug 15 |
-| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Government & Regulatory Affairs Intern](https://jobright.ai/jobs/info/6a8046a0e2030208f2773e45?utm_campaign=1056&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
