@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business/Public Administration Intern (Motor Vehicle Division)](https://jobright.ai/jobs/info/6a8c8dcecde3717f9e9bdd46?utm_campaign=1056&utm_source=git)** | Ankeny, IA, United States | On Site | Aug 24 |
 | **[The New York Foundling](https://www.nyfoundling.org/)** | **[Intern - Communications and Policy](https://jobright.ai/jobs/info/6a8c78c61d96e6541c8c1079?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[Catholic Charities of the Diocese of Rochester](https://ccdor.org/about/)** | **[Prevention Services Paid Intern](https://jobright.ai/jobs/info/6a8c2dd61d96e6541c8bf821?utm_campaign=1056&utm_source=git)** | Bath, NY, United States | On Site | Aug 24 |
 | **[Myers & Stauffer](https://myersandstauffer.com/)** | **[RHIA Intern - Indianapolis, IN (Summer 2027)](https://jobright.ai/jobs/info/6a8c7517581f2d7bfdfe3b4c?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 24 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Wisconsin Community Services, Inc.](https://www.wiscs.org)** | **[Jail Screening Intern - UNPAID](https://jobright.ai/jobs/info/6a86352a2f4f0014cae29092?utm_campaign=1056&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 19 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Education Policy and Disability Rights & Inclusion Intern (Fall 2026)](https://jobright.ai/jobs/info/6a8626a9cc81eb647e9f1be2?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | ↳ | **[Campaigns & Elections/Strategic Federal Partnerships Internship (Fall 2026)](https://jobright.ai/jobs/info/6a8626a3cc81eb647e9f1be1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a61d7d9eaa37f43e758a514?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 19 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b2f0c28982326de9811d?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 19 |
 | **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[Intern](https://jobright.ai/jobs/info/6a862d2c74e02153f145af3b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | **[ETS](http://www.ets.org)** | **[Research & Policy Intern (Fall) – Global Government and External Relations (GER)](https://jobright.ai/jobs/info/6a6804022bda4d2842856ced?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | **[New Jersey Institute for Social Justice](http://www.njisj.org/)** | **[Social Justice–Focused Field Research Internship – Fall 2026](https://jobright.ai/jobs/info/6a8612c8d34f700f87fc0184?utm_campaign=1056&utm_source=git)** | New Jersey, United States | Hybrid | Aug 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern- Advocate](https://jobright.ai/jobs/info/6a52338de726ec56126a1fa9?utm_campaign=1056&utm_source=git)** | 4346 NW Loop 410, San Antonio, TX 78229, United States of America | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[External Affairs Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5ea21127bf767ea68f7fe2?utm_campaign=1056&utm_source=git)** | Seattle, WA, United States | On Site | Aug 19 |
 | **[SMUD](https://www.smud.org/en)** | **[Economic Development and Partnerships Intern: Year-Round](https://jobright.ai/jobs/info/6a862d9c4afae74a08343ec1?utm_campaign=1056&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 19 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Government Relations, Fall 2026](https://jobright.ai/jobs/info/6a85cef674e02153f14586ce?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
