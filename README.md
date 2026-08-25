@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8d61e447679c68bf5e2cd0?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Aug 25 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Internship to Support the Knowledge Agenda in the Andean Region](https://jobright.ai/jobs/info/6a8d4761d34f700f87fd3dd7?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 25 |
 | ↳ | **[IDB. Macroeconomics and Reforms in the Caribbean Region Intern](https://jobright.ai/jobs/info/6a8d4745d34f700f87fd3dd1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 25 |
 | ↳ | **[IDB. ESG Capacity Building and Knowledge Intern](https://jobright.ai/jobs/info/6a8d47412f736c304f2a9145?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 25 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[SSFM International](https://www.ssfm.com/)** | **[Student Intern - Civil](https://jobright.ai/jobs/info/6a8d1111a5639a4810325200?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business/Public Administration Intern (Motor Vehicle Division)](https://jobright.ai/jobs/info/6a8c8dcecde3717f9e9bdd46?utm_campaign=1056&utm_source=git)** | Ankeny, IA, United States | On Site | Aug 24 |
 | ↳ | **[City Council Policy Internship](https://jobright.ai/jobs/info/6a8cca00cde3717f9e9bf334?utm_campaign=1056&utm_source=git)** | Durham, NC, United States | On Site | Aug 24 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a71153971acd469eeda19ad?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 24 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a6eb9dff5953013637f53cc?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 24 |
 | **[CSIS Economics Program and Scholl Chair](https://www.csis.org/programs/economics-program-and-scholl-chair-international-business)** | **[Economics Program Research Intern](https://jobright.ai/jobs/info/6a8cc202cde3717f9e9bf1d5?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 24 |
 | **[ARCO Murray Construction Company](https://www.arcomurraycc.com)** | **[Superintendent Intern (COOP)](https://jobright.ai/jobs/info/6a8cb5fecde3717f9e9bedfd?utm_campaign=1056&utm_source=git)** | Downers Grove, IL, United States | On Site | Aug 24 |
 | **[Young Invincibles](https://www.younginvincibles.org)** | **[Fall Midwest Intern](https://jobright.ai/jobs/info/6a8c9c49581f2d7bfdfe4b2f?utm_campaign=1056&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campaigns & Elections/Strategic Federal Partnerships Internship (Fall 2026)](https://jobright.ai/jobs/info/6a8626a3cc81eb647e9f1be1?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[Intern](https://jobright.ai/jobs/info/6a862d2c74e02153f145af3b?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
 | **[ETS](http://www.ets.org)** | **[Research & Policy Intern (Fall) – Global Government and External Relations (GER)](https://jobright.ai/jobs/info/6a6804022bda4d2842856ced?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 19 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern- Advocate](https://jobright.ai/jobs/info/6969c75ff25a380066987d8c?utm_campaign=1056&utm_source=git)** | San Antonio, TX | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
