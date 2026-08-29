@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Community Services Internship](https://jobright.ai/jobs/info/6a920c3cc12c90443efc9449?utm_campaign=1056&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 28 |
 | **[Catawba Nation](https://www.catawba.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a91d74c8e596854533780d5?utm_campaign=1056&utm_source=git)** | Rock Hill, SC, United States | On Site | Aug 28 |
 | **[The Ruth Project](http://ruthproj.org)** | **[Legislative and Organizing NJ Intern - Gender Justice](https://jobright.ai/jobs/info/6a91bd1cd18f756748279d99?utm_campaign=1056&utm_source=git)** | New Jersey, United States | On Site | Aug 28 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a72bfb6e2b7476e7b2146a2?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 28 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a71153971acd469eeda19ad?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 28 |
 | **[Indiana Biosciences Research Institute (IBRI)](https://www.indianabiosciences.org)** | **[Grants Management Intern (2027)](https://jobright.ai/jobs/info/6a91b5f83603630099193e0a?utm_campaign=1056&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Internship - Defense Budget Analysis Program (Fall 2026)](https://jobright.ai/jobs/info/6a91b5d13603630099193df5?utm_campaign=1056&utm_source=git)** | Washington, D.C., United States | On Site | Aug 28 |
 | **[EPL Group](https://eplgroup.co)** | **[Grant Application Writer Intern](https://jobright.ai/jobs/info/6a91aad19864261ccd29e194?utm_campaign=1056&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Emergency Management Officer, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6a919642c12c90443efc6caa?utm_campaign=1056&utm_source=git)** | Queens, NY, United States | On Site | Aug 28 |
 | **[CRL Associates, Inc.](https://crlassociates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a9192f3a27a2d3c9848894a?utm_campaign=1056&utm_source=git)** | Denver, CO, United States | Hybrid | Aug 28 |
-| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7b8a9dbc05d77f2bddfcfa?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 28 |
+| **[Waterford.org](http://www.waterford.org)** | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72182bee751e0c79346c87?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 28 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a7218ad71acd469eeda5ee1?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 28 |
-| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72182bee751e0c79346c87?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 28 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a721842ee751e0c79346c9e?utm_campaign=1056&utm_source=git)** | Box Elder County, UT, United States | Hybrid | Aug 28 |
+| ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72ed885049141ad172bddf?utm_campaign=1056&utm_source=git)** | Taylorsville, UT, United States | Hybrid | Aug 28 |
 | ↳ | **[Waterford UPSTART Community Engagement Intern](https://jobright.ai/jobs/info/6a72185445b6af1c30dbc91f?utm_campaign=1056&utm_source=git)** | Utah, United States | Hybrid | Aug 28 |
 | **[K&L Gates](http://www.klgates.com/)** | **[Government Affairs Intern](https://jobright.ai/jobs/info/6a0f374e72b52f7225f3bc66?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 28 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Global Communications/Policy Comms](https://jobright.ai/jobs/info/6a907c91a1988648667615f8?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Community Engagement Grant Intern](https://jobright.ai/jobs/info/6a8c61a4d34f700f87fd018d?utm_campaign=1056&utm_source=git)** | Irvine, CA, United States | Remote | Aug 24 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Sustainability and Environmental, Social, and Governance](https://jobright.ai/jobs/info/6a8ce368d34f700f87fd30b9?utm_campaign=1056&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 24 |
 | **[Multnomah County](https://multco.us)** | **[PHP Tobacco Control and Prevention Intern](https://jobright.ai/jobs/info/6a8deb1847679c68bf5e5918?utm_campaign=1056&utm_source=git)** | Portland, OR, United States | Hybrid | Aug 24 |
-| **[SSFM International](https://www.ssfm.com/)** | **[Student Intern - Civil](https://jobright.ai/jobs/info/6a8d1111a5639a4810325200?utm_campaign=1056&utm_source=git)** | Honolulu, HI, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
