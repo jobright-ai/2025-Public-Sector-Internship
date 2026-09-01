@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Napa County Office of Education](https://napacoe.org)** | **[AmeriCorps Neighbor to Neighbor in Marin County](https://jobright.ai/jobs/info/6a9726e0e4e60e4b8da5c5bf?utm_campaign=1056&utm_source=git)** | San Rafael, CA, United States | On Site | Sep 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Forecasting and Research Fellowship/Internship - Healthcare](https://jobright.ai/jobs/info/6a9719dee4e60e4b8da5c0fc?utm_campaign=1056&utm_source=git)** | Olympia, WA, United States | Remote | Sep 01 |
 | **[Halff](https://www.halff.com/)** | **[Intern, Planning](https://jobright.ai/jobs/info/6a9714d1246d697dcee033f7?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 01 |
 | **[Flagship Pioneering](http://flagshippioneering.com)** | **[Communications and Public Affairs Co-Op](https://jobright.ai/jobs/info/6a96fb71455eaf6a08c19aa2?utm_campaign=1056&utm_source=git)** | Cambridge, MA, United States | Hybrid | Sep 01 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern -  Research Group - Junior Intern](https://jobright.ai/jobs/info/6a965417cabc9f6703e1d039?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Aug 31 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a830d5a379c304e892f48d4?utm_campaign=1056&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Aug 31 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Fall 2026/Spring 2027 - Government & External Affairs Intern - 90414089 - Washington](https://jobright.ai/jobs/info/6a9622b0cabc9f6703e1c60c?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 31 |
-| **[NiSource](https://www.nisource.com/)** | **[Federal Government Affairs Intern](https://jobright.ai/jobs/info/6a95facaf28891320e85f64d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 31 |
-| ↳ | **[State Affairs Intern](https://jobright.ai/jobs/info/6a95fad0f28891320e85f657?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Aug 31 |
+| **[NiSource](https://www.nisource.com/)** | **[State Affairs Intern](https://jobright.ai/jobs/info/6a95fad0f28891320e85f657?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Aug 31 |
+| ↳ | **[Federal Government Affairs Intern](https://jobright.ai/jobs/info/6a95facaf28891320e85f64d?utm_campaign=1056&utm_source=git)** | Washington, DC, United States | On Site | Aug 31 |
 | **[Tony Bayudan for Daly City Council](https://tonybayudan.com)** | **[Political Campaign Intern (Unpaid)](https://jobright.ai/jobs/info/6a961dddc8763a3a87ffe6b7?utm_campaign=1056&utm_source=git)** | Daly City, CA, United States | On Site | Aug 31 |
 | **[Fincantieri Marine Group](http://fincantierimarinegroup.com)** | **[Intern - Government Property](https://jobright.ai/jobs/info/6a95dba23843db0159907b91?utm_campaign=1056&utm_source=git)** | Marinette, WI, United States | On Site | Aug 31 |
 | **[National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/default.aspx)** | **[Summer 2027 College Internship - Inspector General Career Field](https://jobright.ai/jobs/info/6a9616f79fcec544237313f3?utm_campaign=1056&utm_source=git)** | Springfield, VA, United States | On Site | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Residential Solar Pricing & Incentives Intern (Summer 2027)](https://jobright.ai/jobs/info/6a90acb5a198864866762997?utm_campaign=1056&utm_source=git)** | Ohio, United States | On Site | Aug 27 |
 | **[ICCU](https://iccu.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a90aa280bd89e205d24bb4b?utm_campaign=1056&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 27 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Planning Intern / Fort Lauderdale, FL](https://jobright.ai/jobs/info/6a836e4f379c304e892f7255?utm_campaign=1056&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 27 |
-| **[Oklahoma Medical Research Foundation](https://omrf.org/)** | **[Philanthropy Intern](https://jobright.ai/jobs/info/6a61b908eaa37f43e7589bbb?utm_campaign=1056&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
