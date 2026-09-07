@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Resource Planning Grad Intern - MN](https://jobright.ai/jobs/info/6a9e543f27c94c3d5a1cc3c0?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 06 |
+| ↳ | **[Siting and Land Rights Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6a9e543edacf777321a91822?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 06 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Community Engagement Intern (Fall 2026)](https://jobright.ai/jobs/info/6a550dd9ae07d60a8d00e7f6?utm_campaign=1056&utm_source=git)** | Silver Spring, MD, United States | Hybrid | Sep 06 |
 | ↳ | **[Health Team Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5ecf0127bf767ea68f8be6?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
 | ↳ | **[Resource Development and Grants Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5f7f3433ef5c58b4ffe317?utm_campaign=1056&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 06 |
@@ -70,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Research Group - Junior Intern](https://jobright.ai/jobs/info/6a965417cabc9f6703e1d039?utm_campaign=1056&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Grants Internship](https://jobright.ai/jobs/info/6a7f0d01e2030208f276b941?utm_campaign=1056&utm_source=git)** | Bristol, CT, United States | On Site | Sep 05 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Strategy & Economy - 2027](https://jobright.ai/jobs/info/6a9322df36036300991980d7?utm_campaign=1056&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 05 |
-| **[HNTB](http://www.hntb.com/)** | **[Environmental & Public Involvement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9b5fc12cdc5958f53ec293?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
+| **[HNTB](http://www.hntb.com/)** | **[Environmental & Public Involvement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9b5bc1d5ff1f3f1c39ee96?utm_campaign=1056&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 External Affairs Internship](https://jobright.ai/jobs/info/6a9b0791d5ff1f3f1c39d475?utm_campaign=1056&utm_source=git)** | Columbus, OH, United States | On Site | Sep 04 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[OVERDOSE DATA TO ACTION EVALUATION INTERN](https://jobright.ai/jobs/info/6a9b7efb2cdc5958f53ec798?utm_campaign=1056&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 04 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Transportation Planning Intern](https://jobright.ai/jobs/info/6a9aedc41388387060594b1b?utm_campaign=1056&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 04 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Boston Bar Association](http://www.bostonbar.org)** | **[Government Relations Legal Intern](https://jobright.ai/jobs/info/6a985d84def18223c854f0aa?utm_campaign=1056&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 02 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS- Child Welfare Specialist](https://jobright.ai/jobs/info/6a63b7158d53603449603dc1?utm_campaign=1056&utm_source=git)** | Rockford, IL, United States | On Site | Sep 02 |
 | **[City of South Bend](https://southbendin.gov/board/redevelopment-commission/)** | **[Intern - Common Council - S](https://jobright.ai/jobs/info/6a98555dc8ed473c5c7635f8?utm_campaign=1056&utm_source=git)** | South Bend, IN, United States | On Site | Sep 02 |
-| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a70703fd4735b7dbbcce77c?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 02 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Economic Development and Planning Intern](https://jobright.ai/jobs/info/6a984116def18223c854e445?utm_campaign=1056&utm_source=git)** | Ardmore, PA, United States | On Site | Sep 02 |
-| **[LAHC • Leaders Advancing & Helping Communities](https://lahc.org/)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/6a986c64af954907d6573410?utm_campaign=1056&utm_source=git)** | Dearborn, MI, United States | On Site | Sep 02 |
+| **[Fellowship of Christian Athletes](http://www.fca.org)** | **[Intern](https://jobright.ai/jobs/info/6a5f3f3c33ef5c58b4ffd263?utm_campaign=1056&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
